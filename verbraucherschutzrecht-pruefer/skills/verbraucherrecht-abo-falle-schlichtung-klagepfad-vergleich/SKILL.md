@@ -3,11 +3,11 @@ name: verbraucherrecht-abo-falle-schlichtung-klagepfad-vergleich
 description: "Prüfer: Abo-Falle: Schlichtung wählen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Abo Falle Schlichtung Waehlen
+# Abo Falle Schlichtung Wählen
 
 ## Arbeitsbereich
 
-Spezialthema **Abo Falle Schlichtung Waehlen** im Verbraucherschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Abo Falle Schlichtung Wählen** im Verbraucherschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Abo Falle Schlichtung Waehlen** im Verbraucherschutzrecht. Der Sk
 
 ## Arbeitsauftrag
 
-Abo Falle Schlichtung Waehlen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Verbraucherschutzrecht allgemein: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Abo Falle Schlichtung Wählen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Verbraucherschutzrecht allgemein: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 
@@ -27,8 +27,22 @@ Abo Falle Schlichtung Waehlen wird nicht als abstraktes Schema beantwortet, sond
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 13 BGB` — Verbraucherbegriff.
+- `§ 14 BGB` — Unternehmerbegriff.
+- `§ 312c BGB` — Fernabsatzvertrag.
+- `§ 312d BGB` — Informationspflichten.
+- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
+- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
+- `§ 434 BGB` — Sachmangel.
+- `§ 475 BGB` — Verbrauchsgüterkauf.
+- `§ 477 BGB` — Beweislastumkehr.
+- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - BGB-Verbrauchervertragsrecht, Widerruf, digitale Produkte
 - UWG, UKlaG, VSBG, PAngV, Fernabsatz, E-Commerce
 - Produktsicherheit, Right to Repair, Gewährleistung

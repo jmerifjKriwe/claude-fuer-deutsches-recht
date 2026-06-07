@@ -20,17 +20,17 @@ Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestr
 ## Triage zu Beginn
 
 1. **Ist der Betroffene eindeutig auf dem Messfoto identifizierbar?** — Qualitaet des Fotos entscheidend; unklares Foto = Angriffspunkt.
-2. **Hat der Betroffene sich bereits als Fahrer identifiziert?** — Anhoerungsbogen, Polizeivermerk, sonstige Aussagen.
+2. **Hat der Betroffene sich bereits als Fahrer identifiziert?** — Anhörungsbogen, Polizeivermerk, sonstige Aussagen.
 3. **Ist die Halter-Auskunft (§ 31a StVG) bereits ergangen?** — Halter muss Auskunft geben; Fahrernennung ist freiwillig.
 4. **Ist eine Fahrtenbuchauflage drohendes Thema?** — § 31a StVG: wenn Fahrer nicht ermittelt werden kann, kann Halter Fahrtenbuch fuehren muessen.
-5. **Biometrischer Vergleich noetig?** — Sachverstaendiger wenn Foto-Identifikation streitig und fuer das Gericht nicht offenkundig.
+5. **Biometrischer Vergleich noetig?** — Sachverstaendiger wenn Foto-Identifikation streitig und für das Gericht nicht offenkundig.
 
 ## Zentrale Normen
 
 - **§ 55 Abs. 1 OWiG** — Betroffener muss nicht zur Sache aussagen; kein Zwang zur Fahrernennung
 - **§ 31a StVG** — Fahrtenbuchauflage: Halter, der Fahrerauskunft verweigert, kann Fahrtenbuchfuehrungs-Pflicht erhalten
 - **§ 163b StPO i.V.m. § 46 OWiG** — Identitaetsfeststellung durch Polizei; begrenzt auf Personalien
-- **§ 77 OWiG** — Beweisaufnahme: Sachverstaendiger fuer Lichtbild-Identifikation ist Beweisantrag
+- **§ 77 OWiG** — Beweisaufnahme: Sachverstaendiger für Lichtbild-Identifikation ist Beweisantrag
 - **Art. 6 Abs. 1 EMRK** — Recht auf faires Verfahren; keine Pflicht zur Selbstbelastung
 - **§ 261 StPO i.V.m. § 71 OWiG** — Freie Beweiswuerdigung; Richter darf Foto-Vergleich selbst vornehmen
 
@@ -66,7 +66,7 @@ Betroffener will nicht aussagen?
 □ Bildaufloesungnsstufe ausreichend?
 □ Keine Ueberstrahlung / Spiegelreflektion im Bild?
 □ Brillentraeger / Muetze / Maske als Identifikationshindernis?
-□ Vergleichsbild fuer biometrischen Abgleich vorhanden?
+□ Vergleichsbild für biometrischen Abgleich vorhanden?
 □ Mehrere Personen im Fahrzeug — richtige Person identifiziert?
 ```
 

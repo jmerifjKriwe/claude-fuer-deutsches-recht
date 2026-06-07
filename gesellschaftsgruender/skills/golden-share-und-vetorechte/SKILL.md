@@ -40,7 +40,7 @@ Klaere vor Gestaltung von Vetorechten:
 
 - **§ 3 II GmbHG** — Satzungsautonomie; Sonderrechte und Vorzugsklassen zulässig
 - **§ 47 GmbHG** — Beschlussfassung; Mehrheitsprinzip; Abweichung durch Satzung moeglich
-- **§ 47 IV GmbHG** — Stimmverbot bei Eigen-Interesse; gilt auch fuer Vetorechts-Inhaber
+- **§ 47 IV GmbHG** — Stimmverbot bei Eigen-Interesse; gilt auch für Vetorechts-Inhaber
 - **§ 15a InsO** — Insolvenzantragspflicht des GF; wird durch Gesellschafter-Veto nicht beseitigt
 - **§ 31 StaRUG** — Antrag auf Restrukturierungsverfahren; freiwillig; Veto-Klausel hier wirksam
 - **§§ 133, 157 BGB** — Auslegung von Satzungs-Vetoklauseln bei Streit
@@ -65,13 +65,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | SHA-Stimmverpflichtung ergaenzend? | § 242 BGB | Schuldrechtliche Sicherung bei Verstoss |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Schutzinteresse definieren:** Wen schuetzen wir (Gruender, Investor, Familie) und wovor?
 2. **Katalog der Veto-Themen festlegen:** Selektiv; maximal 5-8 klar definierte Anlaesse.
 3. **Satzungs-Klausel entwerfen:** Personenbezogen vs. anteilsbezogen; Erloesch-Klausel formulieren.
 4. **§ 15a InsO-Warnung einbauen:** Explizit im Vertrag und Erlaeuterungsprotokoll dokumentieren, dass Insolvenzantragspflicht des GF unberuehrt bleibt.
-5. **SHA-Stimmverpflichtung** als schuldrechtliche Ergaenzung: fuer Faelle, die satzungsmaessig nicht erfasst sind.
+5. **SHA-Stimmverpflichtung** als schuldrechtliche Ergaenzung: für Faelle, die satzungsmaessig nicht erfasst sind.
 6. **Notar-Beurkundung** der Satzungsaenderung (bei Verankerung in Satzung).
 7. **Monitoring:** Jaehrliche Pruefung ob Veto-Klausel noch zum Unternehmens-Stadium passt.
 

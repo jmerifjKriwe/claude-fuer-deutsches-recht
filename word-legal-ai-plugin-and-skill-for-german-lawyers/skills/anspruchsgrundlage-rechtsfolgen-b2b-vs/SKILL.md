@@ -21,7 +21,7 @@ Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von T
 
 Vertragliche Klauseln sind kleine Anspruchsgrundlagen. Sie folgen derselben Architektur wie das Gesetz: Wenn die Voraussetzungen vorliegen (Tatbestand), dann tritt die Rechtsfolge ein. Die saubere Trennung beider Teile ist Drafting-Grundpflicht.
 
-Dieser Skill operationalisiert die Wenn-Dann-Architektur fuer typische Vertragsklauseln: Maengelhaftung, Verzug, Kuendigungsfolgen, Schadensersatz, Aufrechnung. Er liefert das Schema und zeigt, wie Sie Mantelklauseln mit verschachtelten Bedingungen aufloesen.
+Dieser Skill operationalisiert die Wenn-Dann-Architektur für typische Vertragsklauseln: Maengelhaftung, Verzug, Kuendigungsfolgen, Schadensersatz, Aufrechnung. Er liefert das Schema und zeigt, wie Sie Mantelklauseln mit verschachtelten Bedingungen aufloesen.
 
 ## Eingaben
 
@@ -33,7 +33,7 @@ Dieser Skill operationalisiert die Wenn-Dann-Architektur fuer typische Vertragsk
 ## Rechtlicher und methodischer Rahmen
 
 - BGB-Anspruchsgrundlagenpruefung als Vorbild. Tatbestand und Rechtsfolge sind die zwei Saeulen jeder Norm.
-- § 280 Abs. 1 BGB: "Verletzt der Schuldner eine Pflicht aus dem Schuldverhaeltnis, so kann der Glaeubiger Ersatz des hierdurch entstehenden Schadens verlangen." Vorbild fuer Drafting.
+- § 280 Abs. 1 BGB: "Verletzt der Schuldner eine Pflicht aus dem Schuldverhaeltnis, so kann der Glaeubiger Ersatz des hierdurch entstehenden Schadens verlangen." Vorbild für Drafting.
 - § 281 BGB, § 286 BGB: Verzug und Schadensersatz statt der Leistung.
 - § 437 BGB, § 634 BGB: Rechte des Kaeufers und des Bestellers bei Mangel.
 - AGB-Recht: Klauselverbote § 308, § 309 BGB. Bei B2B § 307 BGB.
@@ -113,7 +113,7 @@ machung weiteren Verzugsschadens bleibt vorbehalten.
 Mit Wirksamwerden der Kuendigung sind bereits erbrachte Leistungen vom
 Besteller anteilig zu verguten. Der Lieferant gibt saemtliche zur
 Verfuegung gestellten Unterlagen, Daten und Geraete innerhalb von 14 Tagen
-zurueck. Geheimhaltungspflichten gemaess § 8 bleiben fuer zwei Jahre nach
+zurueck. Geheimhaltungspflichten gemaess § 8 bleiben für zwei Jahre nach
 Beendigung des Vertrages bestehen.
 ```
 
@@ -156,7 +156,7 @@ zu leisten sein, wobei die Hoehe sich nach billigem Ermessen richtet.
 
 ## Beispiel
 
-**Aufgabe:** Klausel fuer die ausserordentliche Kuendigung bei Pflichtverletzung des Lieferanten.
+**Aufgabe:** Klausel für die ausserordentliche Kuendigung bei Pflichtverletzung des Lieferanten.
 
 **Loesung:**
 

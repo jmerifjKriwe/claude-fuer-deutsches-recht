@@ -43,21 +43,21 @@ Klage ist nicht kostenlos. Sie zahlen einen Vorschuss an das Gericht; im Verlust
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Streitwert**: Geldwert des Streits — Basis fuer alle Kosten.
+- **Streitwert**: Geldwert des Streits — Basis für alle Kosten.
 - **Gerichtsgebuehr**: Gebuehr, die das Gericht erhebt; Hoehe nach GKG-Tabelle.
-- **Anwaltskosten**: Gebuehren des Anwalts nach RVG (Rechtsanwaltsvergütungsgesetz).
+- **Anwaltskosten**: Gebühren des Anwalts nach RVG (Rechtsanwaltsvergütungsgesetz).
 - **Auslagen**: Tatsaechlich entstandene Kosten (Sachverstaendiger, Reisekosten, Porto).
 
 ## Rechtsgrundlagen
 
 - **§ 3 ZPO, § 48 GKG** — Streitwert-Bestimmung.
 - **§ 12 GKG** — Vorschusspflicht.
-- **GKG-Anlage 1** — Gebuehrentabelle.
+- **GKG-Anlage 1** — Gebührentabelle.
 - **RVG-Anlage 1, § 13 RVG** — Anwaltsgebuehren-Tabelle.
 - **§ 91 ZPO** — Kostenfolge: Verlierer zahlt.
 - **§ 92 ZPO** — Bei Teilobsiegen Kosten quoteln.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Streitwert bestimmen
 
@@ -133,7 +133,7 @@ Wenn Sie gewinnen, koennen Sie die verausgabten Kosten von der Gegenseite festse
 
 - **GKG-Tabelle aktualisieren**: Die Beispiel-Zahlen oben sind Orientierungs-Werte. Verifizieren Sie ueber aktuelle GKG-Anlage 1.
 - **PKH-Antrag pruefen**: Wenn Sie sich Klage nicht leisten koennen, gibt es Prozesskostenhilfe. Skill `prozesskostenhilfe-pkh-114-zpo`.
-- **Teilklage erwaegen**: Wenn Streitwert hoch und Beweislage unsicher, koennen Sie Teilbetrag klagen — geringere Kosten, weniger Risiko. Aber: weitere Klage spaeter teurer, Verjaehrungs-Effekt.
+- **Teilklage erwaegen**: Wenn Streitwert hoch und Beweislage unsicher, koennen Sie Teilbetrag klagen — geringere Kosten, weniger Risiko. Aber: weitere Klage spaeter teurer, Verjährungs-Effekt.
 
 ## Typische Fehler
 
@@ -183,7 +183,7 @@ Wenn das Gericht muendliche Verhandlung anberaumt, erhalten Sie eine **Ladung** 
 - **§ 217 ZPO** — Ladungsfrist.
 - **§ 330, 331 ZPO** — Saeumnis-Folgen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ladung pruefen
 
@@ -297,7 +297,7 @@ Sie haben eine Klage eingereicht oder eine Klageerwiderung geschrieben. Jetzt ko
 - **Termin-Stichwort-Liste**: Eine selbst gemachte Liste mit den wichtigsten Themen, die Sie ansprechen wollen.
 - **Mitschreib-Block**: Ein Notizblock, auf dem Sie im Termin festhalten, was der Richter sagt und was die Gegenseite sagt.
 
-## Schritt-fuer-Schritt-Vorbereitung
+## Schritt-für-Schritt-Vorbereitung
 
 ### Schritt 1 — Akten-Ordner anlegen
 
@@ -388,7 +388,7 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 - **Akten-Ordner offen neben dem Geraet** — Sie koennen waehrend des Videos kurz reinschauen.
 - **Zweites Geraet (z.B. Tablet)** mit den wichtigsten PDFs offen — als Backup, wenn Sie schnell etwas zeigen sollen.
 - Stabile Internet-Verbindung.
-- Personalausweis fuer Identitaets-Pruefung griffbereit.
+- Personalausweis für Identitaets-Pruefung griffbereit.
 
 ## Worauf Sie besonders achten muessen
 
@@ -417,7 +417,7 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Termin-Vorbereitung ist Praxis-Konvention; die hier beschriebenen Akten-Methoden sind in der anwaltlichen Praxis Standard und auch fuer Selbstvertreter geeignet.
+Stand: 05/2026. Termin-Vorbereitung ist Praxis-Konvention; die hier beschriebenen Akten-Methoden sind in der anwaltlichen Praxis Standard und auch für Selbstvertreter geeignet.
 
 ## Qualitäts-Hardening
 

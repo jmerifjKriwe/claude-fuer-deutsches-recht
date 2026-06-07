@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-internal-investigation-aussenwirtschaft
-description: "Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung fuer freiwillige Offenlegung oder Verteidigung. Output: Investigation-Protokoll und Abschlussberichtsgliederung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung für freiwillige Offenlegung oder Verteidigung. Output: Investigation-Protokoll und Abschlussberichtsgliederung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interne Ermittlung bei Exportkontroll- und Sanktionsverstoss
 
 ## Arbeitsbereich
 
-Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung fuer freiwillige Offenlegung oder Verteidigung. Output: Investigation-Protokoll und Abschlussberichtsgliederung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung für freiwillige Offenlegung oder Verteidigung. Output: Investigation-Protokoll und Abschlussberichtsgliederung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -37,16 +37,16 @@ Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktion
 - **§ 22 Abs. 4 AWG**: Strafmilderung bei freiwilliger Offenlegung.
 - **§ 130 OWiG**: Aufsichtspflichtverletzung, Unternehmensgeldbuse.
 - **§ 97 StPO**: Beschlagnahmefreiheit anwaltlicher Unterlagen.
-- **§ 14 AWG**: Auskunftspflichten gegenueber Behoerden.
-- **DSGVO Art. 6**: Rechtsgrundlage fuer Mitarbeiterdatenzugriff bei Investigation.
+- **§ 14 AWG**: Auskunftspflichten gegenueber Behörden.
+- **DSGVO Art. 6**: Rechtsgrundlage für Mitarbeiterdatenzugriff bei Investigation.
 
 ## Pruef-Raster
 
 - [ ] Legal Hold umfasst alle relevanten Datenkategorien?
 - [ ] Untersuchungsauftrag schriftlich erteilt und Rahmen definiert?
-- [ ] Rechtsanwaltsprivileg fuer Investigation-Unterlagen sichergestellt?
+- [ ] Rechtsanwaltsprivileg für Investigation-Unterlagen sichergestellt?
 - [ ] Mitarbeiterbefragungen mit Belehrungsprotokoll durchgefuehrt?
-- [ ] Datenschutzrechtliche Grundlage fuer Datenzugriff geprueft?
+- [ ] Datenschutzrechtliche Grundlage für Datenzugriff geprueft?
 - [ ] Schadensquantifizierung vollstaendig und belegbar?
 - [ ] Abschlussbericht mit konkreter Empfehlung versehen?
 
@@ -54,14 +54,14 @@ Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktion
 
 - Legal Hold zu spaet eingeleitet; Beweise ueberschrieben oder Datenschutzloeschfristen abgelaufen.
 - Interne Mitarbeiter untersuchen sich selbst; Interessenkonflikt.
-- Investigation-Berichte ohne Anwaltsprivileg koennen von Behoerden beschlagnahmt werden.
+- Investigation-Berichte ohne Anwaltsprivileg koennen von Behörden beschlagnahmt werden.
 - Mitarbeiter ohne Belehrung ueber Aussageverweigerungsrecht befragt; spaetere Verwertungsprobleme.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -85,7 +85,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

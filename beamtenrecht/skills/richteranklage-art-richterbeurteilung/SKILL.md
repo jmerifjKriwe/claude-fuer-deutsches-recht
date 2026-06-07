@@ -1,13 +1,13 @@
 ---
 name: richteranklage-art-richterbeurteilung
-description: "Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen fuer ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richteranklage Art. 98 GG
 
 ## Arbeitsbereich
 
-Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen fuer ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrech
 
 ## 1. Zweck und Anwendungsfall
 
-Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selten, aber relevant fuer Verfahrensbeteiligte, die einen Bundesrichter wegen schwerwiegender Pflichtverstoesse aus dem Amt entfernt sehen wollen, oder fuer den betroffenen Richter zur Verteidigung.
+Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selten, aber relevant für Verfahrensbeteiligte, die einen Bundesrichter wegen schwerwiegender Pflichtverstoesse aus dem Amt entfernt sehen wollen, oder für den betroffenen Richter zur Verteidigung.
 
 ## 2. Eingaben
 
@@ -31,10 +31,10 @@ Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selt
 ## 3. Ablauf / Checkliste
 
 ### a) Tatbestand
-- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder ausser Amts gegen die Grundsaetze des Grundgesetzes oder gegen die verfassungsmaessige Ordnung verstoesst, kann das Bundesverfassungsgericht auf Antrag des Bundestages mit Zweidrittelmehrheit anordnen, dass der Richter in ein anderes Amt versetzt oder in den Ruhestand zu versetzen ist. Bei vorsaetzlichem Verstoss Entlassung.
+- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder ausser Amts gegen die Grundsaetze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung verstoesst, kann das Bundesverfassungsgericht auf Antrag des Bundestages mit Zweidrittelmehrheit anordnen, dass der Richter in ein anderes Amt versetzt oder in den Ruhestand zu versetzen ist. Bei vorsaetzlichem Verstoss Entlassung.
 
 ### b) Anwendung auf Landesrichter
-- Art. 98 Abs. 5 GG ermoeglicht analoge Vorschriften in den Laendern; landesrechtliche Vorschriften unterschiedlich.
+- Art. 98 Abs. 5 GG ermoeglicht analoge Vorschriften in den Ländern; landesrechtliche Vorschriften unterschiedlich.
 
 ### c) Antragsverfahren
 - Antrag durch den Bundestag (Bundesrichter).

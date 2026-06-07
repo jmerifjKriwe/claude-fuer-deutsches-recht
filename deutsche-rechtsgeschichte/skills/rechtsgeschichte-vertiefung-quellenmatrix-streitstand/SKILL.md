@@ -1,13 +1,30 @@
 ---
 name: rechtsgeschichte-vertiefung-quellenmatrix-streitstand
-description: "Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix für ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertiefung: Quellenmatrix
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix für ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -19,11 +36,11 @@ Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshis
 
 ## Worum es geht
 
-Die Quellenmatrix ist ein strukturiertes Rechercheinstrument fuer die rechtshistorische Arbeit. Sie erfasst fuer ein Thema: (1) Gesetzliche Primaerquellen (Normtexte mit Fundstelle), (2) Materialien (Motive, Protokolle, Parlamentsdebatten), (3) Rechtsprechung (Gerichte, Aktenzeichen, Fundort), (4) Sekundaerliteratur (Autor, Werk, Auflage, Seite), (5) Archivquellen (Bestand, Signatur). Ohne vollstaendige Quellenmatrix besteht die Gefahr von Blindzitaten und lueckenhafter Argumentation. Das Vertiefungs-Skill setzt diese Technik fuer ein konkretes rechtshistorisches Thema um.
+Die Quellenmatrix ist ein strukturiertes Rechercheinstrument für die rechtshistorische Arbeit. Sie erfasst für ein Thema: (1) Gesetzliche Primaerquellen (Normtexte mit Fundstelle), (2) Materialien (Motive, Protokolle, Parlamentsdebatten), (3) Rechtsprechung (Gerichte, Aktenzeichen, Fundort), (4) Sekundaerliteratur (Autor, Werk, Auflage, Seite), (5) Archivquellen (Bestand, Signatur). Ohne vollstaendige Quellenmatrix besteht die Gefahr von Blindzitaten und lueckenhafter Argumentation. Das Vertiefungs-Skill setzt diese Technik für ein konkretes rechtshistorisches Thema um.
 
 ## Kernnormen / Kernquellen
 
-- **Mugdan, Materialien BGB** (6 Bde., 1899): Normquellen fuer BGB-Recht
+- **Mugdan, Materialien BGB** (6 Bde., 1899): Normquellen für BGB-Recht
 - **ALEX/ÖNB**: Reichsgesetzblatt-Digitalisate als Normquellenarchiv
 - **documentArchiv.de**: Verfassungen und NS-Gesetze im Volltext
 - **MGH Digital**: Mittelalterliche Quellen im Volltext
@@ -32,9 +49,9 @@ Die Quellenmatrix ist ein strukturiertes Rechercheinstrument fuer die rechtshist
 ## Akteure und Institutionen
 
 - **Forschende und Praktizierende**: Nutzer der Quellenmatrix
-- **Archivare**: Erschliessung von Archivgut fuer die Matrix
+- **Archivare**: Erschliessung von Archivgut für die Matrix
 - **Bibliothekare**: Nachweis historischer Drucke und Editionen
-- **BVerfG**: Quellenmatrix-Nutzer fuer historische Verfassungsargumente
+- **BVerfG**: Quellenmatrix-Nutzer für historische Verfassungsargumente
 
 ## Typische Streitfragen / Forschungsfragen
 
@@ -54,8 +71,8 @@ Die Quellenmatrix ist ein strukturiertes Rechercheinstrument fuer die rechtshist
 
 ## Output
 
-- Vorlage fuer Quellenmatrix (Tabellenformat)
-- Beispiel-Matrix fuer das Thema BGB-Entstehung: alle 5 Quellenkategorien
+- Vorlage für Quellenmatrix (Tabellenformat)
+- Beispiel-Matrix für das Thema BGB-Entstehung: alle 5 Quellenkategorien
 - Checkliste: Vollstaendigkeitspruefu der Quellenmatrix
 
 ## Quellenregel

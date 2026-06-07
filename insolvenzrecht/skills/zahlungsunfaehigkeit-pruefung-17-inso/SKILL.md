@@ -283,7 +283,7 @@ Bevor losgelegt wird, klaere:
 1. **Liquiditaetsstatus erstellen?** Faellige und nicht zahlbare Verbindlichkeiten vs. liquide Mittel (Direct-Method).
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Zahlungsstockung oder ZU?** Zahlungsstockung: voruibergehend, Beseitigung absehbar. ZU: strukturell, keine Beseitigung ohne Aussenfinanzierung.
-4. **Datum festlegen?** Tag-genaue Bestimmung fuer Anfechtungsfristen §§ 130-133 InsO.
+4. **Datum festlegen?** Tag-genaue Bestimmung für Anfechtungsfristen §§ 130-133 InsO.
 5. **Antragspflicht?** § 15a InsO Frist 3 Wochen ab ZU-Eintritt.
 
 ## Output-Template ZU-Memo (Liquiditaetsstatus)

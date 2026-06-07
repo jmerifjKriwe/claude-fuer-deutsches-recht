@@ -32,14 +32,14 @@ Das Grundgesetz (GG) entstand unter dem Eindruck des NS-Unrechts und der WRV-Erf
 ## Akteure und Institutionen
 
 - **Konrad Adenauer** (1876-1967): Praesident des Parlamentarischen Rates
-- **Carlo Schmid** (1896-1979): SPD, massgeblich fuer Grundrechtskatalog
-- **Elisabeth Selbert** (1896-1986): Kaempferin fuer Art. 3 Abs. 2 GG (Gleichberechtigung)
+- **Carlo Schmid** (1896-1979): SPD, massgeblich für Grundrechtskatalog
+- **Elisabeth Selbert** (1896-1986): Kaempferin für Art. 3 Abs. 2 GG (Gleichberechtigung)
 - **Hermann von Mangoldt** (1895-1953): CDU, Vorsitzender des Hauptausschusses
 - **Theodor Heuss** (1884-1963): FDP, erster Bundespraesident
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. GG als Provisorium: War das Grundgesetz als vorlaeufige Verfassung konzipiert?
+1. GG als Provisorium: War das Grundgesetz als vorläufige Verfassung konzipiert?
 2. Ewigkeitsklausel Art. 79 Abs. 3: Was ist unveraenderbar? (BVerfGE 30, 1)
 3. Grundrechte und natuerliches Recht: Basiert Art. 1 GG auf Naturrecht?
 4. Parlamentarischer Rat und Alliierten-Einfluss: Wie frei war der Rat?
@@ -48,7 +48,7 @@ Das Grundgesetz (GG) entstand unter dem Eindruck des NS-Unrechts und der WRV-Erf
 ## Methodik
 
 - GG: gesetze-im-internet.de; Originaltext in BGBl. 1949, 1
-- Herrenchiemseer Entwurf: historische Edition; Jahrbuecher des oeffentlichen Rechts Bd. 1 (1951)
+- Herrenchiemseer Entwurf: historische Edition; Jahrbuecher des öffentlichen Rechts Bd. 1 (1951)
 - Parlamentarischer Rat Protokolle: historische Edition, Bundesarchiv
 - BVerfGE zur Ewigkeitsklausel: bverfg.de (BVerfGE 30, 1; BVerfGE 109, 279)
 
@@ -60,4 +60,4 @@ Das Grundgesetz (GG) entstand unter dem Eindruck des NS-Unrechts und der WRV-Erf
 
 ## Quellenregel
 
-GG: gesetze-im-internet.de; BGBl. 1949, 1 (Originalfassung). BVerfGE: bverfg.de. Parlamentarischer Rat Protokolle: historische Edition Bundesarchiv. Jahrbuch oeffentliches Recht Bd. 1 (1951) fuer Herrenchiemsee-Entwurf.
+GG: gesetze-im-internet.de; BGBl. 1949, 1 (Originalfassung). BVerfGE: bverfg.de. Parlamentarischer Rat Protokolle: historische Edition Bundesarchiv. Jahrbuch öffentliches Recht Bd. 1 (1951) für Herrenchiemsee-Entwurf.

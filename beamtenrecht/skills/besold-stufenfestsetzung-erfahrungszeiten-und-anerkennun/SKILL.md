@@ -19,7 +19,7 @@ Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung. Die Prüfung k
 
 ## Aufgabe
 
-Skill fuer Stufenfestsetzung nach Erfahrungszeiten — Anerkennung von Vorzeiten.
+Skill für Stufenfestsetzung nach Erfahrungszeiten — Anerkennung von Vorzeiten.
 
 ## Norm
 

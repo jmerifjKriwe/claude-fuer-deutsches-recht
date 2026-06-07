@@ -24,7 +24,7 @@ Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Che
 ## Triage zu Beginn
 1. Sind alle konfliktsrelevanten Informationen vorhanden: Gegenseite, Beteiligte, Rechtsgebiet, Aktenzeichen?
 2. Ist die anfragende Person oder die Gegenseite ein bekannter oder ehemaliger Mandant (auch Sozietaetsmitglieder pruefen)?
-3. Gibt es Anzeichen fuer einen Gesamtkonflikt (Sozietaet als Ganzes betroffen, § 3 Abs. 2 BORA)?
+3. Gibt es Anzeichen für einen Gesamtkonflikt (Sozietaet als Ganzes betroffen, § 3 Abs. 2 BORA)?
 4. Bei Interessenkonflikt: welche Konsequenz (Mandatsablehnug, Hinweis an Suchenden auf andere Kanzlei)?
 
 ## Aktuelle Rechtsprechung
@@ -32,7 +32,7 @@ Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Che
 
 ## Zentrale Normen
 - § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen
-- § 3 BORA — Konkretisierung des Interessenkonflikt-Verbots: gilt auch fuer ehemalige Mandanten und Sozietaetsmitglieder
+- § 3 BORA — Konkretisierung des Interessenkonflikt-Verbots: gilt auch für ehemalige Mandanten und Sozietaetsmitglieder
 - § 356 StGB — Parteiverrat: strafrechtliche Konsequenz bei gleichzeitiger Vertretung gegenlaeufiger Interessen
 - § 14 BRAO — Widerruf der Zulassung bei schwerwiegenden Berufsrechtsverletzungen
 

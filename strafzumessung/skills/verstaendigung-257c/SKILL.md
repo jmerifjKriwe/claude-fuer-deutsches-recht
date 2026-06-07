@@ -73,14 +73,14 @@ Die Verstaendigung erlaubt eine **prozessuale Einigung** ueber den Verfahrensaus
 | Adhaesionsvergleich-Hinweise | Schuldspruchverzicht |
 | TOA-Plaene | Faktisch verkapptes "Mass-Geschaeft" |
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Verstaendigungs-Eignung pruefen**:
  - Klare Schuldfrage oder zumindest klares Schuldgewicht?
- - Gestaendnis fuer Mandant tragbar?
+ - Gestaendnis für Mandant tragbar?
  - Risiken einer Hauptverhandlung ohne Verstaendigung?
 2. **Sondierung** mit Gericht und Staatsanwaltschaft, in der Regel im **Rechtsgespraech** vor Hauptverhandlung (Erkundigungsgespraech).
-3. **Strafrahmen** vorschlagen: realistische Ober- und Untergrenze; idealer Strafrahmen liegt unter 1 oder 2 Jahren fuer Bewaehrungsperspektive.
+3. **Strafrahmen** vorschlagen: realistische Ober- und Untergrenze; idealer Strafrahmen liegt unter 1 oder 2 Jahren für Bewaehrungsperspektive.
 4. **Mandanten-Belehrung** schriftlich dokumentieren:
  - Gestaendnis ist erforderlich.
  - Strafe liegt im genannten Rahmen, **kein** Punktwert.
@@ -92,7 +92,7 @@ Die Verstaendigung erlaubt eine **prozessuale Einigung** ueber den Verfahrensaus
  - Gestaendnis ablegen; in der Hauptverhandlung verlesen oder erklaert.
 6. **Nach Urteil**: Rechtsmittel pruefen; Verzicht nicht moeglich.
 
-## Schritt-fuer-Schritt-Anleitung (Staatsanwaltschaft)
+## Schritt-für-Schritt-Anleitung (Staatsanwaltschaft)
 
 - Strafrahmen-Vorschlag substantiieren.
 - Belehrungen mitprotokollieren.

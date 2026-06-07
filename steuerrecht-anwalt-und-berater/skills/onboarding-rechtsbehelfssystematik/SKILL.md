@@ -1,6 +1,6 @@
 ---
 name: onboarding-rechtsbehelfssystematik
-description: "Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf welcher Stufe welcher Rechtsbehelf zustaendig ist welche Frist gilt und welche Zwischenanordnungen verfuegbar sind. Anwendungsfall Berater muss bei Mandatsannahme strategisch entscheiden welche Verfahrenswege offen sind und welche Erfolgsaussicht sie haben. Behandelt Einspruch Klage Revision Nichtzulassungsbeschwerde Anhoerungsruege Verfassungsbeschwerde Vorlage an EuGH AdV einstweiliger Rechtsschutz. Output Entscheidungsbaum mit Wegweiser. Abgrenzung zu anw-einspruch-finanzamt fa-stu-finanzgerichtsklage-78-fgo und anw-aussetzung-vollziehung."
+description: "Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf welcher Stufe welcher Rechtsbehelf zuständig ist welche Frist gilt und welche Zwischenanordnungen verfuegbar sind. Anwendungsfall Berater muss bei Mandatsannahme strategisch entscheiden welche Verfahrenswege offen sind und welche Erfolgsaussicht sie haben. Behandelt Einspruch Klage Revision Nichtzulassungsbeschwerde Anhörungsruege Verfassungsbeschwerde Vorlage an EuGH AdV einstweiliger Rechtsschutz. Output Entscheidungsbaum mit Wegweiser. Abgrenzung zu anw-einspruch-finanzamt fa-stu-finanzgerichtsklage-78-fgo und anw-aussetzung-vollziehung."
 ---
 
 # Rechtsbehelfe im Steuerrecht — Systematik vom Einspruch bis zur Verfassungsbeschwerde
@@ -18,7 +18,7 @@ description: "Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf 
 3. Gibt es eine Einspruchsentscheidung — dann nur noch Klage § 47 FGO offen?
 4. Ist die Sache von grundsaetzlicher Bedeutung — Sprungklage § 45 FGO oder Musterverfahren § 363 Abs. 2 AO ueberlegen?
 5. Steht eine Verfassungsfrage im Raum — Vorlage § 100 GG oder Verfassungsbeschwerde nach Erschoepfung?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -27,7 +27,7 @@ description: "Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf 
 - **§ 46 FGO** — Untaetigkeitsklage nach sechs Monaten.
 - **§ 47 FGO** — Klagefrist ein Monat.
 - **§§ 115 116 FGO** — Revision Nichtzulassungsbeschwerde.
-- **§ 133a FGO** — Anhoerungsruege.
+- **§ 133a FGO** — Anhörungsruege.
 - **§§ 100 GG** — Konkrete Normenkontrolle.
 
 ## Aktuelle Rechtsprechung

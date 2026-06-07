@@ -1,13 +1,13 @@
 ---
 name: verfahrensgang-referentenentwurf-bis-bundestag
-description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Laender- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Länder- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Verfahrensgang Referentenentwurf bis Bundestag
 
 ## Arbeitsbereich
 
-Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Laender- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Länder- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,12 +19,12 @@ Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referente
 
 ## Worum geht es konkret
 
-Skill, der den vollstaendigen Lebenszyklus eines Bundesvorhabens entlang der NKR-Andockpunkte darstellt. Pflichtlektuere fuer jeden neuen NKR-Referenten und Pruefer.
+Skill, der den vollstaendigen Lebenszyklus eines Bundesvorhabens entlang der NKR-Andockpunkte darstellt. Pflichtlektuere für jeden neuen NKR-Referenten und Pruefer.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorgang ist zeitlich unklar verortet ("Wann hat der NKR welche Frist?")
-- Frist fuer NKR-Befassung steht im Streit mit Ressort
+- Frist für NKR-Befassung steht im Streit mit Ressort
 - Vorhaben kommt erst spaet aus dem parlamentarischen Verfahren zurueck (Aenderungsantrag)
 
 Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
@@ -34,11 +34,11 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 - **§ 4 NKRG** — Pruefungspflicht
 - **§ 62 GGO** — NKR-Beteiligung vor Kabinettsbefassung
 - **§ 45 GGO** — Erfuellungsaufwand-Darstellung in der Begruendung
-- **§ 47 GGO** — Beteiligung der Laender, Verbaende, Fachkreise
+- **§ 47 GGO** — Beteiligung der Länder, Verbaende, Fachkreise
 - **§ 70 GO BT, § 70a GO BT** — Bundestagsverfahren
 - **§ 26 GG, Art. 76, 77 GG** — Gesetzgebungsverfahren
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Phase 1 — Ressort-interne Vorbereitung
 
@@ -51,7 +51,7 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 - Ressort versendet Referentenentwurf
 - **NKR-Befassung beginnt** (Vorlage durch Federfuehrer)
 - Frist: meist 4 Wochen, in Eilfaellen kuerzer
-- Parallele Laender- und Verbaendeanhoerung (§ 47 GGO)
+- Parallele Länder- und Verbaendeanhoerung (§ 47 GGO)
 - NKR-Vorpruefung: Methodik, Vollstaendigkeit, Plausibilitaet
 
 ### Phase 3 — Ressortabstimmung
@@ -75,8 +75,8 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 ### Phase 6 — Bundestag
 
 - Erste Lesung
-- Federfuehrender Ausschuss; Anhoerung
-- **NKR kann zur Anhoerung geladen werden** (Skill `nkr-stellungnahme-zum-bundestag-anhoerung`)
+- Federfuehrender Ausschuss; Anhörung
+- **NKR kann zur Anhörung geladen werden** (Skill `nkr-stellungnahme-zum-bundestag-anhoerung`)
 - Aenderungsantraege: bei wesentlichen Aenderungen erneute NKR-Befassung?
 - Zweite und dritte Lesung; Abstimmung
 
@@ -104,7 +104,7 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 | Referentenentwurf | Vorpruefung, Erstberatung | 4 Wochen |
 | Ressortabstimmung | Nachfrage Daten | 1 Woche |
 | Vor Kabinett | Foermliche Stellungnahme | spaetestens 1 Woche vor Kabinett |
-| Bundestag | ggf. Anhoerung | Ad hoc |
+| Bundestag | ggf. Anhörung | Ad hoc |
 | Wesentliche Aenderung | Nachpruefung | je nach Umfang |
 
 ## Mustertexte / Stellungnahme-Bausteine

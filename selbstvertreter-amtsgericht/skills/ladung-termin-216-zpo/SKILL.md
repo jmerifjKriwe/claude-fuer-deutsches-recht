@@ -28,7 +28,7 @@ Wenn das Gericht muendliche Verhandlung anberaumt, erhalten Sie eine **Ladung** 
 - **§ 217 ZPO** — Ladungsfrist.
 - **§ 330, 331 ZPO** — Saeumnis-Folgen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ladung pruefen
 

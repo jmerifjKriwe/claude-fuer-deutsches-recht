@@ -5,6 +5,24 @@ description: "Familienrichter: Risikoampel, Gegenargumente und Verteidigungslini
 
 # Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
+- `§ 1360 BGB` — Familienunterhalt.
+- `§ 1565 Abs. 1 BGB` — Scheidung.
+- `§ 1570 BGB` — Betreuungsunterhalt.
+- `§ 1601 BGB` — Verwandtenunterhalt.
+- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
+- `§ 1671 BGB` — Sorgerechtsuebertragung.
+- `§ 1684 BGB` — Umgangsrecht.
+- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
+- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Spezialwissen: Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
 

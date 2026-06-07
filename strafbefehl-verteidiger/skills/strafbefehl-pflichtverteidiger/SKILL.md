@@ -31,8 +31,8 @@ Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendi
 - **§ 140 Abs. 2 StPO** — Faelle notwendiger Verteidigung: erhebliche Schwierigkeit, Unfaehigkeit zur Selbstverteidigung, Schwere des Vorwurfs
 - **§ 141 StPO** — Zeitpunkt der Bestellung; auch auf Antrag des Beschuldigten
 - **§ 142 StPO** — Verfahren der Bestellung; Wunschverteidiger zu beruecksichtigen
-- **§ 143a StPO** — Ruecknahme der Bestellung; Auswechslung nur in Ausnahmefaellen
-- **Nr. 4100 ff. VV-RVG** — Gebuehren in Strafsachen; Verguerverguetungsanspruch des beigeordneten Anwalts gegen die Staatskasse
+- **§ 143a StPO** — Rücknahme der Bestellung; Auswechslung nur in Ausnahmefaellen
+- **Nr. 4100 ff. VV-RVG** — Gebühren in Strafsachen; Verguerverguetungsanspruch des beigeordneten Anwalts gegen die Staatskasse
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
@@ -71,13 +71,13 @@ Az.: [AKTENZEICHEN]
 
 Antrag auf Beiordnung als Pflichtverteidiger nach § 141 StPO
 
-Ich beantrage meine Beiordnung als Pflichtverteidiger fuer [NAME].
+Ich beantrage meine Beiordnung als Pflichtverteidiger für [NAME].
 
 Begruendung: [Einer der § 140-Gruende, z.B.: "Die Sach- und
 Rechtslage ist komplex, da [Beschreibung]. Der Angeklagte ist
 nicht in der Lage, sich selbst zu verteidigen."]
 
-Ich bin bereit, das Mandat zu den Pflichtverteidiger-Gebuehren
+Ich bin bereit, das Mandat zu den Pflichtverteidiger-Gebühren
 nach Nr. 4100 ff. VV-RVG zu uebernehmen.
 
 Mit freundlichen Gruessen [KANZLEI]
@@ -88,4 +88,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Pflichtverteidiger-Beiordnung nie verzoegern — bei notwendiger Verteidigung ohne Beiordnung = absoluter Revisionsgrund.
 - Wunschverteidiger des Mandanten beachten und § 142 Abs. 5 StPO beantragen.
 - Auswechslung nach § 143a StPO nur bei ernsthaftem Zerruettnis.
-- Gebuehrenanspruch gegen Staatskasse entsteht mit Beiordnung.
+- Gebührenanspruch gegen Staatskasse entsteht mit Beiordnung.

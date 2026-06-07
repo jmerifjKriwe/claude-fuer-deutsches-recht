@@ -27,7 +27,7 @@ EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/
 
 1. VO 833/2014 (konsolidiert) und VO 269/2014 aktuell abfragen (laufende Sanktionspakete).
 2. Guetersanktionskatalog (Anh. VII, XXIII, IV, XVIII etc.) mit KN-Code des Exporteurs abgleichen.
-3. No-Russia-Clause nach Art. 12g fuer Anh. XI/XX/XXXV-Gueter in Drittlandevertraegen pruefen.
+3. No-Russia-Clause nach Art. 12g für Anh. XI/XX/XXXV-Gueter in Drittlandevertraegen pruefen.
 4. Dienstleistungsverbote Art. 5n pruefen: IT, Rechts-, Buchhaltungs-, Steuerberatung.
 5. Umgehungsindizien pruefen: Routen ueber Drittlaender, ungewoehnliche Ziellaender, Red Flags.
 6. Altvertrag: Winddown-Ausnahme und Genehmigungspflicht beim BAFA pruefen.
@@ -47,7 +47,7 @@ EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/
 - [ ] Dienstleistungsvertrag auf Art. 5n-Verbot geprueft?
 - [ ] Umgehungsindizien und Red Flags ausgeschlossen?
 - [ ] Personenliste VO 269/2014 geprueft?
-- [ ] BAFA-Genehmigung fuer Altvertrags-Winddown beantragt?
+- [ ] BAFA-Genehmigung für Altvertrags-Winddown beantragt?
 
 ## Typische Fallstricke
 
@@ -60,7 +60,7 @@ EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

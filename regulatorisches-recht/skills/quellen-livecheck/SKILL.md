@@ -13,7 +13,7 @@ Dieser Quellen-Livecheck für **Regulatorisches Recht** trennt amtliche Normfass
 
 - `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `aufsichts-feed-monitor` — Aufsichts Feed Monitor
-- `aufsichtsverfahren-anhoerung-aufsichtsverfahren-gwg` — Aufsichtsverfahren Anhoerung Aufsichtsverfahren Gwg
+- `aufsichtsverfahren-anhoerung-aufsichtsverfahren-gwg` — Aufsichtsverfahren Anhörung Aufsichtsverfahren Gwg
 - `dora-ikt-vertragspruefung` — Dora Ikt Vertragspruefung
 - `enwg-feeds-heilmwerbg` — Enwg Feeds Heilmwerbg
 - `inkasso-massnahme-regulator` — Inkasso Massnahme Regulator

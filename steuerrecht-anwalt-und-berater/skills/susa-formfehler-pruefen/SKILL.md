@@ -13,7 +13,7 @@ description: "SuSa-Prüfung auf Formfehler Plausibilitaet und Differenzen. Anwen
 
 ## Kernsachverhalt
 
-Eine fehlerhafte SuSa ist Risiko fuer alle Folgeauswertungen — BWA, USt-VA, Jahresabschluss. Der Steuerberater muss die SuSa systematisch auf Plausibilitaet pruefen, bevor er sie verwendet. Typische Fehler: Pruefsumme-Differenz, ungewoehnliche Salden, USt-Inkonsistenz, offene Verrechnungskonten. Dieser Skill ist Pflicht-Checkliste fuer Sachbearbeiter und Berufstraeger.
+Eine fehlerhafte SuSa ist Risiko für alle Folgeauswertungen — BWA, USt-VA, Jahresabschluss. Der Steuerberater muss die SuSa systematisch auf Plausibilitaet pruefen, bevor er sie verwendet. Typische Fehler: Pruefsumme-Differenz, ungewoehnliche Salden, USt-Inkonsistenz, offene Verrechnungskonten. Dieser Skill ist Pflicht-Checkliste für Sachbearbeiter und Berufstraeger.
 
 ## Kaltstart-Rueckfragen
 
@@ -83,7 +83,7 @@ Eine fehlerhafte SuSa ist Risiko fuer alle Folgeauswertungen — BWA, USt-VA, Ja
 ### Phase 5 — Anlagenkonten und AfA
 
 - Anlagenkonten-Saldo (Klasse 0 SKR 03) gegen Buchwert im Anlagenspiegel pruefen.
-- AfA-Aufwandskonten (typisch SKR 03 4830 fuer Sachanlagen) gegen Summe der AfA aus dem Anlagenspiegel abstimmen.
+- AfA-Aufwandskonten (typisch SKR 03 4830 für Sachanlagen) gegen Summe der AfA aus dem Anlagenspiegel abstimmen.
 - Bei Zu- oder Abgaengen Anlagenspiegel synchronhalten.
 
 ### Phase 6 — Fehlerprotokoll und Korrektur

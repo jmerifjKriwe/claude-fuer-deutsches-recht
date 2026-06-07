@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form fuer Mandanteninformation Auftragsbestaetigung Sachstand Vergleich Zustimmung und Abschluss. Pinpoints BORA 11 unverzuegliche Information BRAO 49b Mandantenaufklaerung RVG 49b BGB 280 Schadensersatz aus Beratungsvertrag. Liefert E-Mail-Vorlagen mit Pflichtinhalten."
+description: "Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form für Mandanteninformation Auftragsbestaetigung Sachstand Vergleich Zustimmung und Abschluss. Pinpoints BORA 11 unverzuegliche Information BRAO 49b Mandantenaufklaerung RVG 49b BGB 280 Schadensersatz aus Beratungsvertrag. Liefert E-Mail-Vorlagen mit Pflichtinhalten."
 ---
 
 # Mandantenkommunikation
@@ -22,9 +22,9 @@ Maendel der Mandantenpflicht endet jedes Forderungsmandat in Aerger. Dieser Skil
 ## Pflicht-Hinweise
 
 - Risiko des Unterliegens Kostenfolge ZPO 91
-- Streitwertabhaengige Gebuehren RVG 13
-- Vorschusspflicht des Glaeubigers fuer Gerichtskosten GKG 12
-- Hemmungs- und Verjaehrungswirkung der Klageerhebung BGB 204
+- Streitwertabhaengige Gebühren RVG 13
+- Vorschusspflicht des Glaeubigers für Gerichtskosten GKG 12
+- Hemmungs- und Verjährungswirkung der Klageerhebung BGB 204
 
 ## E-Mail-Muster Mandantensachstand
 

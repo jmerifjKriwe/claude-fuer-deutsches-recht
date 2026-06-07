@@ -24,7 +24,7 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 3. Wurde ein behordliches Audit oder eine Ueberwachung angekuendigt?
 4. Wie gross ist das Unternehmen — Anzahl Anlagen, Produktionsstaetten, Mitarbeiter?
 5. Welche Schulungsthemen sind akut (TEHG, KrWG-Novelle, BImSchG-Aenderung, CSRD)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -43,7 +43,7 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -52,7 +52,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. **ISB-Pflicht**: § 53 BImSchG i.V.m. § 1 5. BImSchV — Anlage nach Anlage 1 Nr. 1-10 der 5. BImSchV; Genehmigung nach § 4 BImSchG.
 2. **ABfallbeauftragter**: § 59 KrWG i.V.m. § 1 AbfBeauftrV — Anlagen mit bestimmten Abfallmengen oder Betreiber von Entsorgungsanlagen.
 3. **Gewaesserschutzbeauftragter**: § 64 WHG — Direkteinleiter in Gewaesser.
-4. **Bestellung formal**: Schriftlich, Mitteilung an Behoerde, Fachkunde-Nachweise; interne Richtlinie.
+4. **Bestellung formal**: Schriftlich, Mitteilung an Behörde, Fachkunde-Nachweise; interne Richtlinie.
 5. **Freistellung OWiG**: § 130 OWiG — ohne funktionierende Compliance droht Verbandsbussgeld.
 
 ### B) Schulungsplan erstellen
@@ -60,7 +60,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. **Bedarfsanalyse**: Welche Rechtsgebiete betreffen Anlagen (BImSchG, KrWG, WHG, TEHG, BNatSchG)?
 2. **Jede Zielgruppe definieren**: Geschaeftsfuehrung (Haftung), ISB/Abfallbeauftragter (Fachkunde), Mitarbeiter (Praxis).
 3. **Schulungsplan**: Jährliche Pflichtschulung je Beauftragtenrolle; Ad-hoc-Schulung bei Gesetzesaenderung.
-4. **Dokumentation**: Teilnahmelisten, Schulungsunterlagen, Teilnehmerzertifikate (Pflicht fuer Fachkunde-Erhalt).
+4. **Dokumentation**: Teilnahmelisten, Schulungsunterlagen, Teilnehmerzertifikate (Pflicht für Fachkunde-Erhalt).
 5. **Audit-Vorbereitung**: Interne Revision vor behordlichem Audit; Mangelbeseitigung.
 
 ### C) Jahres-Audit-Checkliste (Kurzform)
@@ -83,8 +83,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Umwelt-Compliance-Schulungsplan erstellen | Schulungsplan nach Schema; Template unten |
-| Variante A — Schulung nur fuer Fuehrungskraefte nicht alle Mitarbeiter | Fuehrungsebenen-Schulung; vereinfachter Plan |
-| Variante B — Schulung als Reaktion auf Behoerden-Auflage | Auflagerungs-konforme Schulung; Nachweis-Dokumentation betonen |
+| Variante A — Schulung nur für Fuehrungskraefte nicht alle Mitarbeiter | Fuehrungsebenen-Schulung; vereinfachter Plan |
+| Variante B — Schulung als Reaktion auf Behörden-Auflage | Auflagerungs-konforme Schulung; Nachweis-Dokumentation betonen |
 | Variante C — Online-Schulung statt Praesenzseminar | Online-Variante des Plans; E-Learning-Formate einbinden |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -130,7 +130,7 @@ Protokoll-Pflicht: § 130 OWiG-Dokumentation
 3. AD-HOC SCHULUNGEN
 
 Trigger: Neue Gesetzgebung (z.B. KrWG-Novelle, TEHG-Aenderung), Bussgeld-Bescheid,
- Behoerden-Audit-Ankuendigung.
+ Behörden-Audit-Ankuendigung.
 Verantwortlich: [NAME COMPLIANCE-OFFICER]
 ```
 
@@ -140,7 +140,7 @@ Verantwortlich: [NAME COMPLIANCE-OFFICER]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

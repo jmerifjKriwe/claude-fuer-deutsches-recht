@@ -30,9 +30,9 @@ Bundestagskontakte sauber von Registrierungspflicht-Ausnahmen trennen.
 
 ## Leitfragen
 
-1. Geht es um persoenliche Interessen, Petition, oeffentliche Anhoerung oder Ersuchen um Sachinformation?
+1. Geht es um persönliche Interessen, Petition, öffentliche Anhörung oder Ersuchen um Sachinformation?
 2. Ist das Anliegen ausschliesslich lokal?
-3. Handelt eine Koerperschaft oeffentlichen Rechts oder ein Sozialpartner?
+3. Handelt eine Koerperschaft öffentlichen Rechts oder ein Sozialpartner?
 
 ## Ausnahmekatalog § 2 II LobbyRG (Bundestag)
 
@@ -67,7 +67,7 @@ Keine Interessenvertretung im Sinne des LobbyRG (und damit keine Registrierungsp
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 

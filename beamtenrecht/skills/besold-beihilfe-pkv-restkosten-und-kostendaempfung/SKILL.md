@@ -19,7 +19,7 @@ Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung. Die Prüfung konzentr
 
 ## Aufgabe
 
-Skill fuer Beihilfe und PKV-Erstattung bei Beamten — Restkosten und Kostendaempfung.
+Skill für Beihilfe und PKV-Erstattung bei Beamten — Restkosten und Kostendaempfung.
 
 ## Norm
 

@@ -44,7 +44,7 @@ ALR-Nachbarrecht und heutiger Fortwirkungscheck.
 
 ## Praxisempfehlung
 
-- ALR ist nur Hintergrund — fuer aktuelle Faelle gilt BGB und Landesnachbarrecht.
+- ALR ist nur Hintergrund — für aktuelle Faelle gilt BGB und Landesnachbarrecht.
 - Bei Alteintraegen im Grundbuch (Dienstbarkeit) kann ALR mittelbar greifen.
 
 ## Pruefraster

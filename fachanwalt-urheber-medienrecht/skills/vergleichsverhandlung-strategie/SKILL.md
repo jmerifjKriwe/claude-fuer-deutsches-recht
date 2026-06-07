@@ -69,7 +69,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Urheber Medie
 | "Kein Wiederverwenden" | Zukunftssicherheit; Fokus auf Unterlassung statt Schadensersatz |
 | "Veroeffentlichung aufheben" | Reputationsinteresse; Gegendarstellung als Mittel |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ```
 Schritt 1: Schadensposition berechnen

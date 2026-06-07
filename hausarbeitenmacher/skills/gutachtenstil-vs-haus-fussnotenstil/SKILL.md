@@ -1,13 +1,13 @@
 ---
 name: gutachtenstil-vs-haus-fussnotenstil
-description: "Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-fuer-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-für-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gutachtenstil und Urteilsstil
 
 ## Arbeitsbereich
 
-Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-fuer-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-für-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachten
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 313 Abs. 3 ZPO — Begruendungspflicht fuer Urteile: Urteilsstil als Vorbild fuer Schriftsaetze
+- § 313 Abs. 3 ZPO — Begruendungspflicht für Urteile: Urteilsstil als Vorbild für Schriftsaetze
 - § 276 ZPO — Grundsatz schriftlicher Begruendung: Gutachtenstil als Lerngrundlage
 - §§ 133, 157 BGB — Auslegung als methodisches Fundament der Subsumtion
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: Sachverhaltsbezug als Wahrheitspflicht
@@ -240,6 +240,6 @@ Lies Deinen Text laut. Wenn er
 
 ## Übergang zu
 
-- `subsumtion-schritt-fuer-schritt` — Subsumtions-Übung
+- `subsumtion-schritt-für-schritt` — Subsumtions-Übung
 - `gliederung-mit-tiefenstruktur` — Gliederung erstellen
 - `meinungsstreit-darstellen` — Bei Streit-Punkten

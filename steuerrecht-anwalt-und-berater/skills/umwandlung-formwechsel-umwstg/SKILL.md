@@ -14,11 +14,11 @@ description: "Systematische Einordnung von Umwandlungsvorgaengen nach Umwandlung
 ## Triage — kläre vor der Bearbeitung
 
 1. Welcher Umwandlungstyp liegt vor (Verschmelzung Spaltung Formwechsel Einbringung)?
-2. Sind die Voraussetzungen fuer Buchwertfortfuehrung erfuellt (Sicherstellung der Besteuerung im Inland)?
-3. Welche Sperrfristen sind zu beachten (§ 22 UmwStG fuer Einbringungen)?
+2. Sind die Voraussetzungen für Buchwertfortfuehrung erfuellt (Sicherstellung der Besteuerung im Inland)?
+3. Welche Sperrfristen sind zu beachten (§ 22 UmwStG für Einbringungen)?
 4. Wie wirkt sich der steuerliche Uebertragungsstichtag aus (Rueckwirkung § 2 UmwStG)?
 5. Was passiert mit Verlustvortraegen — Untergang § 12 Abs. 3 UmwStG iVm § 8c KStG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

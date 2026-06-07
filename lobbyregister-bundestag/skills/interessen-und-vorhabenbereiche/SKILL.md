@@ -19,7 +19,7 @@ Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen bre
 
 ## Einsatz
 
-Die Registerkategorien fuer Taetigkeitsfelder und Vorhabenbereiche vorbereiten.
+Die Registerkategorien für Taetigkeitsfelder und Vorhabenbereiche vorbereiten.
 
 ## Gefuehrter Ablauf
 
@@ -37,7 +37,7 @@ Die Registerkategorien fuer Taetigkeitsfelder und Vorhabenbereiche vorbereiten.
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 

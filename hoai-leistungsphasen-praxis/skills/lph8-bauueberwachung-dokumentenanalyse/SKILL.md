@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-dokumentenanalyse
-description: "Methodikskill HOAI LPH 8 — Strukturierter fuer Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion fuer Schlussrechnungspruefung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion für Schlussrechnungspruefung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Strukturierter fuer Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion fuer Schlussrechnungspruefung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion für Schlussrechnungspruefung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -40,7 +40,7 @@ Die Dokumentenanalyse ist das Rueckgrat des Nachweises ordnungsgemaesser Bau-aus
 
 - § 650p BGB, § 650q BGB: Architekten- und Ingenieurvertrag, Rechnungspruefungspflicht LPH 8
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Pruefung und Genehmigung von Unterlagen, Rechnungspruefung
-- VOB/C DIN 18299 Aufmassregeln: Allgemeine Regelungen alle Gewerke, masgeblich fuer Mengen- und Abrechnung
+- VOB/C DIN 18299 Aufmassregeln: Allgemeine Regelungen alle Gewerke, masgeblich für Mengen- und Abrechnung
 - DIN EN 10204:2005-01 Metallische Erzeugnisse Arten von Pruefbescheinigungen: Werksbescheinigung 3.1 und 3.2, Konformitaetsbescheinigung 2.1 und 2.2
 - VOB/B § 14 Abrechnung und § 16 Zahlung: Abschlagsrechnungen, Prueffristen 21 Tage, Einwendungen, Schlussrechnung
 - ATV DIN 18331 Betonarbeiten Regelfall 4: Aufmassregeln Betonvolumen mit und ohne Einbauten

@@ -14,7 +14,7 @@ Dieser Fehlerkatalog prüft im Bereich **Zwangsverwaltung Zvg** Ergebnisse vor A
 - `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `berichte-beschlagnahme-mietverwaltung-besitz`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `betriebskosten-hausgeld-bieterangebot-bewertung-glaeubiger`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bieterangebote-mieten-oeffentliche`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `bieterangebote-mieten-öffentliche`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `insolvenz-schnittstelle-instandhaltung-sicherung-zvg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `konten-kassenfuehrung-miet-pachtverwaltung-mieteinzug`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `quality-recherche-rechnungslegung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.

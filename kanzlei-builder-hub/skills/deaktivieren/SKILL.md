@@ -26,7 +26,7 @@ Erneutes Ausführen des Befehls mit demselben Skillnamen reaktiviert den Skill.
 ## Eingaben
 
 - Name des zu deaktivierenden (oder reaktivierenden) Community-Skills
-- Installationsprotokoll: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/installations-protokoll.yaml`
+- Installationsprotokoll: `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/installations-protokoll.yaml`
 
 ## Rechtlicher Rahmen
 

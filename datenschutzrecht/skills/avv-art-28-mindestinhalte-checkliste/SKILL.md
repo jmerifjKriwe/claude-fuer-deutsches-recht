@@ -1,13 +1,13 @@
 ---
 name: avv-art-28-mindestinhalte-checkliste
-description: "Vollstaendige Pflichtinhalte-Checkliste fuer einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet fuer das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-fuer-Klausel-Pruefraster."
+description: "Vollstaendige Pflichtinhalte-Checkliste für einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet für das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-für-Klausel-Pruefraster."
 ---
 
 # AVV-Mindestinhalte nach Art. 28 Abs. 3 DSGVO – Klauselcheckliste
 
 ## Zweck / Purpose
 
-Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel fuer Klausel mit Soll-Position, Fallback und Pruefkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
+Pflichtinhalte-Checkliste für Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel für Klausel mit Soll-Position, Fallback und Pruefkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
 
 ## Wann dieses Modul hilft
 
@@ -44,7 +44,7 @@ Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 
 
 **lit. d – Sub-Auftragsverarbeiter (Art. 28 Abs. 2 und Abs. 4 DSGVO).** Einsatz nur mit allgemeiner oder besonderer schriftlicher Genehmigung; bei allgemeiner Genehmigung Informationspflicht ueber geplanten Wechsel. Auditfrage: Aktuelle Liste vorhanden? Widerspruchsfrist angemessen?
 
-**lit. e – Unterstuetzung Betroffenenrechte (Art. 12 bis 23 DSGVO).** Geeignete technische und organisatorische Massnahmen, um Erfuellung der Betroffenenrechte zu unterstuetzen (Auskunft, Loeschung, Berichtigung, Datenuebertragbarkeit). Auditfrage: SLA fuer Betroffenenanfragen?
+**lit. e – Unterstuetzung Betroffenenrechte (Art. 12 bis 23 DSGVO).** Geeignete technische und organisatorische Massnahmen, um Erfuellung der Betroffenenrechte zu unterstuetzen (Auskunft, Loeschung, Berichtigung, Datenuebertragbarkeit). Auditfrage: SLA für Betroffenenanfragen?
 
 **lit. f – Unterstuetzung Art. 32 bis 36 DSGVO.** Unterstuetzung bei TOM, Meldepflicht (Art. 33 DSGVO), Benachrichtigung Betroffener (Art. 34 DSGVO), DSFA (Art. 35 DSGVO), Konsultation Aufsichtsbehoerde (Art. 36 DSGVO). Auditfrage: Meldewege definiert?
 
@@ -54,7 +54,7 @@ Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 
 
 ## Mustertext / Template
 
-Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
+Konsolidierte Pflichtklausel-Liste (Kurzform für Vertragsanlage):
 
 ```
 § X Pflichten des Auftragsverarbeiters
@@ -72,7 +72,7 @@ Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
 
 - Rahmenangaben fehlen oder sind zu allgemein ("Daten unserer Kunden").
 - lit. a wird auf "Vertragserfuellung" reduziert ohne Weisungsregister.
-- lit. b wird mit allgemeiner Geheimhaltungsklausel verwechselt; spezifische Vertraulichkeit fuer Verarbeitungsbefugte fehlt.
+- lit. b wird mit allgemeiner Geheimhaltungsklausel verwechselt; spezifische Vertraulichkeit für Verarbeitungsbefugte fehlt.
 - TOM-Anlage (lit. c) ist Marketingbroschuere statt konkrete Massnahmen.
 - lit. d laesst Sub-AV-Wechsel ohne Widerspruchsfrist zu.
 - lit. e ohne SLA und ohne Kostenregelung.

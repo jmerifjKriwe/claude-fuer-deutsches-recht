@@ -1,11 +1,11 @@
 ---
 name: bmf-steuerrecht-und-fiskalnormen
-description: "Sachbereich Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF: Normbestand (AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.); Akteure (BZSt; Finanzaemter der Laender; BFH; FG; juris-Finanzrechtsprechung.); EU-Bezug (MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung)."
+description: "Sachbereich Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF: Normbestand (AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.); Akteure (BZSt; Finanzaemter der Länder; BFH; FG; juris-Finanzrechtsprechung.); EU-Bezug (MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung)."
 ---
 
 # Steuerrecht und Fiskalnormen (BMF)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -22,9 +22,9 @@ Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verw
 
 ## Akteure und Aufsicht
 
-BZSt; Finanzaemter der Laender; BFH; FG; juris-Finanzrechtsprechung.
+BZSt; Finanzaemter der Länder; BFH; FG; juris-Finanzrechtsprechung.
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -36,7 +36,7 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 Norm zur Steuerart einordnen; Tatbestand und Rechtsfolge sauber fassen; Verfahrensbezug (AO und FGO); Aufkommensschaetzung; Aenderung der ESt-Tabellen; Schnittstelle zum Haushaltsrecht.
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -52,6 +52,23 @@ Rueckwirkungsverbot; Bestimmtheitsgebot bei steuerlichen Belastungen; EU-Beihilf
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Sachfeld-Kompass:
@@ -60,7 +77,7 @@ Sachfeld-Kompass:
 Sachfeld: Steuerrecht und Fiskalnormen
 Ressort: BMF
 Kernnormen: AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.
-Akteure/Aufsicht: BZSt; Finanzaemter der Laender; BFH; FG; juris-Finanzrechtsprechung.
+Akteure/Aufsicht: BZSt; Finanzaemter der Länder; BFH; FG; juris-Finanzrechtsprechung.
 EU/Voelkerrecht: MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.
 Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
 Stolpersteine: <Sachfeld-spezifisch>
@@ -75,7 +92,7 @@ Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

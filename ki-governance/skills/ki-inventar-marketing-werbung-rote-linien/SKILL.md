@@ -30,7 +30,7 @@ die eigentliche Obligationenanalyse erfolgt im Gespräch, nicht aus einer fest c
 
 ## Eingaben
 
-- Konfiguration aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md`
+- Konfiguration aus `~/.claude/plugins/config/claude-für-deutsches-recht/ki-governance/CLAUDE.md`
 - Bestehendes Inventar unter `ki-systeme.yaml` (gleicher Konfigurationspfad)
 - Systembeschreibung des Nutzers oder vorhandene Unterlagen (technische Dokumentation, Verträge)
 
@@ -293,9 +293,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Triage zu Beginn
 1. Ist das Inventar bereits vorhanden oder wird es neu angelegt?
 2. Welche Systeme sind bereits produktiv — und wurden diese nach KI-VO klassifiziert?
-3. Hat das Unternehmen EU-Nexus fuer jedes System (Betreiber/Anbieter in der EU)?
+3. Hat das Unternehmen EU-Nexus für jedes System (Betreiber/Anbieter in der EU)?
 4. Sind Hochrisiko-Systeme (Anhang III Nr. 1-8) im Inventar — welche Betreiberpflichten (Art. 26 KI-VO) greifen?
-5. Ist fuer jedes System ein Systemeigentuemer benannt?
+5. Ist für jedes System ein Systemeigentuemer benannt?
 
 ## Output-Template — KI-System-Inventar
 **Adressat:** KI-Governance-Verantwortlicher — Tonfall: strukturiert-tabellarisch

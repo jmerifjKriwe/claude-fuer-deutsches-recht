@@ -12,10 +12,10 @@ description: "Laienhilfe Krankenversicherungsschutz im Plugin Fachanwalt Sozialr
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-krankenversicherungsschutz` | Laienverstaendlicher Sozialrechts-Skill zu Krankenversicherungsschutz. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-merkzeichen` | Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-muendliche-verhandlung-sg` | Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-mutterschaft-elterngeld-schnittstelle` | Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-krankenversicherungsschutz` | Laienverstaendlicher Sozialrechts-Skill zu Krankenversicherungsschutz. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-merkzeichen` | Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-muendliche-verhandlung-sg` | Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-mutterschaft-elterngeld-schnittstelle` | Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ description: "Laienhilfe Krankenversicherungsschutz im Plugin Fachanwalt Sozialr
 
 ## 1. `laienhilfe-krankenversicherungsschutz`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Krankenversicherungsschutz. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Krankenversicherungsschutz. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Krankenversicherungsschutz
 
@@ -97,7 +97,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-merkzeichen`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Merkzeichen
 
@@ -159,14 +159,14 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 ## Merkzeichen - Themenspezifika
 - **Rechtsgrundlage:** § 229 SGB IX (Merkzeichen-Voraussetzungen); § 3 Schwerbehindertenausweisverordnung (SchwbAwV); VersorgungsmedizinV / VersorgungsmedizinG.
 - **Wichtige Merkzeichen mit Voraussetzungen und Vorteilen:**
- - **G (Gehbehinderung):** erhebliche Beeintraechtigung Bewegungsfaehigkeit im Strassenverkehr; in Behinderungsgrad-Massstaeben 50/50; Vorteil: oeffentlicher Nahverkehr unentgeltlich (mit Wertmarke EUR 91 / Jahr, ermaessigt EUR 46) bzw. KFZ-Steuerermaessigung 50 %.
+ - **G (Gehbehinderung):** erhebliche Beeintraechtigung Bewegungsfaehigkeit im Strassenverkehr; in Behinderungsgrad-Massstaeben 50/50; Vorteil: öffentlicher Nahverkehr unentgeltlich (mit Wertmarke EUR 91 / Jahr, ermaessigt EUR 46) bzw. KFZ-Steuerermaessigung 50 %.
  - **aG (aussergewoehnliche Gehbehinderung):** dauerhafte Mobilitaetseinschraenkung erheblich; Voraussetzung u. a. Querschnittlaehmung, beidseitige Beinamputation, doppelte Oberschenkelamputation, vergleichbare schwerere Faelle (VersMedV strenge BSG-Linie); Vorteil: Behindertenparkplatz; KFZ-Steuerbefreiung.
- - **B (Begleitperson):** Notwendigkeit staendiger Begleitung; Begleitperson reist im oeffentlichen Verkehr kostenlos mit.
+ - **B (Begleitperson):** Notwendigkeit staendiger Begleitung; Begleitperson reist im öffentlichen Verkehr kostenlos mit.
  - **H (Hilflosigkeit):** dauerhaft hilflos im taeglichen Leben (vergleichbar Pflegegrad 4-5); KFZ-Steuerbefreiung, hoehere Pauschbetraege.
  - **Bl (Blindheit):** mehr als 1/50 Sehkraft beidaeugig; Landesblindengeld; KFZ-Steuerbefreiung.
  - **Gl (Gehoerlosigkeit):** Hoer-/Sprachverlust seit dem Spracherwerb; Vorteil Telefonpauschale.
  - **RF (Rundfunkbeitragsbefreiung):** wegen Schwerbehinderung Teilhabe an Veranstaltungen ausgeschlossen.
- - **TBl (Taubblindheit):** Kombination Hoer- und Sehbehinderung; besondere Foerderungen.
+ - **TBl (Taubblindheit):** Kombination Hoer- und Sehbehinderung; besondere Förderungen.
 - **Versorgungsmedizinische Grundsaetze (VersMedV / Anlage 2):** Mindestkriterien je Merkzeichen; behandelnder Arzt mit konkreten Funktionsbefunden untermauern.
 - **Antrag / Widerspruch:**
  - **Antrag** beim Versorgungsamt; **Aenderungsantrag** bei Verschlechterung.
@@ -184,7 +184,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-muendliche-verhandlung-sg`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Muendliche Verhandlung Sg
 
@@ -253,7 +253,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-mutterschaft-elterngeld-schnittstelle`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Mutterschaft Elterngeld Schnittstelle
 

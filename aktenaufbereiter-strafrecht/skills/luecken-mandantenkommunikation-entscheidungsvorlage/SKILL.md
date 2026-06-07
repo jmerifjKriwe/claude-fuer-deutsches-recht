@@ -96,6 +96,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Beweisantraege § 244 StPO.
  - Verstaendigung § 257c StPO mit Korridor.
  - Gestaendnisbereitschaft.
- - Rechtsmittel-Einlegung / -Ruecknahme / -Verzicht (§ 302 StPO).
+ - Rechtsmittel-Einlegung / -Rücknahme / -Verzicht (§ 302 StPO).
  - Wiedereinsetzung § 44 StPO.
 - **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB: Mandanten-relevante Informationen nicht ohne Freigabe weitergeben.

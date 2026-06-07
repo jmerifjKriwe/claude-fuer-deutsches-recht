@@ -23,7 +23,7 @@ Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychia
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Die jaehrliche Budgetverhandlung legt fuer jede Klinik den Erloesrahmen fest. **DRG** (Diagnosis-Related Groups, Somatik) basiert auf KHEntgG, **PEPP** (Pauschalierendes Entgeltsystem Psychiatrie/Psychosomatik) auf BPflV. Beide Systeme laufen parallel, mit unterschiedlichen Daten, Fristen und Verhandlungspartnern.
+Die jaehrliche Budgetverhandlung legt für jede Klinik den Erloesrahmen fest. **DRG** (Diagnosis-Related Groups, Somatik) basiert auf KHEntgG, **PEPP** (Pauschalierendes Entgeltsystem Psychiatrie/Psychosomatik) auf BPflV. Beide Systeme laufen parallel, mit unterschiedlichen Daten, Fristen und Verhandlungspartnern.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Steht eine Budgetverhandlung 2026 oder Nachverhandlung 2025 an?
@@ -40,7 +40,7 @@ Die jaehrliche Budgetverhandlung legt fuer jede Klinik den Erloesrahmen fest. **
 - **PrEV/Pflegebudget-Vereinbarung** zu Pflegepersonalkosten.
 - **MD-Pruefungen** nach § 275c SGB V ergaenzen Abrechnung.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Abgrenzung pruefen:** Welche Bereiche fallen unter DRG (somatisch), welche unter PEPP (Psychiatrie, Psychosomatik)?
 2. **Datensaetze pruefen:** AEB (Aufstellung der Entgelte und Budgetberechnung), L-Datensatz (Leistungen), E1/E2/E3 (Erloese), Pflegebudget-Nachweis.
 3. **Mehrleistungen quantifizieren:** Casemix-Volumen, neue OPS, Mengenentwicklung, Vorhalte-Anteil.

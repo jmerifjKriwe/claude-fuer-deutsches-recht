@@ -26,6 +26,23 @@ Dieses Anschluss-Routing für **Forschungszulage Antragstellung** wählt nach de
 - `fz-bemessungsgrundlage-2026` — Fz Bemessungsgrundlage 2026
 - `fz-bescheidung-fz-bsfz-fz-dokumentationspaket` — Fz Bescheidung Fz Bsfz Fz Dokumentationspaket
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 FZulG` — Anspruchsberechtigung.
+- `§ 2 Abs. 1 FZulG` — begünstigte Forschungs- und Entwicklungsvorhaben.
+- `§ 3 FZulG` — förderfähige Aufwendungen und Bemessungsgrundlage.
+- `§ 4 FZulG` — Hoehe der Forschungszulage.
+- `§ 5 FZulG` — Antrag auf Forschungszulage.
+- `§ 6 FZulG` — Bescheinigung.
+- `§ 7 FZulG` — Kumulierung mit anderen Förderungen/Beihilfen.
+- `§ 10 FZulG` — Festsetzung und Leistung.
+- `§ 12 FZulG` — Anwendung der Abgabenordnung.
+- `§ 90 Abs. 1 AO` — Mitwirkung und Belegordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Ergebnis sichten: Welche Forschungszulage Antragstellung-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?

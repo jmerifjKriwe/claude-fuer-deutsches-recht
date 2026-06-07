@@ -38,7 +38,7 @@ welche Abschnitte welchem Instrument zugehören.
 
 ## Eingaben
 
-- Konfiguration aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md`
+- Konfiguration aus `~/.claude/plugins/config/claude-für-deutsches-recht/ki-governance/CLAUDE.md`
  (Hausformat Folgenabschätzung, Use-Case-Register, regulatorischer Fußabdruck)
 - Systembeschreibung oder Triage-Ergebnis
 - Seed-Folgenabschätzung (sofern im Setup übergeben)
@@ -431,7 +431,7 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 1. Liegt ein Hochrisiko-KI-System nach Art. 6 KI-VO i.V.m. Anhang III vor (Nr. 1-8)?
 2. Ist eine DSFA nach Art. 35 DSGVO erforderlich — automatisierte Entscheidung, Profiling, Art. 9-Daten?
 3. Sind personenbezogene Daten betroffen — verlassen sie den Perimeter an Drittanbieter-API?
-4. Handelt es sich um eine oeffentliche Stelle oder einen oeffentlich finanzierten Dienst (FRIA Art. 27 KI-VO)?
+4. Handelt es sich um eine öffentliche Stelle oder einen oeffentlich finanzierten Dienst (FRIA Art. 27 KI-VO)?
 5. Ist der Einsatz assistierend oder vollautomatisiert — Stempel-Risiko beim nominellen Human-Review?
 
 ## Output-Template — Folgenabschaetzungs-Zusammenfassung

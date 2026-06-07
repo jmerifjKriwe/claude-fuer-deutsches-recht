@@ -1,13 +1,13 @@
 ---
 name: bewaehrungswiderruf-56f-stgb
-description: "Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhoerungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhörungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bewaehrungswiderruf — § 56f StGB
 
 ## Arbeitsbereich
 
-Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhoerungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhörungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -79,7 +79,7 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 - Geldauflage nicht gezahlt: bei Zahlungsunfaehigkeit ist Widerruf unverhaeltnismaessig.
 - Gemeinnuetzige Arbeit nicht geleistet: Pruefung von Hinderungsgruenden.
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Akteneinsicht** § 147 StPO in die Bewaehrungsakte (Bewaehrungshelfer-Berichte, vorhaltliche Schreiben).
 2. **Tatsachenstand klaeren**: Welche konkreten Verstoesse werden vorgeworfen? Gibt es Belege?
@@ -88,14 +88,14 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
  - Bewaehrungszeit-Verlaengerung.
  - Therapieteilnahme aufnehmen.
  - Schadenswiedergutmachung nachholen.
-4. **Anhoerungstermin** (§ 453 StPO) gut vorbereiten:
+4. **Anhörungstermin** (§ 453 StPO) gut vorbereiten:
  - Mandant praesentieren: stabilisiert, lernfaehig.
  - Schriftliche Stellungnahme einreichen.
- - Beleg fuer aktuelle Lebenssituation.
+ - Beleg für aktuelle Lebenssituation.
 5. **Sofortige Beschwerde** nach § 453 Abs. 2 StPO i.V.m. § 311 StPO innerhalb einer **Woche** ab Zustellung.
 6. **Bei zweiter Verurteilung** in der Bewaehrungszeit: Pruefung, ob Gesamtstrafenbildung (§ 55 StGB) anstelle eines Widerrufs sinnvoll ist; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
 
-## Anhoerungstermin — typische Strategie
+## Anhörungstermin — typische Strategie
 
 - Schriftliche Eingabe vor dem Termin (Aktuelle Sozialdaten, Therapienachweis, Quittungen).
 - Mandant erscheint persoenlich und aeussert sich klar zur eigenen Situation.
@@ -103,7 +103,7 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 
 ## Typische Fehler
 
-- **Anhoerung versaeumt** oder rein formal abgewickelt: Verfahrensruege moeglich.
+- **Anhörung versaeumt** oder rein formal abgewickelt: Verfahrensruege moeglich.
 - **Mildere Massnahmen** wurden nicht gepruegt — Pflicht des Gerichts; Beschluss-Begruendung pruefen.
 - **Frist** der sofortigen Beschwerde versaeumt (1 Woche).
 - **Geldauflage**-Verstoss bei nachgewiesener Zahlungsunfaehigkeit: Widerruf unverhaeltnismaessig.

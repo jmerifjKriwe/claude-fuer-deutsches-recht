@@ -12,7 +12,7 @@ description: "Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und
 Dieser Skill analysiert einen eingegangenen E-Mail-Text systematisch auf emotionale Belastung, unsachliche Formulierungen und potenzielle berufsrechtliche Risiken. Er bildet die Grundlage für alle nachfolgenden Umformulierungsschritte.
 
 ## Triage zu Beginn
-1. Von wem stammt die E-Mail: Mandant, Gegner, gegnerischer Anwalt, Gericht, Behoerde oder Unbekannter?
+1. Von wem stammt die E-Mail: Mandant, Gegner, gegnerischer Anwalt, Gericht, Behörde oder Unbekannter?
 2. Was ist der sachliche Kern der E-Mail — unabhaengig vom Tonfall?
 3. Enthalt die E-Mail strafrechtlich relevante Aeusserungen (Beleidigung § 185 StGB, Bedrohung § 241 StGB)?
 4. Soll die E-Mail beantwortet, weitergeleitet oder dokumentiert werden?

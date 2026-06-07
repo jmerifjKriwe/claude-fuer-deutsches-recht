@@ -19,7 +19,7 @@ Geführter Gesamtmit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Akt
 
 ## Einsatz
 
-Nutzer Schritt fuer Schritt bis zu einem prueffaehigen Registereintrag fuehren.
+Nutzer Schritt für Schritt bis zu einem prueffaehigen Registereintrag fuehren.
 
 ## Gefuehrter Ablauf
 
@@ -39,7 +39,7 @@ Nutzer Schritt fuer Schritt bis zu einem prueffaehigen Registereintrag fuehren.
 1. **Pflichtentscheidung:** `interessenvertretung-begriff`, `adressatenkreis-bundestag-bundesregierung`, `registrierungspflicht-schwellen`, danach Ausnahmen.
 2. **Traeger und Personen:** `personen-organisationstyp`, `vertretungsberechtigte-personen`, `betraute-personen`, `drehtuer-angaben`.
 3. **Inhalt der Interessenvertretung:** `taetigkeitsbeschreibung`, `interessen-und-vorhabenbereiche`, `regelungsvorhaben-erfassen`, `stellungnahmen-gutachten-upload`.
-4. **Auftrag und Geld:** `auftraggeber-ermitteln`, `unterauftragnehmer-erfassen`, `finanzaufwendungen-berechnen`, `hauptfinanzierungsquellen`, `oeffentliche-zuwendungen`, `schenkungen-sponsoring`, `jahresabschluss-rechenschaftsbericht`.
+4. **Auftrag und Geld:** `auftraggeber-ermitteln`, `unterauftragnehmer-erfassen`, `finanzaufwendungen-berechnen`, `hauptfinanzierungsquellen`, `öffentliche-zuwendungen`, `schenkungen-sponsoring`, `jahresabschluss-rechenschaftsbericht`.
 5. **Portal und Freigabe:** `portal-account-rollen`, `erstregistrierung-ausfuellen`, `bestaetigungsdokument-freigabe`, `registereintrag-finalcheck`.
 6. **Betrieb:** `fristen-und-quartalsmonitor`, `aktualisierung-unverzueglich`, `geschaeftsjahresaktualisierung`, `verhaltenskodex-integritaet`, `dokumentationsakte-revisionsspur`.
 7. **Open Data und API:** `suche-open-data-monitor`, `benachrichtigungskonto-monitor`, Registerexport-Diff, Dublettencheck, API-Nachkontrolle und Watchlist.
@@ -51,13 +51,13 @@ Nutzer Schritt fuer Schritt bis zu einem prueffaehigen Registereintrag fuehren.
 - Stop, wenn Finanzdaten nicht auf ein Geschaeftsjahr und eine Methode zurueckgefuehrt werden koennen.
 - Stop, wenn die Freigabeperson nicht zur Rechtsform passt.
 - Stop, wenn ein Regelungsvorhaben bereits kontaktrelevant ist, aber im Register noch fehlt.
-- Stop, wenn die Nutzerin eine API-Einreichung erwartet, obwohl nur ein lesender Zugriff auf oeffentliche Registerdaten dokumentiert ist.
+- Stop, wenn die Nutzerin eine API-Einreichung erwartet, obwohl nur ein lesender Zugriff auf öffentliche Registerdaten dokumentiert ist.
 - Stop, wenn eine API-Abweichung rechtlich relevant sein kann und noch keine Portalaktion oder RfS-Anfrage definiert ist.
 
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 - Open Data/API: ../../references/open-data-api-v2.md

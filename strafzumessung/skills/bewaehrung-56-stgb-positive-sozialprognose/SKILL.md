@@ -19,7 +19,7 @@ Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen pos
 
 ## Worum geht es?
 
-§ 56 StGB ermoeglicht, Freiheitsstrafen unter zwei Jahren zur Bewaehrung auszusetzen. Es ist die zentrale Weiche fuer das spaetere Verhalten des Verurteilten und das wichtigste Verteidigungs-Ziel bei Freiheitsstrafen nahe der Bewaehrungsschwelle.
+§ 56 StGB ermoeglicht, Freiheitsstrafen unter zwei Jahren zur Bewaehrung auszusetzen. Es ist die zentrale Weiche für das spaetere Verhalten des Verurteilten und das wichtigste Verteidigungs-Ziel bei Freiheitsstrafen nahe der Bewaehrungsschwelle.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -72,7 +72,7 @@ Bei Strafe ueber 1 bis 2 Jahre. Erforderlich sind Umstaende, die das Gewicht der
 
 Restriktive Auslegung der st. Rspr.: Nicht jede mediale Empoerung; erforderlich sind besondere Tatumstaende, die das Vertrauen der Allgemeinheit in die Geltung der Rechtsordnung beruehren. **Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.**
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Strafmass-Schwelle** im Blick: Ziel 11 Monate oder 1 Jahr 11 Monate, je nach Konstellation.
 2. **Prognose-Vortrag** vorbereiten: Beweise und Beleg sammeln (Arbeitsvertrag, Mietvertrag, Therapiebescheinigung, Schulbestaetigung).
@@ -81,7 +81,7 @@ Restriktive Auslegung der st. Rspr.: Nicht jede mediale Empoerung; erforderlich 
 5. **Auflagenangebote** vorbereiten (Zahlung an gemeinnuetzige Einrichtung, Therapie, Wiedergutmachung); vgl. `bewaehrung-auflagen-und-weisungen-56b-c-stgb`.
 6. **Hilfsweise Reststrafenaussetzung** nach § 57 StGB ansprechen, falls Bewaehrung in erster Instanz nicht zugesprochen wird.
 
-## Schritt-fuer-Schritt-Anleitung (Anklage)
+## Schritt-für-Schritt-Anleitung (Anklage)
 
 - Bei Strafantrag ohne Bewaehrung: konkrete Begruendung, warum Sozialprognose negativ ist.
 - Bei Strafe ueber 1 Jahr und bis 2 Jahre Bewaehrung: konkrete Begruendung, warum keine besonderen Umstaende vorliegen.

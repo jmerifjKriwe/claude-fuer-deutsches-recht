@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Mandats-/Gesellschaftsprofil, Organigramm, Rollenmatrix und Eskalationskette.
@@ -105,13 +105,13 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Erste Anlaufstelle fuer alle Corporate/M&A-Fragen. Beantwortet Einstiegsfragen, erklaert Konzepte und leitet an die richtigen Fach-Skills weiter.
+Erste Anlaufstelle für alle Corporate/M&A-Fragen. Beantwortet Einstiegsfragen, erklaert Konzepte und leitet an die richtigen Fach-Skills weiter.
 
 ## Haeufige Erstfragen und kurze Antworten
 
 ### Was ist ein Share Deal vs. Asset Deal?
-- **Share Deal:** Kaeufer erwirbt Anteile der Gesellschaft. Alle Verbindlichkeiten gehen mit. Steuerneutral fuer Verkaefer (§ 8b KStG). GmbH: notariell (§ 15 GmbHG).
-- **Asset Deal:** Kaeufer erwirbt einzelne Wirtschaftsgueter. Verbindlichkeiten nur soweit vereinbart. § 613a BGB beachten. Steuerlich: AfA-Neustart moeglich fuer Kaeufer.
+- **Share Deal:** Kaeufer erwirbt Anteile der Gesellschaft. Alle Verbindlichkeiten gehen mit. Steuerneutral für Verkaefer (§ 8b KStG). GmbH: notariell (§ 15 GmbHG).
+- **Asset Deal:** Kaeufer erwirbt einzelne Wirtschaftsgueter. Verbindlichkeiten nur soweit vereinbart. § 613a BGB beachten. Steuerlich: AfA-Neustart moeglich für Kaeufer.
 
 ### Was ist eine MAC-Klausel?
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

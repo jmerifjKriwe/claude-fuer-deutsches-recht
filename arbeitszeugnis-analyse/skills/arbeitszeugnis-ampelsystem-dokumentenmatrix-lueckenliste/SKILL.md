@@ -5,6 +5,23 @@ description: "Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung im A
 
 # Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 611a Abs. 1 BGB` — Arbeitsvertrag und Weisungsbindung.
+- `§ 241 Abs. 2 BGB` — Rücksichtnahmepflichten.
+- `§ 626 Abs. 1 BGB` — fristlose Kuendigung.
+- `§ 1 Abs. 2 KSchG` — soziale Rechtfertigung.
+- `§ 4 Satz 1 KSchG` — Klagefrist.
+- `§ 7 KSchG` — Fiktionswirkung.
+- `§ 102 Abs. 1 BetrVG` — Betriebsratsanhoerung.
+- `§ 2 Abs. 1 NachwG` — Nachweis wesentlicher Arbeitsbedingungen.
+- `§ 46 Abs. 2 ArbGG` — ZPO-Anwendung im arbeitsgerichtlichen Verfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachlicher Anker
 
 - **Normen:** §§ 611a, §§ 1, §§ 14.

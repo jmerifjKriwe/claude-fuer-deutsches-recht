@@ -1,6 +1,6 @@
 ---
 name: waffen-drogen-schule
-description: "Prüft Verdachtsfälle, Durchsuchung, Ordnungsmaßnahme, Polizei und Prävention im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verdachtsfälle, Durchsuchung, Ordnungsmaßnahme, Polizei und Prävention im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Waffen, Drogen und Schule

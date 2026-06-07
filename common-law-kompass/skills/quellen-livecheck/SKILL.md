@@ -26,6 +26,23 @@ Dieser Quellen-Livecheck für **Common Law Kompass** trennt amtliche Normfassung
 - `remedies-damages-representations-warranties-simulation` — Remedies Damages Representations Warranties Simulation
 - `surety-guarantee-ucc-sales-us-vs` — Surety Guarantee Ucc Sales Us Vs
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Tragende Normen (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.

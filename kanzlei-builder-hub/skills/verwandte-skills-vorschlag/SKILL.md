@@ -6,7 +6,7 @@ description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: E
 # /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung
 
 ## Triage zu Beginn
-1. Welche Aufgabe wurde gerade abgeschlossen, fuer die eine Skill-Empfehlung relevant sein koennte?
+1. Welche Aufgabe wurde gerade abgeschlossen, für die eine Skill-Empfehlung relevant sein koennte?
 2. Ist die Benachrichtigungseinstellung im Kanzleiprofil auf 'alle', 'passend zum Profil' oder 'keine' gesetzt?
 3. Wurden die empfohlenen Skills bereits angesehen oder abgewiesen (Surfaced-Tracking beachten)?
 4. Verarbeitet der zu empfehlende Skill Mandantendaten (DSGVO-Hinweis erforderlich)?
@@ -30,7 +30,7 @@ Die Community könnte etwas gebaut haben, das Sie gerade selbst erstellen oder g
 ## Eingaben
 
 - Aufgabenbeschreibung (was der Nutzer gerade getan hat) — aus dem Kontext oder direkt
-- Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → Praxisprofil, installierte Skills (bereits installierte nicht vorschlagen), Benachrichtigungseinstellungen
+- Kanzleiprofil: `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → Praxisprofil, installierte Skills (bereits installierte nicht vorschlagen), Benachrichtigungseinstellungen
 - Registry-Cache aus `verzeichnis-durchsuchen`
 
 ## Ablauf
@@ -74,7 +74,7 @@ Denselben Skill nicht zweimal empfehlen. Wenn der Nutzer ihn beim ersten Mal nic
 
 ### Nutzersteuerung
 
-Gemäß `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → neue Skill-Benachrichtigungen:
+Gemäß `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → neue Skill-Benachrichtigungen:
 - **Alle:** Jede Übereinstimmung anzeigen
 - **Passend zum Profil:** Nach Profil filtern (Standard)
 - **Keine:** Dieser Skill ist deaktiviert — bei Aufruf sofort beenden

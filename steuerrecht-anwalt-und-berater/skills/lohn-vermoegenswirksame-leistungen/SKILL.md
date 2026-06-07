@@ -13,7 +13,7 @@ description: "Vermögenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendun
 
 ## Kernsachverhalt
 
-Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG fuer den AN auf ein VL-faehiges Sparkonto einzahlt. Hoehe und Vertragsgestaltung sind tariflich oder einzelvertraglich vereinbart. Bei Einkommens-Schwellenwerten kommt die AN-Sparzulage als staatliche Foerderung hinzu (5. VermBG). Die VL sind lohnsteuerpflichtig und SV-pflichtig — keine steuerliche Foerderung der AG-Leistung selbst.
+Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG für den AN auf ein VL-faehiges Sparkonto einzahlt. Hoehe und Vertragsgestaltung sind tariflich oder einzelvertraglich vereinbart. Bei Einkommens-Schwellenwerten kommt die AN-Sparzulage als staatliche Förderung hinzu (5. VermBG). Die VL sind lohnsteuerpflichtig und SV-pflichtig — keine steuerliche Förderung der AG-Leistung selbst.
 
 ## Kaltstart-Rueckfragen
 
@@ -22,8 +22,8 @@ Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG fuer den AN a
 3. Welche VL-Sparform — Bausparen, Aktien-Fonds, Banksparen?
 4. Welches Einkommen hat der AN (Sparzulage-Grenze)?
 5. Hat der AN bereits VL-Antrag bei Anlage-Institut gestellt?
-6. Bei verheirateten AN: Familienverhaeltnisse fuer Sparzulage-Grenze?
-7. Anzahl VL-Vertraege (max. 1 fuer Sparzulage)?
+6. Bei verheirateten AN: Familienverhaeltnisse für Sparzulage-Grenze?
+7. Anzahl VL-Vertraege (max. 1 für Sparzulage)?
 8. Welche Dauer (Sperrfrist 7 Jahre Standard)?
 
 ## Rechtlicher Rahmen
@@ -34,7 +34,7 @@ Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG fuer den AN a
 
 **§ 13 5. VermBG** — AN-Sparzulage (Anspruchsgrundlage; Saetze und Einkommensgrenzen in §§ 13, 14 5. VermBG; bei Gesetzesaenderung Norm-Bestand pruefen).
 
-**§ 19 EStG** — VL als Arbeitslohn (AG-Zuschuss ist steuerpflichtig; Foerderung ausschliesslich AN-seitig ueber Sparzulage).
+**§ 19 EStG** — VL als Arbeitslohn (AG-Zuschuss ist steuerpflichtig; Förderung ausschliesslich AN-seitig ueber Sparzulage).
 
 ### Verwaltungsanweisungen
 
@@ -86,13 +86,13 @@ Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG fuer den AN a
 ## Output
 
 - VL in Lohnabrechnung konfiguriert.
-- Sparzulage-Berechnung fuer Steuererklaerung.
+- Sparzulage-Berechnung für Steuererklaerung.
 - VL-Bescheinigung im Lohnordner.
 
 ## Strategie und Praxis-Tipps
 
 - VL ist KEINE steuerliche Sonderfoerderung des AG-Zuschusses — Zuschuss ist normaler Lohn.
-- Die staatliche Foerderung kommt ueber AN-Sparzulage (Einkommensabhaengig).
+- Die staatliche Förderung kommt ueber AN-Sparzulage (Einkommensabhaengig).
 - Bei Bauspar-VL und Aktien-VL beide Hoechstgrenzen separat (Doppelfoerderung max. 123 EUR/Jahr).
 - AN mit Einkommen ueber Grenzen: VL wirtschaftlich nur als zusaetzliches Sparen ohne staatliche Zulage.
 - StBVV: in Lohnpauschale.

@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Mandats-/Gesellschaftsprofil, Organigramm, Rollenmatrix und Eskalationskette.
@@ -145,14 +145,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Monitor | Datenquelle | Frequenz | Eskalationsschwelle | Owner |
 |---|---|---|---|---|
 | CP-Fristen | CP-Tracker | Taeglich | 2 Wochen vor Faelligkeit | PMO |
-| Kartellrecht Phase-I-Frist | Kalender + Behoerden-Kontakt | Woechentlich | 5 Werktage vor Ablauf | Regulatory |
+| Kartellrecht Phase-I-Frist | Kalender + Behörden-Kontakt | Woechentlich | 5 Werktage vor Ablauf | Regulatory |
 | FDI-Anmeldefrist (§ 56 AWV) | Signing-Datum + 2 Monate | Automatisch | Sofort bei 14 Tagen vor Frist | Legal |
 | Datenraum-Neuzugaenge | DR-Plattform API / E-Mail-Alert | Taegliche Zusammenfassung | Wenn Material-Dokument eingestellt | DD-Lead |
 | Gesellschafterlisten-Update | HR-System / Notar | Post-Closing | Bei Aenderung | Corporate-Lead |
 | Transparenzregister | Transparenzregister API | Quartalsweise | Bei Aenderung UBO | GwG-Officer |
 | MAR-Signal | Nachrichten-Feed + Bloomberg | Echtzeit (werktags) | Bei Kursrelevanz-Verdacht | Kapitalmarkt-Partner |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Monitor-Ziele festlegen** — welche Fristen, Dokumente, Signale; Owner definieren
 2. **Datenquellen verbinden** — DR-Plattform Alert, Kalender, Behorderenkontakt-Liste

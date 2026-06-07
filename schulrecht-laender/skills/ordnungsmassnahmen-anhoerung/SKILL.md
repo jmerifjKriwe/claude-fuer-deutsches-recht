@@ -1,9 +1,9 @@
 ---
 name: ordnungsmassnahmen-anhoerung
-description: "Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Ordnungsmaßnahmen Anhoerung
+# Ordnungsmaßnahmen Anhörung
 
 ## Arbeitsbereich
 
@@ -17,7 +17,7 @@ Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit. D
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Ordnungsmaßnahmen Anhoerung
+## Fachkern: Ordnungsmaßnahmen Anhörung
 - **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
 - **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
 
@@ -30,7 +30,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Spezialfokus
 
 - **Konkreter Auftrag:** Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit.
-- **Erste Trennlinie:** Ist das Problem wirklich Ordnungsmaßnahmen Anhoerung, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Erste Trennlinie:** Ist das Problem wirklich Ordnungsmaßnahmen Anhörung, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-klaeranlage-krankenhaus
-description: "Bauueberwachung HOAI LPH 8 fuer Klaeranlage-Becken mit Fokus auf Dichtigkeitspruefungen nach DIN EN 1610, WU-Beton nach DIN 1045-2 WU-Richtlinie 2017, Betonschutzanstriche gegen H2S-Angriff, Rissbreitenkartierung und Fugenband-Einbaukontrolle. Umfasst VOB/C-Abnahme, SAP-PM-Mangelverfolgung und Drohnen-Thermografie fuer Dichtigkeitskontrolle an Klaerbecken bis 50.000 EW im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Klaeranlage-Becken mit Fokus auf Dichtigkeitspruefungen nach DIN EN 1610, WU-Beton nach DIN 1045-2 WU-Richtlinie 2017, Betonschutzanstriche gegen H2S-Angriff, Rissbreitenkartierung und Fugenband-Einbaukontrolle. Umfasst VOB/C-Abnahme, SAP-PM-Mangelverfolgung und Drohnen-Thermografie für Dichtigkeitskontrolle an Klaerbecken bis 50.000 EW im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Klaeranlage Becken und Dichtigkeit
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Klaeranlage-Becken mit Fokus auf Dichtigkeitspruefungen nach DIN EN 1610, WU-Beton nach DIN 1045-2 WU-Richtlinie 2017, Betonschutzanstriche gegen H2S-Angriff, Rissbreitenkartierung und Fugenband-Einbaukontrolle. Umfasst VOB/C-Abnahme, SAP-PM-Mangelverfolgung und Drohnen-Thermografie fuer Dichtigkeitskontrolle an Klaerbecken bis 50.000 EW. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Klaeranlage-Becken mit Fokus auf Dichtigkeitspruefungen nach DIN EN 1610, WU-Beton nach DIN 1045-2 WU-Richtlinie 2017, Betonschutzanstriche gegen H2S-Angriff, Rissbreitenkartierung und Fugenband-Einbaukontrolle. Umfasst VOB/C-Abnahme, SAP-PM-Mangelverfolgung und Drohnen-Thermografie für Dichtigkeitskontrolle an Klaerbecken bis 50.000 EW. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -43,7 +43,7 @@ Klaerbecken zaehlen zu den am staerksten beanspruchten Stahlbetonbauwerken im ko
 - VOB/C DIN 18336 Abdichtungsarbeiten und DIN 18331 Betonarbeiten
 - DIN 1045-2 i.V.m. WU-Richtlinie DBV 2017: Weisse Wanne, Rissbreite w kleiner 0.2 mm bei Konzept A
 - DIN EN 1610:2015-12: Dichtheitspruefung Wasser- und Luftdruckverfahren Abwasserleitungen
-- DIN 1986-100 Entwasserungsanlagen fuer Gebaeude und Grundstuecke
+- DIN 1986-100 Entwasserungsanlagen für Gebaeude und Grundstuecke
 
 ## Prueferaster und Kontrollpunkte
 

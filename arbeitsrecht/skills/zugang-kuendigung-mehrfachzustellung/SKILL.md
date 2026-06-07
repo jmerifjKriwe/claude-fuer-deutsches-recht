@@ -32,7 +32,7 @@ description: "Zugang Kuendigung Mehrfachzustellung im Plugin Arbeitsrecht: prüf
 
 ## Aufgabe
 
-Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623 BGB.
+Skill für Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623 BGB.
 
 ## Schriftformerfordernis § 623 BGB
 
@@ -53,12 +53,12 @@ Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623
 - **§ 4 S. 1 KSchG laeuft NICHT an**, weil die Vorschrift ihrem Wortlaut nach nur eine **schriftliche** Kuendigung erfasst (BAG 22. Oktober 2015 - 2 AZR 720/14 Rn 23 ff.; BAG 17. Dezember 2015 - 6 AZR 709/14).
 - **Keine Heilung ueber § 7 KSchG** bei Formverstoss: Die Fiktionswirkung des § 7 KSchG setzt eine formwirksame schriftliche Kuendigung voraus; bei Nichtigkeit nach § 125 BGB iVm § 623 BGB greift sie nicht.
 - Der Arbeitnehmer kann den Fortbestand des Arbeitsverhaeltnisses jederzeit (vorbehaltlich Verwirkung) mit allgemeiner Feststellungsklage § 256 ZPO geltend machen, nicht nur mit Kuendigungsschutzklage § 4 KSchG.
-- Achtung Abgrenzung: Eine formwirksame, aber aus anderem Grund unwirksame Kuendigung (z.B. Sozialwidrigkeit, fehlende Anhoerung Betriebsrat) muss innerhalb von 3 Wochen mit Kuendigungsschutzklage angegriffen werden, sonst Fiktion § 7 KSchG.
+- Achtung Abgrenzung: Eine formwirksame, aber aus anderem Grund unwirksame Kuendigung (z.B. Sozialwidrigkeit, fehlende Anhörung Betriebsrat) muss innerhalb von 3 Wochen mit Kuendigungsschutzklage angegriffen werden, sonst Fiktion § 7 KSchG.
 
 ## Empfehlung
 
 - **Original-Brief mit eigenhaendiger Unterschrift** ist der einzig sichere Weg.
-- Zustellung per Bote oder persoenliche Uebergabe.
+- Zustellung per Bote oder persönliche Uebergabe.
 - Wenn elektronisch, dann nur als Vorab-Information; Original folgt.
 
 ## BAG-Linie
@@ -87,7 +87,7 @@ Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623
 
 ## Aufgabe
 
-Skill fuer Mehrfachzustellung der Kuendigung als Sicherheitskonzept gegen Beweisschwierigkeiten.
+Skill für Mehrfachzustellung der Kuendigung als Sicherheitskonzept gegen Beweisschwierigkeiten.
 
 ## Hintergrund
 
@@ -105,12 +105,12 @@ Wegen der hohen Beweislast (Arbeitgeber muss Zugang beweisen) und der 3-Wochen-F
 
 ### Kombi 3: Bote + Notar
 - Notar zustellt nach §§ 132-135 ZPO analog.
-- Beste Beweisqualitaet (oeffentliche Urkunde).
+- Beste Beweisqualitaet (öffentliche Urkunde).
 
 ## Risiko der Mehrfachzustellung
 
 - Mehrere Zugangszeitpunkte: massgeblich ist der FRUEHSTE wirksame Zugang.
-- Folge fuer Klagefrist: laeuft ab dem fruehsten Zugang.
+- Folge für Klagefrist: laeuft ab dem fruehsten Zugang.
 
 ## Praxistipps
 

@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache
-description: "Kanzlei oder Behoerde will juristischen Text für normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklärte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11 Leichte Sprache Behindertenrecht BITV 2.0. Prüfraster Satzlaenge Aktiv-Passiv-Balance Glossar Fristen-Sicherung Rechtsinhalt-Vollständigkeit. Output Einfache-Sprache-Version mit Erklärungen. Abgrenzung zu elsj-leichte-sprache (noch staerkere Vereinfachung B2/A2) und elsj-qualitaetsgate (Prüfung)."
+description: "Kanzlei oder Behörde will juristischen Text für normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklärte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11 Leichte Sprache Behindertenrecht BITV 2.0. Prüfraster Satzlaenge Aktiv-Passiv-Balance Glossar Fristen-Sicherung Rechtsinhalt-Vollständigkeit. Output Einfache-Sprache-Version mit Erklärungen. Abgrenzung zu elsj-leichte-sprache (noch staerkere Vereinfachung B2/A2) und elsj-qualitaetsgate (Prüfung)."
 ---
 
 # Einfache Sprache
@@ -18,7 +18,7 @@ verständlich werden soll, ohne die Standardsprache vollständig zu verlassen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 11 BGG — Barrierefreiheit von Bescheiden und oeffentlichen Dokumenten
+- § 11 BGG — Barrierefreiheit von Bescheiden und öffentlichen Dokumenten
 - § 9 EBV — Einfache Sprache in Bescheiden der Erbenberatung
 - § 242 BGB — Treu und Glauben als Grundlage des Transparenzgebots
 - BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung, Anhang 1 (Verstaendlichkeit digitaler Dokumente)
@@ -39,7 +39,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 [Sachverhalt ohne Fachjargon]
 
-# Was bedeutet das fuer Sie?
+# Was bedeutet das für Sie?
 
 [Rechtliche Konsequenzen in verstaendlichen Worten]
 
@@ -55,7 +55,7 @@ Wenn Sie nichts tun, dann: [Rechtsfolge kurz]
 
 # Schwere Woerter kurz erklaert
 
-- Widerspruch: Sie sagen der Behoerde, dass Sie nicht einverstanden sind.
+- Widerspruch: Sie sagen der Behörde, dass Sie nicht einverstanden sind.
 - Verjährung: Nach Ablauf dieser Frist koennen Sie nichts mehr verlangen.
 ```
 ## Ziel

@@ -57,7 +57,7 @@ Dieses Fachmodul trägt die wichtigste manuelle Prüfung: Kann man die Website o
 - Nutzerwirkung.
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
-- Prioritaet und Nachweis fuer die Dokumentation.
+- Prioritaet und Nachweis für die Dokumentation.
 
 ## Qualitäts-Hardening
 

@@ -1,13 +1,31 @@
 ---
 name: polizei-und-ordnungsamt-kommunikation
-description: "Wahlkampfrecht Praxis: robuste und freundliche Behoerdenkommunikation formulieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: robuste und freundliche Behördenkommunikation formulieren im Wahlkampfrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Polizei Und Ordnungsamt Kommunikation
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: robuste und freundliche Behoerdenkommunikation formulieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: robuste und freundliche Behördenkommunikation formulieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
+- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
+- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
+- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
+- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
+- `§ 49a BWahlG` — Ordnungswidrigkeiten.
+- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
+- `§ 25 PartG` — Spendenannahme und Spendenverbote.
+- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -19,7 +37,7 @@ Wahlkampfrecht Praxis: robuste und freundliche Behoerdenkommunikation formuliere
 
 ## Fachkern: Polizei Und Ordnungsamt Kommunikation
 
-- **Wahlkampflage (Polizei Und Ordnungsamt Kommunikation):** robuste und freundliche Behoerdenkommunikation formulieren.
+- **Wahlkampflage (Polizei Und Ordnungsamt Kommunikation):** robuste und freundliche Behördenkommunikation formulieren.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
@@ -46,7 +64,7 @@ Dokumentiert Ansprechpartner, Zusagen, Auflagen, Telefonate und Nachfassmails.
 
 ## Output
 
-Erzeuge: **Behoerdenkommunikationslog**. Wenn Informationen fehlen, stelle höchstens acht präzise Rückfragen und liefere anschließend eine vorläufige Ampel mit Annahmen.
+Erzeuge: **Behördenkommunikationslog**. Wenn Informationen fehlen, stelle höchstens acht präzise Rückfragen und liefere anschließend eine vorläufige Ampel mit Annahmen.
 
 ## Qualitätsgate
 

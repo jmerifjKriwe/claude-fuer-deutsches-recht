@@ -19,7 +19,7 @@ Beamtenrecht: Amtsangemessene Alimentation fünf Parameter. Die Prüfung konzent
 
 ## Aufgabe
 
-Skill fuer die amtsangemessene Alimentation und die echte BVerfG-Fuenf-Parameter-Pruefung erster Stufe samt Gesamtabwaegung zweiter Stufe.
+Skill für die amtsangemessene Alimentation und die echte BVerfG-Fuenf-Parameter-Pruefung erster Stufe samt Gesamtabwaegung zweiter Stufe.
 
 ## Norm
 
@@ -31,22 +31,22 @@ Skill fuer die amtsangemessene Alimentation und die echte BVerfG-Fuenf-Parameter
 
 Vergleichszeitraum: rueckblickend 15 Jahre. Schwellenwert: jeweils 5 Prozent Abweichung; bei drei von fuenf Parametern greift die **Vermutung der Unteralimentation**.
 
-1. **Tariflohnvergleich oeffentlicher Dienst**: Entwicklung der Besoldung im Vergleich zu TVoeD bzw. TV-L fuer vergleichbare Beschaeftigte.
+1. **Tariflohnvergleich öffentlicher Dienst**: Entwicklung der Besoldung im Vergleich zu TVoeD bzw. TV-L für vergleichbare Beschaeftigte.
 2. **Nominallohnindex** aller Beschaeftigten in Deutschland (Statistisches Bundesamt - Index der Nominalloehne und Bruttoverdienste).
 3. **Verbraucherpreisindex** (VPI Statistisches Bundesamt - Pruefung des Reallohnverlustes).
-4. **Systeminterner Besoldungsvergleich** (Abstand zwischen Besoldungsgruppen und Erfahrungsstufen; zusaetzlich Mindestabstandsgebot 15 Prozent zur sozialhilferechtlichen Grundsicherung fuer vierkoepfige Familie A 4 Endstufe nach BVerfGE 155 Rn 1).
-5. **Quervergleich zwischen Bund und Laendern** (Besoldung des in Frage stehenden Landes im Vergleich zu Bund und anderen Laendern).
+4. **Systeminterner Besoldungsvergleich** (Abstand zwischen Besoldungsgruppen und Erfahrungsstufen; zusaetzlich Mindestabstandsgebot 15 Prozent zur sozialhilferechtlichen Grundsicherung für vierkoepfige Familie A 4 Endstufe nach BVerfGE 155 Rn 1).
+5. **Quervergleich zwischen Bund und Ländern** (Besoldung des in Frage stehenden Landes im Vergleich zu Bund und anderen Ländern).
 
 ## Was NICHT Parameter erster Stufe ist
 
 - **Privatwirtschaftsvergleich** ist NICHT einer der fuenf Parameter erster Stufe. Das BVerfG verwendet ihn ausdruecklich nur als **Indiz auf der zweiten Pruefungsstufe** im Rahmen der Gesamtabwaegung (BVerfGE 139 Rn 117), nie als gleichberechtigten Parameter.
-- Wer Privatwirtschaft als Parameter 5 nennt, verwechselt erste und zweite Stufe und uebersieht den Quervergleich Bund-Laender.
+- Wer Privatwirtschaft als Parameter 5 nennt, verwechselt erste und zweite Stufe und uebersieht den Quervergleich Bund-Länder.
 
 ## Zweite Stufe: Gesamtabwaegung
 
 Auch wenn weniger als drei Parameter erster Stufe ueberschritten sind oder die Vermutung der Unteralimentation durch den Gesetzgeber widerlegt werden soll, ist eine Gesamtabwaegung erforderlich. Indizien zweiter Stufe (nicht abschliessend):
 
-- Qualitaetssicherung des oeffentlichen Dienstes und Attraktivitaet im Wettbewerb mit der Privatwirtschaft.
+- Qualitaetssicherung des öffentlichen Dienstes und Attraktivitaet im Wettbewerb mit der Privatwirtschaft.
 - Beihilfe und sonstige Alimentationskomponenten.
 - Sonderzahlungen, Familienzuschlag, Versorgung.
 - Belastung durch Kuerzungen von Sonderzuwendungen, Urlaubsgeld, Jubilaeumszuwendungen.
@@ -58,11 +58,11 @@ Auch wenn weniger als drei Parameter erster Stufe ueberschritten sind oder die V
 
 ## Pruefraster
 
-1. Tariflohn oeffentlicher Dienst (TVoeD/TV-L)?
+1. Tariflohn öffentlicher Dienst (TVoeD/TV-L)?
 2. Nominallohnindex (alle Beschaeftigten Deutschland)?
 3. Verbraucherpreisindex?
 4. Systeminterner Vergleich plus 15-Prozent-Mindestabstand zur Grundsicherung?
-5. Quervergleich Bund-Laender?
+5. Quervergleich Bund-Länder?
 6. Sind mindestens drei Parameter erster Stufe ueberschritten - Vermutung der Unteralimentation?
 7. Gesamtabwaegung zweiter Stufe (inkl. Privatwirtschaftsindiz, Beihilfe, Sonderzahlungen).
 8. Zeitnahe Geltendmachung im Haushaltsjahr erfolgt?

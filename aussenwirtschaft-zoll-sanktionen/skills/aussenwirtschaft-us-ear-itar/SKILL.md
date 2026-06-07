@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-us-ear-itar
-description: "US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken fuer EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken für EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # US-Exportkontrolle EAR und ITAR als Touchpoint im EU-Mandat
 
 ## Arbeitsbereich
 
-US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken fuer EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken für EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administratio
 ## Erste Schritte
 
 1. US-Ursprungsanteil des Produkts bestimmen: Technologie Software Ausruestung US-Herkunft?
-2. De-minimis-Schwelle pruefen (10 Prozent fuer CCL-Waren; 0 Prozent fuer Russland/China Militaer).
+2. De-minimis-Schwelle pruefen (10 Prozent für CCL-Waren; 0 Prozent für Russland/China Militaer).
 3. Foreign-Direct-Product-Rule (FDPR) auf Relevanz pruefen bei US-Produktionsausruestung.
 4. ITAR-Anwendbarkeit pruefen: US-Ruestungsgueter nach USML; Reexport-Genehmigung noetig?
 5. ECCN-Klassifizierung des Produkts anhand CCL (Commerce Control List) pruefen.
@@ -34,9 +34,9 @@ US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administratio
 
 ## Rechtsrahmen
 
-- **EAR 15 CFR Part 730-774**: US-Exportkontrolle fuer Dual-Use-Gueter.
-- **ITAR 22 CFR Parts 120-130**: US-Ruestungsguterkontrolle fuer USML-Produkte.
-- **EAR Part 734.4**: De-minimis-Schwellen fuer US-Ursprungsanteile.
+- **EAR 15 CFR Part 730-774**: US-Exportkontrolle für Dual-Use-Gueter.
+- **ITAR 22 CFR Parts 120-130**: US-Ruestungsguterkontrolle für USML-Produkte.
+- **EAR Part 734.4**: De-minimis-Schwellen für US-Ursprungsanteile.
 - **EAR Part 734.9**: Foreign-Direct-Product-Rule bei US-Technologieeinsatz.
 - **AWG § 1**: Abgrenzung des deutschen Rechts zu US-extraterritorialen Regelungen.
 
@@ -45,14 +45,14 @@ US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administratio
 - [ ] US-Ursprungsanteil quantifiziert?
 - [ ] De-minimis-Schwelle berechnet und dokumentiert?
 - [ ] Foreign-Direct-Product-Rule auf Relevanz geprueft?
-- [ ] ITAR-Anwendbarkeit fuer militaerische Produkte geprueft?
+- [ ] ITAR-Anwendbarkeit für militaerische Produkte geprueft?
 - [ ] ECCN-Klassifizierung anhand CCL durchgefuehrt?
 - [ ] US-Touchpoint-Vermerk als Risikomarker im Mandat gesetzt?
 
 ## Typische Fallstricke
 
 - FDPR greift auch bei EU-Produkten die mit US-Ausruestung hergestellt wurden.
-- De-minimis gilt nicht bei Gutern fuer Russland China Militaer; 0-Prozent-Schwelle beachten.
+- De-minimis gilt nicht bei Gutern für Russland China Militaer; 0-Prozent-Schwelle beachten.
 - ITAR verbietet jede Weitergabe ohne spezifische US-Genehmigung; kein EU-Pendant akzeptabel.
 - US-Re-Export-Controls koennen EU-Sanktionsausnahmen unterlaufen.
 
@@ -60,7 +60,7 @@ US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administratio
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

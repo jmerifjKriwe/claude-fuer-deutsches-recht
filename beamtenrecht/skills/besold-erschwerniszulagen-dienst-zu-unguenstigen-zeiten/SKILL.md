@@ -19,7 +19,7 @@ Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten. Die Prüfung kon
 
 ## Aufgabe
 
-Skill fuer Erschwerniszulagen — Wechselschicht, Nachtdienst, Wochenende.
+Skill für Erschwerniszulagen — Wechselschicht, Nachtdienst, Wochenende.
 
 ## Norm
 

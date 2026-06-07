@@ -29,7 +29,7 @@ Wenn Sie **ohne eigenes Verschulden** eine prozessuale Frist versaeumt haben (z.
 - **§ 236 ZPO** — Verfahren.
 - **§ 294 ZPO** — Glaubhaftmachung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Wiedereinsetzungs-faehig
 
@@ -83,7 +83,7 @@ Die Berufungsfrist gegen das Urteil vom
 [Datum] ist am [Datum] abgelaufen. Ich
 habe Berufung nicht fristgerecht eingelegt.
 
-II. Gruende fuer Wiedereinsetzung
+II. Gruende für Wiedereinsetzung
 
 Vom [Datum] bis [Datum] war ich aufgrund
 eines Verkehrsunfalls im Krankenhaus

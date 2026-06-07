@@ -19,7 +19,7 @@ Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill b
 
 ## Aufgabe
 
-Skill fuer die Stellung des magister bonorum und curator bonorum als historische Insolvenzverwalter.
+Skill für die Stellung des magister bonorum und curator bonorum als historische Insolvenzverwalter.
 
 ## Magister bonorum
 
@@ -39,7 +39,7 @@ Skill fuer die Stellung des magister bonorum und curator bonorum als historische
 
 - §§ 56 ff. InsO Bestellung durch Insolvenzgericht.
 - Verwaltungs- und Verfuegungsbefugnis § 80 InsO.
-- Klagebefugnis fuer Insolvenzanfechtung § 129 ff. InsO.
+- Klagebefugnis für Insolvenzanfechtung § 129 ff. InsO.
 - Strukturparallel zum curator bonorum.
 
 ## Vertretungsbefugnis

@@ -76,7 +76,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 - **Grenzgaengerregelung** Art. 15 Abs. 6 DBA-Oesterreich: Grenzzone 30 km Luftlinie beiderseits der Grenze; Wohnsitzstaat-Besteuerung, wenn Wohnort und Arbeitsort in der Grenzzone liegen und der Arbeitnehmer ueblicherweise dort taetig ist.
 - **Home-Office** ab 01.01.2024: Homeoffice-Tage in der Grenzzone des Wohnsitzstaats sind keine schaedlichen Tage mehr. Schaedlich bleiben Arbeitstage ausserhalb der Grenzzone (beider Staaten), sofern diese mehr als 45 Arbeitstage bzw. 20 Prozent der tatsaechlichen Arbeitstage im Kalenderjahr betragen (Konsultationsvereinbarung BMF, 20.12.2023).
-- **Pensionen**: in einigen Faellen Kassenstaatsprinzip (gesetzliche Renten an Beamte oeffentlicher Dienst); Privatpensionen ueberwiegend Wohnsitzstaat — **konkret pruefen**.
+- **Pensionen**: in einigen Faellen Kassenstaatsprinzip (gesetzliche Renten an Beamte öffentlicher Dienst); Privatpensionen ueberwiegend Wohnsitzstaat — **konkret pruefen**.
 - **Subject-to-Tax**: einzelne DBA-Klauseln, daneben § 50d Abs. 9 EStG.
 
 ## Workflow
@@ -119,7 +119,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 ## Strategie und Praxis-Tipps
 
 - Home-Office-Tage akribisch dokumentieren (Kalender, IT-Login-Logs) — Konsultationsvereinbarung dokumentiert Schwelle, deren Ueberschreitung Grenzgaengerstatus verlieren laesst.
-- Bei Pensionen aus oeffentlichem Dienst: Kassenstaatsprinzip beachten; Lehrer- und Beamtenpensionen oft Quellenstaat.
+- Bei Pensionen aus öffentlichem Dienst: Kassenstaatsprinzip beachten; Lehrer- und Beamtenpensionen oft Quellenstaat.
 - Schachtelbeteiligung: zusaetzlich Mutter-Tochter-Richtlinie und § 43b EStG pruefen — meist guenstiger als DBA-Quellensteuer.
 - Privatpensionen aus oesterreichischer Pensionsversicherung: regelmaessig Wohnsitzstaat — Verifizierung im DBA-Text.
 - Grenzgaenger Lohnsteuer-Abzug: deutscher Arbeitgeber muss Lohnsteuer abfuehren, oesterreichischer Wohnsitz Anrechnung im FA-Bescheid.
@@ -128,15 +128,15 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Erstattungsverfahren oesterreichische Quellensteuer (KESt)
 
-- **Zustaendigkeit oesterreichisch**: Erstattung oesterreichischer Kapitalertragsteuer durch das **Finanzamt fuer Grossbetriebe** in Wien (zuvor: Finanzamt Bruck Eisenstadt Oberwart fuer Auslaenderzustaendigkeit). Aktuelle Zustaendigkeit im **bmf.gv.at** und auf finanzonline.bmf.gv.at pruefen.
+- **Zuständigkeit oesterreichisch**: Erstattung oesterreichischer Kapitalertragsteuer durch das **Finanzamt für Grossbetriebe** in Wien (zuvor: Finanzamt Bruck Eisenstadt Oberwart für Auslaenderzuständigkeit). Aktuelle Zuständigkeit im **bmf.gv.at** und auf finanzonline.bmf.gv.at pruefen.
 - **Antragsformulare**: oesterreichische Formulare **ZS-RD1** (Rueckerstattung KESt) und **ZS-QU1** (Quellensteuerentlastung an der Quelle) — Bezeichnungen und Formulare vom Anwender mit aktuellem Stand auf bmf.gv.at zu verifizieren.
 - **Frist**: nach oesterreichischer BAO grundsaetzlich **fuenf Jahre** ab Veranlagungsjahr-Ablauf — laenger als in der Schweiz, aber nicht ueber Jahre liegen lassen.
 - **Bearbeitungsdauer**: 6-18 Monate Standard, bei Streubesitz haeufig schneller als bei Schachtel mit Substanzpruefung.
-- **Online-Portal**: **FinanzOnline** (finanzonline.bmf.gv.at) zentral fuer oesterreichische Steuerangelegenheiten — Zugang per ID-Austria oder Vollmacht oesterreichischer Berater.
+- **Online-Portal**: **FinanzOnline** (finanzonline.bmf.gv.at) zentral für oesterreichische Steuerangelegenheiten — Zugang per ID-Austria oder Vollmacht oesterreichischer Berater.
 
 ### Lokaler Steuerberater-Kontakt
 
-- **Empfehlung**: bei Schachteldividenden ueber 5 Mio. EUR; bei Pensionsfaellen mit Sozialversicherungsanrechnung; bei Holding-Substanzpruefung. Wiener Kanzleien mit DE-Mandanten-Erfahrung; KMU-Berater in Salzburg/Innsbruck fuer Pendlerfaelle.
+- **Empfehlung**: bei Schachteldividenden ueber 5 Mio. EUR; bei Pensionsfaellen mit Sozialversicherungsanrechnung; bei Holding-Substanzpruefung. Wiener Kanzleien mit DE-Mandanten-Erfahrung; KMU-Berater in Salzburg/Innsbruck für Pendlerfaelle.
 
 ### Sprache
 
@@ -155,7 +155,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 - **Grenzzone-Berechnung 30 km Luftlinie**: Wohnsitz oder Arbeitsort am Rand kann strittig sein — GIS-Tool (BMF stellt Online-Rechner zur Verfuegung) frueh nutzen.
 - **Home-Office vor 01.01.2024 vs. ab 01.01.2024**: aelteres Recht hatte Toleranzregelung mit max. 45 Tagen, jetzt sind Home-Office-Tage in der Grenzzone des Wohnsitzstaats **nicht mehr schaedlich**. Bei Veranlagungszeitraum-Wechsel sorgfaeltig pruefen.
 - **Salzburg-Pendler nach Freilassing**: klassischer Grenzgaenger-Fall — Wohnsitz Salzburg/AT, Arbeit Freilassing/DE — Grenzzone in beide Richtungen pruefen.
-- **Lehrerpensionen**: oeffentlicher Dienst Kassenstaat (oft AT), aber bei deutschem Wohnsitz DE-Steueranspruch via Anrechnung — Verstaendigungsverfahren bei Doppelbesteuerung pruefen.
+- **Lehrerpensionen**: öffentlicher Dienst Kassenstaat (oft AT), aber bei deutschem Wohnsitz DE-Steueranspruch via Anrechnung — Verstaendigungsverfahren bei Doppelbesteuerung pruefen.
 - **Doppelte Privatpension**: ASVG (gesetzlich) und Firmenpension koennen unterschiedlich klassifiziert sein.
 
 ## Berechnungsbeispiel — Grenzgaenger AT-Wohnsitz, DE-Arbeitgeber
@@ -174,7 +174,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 >
 > Schritt 1: EU-MTRL (§ 43b EStG) vorrangig: 0 Prozent Quellensteuer in AT — vorausgesetzt, deutsche Holding stellt vor Ausschuettung **Freistellungsbescheinigung** beim oesterreichischen FA (ZS-QU1).
 >
-> Schritt 2: Ohne vorherige Freistellung: 27,5 Prozent KESt-Einbehalt nach oesterreichischem Recht; Erstattung des Ueberhangs (27,5 Prozent minus DBA-Hoechstsatz 5 Prozent fuer Schachtel = 22,5 Prozent) ueber Antrag ZS-RD1 an oesterreichisches FA fuer Grossbetriebe.
+> Schritt 2: Ohne vorherige Freistellung: 27,5 Prozent KESt-Einbehalt nach oesterreichischem Recht; Erstattung des Ueberhangs (27,5 Prozent minus DBA-Hoechstsatz 5 Prozent für Schachtel = 22,5 Prozent) ueber Antrag ZS-RD1 an oesterreichisches FA für Grossbetriebe.
 >
 > Schritt 3: In DE: § 8b KStG 95 Prozent KSt-frei, 5 Prozent fiktive nichtabziehbare BA. Verbleibende 5 Prozent oesterreichische QSt (sofern nicht 0 nach MTRL) auf deutsche KSt teilweise anrechenbar.
 

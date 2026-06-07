@@ -21,8 +21,21 @@ Legalzession und Regress des Versicherers: Forderungsübergang, Quotenvorrecht, 
 
 Der Skill klärt, wer nach Regulierung gegen wen vorgehen darf und wie der Versicherungsnehmer seine Restansprüche schützt.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 VVG` — Versicherungsvertrag.
+- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
+- `§ 28 VVG` — Obliegenheitsverletzung.
+- `§ 86 VVG` — Legalzession.
+- `§ 100 VVG` — Haftpflichtversicherung.
+- `§ 115 VVG` — Direktanspruch.
+- `§ 193 VVG` — Krankenversicherungspflicht.
+- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
+- `§ 294 VAG` — Missstandsaufsicht.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 VVG § 86; BGB Abtretung/Gesamtschuld; SGB X § 116 bei Sozialversicherung; ZPO.
 
 ## Arbeitsfragen

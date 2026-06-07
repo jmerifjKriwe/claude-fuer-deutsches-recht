@@ -1,13 +1,13 @@
 ---
 name: kreuzfahrtschiff-risiko
-description: "Kreuzfahrtschiff: Gesamtrisikobewertung fuer Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreuzfahrtschiff: Gesamtrisikobewertung für Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kreuzfahrtschiff – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Kreuzfahrtschiff: Gesamtrisikobewertung fuer Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreuzfahrtschiff: Gesamtrisikobewertung für Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,20 +26,20 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Kreuzfahr
 3. Hauptrisiken identifizieren: Wertverfall; Reeder-Insolvenz; Vorrangglaeubigerrechte; Wrackpflicht.
 4. Handlungsoptionen mit Kosten-Nutzen-Analyse formulieren.
 5. Zeitkritische Massnahmen priorisieren: Arrest; Versicherungspruefung; ISM-Status.
-6. Empfehlungsmatrix fuer Entscheidungstraeger erstellen.
+6. Empfehlungsmatrix für Entscheidungstraeger erstellen.
 
 ## Rechtsrahmen
 - HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III; InsO §§ 49-51 Absonderung; WSG §§ 1-12 Wrackpflicht; ZPO §§ 864-871 Zwangsversteigerung.
 
 ## Prüfraster
-- Ist aktueller Schiffswert fuer Kreuzfahrtschiff oder grosses Fahrgastschiff dokumentiert?
+- Ist aktueller Schiffswert für Kreuzfahrtschiff oder grosses Fahrgastschiff dokumentiert?
 - Sind alle Vorrangglaeubigerrechte (gesetzliche Schiffsglaeubigerrechte) bekannt?
 - Ist Wrackbeseitigungs-Versicherungsdeckung bestaetigt?
 - Ist Insolvenzwahrscheinlichkeit des Reeders bewertet?
 - Sind Handlungsoptionen mit Zeitplan und Kosten aufgelistet?
 
 ## Typische Fallstricke
-- Schiffswertgutachten fuer Kreuzfahrtschiff oder grosses Fahrgastschiff veraltet; Marktpreise schwanken stark.
+- Schiffswertgutachten für Kreuzfahrtschiff oder grosses Fahrgastschiff veraltet; Marktpreise schwanken stark.
 - Memo ohne Priorisierung zeitkritischer Massnahmen fuehrt zu Untaetigkeit.
 - Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
 

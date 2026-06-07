@@ -27,7 +27,7 @@ Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 
 
 1. Sachverhalt vollstaendig rekonstruieren: Zeitraum betroffene Waren Verfahren und Beteiligte.
 2. Strafbarkeit einordnen: § 18 AWG (vorsaetzlicher Verstoss) oder Ordnungswidrigkeit (§ 19 AWG)?
-3. Selbstkorrektur-Option pruefen: § 22 Abs. 4 AWG fuer Exportkontrolle; § 22 ZollVG fuer Zoll.
+3. Selbstkorrektur-Option pruefen: § 22 Abs. 4 AWG für Exportkontrolle; § 22 ZollVG für Zoll.
 4. Schadenspotenzial quantifizieren: Zollnacherhebung Zinsen Bussgelder und moegliche Strafbarkeit.
 5. Anwalt und ggf. Steuerberater einschalten; Legal Hold einrichten.
 6. Selbstkorrektur-Schreiben mit vollstaendiger Offenlegung und Schadensbehebungskonzept vorbereiten.
@@ -60,7 +60,7 @@ Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Strafbarkeits-Risikobewertung mit Einordnung AWG/AO, Selbstkorrektur-Strategie mit Zeitplan und Muster-Offenlegungsschreiben fuer BAFA bzw. Hauptzollamt.
+Strafbarkeits-Risikobewertung mit Einordnung AWG/AO, Selbstkorrektur-Strategie mit Zeitplan und Muster-Offenlegungsschreiben für BAFA bzw. Hauptzollamt.
 
 ## Quellen
 

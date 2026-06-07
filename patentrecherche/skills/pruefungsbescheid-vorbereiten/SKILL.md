@@ -176,7 +176,7 @@ Mit freundlichen Grüßen
 Bevor die Antwort auf den Pruefungsbescheid formuliert wird, klaere:
 1. Welche Einwaende werden geltend gemacht — Neuheit, erfinderische Taetigkeit, mangelnde Klarheit (Art. 84 EPU/§ 34 PatG) oder Offenbarung (Art. 83 EPU/§ 35 PatG)?
 2. Laeuft die 4-Monats-EPA-Frist (verlängerbar um 2 Monate) noch, oder ist eine Fristverlängerung erforderlich?
-3. Wurden Hilfsantraege vorbereitet (abgestufter Schutzbereich fuer den Fall, dass Hauptantrag nicht haltbar)?
+3. Wurden Hilfsantraege vorbereitet (abgestufter Schutzbereich für den Fall, dass Hauptantrag nicht haltbar)?
 4. Sind alle in der Entgegenhaltung genannten Merkmale korrekt in der Anspruchsanalyse beruecksichtigt?
 
 ## Aktuelle Rechtsprechung

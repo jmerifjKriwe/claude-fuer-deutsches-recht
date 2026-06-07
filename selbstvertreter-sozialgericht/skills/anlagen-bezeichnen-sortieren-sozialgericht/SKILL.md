@@ -28,7 +28,7 @@ Sie haben viele Papiere als Beweis. Ordnen Sie diese. Nummerieren Sie sie. So fi
 
 - **Anlage**: Beilage zum Schriftsatz.
 - **Anlagenverzeichnis**: Liste aller Anlagen am Ende oder Anfang.
-- **K-Anlage / B-Anlage**: K fuer Klaeger, B fuer Beklagte.
+- **K-Anlage / B-Anlage**: K für Klaeger, B für Beklagte.
 - **Konvolut**: Mehrere zusammen geheftete Dokumente.
 
 ## Rechtsgrundlagen
@@ -37,19 +37,19 @@ Sie haben viele Papiere als Beweis. Ordnen Sie diese. Nummerieren Sie sie. So fi
 - **§ 93 SGG** — Abschriften.
 - Allgemeine Praxis der Sozialgerichtsbarkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was wirklich noetig?
 
 Nicht alles muss als Anlage rein. Nur das, was Ihren Vortrag belegt. Drei Kategorien:
 
-- **Muss**: Bescheid, Widerspruchsbescheid, eigene Schreiben an Behoerde.
+- **Muss**: Bescheid, Widerspruchsbescheid, eigene Schreiben an Behörde.
 - **Sollte**: Atteste, aerztliche Berichte, Kontoauszuege bei Geld-Sachen.
 - **Kann**: Allgemeines Informations-Material, Fotos der Wohnung etc. (selten noetig).
 
 ### Schritt 2 — Bezeichnung
 
-Bewaehrt: K1, K2, K3 fuer Klaeger-Anlagen. (Beklagte nutzt B1, B2 etc.)
+Bewaehrt: K1, K2, K3 für Klaeger-Anlagen. (Beklagte nutzt B1, B2 etc.)
 
 Beispiele:
 
@@ -104,7 +104,7 @@ Wenn das Gericht ein Original braucht (z.B. Original-Vollmacht), wird es ausdrue
 - **Lesbarkeit**: Kopien muessen lesbar sein. Bei verblassten Originalen vorher digital korrigieren.
 - **Personenbezogene Daten**: Was nicht zum Streit gehoert, schwaerzen Sie (z.B. Geburtsdatum von Familienmitgliedern).
 - **Datenschutz**: Bei Arztberichten anderer Personen schwaerzen.
-- **Aktuelle Bezeichnung**: Wenn die Behoerde umgewandelt wurde (z.B. MDK zu MD), kurz darauf hinweisen.
+- **Aktuelle Bezeichnung**: Wenn die Behörde umgewandelt wurde (z.B. MDK zu MD), kurz darauf hinweisen.
 
 ## Typische Fehler
 

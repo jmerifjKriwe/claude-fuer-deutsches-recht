@@ -1,6 +1,6 @@
 ---
 name: mittelstandsfreundlichkeit-kmu-test
-description: "KMU-Test (Small and Medium Enterprises Test) als Standardelement des NKR-Pruefrasters. Erklaert KMU-Definition Schwellenwerte differenzierte Aufwandsschaetzung und typische Entlastungsinstrumente (Ausnahmen Schwellen Uebergangsregelungen vereinfachte Verfahren). Mit Mustertabelle und Pruefchecklisten fuer die Stellungnahme."
+description: "KMU-Test (Small and Medium Enterprises Test) als Standardelement des NKR-Pruefrasters. Erklaert KMU-Definition Schwellenwerte differenzierte Aufwandsschaetzung und typische Entlastungsinstrumente (Ausnahmen Schwellen Uebergangsregelungen vereinfachte Verfahren). Mit Mustertabelle und Pruefchecklisten für die Stellungnahme."
 ---
 
 # NKR-Mittelstandsfreundlichkeit / KMU-Test
@@ -36,7 +36,7 @@ Rueckfrage nur wenn unklar: *"Welche Groessenklasse ist primaer betroffen?"*
 
 Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. KMU-Betroffenheit
 
@@ -46,7 +46,7 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 
 ### 2. Aufwand pro KMU
 
-- Aufwand pro Fall hoeher fuer KMU (weniger Skalierungseffekte)?
+- Aufwand pro Fall hoeher für KMU (weniger Skalierungseffekte)?
 - Faktor "KMU-Premium" einrechnen?
 
 ### 3. Differenzierungsmoeglichkeiten
@@ -60,7 +60,7 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 
 ### 4. Verhaeltnismaessigkeit
 
-- Steht der Aufwand fuer KMU in einem angemessenen Verhaeltnis zum erwarteten Nutzen ihrer Befolgung?
+- Steht der Aufwand für KMU in einem angemessenen Verhaeltnis zum erwarteten Nutzen ihrer Befolgung?
 
 ### 5. Begruendung
 
@@ -70,8 +70,8 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
 - Kein KMU-Test durchgefuehrt
-- Pauschale Pflicht fuer alle Groessenklassen
-- Aufwand fuer KMU nicht separat ausgewiesen
+- Pauschale Pflicht für alle Groessenklassen
+- Aufwand für KMU nicht separat ausgewiesen
 - Keine Differenzierungsalternativen geprueft
 - Begruendung "alle gleich behandeln" ohne Sachgrund
 
@@ -81,7 +81,7 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 |---|---|---|
 | Komplette Ausnahme | maximale Entlastung | Zielereichung leidet |
 | Schwellenwert | klare Abgrenzung | Stufeneffekte / Anreizverzerrung |
-| Vereinfachtes Verfahren | Entlastung bei Zielereichung | Mehraufwand fuer Behoerde |
+| Vereinfachtes Verfahren | Entlastung bei Zielereichung | Mehraufwand für Behörde |
 | Verlaengerte Frist | Investitionsschutz | spaetere Wirkung |
 | Geringere Sanktion | Verhaeltnismaessigkeit | Wirksamkeitsverlust |
 

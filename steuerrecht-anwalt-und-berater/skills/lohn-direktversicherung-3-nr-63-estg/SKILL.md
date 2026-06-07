@@ -13,7 +13,7 @@ description: "Direktversicherung Steuerfreiheit § 3 Nr 63 EStG bis 8 Prozent BB
 
 ## Kernsachverhalt
 
-Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst einen Versicherungsvertrag fuer den AN ab. Beitraege bis 8 Prozent der RV-BBG (West) sind steuerfrei (§ 3 Nr. 63 EStG), bis 4 Prozent BBG SV-frei. Beim AN reduziert sich das Bruttolohn um den Beitrag, in der Auszahlungsphase ist die Rente lohnsteuerpflichtig (nachgelagerte Besteuerung). Der Steuerberater konfiguriert die Direktversicherung in DATEV LODAS und prueft die Schwellen.
+Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst einen Versicherungsvertrag für den AN ab. Beitraege bis 8 Prozent der RV-BBG (West) sind steuerfrei (§ 3 Nr. 63 EStG), bis 4 Prozent BBG SV-frei. Beim AN reduziert sich das Bruttolohn um den Beitrag, in der Auszahlungsphase ist die Rente lohnsteuerpflichtig (nachgelagerte Besteuerung). Der Steuerberater konfiguriert die Direktversicherung in DATEV LODAS und prueft die Schwellen.
 
 ## Kaltstart-Rueckfragen
 
@@ -48,7 +48,7 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 
 ## Workflow
 
-### Phase 1 — Foerderungs-Grenzen
+### Phase 1 — Förderungs-Grenzen
 
 | Grenze | Wert (Stand 2025) | Wirkung |
 |---|---|---|
@@ -63,17 +63,17 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 ### Phase 2 — Vergleich Entgeltumwandlung vs. AG-Finanzierung
 
 - Entgeltumwandlung: AN-Beitrag aus Brutto; AG spart SV-Beitraege; § 1a BetrAVG 15-Prozent-Zuschuss-Pflicht.
-- AG-Finanzierung: zusaetzlich zum Lohn; volle Foerderung § 3 Nr. 63 EStG; § 100 EStG fuer Geringverdiener.
+- AG-Finanzierung: zusaetzlich zum Lohn; volle Förderung § 3 Nr. 63 EStG; § 100 EStG für Geringverdiener.
 
 ### Phase 3 — § 1a BetrAVG 15-Prozent-Zuschuss
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geltung Direktversicherung/Pensionskasse/Pensionsfonds (nicht Direktzusage).
-- Seit 2019; fuer Altvertraege bis Ende 2021 noch Uebergangsregelung; seit 2022 voll wirksam.
+- Seit 2019; für Altvertraege bis Ende 2021 noch Uebergangsregelung; seit 2022 voll wirksam.
 
 ### Phase 4 — Lohnabrechnung-Konfiguration
 
-- DATEV LODAS: Konto fuer Direktversicherung anlegen.
+- DATEV LODAS: Konto für Direktversicherung anlegen.
 - Beitrag aus Brutto reduzieren (Entgeltumwandlung) oder zusaetzlich (AG-Finanzierung).
 - LSt-frei bis 8 Prozent BBG.
 - SV-frei bis 4 Prozent BBG.
@@ -82,7 +82,7 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 ### Phase 5 — Auszahlungsphase
 
 - Rente lohnsteuerpflichtig (nachgelagerte Besteuerung) nach § 22 Nr. 5 EStG (Vertrag der bAV) bzw. § 19 EStG (bei Direktzusage / Unterstuetzungskasse).
-- KV/PV-Beitragspflicht in der KVdR (Freibetrag fuer Pflichtversicherte Rentner nach § 226 Abs. 2 SGB V; aktuellen Freibetrag ueber GKV-Spitzenverband pruefen).
+- KV/PV-Beitragspflicht in der KVdR (Freibetrag für Pflichtversicherte Rentner nach § 226 Abs. 2 SGB V; aktuellen Freibetrag ueber GKV-Spitzenverband pruefen).
 - Bei Kapitalauszahlung Sondertarif § 34 Abs. 2 Nr. 4 i.V.m. § 24 Nr. 1 EStG Fuenftel-Regel pruefen — Voraussetzung: Zusammenballung in einem Veranlagungszeitraum.
 
 ### Phase 6 — Bei Insolvenz

@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -149,10 +149,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Clean-Room-Informationen | Nur Clean-Team-Mitglieder erhalten Antwort | Mittel (Kartell) |
 | Steuer-Betriebspruefungs-Details | Nur mit Steuerberater abstimmen | Hoch |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Q&A-System in Datenraum einrichten** — Kategorisierung; automatische Eingangsbestaetigung
-2. **Fragenkatalog erfassen** — alle Fragen taeglich auflisten; Zustaendigkeit zuweisen
+2. **Fragenkatalog erfassen** — alle Fragen taeglich auflisten; Zuständigkeit zuweisen
 3. **Antworten entwerfen** — klar, vollstaendig, keine Halbwahrheiten
 4. **Freigabe-Prozess** — kritische Antworten an Senior Partner; Mandant bei Strategiefragen
 5. **Konsistenz zwischen Bietern** — gleiche Frage von Bieter A und B muss gleich beantwortet werden
@@ -183,7 +183,7 @@ DURCHSCHNITTLICHE ANTWORTZEIT: [Tage]
 
 - Unvollstaendige Antwort auf Litigation-Frage → § 444 BGB; kein Haftungsausschluss moeglich
 - Unterschiedliche Antworten an verschiedene Bieter → Diskriminierungsvorwurf; Vertrauensschutz gestort
-- Q&A-Log nicht archiviert → kein Beweis fuer Kaeufer-Kenntnis im Streitfall
+- Q&A-Log nicht archiviert → kein Beweis für Kaeufer-Kenntnis im Streitfall
 - Insider-Informationen im Q&A ohne MAR-Kontrolle → Art. 14 MAR; BaFin-Risiko
 - Antwort ohne Management-Freigabe → unrichtige Information ohne Mandanten-Kontrolle
 

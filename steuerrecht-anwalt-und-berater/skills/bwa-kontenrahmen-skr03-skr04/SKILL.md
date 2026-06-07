@@ -3,7 +3,7 @@ name: bwa-kontenrahmen-skr03-skr04
 description: "Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Querverweis stb-bwa-aufbau-grundlagen."
 ---
 
-# Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung fuer BWA
+# Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung für BWA
 
 ## Fachlicher Anker
 
@@ -32,17 +32,17 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 
 **§ 238 HGB** — Buchfuehrungspflicht; Kontenrahmen ist Wahlrecht, muss aber stetig sein (§ 252 Abs. 1 Nr. 6 HGB).
 
-**§ 252 Abs. 1 Nr. 6 HGB** — Bewertungsstetigkeit; gilt analog fuer Kontenrahmen-Wechsel.
+**§ 252 Abs. 1 Nr. 6 HGB** — Bewertungsstetigkeit; gilt analog für Kontenrahmen-Wechsel.
 
 **§ 5b EStG** — E-Bilanz-Taxonomie; SKR 03 und SKR 04 sind beide kompatibel, aber die Brueckenkonten unterscheiden sich.
 
-**§ 275 HGB** — Gliederung GuV; GKV nach § 275 Abs. 2 HGB / UKV nach § 275 Abs. 3 HGB. SKR 03 unterstuetzt traditionell GKV, SKR 04 ist offener fuer UKV.
+**§ 275 HGB** — Gliederung GuV; GKV nach § 275 Abs. 2 HGB / UKV nach § 275 Abs. 3 HGB. SKR 03 unterstuetzt traditionell GKV, SKR 04 ist offener für UKV.
 
 ### Verwaltungsanweisungen und Standards
 
 - DATEV-Kontenrahmen-Dokumentation (jaehrliche Updates).
 - IDW RS HFA 38 — Gliederungsgrundsaetze nach HGB.
-- BMF v. 28.09.2011 (BStBl I 2011, 855) — E-Bilanz-Taxonomie; jaehrliche Anpassung durch BMF-Schreiben. Aktuelle Version ist die Taxonomie 6.9 (BMF-Schreiben April 2025, verpflichtend fuer WJ ab 01.01.2026); aktuelle Fassung ueber esteuer.de abrufbar.
+- BMF v. 28.09.2011 (BStBl I 2011, 855) — E-Bilanz-Taxonomie; jaehrliche Anpassung durch BMF-Schreiben. Aktuelle Version ist die Taxonomie 6.9 (BMF-Schreiben April 2025, verpflichtend für WJ ab 01.01.2026); aktuelle Fassung ueber esteuer.de abrufbar.
 
 ## Workflow
 
@@ -71,8 +71,8 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 ### Phase 4 — Schnittstellen pruefen
 
 - Lohnbuchhaltungs-Schnittstelle (DATEV-Buchungsbelege) — Kontenrahmen muss matchen.
-- BWA-Konfiguration (Form 01, 11, 21) — die Standard-Forms sind fuer beide SKR vorbereitet, aber individualisierte Forms muessen angepasst werden.
-- Branchenvergleich DATEV BBE — nur fuer Standard-SKR und Standard-Konten zuverlaessig.
+- BWA-Konfiguration (Form 01, 11, 21) — die Standard-Forms sind für beide SKR vorbereitet, aber individualisierte Forms muessen angepasst werden.
+- Branchenvergleich DATEV BBE — nur für Standard-SKR und Standard-Konten zuverlaessig.
 
 ### Phase 5 — Kommunikation an Mandanten
 
@@ -89,8 +89,8 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 
 - Mandanten mit Wachstumsabsicht und kapitalmarkt-naher Ausrichtung tendieren zu SKR 04; mittelstaendische Industriebetriebe bleiben oft bei SKR 03.
 - Innerhalb der Kanzlei moeglichst konsistent — Mandantensachbearbeiter koennen sonst nicht effizient wechseln.
-- DATEV-BBE-Branchenvergleich liefert die besten Daten fuer SKR 03 mit Standardkonten; bei SKR 04 ist die Datenbasis duenner.
-- Honorar fuer Kontenrahmen-Wechsel separat im Zusatzauftrag aufnehmen (StBVV §§ 33, 35), nicht in der laufenden Buchhaltung.
+- DATEV-BBE-Branchenvergleich liefert die besten Daten für SKR 03 mit Standardkonten; bei SKR 04 ist die Datenbasis duenner.
+- Honorar für Kontenrahmen-Wechsel separat im Zusatzauftrag aufnehmen (StBVV §§ 33, 35), nicht in der laufenden Buchhaltung.
 - Bei Holding-Strukturen mit verschiedenen Tochtergesellschaften: gleicher Kontenrahmen in allen Einheiten erleichtert Konsolidierung.
 
 ## Querverweise
@@ -111,7 +111,7 @@ Stand: 05/2026.
 - BMF v. 28.09.2011, BStBl I 2011, 855 (E-Bilanz-Grundsaetze); jaehrliche Taxonomie-Aktualisierung: aktuelle Version 6.9 (WJ ab 01.01.2026), abrufbar unter esteuer.de.
 - IDW RS HFA 38.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 bestaetigt (E-Bilanz Taxonomie 6.9 fuer WJ 2026 bestaetigt, esteuer.de-Quelle angegeben) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 bestaetigt (E-Bilanz Taxonomie 6.9 für WJ 2026 bestaetigt, esteuer.de-Quelle angegeben) -->
 
 ## Qualitäts-Hardening
 

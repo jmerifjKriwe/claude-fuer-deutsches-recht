@@ -19,7 +19,7 @@ Testamentum calatis comitiis und in procinctu: aelteste Formen des roemischen Te
 
 ## Aufgabe
 
-Skill fuer die aeltesten Testamentsformen.
+Skill für die aeltesten Testamentsformen.
 
 ## Rechtsquelle
 
@@ -38,7 +38,7 @@ Skill fuer die aeltesten Testamentsformen.
 
 - Bezeichnung: "Testament in der Schlachtordnung".
 - Vor Beginn einer militaerischen Schlacht.
-- Schnelle Form fuer Soldaten ohne formelle Volksversammlung.
+- Schnelle Form für Soldaten ohne formelle Volksversammlung.
 
 ## Verdraengung
 

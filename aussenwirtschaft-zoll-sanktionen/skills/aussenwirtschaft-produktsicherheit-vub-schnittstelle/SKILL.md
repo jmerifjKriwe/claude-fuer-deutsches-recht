@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-produktsicherheit-vub-schnittstelle
-description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix fuer Produktkategorien im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix für Produktkategorien im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Produktsicherheit und Zoll-VuB: CE-Kennzeichnung und RAPEX-Schnittstelle
 
 ## Arbeitsbereich
 
-Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix fuer Produktkategorien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix für Produktkategorien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschrae
 
 ## Mandantenfall
 
-- Importeur bringt Elektrogeraete aus China ein; RAPEX-Warnung fuer aehnliches Modell im System.
+- Importeur bringt Elektrogeraete aus China ein; RAPEX-Warnung für aehnliches Modell im System.
 - Zollamt haelt Sendung auf; CE-Kennzeichnung nicht erkennbar echt; Pruefpflicht.
 - Spielzeug-Einfuhr aus Drittland; Zollstelle fordert Konformitaetserklarung und technische Dokumentation.
 
@@ -27,9 +27,9 @@ Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschrae
 
 1. Produktkategorie identifizieren und anwendbare EU-Richtlinien/Verordnungen bestimmen (LVD, EMV, SpielzeugRL).
 2. CE-Kennzeichnungspflicht pruefen und Konformitaetserklarung vollstaendig?
-3. RAPEX-Datenbank auf Warnmeldungen fuer Produkt und Modell pruefen.
+3. RAPEX-Datenbank auf Warnmeldungen für Produkt und Modell pruefen.
 4. Technische Dokumentation und Pruefberichte vorbereiten.
-5. Zollstellen-VuB-Codes in TARIC fuer Produktkategorie pruefen.
+5. Zollstellen-VuB-Codes in TARIC für Produktkategorie pruefen.
 6. Bei Aufhaltung: Rechtsmittel und Schnellpruefverfahren koordinieren.
 
 ## Rechtsrahmen
@@ -42,11 +42,11 @@ Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschrae
 
 ## Pruef-Raster
 
-- [ ] Anwendbare EU-Richtlinien und CE-Pflicht fuer Produktkategorie geprueft?
+- [ ] Anwendbare EU-Richtlinien und CE-Pflicht für Produktkategorie geprueft?
 - [ ] CE-Kennzeichnung und Konformitaetserklarung vollstaendig?
 - [ ] RAPEX-Datenbank auf Produkttyp und Hersteller geprueft?
 - [ ] Technische Dokumentation vollstaendig und zugaenglich?
-- [ ] TARIC-VuB-Codes fuer Produktkategorie abgerufen?
+- [ ] TARIC-VuB-Codes für Produktkategorie abgerufen?
 - [ ] Zollstellen-Reaktionsprotokoll bei Aufhaltung vorbereitet?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschrae
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Einfuhr-VuB-Matrix fuer relevante Produktkategorien, RAPEX-Pruefprotokoll, CE-Dokumentations-Checkliste und Rechtsmittelvorlage bei Aufhaltung.
+Einfuhr-VuB-Matrix für relevante Produktkategorien, RAPEX-Pruefprotokoll, CE-Dokumentations-Checkliste und Rechtsmittelvorlage bei Aufhaltung.
 
 ## Quellen
 

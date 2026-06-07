@@ -13,7 +13,7 @@ description: "DATEV Kanzlei-Rechnungswesen BWA-Modul Bedienung. Anwendungsfall E
 
 ## Kernsachverhalt
 
-DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software fuer Buchfuehrung, BWA, SuSa, Jahresabschluss. Das BWA-Modul bietet zahlreiche Standardforms (BWA 01, 11, 21), Branchenanpassungen und individuelle Konfigurations-Moeglichkeiten ueber Berater-Stammdaten. Der Steuerberater nutzt Standardformen, passt sie bei Bedarf an und integriert Branchenvergleich (BBE).
+DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software für Buchfuehrung, BWA, SuSa, Jahresabschluss. Das BWA-Modul bietet zahlreiche Standardforms (BWA 01, 11, 21), Branchenanpassungen und individuelle Konfigurations-Moeglichkeiten ueber Berater-Stammdaten. Der Steuerberater nutzt Standardformen, passt sie bei Bedarf an und integriert Branchenvergleich (BBE).
 
 ## Kaltstart-Rueckfragen
 
@@ -32,7 +32,7 @@ DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software fuer Buchfu
 
 | Form | Verwendung |
 |---|---|
-| BWA 01 | Standard-BWA fuer 90 Prozent aller Mandanten |
+| BWA 01 | Standard-BWA für 90 Prozent aller Mandanten |
 | BWA 11 | Bewegungs-BWA mit detailliertem Vormonatsvergleich |
 | BWA 21 | Branchen-BWA mit Branchenvergleich |
 | BWA 31 | Kostenstellen-BWA |
@@ -60,7 +60,7 @@ DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software fuer Buchfu
 ### Phase 5 — Ausgabe
 
 - PDF-Export mit Mandanten-Briefkopf ueber das Druckmodul.
-- Excel-Export fuer Detailauswertung (Pivot-fhaeig).
+- Excel-Export für Detailauswertung (Pivot-fhaeig).
 - DUO-Versand: BWA wird direkt in das DUO-Postfach des Mandanten gestellt (`Auswertungen → BWA → Versand an DUO`).
 
 ### Phase 6 — Updates
@@ -77,7 +77,7 @@ DATEV Kanzlei-Rechnungswesen ist die zentrale Steuerberater-Software fuer Buchfu
 
 ## Strategie und Praxis-Tipps
 
-- BWA 21 fuer alle BWA-Mandanten mit Branchen-Wunsch.
+- BWA 21 für alle BWA-Mandanten mit Branchen-Wunsch.
 - Individuelle BWA nur bei besonderem Bedarf — Standard-Form deckt 90 Prozent ab.
 - Berater-Stammdaten zentral pflegen — vereinheitlicht Kanzleibetrieb.
 - DATEV-Schulungen empfehlenswert (DATEV-Akademie).

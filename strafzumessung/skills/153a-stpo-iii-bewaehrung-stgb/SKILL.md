@@ -1,13 +1,13 @@
 ---
 name: 153a-stpo-iii-bewaehrung-stgb
-description: "Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein oeffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein öffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Einstellung gegen Auflage — § 153a StPO
 
 ## Arbeitsbereich
 
-Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein oeffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein öffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwalt
 
 ## Worum geht es?
 
-§ 153a StPO erlaubt die Einstellung des Verfahrens **gegen Auflagen oder Weisungen**, wenn das oeffentliche Interesse an der Strafverfolgung beseitigt werden kann und die Schwere der Schuld nicht entgegensteht. Es bedarf der Zustimmung des Beschuldigten, des Gerichts (im gerichtlichen Stadium) und der Staatsanwaltschaft. Mit Erfuellung der Auflage ist die Tat **nicht mehr** verfolgbar (Verbrauch der Strafklage in dem Umfang).
+§ 153a StPO erlaubt die Einstellung des Verfahrens **gegen Auflagen oder Weisungen**, wenn das öffentliche Interesse an der Strafverfolgung beseitigt werden kann und die Schwere der Schuld nicht entgegensteht. Es bedarf der Zustimmung des Beschuldigten, des Gerichts (im gerichtlichen Stadium) und der Staatsanwaltschaft. Mit Erfuellung der Auflage ist die Tat **nicht mehr** verfolgbar (Verbrauch der Strafklage in dem Umfang).
 
 ## Wann brauchen Sie diese Skill?
 
@@ -53,10 +53,10 @@ Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwalt
 
 1. **Vergehen** (keine Verbrechen).
 2. **Schwere der Schuld** steht nicht entgegen.
-3. **Auflage** ist geeignet, das oeffentliche Interesse zu beseitigen.
+3. **Auflage** ist geeignet, das öffentliche Interesse zu beseitigen.
 4. **Zustimmung** Beschuldigter + Gericht + Staatsanwaltschaft.
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Eignung pruefen**:
  - Vergehen? Strafdrohung max. 5 Jahre Freiheitsstrafe oder Geldstrafe (allgemein).
@@ -68,16 +68,16 @@ Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwalt
  - TOA wenn moeglich.
 3. **Verhandlung** mit Staatsanwaltschaft / Gericht:
  - Schriftlicher Vorschlag mit konkretem Auflagenpaket.
- - Begruendung: warum oeffentliches Interesse beseitigt ist.
+ - Begruendung: warum öffentliches Interesse beseitigt ist.
  - Kompensation gegenueber drohender Strafe darstellen.
 4. **Belehrung** des Mandanten: Zustimmung wird mit Verbrauch der Strafklage ueber den **abgegrenzten Tatvorwurf** wirksam; keine spaetere Strafverfolgung dieses Vorwurfs.
 5. **Erfuellungsnachweis** sichern: Zahlungsbeleg, Stundenkarte gemeinnuetzige Arbeit, TOA-Bestaetigung. Erfuellung innerhalb der gesetzten Frist (verlaengerbar nach § 153a Abs. 1 Satz 4 StPO).
 
-## Schritt-fuer-Schritt-Anleitung (Anklage)
+## Schritt-für-Schritt-Anleitung (Anklage)
 
 - **§ 153 StPO** bei Bagatellen; ohne Auflage.
 - **§ 153a StPO** bei mittlerer Schwere mit Auflage.
-- Bei Anklage **trotz** Einigungsspielraum: Begruendung der "oeffentlichen Interesse"-Erforderlichkeit.
+- Bei Anklage **trotz** Einigungsspielraum: Begruendung der "öffentlichen Interesse"-Erforderlichkeit.
 
 ## Wirkung der Einstellung
 

@@ -13,7 +13,7 @@ description: "Kreditoren-Saldenliste OVA Offene-Verbindlichkeiten-Auswertung. An
 
 ## Kernsachverhalt
 
-Die Kreditoren-Saldenliste zeigt alle Verbindlichkeiten gegenueber Lieferanten. Sie ist Grundlage fuer Zahlungsdisposition, Skonti-Optimierung, Bilanzvorbereitung und Krisenfrueherkennung. Ueberfaellige Lieferantenverbindlichkeiten sind klassisches Indiz fuer Liquiditaetsstockung (§ 17 InsO). Der Steuerberater erstellt sie monatlich und gibt Hinweise auf Zahlungsdringlichkeit und Skonti-Vorteile.
+Die Kreditoren-Saldenliste zeigt alle Verbindlichkeiten gegenueber Lieferanten. Sie ist Grundlage für Zahlungsdisposition, Skonti-Optimierung, Bilanzvorbereitung und Krisenfrueherkennung. Ueberfaellige Lieferantenverbindlichkeiten sind klassisches Indiz für Liquiditaetsstockung (§ 17 InsO). Der Steuerberater erstellt sie monatlich und gibt Hinweise auf Zahlungsdringlichkeit und Skonti-Vorteile.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,7 +24,7 @@ Die Kreditoren-Saldenliste zeigt alle Verbindlichkeiten gegenueber Lieferanten. 
 5. Welche Lieferanten haben gestundete Posten?
 6. Welche Lieferanten mit Liefersperre gedroht?
 7. Welche Steuer- oder SV-Verbindlichkeiten sind separat zu pruefen?
-8. Welche Mandantenkontingenz fuer Zahlungsdisposition?
+8. Welche Mandantenkontingenz für Zahlungsdisposition?
 
 ## Rechtlicher Rahmen
 
@@ -88,7 +88,7 @@ SUMME [X]
 
 - Finanzamt-Verbindlichkeiten: USt, KSt, ESt-Vorauszahlung, GewSt-Vorauszahlung.
 - Faellige FA-Schulden: Saeumniszuschlag § 240 AO (1 Prozent pro Monat).
-- SV-Verbindlichkeiten an Krankenkassen: ueberfaellig = § 266a StGB-Risiko fuer GF.
+- SV-Verbindlichkeiten an Krankenkassen: ueberfaellig = § 266a StGB-Risiko für GF.
 - Bei drohenden SV-Rueckstaenden: dringende Eskalation an GF (Querverweis stb-warnschreiben-krisensignale).
 
 ### Phase 6 — Reporting

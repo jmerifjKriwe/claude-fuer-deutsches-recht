@@ -42,6 +42,23 @@ Konkret zu prüfen:
 - § 23 BNotO (Notaranderkonto)
 - § 54a BeurkG
 - DONot § 11
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 14 Abs. 1 BNotO` — notarielle Amtspflichten.
+- `§ 17 Abs. 1 BeurkG` — Belehrung und Erforschung des Willens.
+- `§ 13 BeurkG` — Vorlesen, Genehmigen, Unterschreiben.
+- `§ 40 BeurkG` — Beglaubigung einer Unterschrift.
+- `§ 53 BeurkG` — Vollzugspflichten.
+- `§ 54a BeurkG` — Verwahrung und Auszahlung.
+- `§ 130a ZPO` — elektronische Dokumente als Schnittstelle.
+- `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
+- `§ 12 HGB` — Registereinreichung.
+- `§ 40 GmbHG` — Gesellschafterliste.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

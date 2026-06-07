@@ -1,13 +1,13 @@
 ---
 name: waehlen-dsv-rechtsprechung-datenschutz
-description: "Waehlen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft konkret Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen, Bußgeldverteidigung nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Wählen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft konkret Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen, Bußgeldverteidigung nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Waehlen DSV Rechtsprechung Datenschutz
+# Wählen DSV Rechtsprechung Datenschutz
 
 ## Arbeitsbereich
 
-**Waehlen DSV Rechtsprechung Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Wählen DSV Rechtsprechung Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -216,7 +216,7 @@ Sieben-Fragen-Diagnose:
 - **§ 79 OWiG** Rechtsbeschwerde.
 - **§ 20 BDSG** Verwaltungsrechtsweg für Art.-78-Streitigkeiten gegen Aufsichtsbehörden; ausdrücklich nicht für Bußgeldverfahren. Relevant für Art.-58-Anordnungen, nicht für die Geldbuße selbst.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst: Frist sichern.** Einspruchsfrist nach § 67 I OWiG zwei Wochen ab Zustellung — sofort im Fristenkalender, Wiedereinsetzungspruefung bei Saeumnis.
 2. **Akteneinsicht beantragen.** § 49 OWiG i.V.m. § 147 StPO. Erst danach Strategie.
@@ -359,7 +359,7 @@ Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisth
 
 ## Übergabe an das Spezialplugin
 
-Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
 
 ## Quellen- und Verifikationsregel
 

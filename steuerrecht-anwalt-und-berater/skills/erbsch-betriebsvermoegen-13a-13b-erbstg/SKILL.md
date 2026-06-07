@@ -1,13 +1,13 @@
 ---
 name: erbsch-betriebsvermoegen-13a-13b-erbstg
-description: "Pruefung der erbschaftsteuerlichen Verschonungsregeln fuer Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermoegenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pruefung der erbschaftsteuerlichen Verschonungsregeln für Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermögenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erbschaftsteuerliche Verschonung Betriebsvermoegen — §§ 13a 13b ErbStG
 
 ## Arbeitsbereich
 
-Pruefung der erbschaftsteuerlichen Verschonungsregeln fuer Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermoegenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pruefung der erbschaftsteuerlichen Verschonungsregeln für Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermögenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -28,16 +28,16 @@ Pruefung der erbschaftsteuerlichen Verschonungsregeln fuer Betriebsvermoegen —
 ## Triage — kläre vor der Bearbeitung
 
 1. Liegt begueenstigtes Vermoegen iSd § 13b Abs. 1 ErbStG vor (Betrieb Mitunternehmeranteil Anteile an KapGes ab 25 Prozent)?
-2. Wie hoch ist der Anteil Verwaltungsvermoegen § 13b Abs. 4 ErbStG?
-3. Soll Regelverschonung 85 Prozent oder Optionsverschonung 100 Prozent (max. 20 Prozent Verwaltungsvermoegen) gewaehlt werden?
+2. Wie hoch ist der Anteil Verwaltungsvermögen § 13b Abs. 4 ErbStG?
+3. Soll Regelverschonung 85 Prozent oder Optionsverschonung 100 Prozent (max. 20 Prozent Verwaltungsvermögen) gewaehlt werden?
 4. Sind Lohnsummen- und Behaltensregeln erfuellbar (5 oder 7 Jahre)?
 5. Verschonungsbedarfspruefung § 28a ErbStG bei Grossvermoegen ueber 26 Mio. Euro?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
 - **§ 13a ErbStG** — Verschonungsabschlag.
-- **§ 13b ErbStG** — beguenstigtes Vermoegen.
+- **§ 13b ErbStG** — begünstigtes Vermoegen.
 - **§ 13c ErbStG** — Abschmelzungsregel bei Grossvermoegen.
 - **§ 28a ErbStG** — Verschonungsbedarfspruefung.
 - **§ 19a ErbStG** — Tarifbegrenzung.

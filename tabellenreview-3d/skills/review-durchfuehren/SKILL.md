@@ -27,7 +27,7 @@ Das ist der Hauptlauf. Wenn der Würfel 25 Spalten 200 Zeilen und 5 Arbeitsblät
 - `zeilenprompts.yaml`
 - `arbeitsblaetter.yaml`
 - `zeilen-inventar.yaml`
-- Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md`
+- Praxisprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/tabellenreview-3d/CLAUDE.md`
 
 ## Ablauf pro Zelle
 

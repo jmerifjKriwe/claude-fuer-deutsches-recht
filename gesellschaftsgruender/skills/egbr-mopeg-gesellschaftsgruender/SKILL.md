@@ -31,9 +31,9 @@ Klaere bei jedem eGbR-Mandat zuerst:
 
 1. **Pflicht-Eintragung?** Grundstueckserwerb/-veraeusserung (Paragraf 707b BGB) oder GmbH-Anteilsbeteiligung (Paragraf 40 GmbHG)? Dann SOFORT Eintragung vor Notar-Termin.
 2. **Innen-GbR oder Aussen-GbR?** Innen-GbR (kein Aussenauftritt): keine Pflicht. Aussen-GbR mit Rechtsverkehrsteilnahme: rechtsfaehig nach Paragraf 705 II BGB.
-3. **Handelsgeschaeft oder Freiberuf?** OHG fuer Kaufleute; eGbR fuer Nicht-Kaufleute und Freiberufler.
-4. **Haftungsbeschraenkung gewuenscht?** eGbR schafft keine Haftungsbeschraenkung; fuer begrenzte Haftung -> GmbH oder KG.
-5. **Zeitrahmen?** Eintragung beim Amtsgericht dauert 2-6 Wochen; Notar-Termin fuer Grundstuecksgeschaeft erst nach Eintragung.
+3. **Handelsgeschaeft oder Freiberuf?** OHG für Kaufleute; eGbR für Nicht-Kaufleute und Freiberufler.
+4. **Haftungsbeschraenkung gewuenscht?** eGbR schafft keine Haftungsbeschraenkung; für begrenzte Haftung -> GmbH oder KG.
+5. **Zeitrahmen?** Eintragung beim Amtsgericht dauert 2-6 Wochen; Notar-Termin für Grundstuecksgeschaeft erst nach Eintragung.
 6. **Bestehendes Grundbuch-Eintrag "GbR bestehend aus A, B, C"?** Muss auf eGbR umgestellt werden.
 
 ## Zentrale Normen
@@ -63,10 +63,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 3 | GmbH-Anteilsbeteiligung? | § 40 GmbHG | Ja: eGbR-Eintragung Voraussetzung |
 | 4 | Handelsgeschaeft? | § 1 HGB | Ja: OHG statt eGbR (Handelsregister) |
 | 5 | Haftungsbeschraenkung gewuenscht? | § 721 BGB | eGbR bietet keine; GmbH/KG pruefen |
-| 6 | Vertrauensschutz fuer Geschaeftspartner gewuenscht? | § 707a III BGB | Eintragung schafft Publizitaet |
+| 6 | Vertrauensschutz für Geschaeftspartner gewuenscht? | § 707a III BGB | Eintragung schafft Publizitaet |
 | 7 | Bestehendes Grundbuch auf alte GbR? | § 47 GBO | Umschreibung auf eGbR nach Eintragung |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Qualifikation:** Innen-GbR oder Aussen-GbR? Handelsgeschaeft oder nicht? Freiberufler-Sozietaet?
 2. **Pflicht pruefen:** Grundstueck oder GmbH-Anteil betroffen? Dann Eintragung zwingend.

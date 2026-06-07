@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Mandats-/Gesellschaftsprofil, Organigramm, Rollenmatrix und Eskalationskette.
@@ -151,7 +151,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Clean-Room-Anforderung | Ja/Nein; wenn Ja: Clean-Team-Protokoll | |
 | NDA unterzeichnet | Datum; Parteien | |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Erstgesprach / Erstkontakt** — Deal-Parameter erfassen; Vertraulichkeit sicherstellen
 2. **Konfliktpruefung** — alle Parteien und bekannte Affiliates im Konfliktsystem pruefen; Senior Partner entscheidet
@@ -218,7 +218,7 @@ NAECHSTE AKTION: [TODO mit Datum und Owner]
 
 - Konfliktpruefung nicht vor Mandatsannahme → § 43a BRAO; sofortige Niederlegung; Schadensersatz
 - Insiderinformation ohne Log und Vertraulichkeitssicherung → Art. 14 MAR; Bussgeld
-- GwG-CDD unvollstaendig → § 17 GwG; Ordnungswidrigkeit; Behoerdenverfahren
+- GwG-CDD unvollstaendig → § 17 GwG; Ordnungswidrigkeit; Behördenverfahren
 - NDA nicht unterzeichnet vor Informationsaustausch → vertrauliche Daten ungeschuetzt
 - Akte ohne Zugriffsschutz → Clean-Room-Erfordernis missachtet
 

@@ -5,7 +5,7 @@ description: "Urkundenprozess §§ 592-605 ZPO pruefen: Anspruch auf Zahlung auf
 
 # Urkundenprozess
 
-Schnelles Erkenntnisverfahren fuer Geldforderungen, die durch Urkunden belegt sind. Beschraenkung der Verteidigungsmittel auf Urkundsbeweise gibt erheblichen Tempovorteil.
+Schnelles Erkenntnisverfahren für Geldforderungen, die durch Urkunden belegt sind. Beschraenkung der Verteidigungsmittel auf Urkundsbeweise gibt erheblichen Tempovorteil.
 
 ## Anwendungsbereich § 592 ZPO
 
@@ -67,7 +67,7 @@ Wenn Klaeger durchdringt, ergeht **Vorbehaltsurteil**:
 
 ## Wechsel- und Scheckprozess § 602 ZPO
 
-- Sondervorschriften fuer Wechsel- und Scheckforderungen.
+- Sondervorschriften für Wechsel- und Scheckforderungen.
 - Sehr beschleunigt: Beklagter muss binnen 2 Tagen nach Klagezustellung reagieren (§ 604 ZPO).
 
 ## Strategische Bewertung
@@ -83,11 +83,11 @@ Wenn Klaeger durchdringt, ergeht **Vorbehaltsurteil**:
 
 Klaeger kann **jederzeit** vom Urkundenprozess in Regelverfahren wechseln (Klagebezeichnung weglassen). Beklagter hat das Wahlrecht **nicht** (nur Nachverfahren beantragen).
 
-## Zustaendigkeit
+## Zuständigkeit
 
 Wie normale Zahlungsklage:
 - Sachlich: § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026), § 71 GVG (LG).
-- Bei Wechsel/Scheck: AG zustaendig unabhaengig vom Streitwert (§ 600 ZPO).
+- Bei Wechsel/Scheck: AG zuständig unabhaengig vom Streitwert (§ 600 ZPO).
 
 ## Vergleich mit Mahnverfahren
 
@@ -127,4 +127,4 @@ Bei "nein" -> Regelverfahren oder Mahnbescheid
 - ZPO § 599 Vorbehaltsurteil [gesetze-im-internet.de/zpo/__599.html](https://www.gesetze-im-internet.de/zpo/__599.html)
 - ZPO § 600 Nachverfahren [gesetze-im-internet.de/zpo/__600.html](https://www.gesetze-im-internet.de/zpo/__600.html)
 - ZPO § 602-605 Wechselprozess [gesetze-im-internet.de/zpo/__602.html](https://www.gesetze-im-internet.de/zpo/__602.html)
-- ZPO § 708 vorlaeufige Vollstreckbarkeit [gesetze-im-internet.de/zpo/__708.html](https://www.gesetze-im-internet.de/zpo/__708.html)
+- ZPO § 708 vorläufige Vollstreckbarkeit [gesetze-im-internet.de/zpo/__708.html](https://www.gesetze-im-internet.de/zpo/__708.html)

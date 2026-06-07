@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinien-umsetzung-und-goldplating
-description: "Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Pruefraster fuer Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Pruef-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung."
+description: "Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Pruefraster für Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Pruef-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung."
 ---
 
 # NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung
@@ -26,7 +26,7 @@ Rueckfrage nur wenn unklar: *"Welche Richtlinie wird umgesetzt? Welche Vorgabe i
 - **Better Regulation Guidelines / Toolbox** der EU-Kommission
 - **NKRG** § 4
 - **Leitfaden BMI / NKR** — Goldplating-Pruefung
-- **One-in-one-out** — Ausnahme nur fuer 1:1-Umsetzung
+- **One-in-one-out** — Ausnahme nur für 1:1-Umsetzung
 
 ## Definition Goldplating
 
@@ -46,14 +46,14 @@ Typische Erscheinungsformen:
 - strengere Sanktionen
 - zusaetzliche Inhalte der Berichts- / Mitteilungspflicht
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. EU-Vorgabe kartieren
 
 - Welche Artikel sind zwingend?
 - Welche enthalten Mindestharmonisierung?
 - Welche optionalen Bestimmungen?
-- Welche Spielraeume fuer Mitgliedstaaten?
+- Welche Spielraeume für Mitgliedstaaten?
 
 ### 2. Nationale Umsetzung kartieren
 

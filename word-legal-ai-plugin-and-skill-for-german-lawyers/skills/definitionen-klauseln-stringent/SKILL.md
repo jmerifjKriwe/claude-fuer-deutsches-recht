@@ -19,7 +19,7 @@ Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal defi
 
 ## Zweck
 
-Defined Terms (definierte Begriffe) sind das Skelett eines komplexen Vertrages. Sie sorgen dafuer, dass derselbe Sachverhalt im gesamten Dokument identisch beschrieben wird. Wer "Vertrag" definiert, muss "Vertrag" konsequent meinen, nicht abwechselnd "diese Vereinbarung", "der vorliegende Kontrakt" oder "die Abrede".
+Defined Terms (definierte Begriffe) sind das Skelett eines komplexen Vertrages. Sie sorgen dafür, dass derselbe Sachverhalt im gesamten Dokument identisch beschrieben wird. Wer "Vertrag" definiert, muss "Vertrag" konsequent meinen, nicht abwechselnd "diese Vereinbarung", "der vorliegende Kontrakt" oder "die Abrede".
 
 Dieser Skill liefert die Drafting-Disziplin: ein Begriff, eine Definition, einheitliche Verwendung. Er trennt zentrale Definitionen (alphabetischer Abschnitt am Anfang) von Inline-Definitionen (im Fliesstext). Er gibt Ihnen die Konsistenzpruefung an die Hand.
 

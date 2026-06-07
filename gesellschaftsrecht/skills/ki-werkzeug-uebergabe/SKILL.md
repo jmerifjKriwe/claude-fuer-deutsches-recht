@@ -270,8 +270,8 @@ Empfehlung: [ERGEBNIS DIREKT UEBERNEHMEN / NACHPRUEFUNG ERFORDERLICH FUER ROT-FI
 
 - **Kein AVV (Art. 28 DSGVO) vor Datenweitergabe** — Bussgeldhaftung; Weitergabe sofort stoppen bis AVV vorliegt.
 - **KI-Vertrauensniveau "vollstaendige Neuprüfung" und kein QA-Budget** — KI-Tool liefert nur Screening; alle Findings sind manuell zu verifizieren bevor Garantien abgegeben werden.
-- **Gesellschaftsvertraege / Side Letters in Batch** — ungeeignet fuer Bulk-Extraktion; sofort aus Charge herausnehmen und manuell prüfen.
-- **Abtretungsverbote nicht klassifiziert** — Haftungsrisiko bei Garantien; § 354a HGB-Prüfung fuer Kaufleute-Vertraege immer separat durchfuehren.
+- **Gesellschaftsvertraege / Side Letters in Batch** — ungeeignet für Bulk-Extraktion; sofort aus Charge herausnehmen und manuell prüfen.
+- **Abtretungsverbote nicht klassifiziert** — Haftungsrisiko bei Garantien; § 354a HGB-Prüfung für Kaufleute-Vertraege immer separat durchfuehren.
 
 ## Beispiel
 

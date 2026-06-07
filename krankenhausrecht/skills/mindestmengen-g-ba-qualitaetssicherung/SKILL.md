@@ -28,7 +28,7 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welcher Mindestmengen-Tatbestand betrifft die Klinik (OPS-Liste der G-BA-Mm-R)?
 - Liegen Prognose-/Negativfeststellung des Landes vor?
-- Wird Ausnahme nach G-BA-Mm-R § 5 (z. B. fuer Versorgungssicherstellung) beansprucht?
+- Wird Ausnahme nach G-BA-Mm-R § 5 (z. B. für Versorgungssicherstellung) beansprucht?
 - Welche Mengen wurden erbracht (Vorjahr, Prognose)?
 
 ## Rechtlicher Rahmen
@@ -39,10 +39,10 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 - **G-BA-Beschluesse** zu Aufnahme/Streichung von Mindestmengen-Tatbestaenden.
 - **BVerfG** zu Berufsausuebungsfreiheit und Mindestmengen (Verhaeltnismaessigkeit).
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Mindestmengen-Tatbestand identifizieren:** OPS-Liste Mm-R Anlage.
 2. **Vorjahresmengen ausweisen:** § 137 SGB V-Meldung.
-3. **Prognose fuer Folgejahr erstellen:** Plausibilitaet, Versorgungsbedarf, Personalplanung.
+3. **Prognose für Folgejahr erstellen:** Plausibilitaet, Versorgungsbedarf, Personalplanung.
 4. **Negativfeststellung pruefen:** Landesbehoerde stellt fest, ob Prognose haltbar.
 5. **Ausnahmetatbestand pruefen:** Sicherstellung, Versorgungsluecke, atypische Lage.
 6. **Rechtsschutz:** Widerspruch/Klage gegen Negativfeststellung; einstweiliger Rechtsschutz.
@@ -64,7 +64,7 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 
 ## Mustertexte
 **Begruendung der Prognose Knie-TEP:**
-> Im Vorjahr [Datum] wurden [N] Knie-TEP-Eingriffe am Standort durchgefuehrt. Personalbestand und OP-Kapazitaeten erlauben fuer das Folgejahr eine Prognose von [N+x]. Begruendung: stabile Auslastung, Personalfortbildung, Versorgungsauftrag laut LG [Nr.].
+> Im Vorjahr [Datum] wurden [N] Knie-TEP-Eingriffe am Standort durchgefuehrt. Personalbestand und OP-Kapazitaeten erlauben für das Folgejahr eine Prognose von [N+x]. Begruendung: stabile Auslastung, Personalfortbildung, Versorgungsauftrag laut LG [Nr.].
 
 **Widerspruch gegen Negativfeststellung:**
 > Gegen die Negativfeststellung vom [Datum] wird Widerspruch eingelegt. Die Prognose ist plausibel ausweislich (Anlage 1-3). Hilfsweise: Ausnahme nach G-BA-Mm-R § 5 wegen Versorgungssicherstellung im Raum [Region], Begruendung …
@@ -72,7 +72,7 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 ## Typische Fehler
 - Prognose mit Vorjahres-Ist-Werten gleichsetzen (G-BA fordert begruendete Vorausschau).
 - Ausnahmetatbestand zu weit interpretieren (Sicherstellung verlangt Versorgungsluecke).
-- Frist fuer Negativfeststellungsanzeige verpassen.
+- Frist für Negativfeststellungsanzeige verpassen.
 - Mindestmenge mit Vorhalteanteil/LG verwechseln.
 
 ## Querverweise
@@ -88,4 +88,4 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 - G-BA Mindestmengenregelungen (Mm-R) in aktueller Fassung (Live-Check g-ba.de/richtlinien/38/).
 - BSG, staend. Rspr. zur Mindestmengen-Prognose.
 - BVerfG zu Verfassungsmaessigkeit von Mindestmengen.
-- Landeskrankenhausgesetze 16 Laender zur Aufsicht und Negativfeststellung.
+- Landeskrankenhausgesetze 16 Länder zur Aufsicht und Negativfeststellung.

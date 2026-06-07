@@ -47,7 +47,7 @@ Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehi
 8. Welche Schadensarten sind eingetreten: Personenschaden, Sachschaden an Drittfahrzeug, Ladungsschaden des Auftraggebers?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -364,7 +364,7 @@ Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen über den Bef�
 - Schriftlich
 - Bei Versäumnis: Verlust der Anspruche (Vermutungs-Wirkung Art. 30)
 
-## 5) Verjaehrung Art. 32 CMR
+## 5) Verjährung Art. 32 CMR
 
 - **1 Jahr** ab Ablieferung
 - Bei Vorsatz / grober Fahrlaessigkeit: **3 Jahre**
@@ -412,7 +412,7 @@ Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen über den Bef�
 
 1. **Reklamationsfrist 7 Tage versäumt**
 2. **CMR-Frachtbrief-Vermerk fehlt** bei Mangel
-3. **Verjaehrung 1 Jahr verpasst**
+3. **Verjährung 1 Jahr verpasst**
 4. **Haftungs-Aufhebung Art. 29 CMR nicht geltend gemacht**
 
 ## 9) BGH-Linien
@@ -491,7 +491,7 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 | Verdeckt | 7 Tage |
 | Verspätung | 21 Tage |
 
-## 5) Verjaehrung § 439 HGB
+## 5) Verjährung § 439 HGB
 
 - 1 Jahr bei einfachem Verschulden
 - 3 Jahre bei qualifiziertem Verschulden

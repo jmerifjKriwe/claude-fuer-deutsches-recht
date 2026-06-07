@@ -64,7 +64,7 @@ Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse 
 2. Koennen Trainingsdaten historische Diskriminierungsmuster enthalten?
 3. Sind schutzbeduerfte Gruppen nach AGG unverhältnismaessig betroffen?
 4. Wurde ein Bias-Test durchgefuehrt — und sind die Ergebnisse dokumentiert?
-5. Gibt es einen Widerspruchsmechanismus fuer Betroffene (Art. 22 Abs. 3 DSGVO)?
+5. Gibt es einen Widerspruchsmechanismus für Betroffene (Art. 22 Abs. 3 DSGVO)?
 
 ## Output-Template — Bias-Pruefprotokoll
 **Adressat:** HR / Compliance — Tonfall: strukturiert, sachlich
@@ -91,4 +91,4 @@ Geprueft von: [NAME], [DATUM]
 ---
 
 <!-- AUDIT 27.05.2026 -->
-> **Audit-Hinweis (27.05.2026):** BGH VI ZR 273/16, NJW 2019, 2385 entfernt. Urteil existiert nicht — Suchanfrage auf dejure.org ergab keinen Treffer fuer BGH VI ZR 273/16 vom 26.03.2019. Beanspruchtes Thema (Produkthaftung fuer fehlerhafte Algorithmen) ist nicht durch diese Fundstelle belegt. Quelle: dejure.org Vernetzungssuche (NOT_FOUND).
+> **Audit-Hinweis (27.05.2026):** BGH VI ZR 273/16, NJW 2019, 2385 entfernt. Urteil existiert nicht — Suchanfrage auf dejure.org ergab keinen Treffer für BGH VI ZR 273/16 vom 26.03.2019. Beanspruchtes Thema (Produkthaftung für fehlerhafte Algorithmen) ist nicht durch diese Fundstelle belegt. Quelle: dejure.org Vernetzungssuche (NOT_FOUND).

@@ -63,10 +63,10 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 - Folge: deutsche Pensionen voll im Welteinkommen.
 
 ### Besonderheiten
-- **NHR-Status (non-habitual resident)**: ermoeglichte ueber einen Zeitraum von bis zu 10 Jahren eine ueberwiegend beguenstigte Besteuerung in Portugal (insb. fuer auslaendische Pensionen — historisch in Teilen voellige Steuerbefreiung, ab 2020 Mindeststeuer 10 Prozent eingefuehrt). Deutsches BMF prueft Subject-to-Tax-Anwendung nach § 50d Abs. 9 EStG.
-- **NHR-Reform 2024**: Das NHR-Programm ist fuer Neuzugaenge ab 2024 weitgehend geschlossen; Bestandsschutz fuer Altfaelle mit NHR-Registrierung vor 2024. Nachfolger ist das IFICI-Regime (Incentivo Fiscal a Investigacao Cientifica e Inovacao — fuer Wissenschaftler, Hochqualifizierte und bestimmte Investoren). Konkrete Einzelheiten nach portugiesischem Steuerrecht im Anwendungsfall pruefen.
+- **NHR-Status (non-habitual resident)**: ermoeglichte ueber einen Zeitraum von bis zu 10 Jahren eine ueberwiegend begünstigte Besteuerung in Portugal (insb. für auslaendische Pensionen — historisch in Teilen voellige Steuerbefreiung, ab 2020 Mindeststeuer 10 Prozent eingefuehrt). Deutsches BMF prueft Subject-to-Tax-Anwendung nach § 50d Abs. 9 EStG.
+- **NHR-Reform 2024**: Das NHR-Programm ist für Neuzugaenge ab 2024 weitgehend geschlossen; Bestandsschutz für Altfaelle mit NHR-Registrierung vor 2024. Nachfolger ist das IFICI-Regime (Incentivo Fiscal a Investigacao Cientifica e Inovacao — für Wissenschaftler, Hochqualifizierte und bestimmte Investoren). Konkrete Einzelheiten nach portugiesischem Steuerrecht im Anwendungsfall pruefen.
 - **Madeira**: Madeira International Business Center mit ermaessigtem Koerperschaftsteuersatz; DBA-Berechtigung pruefen.
-- **Pensionen** Art. 18: gesetzliche Renten Wohnsitzstaat, oeffentlicher Dienst Kassenstaat.
+- **Pensionen** Art. 18: gesetzliche Renten Wohnsitzstaat, öffentlicher Dienst Kassenstaat.
 
 ## Workflow
 
@@ -95,7 +95,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 ### Erstattungsverfahren portugiesische Quellensteuer
 
-- **Zustaendigkeit**: portugiesische Erstattung durch **Autoridade Tributaria e Aduaneira (AT)**, Direccao de Servicos das Relacoes Internacionais. Aktuelle Zustaendigkeit auf **portaldasfinancas.gov.pt** pruefen.
+- **Zuständigkeit**: portugiesische Erstattung durch **Autoridade Tributaria e Aduaneira (AT)**, Direccao de Servicos das Relacoes Internacionais. Aktuelle Zuständigkeit auf **portaldasfinancas.gov.pt** pruefen.
 - **Antragsformulare**: portugiesische Modelos (z.B. Modelo 21-RFI) zur Quellensteuer-Erstattung nach DBA; **konkrete Modelo-Nummern vom Anwender mit aktuellem Stand auf portaldasfinancas.gov.pt zu verifizieren** (Modelos werden periodisch aktualisiert).
 - **Frist**: nach portugiesischem LGT regelmaessig **zwei Jahre** ab Steuerentrichtung — sehr knapp! Frueh stellen.
 - **Bearbeitungsdauer AT**: 12-30 Monate.
@@ -114,7 +114,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| NHR-Bestandsschutz behalten vs. nach IFICI wechseln | NHR mit 10-Prozent-Sonderbesteuerung auslaendischer Pensionen (ab 2020); endet nach 10 Jahren | IFICI fuer Wissenschaftler/Hochqualifizierte; engere Voraussetzungen | bei aktiven NHR-Faellen Bestand sichern; Neuzugaenge nur ueber IFICI |
+| NHR-Bestandsschutz behalten vs. nach IFICI wechseln | NHR mit 10-Prozent-Sonderbesteuerung auslaendischer Pensionen (ab 2020); endet nach 10 Jahren | IFICI für Wissenschaftler/Hochqualifizierte; engere Voraussetzungen | bei aktiven NHR-Faellen Bestand sichern; Neuzugaenge nur ueber IFICI |
 | Algarve-Wohnsitz mit Pension DBA-Anrechnung vs. DE-Wohnsitz | PT-Besteuerung auslaendischer Pensionen (auch DRV); DE-Anrechnung max. DE-Steuer | DE-Wohnsitz: nur deutsche Besteuerung | bei NHR/IFICI Algarve guenstiger; ohne NHR mit deutscher EStG-Belastung haeufig DE-Wohnsitz besser |
 | Madeira-Holding (5 Prozent KSt) vs. Portugal Festland (21 Prozent KSt) | Madeira International Business Center | Festland | bei Pillar-Two-Mindeststeuer 15 Prozent ab 2024 Madeira-Vorteil reduziert |
 | Schachteldividende PT-S.A. an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten | 0 Prozent via Freistellung | EU-MTRL vorzugswuerdig |
@@ -123,7 +123,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 - **NHR-Status**: ehemals 10 Jahre Sonderbesteuerung mit Pensionsfreistellung/-ermaessigung — bei Mandanten mit Status vor 2024 Bestandsschutz; ab 2024 Neuzugaenge nur ueber IFICI.
 - **§ 50d Abs. 9 EStG bei NHR**: deutsche Finanzverwaltung prueft Subject-to-Tax — wenn Portugal die DRV-Rente nicht effektiv besteuert (NHR-Befreiung), kann DE-Freistellung versagen. Konkrete Pruefung im Einzelfall.
-- **Madeira International Business Center**: ermaessigte KSt fuer dort ansaessige Gesellschaften — DBA-Berechtigung pruefen, ggf. Substanztest § 50d Abs. 3 EStG.
+- **Madeira International Business Center**: ermaessigte KSt für dort ansaessige Gesellschaften — DBA-Berechtigung pruefen, ggf. Substanztest § 50d Abs. 3 EStG.
 - **Anrechnungsmethode statt Freistellung**: Mandanten erwarten oft Freistellung — Beratung dass DBA-PT Anrechnung vorsieht, kann Verlustverwertung verbessern.
 - **Pillar Two**: ab 2024 bei effektiver Belastung unter 15 Prozent deutsche Top-Up-Tax — Madeira-Vorteile teilweise neutralisiert.
 
@@ -151,7 +151,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 >
 > Schritt 3: Top-Up-Tax wird primaer in PT erhoben (Qualified Domestic Minimum Top-Up Tax — QDMTT); andernfalls Income Inclusion Rule (IIR) bei deutscher Muttergesellschaft.
 >
-> Schritt 4: Madeira-Vorteil real weitgehend neutralisiert; nur noch fuer Steuerlatenz/Liquiditaet relevant.
+> Schritt 4: Madeira-Vorteil real weitgehend neutralisiert; nur noch für Steuerlatenz/Liquiditaet relevant.
 >
 > Anmerkung: konkrete Pillar-Two-Regelungen in §§ 1-100 MinStG (Mindestbesteuerungsgesetz, BGBl. 2023 I) pruefen.
 

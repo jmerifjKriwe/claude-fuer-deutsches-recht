@@ -1,6 +1,6 @@
 ---
 name: standardkostenmodell-skm
-description: "Beschreibt das Standardkostenmodell SKM als methodischen Kern der Erfuellungsaufwandsberechnung. Erklaert die Standardformel Aufwand pro Fall × Fallzahl Bandbreiten Komplexitaetsfaktoren Bezug auf DESTATIS-Lohnsaetze und Dokumentationsanforderungen. Mit Rechenbeispiel und Checkliste fuer die NKR-Methodenpruefung."
+description: "Beschreibt das Standardkostenmodell SKM als methodischen Kern der Erfuellungsaufwandsberechnung. Erklaert die Standardformel Aufwand pro Fall × Fallzahl Bandbreiten Komplexitaetsfaktoren Bezug auf DESTATIS-Lohnsaetze und Dokumentationsanforderungen. Mit Rechenbeispiel und Checkliste für die NKR-Methodenpruefung."
 ---
 
 # NKR-Standardkostenmodell (SKM)
@@ -35,7 +35,7 @@ Aufwand pro Fall
  = Zeitaufwand × Lohnsatz + Sachkosten + externe Dienstleistungskosten
 ```
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Pflicht-Inhalt zerlegen** in Einzeltaetigkeiten ("Activity Mapping")
 2. **Standardtaetigkeit** zuordnen (Lese-, Schreib-, Pruef-, Antwort-, Berechnungstaetigkeit)
@@ -61,7 +61,7 @@ Aufwand pro Fall
 
 | Methodische Frage | NKR-Position |
 |---|---|
-| Standardisierung vs. Einzelfallrechnung | Standardisierung bevorzugt fuer Vergleichbarkeit |
+| Standardisierung vs. Einzelfallrechnung | Standardisierung bevorzugt für Vergleichbarkeit |
 | Punktwert vs. Bandbreite | Bandbreite bei Unsicherheit ausweisen |
 | Pessimistische vs. optimistische Annahme | Mittlere Annahme, Sensitivitaet pruefen |
 | Komplexitaetsfaktor | konservativ ansetzen |

@@ -55,9 +55,9 @@ Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Ei
 
 ### Wichtige Paragraphen
 - **ALR I 8 § 1** "Eigenthuemer heisst derjenige, welcher befugt ist, ueber die Substanz einer Sache, oder eines Rechts, mit Ausschliessung Anderer, aus eigener Macht, durch sich selbst oder einen Dritten, zu verfuegen." — Definition des Eigentums.
-- **ALR I 8 §§ 26-30** Schranken des Eigentums durch das gemeine Wohl; Anker fuer Enteignung und Aufopferung.
+- **ALR I 8 §§ 26-30** Schranken des Eigentums durch das gemeine Wohl; Anker für Enteignung und Aufopferung.
 - **ALR I 9** Besitz: roemisch-rechtlich gepraegt, mit detaillierten Regelungen zu animus und corpus, zu Besitzverlust und Besitzschutz.
-- **ALR I 21** Dienstbarkeiten und Reallasten: extrem kasuistisch, mit eigenstaendigen Regelungen fuer Wegerecht, Wasserlauf, Hutung, Mast, Triftrechte. Diese Vorschriften sind als Altrechte teilweise bis heute relevant.
+- **ALR I 21** Dienstbarkeiten und Reallasten: extrem kasuistisch, mit eigenstaendigen Regelungen für Wegerecht, Wasserlauf, Hutung, Mast, Triftrechte. Diese Vorschriften sind als Altrechte teilweise bis heute relevant.
 - **ALR I 22** Erbpacht und Erbzinsrecht (Erbenzinsguter) — siehe Schwester-Skill `pralr-neu-013`.
 
 ### Heutige Fortwirkung
@@ -67,7 +67,7 @@ Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Ei
 
 ### Beruehmte Faelle / Personen
 - Streit ueber Hutungsrechte in Ostpreussen, Brandenburg und Hinterpommern vor 1945 als Massenphaenomen.
-- Streit um Erbpacht: das ALR-Erbenzinsverhaeltnis war Vorbild fuer das spaetere Erbbaurecht.
+- Streit um Erbpacht: das ALR-Erbenzinsverhaeltnis war Vorbild für das spaetere Erbbaurecht.
 
 ### Pruefraster
 1. Beweglich oder unbeweglich? Bei Unbeweglichem heutiges Grundbuchamt einschalten.

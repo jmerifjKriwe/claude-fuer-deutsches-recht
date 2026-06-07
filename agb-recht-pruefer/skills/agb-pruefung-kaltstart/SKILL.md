@@ -32,7 +32,7 @@ description: "Einstiegs- und Prüfungslinie für AGB Prüfung Kaltstart: sortier
 
 ## Aktuelle BGH-Praxisleitlinien
 
-### Schritt-fuer-Schritt-BGH-Linie
+### Schritt-für-Schritt-BGH-Linie
 1. **Vorrang Individualabrede § 305b BGB**: BGH staendige Rspr.; bei Spannung zwischen AGB und Individualabrede setzt sich Individualabrede durch.
 2. **Ueberraschende Klauseln § 305c BGB**: BGH legt strengen Massstab an; objektiv-typisierter Massstab.
 3. **Unklarheitenregel § 305c Abs. 2 BGB**: bei Auslegungsspielraum zu Lasten des Verwenders.

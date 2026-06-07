@@ -25,11 +25,11 @@ Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Sys
 
 ## Erste Schritte
 
-1. TARIC-Abfrage: Zollsaetze Praeferenzregelungen Zollaussetzungen und Kontingente fuer HS-Code pruefen.
-2. APS/GSP-Berechtigung pruefen: Ist Ursprungsland beguenstigtes Land? GSP Basis EBA DFQF?
-3. Zollaussetzungen pruefen: Autonome Aussetzungen nach VO 2021/2267 fuer Industrierohstoffe.
+1. TARIC-Abfrage: Zollsaetze Praeferenzregelungen Zollaussetzungen und Kontingente für HS-Code pruefen.
+2. APS/GSP-Berechtigung pruefen: Ist Ursprungsland begünstigtes Land? GSP Basis EBA DFQF?
+3. Zollaussetzungen pruefen: Autonome Aussetzungen nach VO 2021/2267 für Industrierohstoffe.
 4. Praeferenzkalkulation: Regel des hinreichenden Umwands und spezifische Listenregeln pruefen.
-5. vZTA-Strategie: Bei Unsicherheit vZTA beantragen fuer Planungssicherheit.
+5. vZTA-Strategie: Bei Unsicherheit vZTA beantragen für Planungssicherheit.
 6. Zolltarif-Optimierungsanalyse: Vergleich verschiedener Einreihungsoptionen und Praeferenzoptimierung.
 
 ## Rechtsrahmen
@@ -37,7 +37,7 @@ Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Sys
 - **VO (EWG) 2658/87 (KN-VO)**: Kombinierte Nomenklatur als EU-Zolltarif.
 - **VO (EU) 978/2012 (GSP-VO)**: Allgemeines Praeferenzsystem der EU.
 - **UZK Art. 33-37**: Verbindliche Zolltarifauskuenfte.
-- **VO (EU) 2021/2267**: Autonome Zollaussetzungen fuer bestimmte Industrieerzeugnisse.
+- **VO (EU) 2021/2267**: Autonome Zollaussetzungen für bestimmte Industrieerzeugnisse.
 - **UZK Art. 56-58**: Zolltarif und Anwendung von Praeferenzregelungen.
 
 ## Pruef-Raster
@@ -46,7 +46,7 @@ Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Sys
 - [ ] APS-Berechtigung des Ursprungslandes geprueft?
 - [ ] Zollaussetzungen auf Anwendbarkeit geprueft?
 - [ ] Praeferenzkalkulation durchgefuehrt?
-- [ ] vZTA-Strategie fuer Unsicherheitsfaelle bewertet?
+- [ ] vZTA-Strategie für Unsicherheitsfaelle bewertet?
 - [ ] Zolltarif-Optimierungspotenzial quantifiziert?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Sys
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

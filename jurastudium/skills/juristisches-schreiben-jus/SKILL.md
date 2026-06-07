@@ -27,17 +27,17 @@ Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wec
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 13 JAG NRW — Pruefungsinhalte 1. Staatsexamen (exemplarisch); andere Laender aequivalent
-- Art. 3 GG — Chancengleichheit: Grundlage fuer bundeslandspezifische Lernprofile
+- § 13 JAG NRW — Pruefungsinhalte 1. Staatsexamen (exemplarisch); andere Länder aequivalent
+- Art. 3 GG — Chancengleichheit: Grundlage für bundeslandspezifische Lernprofile
 - §§ 133, 157 BGB — Auslegungsmethoden: unveraendert kernelementig in allen Profilen
-- § 195 BGB — Verjaehrung als Dauerklassiker: bleibt in jedem Profil
+- § 195 BGB — Verjährung als Dauerklassiker: bleibt in jedem Profil
 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Dieser Skill ändert einzelne oder mehrere Einträge im Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`, ohne das gesamte Kaltstart-Interview erneut zu durchlaufen.
+Dieser Skill ändert einzelne oder mehrere Einträge im Lernprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md`, ohne das gesamte Kaltstart-Interview erneut zu durchlaufen.
 
 Einsatzbereiche:
 - Semesterwechsel (neue Lehrveranstaltungen, neues Prüfungsziel)
@@ -51,7 +51,7 @@ Einsatzbereiche:
 
 1. **Flag** (optional): `--lernstil`, `--bundesland`, `--fach`, `--material`, `--examen`, `--reset`
 2. Ohne Flag: interaktives Menü mit allen anpassbaren Feldern
-3. Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`
+3. Lernprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md`
 
 ## Ablauf
 
@@ -122,7 +122,7 @@ Geändert:
 Nicht geändert:
 - [Feld]: [aktueller Wert] (unverändert)
 
-Gespeichert in: ~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md
+Gespeichert in: ~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md
 
 **Auswirkungen auf laufende Skills:**
 - lernplan: [wird beim nächsten Aufruf mit neuen Daten neu berechnet]

@@ -40,7 +40,7 @@ Bei Veroeffentlichung urheberrechtlich oder aeusserungsrechtlich kritischer Beit
 - UWG § 8 Abs. 4 - Verbot des Missbrauchs der Abmahnung.
 - VVG (Versicherungsvertragsgesetz) - Anzeigepflichten und Obliegenheiten gegenueber Verlagshaftpflicht.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Standardklausel pruefen.** Wie weit ist die Haftungsfreistellung des Autors formuliert (Rechte am Werk, Zitierfreiheit, Bildrechte, Persoenlichkeitsrechte, Datenrechte)?
 2. **AGB-Grenze.** Bei Verbraucher-Autor (Privatperson, kein Unternehmer): Klausel darf nicht ueber typische, vorhersehbare Risiken hinausgehen; bei B2B weitere Reichweite.
@@ -92,7 +92,7 @@ Bei Veroeffentlichung urheberrechtlich oder aeusserungsrechtlich kritischer Beit
  Verletzung der vorstehenden Zusicherungen in Anspruch genommen
  wird, stellt der Autor den Verlag von diesen Ansprueche frei,
  insbesondere von angemessenen Kosten der Rechtsverteidigung
- (gesetzliche Gebuehren des Anwalts und Gerichtskosten).
+ (gesetzliche Gebühren des Anwalts und Gerichtskosten).
 
 (4) Der Verlag wird den Autor unverzueglich nach Kenntnis von einem
  geltend gemachten Anspruch informieren und ihm Gelegenheit zur
@@ -144,7 +144,7 @@ Anhand der Abmahnung wird vorgetragen, dass [...].
 
 Wir bitten Sie um eine sachliche Stellungnahme bis zum [Datum]. Bitte
 teilen Sie uns insbesondere mit:
-1. Quellen und Belege fuer die beanstandete Passage.
+1. Quellen und Belege für die beanstandete Passage.
 2. Lizenznachweise (sofern Bildmaterial).
 3. Ihre Sicht auf die rechtliche Bewertung.
 

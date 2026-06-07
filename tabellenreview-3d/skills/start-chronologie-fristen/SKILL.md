@@ -159,8 +159,8 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Wuerfel** — Metapher fuer die dreidimensionale Pruefstruktur: Zeilen (Dokumente) x Spalten (Pruefpunkte) x Perspektiven (Blickwinkel).
-- **Spaltenprompt** — Einzelne Frage oder Pruefanweisung, die fuer jedes Dokument in einer bestimmten Spalte beantwortet wird.
+- **Wuerfel** — Metapher für die dreidimensionale Pruefstruktur: Zeilen (Dokumente) x Spalten (Pruefpunkte) x Perspektiven (Blickwinkel).
+- **Spaltenprompt** — Einzelne Frage oder Pruefanweisung, die für jedes Dokument in einer bestimmten Spalte beantwortet wird.
 - **Zeilenprompt** — Dokumentspezifische Pruefanweisung, die das einzelne Dokument als Pruefgegenstand definiert.
 - **Arbeitsblatt-Perspektive** — Fachlicher Blickwinkel (Recht, Steuer, Wirtschaft), der denselben Wuerfel in einem eigenen Excel-Sheet abbildet.
 - **Kreuzblatt-Konsistenzpruefung** — Abgleich der drei Dimensionen auf Widersprueche und fehlende Eintraege.
@@ -177,7 +177,7 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 - BetrAVG — Bei Arbeitsvertrag-Portfolio-Reviews
 - DSGVO Art. 5 — Datensparsamkeit bei Verarbeitung von Vertragsdaten
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Kaltstart-Interview: Fallkategorie, Tabellengroesse, Pruefzweck und Exportformat erfassen.
 2. Wuerfelstruktur aufbauen: Spaltenprompts und Zeilenprompts definieren, Perspektiven festlegen.
@@ -187,26 +187,26 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 
 ## Skill-Tour (was gibt es hier?)
 
-- `arbeitsblatt-perspektiven-definieren` — Die drei Pruefperspektiven (Recht, Steuer, Wirtschaft) fuer den 3D-Wuerfel definieren.
+- `arbeitsblatt-perspektiven-definieren` — Die drei Pruefperspektiven (Recht, Steuer, Wirtschaft) für den 3D-Wuerfel definieren.
 - `audit-trail-protokoll` — Alle Review-Schritte mit Zeitstempel und Pruefer-ID protokollieren.
-- `belegkette-rueckverfolgung` — Belegkette fuer Forderungen und Zahlungen zurueckverfolgen.
+- `belegkette-rueckverfolgung` — Belegkette für Forderungen und Zahlungen zurueckverfolgen.
 - `caching-und-teil-rerun` — Zwischenergebnisse cachen und Teilbereiche ohne Vollneustart erneut ausfuehren.
 - `dokumentstapel-aufnehmen` — Dokumentenstapel (PDFs, Excel, Word) einlesen und Inventar erstellen.
 - `excel-multi-sheet-export` — 3D-Review-Ergebnis als Excel-Datei mit Arbeitsblaettern je Perspektive exportieren.
 - `kreuzblatt-konsistenzpruefung` — Abgleich der drei Dimensionen auf Widersprueche und fehlende Eintraege.
 - `pdf-bericht-erzeugen` — 3D-Review-Ergebnis als PDF-Bericht mit Zusammenfassung, Tabellen und Risikoampeln erzeugen.
-- `prompt-versionierung` — Prompt-Versionen fuer den 3D-Review verwalten und aendern.
-- `pruefer-uebergabe-paket` — Uebergabepaket fuer Prueferwechsel mit aktuellem Stand und offenen Positionen.
+- `prompt-versionierung` — Prompt-Versionen für den 3D-Review verwalten und aendern.
+- `pruefer-uebergabe-paket` — Uebergabepaket für Prueferwechsel mit aktuellem Stand und offenen Positionen.
 - `review-durchfuehren` — 3D-Tabellenreview konkret durchfuehren: jede Zeile in allen drei Perspektiven pruefen.
-- `risikoampel-aggregation` — Risikoampeln fuer alle geprueften Positionen aggregieren und Gesamtrisiko einschaetzen.
-- `spaltenprompts-definieren` — Spaltenprompts fuer die drei Pruefperspektiven definieren.
+- `risikoampel-aggregation` — Risikoampeln für alle geprueften Positionen aggregieren und Gesamtrisiko einschaetzen.
+- `spaltenprompts-definieren` — Spaltenprompts für die drei Pruefperspektiven definieren.
 - `tabellenreview-3d-kaltstart-interview` — Kaltstart-Interview: Fallkategorie, Tabellengroesse, Pruefzweck und Exportformat erfassen.
-- `vorlage-arbeitsvertrag-portfolio` — Vorlagetabelle fuer Portfolio-Review von Arbeitsvertraegen im 3D-Format.
-- `vorlage-immobilien-portfolio` — Vorlagetabelle fuer Portfolio-Review von Immobilienvertraegen im 3D-Format.
-- `vorlage-ma-due-diligence` — Vorlagetabelle fuer M-und-A-Due-Diligence im 3D-Format.
-- `vorlage-vendor-onboarding-3d` — Vorlagetabelle fuer Lieferanten-Onboarding-Review im 3D-Format.
+- `vorlage-arbeitsvertrag-portfolio` — Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen im 3D-Format.
+- `vorlage-immobilien-portfolio` — Vorlagetabelle für Portfolio-Review von Immobilienvertraegen im 3D-Format.
+- `vorlage-ma-due-diligence` — Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format.
+- `vorlage-vendor-onboarding-3d` — Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format.
 - `wuerfel-aufbauen` — 3D-Wuerfelstruktur aufbauen: Zeilen, Spalten und Perspektiven verknuepfen.
-- `zeilenprompts-definieren` — Zeilenprompts fuer einzelne Pruefpositionen im 3D-Review definieren.
+- `zeilenprompts-definieren` — Zeilenprompts für einzelne Pruefpositionen im 3D-Review definieren.
 
 ## Worauf besonders achten
 
@@ -228,7 +228,7 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 
 - `insolvenzverwaltung` — Forderungstabellen sind ein typischer 3D-Review-Anwendungsfall.
 - `aktenauszug-gerichtsverfahren` — Gerichtsakte-Bausteine koennen als Zeilen in einen Vertragsstapel einfliessen.
-- `bav-strategie-konzern` — bAV-Vertragsstapel eignen sich fuer 3D-Review auf Durchfuehrungswege und Mitbestimmung.
+- `bav-strategie-konzern` — bAV-Vertragsstapel eignen sich für 3D-Review auf Durchfuehrungswege und Mitbestimmung.
 - `immobilienrechtspraxis` — Immobilien-Portfolio-Reviews als Standardanwendungsfall des 3D-Wuerfels.
 
 ## Quellen und Aktualitaet

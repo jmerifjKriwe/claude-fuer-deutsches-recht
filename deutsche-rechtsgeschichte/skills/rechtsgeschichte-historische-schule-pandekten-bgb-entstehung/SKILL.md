@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektist
 
 Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektistik. Savigny, Puchta, Windscheid, Jhering und die Pandektenwissenschaft als Grundlage des BGB 1900. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -49,7 +66,7 @@ Die Historische Rechtsschule (Begruender: Savigny, ab 1814) wandte sich gegen da
 - Savigny Vom Beruf 1814: Erstausgabe Heidelberg
 - Windscheid Pandektenrecht: Erstausgabe 1862-70, Band und Seite angeben
 - Jhering Geist: Erstausgabe 1852-65; Jhering-Briefe an Windscheid (1907 veroeffentlicht)
-- BGB-Materialien: Mugdan Bd. I (Allgemeiner Teil) fuer Pandektistik-Einfluss
+- BGB-Materialien: Mugdan Bd. I (Allgemeiner Teil) für Pandektistik-Einfluss
 
 ## Output
 

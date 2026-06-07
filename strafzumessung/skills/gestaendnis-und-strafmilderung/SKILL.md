@@ -60,7 +60,7 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 ### Teilgestaendnis
 
 - Nur eines von mehreren Vorwuerfen wird eingestanden.
-- Wirkt nur fuer die eingestandene Tat.
+- Wirkt nur für die eingestandene Tat.
 - Vorsicht: kein Gestaendnis = kein automatisches Bestreiten der anderen Vorwuerfe.
 
 ### Spaetes Gestaendnis
@@ -87,7 +87,7 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 
 **Diese Werte sind orientierend** und durch die Rechtsprechung des einschlaegigen Tatgerichts gepraegt.
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Mandantengespraech**: Beweislage und Risiko ohne Gestaendnis besprechen.
 2. **Beweislage** pruefen:
@@ -100,7 +100,7 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
  - Verbindung mit Reue, Schadenswiedergutmachung, TOA.
 6. **In der Hauptverhandlung**: Gestaendnis als zentrales Strafmilderungselement im Plaedoyer aufgreifen.
 
-## Schritt-fuer-Schritt-Anleitung (Anklage)
+## Schritt-für-Schritt-Anleitung (Anklage)
 
 - Strafzumessungs-Antrag beruecksichtigt Gestaendnis-Wirkung.
 - Bei Verstaendigung Strafrahmen-Vorschlag entsprechend.

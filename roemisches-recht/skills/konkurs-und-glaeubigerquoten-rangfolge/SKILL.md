@@ -19,7 +19,7 @@ Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt die Rangfolge 
 
 ## Aufgabe
 
-Skill fuer die roemisch-rechtliche Glaeubigerrangordnung.
+Skill für die roemisch-rechtliche Glaeubigerrangordnung.
 
 ## Pfandglaeubiger
 
@@ -32,7 +32,7 @@ Skill fuer die roemisch-rechtliche Glaeubigerrangordnung.
 - Krasse Beispiele:
  - Beerdigungskosten ("funeris causa").
  - Ehevermoegen der Witwe (dos).
- - Pflegevormundschaft fuer Muendelvermoegen.
+ - Pflegevormundschaft für Muendelvermoegen.
  - Steuerforderungen des Fiscus.
 
 ## Quotale Verteilung

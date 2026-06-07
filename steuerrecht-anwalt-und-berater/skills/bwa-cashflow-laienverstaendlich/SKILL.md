@@ -13,7 +13,7 @@ description: "Cashflow-Darstellung für Mandant in laienverstaendlicher Form. An
 
 ## Kernsachverhalt
 
-Die DRS-21-Kapitalflussrechnung ist methodisch korrekt, aber fuer den nicht-finanzaffinen Mandanten zu komplex. Fuer das Mandantengespraech braucht es eine einfachere Darstellung: Wie viel Cash kam laufend rein? Was wurde investiert? Was wurde an Bank/Gesellschafter zurueckgezahlt? Was bleibt am Monatsende? Der Steuerberater erstellt eine 1-seitige Brutto-Cashflow-Uebersicht, die dem Mandanten die Geldfluesse zeigt — ohne ihn zu ueberfordern.
+Die DRS-21-Kapitalflussrechnung ist methodisch korrekt, aber für den nicht-finanzaffinen Mandanten zu komplex. Fuer das Mandantengespraech braucht es eine einfachere Darstellung: Wie viel Cash kam laufend rein? Was wurde investiert? Was wurde an Bank/Gesellschafter zurueckgezahlt? Was bleibt am Monatsende? Der Steuerberater erstellt eine 1-seitige Brutto-Cashflow-Uebersicht, die dem Mandanten die Geldfluesse zeigt — ohne ihn zu ueberfordern.
 
 ## Kaltstart-Rueckfragen
 
@@ -79,7 +79,7 @@ BANK-/KASSE-BESTAND ANFANG [X]
 BANK-/KASSE-BESTAND ENDE [X]
 ```
 
-### Phase 2 — Erklaerung fuer den Mandanten
+### Phase 2 — Erklaerung für den Mandanten
 
 - "Laufender Cashflow" = Geld, das aus dem normalen Geschaeft hineinkommt (ohne Investitionen, ohne Bankgeschaefte).
 - "Investitions-Cashflow" = Geld, das in neue Anlagen geflossen oder aus Verkauf alter zurueckgeflossen ist.
@@ -92,7 +92,7 @@ BANK-/KASSE-BESTAND ENDE [X]
 - Mandant sieht visuell, woher das Geld kam und wohin es ging.
 - DATEV Praesentation-Modul oder Excel-Wasserfalldiagramm.
 
-### Phase 4 — Kennzahlen fuer Mandant
+### Phase 4 — Kennzahlen für Mandant
 
 - Free Cashflow (FCF) = laufender Cashflow minus Investitions-Cashflow.
 - Bedeutung: was bleibt nach Bedienung der laufenden Investitionen?

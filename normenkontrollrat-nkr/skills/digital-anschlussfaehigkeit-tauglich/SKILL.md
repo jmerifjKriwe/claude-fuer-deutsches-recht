@@ -35,7 +35,7 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 4. **Klare Regelungen / einheitliche Begriffe** (maschinenlesbar)
 5. **Automatisierung ermoeglichen** — Format, Strukturierung
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. Digitale Kommunikation
 
@@ -58,7 +58,7 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 ### 4. Datenschutz / Sicherheit
 
 - DSGVO-Konformitaet
-- Rechtsgrundlage fuer Verarbeitung
+- Rechtsgrundlage für Verarbeitung
 - Speicherfrist
 - Loeschpflichten
 
@@ -96,12 +96,12 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der Digitalcheck wurde vom Ressort durchgefuehrt; die Ergebnisse sind dokumentiert. Der NKR haelt die digitale Anschlussfaehigkeit fuer gewaehrleistet."
+- "Der Digitalcheck wurde vom Ressort durchgefuehrt; die Ergebnisse sind dokumentiert. Der NKR haelt die digitale Anschlussfaehigkeit für gewaehrleistet."
 - "Der NKR weist darauf hin, dass im Vorhaben kein Hinweis auf die Anwendung der Standards XOEV und FIM enthalten ist. Eine Klarstellung waere wuenschenswert."
 - "Der NKR empfiehlt, das Verfahren an den OZG-Portalverbund anzuschliessen und das Once-Only-Prinzip im Sinne des [§ X OZG / EU-SDG-VO] umzusetzen."
 - "Der NKR weist darauf hin, dass die vorgesehene Pflicht zur monatlichen [Lebensbescheid] in der bisherigen Ausgestaltung nicht maschinenlesbar abbildbar ist; eine Praezisierung des Datenformats ist erforderlich."
 
-### Checkliste fuer den Digitalcheck (Pflichtbestandteile)
+### Checkliste für den Digitalcheck (Pflichtbestandteile)
 
 - [ ] Digitale Kommunikation moeglich
 - [ ] OZG-Anschluss

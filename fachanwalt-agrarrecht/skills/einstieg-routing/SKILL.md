@@ -14,7 +14,7 @@ Dieser Einstieg routet **Fachanwalt Agrarrecht** vom ersten Sachverhalt zu Rolle
 - `agrar-einfuehrung-rechtsquellen` — Agrar Einfuehrung Rechtsquellen
 - `agrar-jagdpacht-streit-mandantenfragen-typisch-paechterbetrieb` — Agrar Jagdpacht Streit Mandantenfragen Typisch Paechterbetrieb
 - `agrar-tierhaltung-erstgespraech-mandatsannahme-duenge` — Agrar Tierhaltung Erstgespraech Mandatsannahme Duenge
-- `agrar-wolfsschaden-cross-glozez-foerderung-gap` — Agrar Wolfsschaden Cross Glozez Foerderung Gap
+- `agrar-wolfsschaden-cross-glozez-foerderung-gap` — Agrar Wolfsschaden Cross Glozez Förderung Gap
 - `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `anerbenrecht-bgb-spezial-compliance` — Anerbenrecht Bgb Compliance
 - `cross-duengeverordnung-interessen-erbrecht-beweislast` — Cross Duengeverordnung Interessen Erbrecht Beweislast

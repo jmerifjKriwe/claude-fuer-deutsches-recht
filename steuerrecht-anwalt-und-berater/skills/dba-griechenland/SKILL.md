@@ -24,7 +24,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 3. Pension aus deutscher DRV bei Wohnsitz Griechenland?
 4. Beteiligungshoehe?
 5. MLI-Anpassungen?
-6. EU-Mitgliedschaft seit 01.01.1981 — MTRL anwendbar fuer Beteiligungen?
+6. EU-Mitgliedschaft seit 01.01.1981 — MTRL anwendbar für Beteiligungen?
 7. Bauausfuehrung?
 8. Ansaessigkeitsbescheinigung?
 
@@ -35,7 +35,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: Deutschland und Griechenland beide Unterzeichner und ratifiziert. Gemaess MLI-Anwendungsgesetz (BGBl. 2024 I Nr. 196) finden MLI-Modifikationen fuer DBA-Griechenland ab 01.01.2025 Anwendung.
+- **MLI**: Deutschland und Griechenland beide Unterzeichner und ratifiziert. Gemaess MLI-Anwendungsgesetz (BGBl. 2024 I Nr. 196) finden MLI-Modifikationen für DBA-Griechenland ab 01.01.2025 Anwendung.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -54,7 +54,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 
 ### Passive Einkuenfte
 - **Dividenden** (Art. VII): 5 Prozent bei Schachtelbeteiligung (mind. 25 Prozent), 25 Prozent sonst (BZST 2025, Tabelle DBA-Griechenland). EU-MTRL Schachtel 0 Prozent vorrangig (§ 43b EStG).
-- **Zinsen** (Art. VIII): DBA-Satz max. 10 Prozent (BZST 2025). Besonderheit: Quellensteuerbefreiung fuer Zinsen aus griechischen Staatsanleihen und oeffentliche Foerderkredite; regelmaessig Quellensteuer 0/15 Prozent nach nationalem Recht, DBA-Limit 10 Prozent.
+- **Zinsen** (Art. VIII): DBA-Satz max. 10 Prozent (BZST 2025). Besonderheit: Quellensteuerbefreiung für Zinsen aus griechischen Staatsanleihen und öffentliche Foerderkredite; regelmaessig Quellensteuer 0/15 Prozent nach nationalem Recht, DBA-Limit 10 Prozent.
 - **Lizenzgebuehren** (Art. IX): DBA-Quellensteuer 10 Prozent, falls keine EU-Befreiung (BZST 2025). EU-Zins-Lizenz-Richtlinie bei verbundenen Unternehmen vorrangig (0 Prozent).
 
 ### Vermeidungs-Methode
@@ -62,7 +62,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 
 ### Besonderheiten
 - **DBA aelteren Datums** mit roemischen Artikelnummern und abweichendem Wortlaut zum OECD-MA — bei Zitat sorgfaeltig referenzieren.
-- **Pensionen**: gesetzliche Renten Wohnsitzstaat-Prinzip; oeffentlicher Dienst Kassenstaat.
+- **Pensionen**: gesetzliche Renten Wohnsitzstaat-Prinzip; öffentlicher Dienst Kassenstaat.
 - **EU-Beitritt** Griechenland 01.01.1981 — seither EU-Richtlinien anwendbar.
 
 ## Workflow
@@ -91,7 +91,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 
 ### Erstattungsverfahren griechische Quellensteuer
 
-- **Zustaendigkeit**: griechische **AADE (Anexartiti Archi Dimosion Esodon)** — Unabhaengige Behoerde fuer oeffentliche Einnahmen. Aktuelle Zustaendigkeit auf **aade.gr** pruefen.
+- **Zuständigkeit**: griechische **AADE (Anexartiti Archi Dimosion Esodon)** — Unabhaengige Behörde für öffentliche Einnahmen. Aktuelle Zuständigkeit auf **aade.gr** pruefen.
 - **Antragsformulare**: griechische DBA-Formulare zur Quellensteuer-Erstattung; **konkrete Formularnummern vom Anwender mit aktuellem Stand auf aade.gr zu verifizieren**.
 - **Frist**: nach griechischem Steuerrecht regelmaessig **fuenf Jahre**.
 - **Bearbeitungsdauer**: 12-36 Monate; bei strittigen Faellen erheblich laenger. Griechische Verwaltung historisch langsam.
@@ -115,7 +115,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Schachteldividende GR-AE an DE-Mutter ueber DBA (5 Prozent ab 25 Prozent Beteiligung) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung AADE (langwierig) | 0 Prozent via Freistellung vorab | EU-MTRL vorzugswuerdig |
-| Tonnage Tax fuer Schifffahrt vs. ordentliche KSt | griechisches Tonnage-System effektiv sehr niedrige Belastung | Standard-KSt | bei Reedereien Tonnage-System Standard; aber DBA-Berechtigung pruefen |
+| Tonnage Tax für Schifffahrt vs. ordentliche KSt | griechisches Tonnage-System effektiv sehr niedrige Belastung | Standard-KSt | bei Reedereien Tonnage-System Standard; aber DBA-Berechtigung pruefen |
 | Pension DRV an GR-Wohnsitz vs. DE-Wohnsitz | GR-Besteuerung auslaendischer Pensionen variiert; ggf. Verstaendigungsverfahren | DE-Wohnsitz: nur deutsche Besteuerung | Beratung im Einzelfall |
 | Hotelimmobilien-Beteiligung GR vs. Direktinvestition DE | Belegenheits-Besteuerung GR (Art. 6 DBA); GR-AE-Holding ggf. mit Steuervorteil | DE: Veranlagung nach deutscher Logik | bei substanziellem Hotel-Engagement GR-Vehikel sinnvoll |
 
@@ -124,9 +124,9 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 - **DBA mit roemischen Artikelnummern (Art. II, VII, IX)**: nicht mit OECD-MA-Nummerierung verwechseln. Vor Zitat in Memos Stelle pruefen.
 - **Schifffahrt Art. VI**: tatsaechliche Geschaeftsleitung der Reederei — bei deutschen Investoren in griechische Reederei DBA-Berechtigung der Reederei pruefen.
 - **Pension Klassifikation**: griechische Pensionen aus IKA (gesetzliche Sozialversicherung) gegenueber privaten oder berufsstaendischen Pensionen — unterschiedliche DBA-Klausel.
-- **EU-Mitgliedschaft seit 01.01.1981**: Mutter-Tochter-Richtlinie ab 1990 anwendbar — fuer Schachteldividenden vorrangig.
+- **EU-Mitgliedschaft seit 01.01.1981**: Mutter-Tochter-Richtlinie ab 1990 anwendbar — für Schachteldividenden vorrangig.
 - **MLI ab 01.01.2025**: PPT-Klausel wirkt sich auf bestehende Strukturen aus; Mandanten-Memos aktualisieren.
-- **Renten-Sondersteuer fuer Auslaender** (griechisches Pendant zur portugiesischen NHR/spanischen Beckham): historische Sondersteuersaetze fuer auslaendische Pensionisten — aktuellen Stand und Subject-to-Tax-Klausel § 50d Abs. 9 EStG pruefen.
+- **Renten-Sondersteuer für Auslaender** (griechisches Pendant zur portugiesischen NHR/spanischen Beckham): historische Sondersteuersaetze für auslaendische Pensionisten — aktuellen Stand und Subject-to-Tax-Klausel § 50d Abs. 9 EStG pruefen.
 
 ## Berechnungsbeispiel — Schachteldividende GR-AE an DE-Mutter
 
@@ -140,7 +140,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 
 ## Berechnungsbeispiel — Dividende an deutsche Privatperson (Streubesitz)
 
-> Deutscher Privatanleger erhaelt 5.000 EUR Dividende aus GR-AE (Streubesitz, unter 25 Prozent Beteiligung). Nationale griechische Quellensteuer 5 Prozent (ggf. Tarifaenderungen — aktuell pruefen) = 250 EUR. DBA-Hoechstsatz fuer Streubesitz 25 Prozent — nationale Steuer darunter, keine Erstattung.
+> Deutscher Privatanleger erhaelt 5.000 EUR Dividende aus GR-AE (Streubesitz, unter 25 Prozent Beteiligung). Nationale griechische Quellensteuer 5 Prozent (ggf. Tarifaenderungen — aktuell pruefen) = 250 EUR. DBA-Hoechstsatz für Streubesitz 25 Prozent — nationale Steuer darunter, keine Erstattung.
 >
 > Schritt 1: In DE: Abgeltungsteuer 25 Prozent + 5,5 Prozent Soli = 26,375 Prozent von 5.000 = 1.318,75 EUR.
 >

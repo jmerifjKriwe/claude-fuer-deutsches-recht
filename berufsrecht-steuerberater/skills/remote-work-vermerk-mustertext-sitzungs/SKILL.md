@@ -9,6 +9,23 @@ description: "Remote Work: vertiefter Berufsrechts-Skill für Steuerberater; pr�
 
 Remote Work: vertiefter Berufsrechts-Skill für Steuerberater; prüft Remote Work im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 32 StBerG` — Hilfeleistung in Steuersachen.
+- `§ 33 StBerG` — Befugnis der Steuerberater.
+- `§ 57 Abs. 1 StBerG` — allgemeine Berufspflichten.
+- `§ 57a StBerG` — Werbung.
+- `§ 64 StBerG` — Gebühren.
+- `§ 67 StBerG` — Handakten.
+- `§ 80 AO` — Bevollmaechtigte und Beistand.
+- `§ 153 AO` — Berichtigungspflicht.
+- `§ 370 AO` — Steuerhinterziehung als Risikogrenze.
+- `§ 203 Abs. 1 Nr. 3 StGB` — Verschwiegenheit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

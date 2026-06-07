@@ -1,13 +1,13 @@
 ---
 name: konnossement-risiko-memo-schreiben
-description: "Konnossement: Gesamtrisikobewertung fuer Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konnossement – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Konnossement: Gesamtrisikobewertung fuer Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,20 +26,20 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Konnossem
 3. Hauptrisiken identifizieren: Wertverfall; Reeder-Insolvenz; Vorrangglaeubigerrechte; Wrackpflicht.
 4. Handlungsoptionen mit Kosten-Nutzen-Analyse formulieren.
 5. Zeitkritische Massnahmen priorisieren: Arrest; Versicherungspruefung; ISM-Status.
-6. Empfehlungsmatrix fuer Entscheidungstraeger erstellen.
+6. Empfehlungsmatrix für Entscheidungstraeger erstellen.
 
 ## Rechtsrahmen
 - HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules; InsO §§ 49-51 Absonderung; WSG §§ 1-12 Wrackpflicht; ZPO §§ 864-871 Zwangsversteigerung.
 
 ## Prüfraster
-- Ist aktueller Schiffswert fuer Konnossements-Transaktion (Bill of Lading) dokumentiert?
+- Ist aktueller Schiffswert für Konnossements-Transaktion (Bill of Lading) dokumentiert?
 - Sind alle Vorrangglaeubigerrechte (gesetzliche Schiffsglaeubigerrechte) bekannt?
 - Ist Wrackbeseitigungs-Versicherungsdeckung bestaetigt?
 - Ist Insolvenzwahrscheinlichkeit des Reeders bewertet?
 - Sind Handlungsoptionen mit Zeitplan und Kosten aufgelistet?
 
 ## Typische Fallstricke
-- Schiffswertgutachten fuer Konnossements-Transaktion (Bill of Lading) veraltet; Marktpreise schwanken stark.
+- Schiffswertgutachten für Konnossements-Transaktion (Bill of Lading) veraltet; Marktpreise schwanken stark.
 - Memo ohne Priorisierung zeitkritischer Massnahmen fuehrt zu Untaetigkeit.
 - Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
 

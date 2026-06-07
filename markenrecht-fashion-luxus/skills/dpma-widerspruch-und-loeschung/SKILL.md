@@ -147,7 +147,7 @@ Begründung folgt gesondert.
 Bevor der Widerspruch eingelegt wird, klaere:
 1. Ist die Widerspruchsfrist (3 Monate ab Veroeffentlichung, § 42 I MarkenG) noch nicht abgelaufen?
 2. Wird eine eingetragene aeltere Marke als Widerspruchsmarke eingesetzt oder eine benutzungsgeschützte Marke (§ 4 Nr. 2 MarkenG)?
-3. Liegen alle Tatsachen fuer den Benutzungsnachweis der Widerspruchsmarke vor (falls die juengere Marke Benutzungseinrede erhebt, §§ 43/26 MarkenG)?
+3. Liegen alle Tatsachen für den Benutzungsnachweis der Widerspruchsmarke vor (falls die juengere Marke Benutzungseinrede erhebt, §§ 43/26 MarkenG)?
 4. Ist Loeschung statt Widerspruch sinnvoller (§§ 49/50/54 MarkenG — nach Ablauf der Widerspruchsfrist)?
 
 ## Aktuelle Rechtsprechung

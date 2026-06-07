@@ -17,7 +17,7 @@ description: "FA Medizinrecht Start Belegmatrix Fristen im Medizinrecht: prüft 
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-medizinrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-medizinrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-medizinrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `spezial-arzthaftung-fristen-form-und-zustaendigkeit` | Arzthaftung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-arzthaftung-fristen-form-und-zuständigkeit` | Arzthaftung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -328,7 +328,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
 
-## 6. `spezial-arzthaftung-fristen-form-und-zustaendigkeit`
+## 6. `spezial-arzthaftung-fristen-form-und-zuständigkeit`
 
 **Fokus:** Arzthaftung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 

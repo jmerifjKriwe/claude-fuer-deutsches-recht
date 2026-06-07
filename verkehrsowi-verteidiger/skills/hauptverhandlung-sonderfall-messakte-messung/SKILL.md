@@ -52,7 +52,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Sonderfall 1: Schriftliches Verfahren § 72 OWiG:**
  - Voraussetzung: Einverstaendnis Betroffener; Geldbusse bis 250 EUR.
  - Vorteil: keine Verhandlung, keine Reisekosten.
- - Nachteil: keine Beweisaufnahme, keine persoenliche Eindruck.
+ - Nachteil: keine Beweisaufnahme, keine persönliche Eindruck.
 - **Sonderfall 2: Berufskraftfahrer mit drohendem Fahrverbot:**
  - **Argument Existenzbedrohung:** monatliche Einkommensausfaelle, Familie, Arbeitsplatzverlust.
  - **OLG-Linie zur Abwehr Fahrverbot:** restriktiv; "unzumutbare Haerte" eng auszulegen; ggf. Kompensation Erhoehung Geldbusse (BGH-Linie 50-100 %).
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Aussetzung Vollziehung Fahrverbot:** Antrag bei AG vor Rechtskraft.
  - **Vorlaeufige Entziehung Fuehrerschein § 111a StPO** im Strafverfahren: Beschwerde § 304 StPO.
 - **Wiedereinsetzung § 52 OWiG:** 1 Woche ab Wegfall des Hindernisses.
-- **Praxis-Tipp:** Bei drohendem Fahrverbot Berufskraftfahrer regelmaessig persoenliches Erscheinen; persoenlicher Eindruck Betroffener oft entscheidend fuer Haerte-Pruefung.
+- **Praxis-Tipp:** Bei drohendem Fahrverbot Berufskraftfahrer regelmaessig persönliches Erscheinen; persönlicher Eindruck Betroffener oft entscheidend für Haerte-Pruefung.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren
 

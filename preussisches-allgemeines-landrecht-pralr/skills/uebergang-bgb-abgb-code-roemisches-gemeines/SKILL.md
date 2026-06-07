@@ -57,7 +57,7 @@ ALR-Loesung: Vollstaendig nach ALR. Heute relevant nur, wenn Folgeerbschaft aus 
 
 ### Subsumtionsbeispiel: Hutungsrecht im Grundbuch heute eingetragen
 Sachverhalt: 1885 begruendetes Hutungsrecht in Brandenburg ist heute noch im Grundbuch.
-Pruefung: EGBGB Art. 184 — Bestand des Altrechts; Ablösung nach Sachenrechtsbereinigungsgesetz 1994 (fuer Ostdeutschland) oder landesrechtliche Bereinigungsgesetze.
+Pruefung: EGBGB Art. 184 — Bestand des Altrechts; Ablösung nach Sachenrechtsbereinigungsgesetz 1994 (für Ostdeutschland) oder landesrechtliche Bereinigungsgesetze.
 
 ### Subsumtionsbeispiel: Fideikommiss aufgeloest 1938
 Sachverhalt: Stammgut der Familie X war ALR-Fideikommiss.
@@ -66,7 +66,7 @@ Pruefung: Aufloesungsgesetz 26.01.1938 — Sondervermoegen wird Vermoegen aller 
 ### Heutige Praxisrelevanz
 - Erbschaftsstreitigkeiten ueber Stammguter und alte Adelsvermoegen.
 - Grundbuch-Eintragungen aus dem 19. Jh.
-- Lokales Bereinigungsgesetzrecht der Laender (Sachenrechtsbereinigungsgesetz fuer Ostdeutschland 1994).
+- Lokales Bereinigungsgesetzrecht der Länder (Sachenrechtsbereinigungsgesetz für Ostdeutschland 1994).
 
 ## Ausgabeformat
 

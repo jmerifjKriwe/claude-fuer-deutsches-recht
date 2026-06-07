@@ -12,7 +12,7 @@ description: "Cyber Datenschutz im Plugin Fachanwalt It Recht: prüft konkret Cy
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` | Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung. |
+| `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` | Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behörden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung. |
 | `fachanwalt-it-recht-datenschutz-folgenabschaetzung` | Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Prüfraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung. |
 | `fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung` | KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitätserklarung. Normen KI-VO 2024/1689 Anhang III Hochrisiko-Liste Art. 48 CE-Kennzeichnung Art. 99 Bußgelder bis 35 Mio EUR Anwendbarkeit ab 2.8.2026. Prüfraster Risiko-Klassifikation Anhang-III-Prüfung Risikomanagement Daten-Governance Dokumentation Transparenz Cybersicherheit menschliche Aufsicht. Output Konformitätsbewertungsdossier mit Prüfergebnis Massnahmenplan und CE-Kennzeichnungsunterlage. Abgrenzung zu ki-governance-Plugin und fachanwalt-it-recht-datenschutz-folgenabschaetzung. |
 | `fachanwalt-it-recht-open-source-compliance-audit` | Open-Source-Software Compliance Audit für GPL LGPL MIT BSD Apache Copyleft und SBOM. Anwendungsfall Software-Produkt enthaelt Open-Source-Komponenten und Lizenzpflichten muessen vor Auslieferung geprüft werden. Normen GPL v2/v3 AGPL LGPL MIT Apache-2.0 Copyleft-Wirkung EU-Cyber-Resilienz-Act SBOM-Pflicht. Prüfraster Inventarisierung Komponentenliste Lizenzkonflikte permissiv vs. Copyleft SBOM-Erstellung Werkzeuge FOSSology BlackDuck. Output Compliance-Audit-Bericht mit Lizenzkarte Konflikten Bereinigungsplan und SBOM-Dokumentation. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen. |
@@ -29,7 +29,7 @@ description: "Cyber Datenschutz im Plugin Fachanwalt It Recht: prüft konkret Cy
 
 ## 1. `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen`
 
-**Fokus:** Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung.
+**Fokus:** Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behörden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung.
 
 # Cyber-Vorfall-Sofortmaßnahmen
 
@@ -43,7 +43,7 @@ description: "Cyber Datenschutz im Plugin Fachanwalt It Recht: prüft konkret Cy
 6. Liegt eine Erpressungsforderung vor — Betrag, Kryptowährung, Zahlungsfrist, TOR-Kontaktadresse?
 7. Wurden bereits eigene Maßnahmen ergriffen (Abschaltung — problematisch für Forensik; Passwortzurücksetzung)?
 8. Ist Datenschutzbeauftragter involviert — wurde er bereits informiert?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -162,7 +162,7 @@ D) Ergriffene und geplante Massnahmen
 - Passwortzuruecksetzung [Datum]
 - Benachrichtigung Betroffene geplant ab [Datum]
 
-E) Kontakt fuer Rueckfragen
+E) Kontakt für Rueckfragen
 DSB: [Name, Tel, E-Mail]
 
 [Ort, Datum, Unterschrift]
@@ -318,7 +318,7 @@ Aktenzeichens.
 1. Schwellwertanalyse — DSFA-Pflicht ja/nein
 2. Systematische Beschreibung der Verarbeitung
 3. Notwendigkeit und Verhaeltnismaessigkeit Art. 35 Abs. 7 lit. b DSGVO
-4. Risikobewertung fuer Betroffene (Eintrittswahrscheinlichkeit x Schwere)
+4. Risikobewertung für Betroffene (Eintrittswahrscheinlichkeit x Schwere)
 5. Geplante Abhilfemassnahmen TOM Art. 32 DSGVO
 6. Restrisiko hoch — Konsultation Art. 36 DSGVO
 7. Dokumentation in Verarbeitungsverzeichnis Art. 30 DSGVO
@@ -330,7 +330,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schreibvorlage Konsultationsanfrage Art. 36 DSGVO
 
 ```
-An die Aufsichtsbehoerde fuer den Datenschutz [Land]
+An die Aufsichtsbehoerde für den Datenschutz [Land]
 
 Konsultation nach Art. 36 DSGVO — Az. (intern) [...]
 
@@ -338,7 +338,7 @@ Sehr geehrte Damen und Herren,
 
 als Verantwortlicher zeigen wir gemaess Art. 36 Abs. 1 DSGVO an dass die
 geplante Verarbeitungstaetigkeit [Bezeichnung] trotz der getroffenen
-Abhilfemassnahmen ein verbleibendes hohes Risiko fuer die Rechte und
+Abhilfemassnahmen ein verbleibendes hohes Risiko für die Rechte und
 Freiheiten natuerlicher Personen aufweist.
 
 Beigefuegt sind nach Art. 36 Abs. 3 DSGVO:
@@ -366,7 +366,7 @@ Mit freundlichen Gruessen
 
 ## Faktische Updates (Stand 05/2026)
 
-- **FRIA (Art. 27 KI-VO) — ab 02.08.2026:** Bei Hochrisiko-KI-Systemen muessen bestimmte Betreiber (oeffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditscoring, Krankenversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung durchfuehren. Integriert mit DSFA moeglich, rechtlich aber eigenstaendig.
+- **FRIA (Art. 27 KI-VO) — ab 02.08.2026:** Bei Hochrisiko-KI-Systemen muessen bestimmte Betreiber (öffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditscoring, Krankenversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung durchfuehren. Integriert mit DSFA moeglich, rechtlich aber eigenstaendig.
 - **EDSA-Stellungnahme 28/2024 zu KI-Modellen:** Bei KI-Modellen, die mit personenbezogenen Daten trainiert wurden, sind Anonymitaet, Pseudonymisierung, Modellausgaben mit Personenbezug und Rechenschaftspflicht (Art. 5 Abs. 2 DSGVO) zu pruefen. Quelle: edpb.europa.eu.
 - **Aktualisierte BfDI/LfDI-Blacklists Art. 35 Abs. 4 DSGVO:** vor jeder DSFA aktuelle Listen live pruefen.
 - **NIS-2 / DORA Schnittstelle:** Bei Hochrisiko-Verarbeitungen mit IT-Sicherheits-Bezug parallele Cyber-Risikobewertung dokumentieren.
@@ -415,7 +415,7 @@ Genehmigt von: [FUNKTION, NAME]
 6. Soll eine Benannte Stelle (Notified Body) eingeschaltet werden (Pflicht bei Biometrik und Systemen für kritische Infrastruktur)?
 7. Wie ist der Zeitplan bis Markteinführung — wann muss CE-Kennzeichnung vorliegen?
 8. Gibt es bereits eine KI-Folgenabschätzung oder eine Datenschutz-Folgenabschätzung (Art. 35 DSGVO) im Zusammenhang mit dem System?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -574,7 +574,7 @@ IV. Nachmarkt-Monitoring Art. 72
  meldepflichtige Vorfaelle Art. 73: gemeldet am Datum]
 
 V. Kooperation
- Wir stehen fuer weitere Auskuenfte zur Verfuegung und
+ Wir stehen für weitere Auskuenfte zur Verfuegung und
  benennen als Kontaktperson: [Name, E-Mail, Tel].
 
 Anlagen:
@@ -663,10 +663,10 @@ Mit freundlichen Gruessen
 
 ## Faktische Updates (Stand 05/2026)
 
-- **02.08.2026 — Hochrisiko Anhang III in Kraft:** Anbieter und Betreiber von Hochrisiko-KI-Systemen nach Anhang III muessen alle Pflichten des Kapitels III KI-VO erfuellen (Art. 113 lit. c KI-VO). Konformitaetsbewertung (Art. 43), CE-Kennzeichnung (Art. 48), EU-Datenbank-Registrierung (Art. 71) sind ab diesem Stichtag Voraussetzung fuer das Inverkehrbringen / die Inbetriebnahme.
-- **02.08.2027 — Hochrisiko Anhang I:** Verlaengerte Frist fuer KI als Sicherheitskomponente in Produkten der Anhang-I-Liste (Maschinen-VO, MDR, Spielzeug-RL etc.).
+- **02.08.2026 — Hochrisiko Anhang III in Kraft:** Anbieter und Betreiber von Hochrisiko-KI-Systemen nach Anhang III muessen alle Pflichten des Kapitels III KI-VO erfuellen (Art. 113 lit. c KI-VO). Konformitaetsbewertung (Art. 43), CE-Kennzeichnung (Art. 48), EU-Datenbank-Registrierung (Art. 71) sind ab diesem Stichtag Voraussetzung für das Inverkehrbringen / die Inbetriebnahme.
+- **02.08.2027 — Hochrisiko Anhang I:** Verlaengerte Frist für KI als Sicherheitskomponente in Produkten der Anhang-I-Liste (Maschinen-VO, MDR, Spielzeug-RL etc.).
 - **Harmonisierte Normen:** CEN/CENELEC arbeitet an harmonisierten Normen (insb. ISO/IEC 42001 — KI-Managementsystem, ISO/IEC 23894 — Risikomanagement, ISO/IEC 24029 — Robustheit). Bei freiwilliger Anwendung Vermutung der Pflichtenkonformitaet (Art. 40 KI-VO). Live-Status der Veroeffentlichung pruefen.
-- **EU-AI-Office:** seit Beginn 2025 voll operativ; zustaendig fuer GPAI-Modelle, Koordinierung mit nationalen Marktueberwachungsbehoerden, Best Practices.
+- **EU-AI-Office:** seit Beginn 2025 voll operativ; zuständig für GPAI-Modelle, Koordinierung mit nationalen Marktueberwachungsbehoerden, Best Practices.
 - **EU-Datenbank Art. 71:** Hochrisiko-KI-Datenbank (commercial, in beta) live pruefen ueber digital-strategy.ec.europa.eu.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über curia.europa.eu (EuGH) oder offizielle nationale Quellen verifizieren.
 

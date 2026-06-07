@@ -19,7 +19,7 @@ Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die historische Aufflas
 
 ## ALR-System
 
-- Aufflassung (Auflassung) vor der Behoerde.
+- Aufflassung (Auflassung) vor der Behörde.
 - Eintragung im Hypothekenbuch (vorgaenger des Grundbuchs).
 - ALR I 10 — Grundstuecksrecht.
 
@@ -34,7 +34,7 @@ Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die historische Aufflas
 
 ## Aufflassung
 
-- ALR I 10 — Aufflassungserklaerung vor der Behoerde.
+- ALR I 10 — Aufflassungserklaerung vor der Behörde.
 - Beidseits muendlich oder schriftlich.
 
 ## Fortwirkung

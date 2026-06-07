@@ -50,11 +50,11 @@ Fuer jedes Feld angeben:
 - Portalabschnitt
 - Freigabeperson
 - Unsicherheiten
-- erwartetes oeffentliches JSON-Feld nach Veroeffentlichung
+- erwartetes öffentliches JSON-Feld nach Veroeffentlichung
 - Nachkontrolle per API oder JSON-Download
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 - Open Data/API: ../../references/open-data-api-v2.md

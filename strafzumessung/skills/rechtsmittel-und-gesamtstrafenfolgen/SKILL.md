@@ -54,7 +54,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - **Rechtsmittelpruefung nach Verkuendung:**
  - Beschwer pruefen (Strafmass-Differenz zum Antrag StA/Verteidigung).
  - Erfolgsaussicht Sachruege (Strafzumessungsruege selten erfolgreich; Aufhebung idR bei Lueckenhaftigkeit, Wertungsfehler, falschem Strafrahmen, Doppelverwertung § 46 III StGB) - staendige Rspr.
- - Verfahrensruege fuer Verstaendigungsmaengel § 257c StPO (Belehrung § 257c V StPO!).
+ - Verfahrensruege für Verstaendigungsmaengel § 257c StPO (Belehrung § 257c V StPO!).
  - Berufung § 314 StPO 1 Woche, Revision § 341 StPO 1 Woche, § 345 StPO Begruendung 1 Monat.
 - **Bewaehrungsentscheidung § 56 StGB:**
  - Bis 6 Mon. = Sollvorschrift; 6-12 Mon. = Kannvorschrift; 12-24 Mon. = "besondere Umstaende" § 56 II StGB.
@@ -67,4 +67,4 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
  - Antrag auf nachtraegliche Gesamtstrafenbildung gegen Vollstreckungsbehoerde / Gericht § 460 StPO.
 - **Bewaehrungswiderruf § 56f StGB:** bei neuer Straftat in Bewaehrungszeit; § 56g Erlass nach Bewaehrungsende.
 - **Anrechnung U-Haft § 51 StGB:** zwingend; Ausnahme bei Doppelvollstreckung.
-- **Hinweispflicht Verteidiger:** Rechtsmittelverzicht und -Ruecknahme schriftliche Mandantenfreigabe.
+- **Hinweispflicht Verteidiger:** Rechtsmittelverzicht und -Rücknahme schriftliche Mandantenfreigabe.

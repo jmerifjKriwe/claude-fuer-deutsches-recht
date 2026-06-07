@@ -25,27 +25,27 @@ Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Id
 
 ## Erste Schritte
 
-1. TARIC-Datenbank (ec.europa.eu/taxation_customs/dds2/taric) aufrufen: Massnahmen fuer KN-Code und Ursprungsland pruefen.
+1. TARIC-Datenbank (ec.europa.eu/taxation_customs/dds2/taric) aufrufen: Massnahmen für KN-Code und Ursprungsland pruefen.
 2. Hersteller-ID und TARIC-Unternehmenscode (TARIC ADD-Code) des Lieferanten ermitteln.
 3. Individualzoll vs. Restzoll klaeren; Ursprungszeugnis und EU-Anerkennungsstatus pruefen.
 4. Antidumping-Zoll auf CIF-Wert berechnen; Vergleich mit eventueller Preisverpflichtung (Price Undertaking).
 5. Ueberpruefen ob Befreiungsantrag moeglich (Art. 11 VO 2016/1036: Auslaufrevision).
-6. Zollwertdeklaration und Ursprungsdokumentation fuer Audit-Compliance sicherstellen.
+6. Zollwertdeklaration und Ursprungsdokumentation für Audit-Compliance sicherstellen.
 
 ## Rechtsrahmen
 
 - **VO (EU) 2016/1036**: EU-Antidumping-Grundverordnung (Methodik und Verfahren).
 - **Art. 1-2 VO 2016/1036**: Dumping-Definition und Schadenstest.
 - **UZK Art. 56-63**: Zolltarifanwendung und Praeferenzketten.
-- **VO (EU) 952/2013 Art. 59-63**: Ursprungsbestimmung fuer Antidumpingzwecke.
+- **VO (EU) 952/2013 Art. 59-63**: Ursprungsbestimmung für Antidumpingzwecke.
 - **AWG § 21**: Verfahrensbeteiligung bei Handelspolitikuntersuchungen.
 
 ## Pruef-Raster
 
-- [ ] TARIC-Massnahmen fuer exakten KN-Code und Ursprungsland aktuell geprueft?
+- [ ] TARIC-Massnahmen für exakten KN-Code und Ursprungsland aktuell geprueft?
 - [ ] Hersteller-TARIC-Code gueltig und anerkannt?
 - [ ] Ursprungsnachweis zulaessig und nachweisbar?
-- [ ] CIF-Wert korrekt fuer Antidumping-Berechnungsgrundlage?
+- [ ] CIF-Wert korrekt für Antidumping-Berechnungsgrundlage?
 - [ ] Preisverpflichtung (Price Undertaking) aktiv und nutzbar?
 - [ ] Rueckerstattungsantrag bei Dumping-Margin-Review moeglich?
 
@@ -60,7 +60,7 @@ Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Id
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

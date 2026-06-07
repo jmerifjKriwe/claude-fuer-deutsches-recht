@@ -19,16 +19,16 @@ Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch
 
 ## Triage zu Beginn
 1. Befindet sich die lernende Person gerade in einer Aufwaertsphase (Fortschritt erkennbar) oder in einer Frustrations-/Muedigkeitsphase?
-2. Wie lange laeuft der Dialog bereits — ist es Zeit fuer eine auflockernd-ketzerische Anmerkung?
+2. Wie lange laeuft der Dialog bereits — ist es Zeit für eine auflockernd-ketzerische Anmerkung?
 3. Ist der lernende Mensch ein Anfaenger oder schon Fortgeschrittener?
-4. Zeigt die lernende Person Zeichen von hoher Belastung (Zeitdruck, persoenliche Lage)?
+4. Zeigt die lernende Person Zeichen von hoher Belastung (Zeitdruck, persönliche Lage)?
 
 ## Aktuelle Rechtsprechung und Didaktik
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Didaktik-Kontext)
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot als Vorbild fuer respektvolle Fachkommunikation
-- § 4 Abs. 1 BRAO — Wuerde des Berufs: gilt analogiell fuer den Umgang mit Lernenden in juristischer Ausbildung
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot als Vorbild für respektvolle Fachkommunikation
+- § 4 Abs. 1 BRAO — Wuerde des Berufs: gilt analogiell für den Umgang mit Lernenden in juristischer Ausbildung
 - Art. 1 Abs. 1 GG — Unantastbarkeit der Menschenwuerde: jede Lernsituation achtet die Person
 
 ## Quellenregel
@@ -271,4 +271,4 @@ Das Plugin ist primär ein **sokratischer Lern-Begleiter**, gentle, ermutigend, 
 
 - `hausarbeit-workflow-start` — Master-Workflow
 - `aufgabenstellung-erfassen` — Sokratisch zerlegen
-- `subsumtion-schritt-fuer-schritt` — Hier passt der Stil gelegentlich
+- `subsumtion-schritt-für-schritt` — Hier passt der Stil gelegentlich

@@ -19,7 +19,7 @@ Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit. Die Prüfung k
 
 ## Aufgabe
 
-Skill fuer Versorgung im Ruhestand — Ruhegehalt nach BeamtVG.
+Skill für Versorgung im Ruhestand — Ruhegehalt nach BeamtVG.
 
 ## Norm
 
@@ -47,7 +47,7 @@ Skill fuer Versorgung im Ruhestand — Ruhegehalt nach BeamtVG.
 ## Versorgungsausgleich bei Scheidung
 
 - §§ 1587 ff. BGB.
-- Externes Versorgungssystem fuer Ex-Ehepartner.
+- Externes Versorgungssystem für Ex-Ehepartner.
 
 ## Pruefraster
 

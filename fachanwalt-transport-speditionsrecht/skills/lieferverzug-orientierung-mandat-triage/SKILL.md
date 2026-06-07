@@ -111,7 +111,7 @@ Hoechstbetrag bei reinem Verzugsschaden:
 Bei Qualifiziertem Verschulden Vollersatz.
 
 Wir fordern Sie auf binnen 14 Tagen EUR [Betrag] zu erstatten. Die
-Verjaehrungsfrist § 439 HGB / Art. 32 CMR endet am [Datum].
+Verjährungsfrist § 439 HGB / Art. 32 CMR endet am [Datum].
 
 Mit freundlichen Gruessen
 ```

@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -135,7 +135,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | NDA | Vertraulichkeit; Rueckgabepflicht; Wettbewerbsschutz | Beiderseits | Vor IM-Versand |
 | Information Memorandum (IM) | Vollstaendige Unternehmensbeschreibung; Finanzkennzahlen; Markt; Strategie; Risiken | Nach NDA | Phase I |
 | Management Presentation | Ausfuehrliche Praesentation; Management-Fragen; Q&A | Shortlist-Bieter | Phase II |
-| Vendor Due Diligence (VDD) | Sell-Side-aufbereiteter DD-Report (Legal, Tax, Financial); fuer Kaeufer-Nutzung | Shortlist/Binding-Phase | Phase II |
+| Vendor Due Diligence (VDD) | Sell-Side-aufbereiteter DD-Report (Legal, Tax, Financial); für Kaeufer-Nutzung | Shortlist/Binding-Phase | Phase II |
 | Process Letter | Ablauf; Anforderungen; Bieterrichtlinien | Nach NDA | Prozess-Start |
 | LoI / Term Sheet | Indikativer Preis; Struktur; Zeitplan | Verhandlung | Preferred Bidder |
 
@@ -186,7 +186,7 @@ VI. TRANSAKTIONSSTRUKTUR UND PROZESS
 ANLAGEN (Phase II)
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Abstimmung mit Mandant** — welche Informationen koennen offenbart werden; Vertraulichkeitsgrenzen
 2. **Datenerhebung** — Jahresabschluesse, Management-Interviews, Marktdaten

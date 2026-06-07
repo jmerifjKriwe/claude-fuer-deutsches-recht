@@ -1,6 +1,6 @@
 ---
 name: emotionale-trigger-katalog
-description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persoenliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz)."
+description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz)."
 ---
 
 # Emotionaler Trigger-Katalog

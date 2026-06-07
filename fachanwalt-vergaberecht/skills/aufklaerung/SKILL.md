@@ -12,7 +12,7 @@ description: "Aufklaerung im Plugin Fachanwalt Vergaberecht: prüft konkret Scha
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-vergaberecht-schadensersatz-181-gwb` | Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schadensersatz), §§ 280 und 311 BGB (vorvertragliches Schuldverhaeltnis), § 124 GWB (Ausschluss). Pruefraster: Anspruchsgrundlage, Kausalitaet, Echte-Chance-Doktrin BGH X ZR 100/04, Vertrauensschaden vs. positives Interesse, Mitverschulden, Verjaehrung. Output Klageschrift-Geruest LG, Schadensberechnung. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage. |
+| `fachanwalt-vergaberecht-schadensersatz-181-gwb` | Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schadensersatz), §§ 280 und 311 BGB (vorvertragliches Schuldverhaeltnis), § 124 GWB (Ausschluss). Pruefraster: Anspruchsgrundlage, Kausalitaet, Echte-Chance-Doktrin BGH X ZR 100/04, Vertrauensschaden vs. positives Interesse, Mitverschulden, Verjährung. Output Klageschrift-Geruest LG, Schadensberechnung. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage. |
 | `aufklaerung-nachforderung-56-vgv` | Aufklaerung, Nachforderung und Angebotsaufklaerung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich niedrige Angebote, Gleichbehandlung und Grenzen der Nachbesserung. |
 | `fachanwalt-vergaberecht-ruege-vor-zuschlag` | Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Prüfraster: Fristen (Bekanntmachungs-Verstoesse bis Angebotsabgabe, sonstige Verstoesse 10 Tage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurückweisung). Output Ruege-Schreiben mit konkretem Verstoß, Norm und Sachverhalt. Abgrenzung: Nachprüfungsantrag nach Ruege siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Ruegeschriftsatz-Detail siehe ruegeschriftsatz-erstellen. |
 | `markterkundung-und-vorbefassung` | Markterkundung, Vorbefassung und Interessenkonflikte rechtssicher steuern: zulaessige Informationsgewinnung, Ausgleichsmassnahmen, Dokumentation und Rugeabwehr. |
@@ -28,7 +28,7 @@ description: "Aufklaerung im Plugin Fachanwalt Vergaberecht: prüft konkret Scha
 
 ## 1. `fachanwalt-vergaberecht-schadensersatz-181-gwb`
 
-**Fokus:** Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schadensersatz), §§ 280 und 311 BGB (vorvertragliches Schuldverhaeltnis), § 124 GWB (Ausschluss). Pruefraster: Anspruchsgrundlage, Kausalitaet, Echte-Chance-Doktrin BGH X ZR 100/04, Vertrauensschaden vs. positives Interesse, Mitverschulden, Verjaehrung. Output Klageschrift-Geruest LG, Schadensberechnung. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
+**Fokus:** Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schadensersatz), §§ 280 und 311 BGB (vorvertragliches Schuldverhaeltnis), § 124 GWB (Ausschluss). Pruefraster: Anspruchsgrundlage, Kausalitaet, Echte-Chance-Doktrin BGH X ZR 100/04, Vertrauensschaden vs. positives Interesse, Mitverschulden, Verjährung. Output Klageschrift-Geruest LG, Schadensberechnung. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
 
 # Schadensersatz nach § 181 GWB
 
@@ -41,14 +41,14 @@ Schadensersatz nach abgeschlossenem Vergabeverfahren geltend machen oder abwehre
 3. Gab es VK- oder OLG-Verfahren mit Rechtsverletzungs-Feststellung?
 4. Welche Pflichtverletzung des Auftraggebers ist belegbar?
 5. Hatte der Bieter eine echte Zuschlagschance?
-6. Verjaehrung im Blick (§ 195 BGB drei Jahre, Kenntnis erforderlich)?
+6. Verjährung im Blick (§ 195 BGB drei Jahre, Kenntnis erforderlich)?
 
 ## Anspruchsgrundlagen
 ### § 181 GWB
-- Spezialgesetzlicher Anspruch fuer Oberschwellenverfahren.
+- Spezialgesetzlicher Anspruch für Oberschwellenverfahren.
 - Voraussetzung: Verstoss gegen vergaberechtliche Vorschrift und kausaler Schaden.
 - Umfasst regelmaessig Vertrauensschaden (Angebotskosten).
-- Positives Interesse nur, wenn Bieter den Zuschlag bei rechtmaessigem Verhalten erhalten haette (echte Chance).
+- Positives Interesse nur, wenn Bieter den Zuschlag bei rechtmäßigem Verhalten erhalten haette (echte Chance).
 
 ### §§ 280, 311 BGB
 - Vorvertragliches Schuldverhaeltnis durch Teilnahme am Vergabeverfahren.
@@ -68,9 +68,9 @@ Schadensersatz nach abgeschlossenem Vergabeverfahren geltend machen oder abwehre
 | Folgeauftraege | nein | grundsaetzlich nein (zu spekulativ) |
 
 ## Echte-Chance-Doktrin
-BGH-Linie (z. B. X ZR 100/04, X ZR 174/09): Positives Interesse nur, wenn Bieter im rechtmaessigen Verfahren mit hinreichender Wahrscheinlichkeit Zuschlag erhalten haette. Echte Chance = > 50 Prozent.
+BGH-Linie (z. B. X ZR 100/04, X ZR 174/09): Positives Interesse nur, wenn Bieter im rechtmäßigen Verfahren mit hinreichender Wahrscheinlichkeit Zuschlag erhalten haette. Echte Chance = > 50 Prozent.
 
-Konsequenz fuer die Klageschrift:
+Konsequenz für die Klageschrift:
 - Hypothetische Wertung darlegen.
 - Mitbewerberangebote (soweit bekannt) einbeziehen.
 - Wertungsfehler quantifizieren.
@@ -80,14 +80,14 @@ Konsequenz fuer die Klageschrift:
 - Eigene Angebotsfehler -> Quotelung.
 
 ## Verfahren
-- Zustaendigkeit: Landgericht (oder Amtsgericht bei niedrigem Streitwert) am Sitz des Auftraggebers, ZPO-Klage.
-- Beweislast: Bieter trifft Beweislast fuer Pflichtverletzung, Kausalitaet, Hoehe; bei festgestellter Rechtsverletzung durch VK/OLG: Indizwirkung.
+- Zuständigkeit: Landgericht (oder Amtsgericht bei niedrigem Streitwert) am Sitz des Auftraggebers, ZPO-Klage.
+- Beweislast: Bieter trifft Beweislast für Pflichtverletzung, Kausalitaet, Hoehe; bei festgestellter Rechtsverletzung durch VK/OLG: Indizwirkung.
 - Streitwert: Hoehe des geltend gemachten Schadens.
 
 ## Output
 - Klageschriftsatz-Geruest LG mit Antraegen, Sachverhalt, rechtlicher Wuerdigung, Schadensberechnung.
 - Schadensberechnungs-Tabelle (Angebotskosten, Deckungsbeitrag, Mitverschulden).
-- Verjaehrungs-Pruefvermerk.
+- Verjährungs-Pruefvermerk.
 
 ## Quellenregel
 BGH-Entscheidungen vor Ausgabe ueber dejure.org oder bundesgerichtshof.de verifizieren (Gericht, Datum, Aktenzeichen, tragende Aussage).
@@ -110,7 +110,7 @@ BGH-Entscheidungen vor Ausgabe ueber dejure.org oder bundesgerichtshof.de verifi
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Nachforderung und Aufklaerung rechtssicher einsetzen oder angreifen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Nachforderung und Aufklaerung rechtssicher einsetzen oder angreifen. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -131,7 +131,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -149,11 +149,11 @@ Nachforderungsschema, Aufklaerungsfragen, Risikoampel, Vermerk.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -251,7 +251,7 @@ Wir fordern Sie auf binnen drei Werktagen
 - den Verstoss durch [Massnahme] zu beseitigen
 - das Vergabeverfahren bis zur Klaerung auszusetzen
 
-Andernfalls werden wir umgehend Nachpruefungsantrag bei der zustaendigen
+Andernfalls werden wir umgehend Nachpruefungsantrag bei der zuständigen
 Vergabekammer stellen. Wir behalten uns Schadensersatzanspruechen
 § 181 GWB ausdruecklich vor.
 
@@ -327,7 +327,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Marktinformationen nutzen, ohne Wettbewerb und Gleichbehandlung zu verletzen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Marktinformationen nutzen, ohne Wettbewerb und Gleichbehandlung zu verletzen. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -348,7 +348,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -366,11 +366,11 @@ Markterkundungsplan, Vorbefassungscheck, Neutralisierungsmassnahmen, Textbaustei
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 

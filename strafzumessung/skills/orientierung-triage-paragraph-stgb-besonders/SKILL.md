@@ -63,7 +63,7 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 | Urteil liegt vor, Strafzumessungsruege | `267-iii-stpo-begruendungsanforderungen-strafurteil` |
 | Mandant unter 21 Jahren | `jgg-strafzumessung-jugendstrafe-erziehungsmassregeln` |
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 1. Rolle und Verfahrensstadium erfragen oder aus Material erkennen.
 2. Eilfristen pruefen (Einspruchsfrist § 410 StPO, Revisionsbegruendung § 345 StPO, Bewaehrungsstellungnahme).

@@ -30,7 +30,7 @@ Bei Streitwerten **bis 1.000 EUR** (Stand 2026) kann das Amtsgericht das Verfahr
 - **§ 495a S. 2 ZPO** — Antrag auf muendliche Verhandlung muss zugelassen werden.
 - **§ 4 ZPO** — Streitwert (Hauptforderung ohne Nebenforderungen).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Streitwert bis 1.000 EUR
 

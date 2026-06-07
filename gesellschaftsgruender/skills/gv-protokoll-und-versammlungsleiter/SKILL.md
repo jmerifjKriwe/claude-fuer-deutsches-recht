@@ -64,11 +64,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 6 | Notarielle Beurkundung bei Satzungsaenderung? | § 53 GmbHG | Fehlt: Nichtigkeit |
 | 7 | Beschlusstext klar und eindeutig? | HR-Anforderungen | Vage: Beanstandung bei Eintragung |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Vorbereitung:** Anwesenheits-Liste mit Anteilen und Stimmrechten erstellen; Stimmverbot-Pruefung pro Gesellschafter pro TOP.
 2. **Eroeffnung:** Feststellung Beschlussfaehigkeit und ordnungsgemae Einladung protokollieren.
-3. **Versammlungsleiter-Wahl:** Abstimmung fuer Versammlungsleiter; Ergebnis protokollieren.
+3. **Versammlungsleiter-Wahl:** Abstimmung für Versammlungsleiter; Ergebnis protokollieren.
 4. **Pro TOP:** Beschlussvorlage im Wortlaut; kurze Diskussion zusammenfassen; Stimmen zaehlen und aufschlüsseln.
 5. **Beschlussformulierung:** Klarer, vollstaendiger Beschlusstext; bei HR-relevanten Beschluessen: exakter Wortlaut.
 6. **Schluss:** Schluss der Versammlung protokollieren; Protokoll sofort vom Versammlungsleiter unterschreiben.

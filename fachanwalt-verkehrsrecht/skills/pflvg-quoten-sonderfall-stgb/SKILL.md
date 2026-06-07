@@ -140,8 +140,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Versicherer-Portale (Unfallregulierung):**
  - **HUK24, Allianz, AXA, Generali, R+V, DEVK** etc. - Online-Schadenmeldung mit Aktenzeichen.
  - **GDV-Online (Gesamtverband Deutscher Versicherer):** Aktenzeichenabfrage HISP (Hinweis- und Informationssystem); Halterabfrage, Versicherungsauskunft.
- - **TYP A / B-Anlageformular** Versicherer fuer Personen- vs. Sachschaden.
-- **Behoerden / Aemter:**
+ - **TYP A / B-Anlageformular** Versicherer für Personen- vs. Sachschaden.
+- **Behörden / Aemter:**
  - **KBA Flensburg (Kraftfahrt-Bundesamt):** Halterabfrage § 29 StVG; FAER-Punkte online.
  - **Fuehrerscheinstelle (Landratsamt / Buergeramt):** Antraege MPU, Wiedererteilung Fahrerlaubnis § 20 FeV, Umtausch.
  - **Bussgeldstelle (zentrales OWi-Verfahren des jeweiligen Bundeslands):** Einspruch § 67 OWiG.
@@ -150,8 +150,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **LG (Verkehrszivilrecht):** ab Streitwert ueber 5.000 EUR; Berufung gegen AG-Urteile.
  - **OLG (Rechtsbeschwerde §§ 79, 80 OWiG):** OWi-Sache.
 - **eAkte / beA / MJP-Portal:**
- - **beA (besonderes elektronisches Anwaltspostfach):** zwingend fuer Anwaltskommunikation mit Gerichten § 130d ZPO (zivilrechtlich); im Strafrecht freiwillig (§ 32a StPO).
- - **MJP (Mein Justizpostfach):** fuer Buergerinnen und Buerger; freiwillig.
+ - **beA (besonderes elektronisches Anwaltspostfach):** zwingend für Anwaltskommunikation mit Gerichten § 130d ZPO (zivilrechtlich); im Strafrecht freiwillig (§ 32a StPO).
+ - **MJP (Mein Justizpostfach):** für Buergerinnen und Buerger; freiwillig.
  - **EGVP:** elektronisches Gerichts- und Verwaltungspostfach.
 - **Anwaltliche Formulare:**
  - Vollmacht (sicher mit Vertretungsbefugnis im Strafverfahren § 411 II StPO).

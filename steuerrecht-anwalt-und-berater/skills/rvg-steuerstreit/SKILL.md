@@ -1,6 +1,6 @@
 ---
 name: rvg-steuerstreit
-description: "Vergueterungsskill fuer steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebuehren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebuehrentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgebuehr Verfahrensgebuehr Terminsgebuehr Streitwert nach Anlage 2 RVG sowie Pauschalvereinbarungen und Erfolgshonorar § 4a RVG. Output Tabellenrechner und Honorarvereinbarungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme."
+description: "Vergueterungsskill für steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebühren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebührentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgebuehr Verfahrensgebuehr Terminsgebuehr Streitwert nach Anlage 2 RVG sowie Pauschalvereinbarungen und Erfolgshonorar § 4a RVG. Output Tabellenrechner und Honorarvereinbarungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme."
 ---
 
 # Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhaeltnis
@@ -18,12 +18,12 @@ description: "Vergueterungsskill fuer steuerrechtliche Mandate — Abgrenzung RV
 3. Geschaefts- Verfahrens- oder Terminsgebuehr — welche Phase?
 4. Soll Pauschalhonorar oder Stundenhonorar nach § 4 RVG vereinbart werden?
 5. Ist Erfolgshonorar § 4a RVG ausnahmsweise zulaessig?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
 - **§ 1 RVG** — Anwendungsbereich.
-- **§ 4 RVG** — Vereinbarung niedrigerer Gebuehren.
+- **§ 4 RVG** — Vereinbarung niedrigerer Gebühren.
 - **§ 4a RVG** — Erfolgshonorar.
 - **§ 13 RVG** — Wertgebuehr.
 - **VV RVG** — Vergueterungsverzeichnis Nrn. 2300 ff.

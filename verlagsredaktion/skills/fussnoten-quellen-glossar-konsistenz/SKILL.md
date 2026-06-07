@@ -27,16 +27,16 @@ Sie brauchen ihn nach der Zitierweise-Pruefung, vor dem Druck. Klaeren Sie:
 
 1. Wie umfangreich der Apparat (Fussnotenzahl)?
 2. Welche Quellenarten dominieren (Rspr.-lastig, kommentar-lastig, internationalrechtlich)?
-3. Hausnorm fuer aaO / Wiederholungen?
+3. Hausnorm für aaO / Wiederholungen?
 4. Online-Quellen mit Archivierungsbedarf?
 
 ## Material- bzw. Sachrahmen
 
 - Manuskript mit Fussnotenapparat.
 - Fundstellenliste / Bibliographie, falls separat.
-- Hausnorm fuer Wiederholungen ("aaO", "ders.", "vgl.").
+- Hausnorm für Wiederholungen ("aaO", "ders.", "vgl.").
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Fundstelleninventar.** Jede Fussnote in Tabelle: Fn., Quelle, Pinpoint, Status.
 2. **Deduplikation.** Identische Vollzitate suchen. Erstes Vorkommen Volltext, weitere als "aaO Fn. X" oder "ders. (Fn. X)".
@@ -105,8 +105,8 @@ Sonst: Volltext-Wiederholung oder Kurzzitat mit "ders." / "dies."
 ## Quellen Stand 06/2026
 
 - Manuskriptrichtlinien der jeweiligen Zielzeitschrift (vom Verlag bezogen).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016 (zentral).
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (zentral).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Wayback Machine, [https://web.archive.org](https://web.archive.org), fuer URL-Archivierung.
+- Wayback Machine, [https://web.archive.org](https://web.archive.org), für URL-Archivierung.

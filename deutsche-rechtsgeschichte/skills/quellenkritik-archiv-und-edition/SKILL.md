@@ -1,13 +1,30 @@
 ---
 name: quellenkritik-archiv-und-edition
-description: "Deutsche Rechtsgeschichte: Quellenkritik fuer Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Quellenkritik: Archiv und Edition
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Quellenkritik fuer Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -30,7 +47,7 @@ Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueb
 
 ## Akteure und Institutionen
 
-- **Bundesarchiv Koblenz/Berlin**: Hauptarchiv fuer Reichs- und Bundesakten
+- **Bundesarchiv Koblenz/Berlin**: Hauptarchiv für Reichs- und Bundesakten
 - **Landesarchive**: Regionalbestaende, Verwaltungs- und Gerichtsakten
 - **MGH Muenchen**: Kritische Edition mittelalterlicher Quellen
 - **ALEX/OeNB Wien**: Digitale Reichsgesetzblatt-Sammlung
@@ -47,13 +64,13 @@ Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueb
 
 - Ueberlieferungskette nachzeichnen: Original, Abschrift, Edition, Digitalisat
 - Editionsvergleich: mehrere Editionen bei wichtigen Textstellen gegenlesen
-- Bundesarchiv-Online: invenio.bundesarchiv.de fuer Findbuecher
-- MGH: mgh.de fuer Volltext-Zugang zu mittelalterlichen Editionen
+- Bundesarchiv-Online: invenio.bundesarchiv.de für Findbuecher
+- MGH: mgh.de für Volltext-Zugang zu mittelalterlichen Editionen
 
 ## Output
 
-- Quellenkritik-Checkliste fuer ein konkretes rechtshistorisches Problem
-- Ueberlieferungsdiagramm fuer eine ausgewaehlte Quelle
+- Quellenkritik-Checkliste für ein konkretes rechtshistorisches Problem
+- Ueberlieferungsdiagramm für eine ausgewaehlte Quelle
 - Archivrecherche-Leitfaden mit Online-Ressourcen
 
 ## Quellenregel

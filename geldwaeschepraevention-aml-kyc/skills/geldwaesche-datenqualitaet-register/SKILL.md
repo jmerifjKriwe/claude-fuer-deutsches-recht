@@ -21,9 +21,9 @@ Prüft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungs
 1. Welche Datenfelder oder Registerquellen weisen Qualitaetsprobleme auf?
 2. Handelt es sich um Dubletten, fehlende Pflichtfelder, falsche Schreibweisen oder veraltete Eintraege?
 3. Welches Screening-Tool ist betroffen und welche Trefferquoten sollen verbessert werden?
-4. Gibt es einen Audit-Trail-Anforderung oder eine Behoerdenpruefung zu den Daten?
+4. Gibt es einen Audit-Trail-Anforderung oder eine Behördenpruefung zu den Daten?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen

@@ -150,9 +150,9 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 
 - **DDG** — Digitale-Dienste-Gesetz; nationales Ausfuehrungsgesetz; §§ 5 und 6 DDG regeln Anbieterkennzeichnungspflicht (Impressum).
 - **PAngV** — Preisangabenverordnung 2022; regelt Gesamtpreise, Grundpreise, Streichpreise und die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen.
-- **UWG** — Gesetz gegen den unlauteren Wettbewerb; Massstab fuer irrefuehrende Werbeaussagen, vergleichende Werbung und aggressive Geschaeftspraktiken.
+- **UWG** — Gesetz gegen den unlauteren Wettbewerb; Massstab für irrefuehrende Werbeaussagen, vergleichende Werbung und aggressive Geschaeftspraktiken.
 - **ProdSG** — Produktsicherheitsgesetz; regelt Sicherheitsanforderungen und Marktueberaufsicht.
-- **CE-Kennzeichnung** — Konformitaetszeichen fuer Produkte, die EU-Harmonisierungsrecht entsprechen; Pflicht fuer viele Produktkategorien.
+- **CE-Kennzeichnung** — Konformitaetszeichen für Produkte, die EU-Harmonisierungsrecht entsprechen; Pflicht für viele Produktkategorien.
 - **Health Claims** — Naehrwert- und gesundheitsbezogene Angaben; geregelt in VO (EG) 1924/2006; strenge Zulassungspflicht.
 - **30-Tage-Niedrigstpreisregel** — Bei Preisreduzierungen muss als Ausgangspreis der niedrigste Preis der letzten 30 Tage angegeben werden (§ 11 PAngV; Omnibus-Richtlinie 2019/2161).
 - **Launch-Review** — Strukturiertes rechtliches Freigabeverfahren vor Produkteinfuehrung mit Ampel-Status und offenem-Punkte-Liste.
@@ -165,13 +165,13 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 - UWG §§ 3 bis 7 — Irrefuehrende und aggressive Geschaeftspraktiken.
 - ProdSG, EU-Produktsicherheits-VO 2023/988 — Produktsicherheit und CE-Konformitaet.
 - VO (EG) 1924/2006 — Health Claims.
-- AI Act (EU) 2024/1689 — KI-VO; Risikoklassen fuer KI-Systeme (relevant fuer KI-Features).
-- DSGVO — Datenschutz-Schnittstelle fuer Features mit Personenbezug.
+- AI Act (EU) 2024/1689 — KI-VO; Risikoklassen für KI-Systeme (relevant für KI-Features).
+- DSGVO — Datenschutz-Schnittstelle für Features mit Personenbezug.
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Plugin konfigurieren (Erstnutzung): Skill `produktrecht-kaltstart-interview`.
-2. Schnelle Plausibilitaetsfrage: Skill `ist-das-ein-problem` fuer Kurzantwort in Minuten.
+2. Schnelle Plausibilitaetsfrage: Skill `ist-das-ein-problem` für Kurzantwort in Minuten.
 3. Vollstaendige Launch-Freigabe: Skill `launch-pruefung`.
 4. Vertieftes Einzel-Risiko: `feature-risikobewertung`.
 5. Spezialthemen: `impressum-pflicht`, `preisangaben` oder `werbeaussagen-pruefung` direkt ansteuern.
@@ -186,9 +186,9 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 
 **Triage und Launch**
 
-- `ist-das-ein-problem` — Schnelle Kurzantwort fuer PM-Fragen; fuenf Minuten, mit Quellenangabe.
+- `ist-das-ein-problem` — Schnelle Kurzantwort für PM-Fragen; fuenf Minuten, mit Quellenangabe.
 - `launch-pruefung` — Vollstaendige rechtliche Launch-Freigabepruefung mit Ampel-Status.
-- `feature-risikobewertung` — Tiefgehende Risikobewertung fuer ein einzelnes Feature oder einen Produktbereich.
+- `feature-risikobewertung` — Tiefgehende Risikobewertung für ein einzelnes Feature oder einen Produktbereich.
 
 **Spezialthemen**
 
@@ -198,9 +198,9 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 
 ## Worauf besonders achten
 
-- **Impressumspflicht gilt auch fuer Social-Media-Profile** — Gewerblich genutzte Profile bei Instagram, LinkedIn oder X muessen vollstaendiges Impressum enthalten oder klar darauf verlinken.
+- **Impressumspflicht gilt auch für Social-Media-Profile** — Gewerblich genutzte Profile bei Instagram, LinkedIn oder X muessen vollstaendiges Impressum enthalten oder klar darauf verlinken.
 - **30-Tage-Regel ist keine Empfehlung, sondern Pflicht** — Streichpreise muessen auf dem Niedrigstpreis der letzten 30 Tage vor Reduzierung basieren; Verstaesse sind abmahnbar.
-- **KI-Features benoetigen KI-VO-Check** — Der AI Act gilt fuer KI-Systeme ab August 2026 in vollem Umfang; Hochrisiko-Systeme und verbotene Praktiken muessen vorab identifiziert werden.
+- **KI-Features benoetigen KI-VO-Check** — Der AI Act gilt für KI-Systeme ab August 2026 in vollem Umfang; Hochrisiko-Systeme und verbotene Praktiken muessen vorab identifiziert werden.
 - **Health Claims erfordern Zulassung** — Nicht zugelassene Gesundheitsversprechen sind ohne Ausnahme unzulaessig; Positivliste VO 1924/2006 ist abschliessend.
 - **Risikokalibrierung ist Ausgangspunkt** — Ohne konfiguriertes Praxisprofil liefert das Plugin nur generische Ergebnisse; `produktrecht-kaltstart-interview` zuerst ausfuehren.
 

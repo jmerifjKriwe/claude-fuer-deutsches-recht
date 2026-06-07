@@ -27,10 +27,10 @@ Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 433-453 BGB — Kaufrecht: Standardkomplex fuer Zivilrecht-Gutachten
+- §§ 433-453 BGB — Kaufrecht: Standardkomplex für Zivilrecht-Gutachten
 - §§ 241-304 BGB — Leistungsstoerungsrecht: Kern-Anspruchsgrundlagen
 - §§ 823-853 BGB — Deliktsrecht: zweite Pruefungssaule
-- §§ 242, 263 StGB — Strafrecht-Standardtatbestaende fuer Klausur
+- §§ 242, 263 StGB — Strafrecht-Standardtatbestaende für Klausur
 
 ## Quellenregel
 
@@ -51,7 +51,7 @@ Einsatzbereiche:
 1. **Sachverhalt** – als Text eingefügt, Pfad oder mündlich formuliert
 2. **Aufgabenstellung** – "Prüfe alle Ansprüche" / "Ist die Klage begründet?" / "Prüfe die Strafbarkeit von A"
 3. **Rechtsgebiet** (optional, wird aus Sachverhalt abgeleitet)
-4. **Lernprofil** aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` → Lernstil (Drill / Erklärung), Semester, Schwächebereiche
+4. **Lernprofil** aus `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md` → Lernstil (Drill / Erklärung), Semester, Schwächebereiche
 
 ## Das deutsche Gutachtenstil-Schema
 

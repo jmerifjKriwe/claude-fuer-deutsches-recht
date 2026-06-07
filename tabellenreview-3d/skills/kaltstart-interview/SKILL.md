@@ -18,7 +18,7 @@ description: "Kaltstart-Interview für den 3D-Tabellenreview: Fallkategorie, Tab
 
 ## Ablauf
 
-1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md` prüfen.
+1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/tabellenreview-3d/CLAUDE.md` prüfen.
 2. Falls vorhanden und ohne `[PLATZHALTER]`-Marker: bestätigen, dass das Praxisprofil schon befüllt ist, und Modus erfragen (`--redo` für vollständiges Neu-Interview).
 3. Falls nicht vorhanden oder mit Platzhaltern: das Kaltstart-Interview unten durchführen.
 4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
@@ -70,7 +70,7 @@ Beim Prüfen: nur `OK` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich
 
 ### 6. Excel- und Belegkette-Pfade
 
-- **Excel-Ausgabe-Verzeichnis:** [PLATZHALTER — z. B. `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/würfel/<projekt>/`]
+- **Excel-Ausgabe-Verzeichnis:** [PLATZHALTER — z. B. `~/.claude/plugins/config/claude-für-deutsches-recht/tabellenreview-3d/würfel/<projekt>/`]
 - **Belegketten-Verzeichnis:** [PLATZHALTER — Speicherort für wörtliche Quellenzitate mit Datei-Hash]
 - **Audit-Trail-Verzeichnis:** [PLATZHALTER — Pfad für Prompt-Versionen Laufprotokolle und Prüfer-Abnahmen]
 
@@ -83,7 +83,7 @@ Beim Prüfen: nur `OK` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich
 
 ## Ausgabe
 
-Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md` geschrieben. Anschließend zeigen:
+Das Praxisprofil wird in `~/.claude/plugins/config/claude-für-deutsches-recht/tabellenreview-3d/CLAUDE.md` geschrieben. Anschließend zeigen:
 
 - Was eingerichtet wurde
 - Welche Skills jetzt sinnvoll als nächstes laufen können:

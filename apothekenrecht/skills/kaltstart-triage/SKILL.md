@@ -36,7 +36,7 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 ## Passende Einstiegsrouten
 | Skill | Wann? |
 | --- | --- |
-| `apothekenerlaubnis-apog-persoenliche-voraussetzungen` | Apothekenerlaubnis ApoG persönliche Voraussetzungen |
+| `apothekenerlaubnis-apog-persönliche-voraussetzungen` | Apothekenerlaubnis ApoG persönliche Voraussetzungen |
 | `fremd-und-mehrbesitzverbot-apothekenrecht` | Fremd- und Mehrbesitzverbot Apothekenrecht |
 | `filialapotheke-hauptapotheke-leitung-vertretung` | Filialapotheke Hauptapotheke Leitung Vertretung |
 | `apothekenbetriebsordnung-grundpflichten` | Apothekenbetriebsordnung Grundpflichten |
@@ -86,7 +86,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `amts-medikationsanalyse-beratungspflicht` | AMTS Medikationsanalyse Beratungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
 | `apothekenbetrieb-dokumentenintake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Apothekenbetrieb Dokumentenintake. |
 | `apothekenbetriebsordnung-grundpflichten` | Apothekenbetriebsordnung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
-| `apothekenerlaubnis-apog-persoenliche-voraussetzungen` | Apothekenerlaubnis ApoG persönliche Voraussetzungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/Bt... |
+| `apothekenerlaubnis-apog-persönliche-voraussetzungen` | Apothekenerlaubnis ApoG persönliche Voraussetzungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/Bt... |
 | `apothekenrevision-vorbereitung-antwort` | Apothekenrevision Vorbereitung Antwort: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, D... |
 | `apothekenuebliche-waren-abgrenzung` | Apothekenübliche Waren Abgrenzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO,... |
 | `arzneimittelabgabe-verschreibungspflicht` | Arzneimittelabgabe Verschreibungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |

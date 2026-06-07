@@ -18,7 +18,7 @@ description: "Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — P
 3. Liegt Reverse-Charge vor und wurde Hinweis nach § 14a Abs. 5 UStG aufgenommen?
 4. Ist der Steuerausweis unberechtigt oder unrichtig § 14c UStG — Berichtigungsweg pruefen?
 5. Wurde elektronische Rechnung iSd § 14 Abs. 1 UStG ab 2025 verwendet?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

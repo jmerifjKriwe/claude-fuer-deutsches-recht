@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Au
 
 Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,12 +36,12 @@ Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rec
 
 ## Worum es geht
 
-Ein rechtshistorisches Gutachten unterscheidet sich vom dogmatischen Rechtsgutachten in Quellenbasis und Methodik, folgt aber aehnlichen Strukturprinzipien. Gliederung: (1) Themenstellung und Rechtsfrage, (2) Quellenbasis (Primaer- und Sekundaerquellen), (3) historische Entwicklung des Rechtsproblems, (4) Streitstand in Forschung und Rechtsprechung, (5) Subsumtion: Welche historischen Fakten tragen welche Schlussfolgerungen?, (6) Fazit: Was sagt die historische Analyse fuer die heutige Frage? Das rechtshistorische Gutachten vermeidet Anachronismus und Blindzitat. Jede These braucht eine Quellengrundlage.
+Ein rechtshistorisches Gutachten unterscheidet sich vom dogmatischen Rechtsgutachten in Quellenbasis und Methodik, folgt aber aehnlichen Strukturprinzipien. Gliederung: (1) Themenstellung und Rechtsfrage, (2) Quellenbasis (Primaer- und Sekundaerquellen), (3) historische Entwicklung des Rechtsproblems, (4) Streitstand in Forschung und Rechtsprechung, (5) Subsumtion: Welche historischen Fakten tragen welche Schlussfolgerungen?, (6) Fazit: Was sagt die historische Analyse für die heutige Frage? Das rechtshistorische Gutachten vermeidet Anachronismus und Blindzitat. Jede These braucht eine Quellengrundlage.
 
 ## Kernnormen / Kernquellen
 
-- **Mugdan, Materialien BGB** (1899): Mustergutachtenquelle fuer BGB-Entstehungsrecht
-- **Reichsgesetzblatt (ALEX/OeNB)**: Quellenbasis fuer Normtexte
+- **Mugdan, Materialien BGB** (1899): Mustergutachtenquelle für BGB-Entstehungsrecht
+- **Reichsgesetzblatt (ALEX/OeNB)**: Quellenbasis für Normtexte
 - **BVerfGE**: Verfassungsrecht-Gutachten-Basis
 - **GG Art. 20 Abs. 3**: Bindung an Recht und Gesetz als Gutachtenmassstab
 
@@ -53,7 +70,7 @@ Ein rechtshistorisches Gutachten unterscheidet sich vom dogmatischen Rechtsgutac
 ## Output
 
 - Rechtshistorisches Gutachten-Template
-- Beispielgliederung fuer Gutachten zur BGB-Entstehung
+- Beispielgliederung für Gutachten zur BGB-Entstehung
 - Checkliste: Qualitaetssicherung vor Gutachtenabgabe
 
 ## Quellenregel

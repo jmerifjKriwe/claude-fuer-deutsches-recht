@@ -26,7 +26,7 @@ description: "AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rech
 - AGB-Klauseln, die Equal-Pay weiter ausschliessen, sind unwirksam.
 
 ### Vertragsstrafe bei Abwerbung
-- Wettbewerbsschutz fuer Verleiher: AGB-Klausel mit Vertragsstrafe in Hoehe einer Vermittlungsprovision (3-6 Monatsgehaelter) wirksam, soweit angemessen.
+- Wettbewerbsschutz für Verleiher: AGB-Klausel mit Vertragsstrafe in Hoehe einer Vermittlungsprovision (3-6 Monatsgehaelter) wirksam, soweit angemessen.
 - BAG 9 AZR 162/12 (Az verifizieren).
 
 ### Verleihverbot

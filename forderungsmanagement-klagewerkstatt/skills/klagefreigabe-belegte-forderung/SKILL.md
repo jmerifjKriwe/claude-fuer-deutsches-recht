@@ -1,6 +1,6 @@
 ---
 name: klagefreigabe-belegte-forderung
-description: "Pruefraster ob eine Forderung klagefaehig ist. Verlangt Belegnachweis Faelligkeit Verzug Verjaehrung Zustellfaehigkeit und positive Aussicht. Pinpoints ZPO 253 ZPO 138 BGB 286 BGB 195 BGB 199 ZPO 167. Liefert binaere Klagefreigabe-Entscheidung mit Begruendung und Aktenvermerk."
+description: "Pruefraster ob eine Forderung klagefaehig ist. Verlangt Belegnachweis Faelligkeit Verzug Verjährung Zustellfaehigkeit und positive Aussicht. Pinpoints ZPO 253 ZPO 138 BGB 286 BGB 195 BGB 199 ZPO 167. Liefert binaere Klagefreigabe-Entscheidung mit Begruendung und Aktenvermerk."
 ---
 
 # Klagefreigabe belegte Forderung
@@ -14,7 +14,7 @@ Bevor Klage eingereicht wird durchlaeuft die Forderung ein Pflicht-Pruefraster. 
 | 1 Bestehen | Anspruchsgrundlage benennbar Vertrag oder Gesetz | Ja Norm benannt |
 | 2 Faelligkeit | Datum Faelligkeit ermittelt | Ja Datum |
 | 3 Verzug | Mahnung oder kalendarisches Datum | Ja Beleg |
-| 4 Verjaehrung | Lauf gepruefte Hemmung dokumentiert | nicht eingetreten |
+| 4 Verjährung | Lauf gepruefte Hemmung dokumentiert | nicht eingetreten |
 | 5 Beleg | Urkunde Rechnung Vertrag Lieferschein vorhanden | mindestens zwei voneinander unabhaengige Belege |
 | 6 Schuldner-Identitaet | richtige Partei zustellfaehige Anschrift | bestaetigt |
 | 7 Solvenz-Indiz | kein Insolvenzantrag bekannt | bestaetigt |
@@ -36,9 +36,9 @@ Faellig seit [Datum] aus Paragraph [...] BGB Vertrag.
 Mahnung vom [Datum] mit Fristsetzung bis [Datum].
 Verzug seit [Datum] Paragraph 286 Absatz 1 BGB.
 
-4. Verjaehrung
+4. Verjährung
 Anspruch entstanden [Jahr] Kenntnis seit [Jahr].
-Verjaehrung tritt [Jahr] ein.
+Verjährung tritt [Jahr] ein.
 Restzeit [Monate].
 
 5. Belege
@@ -65,7 +65,7 @@ Klagefreigabe erteilt am [Datum].
 ## Stop-Bedingungen
 
 - Aussicht gering und Streitwert hoch
-- Verjaehrung bereits eingetreten ohne Hemmung
+- Verjährung bereits eingetreten ohne Hemmung
 - Schuldner nicht greifbar verzogen ins Ausland ohne Bezug
 - Belege nicht vorhanden nur Aussage von Mandant
 

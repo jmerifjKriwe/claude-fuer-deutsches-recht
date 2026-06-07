@@ -57,7 +57,7 @@ Kontrast und Reflow sind oft schnell zu beheben und stark nutzerwirksam. Animati
 - Nutzerwirkung.
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
-- Prioritaet und Nachweis fuer die Dokumentation.
+- Prioritaet und Nachweis für die Dokumentation.
 
 ## Qualitäts-Hardening
 

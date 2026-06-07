@@ -19,7 +19,7 @@ Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdiszip
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer die Verteidigung im Disziplinarverfahren bei der Frage, welche Massnahme angemessen ist. Anwendung von Disziplinarverfuegung bis Disziplinarklage.
+Skill für die Verteidigung im Disziplinarverfahren bei der Frage, welche Massnahme angemessen ist. Anwendung von Disziplinarverfuegung bis Disziplinarklage.
 
 ## 2. Eingaben
 
@@ -74,4 +74,4 @@ Skill fuer die Verteidigung im Disziplinarverfahren bei der Frage, welche Massna
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Justizvollzugsbeamter, drei Faelle Untreue zu Lasten einer Inhaftiertenkasse, Schaden 1.200 Euro. Skill liefert Bemessungsraster und Argumente fuer Disziplinarmassnahme unterhalb der Entfernung.
+Mandant Justizvollzugsbeamter, drei Faelle Untreue zu Lasten einer Inhaftiertenkasse, Schaden 1.200 Euro. Skill liefert Bemessungsraster und Argumente für Disziplinarmassnahme unterhalb der Entfernung.

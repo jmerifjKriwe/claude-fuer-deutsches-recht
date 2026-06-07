@@ -141,18 +141,18 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 
 - Sie pruefen einen Gesetzentwurf auf Vereinbarkeit mit dem Grundgesetz vor Einleitung des Gesetzgebungsverfahrens.
 - Sie formulieren eine Verfassungsbeschwerde nach §§ 90 ff. BVerfGG und benoetigen strukturierte Zulassungs- und Begruendungsanforderungen.
-- Sie pruefen die Gesetzgebungskompetenz des Bundes oder eines Landes fuer ein konkretes Regelungsvorhaben.
+- Sie pruefen die Gesetzgebungskompetenz des Bundes oder eines Landes für ein konkretes Regelungsvorhaben.
 - Eine staatliche Massnahme beeintraechtigt Grundrechte und Sie benoetigen eine strukturierte Pruefung (Schutzbereich, Eingriff, Rechtfertigung).
-- Sie benoetigen BVerfG-Rechtsprechung zu einer verfassungsrechtlichen Frage fuer einen Schriftsatz.
+- Sie benoetigen BVerfG-Rechtsprechung zu einer verfassungsrechtlichen Frage für einen Schriftsatz.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Schutzbereich** — Der sachliche und persoenliche Bereich, den ein Grundrecht schuetzt; muss eroeffnet sein, bevor ein Eingriff geprueft wird.
+- **Schutzbereich** — Der sachliche und persönliche Bereich, den ein Grundrecht schuetzt; muss eroeffnet sein, bevor ein Eingriff geprueft wird.
 - **Eingriff** — Staatliche Massnahme, die in den Schutzbereich eines Grundrechts einwirkt; klassisch: unmittelbar, final, rechtsaktmaessig.
 - **Verhaeltnismaessigkeit** — Verfassungsrechtlicher Grundsatz: Massnahme muss legitimen Zweck verfolgen, geeignet, erforderlich und angemessen sein.
-- **Gesetzgebungskompetenz** — Grundsaetzlich bei den Laendern (Art. 70 GG); ausschliessliche Bundeskompetenzen Art. 73 GG; konkurrierende Bundeskompetenzen Art. 74 GG.
+- **Gesetzgebungskompetenz** — Grundsaetzlich bei den Ländern (Art. 70 GG); ausschliessliche Bundeskompetenzen Art. 73 GG; konkurrierende Bundeskompetenzen Art. 74 GG.
 - **Wesensgehalt** — Unantastbarer Kernbestand jedes Grundrechts; auch im Kriegszustand nicht einschraenkbar (Art. 19 Abs. 2 GG).
-- **Verfassungsbeschwerde** — Rechtsbehelfsmoeglichkeit fuer jede Person gegen Verletzung eines Grundrechts durch oeffentliche Gewalt (Art. 93 Abs. 1 Nr. 4a GG).
+- **Verfassungsbeschwerde** — Rechtsbehelfsmoeglichkeit für jede Person gegen Verletzung eines Grundrechts durch öffentliche Gewalt (Art. 93 Abs. 1 Nr. 4a GG).
 - **Normenkontrolle** — Abstrakte (Art. 93 Abs. 1 Nr. 2 GG) oder konkrete (Art. 100 GG) Pruefung von Gesetzen auf Verfassungskonformitaet.
 
 ## Rechtsgrundlagen
@@ -160,13 +160,13 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 - Art. 1-19 GG — Grundrechte
 - Art. 19 Abs. 2 GG — Wesensgehaltgarantie
 - Art. 20 Abs. 3 GG — Rechtsstaatsprinzip und Verhaeltnismaessigkeit
-- Art. 70-74 GG — Gesetzgebungskompetenzen Bund und Laender
+- Art. 70-74 GG — Gesetzgebungskompetenzen Bund und Länder
 - Art. 76-82 GG — Gesetzgebungsverfahren
-- Art. 93 GG — Zustaendigkeit BVerfG
+- Art. 93 GG — Zuständigkeit BVerfG
 - Art. 100 GG — Konkrete Normenkontrolle
 - §§ 90 ff. BVerfGG — Verfassungsbeschwerde
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Pruefungsanlass (Gesetzentwurf, staatliche Massnahme, Verfassungsbeschwerde), Verfahrensstadium.
 2. Phase des Mandats bestimmen: Kompetenzpruefung, formelle Pruefung, Grundrechtspruefung, Verhaeltnismaessigkeit oder Beschwerde-Entwurf.
@@ -197,14 +197,14 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 
 **Rechtsprechungsrecherche**
 
-- `bverfg-rechtsprechung-recherchieren` — BVerfG-Rechtsprechung zu konkreter Frage recherchieren und fuer Schriftsatz aufbereiten.
+- `bverfg-rechtsprechung-recherchieren` — BVerfG-Rechtsprechung zu konkreter Frage recherchieren und für Schriftsatz aufbereiten.
 
 ## Worauf besonders achten
 
-- **Rechtswegerschoepfung ist Voraussetzung fuer Verfassungsbeschwerde.** Vor Einlegung der Verfassungsbeschwerde muessen alle ordentlichen und verwaltungsgerichtlichen Rechtsbehelfe ausgeschoepft sein (§ 90 Abs. 2 BVerfGG).
+- **Rechtswegerschoepfung ist Voraussetzung für Verfassungsbeschwerde.** Vor Einlegung der Verfassungsbeschwerde muessen alle ordentlichen und verwaltungsgerichtlichen Rechtsbehelfe ausgeschoepft sein (§ 90 Abs. 2 BVerfGG).
 - **Einmonats-Frist laeuft ab Zustellung, nicht ab Kenntnis.** Verfassungsbeschwerde ist nach § 93 Abs. 1 BVerfGG an harte Fristen gebunden; keine Wiedereinsetzung ohne triftigen Grund.
 - **Schutzbereich und Eingriff sorgfaeltig trennen.** Haeufiger Fehler ist es, den Eingriff in der Schutzbereichspruefung zu behandeln; die Struktur des Drei-Schritt ist in Schriftsaetzen streng einzuhalten.
-- **Konkrete Normenkontrolle nur durch Gerichte.** Buerger und Behoerden koennen keine Normenkontrolle nach Art. 100 GG beantragen; nur Gerichte koennen vorlegen.
+- **Konkrete Normenkontrolle nur durch Gerichte.** Buerger und Behörden koennen keine Normenkontrolle nach Art. 100 GG beantragen; nur Gerichte koennen vorlegen.
 - **Aktuelle BVerfG-Rechtsprechung immer live recherchieren.** Das Plugin verweist auf bundesverfassungsgericht.de; jedes Gebiet hat potentiell neuere Entscheidungen als der interne Wissensstand.
 
 ## Typische Fehler
@@ -212,12 +212,12 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 - Verhaeltnismaessigkeitspruefung wird ohne Herausarbeitung eines legitimen Zwecks begonnen; Pruefung ist dann unvollstaendig.
 - Verfassungsbeschwerde wird eingereicht ohne Rechtswegerschoepfung; BVerfG nimmt sie nicht zur Entscheidung an.
 - Grundrechtspruefung vermischt Schutzbereich und Eingriff; strukturelles Problem im Schriftsatz.
-- Gesetzgebungskompetenz wird nur fuer den Bund geprueft ohne Sperrwirkung und Abweichungsgesetzgebung zu beachten.
+- Gesetzgebungskompetenz wird nur für den Bund geprueft ohne Sperrwirkung und Abweichungsgesetzgebung zu beachten.
 - BVerfG-Judikatur aus den 1990er Jahren wird ohne Ueberpruefung auf Weitergeltung angewendet; Rechtsprechung kann sich geaendert haben.
 
 ## Querverweise
 
-- `jurastudium` — Fuer Studierende die Verfassungsrecht fuer das Staatsexamen ueben wollen.
+- `jurastudium` — Fuer Studierende die Verfassungsrecht für das Staatsexamen ueben wollen.
 - `subsumtions-pruefer` — Fuer die mechanische Subsumtion einzelner Verfassungsrechtsnormen im Vier-Schritt.
 - `gesellschaftsrecht` — Wenn Verfassungsrecht im Kontext von Unternehmensrecht (z.B. Berufsfreiheit Art. 12 GG) relevant wird.
 

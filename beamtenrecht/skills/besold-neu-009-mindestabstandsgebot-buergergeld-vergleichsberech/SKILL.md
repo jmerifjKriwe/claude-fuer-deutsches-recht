@@ -19,7 +19,7 @@ Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung. Die Prüfun
 
 ## Aufgabe
 
-Skill fuer das Mindestabstandsgebot zur Buergergeld-Grundsicherung — BVerfG-Linie.
+Skill für das Mindestabstandsgebot zur Buergergeld-Grundsicherung — BVerfG-Linie.
 
 ## Norm
 

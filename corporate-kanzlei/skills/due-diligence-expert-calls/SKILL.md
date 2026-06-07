@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -149,13 +149,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Financial DD | EBITDA-Qualitaet, Working Capital, Net Debt, Normalisierungen | [H/M/N] | Kaufpreis-Anpassung |
 | Commercial DD | Marktposition, Kundenkonzentration, Pipeline, Synergien | [H/M/N] | MAC-Klausel, Earn-Out |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Berichte einsammeln** — Legal, Tax, Financial, Commercial DD-Reports; Datum und Versionsstand pruefen
 2. **Cross-Workstream-Abgleich** — gleiches Finding aus verschiedenen Perspektiven identifizieren (z.B. Rechtsstreit = Litigation-Risk in LDD + Rueckstellung in FDD)
 3. **Executive Summary aufbauen** — Gesamtrisikoeinschaetzung, Deal-Empfehlung, wichtigste Befunde
 4. **Risikomatrix konsolidieren** — alle High/Red-Findings zusammenfuehren; Priorisierung nach Wertrelevanz
-5. **SPA-Mapping erstellen** — Empfehlung fuer jedes Material Finding: Indemnity, Warranty, Kaufpreisabschlag, Closing Condition
+5. **SPA-Mapping erstellen** — Empfehlung für jedes Material Finding: Indemnity, Warranty, Kaufpreisabschlag, Closing Condition
 6. **Freigabe intern** — Managing Partner / Deal-Lead zeichnet ab
 7. **Weiterleitung an** — Mandant (Deal-Team), W&I-Underwriter (anonymisiert ggf.), Financing Bank
 8. **Archivierung** — versioniert im Closing-Bible-Archiv; Link im Matter File
@@ -201,7 +201,7 @@ VERTRAULICH — NUR FUER BESTIMMUNGSEMPFAENGER
  3.2 Wesentliche Vertraege
  3.3 HR und Arbeitsrecht
  3.4 IP und IT
- 3.5 Litigation und Behoerdenverfahren
+ 3.5 Litigation und Behördenverfahren
  3.6 Compliance (GwG, Kartell, Export-Control)
 
 4. TAX DUE DILIGENCE (Zusammenfassung)
@@ -249,7 +249,7 @@ ANLAGEN:
 
 ## Vertiefung: Vendor DD (Sell-Side)
 
-Beim Verkaefer-initiierten Vendor DD erstellt ein unabhaengiger Berater den Report fuer potenzielle Kaeufer. Vorteil: Verkaefer kontrolliert Informationsfluss, spart Bieter-Zeit, erhoht Abschlusswahrscheinlichkeit. Nachteil: Kaeufer verlassen sich nicht allein darauf; meist parallele Buy-Side-DD eingeschraenkt. Der Vendor DD entbindet den Verkaefer nicht von Offenbarungspflichten (§ 311 II BGB).
+Beim Verkaefer-initiierten Vendor DD erstellt ein unabhaengiger Berater den Report für potenzielle Kaeufer. Vorteil: Verkaefer kontrolliert Informationsfluss, spart Bieter-Zeit, erhoht Abschlusswahrscheinlichkeit. Nachteil: Kaeufer verlassen sich nicht allein darauf; meist parallele Buy-Side-DD eingeschraenkt. Der Vendor DD entbindet den Verkaefer nicht von Offenbarungspflichten (§ 311 II BGB).
 
 ## Quellen
 

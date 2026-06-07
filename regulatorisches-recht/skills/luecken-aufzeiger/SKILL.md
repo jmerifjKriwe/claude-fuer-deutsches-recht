@@ -89,7 +89,7 @@ Schweregradkriteria:
 
 ### 5. Gap-Tracker schreiben
 
-Gap-Liste in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/gap-tracker.yaml` aktualisieren.
+Gap-Liste in `~/.claude/plugins/config/claude-für-deutsches-recht/regulatorisches-recht/gap-tracker.yaml` aktualisieren.
 
 ## Aktuelle Rechtsprechung & Leitsätze
 

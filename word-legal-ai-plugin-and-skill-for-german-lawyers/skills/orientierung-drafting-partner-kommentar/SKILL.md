@@ -72,7 +72,7 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 | Partnernotizen / Randkommentare | Umsetzung in Draft | `partner-kommentar-umsetzen`, `revisions-prozess-redlines-comparison` |
 | Mandantenmemo / Partnerupdate | Entscheidungsvorlage | `mandantenmemo-und-partner-update`, `argumentationsarchitektur-schreiben` |
 | Schriftsatz ist zu lang oder unklar | Richterlesbarkeit | `schriftsatz-ueberarbeiten-richterlesbar`, `argumentationsarchitektur-schreiben` |
-| Englischer Text aus deutscher Sicht | US/UK Legal Writing | `us-uk-legal-writing-fuer-deutsche`, `englischer-vertrag-deutsches-recht` |
+| Englischer Text aus deutscher Sicht | US/UK Legal Writing | `us-uk-legal-writing-für-deutsche`, `englischer-vertrag-deutsches-recht` |
 | Englischer Vertrag mit deutschem Recht | German law in English | `englischer-vertrag-deutsches-recht`, `bilingual-drafting-deutsch-englisch` |
 | Versandfassung | Quality Gate | `finaler-writing-quality-gate`, `word-dokument-finish-und-layout` |
 

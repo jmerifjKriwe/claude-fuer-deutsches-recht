@@ -1,13 +1,13 @@
 ---
 name: haftungsausschluss-haftungsbegrenzung
-description: "Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote fuer Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Haftungsausschluss und Haftungsbegrenzung
 
 ## Arbeitsbereich
 
-Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote fuer Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 B
 
 Haftungsklauseln sind die wirtschaftlich wichtigste Kategorie in vielen Vertraegen. Sie sind gleichzeitig die rechtlich riskanteste: Ein zu weit gefasster Ausschluss ist nichtig und reisst die gesamte Klausel mit. Ein zu enger Ausschluss laesst Haftung stehen, die kalkulatorisch nicht gewollt war.
 
-Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), die typischen Drafting-Strategien (Summenbegrenzung, Zeitbegrenzung, Ausschluss mittelbarer Schaeden) und Mustertexte fuer B2B und B2C. Er zeigt die Tabelle, in der die meisten Drafter scheitern.
+Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), die typischen Drafting-Strategien (Summenbegrenzung, Zeitbegrenzung, Ausschluss mittelbarer Schaeden) und Mustertexte für B2B und B2C. Er zeigt die Tabelle, in der die meisten Drafter scheitern.
 
 ## Eingaben
 
@@ -34,7 +34,7 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
 ## Rechtlicher und methodischer Rahmen
 
 - § 276 Abs. 3 BGB: Haftung wegen Vorsatzes kann dem Schuldner im voraus nicht erlassen werden.
-- § 309 Nr. 7 BGB: AGB-Klauselverbot fuer Ausschluss bei Vorsatz und grober Fahrlaessigkeit, fuer Verletzung von Leben Koerper Gesundheit und fuer Kardinalpflichten.
+- § 309 Nr. 7 BGB: AGB-Klauselverbot für Ausschluss bei Vorsatz und grober Fahrlaessigkeit, für Verletzung von Leben Koerper Gesundheit und für Kardinalpflichten.
 - § 307 BGB: AGB-Generalklausel. Auch im B2B begrenzt.
 - § 444 BGB: Bei arglistig verschwiegenem Mangel kein Haftungsausschluss.
 - § 11 ProdHaftG: Haftung nach Produkthaftungsgesetz kann nicht ausgeschlossen oder begrenzt werden.
@@ -48,7 +48,7 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
 4. **Welche Pflicht?** Kardinalpflicht oder Nebenpflicht?
 5. **AGB oder Individualabrede?** Im AGB-Verhaeltnis gelten Klauselverbote.
 6. **Hoehe der Begrenzung?** Summenmaessig, deckungsgleich mit Haftpflichtversicherung?
-7. **Zeitliche Begrenzung?** Verkuerzung der Verjaehrung nach § 202 BGB beachten.
+7. **Zeitliche Begrenzung?** Verkuerzung der Verjährung nach § 202 BGB beachten.
 
 ### Pflichtgrenzen-Tabelle
 
@@ -58,7 +58,7 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
 | Grobe Fahrlaessigkeit eigener Personen | grundsaetzlich nicht in AGB (§ 309 Nr. 7 BGB analog) | nie ausschliessbar | nur eingeschraenkt |
 | Grobe Fahrlaessigkeit Erfuellungsgehilfen | begrenzt zulaessig | nie ausschliessbar | begrenzt zulaessig |
 | Leben Koerper Gesundheit | nie ausschliessbar | nie ausschliessbar | nie ausschliessbar |
-| Kardinalpflichten leicht fahrlaessig | nur summenmaessig auf vorhersehbaren Schaden | nur summenmaessig auf vorhersehbaren Schaden | summenmaessige Begrenzung zulaessig |
+| Kardinalpflichten leicht fahrlaessig | nur summenmaessig auf vorhersehbaren Schaden | nur summenmaessig auf vorhersehbaren Schaden | summenmäßige Begrenzung zulaessig |
 | Sonstige leichte Fahrlaessigkeit | ausschliessbar | begrenzt ausschliessbar | ausschliessbar |
 | Arglistig verschwiegener Mangel | § 444 BGB | § 444 BGB | § 444 BGB |
 | Produkthaftung Personenschaden | § 11 ProdHaftG | § 11 ProdHaftG | § 11 ProdHaftG |
@@ -66,8 +66,8 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
 ### Drafting-Strategien
 
 1. **Differenzierte Klausel:** Trennen Sie nach Verschuldensgrad und Pflichtart.
-2. **Summenmaessige Begrenzung:** "Begrenzt auf den vorhersehbaren typischen Schaden, maximal Euro X."
-3. **Zeitliche Begrenzung:** Verjaehrungsverkuerzung nach § 202 BGB; auf ein Jahr im B2B, im B2C nicht unter zwei Jahre fuer neue Sachen.
+2. **Summenmäßige Begrenzung:** "Begrenzt auf den vorhersehbaren typischen Schaden, maximal Euro X."
+3. **Zeitliche Begrenzung:** Verjährungsverkuerzung nach § 202 BGB; auf ein Jahr im B2B, im B2C nicht unter zwei Jahre für neue Sachen.
 4. **Ausschluss mittelbarer Schaeden:** Konkret formulieren: "Indirekte Schaeden, entgangener Gewinn, Datenverlust." Vorsicht bei AGB.
 
 ### Mustertext B2B (AGB-fest)
@@ -89,9 +89,9 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
  [Betrag in Euro] je Schadensfall.
 
 (3) Im Uebrigen ist die Haftung des Lieferanten ausgeschlossen, insbesondere
- fuer indirekte Schaeden, entgangenen Gewinn und Datenverlust.
+ für indirekte Schaeden, entgangenen Gewinn und Datenverlust.
 
-(4) Ansprueche verjaehren in zwei Jahren ab gesetzlichem Verjaehrungsbeginn,
+(4) Ansprueche verjaehren in zwei Jahren ab gesetzlichem Verjährungsbeginn,
  Anspruechee aus Vorsatz und nach Produkthaftungsgesetz nach den
  gesetzlichen Vorschriften.
 ```
@@ -118,8 +118,8 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
 - **Pauschal-Ausschluss "jede Haftung wird ausgeschlossen".** Nichtig nach § 307 BGB und § 309 Nr. 7 BGB.
 - **Vorsatz vergessen.** Ohne Klarstellung wird die Klausel als Versuch gewertet, auch Vorsatz auszuschliessen.
 - **Kardinalpflichten nicht definiert.** Begriff aus BGH-Rspr. Definition in der Klausel klarstellen.
-- **Summenbegrenzung ohne Bezug.** "Maximal 1000 Euro" bei einem Vertragsvolumen von 5 Mio Euro ist Indikator fuer Unwirksamkeit.
-- **Verjaehrungsverkuerzung unter zwei Jahre im B2C.** Bei neuen Sachen nach § 309 Nr. 8 lit. b ff BGB Klauselverbot.
+- **Summenbegrenzung ohne Bezug.** "Maximal 1000 Euro" bei einem Vertragsvolumen von 5 Mio Euro ist Indikator für Unwirksamkeit.
+- **Verjährungsverkuerzung unter zwei Jahre im B2C.** Bei neuen Sachen nach § 309 Nr. 8 lit. b ff BGB Klauselverbot.
 - **Arglistklausel umgangen.** § 444 BGB kann nicht abbedungen werden.
 
 ## Ausgabeformat
@@ -130,7 +130,7 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
 
 ## Beispiel
 
-**Aufgabe:** Haftungsklausel fuer einen IT-Dienstleistervertrag (B2B) mit Vertragsvolumen 200.000 Euro pro Jahr, Berufshaftpflicht des Dienstleisters mit Deckungssumme 5 Mio Euro je Schadensfall.
+**Aufgabe:** Haftungsklausel für einen IT-Dienstleistervertrag (B2B) mit Vertragsvolumen 200.000 Euro pro Jahr, Berufshaftpflicht des Dienstleisters mit Deckungssumme 5 Mio Euro je Schadensfall.
 
 **Loesung:**
 
@@ -150,12 +150,12 @@ Jahr. Kardinalpflichten sind solche, deren Erfuellung den Vertrag erst
 ermoeglicht und auf deren Einhaltung der Auftraggeber regelmaessig vertrauen
 darf.
 
-(3) Im Uebrigen ist die Haftung ausgeschlossen, insbesondere fuer mittelbare
+(3) Im Uebrigen ist die Haftung ausgeschlossen, insbesondere für mittelbare
 Schaeden, entgangenen Gewinn und Datenverlust.
 
-(4) Verjaehrung
+(4) Verjährung
 Schadensersatzanspruechee verjaehren in zwei Jahren ab gesetzlichem
-Verjaehrungsbeginn. Anspruechee nach Abs. 1 verjaehren nach den
+Verjährungsbeginn. Anspruechee nach Abs. 1 verjaehren nach den
 gesetzlichen Vorschriften.
 ```
 
@@ -170,4 +170,4 @@ gesetzlichen Vorschriften.
 
 - § 276 Abs. 3 BGB, § 278 BGB, § 307 BGB, § 309 Nr. 7 BGB, § 309 Nr. 8 BGB, § 444 BGB, § 202 BGB. gesetze-im-internet.de.
 - § 11 ProdHaftG. gesetze-im-internet.de/prodhaftg/.
-- BGH-Rspr. zu Kardinalpflichten und summenmaessiger Begrenzung: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
+- BGH-Rspr. zu Kardinalpflichten und summenmäßiger Begrenzung: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.

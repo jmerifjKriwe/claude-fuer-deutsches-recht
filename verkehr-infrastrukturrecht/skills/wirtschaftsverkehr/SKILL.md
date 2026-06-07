@@ -30,10 +30,10 @@ Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistiku
 
 - § 12 StVO — Haltverbot; absolute und eingeschraenkte Haltverbotszonen
 - § 45 I StVO — Anordnungsbefugnis Strassenverkehrsbehoerde
-- § 46 StVO — Ausnahmen vom Fahrverbot / Haltverbot fuer bestimmte Fahrzeuge oder Zwecke
+- § 46 StVO — Ausnahmen vom Fahrverbot / Haltverbot für bestimmte Fahrzeuge oder Zwecke
 - Zeichen 286 StVO — eingeschraenktes Halteverbot (Lieferzone mit Zusatzzeichen)
 - Zeichen 250, 253 StVO — Durchfahrtverbote mit Lieferausnahme-Zusatzzeichen
-- §§ 11 ff. StrWG NRW (bzw. Landesrecht) — Sondernutzung oeffentlicher Strassen
+- §§ 11 ff. StrWG NRW (bzw. Landesrecht) — Sondernutzung öffentlicher Strassen
 - § 21a StVZO — Ladungssicherung; Haftung bei Ladungsrutsch
 - VO (EG) 561/2006 — Lenk- und Ruhezeiten Gueterverkehr
 - § 22 StVO — Ladung; Hoechstgewicht, Breite, Laenge
@@ -45,7 +45,7 @@ Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistiku
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Bedarf analysieren:** Welche Betriebe brauchen Lieferflaeche, welche Frequenz, welche Fahrzeugklassen?
 2. **Bestandsaufnahme:** vorhandene Haltverbote, Parkraumbewirtschaftung, Fussgaengerzonen abgleichen
@@ -67,7 +67,7 @@ Bestehende Lieferzone vorhanden?
  Ja ──→ Ausnahme § 46 StVO beantragen; Zeitfenster pruefen
  Nein ──→ neue Lieferzone einrichten
  |
-Einrichtung durch Behoerde (§ 45 StVO)
+Einrichtung durch Behörde (§ 45 StVO)
  Oeffentliche Strasse ──→ Verkehrszeichen-Anordnung
  Privateigentum ──→ Sondernutzungsvertrag (§§ 11 ff. StrWG)
  |
@@ -97,7 +97,7 @@ Antragsteller/in: [FIRMA / NAME], [ADRESSE], USt-IdNr. [X]
 
 Sehr geehrte Damen und Herren,
 
-wir beantragen fuer unser Unternehmen eine Ausnahmegenehmigung fuer die
+wir beantragen für unser Unternehmen eine Ausnahmegenehmigung für die
 Einfahrt in die Fussgaengerzone / Nutzung des eingeschraenkten Haltverbots
 in der [STRASSE], [PLZ ORT]:
 
@@ -121,7 +121,7 @@ Mit freundlichen Gruessen
 
 ## Harte Leitplanken
 
-- § 46 StVO-Genehmigung ist Ermessensentscheidung — kein Rechtsanspruch, aber Anspruch auf fehlerfreie Ermessensausuebung
+- § 46 StVO-Genehmigung ist Ermessensentscheidung — kein Rechtsanspruch, aber Anspruch auf fehlerfreie Ermessensausübung
 - Sichtdreiecke und 5-m-Abstands-Regel (§ 12 I Nr. 1 StVO) bei Lieferzonen-Standort unbedingt einhalten
 - Ladungssicherung (§ 22 StVO, VDI 2700) vor Beginn jeder Auslieferung pruefen
 - OEPNV-Haltestellen und Radwege freihalten — Busverkehr geht vor

@@ -1,6 +1,6 @@
 ---
 name: onboarding-beratungsstruktur
-description: "Methodisches Pruefungsschema fuer jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest fuer steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatrix Norm-Identifikation Rechtsfolgenermittlung Belastungsvergleich Alternativen-Gegenueberstellung und Mandantenkommunikation. Output Aktenraster und Pruefungsbogen. Abgrenzung zu fa-stu-onboarding-mandatsannahme (Erstgespraech) und fa-stu-onboarding-fristen-uebersicht (Termin-Triage)."
+description: "Methodisches Pruefungsschema für jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest für steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatrix Norm-Identifikation Rechtsfolgenermittlung Belastungsvergleich Alternativen-Gegenueberstellung und Mandantenkommunikation. Output Aktenraster und Pruefungsbogen. Abgrenzung zu fa-stu-onboarding-mandatsannahme (Erstgespraech) und fa-stu-onboarding-fristen-uebersicht (Termin-Triage)."
 ---
 
 # Beratungsstruktur im Steuerrecht — Pruefungsschema vom Sachverhalt zur Loesung
@@ -18,11 +18,11 @@ description: "Methodisches Pruefungsschema fuer jedes steuerliche Mandat — vom
 3. Welche Steuerart und welcher Veranlagungszeitraum sind betroffen?
 4. Welche Rechtsfolge will der Mandant erreichen (Steuerminderung Stundung Erlass Vergleich)?
 5. Gibt es konkurrierende Rechtsquellen (EU-Recht DBA Verwaltungsvorschriften)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **§ 88 AO** — Untersuchungsgrundsatz; Behoerde ermittelt Sachverhalt von Amts wegen.
+- **§ 88 AO** — Untersuchungsgrundsatz; Behörde ermittelt Sachverhalt von Amts wegen.
 - **§ 90 AO** — Mitwirkungspflichten der Beteiligten.
 - **§ 162 AO** — Schaetzung bei Verletzung von Mitwirkungspflichten.
 - **§§ 38 ff. AO** — Steueranspruch und Tatbestand.

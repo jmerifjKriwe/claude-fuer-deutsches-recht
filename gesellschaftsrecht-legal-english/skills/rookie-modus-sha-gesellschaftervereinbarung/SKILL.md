@@ -1,13 +1,13 @@
 ---
 name: rookie-modus-sha-gesellschaftervereinbarung
-description: "First-Year-Associate-Modus fuer Corporate Legal English: fuehrt Schritt fuer Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates im Gesellschaftsrecht Legal English: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "First-Year-Associate-Modus für Corporate Legal English: fuehrt Schritt für Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates im Gesellschaftsrecht Legal English: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rookie-Modus
 
 ## Arbeitsbereich
 
-First-Year-Associate-Modus fuer Corporate Legal English: fuehrt Schritt fuer Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+First-Year-Associate-Modus für Corporate Legal English: fuehrt Schritt für Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ First-Year-Associate-Modus fuer Corporate Legal English: fuehrt Schritt fuer Sch
 
 ## Ziel
 
-Der Nutzer soll sich in einer internationalen Corporate-Aufgabe orientieren koennen, ohne fachlich zu raten oder Kanzleijargon zu imitieren. Der Modus ist ein Lerncoach fuer echte Arbeitsprodukte: Term-Sheet-Notiz, Cap-Table-Pruefung, Markup-Kommentar, Partnerbriefing, Mandantenantwort.
+Der Nutzer soll sich in einer internationalen Corporate-Aufgabe orientieren koennen, ohne fachlich zu raten oder Kanzleijargon zu imitieren. Der Modus ist ein Lerncoach für echte Arbeitsprodukte: Term-Sheet-Notiz, Cap-Table-Pruefung, Markup-Kommentar, Partnerbriefing, Mandantenantwort.
 
 ## Grundsatz
 

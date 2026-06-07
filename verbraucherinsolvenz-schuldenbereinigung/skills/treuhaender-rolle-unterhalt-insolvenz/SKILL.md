@@ -38,7 +38,7 @@ description: "Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolve
 
 ## Aufgabe
 
-Skill fuer Treuhaender-Mandate.
+Skill für Treuhaender-Mandate.
 
 ## Norm
 
@@ -66,7 +66,7 @@ Skill fuer Treuhaender-Mandate.
 ## Verguetung
 
 - § 14 InsVV Insolvenzrechtsverguetungsverordnung.
-- Mindestverguetung 100 Euro/Jahr fuer Treuhaender in Verbraucherinsolvenz.
+- Mindestverguetung 100 Euro/Jahr für Treuhaender in Verbraucherinsolvenz.
 
 ## Pruefraster
 
@@ -93,7 +93,7 @@ Skill fuer Treuhaender-Mandate.
 
 ## Aufgabe
 
-Skill fuer Schnittstelle Insolvenz / Unterhalt.
+Skill für Schnittstelle Insolvenz / Unterhalt.
 
 ## Norm
 
@@ -103,7 +103,7 @@ Skill fuer Schnittstelle Insolvenz / Unterhalt.
 ## Laufende Unterhaltspflicht
 
 - Unterhalt aus Erwerbseinkommen ist nicht der Insolvenzmasse zugeordnet.
-- § 850d ZPO: privilegierte Pfaendbarkeit fuer Unterhalt; bevorrechtigter Anspruch.
+- § 850d ZPO: privilegierte Pfaendbarkeit für Unterhalt; bevorrechtigter Anspruch.
 
 ## Unterhaltsrueckstaende vor Insolvenzantrag
 
@@ -139,7 +139,7 @@ Skill fuer Schnittstelle Insolvenz / Unterhalt.
 
 ## Aufgabe
 
-Skill fuer Versagungsverfahren.
+Skill für Versagungsverfahren.
 
 ## Norm
 

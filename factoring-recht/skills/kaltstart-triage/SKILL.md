@@ -56,7 +56,7 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `datenschutz-debitorendaten-dsgvo-informationspflichten` | Datenschutz Debitorendaten DSGVO Informationspflichten |
 | `verbraucherforderungen-und-besondere-schutzvorschriften` | Verbraucherforderungen und besondere Schutzvorschriften |
 | `b2b-lieferketten-forderungsbestand-und-reklamationsrisiko` | B2B Lieferketten Forderungsbestand und Reklamationsrisiko |
-| `oeffentliche-auftraggeber-abtretung-zustimmung-haushaltsrecht` | Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht |
+| `öffentliche-auftraggeber-abtretung-zustimmung-haushaltsrecht` | Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht |
 | `auslandsfactoring-import-export-two-factor-system` | Auslandsfactoring Import Export Two-Factor-System |
 | `unidroit-fci-logik-und-rechtswahl-internationale-forderungen` | UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen |
 | `insolvenz-des-factoringkunden-aussonderung-absonderung` | Insolvenz des Factoringkunden Aussonderung Absonderung |
@@ -104,7 +104,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `echtes-und-unechtes-factoring-risikoverteilung` | Echtes und unechtes Factoring Risikoverteilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-M... |
 | `einziehungsbefugnis-debitoren-zahlungskanaele-treuhandkonto` | Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32... |
 | `erlaubnisantrag-32-kwg-unterlagen-geschaeftsleiter` | Erlaubnisantrag § 32 KWG Unterlagen Geschäftsleiter: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, Ba... |
-| `factoring-fuer-rechtsanwaelte-steuerberater-berufsrecht` | Factoring für Rechtsanwälte Steuerberater Berufsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG,... |
+| `factoring-für-rechtsanwaelte-steuerberater-berufsrecht` | Factoring für Rechtsanwälte Steuerberater Berufsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG,... |
 | `factoring-in-gesundheitswesen-goae-ebm-krankenhaus` | Factoring in Gesundheitswesen GOÄ EBM Krankenhaus: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFi... |
 | `factoring-plattformmodelle-fintech-und-api` | Factoring Plattformmodelle Fintech und API: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkb... |
 | `factoringtyp-true-false-reverse-maturity` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Factoringtyp true false reverse maturity. |
@@ -126,7 +126,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `kyc-gwg-factoringinstitut-wirtschaftlich-berechtigte` | KYC GwG Factoringinstitut wirtschaftlich Berechtigte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, B... |
 | `mandantenmemo-factoring-risiken-vorstandsvorlage` | Mandantenmemo Factoring-Risiken Vorstandsvorlage: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin... |
 | `npl-kauf-servicing-und-factoring-abgrenzung` | NPL Kauf Servicing und Factoring-Abgrenzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merk... |
-| `oeffentliche-auftraggeber-abtretung-zustimmung-haushaltsrecht` | Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 3... |
+| `öffentliche-auftraggeber-abtretung-zustimmung-haushaltsrecht` | Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 3... |
 | `organisationspflichten-marisk-bait-dora-schnittstellen` | Organisationspflichten MaRisk BAIT DORA Schnittstellen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG,... |
 | `output-vertragsentwurf-memo-anzeige` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Vertragsentwurf Memo Anzeige. |
 | `pricing-gebuehren-zins-marge-transparenz` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz. |

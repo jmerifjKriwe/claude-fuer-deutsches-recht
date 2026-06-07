@@ -19,7 +19,7 @@ Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrech
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Konstellationen, in denen mehrere Bewerber dieselbe Gesamtnote in der dienstlichen Beurteilung erreichen. Die Auswahlentscheidung muss in diesem Fall in einer bestimmten Reihenfolge differenzieren; ein Auswahlvermerk, der diese Reihenfolge nicht abarbeitet, ist regelmaessig rechtswidrig.
+Skill für Konstellationen, in denen mehrere Bewerber dieselbe Gesamtnote in der dienstlichen Beurteilung erreichen. Die Auswahlentscheidung muss in diesem Fall in einer bestimmten Reihenfolge differenzieren; ein Auswahlvermerk, der diese Reihenfolge nicht abarbeitet, ist regelmaessig rechtswidrig.
 
 ## 2. Eingaben
 
@@ -32,7 +32,7 @@ Skill fuer Konstellationen, in denen mehrere Bewerber dieselbe Gesamtnote in der
 
 ### a) Stufenfolge der Differenzierung
 1. Binnendifferenzierung der Gesamtnote durch ausschoepfende Wuerdigung des Beurteilungstextes (Spezifizierung der Note, Bewertungstendenz "oberer Bereich" oder "unterer Bereich").
-2. Vergleich der Einzelmerkmale, insbesondere derjenigen, die fuer den konkret zu besetzenden Dienstposten relevant sind.
+2. Vergleich der Einzelmerkmale, insbesondere derjenigen, die für den konkret zu besetzenden Dienstposten relevant sind.
 3. Vergleich auf der Grundlage der vorhergehenden Regelbeurteilungen ("Vorbeurteilungen").
 4. Hilfskriterien (Schwerbehinderung, Frauenfoerderplan, Auslandsverwendung, Dienstalter).
 5. Letztrangig Auswahlgespraech oder Assessment Center.
@@ -45,7 +45,7 @@ Skill fuer Konstellationen, in denen mehrere Bewerber dieselbe Gesamtnote in der
 - Bloss formelhafte Begruendung ("der Konkurrent ueberzeugte im Gespraech mehr") genuegt nicht.
 
 ### d) Gewichtung der Einzelmerkmale
-- Die Auswahl muss aufzeigen, welche Einzelmerkmale fuer den konkreten Dienstposten besonders gewichtet wurden und warum.
+- Die Auswahl muss aufzeigen, welche Einzelmerkmale für den konkreten Dienstposten besonders gewichtet wurden und warum.
 
 ## 4. Quellenpflicht
 

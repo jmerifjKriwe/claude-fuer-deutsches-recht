@@ -3,11 +3,11 @@ name: parkhaus-vergabeweg-waehlen
 description: "Parkhaus: Vergabeweg wählen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Parkhaus Vergabeweg Waehlen
+# Parkhaus Vergabeweg Wählen
 
 ## Arbeitsbereich
 
-Spezialthema **Parkhaus Vergabeweg Waehlen** im Öffentliches Wirtschaftsrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Parkhaus Vergabeweg Wählen** im Öffentliches Wirtschaftsrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Parkhaus Vergabeweg Waehlen** im Öffentliches Wirtschaftsrecht. 
 
 ## Arbeitsauftrag
 
-Parkhaus Vergabeweg Waehlen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Öffentliches Wirtschaftsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Parkhaus Vergabeweg Wählen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Öffentliches Wirtschaftsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 

@@ -7,7 +7,7 @@ description: "Interdictum fraudatorium und restitutio in integrum: weitere praet
 
 ## Aufgabe
 
-Skill fuer interdictum fraudatorium und restitutio in integrum.
+Skill für interdictum fraudatorium und restitutio in integrum.
 
 ## Interdictum fraudatorium
 
@@ -25,7 +25,7 @@ Skill fuer interdictum fraudatorium und restitutio in integrum.
 ## Verzahnung
 
 - Restitutio in integrum ob fraudem ist die uebergeordnete Lehre.
-- Actio Pauliana ist die spezifische Aktion fuer Glaeubigeranfechtung.
+- Actio Pauliana ist die spezifische Aktion für Glaeubigeranfechtung.
 - Interdictum fraudatorium sichert den Anspruch waehrend der Verfahrensdauer.
 
 ## Vergleich zu modernem Recht
@@ -39,6 +39,23 @@ Skill fuer interdictum fraudatorium und restitutio in integrum.
 1. Welches Instrument einschlaegig?
 2. Schutzbedarf wegen Vermoegensentzug?
 3. Beweislage hinreichend?
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

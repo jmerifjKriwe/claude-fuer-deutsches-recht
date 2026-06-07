@@ -31,7 +31,7 @@ Der Strafbefehl ist ein **schriftliches** Verfahren ohne Hauptverhandlung. Die S
 
 - **§ 407 Abs. 1 StPO** — Strafbefehl auf Antrag der Staatsanwaltschaft bei Vergehen.
 - **§ 407 Abs. 2 StPO** — Sanktionskatalog:
- - Nr. 1: Geldstrafe, Verwarnung mit Strafvorbehalt, Fahrverbot, Entziehung der Fahrerlaubnis, Sperre fuer Fahrerlaubniserteilung, Einziehung, Vernichtung, Unbrauchbarmachung, Bekanntmachung, Geldbusse.
+ - Nr. 1: Geldstrafe, Verwarnung mit Strafvorbehalt, Fahrverbot, Entziehung der Fahrerlaubnis, Sperre für Fahrerlaubniserteilung, Einziehung, Vernichtung, Unbrauchbarmachung, Bekanntmachung, Geldbusse.
  - Nr. 2: Freiheitsstrafe bis 1 Jahr **mit Bewaehrung und nur mit Verteidiger**.
 - **§ 408 StPO** — Erlass durch Richter; Pruefung des hinreichenden Tatverdachts.
 - **§ 410 Abs. 1 StPO** — Einspruchsfrist 2 Wochen ab Zustellung.
@@ -45,9 +45,9 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 
 - Die Tatumstaende ergeben sich allein aus der Akte.
 - Persoenliche und wirtschaftliche Verhaeltnisse werden oft geschaetzt (§ 40 Abs. 3 StGB).
-- Strafzumessungstatsachen nach § 46 Abs. 2 StGB werden gewuerdigt, aber ohne Anhoerung des Beschuldigten.
+- Strafzumessungstatsachen nach § 46 Abs. 2 StGB werden gewuerdigt, aber ohne Anhörung des Beschuldigten.
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Strafbefehl pruefen**:
  - Welche Tatbestaende, welcher Strafrahmen?
@@ -61,7 +61,7 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 4. **Unbeschraenkter Einspruch**: Schuldspruch wird mitverhandelt; auch Freispruch moeglich.
 5. **Strafmilderungsangebote** vorbereiten:
  - TOA / Schadenswiedergutmachung (§ 46a StGB).
- - Einkommensnachweise fuer realistische Tagessatzhoehe.
+ - Einkommensnachweise für realistische Tagessatzhoehe.
  - Gestaendnis bei Einspruchsverhandlung (Gestaendnis-Rabatt).
 
 ## Tagessatzhoehe — typische Korrektur-Hebel
@@ -86,11 +86,11 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 | Kosten geringer | Berufsrechtliche Folgen |
 | Geringere Strafverschaerfungsgefahr | Spaetere Strafzumessung beruecksichtigt Vorstrafe |
 
-## Verteidigungs-Argumentationsmuster fuer Einspruch
+## Verteidigungs-Argumentationsmuster für Einspruch
 
 - "Die Tagessatzhoehe von [X] EUR ist nicht zutreffend, da das Nettoeinkommen meines Mandanten [...] betraegt; Beleg: [...]."
 - "Eine Geldstrafe von [X] Tagessaetzen wird der Schuld nicht gerecht; Strafmilderungsgruende [...] sind unberuecksichtigt geblieben."
-- "§ 46a StGB ist anwendbar, da [Beleg fuer TOA / Wiedergutmachung]."
+- "§ 46a StGB ist anwendbar, da [Beleg für TOA / Wiedergutmachung]."
 
 ## Typische Fehler
 
@@ -98,7 +98,7 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 - **Beschraenkter Einspruch** ohne BZRG-Pruefung gewaehlt — Folgewirkungen unterschaetzt.
 - **Tagessatzhoehe** akzeptiert ohne Einkommensnachweise.
 - **Strafmilderungsgruende** in der Strafbefehlspruefung uebersehen.
-- **Freiheitsstrafe ohne Verteidiger** im Strafbefehl: Anhaltspunkt fuer Pflichtverteidigung pruefen (§ 140 StPO).
+- **Freiheitsstrafe ohne Verteidiger** im Strafbefehl: Anhaltspunkt für Pflichtverteidigung pruefen (§ 140 StPO).
 
 ## Querverweise
 

@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-3a-estg-im-starug-plan
-description: "Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik fuer den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung. Mustertexte fuer Restrukturierungsplan und Steuererklaerung im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik für den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung. Mustertexte für Restrukturierungsplan und Steuererklaerung im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Paragraph 3a EStG bei StaRUG-Restrukturierungsplan
 
 ## Arbeitsbereich
 
-Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik fuer den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung. Mustertexte fuer Restrukturierungsplan und Steuererklaerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik für den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung. Mustertexte für Restrukturierungsplan und Steuererklaerung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -55,7 +55,7 @@ Kaltstart-Fragen:
 - Paragraph 7b GewStG — Gewerbesteuer-Parallel.
 - Paragraph 89 AO — verbindliche Auskunft.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **StaRUG-Variante einordnen.** Die Steuerwirkung haengt nicht von der Variante ab, aber die Dokumentation der Sanierungsabsicht ist unterschiedlich schwer.
 2. **Planbetroffene erfassen.** Nur die im StaRUG-Plan benannten Glaeubiger sind betroffen; andere bleiben unverzichtbar.
@@ -92,15 +92,15 @@ Kaltstart-Fragen:
 
 ## Praxistipps der alten Hasen
 
-1. **Sanierungsabsicht aus Plan-Voten ableiten.** Im StaRUG existiert keine "Glaeubigerversammlung" wie in der InsO; die Mehrheitsentscheidungen erfolgen in Klassen. Das Klassen-Voting ist der wichtigste Beleg fuer die Sanierungsabsicht.
+1. **Sanierungsabsicht aus Plan-Voten ableiten.** Im StaRUG existiert keine "Glaeubigerversammlung" wie in der InsO; die Mehrheitsentscheidungen erfolgen in Klassen. Das Klassen-Voting ist der wichtigste Beleg für die Sanierungsabsicht.
 2. **Drohende Zahlungsunfaehigkeit ist nicht Sanierungsbeduerftigkeit.** Paragraph 29 StaRUG verlangt drohende Zahlungsunfaehigkeit, Paragraph 3a Absatz 2 EStG verlangt Sanierungsbeduerftigkeit — die Belege ueberlappen sich, sind aber nicht identisch. Beide getrennt dokumentieren.
 3. **Restrukturierungsbeauftragter ist nicht IV.** Er hat keine Massehaftung, aber Beratungspflichten. Wenn er den Sanierungsertrag uebersieht, kann die Schuldnerin trotzdem in der Steuerklemme landen.
 4. **Vorabauskunft Paragraph 89 AO** ist im StaRUG oft besonders wertvoll, weil dem Finanzamt der vorinsolvenzliche Plan-Hintergrund seltener vertraut ist.
-5. **Stabilisierungsanordnung Paragraph 49 StaRUG** verhindert Zwangsmassnahmen — auch durch das Finanzamt fuer Steuerforderungen. Trotzdem laeuft die Steueraufzeichnungspflicht weiter.
+5. **Stabilisierungsanordnung Paragraph 49 StaRUG** verhindert Zwangsmassnahmen — auch durch das Finanzamt für Steuerforderungen. Trotzdem laeuft die Steueraufzeichnungspflicht weiter.
 
 ## Mustertexte / Berechnungsbeispiele
 
-**Plan-Text fuer den darstellenden Teil eines StaRUG-Plans (Auszug):**
+**Plan-Text für den darstellenden Teil eines StaRUG-Plans (Auszug):**
 
 ```
 III. Steuerliche Folgen des Forderungsverzichts
@@ -149,8 +149,8 @@ Antrag auf verbindliche Auskunft nach Paragraph 89 Absatz 2 AO
 
 2. Sachverhalt
 Die Antragstellerin betreibt ein Restrukturierungsverfahren nach StaRUG.
-Der vorlaeufige Plan sieht einen Forderungsverzicht in Hoehe von EUR
-[Betrag] vor. Der Antragsteller beabsichtigt, fuer den hieraus
+Der vorläufige Plan sieht einen Forderungsverzicht in Hoehe von EUR
+[Betrag] vor. Der Antragsteller beabsichtigt, für den hieraus
 resultierenden Sanierungsertrag die Anwendung von Paragraph 3a EStG.
 
 3. Konkrete Rechtsfrage
@@ -169,7 +169,7 @@ b) die Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG gemaess der
 
 ## Typische Fehler
 
-1. Annahme, Paragraph 3a EStG gelte nur fuer Insolvenzplaene — er greift auch fuer StaRUG.
+1. Annahme, Paragraph 3a EStG gelte nur für Insolvenzplaene — er greift auch für StaRUG.
 2. Sanierungsbeduerftigkeit mit drohender Zahlungsunfaehigkeit gleichgesetzt — beide getrennt belegen.
 3. Sanierungsabsicht aus dem Klassen-Voting nicht aufbereitet — Plan-Texte muessen das ausweisen.
 4. Vergessen, dass Paragraph 3a EStG keinen "StaRUG-Bonus" einbaut, sondern die normalen vier Voraussetzungen verlangt.
@@ -198,7 +198,7 @@ In anderen Plugins:
 - Paragraph 3a EStG, `gesetze-im-internet.de/estg/__3a.html`.
 - Paragraph 5 Absatz 2a EStG.
 - Paragraph 7b GewStG, `gesetze-im-internet.de/gewstg/__7b.html`.
-- Paragraph 11 KStG (Liquidationsbesteuerung, fuer Plan-B-Pfade).
+- Paragraph 11 KStG (Liquidationsbesteuerung, für Plan-B-Pfade).
 - Paragraphen 4 ff. StaRUG, `gesetze-im-internet.de/starug/`.
 - Paragraph 29 StaRUG, `gesetze-im-internet.de/starug/__29.html`.
 - Paragraph 49 StaRUG, `gesetze-im-internet.de/starug/__49.html`.
@@ -206,9 +206,9 @@ In anderen Plugins:
 
 ### Rechtsprechung (verifiziert)
 
-- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt (Kernentscheidung fuer DES und Rangruecktritte im StaRUG-Plan).
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt (Kernentscheidung für DES und Rangruecktritte im StaRUG-Plan).
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen Passivierung (wirtschaftliche Belastung).
-- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12) — Liquidations-Kernentscheidung; relevant fuer Plan-B-Pfade.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12) — Liquidations-Kernentscheidung; relevant für Plan-B-Pfade.
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3: Streitstand nicht evident rechtsfehlerhaft.
 - **FG Koeln, Urt. v. 04.11.2025 — 12 K 1413/25** — Antragstellung Paragraph 3a Abs. 4 EStG.
 - **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung Definitiveffekt; Rev. anh. BFH I R 36/18.
@@ -222,6 +222,6 @@ In anderen Plugins:
 
 ### Querverweis Liquidations-Pfad
 
-- `steuerrecht-anwalt-und-berater/stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse fuer stehen gelassene Verbindlichkeiten in der Liquidation (Plan-B-Pfad bei Scheitern des StaRUG-Plans).
+- `steuerrecht-anwalt-und-berater/stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse für stehen gelassene Verbindlichkeiten in der Liquidation (Plan-B-Pfad bei Scheitern des StaRUG-Plans).
 
 Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

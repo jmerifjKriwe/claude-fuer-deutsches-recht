@@ -29,7 +29,7 @@ Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis A
 ## Zentrale Normen
 - § 13 JAG NRW — Anforderungen an Hausarbeiten im Examen: voellig eigensatndige wissenschaftliche Leistung
 - § 1 PruefO Jura (beispielhaft) — Eigenstaendigkeit als Grundprinzip jeder juristischen Pruefungsleistung
-- §§ 133, 157 BGB — Methodische Basis fuer korrekte Auslegung im Workflow
+- §§ 133, 157 BGB — Methodische Basis für korrekte Auslegung im Workflow
 - § 242 BGB — Treu und Glauben: umfasst auch sorgfaeltige wissenschaftliche Arbeit
 
 ## Quellenregel
@@ -177,14 +177,14 @@ Du übst Subsumtion an einem einfachen Tatbestandsmerkmal aus dem Sachverhalt. D
 
 "Du hast die Voraussetzungen aufgezählt — gut. Jetzt subsumiere konkret: hat A im Sachverhalt eine 'Sache' im Sinne des § 90 BGB? Welche Tatsache aus dem Sachverhalt belegt das?"
 
-→ Skill `subsumtion-schritt-fuer-schritt`
+→ Skill `subsumtion-schritt-für-schritt`
 
 ### Phase C — Fachgebiet-Schemata anwenden (Tag 11-30)
 
 Je nach Fachgebiet:
 
 - **Zivilrecht**: Skill `zivilrecht-anspruchsgrundlagen-pruefung` — V-C-G-D-D-B durchgehen
-- **ÖR**: Skill `oeffentliches-recht-statthaft-zulaessig-begruendet` — Zulässigkeit dann Begründetheit
+- **ÖR**: Skill `öffentliches-recht-statthaft-zulaessig-begruendet` — Zulässigkeit dann Begründetheit
 - **Strafrecht**: Skill `strafrecht-tatbestand-rechtswidrigkeit-schuld` — Drei-Stufen-Aufbau
 - **Verfassungsrecht**: Skill `verfassungsrecht-grundrechtspruefung` — Schutzbereich/Eingriff/Rechtfertigung
 - **EU-Bezug**: Skill `europarecht-anwendbarkeit-vorrang-vorabentscheidung`

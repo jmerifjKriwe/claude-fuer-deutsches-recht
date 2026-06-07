@@ -60,7 +60,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Vorhalt-Fragen (Inkonsistenz)
 - "In Ihrem Protokoll vom [DATUM] haben Sie [X] notiert. Jetzt sagen Sie [Y]. Wie erklaeren Sie das?"
 
-## Schritt-fuer-Schritt-Vorbereitung
+## Schritt-für-Schritt-Vorbereitung
 
 1. **Protokolle der Polizeibeamten vollstaendig aus der Akte entnehmen.**
 2. **Inkonsistenzen zwischen Protokoll und Stellungnahmen markieren.**

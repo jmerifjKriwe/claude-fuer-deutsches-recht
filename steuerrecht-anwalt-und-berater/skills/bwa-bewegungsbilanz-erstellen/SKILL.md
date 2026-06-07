@@ -40,7 +40,7 @@ Die Bewegungsbilanz stellt die Veraenderungen einzelner Bilanzposten zwischen zw
 
 ### Standards
 
-- DRS 21 — Kapitalflussrechnung (verbindlich fuer Konzernabschluesse, empfohlen fuer Einzelabschluesse).
+- DRS 21 — Kapitalflussrechnung (verbindlich für Konzernabschluesse, empfohlen für Einzelabschluesse).
 - IDW S 6 — Sanierungskonzept (Bewegungsbilanz als analytische Grundlage).
 - IDW PS 305 — Risikofrueherkennung § 91 Abs. 2 AktG.
 
@@ -50,7 +50,7 @@ Die Bewegungsbilanz stellt die Veraenderungen einzelner Bilanzposten zwischen zw
 
 - SuSa zum Anfangsstichtag (z.B. 31.12. Vorjahr).
 - SuSa zum Endstichtag (z.B. 31.12. Berichtsjahr).
-- BWA-Daten fuer die Periode (insbesondere Abschreibungen, Rueckstellungsveraenderung).
+- BWA-Daten für die Periode (insbesondere Abschreibungen, Rueckstellungsveraenderung).
 - Anlagenspiegel (Zugaenge, Abgaenge, AfA).
 
 ### Phase 2 — Strukturierung Aktiva
@@ -118,7 +118,7 @@ MITTELVERWENDUNG:
 
 ### Phase 6 — Erlaeuterung und Versand
 
-- Erlaeuterungstext fuer wesentliche Bewegungen.
+- Erlaeuterungstext für wesentliche Bewegungen.
 - Bei Bank-/Investor-Reporting: zusammen mit Bilanz und BWA.
 - Mandantenakte dokumentieren.
 
@@ -126,7 +126,7 @@ MITTELVERWENDUNG:
 
 - Bewegungsbilanz als strukturiertes PDF.
 - Erlaeuterungstext zu wesentlichen Veraenderungen.
-- Vorstufe fuer Kapitalflussrechnung.
+- Vorstufe für Kapitalflussrechnung.
 
 ## Strategie und Praxis-Tipps
 

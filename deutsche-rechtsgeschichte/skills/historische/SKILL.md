@@ -32,7 +32,7 @@ description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsges
 
 ## Aufgabe
 
-Skill fuer historische Verfassungsvergleiche als juristische Argumentationsquelle — wie wirkt Verfassungsgeschichte heute?
+Skill für historische Verfassungsvergleiche als juristische Argumentationsquelle — wie wirkt Verfassungsgeschichte heute?
 
 ## Bedeutung der Verfassungsgeschichte
 
@@ -59,7 +59,7 @@ Skill fuer historische Verfassungsvergleiche als juristische Argumentationsquell
 - BVerfG hat DDR-Recht nicht generell verworfen.
 - Spezifische Streitfragen ueber Bodenreform und Vermoegensrecht.
 
-## Methodenvorschlag fuer Argumentation
+## Methodenvorschlag für Argumentation
 
 1. Welche Vorgaengerverfassung enthielt eine vergleichbare Norm?
 2. Welche Funktion hatte sie damals?
@@ -86,4 +86,4 @@ Skill fuer historische Verfassungsvergleiche als juristische Argumentationsquell
 
 - Quellenmatrix.
 - Vergleichende Synopse.
-- Argumentationsleitfaden fuer Verfassungsanwendung mit historischem Bezug.
+- Argumentationsleitfaden für Verfassungsanwendung mit historischem Bezug.

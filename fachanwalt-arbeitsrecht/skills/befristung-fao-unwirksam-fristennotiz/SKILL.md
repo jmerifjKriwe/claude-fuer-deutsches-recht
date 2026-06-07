@@ -13,7 +13,7 @@ description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeits
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-befristung-compliance-dokumentation-und-akte` | Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG. |
-| `spezial-fao-fristen-form-und-zustaendigkeit` | Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang. |
+| `spezial-fao-fristen-form-und-zuständigkeit` | Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang. |
 | `spezial-unwirksam-fristennotiz-und-naechster-schritt` | Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofortige Handlungsanleitung nach erkanntem Unwirksamkeitsgrund (Schriftform, BR-Anhörung, Sonderkündigungsschutz, Massenentlassung, Befristungsfehler) — Fristberechnung, Klageweg und Mandantenkommunikation. |
 
 ## Arbeitsweg
@@ -147,7 +147,7 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 - Keine Beratung zu wissenschaftlichen Befristungen nach WissZeitVG.
 - Keine Prüfung besonderer öffentlich-rechtlicher Befristungsregeln (Beamtenrecht, öffentlicher Dienst spezifisch).
 
-## 2. `spezial-fao-fristen-form-und-zustaendigkeit`
+## 2. `spezial-fao-fristen-form-und-zuständigkeit`
 
 **Fokus:** Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang.
 

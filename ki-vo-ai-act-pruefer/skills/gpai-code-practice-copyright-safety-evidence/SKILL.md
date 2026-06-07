@@ -1,6 +1,6 @@
 ---
 name: gpai-code-practice-copyright-safety-evidence
-description: "GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen fuer Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung."
+description: "GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen für Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung."
 ---
 
 # GPAI Code of Practice: Evidence statt Etikett

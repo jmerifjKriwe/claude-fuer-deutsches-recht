@@ -183,16 +183,16 @@ Es gibt viele Sozialleistungen. Jede gehoert in ein anderes Buch. Wir geben Ihne
 ## Fachbegriffe (kurz erklaert)
 
 - **Sozialgesetzbuch (SGB)**: Sammlung der Sozialgesetze.
-- **Sozialleistungstraeger**: Die Behoerde, die Leistung zahlt (z.B. Krankenkasse, Rentenversicherung).
+- **Sozialleistungstraeger**: Die Behörde, die Leistung zahlt (z.B. Krankenkasse, Rentenversicherung).
 - **Antragsprinzip**: Viele Leistungen muessen Sie beantragen — sie kommen nicht von alleine.
 
 ## Rechtsgrundlagen
 
 - **§ 16 SGB I** — Antrag bei jeder Stelle, auch der falschen, gilt als gestellt.
-- **§ 17 SGB I** — Beratungspflicht der Behoerde.
+- **§ 17 SGB I** — Beratungspflicht der Behörde.
 - **§ 14 SGB IX** — Reha-Antrag-Weiterleitung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tabelle der Sozialgesetzbuecher
 
@@ -228,30 +228,30 @@ Hinweis: SGB XIII existiert nicht (Nummer ausgelassen).
 
 ### Schritt 3 — Bei mehreren Themen
 
-Manchmal greift mehr als ein SGB. Beispiel: Krank (SGB V) UND Schwerbehinderung (SGB IX) UND nicht arbeitsfaehig (SGB VI). Dann brauchen Sie mehrere Antraege. § 16 SGB I hilft: ein Antrag bei einer Stelle gilt fuer alle.
+Manchmal greift mehr als ein SGB. Beispiel: Krank (SGB V) UND Schwerbehinderung (SGB IX) UND nicht arbeitsfaehig (SGB VI). Dann brauchen Sie mehrere Antraege. § 16 SGB I hilft: ein Antrag bei einer Stelle gilt für alle.
 
 ### Schritt 4 — Wer hilft bei Antrag
 
 - **Sozialverbaende** beraten kostenlos zu jedem SGB.
-- **Buergerberater** bei den Behoerden selbst.
-- **Sozialamt** und **Jugendamt** klaeren Zustaendigkeit.
+- **Buergerberater** bei den Behörden selbst.
+- **Sozialamt** und **Jugendamt** klaeren Zuständigkeit.
 
 ## Worauf Sie besonders achten muessen
 
 - **Antrag stellen!** Viele Leistungen kommen nicht von alleine. Stellen Sie schriftlich Antrag (auch formloser Brief reicht).
-- **§ 16 SGB I**: Antrag bei falscher Stelle gilt trotzdem. Wichtig fuer Fristen.
+- **§ 16 SGB I**: Antrag bei falscher Stelle gilt trotzdem. Wichtig für Fristen.
 - **§ 14 SGB IX**: Reha-Antrag wird automatisch an den richtigen Traeger weitergeleitet (2-Wochen-Pflicht).
 
 ## Typische Fehler
 
 - "Ich glaube ich brauche keinen Antrag" → meistens doch
 - Falscher Trotz: "Die anderen wissen das schon" → Antrag aktiv stellen
-- Verwechslung SGB II und SGB XII → SGB II nur fuer arbeitsfaehige Personen
+- Verwechslung SGB II und SGB XII → SGB II nur für arbeitsfaehige Personen
 
 ## Querverweise
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `sozialgericht-zustaendigkeit-51-sgg` — welche Streitigkeiten ans SG
+- `sozialgericht-zuständigkeit-51-sgg` — welche Streitigkeiten ans SG
 - `buergergeld-jobcenter-sgb-ii` — Buergergeld-Spezial
 - `grundsicherung-sgb-xii` — Sozialhilfe-Spezial
 - `pflegegrad-streit-mdk-pflegekasse-sgb-xi` — Pflege
@@ -285,7 +285,7 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Buergergeld-Ref
 
 ## Worum geht es?
 
-Wenn Sie den Widerspruchsbescheid lesen, muessen Sie erkennen, ob die Behoerde Ihnen ganz, teilweise oder gar nicht recht gibt. Diese Skill hilft beim Erkennen und Einordnen.
+Wenn Sie den Widerspruchsbescheid lesen, muessen Sie erkennen, ob die Behörde Ihnen ganz, teilweise oder gar nicht recht gibt. Diese Skill hilft beim Erkennen und Einordnen.
 
 ## In einfacher Sprache
 
@@ -299,9 +299,9 @@ Im Bescheid steht: gewonnen, teils gewonnen, oder verloren. Wir zeigen Ihnen, wi
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Vollabhilfe**: Behoerde gibt Ihnen vollstaendig recht. Bescheid wird aufgehoben oder Sie bekommen alle geforderte Leistung.
-- **Teilabhilfe**: Behoerde gibt Ihnen teilweise recht. Ein Teil bleibt, ein Teil wird geaendert.
-- **Zurueckweisung**: Behoerde haelt am alten Bescheid fest.
+- **Vollabhilfe**: Behörde gibt Ihnen vollstaendig recht. Bescheid wird aufgehoben oder Sie bekommen alle geforderte Leistung.
+- **Teilabhilfe**: Behörde gibt Ihnen teilweise recht. Ein Teil bleibt, ein Teil wird geaendert.
+- **Zurueckweisung**: Behörde haelt am alten Bescheid fest.
 - **Tenor**: Der Entscheidungssatz im Bescheid. Meist am Anfang oder am Ende.
 
 ## Rechtsgrundlagen
@@ -310,7 +310,7 @@ Im Bescheid steht: gewonnen, teils gewonnen, oder verloren. Wir zeigen Ihnen, wi
 - **§ 87 SGG** — Klagefrist gegen Widerspruchsbescheid.
 - **§ 86 SGG** — Folgebescheid waehrend des Widerspruchs (z.B. neuer Bewilligungsbescheid).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Den Tenor finden
 
@@ -319,7 +319,7 @@ Der Tenor steht meist:
 - **Oben** als Ueberschrift ("Tenor:" / "Entscheidung:")
 - **Oder** am Ende als Zusammenfassung
 
-Beispiele fuer Tenor-Texte:
+Beispiele für Tenor-Texte:
 
 - **Vollabhilfe**: "Dem Widerspruch wird abgeholfen. Der Bescheid vom [Datum] wird aufgehoben." → Sie haben gewonnen.
 - **Teilabhilfe**: "Dem Widerspruch wird teilweise abgeholfen. Der Bescheid vom [Datum] wird wie folgt geaendert: [...]. Im Uebrigen wird der Widerspruch zurueckgewiesen." → Sie haben teilweise gewonnen.
@@ -346,7 +346,7 @@ Beispiele fuer Tenor-Texte:
 
 Lesen Sie sehr genau. Beispiel: "Der Bescheid wird wie folgt geaendert: Der Pflegegrad 3 wird ab dem 1.7.2026 anerkannt. Im Uebrigen wird der Widerspruch zurueckgewiesen."
 
-Hier ist strittig: Sie wollten Pflegegrad 3 ab Antragstellung (z.B. 1.3.2026). Die Behoerde gibt aber erst ab 1.7.2026. Die 4 Monate Differenz sind verloren — es sei denn, Sie klagen.
+Hier ist strittig: Sie wollten Pflegegrad 3 ab Antragstellung (z.B. 1.3.2026). Die Behörde gibt aber erst ab 1.7.2026. Die 4 Monate Differenz sind verloren — es sei denn, Sie klagen.
 
 ### Schritt 4 — Pruefen, ob es sich lohnt zu klagen
 
@@ -370,9 +370,9 @@ Eine Vollabhilfe ist eine Entscheidung. Geld kommt aber nicht von selbst. Pruefe
 
 ## Worauf Sie besonders achten muessen
 
-- **Begruendung im Widerspruchsbescheid lesen**: Die Behoerde muss begruenden, warum sie Sie ablehnt oder teilweise abhilft. Aus der Begruendung sehen Sie, was die Behoerde anders sieht — und was Sie in der Klage angreifen koennen.
+- **Begruendung im Widerspruchsbescheid lesen**: Die Behörde muss begruenden, warum sie Sie ablehnt oder teilweise abhilft. Aus der Begruendung sehen Sie, was die Behörde anders sieht — und was Sie in der Klage angreifen koennen.
 - **"Im Uebrigen wird der Widerspruch zurueckgewiesen"** ist die kritische Formel: dieser Rest ist strittig und kann beklagt werden.
-- **Folgebescheide**: Wenn die Behoerde waehrend des Widerspruchs einen neuen Bescheid erlassen hat, wird er automatisch Teil des Verfahrens (§ 86 SGG).
+- **Folgebescheide**: Wenn die Behörde waehrend des Widerspruchs einen neuen Bescheid erlassen hat, wird er automatisch Teil des Verfahrens (§ 86 SGG).
 
 ## Typische Fehler
 
@@ -386,7 +386,7 @@ Eine Vollabhilfe ist eine Entscheidung. Geld kommt aber nicht von selbst. Pruefe
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruchsbescheid-was-jetzt` — Ueberblick nach Bescheid
 - `klagearten-uebersicht-sgg` — welche Klage gegen welchen Teil
-- `untaetigkeitsklage-88-sgg` — wenn Behoerde nicht zahlt
+- `untaetigkeitsklage-88-sgg` — wenn Behörde nicht zahlt
 - `anfechtungsklage-54-sgg` — gegen Zurueckweisung
 - `verpflichtungsklage-54-sgg` — auf Mehrleistung
 
@@ -406,10 +406,10 @@ Stand: 05/2026. Klassische Auslegungs-Praxis. Bei Unsicherheit Beratungsstelle.
 
 **Fokus:** Detaillierte Vorbereitung auf den SG-Termin. Was sage ich was nehme ich mit was muss ich vorher wissen. Vor allem zum Vortrag zum Antrag und zur Reaktion auf Fragen.
 
-# Terminvorbereitung — Checkliste fuer Laien
+# Terminvorbereitung — Checkliste für Laien
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Terminvorbereitung — Checkliste fuer Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Terminvorbereitung — Checkliste für Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -434,14 +434,14 @@ Vor dem Termin: gut vorbereiten. Was sagen Sie? Welche Papiere haben Sie dabei? 
 - **Sachvortrag**: Was Sie als Tatsachen vortragen.
 - **Rechtsausfuehrung**: Ihre rechtlichen Argumente.
 - **Antrag**: Was Sie konkret vom Gericht wollen.
-- **Erlaeuterungs-Frage**: Fragen, die Sie an Sachverstaendige oder Behoerde stellen.
+- **Erlaeuterungs-Frage**: Fragen, die Sie an Sachverstaendige oder Behörde stellen.
 
 ## Rechtsgrundlagen
 
 - **§ 124 SGG** — Muendliche Verhandlung.
 - **§ 112 SGG** — Verhandlung und Beweisaufnahme.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Akten-Mappe vorbereiten
 
@@ -449,7 +449,7 @@ Eine geordnete Mappe mit:
 
 - Klageschrift (Original und Kopie)
 - Bescheid und Widerspruchsbescheid
-- Schriftwechsel mit Behoerde
+- Schriftwechsel mit Behörde
 - Atteste und medizinische Berichte
 - Sachverstaendigen-Gutachten (falls eingeholt)
 - Eigene Stellungnahme zum Gutachten
@@ -498,7 +498,7 @@ Antworten Sie konkret und ehrlich.
 
 ### Schritt 5 — Auf das Gegenargument vorbereiten
 
-Was wird die Behoerde sagen?
+Was wird die Behörde sagen?
 
 - Pflegeleistung weniger als behauptet
 - EM nicht in dem Umfang
@@ -521,7 +521,7 @@ Wenn ein Gutachter erscheint:
 - Bequem anziehen, aber ordentlich
 - Verpflegung (Sozialgerichts-Verfahren koennen lange dauern)
 - Wasserflasche
-- Notebook / Papier fuer Notizen waehrend Termin
+- Notebook / Papier für Notizen waehrend Termin
 
 ## Worauf Sie besonders achten muessen
 
@@ -592,7 +592,7 @@ Andere haben schon viele Fehler gemacht. Lernen Sie daraus. Wir zeigen Ihnen die
 
 Generelle SGG- und SGB-Pruefung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Fehler 1 — Frist verpasst
 
@@ -602,15 +602,15 @@ Generelle SGG- und SGB-Pruefung.
 
 ### Fehler 2 — Falscher Empfaenger
 
-**Problem**: Widerspruch ans Gericht statt an die Behoerde.
+**Problem**: Widerspruch ans Gericht statt an die Behörde.
 
-**Loesung**: Widerspruch geht IMMER an die Behoerde, Klage an das SG.
+**Loesung**: Widerspruch geht IMMER an die Behörde, Klage an das SG.
 
-### Fehler 3 — Kein Beweis fuer Versand
+### Fehler 3 — Kein Beweis für Versand
 
 **Problem**: Normalpost am letzten Tag — Brief verschollen.
 
-**Loesung**: Einschreiben, Fax, MJP oder persoenliche Abgabe mit Stempel.
+**Loesung**: Einschreiben, Fax, MJP oder persönliche Abgabe mit Stempel.
 
 ### Fehler 4 — Keine Begruendung beigefuegt
 
@@ -686,7 +686,7 @@ Generelle SGG- und SGB-Pruefung.
 
 ## Worauf Sie besonders achten muessen
 
-- **Fristen oben halten**: 1 Monat fuer alles Wichtige.
+- **Fristen oben halten**: 1 Monat für alles Wichtige.
 - **Beweise sammeln**: jede Behauptung mit Beleg.
 - **Aktualitaet**: Atteste, Pflegeprotokolle aktuell halten.
 

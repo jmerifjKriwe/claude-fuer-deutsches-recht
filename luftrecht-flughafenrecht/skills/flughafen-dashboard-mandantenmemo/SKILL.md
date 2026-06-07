@@ -1,13 +1,13 @@
 ---
 name: flughafen-dashboard-mandantenmemo
-description: "Kanzlei oder Mandant braucht Dashboard fuer Flughafen-Mandat: Genehmigungsstatus LuftSiG-Findings Passagierzahlen Finanzlage Grundbuch. Skill strukturiert Datenquellen LuftVG-Genehmigungsregister LuftSiG Grundbuch Fluko und liefert befuellbares Dashboard-Template im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzlei oder Mandant braucht Dashboard für Flughafen-Mandat: Genehmigungsstatus LuftSiG-Findings Passagierzahlen Finanzlage Grundbuch. Skill strukturiert Datenquellen LuftVG-Genehmigungsregister LuftSiG Grundbuch Fluko und liefert befuellbares Dashboard-Template im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flughafen – Dashboard bauen
 
 ## Arbeitsbereich
 
-Kanzlei oder Mandant braucht Dashboard fuer Flughafen-Mandat: Genehmigungsstatus LuftSiG-Findings Passagierzahlen Finanzlage Grundbuch. Skill strukturiert Datenquellen LuftVG-Genehmigungsregister LuftSiG Grundbuch Fluko und liefert befuellbares Dashboard-Template. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzlei oder Mandant braucht Dashboard für Flughafen-Mandat: Genehmigungsstatus LuftSiG-Findings Passagierzahlen Finanzlage Grundbuch. Skill strukturiert Datenquellen LuftVG-Genehmigungsregister LuftSiG Grundbuch Fluko und liefert befuellbares Dashboard-Template. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -12,9 +12,9 @@ description: "Erbschaft Schenkung Familienbudget im Plugin Verbraucherinsolvenz 
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `erbschaft-schenkung-gewinn` | Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `familienbudget-und-haushaltsplan` | Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `formularcheck-insolvenzantrag` | Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `erbschaft-schenkung-gewinn` | Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `familienbudget-und-haushaltsplan` | Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `formularcheck-insolvenzantrag` | Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Erbschaft Schenkung Familienbudget im Plugin Verbraucherinsolvenz 
 
 ## 1. `erbschaft-schenkung-gewinn`
 
-**Fokus:** Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.
 
@@ -66,7 +66,7 @@ InsO §§ 35, 295; BGB Erbrecht. Entscheidend ist immer der aktuelle Normstand d
 
 ## 2. `familienbudget-und-haushaltsplan`
 
-**Fokus:** Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.
 
@@ -105,7 +105,7 @@ ZPO Pfändungsfreigrenzen; SGB-Schnittstellen. Entscheidend ist immer der aktuel
 
 ## 3. `formularcheck-insolvenzantrag`
 
-**Fokus:** Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.
 

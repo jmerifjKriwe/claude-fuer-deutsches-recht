@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-solarpark-trafostation
-description: "Bauueberwachung HOAI LPH 8 fuer Freiflaechen-Solarparks und Trafostationen — Kontrolle Rammpfaehle und Schraubanker nach DIN 1054 und EC7, Modulaufstaenderung Stahlkonstruktion nach DIN EN 1993-1-1, Erdungsanlage und Potentialausgleich nach DIN VDE 0100-410, Mittelspannungstransformator-Aufstellung, Kabeltrassenverlegung und DGUV-gerechte Abnahme. Umfasst UAV-Thermografie, SAP-PM-Integration und VOB/C-Protokollierung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Freiflaechen-Solarparks und Trafostationen — Kontrolle Rammpfaehle und Schraubanker nach DIN 1054 und EC7, Modulaufstaenderung Stahlkonstruktion nach DIN EN 1993-1-1, Erdungsanlage und Potentialausgleich nach DIN VDE 0100-410, Mittelspannungstransformator-Aufstellung, Kabeltrassenverlegung und DGUV-gerechte Abnahme. Umfasst UAV-Thermografie, SAP-PM-Integration und VOB/C-Protokollierung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Solarpark und Trafostation
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Freiflaechen-Solarparks und Trafostationen — Kontrolle Rammpfaehle und Schraubanker nach DIN 1054 und EC7, Modulaufstaenderung Stahlkonstruktion nach DIN EN 1993-1-1, Erdungsanlage und Potentialausgleich nach DIN VDE 0100-410, Mittelspannungstransformator-Aufstellung, Kabeltrassenverlegung und DGUV-gerechte Abnahme. Umfasst UAV-Thermografie, SAP-PM-Integration und VOB/C-Protokollierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Freiflaechen-Solarparks und Trafostationen — Kontrolle Rammpfaehle und Schraubanker nach DIN 1054 und EC7, Modulaufstaenderung Stahlkonstruktion nach DIN EN 1993-1-1, Erdungsanlage und Potentialausgleich nach DIN VDE 0100-410, Mittelspannungstransformator-Aufstellung, Kabeltrassenverlegung und DGUV-gerechte Abnahme. Umfasst UAV-Thermografie, SAP-PM-Integration und VOB/C-Protokollierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 
 - Solarpark Bayern Landsberg am Lech: 22 MWp, 45.000 Module, 2.800 Rammpfaehle HEA 100 Laenge 1.8 bis 3.5 m, Bausumme 18 Mio. EUR, Bauherr Bayernwerk Natur
 - Solarpark Sachsen-Anhalt Dessau: 48 MWp bifazial, Schraubanker im Sandboden, Trafostation 20-kV Kompaktstation 3 x 1.600 kVA, Bausumme 32 Mio. EUR
-- Agri-PV Anlage Baden-Wuerttemberg: 8 MWp Hochstaenderung 5 m Modulunterkante fuer Landwirtschaft darunter, Sonderstahlbau nach statischem Gutachten
+- Agri-PV Anlage Baden-Wuerttemberg: 8 MWp Hochstaenderung 5 m Modulunterkante für Landwirtschaft darunter, Sonderstahlbau nach statischem Gutachten
 
 ## Erste Schritte auf der Baustelle
 
@@ -38,7 +38,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 
 ## Normen und Rechtsrahmen
 
-- § 650p BGB, § 650q BGB: Ingenieurvertrag Energieanlagen, Dokumentationspflichten fuer BNetzA-Abnahme
+- § 650p BGB, § 650q BGB: Ingenieurvertrag Energieanlagen, Dokumentationspflichten für BNetzA-Abnahme
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Bauueberwachung Technische Anlagen und Ingenieurbauwerke
 - VOB/C DIN 18304 Ramm- Ruettel- und Pressarbeiten: Rammprotokoll, Einbindetiefe, Pfahlabweichung
 - DIN EN 1993-1-1 Eurocode 3 Stahlbau: Modulaufstaenderung, Anschlussdetails, Schweissnahtpruefung
@@ -60,7 +60,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 - Bodendokumentation vor Rammarbeiten: Fotoprotokoll Gelaendezustand, Datenblatt Rammgeraet, Eindringwiderstandskurve je Pfahl als Diagramm
 - Lieferscheine Stahlkonstruktion: Werksbescheinigung 3.1 EN 10204 Stahl S235JR, Feuerverzinkungsnachweis DIN EN ISO 1461
 - Kabeldokumentation: Isolationsmessung je Stringkabel, As-Built-Kabelplan georeferenziert, Kabelkennzeichnung DGUV Vorschrift 3
-- PlanRadar Meldungen mit Drohnenfoto-Hintergrundkarte fuer Mangelverortung auf Gelaendeplan
+- PlanRadar Meldungen mit Drohnenfoto-Hintergrundkarte für Mangelverortung auf Gelaendeplan
 
 ## Meldungserstellung im ERP / SAP
 
@@ -79,7 +79,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 
 ## Output
 
-Rammprotokoll je Pfahlreihe mit Kurvendiagramm und GPS. Abnahmeprotokoll Stahlkonstruktion mit Schweissnaht-Sichtpruefung. Thermografie-Bericht Modulanlage mit Defektliste. Kabel-Isolationsmessprotokoll. Netzanschluss-Abnahmeprotokoll. Bautagebuch chronologisch. SAP-PM-Anlagenstruktur mit Equipment-IDs fuer Betriebsphase.
+Rammprotokoll je Pfahlreihe mit Kurvendiagramm und GPS. Abnahmeprotokoll Stahlkonstruktion mit Schweissnaht-Sichtpruefung. Thermografie-Bericht Modulanlage mit Defektliste. Kabel-Isolationsmessprotokoll. Netzanschluss-Abnahmeprotokoll. Bautagebuch chronologisch. SAP-PM-Anlagenstruktur mit Equipment-IDs für Betriebsphase.
 
 ## Hinweise zur Qualitaetssicherung
 

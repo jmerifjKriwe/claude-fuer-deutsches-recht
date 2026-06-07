@@ -218,7 +218,7 @@ Gesamtschaden: EUR [Summe]
 Ich fordere Sie auf, den Schaden bis zum [Datum + 4 Wochen]
 zu erstatten. Anderenfalls erhebe ich Klage.
 
-[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Bank- und
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Bank- und
 Kapitalmarktrecht]
 ```
 

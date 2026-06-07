@@ -13,7 +13,7 @@ description: "Orientierung Tierhaltung Genehmigung im Agrarrecht: prüft konkret
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-agrarrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg. |
-| `fachanwalt-agrarrecht-tierhaltung-genehmigung` | Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhoerung Buergerbeteiligung. Widerspruch Klage Eilantrag. |
+| `fachanwalt-agrarrecht-tierhaltung-genehmigung` | Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhörung Buergerbeteiligung. Widerspruch Klage Eilantrag. |
 | `fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung` | Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen. Prüfraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig für streitiges Gerichtsverfahren. |
 
 ## Arbeitsweg
@@ -131,7 +131,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-agrarrecht-tierhaltung-genehmigung`
 
-**Fokus:** Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhoerung Buergerbeteiligung. Widerspruch Klage Eilantrag.
+**Fokus:** Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhörung Buergerbeteiligung. Widerspruch Klage Eilantrag.
 
 # Tierhaltungs-Genehmigung
 
@@ -149,7 +149,7 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 6. **Besteht Bürgerinitiative oder Nachbarwiderspruch?** — Im förmlichen Verfahren zwingend Öffentlichkeitsbeteiligung; im vereinfachten Verfahren nicht.
 7. **Ist die Futtergrundlage im eigenen Betrieb vorhanden?** — BGH-Linie: BauGB-Privilegierung nur bei überwiegender Futterbasis auf eigenen Flächen; Massentierhaltung mit Zukauf-Futter oft nicht privilegiert.
 8. **Tierschutzstandards im Neubau geplant?** — TierSchNutztV-Mindestnormen sind seit Planungsbeginn einzuhalten; Nachbesserungen im Verfahren kosten Zeit und Geld.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -322,7 +322,7 @@ Begründung:
 Wir beantragen,
 den Bescheid aufzuheben und die Genehmigung zu erteilen.
 
-[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Agrarrecht]
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
 ```
 
 --- vor Versand klaeren ---
@@ -419,7 +419,7 @@ Kommunikations- und Verhandlungsstrategie für agrarrechtliche Mandate: Landpach
 6. **Haben Dritte (Kinder, Geschwister) Interesse am Hof?** — Hofstreitigkeiten in Erbengemeinschaft erfordern notarielle Auseinandersetzungs-Vereinbarung.
 7. **Laufen parallele Förderverfahren?** — Bei laufenden ELER-Verpflichtungen Streit um Pacht­preis mit Rückforderungsrisiko verknüpft; Koordination nötig.
 8. **Ist ein Herdenschutzstreit (Wolf) parallel anhängig?** — Entschädigungs-Verhandlung mit dem Land läuft über andere Behörden als Pachtrecht.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -555,7 +555,7 @@ Im Falle keiner Einigung binnen [21 Tage] werden wir
 Schlichtungsversuch nach § 23 LwVG beim Landwirtschafts-
 gericht [Ort] anregen.
 
-[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Agrarrecht]
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
 ```
 
 ### Schlichtungsantrag § 23 LwVG

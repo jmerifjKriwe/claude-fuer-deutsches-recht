@@ -21,7 +21,7 @@ Führt einen Kanzleikalender für Termine Fristen Postlauf HR und Jour fixe. Anw
 1. Geht es um einen Gerichtstermin, eine interne Besprechung, einen Mandantentermin oder eine Frist?
 2. Ist eine Terminkollision mit Urlaub, Krankheit oder anderen Terminen zu beachten?
 3. Muss der Termin mit dem beA-Journal oder dem Postlauf synchronisiert werden?
-4. Sollen Erinnerungen fuer Vorbereitungsschritte generiert werden (z.B. drei Tage vor Gerichtstermin)?
+4. Sollen Erinnerungen für Vorbereitungsschritte generiert werden (z.B. drei Tage vor Gerichtstermin)?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

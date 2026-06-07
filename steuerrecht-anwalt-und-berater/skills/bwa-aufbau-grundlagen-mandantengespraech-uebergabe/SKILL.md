@@ -3,7 +3,7 @@ name: bwa-aufbau-grundlagen-mandantengespraech-uebergabe
 description: "Aufbau der Standard-BWA für Steuerberater erlaeutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steuern. Output strukturierter BWA-Bericht mit Erlaeuterung der einzelnen Positionen Querverweis stb-bwa-kontenrahmen-skr03-skr04 und stb-bwa-erlaeuterungstext-mandant im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Aufbau der Standard-BWA — Grundlagen fuer Steuerberater
+# Aufbau der Standard-BWA — Grundlagen für Steuerberater
 
 ## Arbeitsbereich
 
@@ -18,7 +18,7 @@ Aufbau der Standard-BWA für Steuerberater erlaeutern und konfigurieren. Anwendu
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufbau der Standard-BWA — Grundlagen fuer Steuerberater` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufbau der Standard-BWA — Grundlagen für Steuerberater` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
 - **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
@@ -50,9 +50,9 @@ Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steu
 
 **§ 252 HGB** — Allgemeine Bewertungsgrundsaetze (Going-concern, Stichtagsprinzip, Vorsicht); auch unterjaehrig zu beachten.
 
-**§ 5b EStG** — E-Bilanz fuer Bilanzierer; BWA ist nicht direkt taxonomiepflichtig, soll aber die Brueckenposten zur E-Bilanz abbilden.
+**§ 5b EStG** — E-Bilanz für Bilanzierer; BWA ist nicht direkt taxonomiepflichtig, soll aber die Brueckenposten zur E-Bilanz abbilden.
 
-**§ 90 AO** — Mitwirkungspflicht des Steuerpflichtigen; betrifft die fuer die BWA noetige Belegabgabe.
+**§ 90 AO** — Mitwirkungspflicht des Steuerpflichtigen; betrifft die für die BWA noetige Belegabgabe.
 
 **§ 33 StBerG** — Aufgaben des Steuerberaters; Erstellung der BWA ist Hilfeleistung in Steuersachen i.S.d. § 1 StBerG bzw. vereinbare Taetigkeit § 57 Abs. 3 StBerG.
 
@@ -61,7 +61,7 @@ Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steu
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BFH-Rechtsprechung zur periodengerechten Zuordnung von Aufwand und Ertrag: massgeblich sind die allgemeinen Grundsaetze des § 252 HGB und die EStG-Periodenregelungen; konkrete BFH-Aktenzeichen zur Periodenabgrenzung in amtliche/freie Quellen oder lizenzierte Datenbanken unter den Suchbegriffen "Periodenabgrenzung Betriebsausgaben" abrufbar.
 - BMF-Schreiben zu GoBD: massgeblich ist das BMF-Schreiben v. 28.11.2019, BStBl I 2019, 1269; etwaige Aktualisierungen ueber bundesfinanzministerium.de pruefen.
-- IDW PS 480 — Grundsaetze fuer die Erstellung von Jahresabschluessen (analog fuer hochwertige BWA-Erstellung).
+- IDW PS 480 — Grundsaetze für die Erstellung von Jahresabschluessen (analog für hochwertige BWA-Erstellung).
 
 Aktenzeichen und Fundstellen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken gegenpruefen.
 
@@ -71,7 +71,7 @@ Aktenzeichen und Fundstellen vor Uebernahme in amtliche/freie Quellen oder lizen
 
 - Vollstaendigkeit der Buchungen pruefen: Bank-Kontoauszuege bis zum Stichtag verbucht, Kassenbuch abgestimmt, OPOS-Listen Debitor und Kreditor aktualisiert.
 - Vorlaeufige Sachkontenverteilung im Verrechnungskonto (z. B. SKR 03 Konto 1590/1599 bzw. SKR 04 Konto 1370/1379 — DATEV-Kontenrahmen aktuelle Fassung heranziehen) auf Null stellen oder klar dokumentieren.
-- Lohnbuchungen aus dem Lohnprogramm uebernommen? Sozialversicherungs-Beitragsschulden zum Auswertungsstichtag erfasst (Konto SKR 03 1742 bzw. SKR 04 3740 fuer Verbindlichkeiten SV)?
+- Lohnbuchungen aus dem Lohnprogramm uebernommen? Sozialversicherungs-Beitragsschulden zum Auswertungsstichtag erfasst (Konto SKR 03 1742 bzw. SKR 04 3740 für Verbindlichkeiten SV)?
 - Belege chronologisch und vollstaendig verbucht; Cut-off-Datum festlegen (z. B. 5. Werktag des Folgemonats).
 - DATEV-Klickpfad zur Pruefung: Rechnungswesen → Stammdaten → Buchungsstapel → Stapelverarbeitung → noch nicht festgeschriebene Buchungen vor BWA festschreiben.
 
@@ -113,7 +113,7 @@ Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, i
 ## Output
 
 - Standard-BWA als strukturierter Bericht mit funf Blocken, Vorjahresvergleich und kumuliertem Jahresblock.
-- Erlaeuterungstext fuer den Mandanten (1-2 Seiten).
+- Erlaeuterungstext für den Mandanten (1-2 Seiten).
 - Hinweise zur Liquiditaetslage und zu offenen Buchungsfragen.
 
 ## Strategie und Praxis-Tipps
@@ -128,7 +128,7 @@ Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, i
 ## Querverweise
 
 - `stb-bwa-kontenrahmen-skr03-skr04` — Wahl SKR 03 oder SKR 04.
-- `stb-bwa-monatsabschluss-routine` — Routine fuer die Monats-BWA.
+- `stb-bwa-monatsabschluss-routine` — Routine für die Monats-BWA.
 - `stb-bwa-erlaeuterungstext-mandant` — Erlaeuterungstexte unter der BWA.
 - `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung mit BWA SuSa und Bilanz.
 - `stb-bwa-fehlerquellen-haeufig` — typische Fehler beim BWA-Aufbau.

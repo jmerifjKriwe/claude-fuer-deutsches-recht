@@ -7,10 +7,10 @@ description: "Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Ski
 
 ## AGO 1793
 
-- Allgemeine Gerichtsordnung fuer die preussischen Staaten.
+- Allgemeine Gerichtsordnung für die preussischen Staaten.
 - In Kraft gleichzeitig mit dem ALR.
 - 1500+ Paragraphen.
-- Verfahrensvorschriften fuer Zivilprozess.
+- Verfahrensvorschriften für Zivilprozess.
 
 ## Verfahrensprinzipien
 
@@ -32,6 +32,21 @@ description: "Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Ski
 
 1. AGO oder spaetere ZPO?
 2. Welches Verfahrensprinzip?
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

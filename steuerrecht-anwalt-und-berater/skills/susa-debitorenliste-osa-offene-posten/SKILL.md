@@ -13,7 +13,7 @@ description: "Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendung
 
 ## Kernsachverhalt
 
-Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faelligkeit und Status. Die OPOS-Auswertung ist Standardinstrument fuer Mahnwesen, Bilanzvorbereitung und Liquiditaetsplanung. Der Steuerberater erstellt sie monatlich (oder mit BWA-Frequenz), prueft die Werthaltigkeit grosser Posten und gibt Hinweise auf Forderungsausfall-Risiken.
+Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faelligkeit und Status. Die OPOS-Auswertung ist Standardinstrument für Mahnwesen, Bilanzvorbereitung und Liquiditaetsplanung. Der Steuerberater erstellt sie monatlich (oder mit BWA-Frequenz), prueft die Werthaltigkeit grosser Posten und gibt Hinweise auf Forderungsausfall-Risiken.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,7 +24,7 @@ Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faellig
 5. Welche Forderungen sind strittig oder von Mandantenkonflikten betroffen?
 6. Welche Mahnsystematik ist mit dem Mandanten vereinbart?
 7. Welche Einzelwertberichtigungen sind anzusetzen?
-8. Welche Pauschalwertberichtigung (1 Prozent) gilt fuer Bilanzstichtag?
+8. Welche Pauschalwertberichtigung (1 Prozent) gilt für Bilanzstichtag?
 
 ## Rechtlicher Rahmen
 

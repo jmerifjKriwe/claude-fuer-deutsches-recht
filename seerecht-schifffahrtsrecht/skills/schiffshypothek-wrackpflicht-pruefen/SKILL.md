@@ -1,13 +1,13 @@
 ---
 name: schiffshypothek-wrackpflicht-pruefen
-description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes hypothekenbelastetes Seeschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes hypothekenbelastetes Seeschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffshypothek – Wrackbeseitigungspflicht prüfen
 
 ## Arbeitsbereich
 
-Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes hypothekenbelastetes Seeschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes hypothekenbelastetes Seeschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -39,7 +39,7 @@ Ein hypothekenbelastetes Seeschiff sinkt in deutschen Gewässern; WSA ordnet Bes
 - Bestehen Umweltschadensrisiken (Bunkeröl/Chemikalien) beim hypothekenbelastetes Seeschiff?
 
 ## Typische Fallstricke
-- WRC gilt auch fuer Freizeitjachten ab 14 Meter Laenge.
+- WRC gilt auch für Freizeitjachten ab 14 Meter Laenge.
 - Behoerdliche Ersatzvornahme begründet Kostenerstattungsanspruch mit Vorrang.
 - Bei hypothekenbelastetes Seeschiff unter Auslandsflagge kommen Flaggenstaat-Pflichten hinzu.
 

@@ -26,7 +26,7 @@ Dieser Skill verwaltet diese Workspaces.
 
 ## Eingaben
 
-- Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md`
+- Praxisprofil aus `~/.claude/plugins/config/claude-für-deutsches-recht/ki-governance/CLAUDE.md`
  (Abschnitt `## Mandate-Workspaces`)
 - Subbefehl und optionaler Slug vom Nutzer
 
@@ -58,14 +58,14 @@ Dieser Skill verwaltet diese Workspaces.
 - `/ki-governance:ki-governance-mandat-arbeitsbereich list` – Mandate mit Status und Aktiv-Flag auflisten
 - `/ki-governance:ki-governance-mandat-arbeitsbereich switch <slug>` – aktives Mandat setzen
 - `/ki-governance:ki-governance-mandat-arbeitsbereich close <slug>` – Mandat archivieren (nach
- `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/mandate/_archiv/` verschieben, nie löschen)
+ `~/.claude/plugins/config/claude-für-deutsches-recht/ki-governance/mandate/_archiv/` verschieben, nie löschen)
 - `/ki-governance:ki-governance-mandat-arbeitsbereich none` – von aktivem Mandat trennen, nur auf Praxisebene
  arbeiten
 
 ## Speicherlayout
 
 ```
-~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/
+~/.claude/plugins/config/claude-für-deutsches-recht/ki-governance/
 ├── CLAUDE.md # praxisweites Praxisprofil
 └── mandate/
  ├── <slug>/

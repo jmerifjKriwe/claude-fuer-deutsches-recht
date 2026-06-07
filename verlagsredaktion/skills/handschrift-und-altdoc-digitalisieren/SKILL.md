@@ -1,13 +1,13 @@
 ---
 name: handschrift-und-altdoc-digitalisieren
-description: "Digitalisiert handschriftliche Originalvorlagen und alte Dokumente fuer die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Digitalisiert handschriftliche Originalvorlagen und alte Dokumente für die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Handschrift und Altdokumente digitalisieren
 
 ## Arbeitsbereich
 
-Digitalisiert handschriftliche Originalvorlagen und alte Dokumente fuer die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Digitalisiert handschriftliche Originalvorlagen und alte Dokumente für die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -37,11 +37,11 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 - Vergleichsdokumente desselben Verfassers (Schriftvergleich).
 - Bei Nachlaessen: Erbenfreigabe schriftlich.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Rechte klaeren.** Urhg-Schutz besteht bis 70 Jahre nach Tod des Verfassers (§ 64 UrhG). Bei Nachlass: Erbenfreigabe. Auch bei freien Werken: Pietaet und Quellenangabe.
 2. **Materialwuerdigung.** Original schonen - hochaufloesende Scans erstellen, dann mit Scans arbeiten.
-3. **Erste Transkription.** Handschrift Wort fuer Wort, mit `[?]` bei Unsicherheit. Wenn moeglich, durch zweite Lektorin gegenlesen lassen (Vier-Augen-Prinzip).
+3. **Erste Transkription.** Handschrift Wort für Wort, mit `[?]` bei Unsicherheit. Wenn moeglich, durch zweite Lektorin gegenlesen lassen (Vier-Augen-Prinzip).
 4. **Vergleichende Lesart.** Bei Streitfaellen: Schriftvergleich mit anderen Texten desselben Verfassers. Wenn keine Klaerung moeglich, beide Lesarten dokumentieren.
 5. **Modernisierung.** Alte Rechtschreibung (Hauptwoerter, Eszett, scharfes S) behutsam, mit Editionsstandard. Bei wissenschaftlicher Edition: nichts modernisieren, nur dokumentieren.
 6. **Edition mit Apparat.** Bei wissenschaftlichen Editionen: textkritischer Apparat (Lesartenvergleich) und Kommentar (Sachapparat).
@@ -53,7 +53,7 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 |------|------------------------------|------------------------------|------------|
 | Aufwand | gering bis mittel | hoch | A bei Praxispublikation |
 | Wissenschaftlicher Wert | gering | hoch | B bei Quelleneditionsband |
-| Lesbarkeit | hoch | mittel | A fuer breites Lesepublikum |
+| Lesbarkeit | hoch | mittel | A für breites Lesepublikum |
 | Auditfaehigkeit | gering | hoch | B bei archivierender Veroeffentlichung |
 
 ## Praxistipps der alten Redaktion
@@ -82,7 +82,7 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 
 **Erben-Anschreiben:**
 
-> Sehr geehrte Familie, wir planen die Veroeffentlichung des handschriftlichen Manuskripts "[Titel]" Ihres verstorbenen Vaters im Rahmen unseres Sammelbandes "Festschrift fuer ...". Wir bitten um Ihre schriftliche Zustimmung zur einmaligen Veroeffentlichung in Print- und Online-Form. Eine Honorarvereinbarung legen wir bei.
+> Sehr geehrte Familie, wir planen die Veroeffentlichung des handschriftlichen Manuskripts "[Titel]" Ihres verstorbenen Vaters im Rahmen unseres Sammelbandes "Festschrift für ...". Wir bitten um Ihre schriftliche Zustimmung zur einmaligen Veroeffentlichung in Print- und Online-Form. Eine Honorarvereinbarung legen wir bei.
 
 ## Typische Fehler / Pitfalls
 
@@ -103,8 +103,8 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 ## Quellen Stand 06/2026
 
 - UrhG §§ 64, 65 (Schutzfrist), [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
-- Verlagsgesetz fuer Verlagsvertrag mit Erben.
+- Verlagsgesetz für Verlagsvertrag mit Erben.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Plachta, Editionswissenschaft, 4. Aufl. 2020.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

@@ -37,12 +37,12 @@ Entscheiden, welche Dokumente in den Bereich Inhalte der Interessenvertretung ge
 
 ## API-Nachweis nach Upload
 
-Nach dem Portal-Upload soll der Skill eine Nachkontrolle anlegen: oeffentlichen Eintrag per API abrufen, `statements`, `regulatoryProjects`, Version, `sourceDate`, Detailseite und PDF sichern und gegen Versanddatum, Empfaengerkreis, Regelungsvorhaben und Schwärzungsvermerk pruefen. Die API prueft nur den veroeffentlichten Datenstand; sie ersetzt den Portal-Upload nicht.
+Nach dem Portal-Upload soll der Skill eine Nachkontrolle anlegen: öffentlichen Eintrag per API abrufen, `statements`, `regulatoryProjects`, Version, `sourceDate`, Detailseite und PDF sichern und gegen Versanddatum, Empfaengerkreis, Regelungsvorhaben und Schwärzungsvermerk pruefen. Die API prueft nur den veroeffentlichten Datenstand; sie ersetzt den Portal-Upload nicht.
 
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 - Open Data/API: ../../references/open-data-api-v2.md

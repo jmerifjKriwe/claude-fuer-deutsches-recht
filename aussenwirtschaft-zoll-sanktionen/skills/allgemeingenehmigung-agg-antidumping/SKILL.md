@@ -1,13 +1,13 @@
 ---
 name: allgemeingenehmigung-agg-antidumping
-description: "Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) fuer kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) für kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Allgemeine Genehmigungen: Finder und Nutzungsbedingungen fuer Exportkontrolle
+# Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle
 
 ## Arbeitsbereich
 
-Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) fuer kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) für kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,15 +20,15 @@ Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemein
 ## Mandantenfall
 
 - Maschinenhersteller moechte Ersatzteile in USA liefern; Frage ob EU001 (NATO) anwendbar.
-- Elektroniklieferant fragt, ob EU007 (Forschung und Entwicklung) fuer Technologielieferung in die Schweiz gilt.
-- KMU prueft, ob nationale AGG 29 fuer Lieferung bestimmter Gueter nach Israel nutzbar ist.
+- Elektroniklieferant fragt, ob EU007 (Forschung und Entwicklung) für Technologielieferung in die Schweiz gilt.
+- KMU prueft, ob nationale AGG 29 für Lieferung bestimmter Gueter nach Israel nutzbar ist.
 
 ## Erste Schritte
 
 1. Gueterlistenklassifizierung feststellen (Anhang I VO 2021/821, ECCN, Dual-Use-Code).
 2. Zielland und Endverwender (Regierung, Zivil, Militaer) bestimmen.
 3. Alle EU-Allgemeingenehmigungen EU001-EU009 systematisch durchpruefen.
-4. Nationale Allgemeingenehmigungen (AWV) fuer nicht von EU-Regelung erfasste Faelle pruefen.
+4. Nationale Allgemeingenehmigungen (AWV) für nicht von EU-Regelung erfasste Faelle pruefen.
 5. Bedingungen der anwendbaren AGG pruefen: Ausschluesse, Exporteurdokumentation, Registrierung.
 6. Registrierungspflicht beim BAFA beachten und Nutzungslog anlegen.
 
@@ -36,7 +36,7 @@ Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemein
 
 - **Art. 12 VO (EU) 2021/821**: Rahmenbedingungen EU-Allgemeingenehmigungen (EU001-EU009).
 - **Anhang II VO (EU) 2021/821**: Texte der einzelnen EU-Ausfuhrgenehmigungen.
-- **§§ 2, 8 AWG**: Genehmigungstatbestand und Ausnahmen fuer genehmigte Ausfuhr.
+- **§§ 2, 8 AWG**: Genehmigungstatbestand und Ausnahmen für genehmigte Ausfuhr.
 - **§§ 8 ff. AWV**: Nationale Allgemeingenehmigungen.
 - **BAFA-Merkblatt Allgemeine Genehmigungen**: Anwendungshinweise.
 
@@ -46,12 +46,12 @@ Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemein
 - [ ] Zielland-Ausschlusslisten jeder AGG einzeln geprueft?
 - [ ] Endverwender-Einschraenkungen der AGG (kein Militaer, keine WMD-Nutzung) geprueft?
 - [ ] Registrierungspflicht beim BAFA beachtet?
-- [ ] Nachweisdokumentation fuer Compliance-Zwecke angelegt?
+- [ ] Nachweisdokumentation für Compliance-Zwecke angelegt?
 - [ ] AGG-Nutzung im Export-Management-System vermerkt?
 
 ## Typische Fallstricke
 
-- EU-Allgemeingenehmigungen schliessen bestimmte Laender explizit aus; Ausschlusslisten aktuell pruefen.
+- EU-Allgemeingenehmigungen schliessen bestimmte Länder explizit aus; Ausschlusslisten aktuell pruefen.
 - Registrierungspflicht bei EU002/EU003 wird oft vergessen.
 - AGG deckt keine Embargosituationen ab; vorrangige Embargopruefen erforderlich.
 - Nationale AWV-AGGs koennen durch spaeteres EU-Recht ueberholt sein.
@@ -60,7 +60,7 @@ Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemein
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-AGG-Zuordnungsvermerk mit anwendbarer Genehmigung, Nutzungsbedingungen, Ausschlussliste und Nachweis-Template fuer Compliance-Ordner.
+AGG-Zuordnungsvermerk mit anwendbarer Genehmigung, Nutzungsbedingungen, Ausschlussliste und Nachweis-Template für Compliance-Ordner.
 
 ## Quellen
 

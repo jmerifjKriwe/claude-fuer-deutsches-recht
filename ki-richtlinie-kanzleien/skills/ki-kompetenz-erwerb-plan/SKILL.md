@@ -61,17 +61,17 @@ Neue Leitlinien des Europäischen KI-Büros zur Auslegung des Art. 4 KI-VO sowie
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
-- Art. 4 KI-VO — KI-Kompetenzverpflichtung fuer Anbieter und Betreiber
+- Art. 4 KI-VO — KI-Kompetenzverpflichtung für Anbieter und Betreiber
 - § 43 BRAO — Gewissenhafte Berufsausuebung (Kompetenzpflicht)
 - § 15 FAO — Fortbildungspflicht Fachanwaelte (15 Stunden/Jahr)
-- § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmung bei Schulungsmassnahmen fuer KI-Tools
+- § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmung bei Schulungsmassnahmen für KI-Tools
 
 ## Triage zu Beginn
 1. Welches KI-Kompetenz-Niveau haben die Mitarbeiter aktuell — Einsteiger, Fortgeschrittene?
-2. Gibt es spezifische KI-Anwendungsfaelle, fuer die Spezialschulungen erforderlich sind?
+2. Gibt es spezifische KI-Anwendungsfaelle, für die Spezialschulungen erforderlich sind?
 3. Sind Fachanwaelte betroffen — zaehlt KI-Schulung auf 15-Stunden-Fortbildungspflicht (§ 15 FAO)?
 4. Ist ein Betriebsrat vorhanden — Mitbestimmung bei Schulungsmassnahmen (§ 87 Abs. 1 Nr. 6 BetrVG)?
-5. Wie wird der Kompetenzerwerb dokumentiert fuer Art. 4 KI-VO-Nachweis?
+5. Wie wird der Kompetenzerwerb dokumentiert für Art. 4 KI-VO-Nachweis?
 
 ## Output-Template — KI-Kompetenz-Erwerb-Plan
 **Adressat:** Kanzlei-Fuehrung / HR — Tonfall: strukturiert, umsetzungsorientiert
@@ -80,7 +80,7 @@ KI-KOMPETENZ-ERWERB-PLAN
 [KANZLEI] — Stand: [DATUM] — Gueltig bis: [DATUM]
 
 SCHULUNGSZIELE (Art. 4 KI-VO):
-Alle Mitarbeiter erreichen bis [DATUM] KI-Basiskompetenz fuer den Kanzlei-Einsatz.
+Alle Mitarbeiter erreichen bis [DATUM] KI-Basiskompetenz für den Kanzlei-Einsatz.
 
 SCHULUNGS-MODULE:
 | Modul | Inhalt | Zielgruppe | Format | Dauer | Frist |
@@ -91,7 +91,7 @@ SCHULUNGS-MODULE:
 | 4. KI-VO Pflichten | Art. 4 KI-VO, Hochrisiko | Fuehrung | Extern | 4h | [DATUM] |
 
 DOKUMENTATION:
-Schulungsteilnahme wird dokumentiert fuer: Art. 4 KI-VO Kompetenznachweis / § 15 FAO.
+Schulungsteilnahme wird dokumentiert für: Art. 4 KI-VO Kompetenznachweis / § 15 FAO.
 
 VERANTWORTLICH: [KOMPETENZ-OFFICER NAME]
 NAECHSTE ÜBERPRÜFUNG: [DATUM]

@@ -1,6 +1,6 @@
 ---
 name: inkasso-risikoampel
-description: "Bewertung der Erfolgswahrscheinlichkeit einer Forderungseinziehung anhand Schuldnerprofil Belegstand Verjaehrungslage und Vermoegenslage. Pinpoints ZPO 802c Vermoegensauskunft ZPO 882b Schuldnerverzeichnis InsO 14 Glaeubigerantrag. Liefert Ampel und Empfehlung."
+description: "Bewertung der Erfolgswahrscheinlichkeit einer Forderungseinziehung anhand Schuldnerprofil Belegstand Verjährungslage und Vermoegenslage. Pinpoints ZPO 802c Vermoegensauskunft ZPO 882b Schuldnerverzeichnis InsO 14 Glaeubigerantrag. Liefert Ampel und Empfehlung."
 ---
 
 # Inkasso-Risikoampel
@@ -20,7 +20,7 @@ Vor Beauftragung von Klage und Vollstreckung lohnt ein Realitaetscheck.
 | Belegstand | vollstaendig | 0 |
 | | luckenhaft | 2 |
 | | nur Mandantenaussage | 4 |
-| Verjaehrung | mehr als ein Jahr Rest | 0 |
+| Verjährung | mehr als ein Jahr Rest | 0 |
 | | unter drei Monaten | 2 |
 | | eingetreten | 5 |
 | Streitlage | unbestritten | 0 |

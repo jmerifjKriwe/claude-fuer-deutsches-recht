@@ -28,7 +28,7 @@ EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-
 1. EU-Sanktionsliste Belarus (VO 765/2006) und Finanzsanktionsliste pruefen.
 2. Guetersanktionen-Katalog (Anhang VO 765/2006 und Ergaenzungsverordnungen) gegenueber KN-Code pruefen.
 3. Russland-Embargo-Umgehungsrisiko: Doppelcheck ob Gueter via Belarus nach Russland umgeleitet werden (Art. 12 VO 833/2014).
-4. Dienstleistungsverbote (IT, Beratung, PR) fuer belarussische Staatsunternehmen pruefen.
+4. Dienstleistungsverbote (IT, Beratung, PR) für belarussische Staatsunternehmen pruefen.
 5. Zahlungsrouting ueber belarussische Banken auf Sanktionsliste pruefen.
 6. Stop-Ship bei Unsicherheit bis vollstaendige Pruefung.
 
@@ -38,14 +38,14 @@ EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-
 - **VO (EU) 2022/576 Art. 7 ff.**: Erweiterter Sanktionsrahmen und Gueterliste.
 - **Art. 12 VO (EU) 833/2014**: Russland-Umgehungsverbot auch via Belarus.
 - **AWG § 18**: Strafbarkeit bei Embargo-Verstoss.
-- **Art. 2 VO (EU) 765/2006**: Bereitstellungsverbot fuer gelistete Personen.
+- **Art. 2 VO (EU) 765/2006**: Bereitstellungsverbot für gelistete Personen.
 
 ## Pruef-Raster
 
 - [ ] Partei auf EU-Sanktionsliste Belarus geprueft?
 - [ ] Gueterkategorie und Anhang-Verbote geprueft?
 - [ ] Russland-Umgehungsrisiko explizit ausgeschlossen?
-- [ ] Dienstleistungsverbot fuer Staatsunternehmen geprueft?
+- [ ] Dienstleistungsverbot für Staatsunternehmen geprueft?
 - [ ] Zahlungsrouting ueber sanktionierten Kanal geprueft?
 - [ ] Stop-Ship bei Risiko ausgeloest?
 
@@ -54,13 +54,13 @@ EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-
 - Belarus-Embargo und Russland-Embargo sind separate Rechtsregime; beide muessen geprueeft werden.
 - Staatliche Kontrollbeteiligung in belarussischen Unternehmen loest Sanktionsrisiko auch ohne Listung aus.
 - Umgehung kann strafbar sein auch ohne Listentreffer der Gegenpartei.
-- Dienstleistungsverbote gelten auch fuer Unterauftragsverhaeltnisse.
+- Dienstleistungsverbote gelten auch für Unterauftragsverhaeltnisse.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

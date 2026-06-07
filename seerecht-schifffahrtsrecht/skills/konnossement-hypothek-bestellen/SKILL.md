@@ -1,13 +1,13 @@
 ---
 name: konnossement-hypothek-bestellen
-description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konnossement – Schiffshypothek bestellen
 
 ## Arbeitsbereich
 
-Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bes
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine Bank bestellt eine Hypothek auf ein Konnossements-Transaktion (Bill of Lading) als Sicherheit fuer einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Konnossements-Transaktion (Bill of Lading) als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
+Eine Bank bestellt eine Hypothek auf ein Konnossements-Transaktion (Bill of Lading) als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Konnossements-Transaktion (Bill of Lading) als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
 ## Erste Schritte
 1. Eintragungsfaehigkeit des Konnossements-Transaktion (Bill of Lading)s pruefen; Eintragung im kein Schiffsregister; Dokumentenregime bestaetigen.

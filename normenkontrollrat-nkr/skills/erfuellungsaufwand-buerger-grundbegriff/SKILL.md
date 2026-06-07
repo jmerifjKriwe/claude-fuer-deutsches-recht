@@ -1,13 +1,13 @@
 ---
 name: erfuellungsaufwand-buerger-grundbegriff
-description: "Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle fuer die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle für die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# NKR-Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung
+# NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung
 
 ## Arbeitsbereich
 
-Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle fuer die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle für die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger
 
 ## Worum geht es konkret
 
-Der Erfuellungsaufwand wird methodisch **separat fuer drei Adressatengruppen** ausgewiesen. Das ist zwingend nach Leitfaden BMI/NKR und Standard in jeder NKR-Stellungnahme.
+Der Erfuellungsaufwand wird methodisch **separat für drei Adressatengruppen** ausgewiesen. Das ist zwingend nach Leitfaden BMI/NKR und Standard in jeder NKR-Stellungnahme.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -36,15 +36,15 @@ Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — B
 - **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR)
 - **DESTATIS Zeitwerttabellen** als Datenbasis
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Buerger
 
 - **Adressat**: natuerliche Personen in Privatangelegenheiten
-- **Aufwand**: Zeitaufwand fuer Antraege, Anzeigen, Belege, Anhoerungen
+- **Aufwand**: Zeitaufwand für Antraege, Anzeigen, Belege, Anhörungen
 - **Bewertung**: Zeitkosten (Stand 06/2026 als Bandbreite ca. 28 EUR/h gemaess Leitfaden — vom Anwender mit aktueller Tabelle zu pruefen)
-- **Sachkosten**: nur wenn relevant (z.B. Gebuehren, ggf. Notar)
-- **Falltypen**: Antrag stellen, Pflicht erfuellen, Anhoerung wahrnehmen
+- **Sachkosten**: nur wenn relevant (z.B. Gebühren, ggf. Notar)
+- **Falltypen**: Antrag stellen, Pflicht erfuellen, Anhörung wahrnehmen
 - **Bandbreiten**: stark adressatenabhaengig (Senioren, Migranten, mit/ohne digitale Affinitaet)
 
 ### Wirtschaft
@@ -71,8 +71,8 @@ Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — B
 - Gesamtsumme ohne Adressatentrennung
 - Buerger-Aufwand "vernachlaessigbar" ohne Begruendung
 - Wirtschaft-Aufwand ohne Lohnsatz-Begruendung
-- Verwaltung-Aufwand auf "fuer die Verwaltung kostenneutral" gesetzt, obwohl Pflichten neu sind
-- Konnexitaetsfrage nicht angesprochen (Pflicht fuer Kommunen)
+- Verwaltung-Aufwand auf "für die Verwaltung kostenneutral" gesetzt, obwohl Pflichten neu sind
+- Konnexitaetsfrage nicht angesprochen (Pflicht für Kommunen)
 
 ## Trade-off-Matrix
 
@@ -96,22 +96,22 @@ Tabelle in der Stellungnahme:
 | Wirtschaft | [X] Mio EUR | [Y] Mio EUR |
 | davon KMU | [X] Mio EUR | [Y] Mio EUR |
 | Verwaltung Bund | [X] Mio EUR | [Y] Mio EUR |
-| Verwaltung Laender | [X] Mio EUR | [Y] Mio EUR |
+| Verwaltung Länder | [X] Mio EUR | [Y] Mio EUR |
 | Verwaltung Kommunen | [X] Mio EUR | [Y] Mio EUR |
 | **Gesamt** | **[X] Mio EUR** | **[Y] Mio EUR** |
 
 Bausteine:
 
-- "Der Erfuellungsaufwand fuer Buerger entsteht hauptsaechlich durch [konkrete Pflicht]. Der NKR haelt die zugrundegelegten Fallzahlen fuer plausibel."
-- "Der Erfuellungsaufwand fuer die Wirtschaft wird durch [konkrete Pflicht] verursacht. Davon entfallen auf KMU [Anteil]."
-- "Der NKR weist darauf hin, dass der Erfuellungsaufwand fuer die kommunale Verwaltung in Hoehe von [X] Mio EUR die Frage der Konnexitaet aufwirft."
+- "Der Erfuellungsaufwand für Buerger entsteht hauptsaechlich durch [konkrete Pflicht]. Der NKR haelt die zugrundegelegten Fallzahlen für plausibel."
+- "Der Erfuellungsaufwand für die Wirtschaft wird durch [konkrete Pflicht] verursacht. Davon entfallen auf KMU [Anteil]."
+- "Der NKR weist darauf hin, dass der Erfuellungsaufwand für die kommunale Verwaltung in Hoehe von [X] Mio EUR die Frage der Konnexitaet aufwirft."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
 - Nur Gesamtsumme statt aufgeschluesselter Tabelle
 - Verwaltung "kostenneutral" trotz neuer Pflichten
 - KMU nicht ausgewiesen
-- Konnexitaet ignoriert (Pflichten fuer Laender / Kommunen)
+- Konnexitaet ignoriert (Pflichten für Länder / Kommunen)
 - Buerger pauschal "geringfuegig"
 
 ## Querverweise

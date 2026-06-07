@@ -7,7 +7,7 @@ description: "AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill 
 
 ## Aufgabe
 
-Skill fuer AGB-Kontrolle bei digitalen Produkten nach § 327 ff. BGB.
+Skill für AGB-Kontrolle bei digitalen Produkten nach § 327 ff. BGB.
 
 ## Norm
 
@@ -17,7 +17,7 @@ Skill fuer AGB-Kontrolle bei digitalen Produkten nach § 327 ff. BGB.
 
 ## § 327f BGB Aktualisierungspflicht
 
-- Verkaeufer/Anbieter muss Updates bereitstellen, "die fuer den Erhalt der Vertragsmaessigkeit erforderlich sind".
+- Verkaeufer/Anbieter muss Updates bereitstellen, "die für den Erhalt der Vertragsmaessigkeit erforderlich sind".
 - Sicherheitsupdates Pflicht; Funktionserweiterungen optional.
 - Aktualisierungspflicht laeuft, solange Verbraucher die Aktualisierungen "vernuenftigerweise erwarten kann".
 - BGH-Folgejudikate noch im Aufbau; Az im Digitalisat verifizieren.
@@ -52,4 +52,4 @@ Skill fuer AGB-Kontrolle bei digitalen Produkten nach § 327 ff. BGB.
 
 - Klauselentwurf.
 - Schriftsatzbaustein Verbraucherklage.
-- Pruefraster fuer Anbieter.
+- Pruefraster für Anbieter.

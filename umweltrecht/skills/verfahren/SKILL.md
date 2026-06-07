@@ -1,13 +1,13 @@
 ---
 name: verfahren
-description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umweltrechtliche Verwaltungs- und Gerichtsverfahren
 
 ## Arbeitsbereich
 
-Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widers
 4. Besteht Eilbedarf (vollziehbare Genehmigung, bevorstehende Baumafsnahme)?
 5. Wurden Einwendungen im Genehmigungsverfahren rechtzeitig erhoben (Praeklusions-Risiko)?
 6. UmwRG-Vereinigung — Anerkennungsstatus geprueft?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -39,7 +39,7 @@ Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widers
 - **§ 123 VwGO** — Einstweilige Anordnung (Unterlassung, Vorabrherausgabe)
 - **§ 1 UmwRG** — Anwendungsbereich (UVP-pflichtige, IPPC-Anlagen, Plaene)
 - **§ 2 UmwRG** — Verbandsklage ohne Selbstbetroffenheit
-- **§ 4 UmwRG** — Verfahrensfehler fuer sich allein als Aufhebungsgrund bei UVP-Pflicht
+- **§ 4 UmwRG** — Verfahrensfehler für sich allein als Aufhebungsgrund bei UVP-Pflicht
 - **§ 5 UmwRG** — Praeklusion bei Nichtbeteiligung im Verwaltungsverfahren
 
 ## Leitentscheidungen
@@ -49,7 +49,7 @@ Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widers
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -64,7 +64,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### B) Verpflichtungsklage (Betreiber auf Genehmigung)
 
-1. **Vorverfahren**: Antrag bei Behoerde; Ablehnung oder Untaetigkeit 3 Monate (§ 75 VwGO).
+1. **Vorverfahren**: Antrag bei Behörde; Ablehnung oder Untaetigkeit 3 Monate (§ 75 VwGO).
 2. **Klage**: Verpflichtungsklage auf Genehmigungserteilung; ggf. hilfsweise Verbescheidungsklage.
 3. **Eilantrag § 123 VwGO**: Einstweilige Anordnung auf Duldung Vorbau-/Vorbereitung.
 4. **Normenkontrolle § 47 VwGO**: Bei Angriff auf Bauleitplan, der Projekt verhindert.
@@ -125,7 +125,7 @@ B e g r u e n d u n g
 
 I. Sachverhalt
 [BETREIBER] erhielt am [DATUM] eine Genehmigung gemaess § 4 BImSchG
-fuer [Anlage, Ort, Kapazitaet]. Klaeger/in ist Eigentuemerinn des Grundstuecks
+für [Anlage, Ort, Kapazitaet]. Klaeger/in ist Eigentuemerinn des Grundstuecks
 [Flur], ca. [X] m von der Anlage entfernt.
 
 II. Klagebefugnis
@@ -148,7 +148,7 @@ Anlagen: Eigentumsnachweise, Schall-Gegengutachten, Lageplan
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -166,8 +166,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- EuGH hat deutsche Praeklusion § 5 UmwRG fuer unionsrechtswidrig erklaert soweit sie den gerichtlichen Zugang Einzelner beschraenkt.
-- Praxis: Gericht prueft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance fuer Klaeger.
+- EuGH hat deutsche Praeklusion § 5 UmwRG für unionsrechtswidrig erklaert soweit sie den gerichtlichen Zugang Einzelner beschraenkt.
+- Praxis: Gericht prueft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance für Klaeger.
 - Aber: VG prueft Opportunitaet im Einzelfall; konservativere OVG-Linie partiell erhalten.
 
 ## Anschluss-Skills

@@ -29,7 +29,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -106,7 +106,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung. Bewertet steuerliche, haftungsrechtliche, regulatorische und zeitliche Implikationen.
+Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung. Bewertet steuerliche, haftungsrechtliche, regulatorische und zeitliche Implikationen.
 
 ## Triage — klaere vor Strukturentscheidung
 
@@ -119,10 +119,10 @@ Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Ventu
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 311-312 UmwG — Ausgliederung zur Neugründung; erleichterte Variante fuer Carve-outs
+- §§ 311-312 UmwG — Ausgliederung zur Neugründung; erleichterte Variante für Carve-outs
 - §§ 2-38 UmwG — Verschmelzung; §§ 123-137 UmwG — Spaltung; §§ 190-213 UmwG — Formwechsel
 - § 15 Abs. 3 GmbHG — notarielle Beurkundung des Share Deal (GmbH-Anteile)
-- §§ 433 ff. BGB — kaufrechtliche Grundlage des Asset Deal; keine Formvorschrift fuer bewegliche Sachen (aber notarielle Beurkundung bei Grundstueckseinschluss § 311b BGB)
+- §§ 433 ff. BGB — kaufrechtliche Grundlage des Asset Deal; keine Formvorschrift für bewegliche Sachen (aber notarielle Beurkundung bei Grundstueckseinschluss § 311b BGB)
 - § 613a BGB — Betriebsuebergang bei Asset Deal; Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes
 - §§ 1-11 UmwStG — steuerliche Behandlung von Umwandlungen; §§ 20-24 UmwStG — Einbringung und Anteilstausch
 - § 8c KStG — Verlustuntergang bei schaedlichem Anteilserwerb (mehr als 50 % innerhalb von fuenf Jahren)
@@ -135,9 +135,9 @@ Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Ventu
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
-1. **Zielobjekt klaren:** Wirtschaftsguetern, Anteile, Teilbetrieb, Holding-Beteiligung — massgeblich fuer Strukturentscheidung
+1. **Zielobjekt klaren:** Wirtschaftsguetern, Anteile, Teilbetrieb, Holding-Beteiligung — massgeblich für Strukturentscheidung
 2. **Strukturmatrix erstellen:** Share Deal vs. Asset Deal vs. Umwandlung — je: Steuer, Haftung, Form, Genehmigungen, Timing, Kosten
 3. **Carve-out pruefen:** Ist Zielgesellschaft bereits separat? Muss Ausgliederung (§§ 311 UmwG) oder internes Reorganisationsschritt vorgelagert werden?
 4. **Change-of-Control-Klauseln kartieren:** SPA-Garantien, Material Adverse Change-Klausel, Lender-Consent, Lizenzvertraege — bei Asset Deal: Einzeluebertragungszustimmungen
@@ -204,9 +204,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

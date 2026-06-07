@@ -1,13 +1,13 @@
 ---
 name: pressetext-rechtsthemen
-description: "Pressetext zu Rechtsthemen: Schreibanleitung fuer Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte fuer Fachpresse und allgemeine Medien mit Sperrfrist im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pressetext zu Rechtsthemen: Schreibanleitung für Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte für Fachpresse und allgemeine Medien mit Sperrfrist im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pressetext zu Rechtsthema
 
 ## Arbeitsbereich
 
-Pressetext zu Rechtsthemen: Schreibanleitung fuer Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte fuer Fachpresse und allgemeine Medien mit Sperrfrist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pressetext zu Rechtsthemen: Schreibanleitung für Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte für Fachpresse und allgemeine Medien mit Sperrfrist. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,14 +19,14 @@ Pressetext zu Rechtsthemen: Schreibanleitung fuer Verlagspressemitteilung zu neu
 
 ## Worum geht es konkret
 
-Der Verlag bringt ein neues Buch, eine neue Auflage oder einen aktuellen Aufsatz mit relevanter Stossrichtung. Der Skill liefert ein Schreibmuster fuer den Pressetext, der gleichzeitig juristisch korrekt, journalistisch lesbar und marketingwirksam sein soll. Inklusive Differenzierung: Pressemitteilung an Fachpresse (NJW, ZRP, JuS) versus allgemeine Medien (FAZ, SZ, dpa).
+Der Verlag bringt ein neues Buch, eine neue Auflage oder einen aktuellen Aufsatz mit relevanter Stossrichtung. Der Skill liefert ein Schreibmuster für den Pressetext, der gleichzeitig juristisch korrekt, journalistisch lesbar und marketingwirksam sein soll. Inklusive Differenzierung: Pressemitteilung an Fachpresse (NJW, ZRP, JuS) versus allgemeine Medien (FAZ, SZ, dpa).
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Was wird angekuendigt (Buchneuerscheinung, Neuauflage, Aufsatzhighlight, Konferenz)?
 2. Adressat (Fachpresse, Tagespresse, Lokalpresse, Wirtschaftsmedien, Branchendienste)?
 3. Wann Erscheinung, ab wann darf berichtet werden (Sperrfrist)?
-4. Welcher Autor steht zur Verfuegung fuer Interviews und Statements?
+4. Welcher Autor steht zur Verfuegung für Interviews und Statements?
 5. Welche Kernbotschaft soll haengen bleiben (ein Satz, eine Zahl, ein Fall)?
 6. Pressefoto vorhanden, Bildrechte geklaert?
 7. Welches Boilerplate des Verlags ist Standard?
@@ -40,13 +40,13 @@ Der Verlag bringt ein neues Buch, eine neue Auflage oder einen aktuellen Aufsatz
 - UWG §§ 5, 5a - Verbot irrefuehrender Werbung; bei marktbezogenen Aussagen wichtig.
 - Buchpreisbindungsgesetz - bei Preisangabe in Pressemitteilungen.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Kernbotschaft formulieren.** Ein Satz, der die News zusammenfasst. Wer? Was? Warum jetzt?
 2. **Pyramide bauen.** Headline - Lead (3 Saetze, fuenf W) - Vertiefung - Zitat - Hintergrund - Boilerplate.
 3. **Differenzieren nach Adressat.**
  - Fachpresse: juristische Genauigkeit, Norm- und Az.-Angaben.
- - Tagespresse: Alltagsbeispiel, Folgen fuer den Buerger, keine Fachsprache.
+ - Tagespresse: Alltagsbeispiel, Folgen für den Buerger, keine Fachsprache.
 4. **Zitat des Autors einbauen.** Ein zwei- bis dreisaetziger O-Ton; vorab mit Autor freigeben.
 5. **Sperrfrist setzen** ("Sperrfrist: [Datum], 0 Uhr"). Bei Datenbankplatzierung Embargo bei Anbietern.
 6. **Faktencheck.** Aktenzeichen, Datum, Auflagen, Preis pruefen.
@@ -60,7 +60,7 @@ Der Verlag bringt ein neues Buch, eine neue Auflage oder einen aktuellen Aufsatz
 |---|---|---|
 | Tonalitaet | Sachlich, normbezogen | Bildhaft, alltagsbezogen |
 | Laenge | 2500-3500 Zeichen | 1500-2000 Zeichen |
-| Quellen | Aktenzeichen, Fundstellen | Verweis auf Fall, Folgen fuer Lesende |
+| Quellen | Aktenzeichen, Fundstellen | Verweis auf Fall, Folgen für Lesende |
 | Sperrfrist | Hoch beachten | Pragmatisch |
 | Bildmaterial | Cover, Portraet | Cover, Portraet, Symbol |
 
@@ -71,7 +71,7 @@ Der Verlag bringt ein neues Buch, eine neue Auflage oder einen aktuellen Aufsatz
 - Zitat des Autors authentisch klingen lassen, nicht "Werbedeutsch".
 - Bei BGH-Aktualitaet: Verweis auf vollstaendiges Az. und Datum; sonst greifen Journalistinnen ins Leere.
 - Vermeiden: "endlich", "revolutionaer", "umfassend" - juristische Fachpresse lacht.
-- Bei Tagespresse-PM: "Was bedeutet das fuer die Vermieterin / den Verbraucher" als Frame.
+- Bei Tagespresse-PM: "Was bedeutet das für die Vermieterin / den Verbraucher" als Frame.
 - Buchpreisbindung: Preisangabe genau; "ab 39 Euro" geht nicht.
 
 ## Mustertexte / Vorlagen
@@ -121,11 +121,11 @@ Pressekontakt
 PRESSEMITTEILUNG
 [Datum]
 
-Was das neue BGH-Urteil fuer Mieterinnen und Mieter bedeutet
+Was das neue BGH-Urteil für Mieterinnen und Mieter bedeutet
 Neuer Kommentar im Verlag [...] erlaeutert die Folgen
 
 [Ort], [Datum] - Das aktuelle Urteil des Bundesgerichtshofs vom
-[Datum] (Az. [...]) hat unmittelbare Folgen fuer [zwoelf Millionen
+[Datum] (Az. [...]) hat unmittelbare Folgen für [zwoelf Millionen
 Mieterinnen und Mieter / die Praxis der Vermietung]. Der Kommentar
 "[Titel]" der Autorin [Name] (Verlag [...]) ordnet die Entscheidung
 ein und gibt praktische Hinweise.
@@ -162,7 +162,7 @@ Pressekontakt
 
 ## Quellen Stand 06/2026
 
-- DDG § 5 - Impressumspflicht fuer Pressemitteilungen mit eigener Domain.
+- DDG § 5 - Impressumspflicht für Pressemitteilungen mit eigener Domain.
 - KUG §§ 22, 23 - Bildnisrecht.
 - UrhG §§ 51, 51a - Zitatrecht.
 - Buchpreisbindungsgesetz - Preisangabe.

@@ -138,7 +138,7 @@ Anmerkungen: [Besonderheiten]
 
 ## Anschluss-Skills
 
-- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Verfahren
+- `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Verfahren
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `workflow-fristen-und-risikoampel` – Fristenworkflow
 - `evvollzug-neu-001` – EV-Vollziehungsfrist

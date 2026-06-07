@@ -1,6 +1,6 @@
 ---
 name: training-generativer-modelle-tdm-opt-out
-description: "Training generativer Modelle mit Text, Bild, Musik, Code und Datenbanken: Text-und-Data-Mining, Rechtevorbehalt/Opt-out, Webcrawl, Lizenzpool, Datenherkunft, Beweislast und Risikovermerk fuer Modellanbieter und Unternehmensnutzer."
+description: "Training generativer Modelle mit Text, Bild, Musik, Code und Datenbanken: Text-und-Data-Mining, Rechtevorbehalt/Opt-out, Webcrawl, Lizenzpool, Datenherkunft, Beweislast und Risikovermerk für Modellanbieter und Unternehmensnutzer."
 ---
 
 # Training generativer Modelle: TDM und Opt-out

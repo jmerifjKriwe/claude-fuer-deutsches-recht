@@ -60,7 +60,7 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 - Der Arbeitnehmer muss arbeitstaeglich zum Wohnsitz zurueckkehren.
 - "Arbeitstaeglich" = nach jedem Arbeitstag.
 - Maximale **Nicht-Rueckkehrtage pro Jahr**: 45 Tage (Schaedlichkeitsschwelle gemaess Verwaltungsvereinbarung 16.02.2006 — massgebend ist der Originaltext).
-- Krankheitstage, Urlaubstage, Feiertage: nicht relevant fuer Schaedlichkeit.
+- Krankheitstage, Urlaubstage, Feiertage: nicht relevant für Schaedlichkeit.
 - Dienstreisen, Tagungen, Schulungen: zaehlen je nach Auslegung.
 
 ### Folge
@@ -112,15 +112,15 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 - Reisekalender taeglich fuehren — nachtraegliche Rekonstruktion ist kritisch.
 - Home-Office-Tage Aufmerksamkeit — Konsultationsvereinbarung pruefen; bei Ueberschreitung Konsultations-Schwelle Verlust Grenzgaengerstatus.
 - Bei Schaedlichkeit (mehr als 45 Tage Nicht-Rueckkehr): Vorab planen (Tagungen reduzieren) — Schaedlichkeit ist absolutes Ausschlusskriterium.
-- Karlsruhe, Stuttgart, Trier (groessere Staedte) sind regelmaessig **nicht** in der 20-km-Zone — Grenzgaenger fuer dort arbeitende Arbeitnehmer scheidet aus.
+- Karlsruhe, Stuttgart, Trier (groessere Staedte) sind regelmaessig **nicht** in der 20-km-Zone — Grenzgaenger für dort arbeitende Arbeitnehmer scheidet aus.
 - Bei strittiger Gemeindezugehoerigkeit: Verstaendigungsverfahren oder Auskunft bei FA bzw. CFE.
-- Lohnsteuer-Anpassungsantrag in Deutschland fuer franzoesische Grenzgaenger ohne deutsche Lohnsteuer.
+- Lohnsteuer-Anpassungsantrag in Deutschland für franzoesische Grenzgaenger ohne deutsche Lohnsteuer.
 
 ## Praktiker-Tipps der alten Hasen
 
 ### Erstattungsverfahren bei FR-Quellensteuer
 
-- **Zustaendigkeit**: bei strittiger Lohnsteuer franzoesische **Service des Impots des Non-Residents (SIPNR)** Noisy-le-Grand.
+- **Zuständigkeit**: bei strittiger Lohnsteuer franzoesische **Service des Impots des Non-Residents (SIPNR)** Noisy-le-Grand.
 - **Antragsformulare**: in der Praxis verbreitet **Cerfa 5000** (Ansaessigkeitsbescheinigung/Antrag) und **Cerfa 5001/5003** (spezifische Erstattung Dividende/Lizenz) — **konkrete Cerfa-Nummern vom Anwender mit aktuellem Stand auf impots.gouv.fr zu verifizieren**.
 - **Frist**: bis 31. Dezember des zweiten Folgejahres ab Steuerentrichtung — kurze Frist!
 - **Bearbeitungsdauer SIPNR**: 12-36 Monate.
@@ -132,11 +132,11 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 ### Sprachen-Falle
 
 - Verwaltungsvereinbarung Grenzgaenger 16.02.2006 zweisprachig DE/FR — bei Auslegungsstreit franzoesischen Originaltext heranziehen.
-- Bescheid des franzoesischen FA auf Franzoesisch; bei Bedarf vereidigte Uebersetzung fuer deutsches FA.
+- Bescheid des franzoesischen FA auf Franzoesisch; bei Bedarf vereidigte Uebersetzung für deutsches FA.
 
 ### Online-Portale
 
-- **impots.gouv.fr**: franzoesische Steuerverwaltung mit eigener Sektion fuer Grenzgaenger (frontaliers).
+- **impots.gouv.fr**: franzoesische Steuerverwaltung mit eigener Sektion für Grenzgaenger (frontaliers).
 - **DRFiP Grand Est** als regionales FA-Pendant.
 
 ## Trade-off-Tabelle
@@ -155,7 +155,7 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 - **Krankheits- und Urlaubstage**: NICHT schaedlich nach Verwaltungsvereinbarung — sauber abgrenzen (Krankenscheine, Urlaubsantraege).
 - **Drittstaat-Aufenthalte**: Geschaeftsreisen nach Schweiz/USA/UK zaehlen schaedlich, weil keine Rueckkehr zum deutschen Wohnsitz.
 - **Vorruhestand/Altersteilzeit**: Grenzgaengerstatus haengt an Arbeitsverhaeltnis — bei Aussetzung Status weg.
-- **Doppelhaushalt**: Mandant mit Familienwohnsitz Saarbruecken und Zweitwohnung Strassburg fuer Arbeit — Tie-Breaker Art. 4 entscheidet ueber Wohnsitzstaat; Grenzgaengerstatus nur bei einheitlichem Wohnsitz in Grenzzone.
+- **Doppelhaushalt**: Mandant mit Familienwohnsitz Saarbruecken und Zweitwohnung Strassburg für Arbeit — Tie-Breaker Art. 4 entscheidet ueber Wohnsitzstaat; Grenzgaengerstatus nur bei einheitlichem Wohnsitz in Grenzzone.
 - **Lohnsteuer-Korrektur**: deutsches FA muss bei vorgelegter Grenzgaengerbescheinigung von der Lohnsteuer (bei FR-Arbeitgeber) entlasten, bzw. franzoesischer Arbeitgeber das Verfahren der "non-prelevement a la source" beachten — Aktualitaet pruefen.
 
 ## Berechnungsbeispiel — Grenzgaenger Kehl-Strassburg

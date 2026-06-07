@@ -1,13 +1,30 @@
 ---
 name: rechtshistorische-literatur-archivfund
-description: "Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik fuer Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik für Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtshistorische Literatur nur mit Quelle
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik fuer Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik für Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zit
 
 ## Worum es geht
 
-Rechtshistorische Sekundaerliteratur darf nicht als Autorenbeweis fuer historische Sachverhalte dienen, ohne Primaerquelle zu benennen. Der Skill strukturiert den richtigen Umgang: Savigny, Jhering, Windscheid und andere sind selbst historische Quellen erster Ordnung (Primaerquellen der Dogmengeschichte), nicht bloss Kommentatoren. Franz Wieackers Privatrechtsgeschichte der Neuzeit (2. Aufl. 1967) und Helmut Coings Handbuch der Quellen und Literatur der neueren europaeischen Privatrechtsgeschichte (3 Bde., 1973-1988) sind die modernen Standardwerke. Blindzitate (Autor nennen ohne Werk und Stelle) sind unzulaessig.
+Rechtshistorische Sekundaerliteratur darf nicht als Autorenbeweis für historische Sachverhalte dienen, ohne Primaerquelle zu benennen. Der Skill strukturiert den richtigen Umgang: Savigny, Jhering, Windscheid und andere sind selbst historische Quellen erster Ordnung (Primaerquellen der Dogmengeschichte), nicht bloss Kommentatoren. Franz Wieackers Privatrechtsgeschichte der Neuzeit (2. Aufl. 1967) und Helmut Coings Handbuch der Quellen und Literatur der neueren europaeischen Privatrechtsgeschichte (3 Bde., 1973-1988) sind die modernen Standardwerke. Blindzitate (Autor nennen ohne Werk und Stelle) sind unzulaessig.
 
 ## Kernnormen / Kernquellen
 
@@ -55,7 +72,7 @@ Rechtshistorische Sekundaerliteratur darf nicht als Autorenbeweis fuer historisc
 
 ## Output
 
-- Checkliste: Korrekte Zitiertechnik fuer rechtshistorische Literatur
+- Checkliste: Korrekte Zitiertechnik für rechtshistorische Literatur
 - Prioritaetenliste: Wann Primaerquelle, wann Sekundaerliteratur
 - Beispielzitierungen aus Savigny, Jhering, Wieacker, Coing, Mugdan
 

@@ -15,7 +15,7 @@ description: "Grenzgaengerregelung DBA Schweiz Art. 15a mit 60-Tage-Schaedlichke
 
 ## Kernsachverhalt
 
-Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsprotokoll vom 12.03.2002) ist zentrale Anwendungsnorm fuer einen sehr grossen Pendlerkreis aus Suedbaden, Baden-Wuerttemberg und Bayern, die in der Schweiz arbeiten (die in der Tagespresse haeufig zitierte Pendlerzahl ist nicht Bestandteil dieses Skills und gehoert nicht in Mandanten-Memos). Anders als bei Frankreich gibt es keine geographische 20-km-Zone, aber eine 60-Tage-Schaedlichkeit. Bei Erfuellung greift Wohnsitzstaat-Besteuerung mit gleichzeitiger Schweizer Quellensteuer (typischerweise 4,5 Prozent gemaess Art. 15a DBA-Schweiz — Satz aus DBA-Text und ggf. abweichender Konsultationsvereinbarung verifikationspflichtig), die in Deutschland nach § 34c EStG angerechnet wird.
+Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsprotokoll vom 12.03.2002) ist zentrale Anwendungsnorm für einen sehr grossen Pendlerkreis aus Suedbaden, Baden-Wuerttemberg und Bayern, die in der Schweiz arbeiten (die in der Tagespresse haeufig zitierte Pendlerzahl ist nicht Bestandteil dieses Skills und gehoert nicht in Mandanten-Memos). Anders als bei Frankreich gibt es keine geographische 20-km-Zone, aber eine 60-Tage-Schaedlichkeit. Bei Erfuellung greift Wohnsitzstaat-Besteuerung mit gleichzeitiger Schweizer Quellensteuer (typischerweise 4,5 Prozent gemaess Art. 15a DBA-Schweiz — Satz aus DBA-Text und ggf. abweichender Konsultationsvereinbarung verifikationspflichtig), die in Deutschland nach § 34c EStG angerechnet wird.
 
 ## Kaltstart-Rueckfragen
 
@@ -48,7 +48,7 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 - Keine geographische Zone (anders als bei Frankreich).
 
 ### Taetigkeit in der Schweiz
-- Regelmaessiger Arbeitsort in der Schweiz.
+- Regelmäßiger Arbeitsort in der Schweiz.
 
 ### Arbeitstaegliche Rueckkehr
 - Nach jedem Arbeitstag Rueckkehr zum deutschen Wohnsitz.
@@ -119,15 +119,15 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 
 ### Erstattungsverfahren / Verfahren bei CH-Quellensteuer
 
-- **Zustaendigkeit**: Schweizer Quellensteuerbescheinigung wird vom Schweizer Arbeitgeber und der kantonalen Steuerverwaltung ausgestellt. Verrechnungssteuer-Erstattung bei Dividenden durch **Eidgenoessische Steuerverwaltung (ESTV)** in Bern.
+- **Zuständigkeit**: Schweizer Quellensteuerbescheinigung wird vom Schweizer Arbeitgeber und der kantonalen Steuerverwaltung ausgestellt. Verrechnungssteuer-Erstattung bei Dividenden durch **Eidgenoessische Steuerverwaltung (ESTV)** in Bern.
 - **Formulare/Bescheinigungen**:
- - **KAS-Bescheinigung** (Kantonale Ansaessigkeitsbescheinigung Schweiz): das in der Praxis verbreitete Dokument fuer den Nachweis des Schweizer Quellensteuer-Einbehalts (Form 85 / Form 86 je nach Kanton — **konkrete Formularbezeichnungen vom Anwender mit aktuellem Stand auf estv.admin.ch und der kantonalen Steuerverwaltung zu verifizieren**).
+ - **KAS-Bescheinigung** (Kantonale Ansaessigkeitsbescheinigung Schweiz): das in der Praxis verbreitete Dokument für den Nachweis des Schweizer Quellensteuer-Einbehalts (Form 85 / Form 86 je nach Kanton — **konkrete Formularbezeichnungen vom Anwender mit aktuellem Stand auf estv.admin.ch und der kantonalen Steuerverwaltung zu verifizieren**).
  - Bescheinigung Schweizer Arbeitgeber ueber arbeitstaegliche Rueckkehr (Grenzgaengerbescheinigung).
 - **Frist**: Verrechnungssteuer-Erstattung drei Jahre ab Faelligkeit; Quellensteuer-Anrechnung in DE bei der Veranlagung des Jahres.
 - **Online-Portale**:
  - **estv.admin.ch**: Schweizer ESTV.
- - **kantonale Steuerverwaltungen** (z.B. zh.ch/steueramt fuer Zuerich, ag.ch/steueramt fuer Aargau, bs.ch fuer Basel-Stadt) fuer Lohn-Quellensteuer.
- - **bzst.de**: BZSt fuer deutsche Erstattungen.
+ - **kantonale Steuerverwaltungen** (z.B. zh.ch/steueramt für Zuerich, ag.ch/steueramt für Aargau, bs.ch für Basel-Stadt) für Lohn-Quellensteuer.
+ - **bzst.de**: BZSt für deutsche Erstattungen.
 
 ### Lokaler Steuerberater-Kontakt
 
@@ -157,7 +157,7 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 - **Wohnsitz Loerrach + Arbeit Basel**: klassischer 60-Tage-Fall — meist unproblematisch wegen taeglicher Pendelfaehigkeit.
 - **Drittlandsreisen** (z.B. Wartung in Frankreich): jede Uebernachtung ausserhalb DE schaedlich.
 - **Schichtwechsel Spaet/Nacht** mit Schweizer Arbeitgeber: 22-Uhr-Regelung pruefen; Schichtende nach 22 Uhr und unzumutbare Heimkehr — schaedlich.
-- **Doppelhaushalt** (Familienwohnsitz Stuttgart, Zweitwohnung Loerrach fuer Pendelei): Tie-Breaker Art. 4 Familienwohnsitz; Grenzgaengerstatus nur bei einheitlichem DE-Wohnsitz.
+- **Doppelhaushalt** (Familienwohnsitz Stuttgart, Zweitwohnung Loerrach für Pendelei): Tie-Breaker Art. 4 Familienwohnsitz; Grenzgaengerstatus nur bei einheitlichem DE-Wohnsitz.
 - **Anpassung KAS-Bescheinigung**: kantonale Unterschiede — bei Wechsel Zuerich/Aargau/Basel-Stadt jeweils neu beantragen.
 
 ## Berechnungsbeispiel — Grenzgaenger Loerrach-Basel

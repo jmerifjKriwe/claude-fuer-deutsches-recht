@@ -34,7 +34,7 @@ Dieser Skill ordnet die Konstellationen und liefert konkrete Buchungs-Saetze.
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan steht vor Vollzug; Buchhaltung des Schuldners muss die Bilanzfolgen vorbereiten.
-- StB muss die Steuerbilanz fuer das Sanierungsjahr aufstellen.
+- StB muss die Steuerbilanz für das Sanierungsjahr aufstellen.
 - IV oder Sachwalter muss dem Glaeubigerausschuss die wirtschaftlichen Folgen erklaeren.
 
 Kaltstart-Fragen:
@@ -57,7 +57,7 @@ Kaltstart-Fragen:
 - Paragraph 3a EStG — steuerliche Begnadigung des Sanierungsertrags.
 - BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich ueber die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung der Verbindlichkeit — Abgrenzung zum Verzicht.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Forderung und Bilanzposition zuordnen.** Welche Verbindlichkeit der Schuldnerin steht der verzichteten Forderung gegenueber?
 2. **Verzichtsart klaeren.** Endgueltig oder unter Besserungsabrede? Drittglaeubiger oder Gesellschafter?

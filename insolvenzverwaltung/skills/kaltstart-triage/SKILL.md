@@ -123,7 +123,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `iv-arbeitsrecht-insolvenzgeld` | Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende… |
 | `iv-berichte-gericht-glaeubiger` | Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versammlung erstellen. §§ 58 66 79 InsO Berichtspflichten. Prüfraster: Stichtag Massestand Tabelle… |
 | `iv-eigenverwaltung-sachwaltung` | Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Prüfraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung… |
-| `iv-eroeffnungsgutachten` | Eroeffnungsgutachten als Sachverständiger oder vorlaeufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt. §§ 17 18 19 InsO Eroffnungsgründe §§ 26 54 InsO Massekostendeckung. Prüfraster:… |
+| `iv-eroeffnungsgutachten` | Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt. §§ 17 18 19 InsO Eroffnungsgründe §§ 26 54 InsO Massekostendeckung. Prüfraster:… |
 | `iv-forderungsanmeldung-pruefung` | Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. §§ 174 175 176 InsO §§ 38 39 InsO Rang. Prüfraster: Schriftform Beleg Grund Betrag Rang Absonderungsrechte… |
 | `iv-idw-s6-sanierungsfaehigkeit-gate` | Sanierungskonzept auf IDW-S-6-Niveau aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwaltungsperspektive prüfen: Fortbestehensprognose, nachhaltige Sanierungsfähigkeit, Leitbild, Maßnahmen, integrierte Planung, Dokumentation und Go/No-go. |
 | `iv-kommandocenter` | Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle… |
@@ -161,20 +161,20 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `iv-steuern-sozialversicherung` | Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Insolvenzverfahren klassifizieren und bearbeiten. §§ 38 55 InsO Rangklassen §§ 34 35 AO Haftung. Prüfraster: Insolvenzforderung Masseverbindlichkeit… |
 | `iv-tabelle-pruefungstermin` | Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenführung und Widersprueche. Prüfraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund… |
 | `iv-verteilung-schlussrechnung` | Abschlussphase des Insolvenzverfahrens durchführen: Schlussrechnung Schlussbericht Verteilungsverzeichnis Quote Nachtragsverteilung. §§ 196 197 InsO Schlussverteilung §§ 66 67 InsO Schlussrechnung. Prüfraster:… |
-| `iv-vorlaeufige-verwaltung` | Erste Massnahmen als vorlaeufliger Insolvenzverwalter nach § 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb. § 21 InsO Sicherungsmassnahmen § 22 InsO Pflichten des vorl. Verwalters. Prüfraster:… |
+| `iv-vorläufige-verwaltung` | Erste Massnahmen als vorlaeufliger Insolvenzverwalter nach § 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb. § 21 InsO Sicherungsmassnahmen § 22 InsO Pflichten des vorl. Verwalters. Prüfraster:… |
 | `iv-zahlungsklagen-15b` | Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter vorbereiten wenn Zahlungen nach Insolvenzreife erfolgt sind. § 15b InsO §§ 17 19 InsO Insolvenzreife. Prüfraster: Insolvenzreifedatum Zahlungen nach Stichtag… |
 
 ## Worum geht es?
 
 Das Plugin unterstuetzt Insolvenzverwalter, Sachwalter und vorlaeufliger Verwalter bei der vollstaendigen Durchfuehrung von Insolvenzverfahren nach der Insolvenzordnung (InsO) sowie bei Restrukturierungen nach dem StaRUG. Es bildet den gesamten Verfahrenslebenszyklus ab: von der Antragspruefung und dem Eroeffnungsgutachten ueber Betriebsfortfuehrung, Masseeinsammlung, Forderungspruefung, Insolvenzplan und StaRUG-Planwerkstatt bis zur Schlussrechnung und Nachtragsverteilung.
 
-Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enthaelt spezialisierte Bausteine fuer Architektur, darstellenden und gestaltenden Teil, Gruppen- und Klassenbildung, Vergleichsrechnung, Cramdown-Pruefung, Stakeholder-Kommunikation und gerichtliche Schritte.
+Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enthaelt spezialisierte Bausteine für Architektur, darstellenden und gestaltenden Teil, Gruppen- und Klassenbildung, Vergleichsrechnung, Cramdown-Pruefung, Stakeholder-Kommunikation und gerichtliche Schritte.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie wurden als Insolvenzverwalter bestellt und muessen das Verfahren strukturieren, Prioritaeten setzen und erste Massnahmen einleiten.
 - Sie pruefen Anfechtungsansprueche nach §§ 129 ff. InsO und benoetigen einen strukturierten Pruefrahmen mit Fristen und Vergleichspotenzial.
-- Sie erstellen ein Eroeffnungsgutachten fuer das Insolvenzgericht: Zahlungsunfaehigkeit, Ueberschuldung, Massekostendeckung.
+- Sie erstellen ein Eroeffnungsgutachten für das Insolvenzgericht: Zahlungsunfaehigkeit, Ueberschuldung, Massekostendeckung.
 - Sie sollen einen Insolvenzplan oder StaRUG-Restrukturierungsplan vollstaendig aufbauen und vor Einreichung Quality-Gate durchfuehren.
 - Die Verfahrensschlussphase naht: Schlussrechnung, Schlussbericht, Verteilungsverzeichnis und Quote muessen erstellt werden.
 
@@ -188,7 +188,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - **Cramdown** — Gruppenuebergreifende Mehrheitsentscheidung nach § 245 InsO / § 27 StaRUG; Plan kann ueber ablehnende Klassen hinweggesetzt werden.
 - **Vergleichsrechnung** — Gegenueberstellen von Plan-Fall und Liquidationsszenario zur Demonstration des Planmehrwerts.
 - **PSV** — Pensionssicherungsverein; sichert Pensionsansprueche der Arbeitnehmer bei Insolvenz des Arbeitgebers.
-- **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife; Haftung des Geschaeftsleiters fuer nicht privilegierte Zahlungen.
+- **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife; Haftung des Geschaeftsleiters für nicht privilegierte Zahlungen.
 
 ## Rechtsgrundlagen
 
@@ -206,7 +206,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - § 15b InsO — Zahlungsverbote nach Insolvenzreife
 - §§ 3a 3c EStG — Sanierungsgewinn
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Kommandocenter: Verfahrensrolle, Sicherungsmassnahmen, Betriebsfortfuehrung und Masseampel bestimmen.
 2. Aktenanlage und Verfahrenscockpit aufbauen; Beteiligtenregister und Fristenliste anlegen.
@@ -219,17 +219,17 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `iv-aktenanlage-verfahrenscockpit` — Neue Verfahrensakte anlegen und Verfahrenscockpit mit Gliederung, Rollenplan und Fristenliste strukturieren.
 - `iv-anfechtung-129ff` — Insolvenzanfechtungsansprueche nach §§ 129 ff. InsO pruefen und verfolgen.
 - `iv-arbeitsrecht-insolvenzgeld` — Personalthemen in der Insolvenz bearbeiten: Lohnrueckstaende, Insolvenzgeld, Kuendigungen.
-- `iv-berichte-gericht-glaeubiger` — Zwischenberichte und Beschlussvorlagen fuer Insolvenzgericht und Glaeubiger erstellen.
+- `iv-berichte-gericht-glaeubiger` — Zwischenberichte und Beschlussvorlagen für Insolvenzgericht und Glaeubiger erstellen.
 - `iv-eigenverwaltung-sachwaltung` — Sachwalter-Kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO.
-- `iv-eroeffnungsgutachten` — Eroeffnungsgutachten als Sachverstaendiger oder vorlaeufiger Verwalter erstellen.
-- `iv-forderungsanmeldung-pruefung` — Forderungsanmeldungen nach § 174 InsO pruefen und Tabelle fuer Pruefungstermin vorbereiten.
+- `iv-eroeffnungsgutachten` — Eroeffnungsgutachten als Sachverstaendiger oder vorläufiger Verwalter erstellen.
+- `iv-forderungsanmeldung-pruefung` — Forderungsanmeldungen nach § 174 InsO pruefen und Tabelle für Pruefungstermin vorbereiten.
 - `iv-idw-s6-sanierungsfaehigkeit-gate` — Sanierungskonzept und Sanierungsfähigkeit vor Planroute, Schutzschirm oder StaRUG hart plausibilisieren.
 - `iv-kommandocenter` — Einstiegspunkt: Verfahrensart bestimmen, Prioritaeten setzen und Workstreams planen.
 - `iv-masseeinsammlung` — Massepositionen erfassen und realisieren: Bankguthaben, Debitoren, Herausgabeansprueche.
 - `iv-massemehrung-asset-realisation` — Verwertungsstrategie und Massemehrung entwickeln: Werthebel, Anfechtung, Vergleich.
 - `iv-masseunzulaenglichkeit-208` — Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge nach § 208 InsO steuern.
-- `iv-plan-abstimmung-mehrheiten` — Abstimmungsmehrheiten fuer Insolvenzplan und StaRUG-Plan simulieren.
-- `iv-plan-anlagenpaket` — Anlagenpaket fuer Insolvenzplan oder StaRUG-Plan vollstaendig zusammenstellen.
+- `iv-plan-abstimmung-mehrheiten` — Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren.
+- `iv-plan-anlagenpaket` — Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollstaendig zusammenstellen.
 - `iv-plan-cramdown-obstruktion` — Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung pruefen.
 - `iv-plan-darstellender-teil` — Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollstaendig verfassen.
 - `iv-plan-datenraum-register` — Planbegleitenden Datenraum aufbauen und Dokumentenregister fuehren.
@@ -244,7 +244,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `iv-plan-planbetroffene-auswahl` — Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begruenden.
 - `iv-plan-planvollzug-monitoring` — Planvollzug nach Bestaetigung ueberwachen: Zahlungen, Covenants, Abweichungen.
 - `iv-plan-redteam-qualitygate` — Insolvenzplan vor Einreichung hart auf Fehler pruefen aus Sicht opponierender Glaeubiger.
-- `iv-plan-sanierungskonzept` — Sanierungskonzept als wirtschaftliche Grundlage fuer Plan erstellen oder pruefen.
+- `iv-plan-sanierungskonzept` — Sanierungskonzept als wirtschaftliche Grundlage für Plan erstellen oder pruefen.
 - `iv-plan-sicherheiten-drittsicherheiten` — Absonderungsrechte und Drittsicherheiten im Plan planfest behandeln.
 - `iv-plan-stabilisierung-starug` — StaRUG-Stabilisierungsmassnahmen und Vollstreckungssperre beantragen.
 - `iv-plan-stakeholder-kommunikation` — Glaeubiger, Banken, Arbeitnehmer und Gericht zielgruppengerecht informieren.
@@ -259,12 +259,12 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `iv-steuern-sozialversicherung` — Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Verfahren klassifizieren.
 - `iv-tabelle-pruefungstermin` — Insolvenztabelle konsolidieren und Pruefungstermin nach §§ 175 ff. InsO vorbereiten.
 - `iv-verteilung-schlussrechnung` — Abschlussphase: Schlussrechnung, Schlussbericht, Verteilungsverzeichnis und Quote.
-- `iv-vorlaeufige-verwaltung` — Erste Massnahmen als vorlaeufiger Insolvenzverwalter nach § 21 InsO umsetzen.
+- `iv-vorläufige-verwaltung` — Erste Massnahmen als vorläufiger Insolvenzverwalter nach § 21 InsO umsetzen.
 - `iv-zahlungsklagen-15b` — Zahlungsklagen nach § 15b InsO gegen Geschaeftsleiter nach Insolvenzreife vorbereiten.
 
 ## Worauf besonders achten
 
-- **Masseunzulaenglichkeit fruehzeitig pruefen**: Wird sie uebersehen, entstehen Haftungsrisiken fuer den Insolvenzverwalter wegen bevorzugter Befriedigung von Neuglaeubirn.
+- **Masseunzulaenglichkeit fruehzeitig pruefen**: Wird sie uebersehen, entstehen Haftungsrisiken für den Insolvenzverwalter wegen bevorzugter Befriedigung von Neuglaeubirn.
 - **§ 15b InsO-Haftungsrisiken genau datieren**: Das Insolvenzreifdatum bestimmt, welche Zahlungen angreifbar sind; ungenaue Datierung gefaehrdet den Klagerfolg.
 - **Gruppen- und Klassenbildung sorgfaeltig**: Fehlerhafte Gruppenbildung ist ein haeufiger Versagungsgrund bei der Planbestaetigung nach § 231 InsO.
 - **StaRUG setzt drohende Zahlungsunfaehigkeit voraus**: Bei eingetretener Zahlungsunfaehigkeit muss Insolvenzantrag gestellt werden; StaRUG ist dann nicht mehr anwendbar.
@@ -283,7 +283,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `zwangsverwaltung-zvg` — Bei Immobilien in der Insolvenzmasse; Absonderungsrechte und ZVG-Schnittstelle.
 - `bav-strategie-konzern` — PSV-Haftung und bAV-Folgen bei Insolvenz des Arbeitgebers.
 - `tabellenreview-3d` — Massenpruefung von Forderungsanmeldungen im 3D-Review.
-- `kanzlei-allgemein` — Kanzlei-Workflow-Plugin fuer Fristen und Schriftsaetze in Insolvenzverfahren.
+- `kanzlei-allgemein` — Kanzlei-Workflow-Plugin für Fristen und Schriftsaetze in Insolvenzverfahren.
 
 ## Quellen und Aktualitaet
 

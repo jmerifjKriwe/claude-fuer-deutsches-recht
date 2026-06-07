@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -116,7 +116,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - **Art. 14, 15 MAR** — Insiderhandelsverbot; Marktmanipulation; Expert der Insiderinfos hat darf diese nicht weitergeben; Kaeufer darf keine Insiderinfos intentional bekommen
 - **§ 17 UWG** — Geschaeftsgeheimnis des Zielunternehmens; ehemaliger Mitarbeiter darf keine Geheimnisse offenbaren
-- **Art. 6 I DSGVO** — Rechtsgrundlage fuer Aufnahme und Verarbeitung von Expert-Call-Gespraechen
+- **Art. 6 I DSGVO** — Rechtsgrundlage für Aufnahme und Verarbeitung von Expert-Call-Gespraechen
 - **§ 201 StGB** — Verletzung der Vertraulichkeit des Wortes; Aufnahme ohne Einwilligung verboten in Deutschland
 
 ## Aktuelle Rechtsprechung
@@ -130,8 +130,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Vor dem Call:
 1. Expert-NDA abschliessen (oder Expert-Network-Protokoll verwenden)
-2. Expert auf Insider-Pflichten hinweisen: keine nicht-oeffentlichen Informationen zur Zielgesellschaft
-3. Einwilligung fuer Aufnahme/Transkription einholen (§ 201 StGB)
+2. Expert auf Insider-Pflichten hinweisen: keine nicht-öffentlichen Informationen zur Zielgesellschaft
+3. Einwilligung für Aufnahme/Transkription einholen (§ 201 StGB)
 4. Vorbereitung: Fragen-Katalog; Themen-Grenzen definieren
 
 Waehrend des Calls:
@@ -144,7 +144,7 @@ Nach dem Call:
 9. Insider-Check: Enthaelt Transkript potenziell Insider-Informationen? → Compliance
 10. Findings extrahieren und in DD-Report einarbeiten
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Expert identifizieren** — via Expert-Network (GLG, Guidepoint, Glenbrook) oder eigenes Netzwerk
 2. **Compliance-Vorpruefung** — aktuelle Insider-Status pruefen; ex-Mitarbeiter: § 17 UWG-Abgrenzung

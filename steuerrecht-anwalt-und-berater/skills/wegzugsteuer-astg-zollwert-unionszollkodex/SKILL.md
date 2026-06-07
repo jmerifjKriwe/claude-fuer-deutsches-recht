@@ -32,7 +32,7 @@ Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 E
 3. Ist Stundung in sieben gleichen Jahresraten gegen Sicherheitsleistung beantragbar?
 4. Ist Rueckkehr binnen sieben Jahren beabsichtigt — Rueckabwicklung nach § 6 Abs. 3 AStG moeglich?
 5. Greift DBA-Anrechnung oder Erstattung bei tatsaechlicher Veraeusserung im Zielstaat?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

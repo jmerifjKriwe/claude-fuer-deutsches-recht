@@ -12,9 +12,9 @@ description: "Gerichtliche Nachforderung Gerichtlicher im Plugin Verbraucherinso
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `gerichtliche-nachforderung` | Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.; Normanker: InsO § 305; ZPO-Fristen analog über InsO § 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `gerichtlicher-schuldenbereinigungsplan` | Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.; Normanker: InsO §§ 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `glaeubiger-mit-sicherheiten` | Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.; Normanker: InsO §§ 47 und 49 ff.; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `gerichtliche-nachforderung` | Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.; Normanker: InsO § 305; ZPO-Fristen analog über InsO § 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `gerichtlicher-schuldenbereinigungsplan` | Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.; Normanker: InsO §§ 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `glaeubiger-mit-sicherheiten` | Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.; Normanker: InsO §§ 47 und 49 ff.; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Gerichtliche Nachforderung Gerichtlicher im Plugin Verbraucherinso
 
 ## 1. `gerichtliche-nachforderung`
 
-**Fokus:** Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.; Normanker: InsO § 305; ZPO-Fristen analog über InsO § 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.; Normanker: InsO § 305; ZPO-Fristen analog über InsO § 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.
 
@@ -66,7 +66,7 @@ InsO § 305; ZPO-Fristen analog über InsO § 4. Entscheidend ist immer der aktu
 
 ## 2. `gerichtlicher-schuldenbereinigungsplan`
 
-**Fokus:** Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.; Normanker: InsO §§ 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.; Normanker: InsO §§ 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.
 
@@ -105,7 +105,7 @@ InsO §§ 307-309. Entscheidend ist immer der aktuelle Normstand der InsO, die a
 
 ## 3. `glaeubiger-mit-sicherheiten`
 
-**Fokus:** Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.; Normanker: InsO §§ 47 und 49 ff.; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.; Normanker: InsO §§ 47 und 49 ff.; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.
 

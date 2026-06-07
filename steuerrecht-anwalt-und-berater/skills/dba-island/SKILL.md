@@ -90,7 +90,7 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 - **Erstattungsverfahren IS → DE-Mandant**: Antrag bei Skatturinn (Islaendische Steuerverwaltung); Online-Portal "skattur.is" (vom Anwender mit aktuellem Stand des islaendischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der Skatturinn als Anlage. Bearbeitungsdauer in der Praxis langwierig.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Islaendisch. Englische Arbeitsfassungen kursieren — nicht authentisch. Schwierigkeit: Islaendisch ist juristisch hochspezialisiert; Uebersetzungen oft nicht eindeutig.
 - **Lokaler Berater**: Bei islaendischer ehf. (Einkahlutafélag, GmbH-Aequivalent) oder Geothermie-/Aluminium-Beteiligung zwingend lokalen islaendischen Berater hinzuziehen; IS hat sehr kleines Marktumfeld und spezifische Rechtskultur.
-- **Apostille**: nicht erforderlich zwischen EWR-Mitgliedstaaten fuer Standard-Steuerdokumente; bei Notarurkunden Apostille (Haager Uebereinkommen) erforderlich.
+- **Apostille**: nicht erforderlich zwischen EWR-Mitgliedstaaten für Standard-Steuerdokumente; bei Notarurkunden Apostille (Haager Uebereinkommen) erforderlich.
 
 ## Edge Cases und Was-Pruefer-Triggert
 
@@ -121,7 +121,7 @@ Deutscher Investor haelt 30 Prozent an islaendischer Geothermie-AG (ehf.); Divid
 - DE-Resteuer: 5.687,50 EUR.
 - Gesamtbelastung: 13.187,50 EUR (kein Anrechnungsverlust).
 
-Achtung: IS-Sonderabgaben fuer Touristen, Umwelt-, Energie- und kommunale Abgaben sind keine Einkommensteuer und nicht anrechnungsfaehig.
+Achtung: IS-Sonderabgaben für Touristen, Umwelt-, Energie- und kommunale Abgaben sind keine Einkommensteuer und nicht anrechnungsfaehig.
 
 ## Mandatsablauf in der Praxis
 
@@ -131,9 +131,9 @@ Achtung: IS-Sonderabgaben fuer Touristen, Umwelt-, Energie- und kommunale Abgabe
 4. **Laufende Compliance**: IS-Erklaerung jaehrlich (kleine Verwaltung, langsam); DE-Erklaerung mit Anrechnung.
 5. **Audit-Vorbereitung**: IS-Pruefer marktbedingt selten; DE-FA-Pruefung Anrechnung und MLI-Anwendung.
 
-## Ausgabeformat fuer Mandanten-Memo Island
+## Ausgabeformat für Mandanten-Memo Island
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Fischerei, Geothermie/Aluminium, Tourismus, Wegzug), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, EWR-Status, Wegzugsbesteuerung.

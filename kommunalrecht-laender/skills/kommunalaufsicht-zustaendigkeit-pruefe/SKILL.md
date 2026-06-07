@@ -3,11 +3,11 @@ name: kommunalaufsicht-zustaendigkeit-pruefe
 description: "der Länder: Kommunalaufsicht: Zuständigkeit prüfen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Kommunalaufsicht Zustaendigkeit Pruefe
+# Kommunalaufsicht Zuständigkeit Pruefe
 
 ## Arbeitsbereich
 
-Spezialthema **Kommunalaufsicht Zustaendigkeit Pruefe** im Kommunalrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Kommunalaufsicht Zuständigkeit Pruefe** im Kommunalrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Kommunalaufsicht Zustaendigkeit Pruefe** im Kommunalrecht. Der Sk
 
 ## Arbeitsauftrag
 
-Kommunalaufsicht Zustaendigkeit Pruefe wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Kommunalrecht der Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Kommunalaufsicht Zuständigkeit Pruefe wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Kommunalrecht der Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 
@@ -27,8 +27,22 @@ Kommunalaufsicht Zustaendigkeit Pruefe wird nicht als abstraktes Schema beantwor
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
+- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
+- `§ 40 VwVfG` — Ermessensausübung.
+- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live pruefen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht pruefen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
 - Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
 - Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen

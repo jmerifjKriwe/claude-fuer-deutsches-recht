@@ -19,7 +19,7 @@ Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder R
 
 ## Triage zu Beginn — klaere zuerst
 
-1. Wer ist Mandant: oeffentlicher Trager, Investor, Anlieger, Verband oder Bürgerinitiative?
+1. Wer ist Mandant: öffentlicher Trager, Investor, Anlieger, Verband oder Bürgerinitiative?
 2. Welche Planungsstufe: informelle Konzeption, Ratsvorlage, Bauleitplanung oder Planfeststellung?
 3. Gibt es eine UVP-Pflicht (Anlage 1 UVPG, § 5 UVPG)?
 4. Welche Fristen gelten: Auslegungsfrist, Einwendungsfrist, Ratsbeschluss?
@@ -29,7 +29,7 @@ Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder R
 ## Zentrale Normen
 
 - § 45 StVO — Anordnungsbefugnis und Ermessen der Strassenverkehrsbehoerde
-- § 1 FStrG — Widmung Bundesfernstrassen; Strassenrecht der Laender (z.B. StrWG NRW)
+- § 1 FStrG — Widmung Bundesfernstrassen; Strassenrecht der Länder (z.B. StrWG NRW)
 - §§ 1-5 BauGB — Bauleitplanung, Abwaegungsgebot, Entwicklungsgebot
 - § 214 BauGB — beachtliche Verfahrensfehler im Bauleitplanverfahren
 - § 15 ROG — Raumordnungsverfahren bei raumbedeutsamen Massnahmen
@@ -44,7 +44,7 @@ Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder R
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Projekttyp bestimmen:** informelle Planung, Bauleitplanung (FNP/B-Plan) oder Planfeststellung (§ 74 VwVfG)
 2. **UVP-Screening:** Anlage 1 UVPG pruefen; ggf. allgemeine Vorpruefung (§ 7 UVPG) veranlassen

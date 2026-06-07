@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-7b-debt-equity
-description: "Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zustaendigkeit Stadtkasse/Finanzamt. Mustertext fuer Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zuständigkeit Stadtkasse/Finanzamt. Mustertext für Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack
 
 ## Arbeitsbereich
 
-Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zustaendigkeit Stadtkasse/Finanzamt. Mustertext fuer Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zuständigkeit Stadtkasse/Finanzamt. Mustertext für Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -51,28 +51,28 @@ Kaltstart-Fragen:
 - Paragraph 36 Absatz 2c GewStG — Anwendungs- und Uebergangsregeln.
 - Paragraph 10a GewStG — gewerbesteuerlicher Verlustvortrag.
 - Paragraph 16 GewStG — Hebesatz der Gemeinde.
-- Paragraph 18 GewStG — Festsetzungszustaendigkeit.
+- Paragraph 18 GewStG — Festsetzungszuständigkeit.
 - Paragraph 184 AO — Gewerbesteuermessbetrag.
 - Paragraph 3a EStG — Spiegelbild im EStG.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Gewerbesteuerliche Verlustvortraege ermitteln.** Paragraph 10a GewStG-Vortrag ist eigenstaendig.
 2. **Sanierungsertrag identifizieren.** Identitaet mit dem KSt-/ESt-Sanierungsertrag, aber u. U. abweichend wegen GewSt-Korrekturen Paragraph 8 ff. GewStG.
 3. **Verrechnungsreihenfolge nach Paragraph 7b GewStG aufstellen.** Mechanisch aehnlich wie Paragraph 3a Absatz 3 EStG, aber mit gewerbesteuerlichem Verlustvortrag.
 4. **Restsanierungsertrag berechnen.**
 5. **Antrag** in der Gewerbesteuererklaerung des Sanierungsjahres.
-6. **Gemeinde einbeziehen.** Die Gemeinde ist fuer den Hebesatz zustaendig; das Finanzamt erlaesst den Messbetragsbescheid (Paragraph 184 AO), die Gemeinde den Hebebescheid (Paragraph 16 GewStG).
-7. **Sonderpunkt:** Stundung Paragraph 222 AO bzw. Erlass Paragraph 227 AO laufen bei der Gemeinde, weil die Festsetzungs- und Erhebungszustaendigkeit aufgeteilt ist.
+6. **Gemeinde einbeziehen.** Die Gemeinde ist für den Hebesatz zuständig; das Finanzamt erlaesst den Messbetragsbescheid (Paragraph 184 AO), die Gemeinde den Hebebescheid (Paragraph 16 GewStG).
+7. **Sonderpunkt:** Stundung Paragraph 222 AO bzw. Erlass Paragraph 227 AO laufen bei der Gemeinde, weil die Festsetzungs- und Erhebungszuständigkeit aufgeteilt ist.
 
 ## Trade-off-Matrix
 
 | Aspekt | KSt/ESt-Schiene Paragraph 3a EStG | GewSt-Schiene Paragraph 7b GewStG |
 |---|---|---|
-| Zustaendige Behoerde | Wohnsitz-/Betriebssitz-Finanzamt | Finanzamt fuer Messbetrag, Gemeinde fuer Hebesatz |
+| Zustaendige Behörde | Wohnsitz-/Betriebssitz-Finanzamt | Finanzamt für Messbetrag, Gemeinde für Hebesatz |
 | Verlustvortrag | KSt-Vortrag (Paragraph 10d EStG) | GewSt-Vortrag (Paragraph 10a GewStG) |
 | Antrag | mit Steuererklaerung Sanierungsjahr | mit GewSt-Erklaerung Sanierungsjahr |
-| Stundung / Erlass | Paragraphen 222, 227 AO | Paragraphen 222, 227 AO; bei Stundung Hebesteuer Zustaendigkeit Gemeinde |
+| Stundung / Erlass | Paragraphen 222, 227 AO | Paragraphen 222, 227 AO; bei Stundung Hebesteuer Zuständigkeit Gemeinde |
 | Mindestbesteuerung | Paragraph 10d Absatz 2 EStG; verdraengt durch Paragraph 3a Absatz 3 EStG | Paragraph 10a Satz 2 GewStG; ggf. analog |
 | Vier Voraussetzungen | Paragraph 3a Absatz 2 EStG | Paragraph 7b Absatz 1 GewStG (parallel) |
 
@@ -111,7 +111,7 @@ Hebesatz 460 % EUR 579.600
 => Ersparnis bei erfolgreichem Antrag: ca. EUR 580 Tsd. (allein GewSt).
 ```
 
-**Antrag Geruest fuer die Gewerbesteuererklaerung Sanierungsjahr:**
+**Antrag Geruest für die Gewerbesteuererklaerung Sanierungsjahr:**
 
 ```
 An das Finanzamt [Ort]
@@ -156,7 +156,7 @@ GewStG vom [Datum]]
 
 1. Antrag Paragraph 7b GewStG vergessen — KSt-Schiene laeuft, GewSt-Schiene nicht.
 2. Hebesatz-Risiko ignoriert.
-3. Zustaendigkeit zwischen Finanzamt und Gemeinde verwechselt.
+3. Zuständigkeit zwischen Finanzamt und Gemeinde verwechselt.
 4. GewSt-Verlustvortrag mit KSt-Verlustvortrag verwechselt.
 5. Zerlegungsbescheid (Paragraphen 28 ff. GewStG) bei mehreren Betriebsstaetten uebersehen.
 6. Stundungsantrag fehlt — Gemeinde vollstreckt sofort.

@@ -167,7 +167,7 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 8. Ist eine negative Feststellungsklage als Alternative zur Abgabe der Erklärung sinnvoller?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -463,7 +463,7 @@ Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
 
 **Fokus:** Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills.
 
-# Fachanwalt fuer Urheber- und Medienrecht — Orientierung
+# Fachanwalt für Urheber- und Medienrecht — Orientierung
 
 ## Triage: Welches Sachgebiet?
 
@@ -521,7 +521,7 @@ KI-Training und Text-Data-Mining?
 
 | Mandatstyp | Erstschritte | Frist |
 |------------|-------------|-------|
-| Urheberrechtsverletzung aktiv | Verletzungsnachweis, Abmahnung | Verjaehrung 3 Jahre § 195 BGB |
+| Urheberrechtsverletzung aktiv | Verletzungsnachweis, Abmahnung | Verjährung 3 Jahre § 195 BGB |
 | Filesharing-Abmahnung passiv | Abmahnung pruefen, § 97a Abs. 3 UrhG | Reaktionsfrist 7-14 Tage |
 | Persoenlichkeitsrechtsverletzung | Einstweilige Verfuegung vorbereiten | 4 Wochen Selbstwiderlegung |
 | Gegendarstellung | LPG-Frist pruefen, Verlangen verfassen | 2-3 Monate ab Kenntnis |
@@ -536,7 +536,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - [ ] Gegendarstellung: 2-3 Monate ab Kenntnis (LPG)
 - [ ] Einstweilige Verfuegung: 4 Wochen Selbstwiderlegung
 - [ ] Widerspruch gegen einstweilige Verfuegung: 14 Tage (§ 924 ZPO)
-- [ ] Verjaehrung Urheberrecht: 3 Jahre (§§ 195, 199 BGB; § 102 UrhG)
+- [ ] Verjährung Urheberrecht: 3 Jahre (§§ 195, 199 BGB; § 102 UrhG)
 
 ## Uebergabe
 

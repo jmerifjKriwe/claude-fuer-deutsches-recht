@@ -42,7 +42,7 @@ ALR I 5: Vertraege allgemein — Form und Auslegung.
 ## Subsumtionsbeispiel: Mietzettel 1850
 
 Schriftlicher Mietzettel zwischen Hausbesitzer und Magd.
-- **ALR**: Schriftform fuer Gesindemietvertrag erforderlich; Mietzettel beweismittel.
+- **ALR**: Schriftform für Gesindemietvertrag erforderlich; Mietzettel beweismittel.
 - **BGB**: § 535 BGB Formfreiheit; bei Wohnraummietvertrag aber Schriftform sinnvoll.
 
 ## Heutige Fortwirkung

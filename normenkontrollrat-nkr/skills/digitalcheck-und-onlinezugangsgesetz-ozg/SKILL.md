@@ -1,13 +1,13 @@
 ---
 name: digitalcheck-und-onlinezugangsgesetz-ozg
-description: "Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG fuer Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen fuer die Stellungnahme."
+description: "Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG für Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen für die Stellungnahme."
 ---
 
 # NKR-Digitalcheck und Onlinezugangsgesetz (OZG)
 
 ## Worum geht es konkret
 
-Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Laender, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI / NKR; gesetzliche Grundlage § 4 Abs. 3 NKRG, ab dem **1. Januar 2023 anzuwenden** gemaess § 9 NKRG) prueft, ob Bundesregelungsvorhaben digital praktikabel sind. Beide Instrumente sind zentral fuer die NKR-Pruefung von Vorhaben mit digitalen Bezuegen.
+Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Länder, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI / NKR; gesetzliche Grundlage § 4 Abs. 3 NKRG, ab dem **1. Januar 2023 anzuwenden** gemaess § 9 NKRG) prueft, ob Bundesregelungsvorhaben digital praktikabel sind. Beide Instrumente sind zentral für die NKR-Pruefung von Vorhaben mit digitalen Bezuegen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -32,7 +32,7 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 ## OZG-Grundbegriffe
 
 - **OZG-Leistung**: digitalisierbare Verwaltungsleistung im OZG-Katalog
-- **Portalverbund**: technische Vernetzung der Verwaltungsportale Bund und Laender
+- **Portalverbund**: technische Vernetzung der Verwaltungsportale Bund und Länder
 - **Nutzerkonto Bund / Mein Unternehmenskonto** als Authentifizierung
 - **Servicekonto / EUDI-Wallet** als Identifizierungsmittel (in Entwicklung)
 - **Once-Only**: Daten werden nur einmal erhoben, mehrfach genutzt
@@ -45,7 +45,7 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 4. Klare, maschinenlesbare Regelungen
 5. Automatisierung ermoeglichen
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. OZG-Bezug pruefen
 

@@ -119,7 +119,7 @@ flowchart TD
  ClassShares_spaeter --> Satzung_Modul[Satzung-Modul triggern]
  GenehmigtesKapital_jetzt --> Satzung_Modul
 
- SHA_Modul --> Vesting{Vesting fuer Gruender?}
+ SHA_Modul --> Vesting{Vesting für Gruender?}
  Vesting -->|Ja| VestingKlausel[Vesting-Klausel SHA]
  Vesting -->|Nein| Stoppschild_Vesting[Warnung: Bad-Leaver-Risiko]
 
@@ -143,8 +143,8 @@ flowchart TD
  SV_pflichtig --> Statusfeststellung
 
  Statusfeststellung --> HR_Anmeldung[Handelsregister-Anmeldung]
- HR_Anmeldung --> Behoerden[Gewerbe Finanzamt IHK BG TraFinG]
- Behoerden --> Compliance[Erste 100 Tage GF-Pflichten]
+ HR_Anmeldung --> Behörden[Gewerbe Finanzamt IHK BG TraFinG]
+ Behörden --> Compliance[Erste 100 Tage GF-Pflichten]
  Compliance --> Ende([Operatives Geschaeft])
 ```
 
@@ -164,7 +164,7 @@ flowchart TD
 
  LiqPref --> Q3{Participating oder non-participating?}
  Q3 -->|non-participating| LiqPref_NP[Beste Praxis bei Tech-Startup]
- Q3 -->|participating| LiqPref_Warnung[WARNUNG: Bei mittelmaessigem Exit Vorteil Investor erheblich]
+ Q3 -->|participating| LiqPref_Warnung[WARNUNG: Bei mittelmäßigem Exit Vorteil Investor erheblich]
 
  AntiDil --> Q4{Methode?}
  Q4 -->|Weighted Average broad-based| AntiDil_WA[Standard empfohlen]
@@ -434,7 +434,7 @@ flowchart TD
  "warning_if": [
  {
  "condition": "investor_planned_within_12_months == true",
- "message": "Bei absehbarem Investor empfohlen, schon jetzt Class-Shares oder genehmigtes Kapital fuer Class B vorzusehen"
+ "message": "Bei absehbarem Investor empfohlen, schon jetzt Class-Shares oder genehmigtes Kapital für Class B vorzusehen"
  }
  ]
  },

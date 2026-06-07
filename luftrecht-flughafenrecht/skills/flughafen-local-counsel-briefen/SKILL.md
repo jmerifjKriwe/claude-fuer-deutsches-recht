@@ -1,13 +1,13 @@
 ---
 name: flughafen-local-counsel-briefen
-description: "Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flughafen-Mandat briefen: Planfeststellung Sicherheitsauflage oder Insolvenz. Skill erstellt englisches Briefing-Memo mit deutschem Planfeststellungsrecht LuftSiG LuftVG und konkreten Fragen an Local Counsel im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsches Kanzleiteam muss auslaendischen Anwalt für Flughafen-Mandat briefen: Planfeststellung Sicherheitsauflage oder Insolvenz. Skill erstellt englisches Briefing-Memo mit deutschem Planfeststellungsrecht LuftSiG LuftVG und konkreten Fragen an Local Counsel im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flughafen – Local Counsel briefen
 
 ## Arbeitsbereich
 
-Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flughafen-Mandat briefen: Planfeststellung Sicherheitsauflage oder Insolvenz. Skill erstellt englisches Briefing-Memo mit deutschem Planfeststellungsrecht LuftSiG LuftVG und konkreten Fragen an Local Counsel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsches Kanzleiteam muss auslaendischen Anwalt für Flughafen-Mandat briefen: Planfeststellung Sicherheitsauflage oder Insolvenz. Skill erstellt englisches Briefing-Memo mit deutschem Planfeststellungsrecht LuftSiG LuftVG und konkreten Fragen an Local Counsel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

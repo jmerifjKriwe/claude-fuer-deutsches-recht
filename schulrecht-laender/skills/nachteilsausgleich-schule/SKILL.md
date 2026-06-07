@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-schule
-description: "Prüft Nachteilsausgleich in Unterricht und Prüfungen im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nachteilsausgleich in Unterricht und Prüfungen im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nachteilsausgleich Schule

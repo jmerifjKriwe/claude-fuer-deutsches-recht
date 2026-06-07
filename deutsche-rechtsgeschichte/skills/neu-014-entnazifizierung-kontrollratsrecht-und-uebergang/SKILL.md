@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und 
 
 Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,11 +36,11 @@ Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang. Die
 
 ## Aufgabe
 
-Skill fuer die Entnazifizierung 1945-1949 und das alliierte Kontrollratsrecht.
+Skill für die Entnazifizierung 1945-1949 und das alliierte Kontrollratsrecht.
 
 ## Kontrollratsgesetze
 
-- **Kontrollrat fuer Deutschland** (4 Maechte: USA UK Frankreich Sowjetunion).
+- **Kontrollrat für Deutschland** (4 Maechte: USA UK Frankreich Sowjetunion).
 - Wichtige Gesetze:
  - **Kontrollratsgesetz Nr. 1 vom 20.09.1945**: Aufhebung nationalsozialistischer Gesetze.
  - **Kontrollratsgesetz Nr. 4**: Reorganisation des Justizwesens.

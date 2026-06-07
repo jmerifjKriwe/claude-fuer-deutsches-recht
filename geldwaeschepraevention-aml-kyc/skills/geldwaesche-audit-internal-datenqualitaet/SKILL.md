@@ -23,7 +23,7 @@ Interne Revision und Audit der AML/KYC-Kontrollen nach GwG. Anwendungsfall Compl
 3. Welche Aufsichtsbehoerde und welche Berichtspflichten bestehen (BaFin, Staatsanwaltschaft, AMLA)?
 4. Welcher Zeitraum und welche Stichprobenmenge sollen erfasst werden?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen

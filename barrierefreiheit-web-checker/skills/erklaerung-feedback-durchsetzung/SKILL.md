@@ -58,7 +58,7 @@ Vielen Dank für den Hinweis. Wir haben die gemeldete Barriere unter der Vorgang
 - Nutzerwirkung.
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
-- Prioritaet und Nachweis fuer die Dokumentation.
+- Prioritaet und Nachweis für die Dokumentation.
 
 ## Qualitäts-Hardening
 

@@ -47,7 +47,7 @@ Eingang einer Forderungssache ohne saubere Aktenstruktur fuehrt zwei Wochen spae
 
 ## Einsichtsanspruch BGB 810
 
-Mandantin kann von Dritten Einsicht in Urkunden verlangen die in ihrem Interesse errichtet wurden oder ein Rechtsverhaeltnis dokumentieren. Bei Werkvertraegen wichtig fuer Massenermittlung.
+Mandantin kann von Dritten Einsicht in Urkunden verlangen die in ihrem Interesse errichtet wurden oder ein Rechtsverhaeltnis dokumentieren. Bei Werkvertraegen wichtig für Massenermittlung.
 
 ## Vorlagepflicht im Prozess
 

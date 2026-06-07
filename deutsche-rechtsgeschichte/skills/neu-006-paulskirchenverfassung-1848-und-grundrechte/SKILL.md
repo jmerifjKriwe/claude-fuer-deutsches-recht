@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundre
 
 Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte. Die Prü
 
 ## Aufgabe
 
-Skill fuer die Paulskirchenverfassung 1848/49 und ihre Bedeutung als Vorlaeuferin moderner deutscher Grundrechte.
+Skill für die Paulskirchenverfassung 1848/49 und ihre Bedeutung als Vorlaeuferin moderner deutscher Grundrechte.
 
 ## Historische Lage
 
@@ -50,7 +67,7 @@ Skill fuer die Paulskirchenverfassung 1848/49 und ihre Bedeutung als Vorlaeuferi
 
 ## Fortwirkung
 
-- Verfassungsidee bleibt — Vorbild fuer:
+- Verfassungsidee bleibt — Vorbild für:
  - Preussische Verfassung 1850.
  - Reichsverfassung 1871 (nur teilweise).
  - **Weimarer Reichsverfassung 11.08.1919** — viele Grundrechte uebernommen.

@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-pressepolitik-jahresbericht
-description: "Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen fuer Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation."
+description: "Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen für Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation."
 ---
 
 # NKR-Stellungnahme — Pressepolitik und Jahresbericht
@@ -33,7 +33,7 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 - Bilanz der Stellungnahmen
 - Themenschwerpunkte
 - Empfehlungen
-- meist oeffentliche Vorstellung mit Pressemitteilung
+- meist öffentliche Vorstellung mit Pressemitteilung
 
 ### Einzelne Pressemitteilung
 
@@ -48,11 +48,11 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 - vor Erscheinen einer wichtigen Stellungnahme
 - vorbereitend / einordnend
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Wann Pressemitteilung
 
-- Stellungnahme adressiert ein Vorhaben mit hoher oeffentlicher Relevanz
+- Stellungnahme adressiert ein Vorhaben mit hoher öffentlicher Relevanz
 - Erfuellungsaufwand > 100 Mio EUR p.a.
 - Politisch / medial heisses Thema
 - Wiederholungsmahnung wesentlich
@@ -84,7 +84,7 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 - Personalisierung
 - Spekulationen
 - Politische Bewertung des Vorhabens
-- Bezug auf andere Anhoerungsgaeste oder Gutachter
+- Bezug auf andere Anhörungsgaeste oder Gutachter
 - Vertrauliche Daten aus Ressortakte
 
 ## Trade-off-Matrix
@@ -103,9 +103,9 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 
 > **NKR mahnt Ueberarbeitung des Gesetzes zur elektronischen Erreichbarkeit von Handelsregister-Gesellschaften an**
 >
-> Berlin, [Datum]. Der Nationale Normenkontrollrat (NKR) hat zum Entwurf des Bundesministeriums der Justiz fuer ein Gesetz zur Verbesserung der elektronischen Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften Stellung genommen. Der NKR begruesst die Zielsetzung des Vorhabens, da die elektronische Erreichbarkeit Verfahren beschleunigt und Justizkosten reduziert. Allerdings hat der NKR substantielle Bedenken zur konkreten Ausgestaltung.
+> Berlin, [Datum]. Der Nationale Normenkontrollrat (NKR) hat zum Entwurf des Bundesministeriums der Justiz für ein Gesetz zur Verbesserung der elektronischen Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften Stellung genommen. Der NKR begruesst die Zielsetzung des Vorhabens, da die elektronische Erreichbarkeit Verfahren beschleunigt und Justizkosten reduziert. Allerdings hat der NKR substantielle Bedenken zur konkreten Ausgestaltung.
 >
-> Der ausgewiesene jaehrliche Erfuellungsaufwand fuer die Wirtschaft betraegt rund 320 Mio Euro. Wesentlicher Treiber ist die monatliche Lebensbescheid-Pflicht fuer rund 1,8 Mio Gesellschaften. Eine jaehrliche Bestaetigung mit ereignisorientierter Nachmeldung wuerde den Erfuellungsaufwand auf rund 80 Mio Euro reduzieren.
+> Der ausgewiesene jaehrliche Erfuellungsaufwand für die Wirtschaft betraegt rund 320 Mio Euro. Wesentlicher Treiber ist die monatliche Lebensbescheid-Pflicht für rund 1,8 Mio Gesellschaften. Eine jaehrliche Bestaetigung mit ereignisorientierter Nachmeldung wuerde den Erfuellungsaufwand auf rund 80 Mio Euro reduzieren.
 >
 > Der NKR empfiehlt ausserdem eine zentrale Loesung ueber das Handelsregistergericht (Once-Only-Prinzip), den Verzicht auf parallele technische Standards und die Aufnahme einer Evaluationsklausel mit Frist drei Jahre.
 >

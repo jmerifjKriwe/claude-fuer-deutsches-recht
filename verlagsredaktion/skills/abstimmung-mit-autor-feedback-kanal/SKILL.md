@@ -19,7 +19,7 @@ Strukturiert die laufende Kommunikation mit Autorin: Kanal Frequenz Dokumentatio
 
 ## Worum geht es konkret
 
-Die Beziehung zwischen Verlag und Autorin laeuft ueber einen kontinuierlichen Kommunikationskanal: Manuskripteingang, Lektoratsrueckmeldungen, Korrekturfahnen, Freigabe, Marketing-Abstimmung, Honorarabrechnung. Ohne saubere Kanalfuehrung entstehen Konflikte, Zuverlaessigkeitsverlust und im Schlimmsten Fall Manuskript-Abbruch. Dieser Skill ist die Vorlage fuer die strukturierte Autorenkommunikation.
+Die Beziehung zwischen Verlag und Autorin laeuft ueber einen kontinuierlichen Kommunikationskanal: Manuskripteingang, Lektoratsrueckmeldungen, Korrekturfahnen, Freigabe, Marketing-Abstimmung, Honorarabrechnung. Ohne saubere Kanalfuehrung entstehen Konflikte, Zuverlaessigkeitsverlust und im Schlimmsten Fall Manuskript-Abbruch. Dieser Skill ist die Vorlage für die strukturierte Autorenkommunikation.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -37,9 +37,9 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 - Heftplan / Buchprojektplan.
 - Ggf. Konflikt-Dokumentation.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
-1. **Kanal festlegen.** E-Mail als Primaerkanal (dokumentierbar), Telefon fuer komplexe Klaerungen, Termin fuer strategische Themen.
+1. **Kanal festlegen.** E-Mail als Primaerkanal (dokumentierbar), Telefon für komplexe Klaerungen, Termin für strategische Themen.
 2. **Frequenz.** Bei aktiver Manuskriptbearbeitung mindestens monatlicher Statusaustausch; bei Druckphase woechentlich.
 3. **Dokumentation.** Jedes wichtige Telefonat in einer Notiz festhalten und an Autorin als "Aktennotiz" mailen. So entsteht beidseitige Dokumentation.
 4. **Eskalationswege.** Bei Konflikten: zunaechst direkte Klaerung; dann Schriftleitung; dann Verlagsleitung. Niemals von vorneherein eskalieren.
@@ -67,7 +67,7 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 
 **Status-Mail (monatlich):**
 
-> Sehr geehrte Frau Dr. Mueller, kurzer Status zu Ihrem Beitrag "[Titel]" fuer NJW 14/2026:
+> Sehr geehrte Frau Dr. Mueller, kurzer Status zu Ihrem Beitrag "[Titel]" für NJW 14/2026:
 >
 > 1. Manuskripteingang: 02.06.2026, Versionsstand v1
 > 2. Format-Check: abgeschlossen am 05.06.2026, 3 Stops zurueckgespielt
@@ -81,7 +81,7 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 
 **Aktennotiz nach Telefonat (Mail an Autorin):**
 
-> Sehr geehrte Frau Dr. Mueller, vielen Dank fuer das Telefonat heute (12.06.2026, 14:30-14:55). Wir halten fest:
+> Sehr geehrte Frau Dr. Mueller, vielen Dank für das Telefonat heute (12.06.2026, 14:30-14:55). Wir halten fest:
 >
 > 1. Sie liefern die korrigierte Fassung statt 19.06. nun am 26.06.2026.
 > 2. Die Fussnote 17 ergaenzen Sie mit Az. zur Schlussantraege C-...../25.
@@ -91,7 +91,7 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 
 **Lieferverzug-Klaerung:**
 
-> Sehr geehrter Herr Professor Schmidt, am 19.06.2026 ist die Abgabefrist fuer Ihren Beitrag "[Titel]" zur Festschrift fuer Y verstrichen. Wir bitten um kurze Rueckmeldung zum Stand und um Vorschlag einer Ersatzfrist (max. 4 Wochen). Sollten Sie das Manuskript nicht mehr beitragen koennen, bitte ebenfalls Mitteilung, damit wir die Festschriftplanung anpassen koennen. Bei Rueckfragen ...
+> Sehr geehrter Herr Professor Schmidt, am 19.06.2026 ist die Abgabefrist für Ihren Beitrag "[Titel]" zur Festschrift für Y verstrichen. Wir bitten um kurze Rueckmeldung zum Stand und um Vorschlag einer Ersatzfrist (max. 4 Wochen). Sollten Sie das Manuskript nicht mehr beitragen koennen, bitte ebenfalls Mitteilung, damit wir die Festschriftplanung anpassen koennen. Bei Rueckfragen ...
 
 ## Typische Fehler / Pitfalls
 
@@ -106,7 +106,7 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 - `verl-redaktionelle-rueckmeldung-formulieren` - Stil von Rueckmeldungen.
 - `autorenkommunikation-email` - generelle Autoren-E-Mail.
 - `honorar-vertrag-royalties-triage` - Honorar-Triage.
-- `verl-jourfix-vorbereiten-protokoll` - regelmaessige Sitzungen.
+- `verl-jourfix-vorbereiten-protokoll` - regelmäßige Sitzungen.
 - `workflow-fristen-und-risikoampel` - bei Verzug.
 
 ## Quellen Stand 06/2026
@@ -116,4 +116,4 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 - UrhG §§ 31 ff. zu Nutzungsrechten.
 - DSGVO bei personenbezogenen Daten in der Kommunikation.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.

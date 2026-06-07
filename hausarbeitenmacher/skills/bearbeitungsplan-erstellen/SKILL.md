@@ -21,7 +21,7 @@ Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche
 1. Welche Art von Hausarbeit (GuP, Anfänger, Fortgeschrittene, Examen, Seminar) mit welchem Seitenumfang?
 2. Wie viele Wochen bis zur Abgabe — und gibt es Meilensteine (Gliederungs-Abgabe, Zwischengespräch)?
 3. Welche Bibliotheksressourcen stehen zur Verfügung (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, physische Kommentare)?
-4. Gibt es persoenliche Kapazitaetseinschraenkungen (Nebenjob, Pflege, Krankheit)?
+4. Gibt es persönliche Kapazitaetseinschraenkungen (Nebenjob, Pflege, Krankheit)?
 
 ## Aktuelle Rechtsprechung und Methodik
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

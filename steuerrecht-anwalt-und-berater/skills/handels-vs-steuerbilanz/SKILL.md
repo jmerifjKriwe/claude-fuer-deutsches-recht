@@ -1,6 +1,6 @@
 ---
 name: handels-vs-steuerbilanz
-description: "Pruefung der Massgeblichkeit der Handelsbilanz fuer die Steuerbilanz nach § 5 EStG sowie der Durchbrechungen durch steuerliche Sondervorschriften. Anwendungsfall Mandant hat in der Handelsbilanz Wahlrechte ausgeuebt und es ist zu klaeren ob und wie die Steuerbilanz folgt. Behandelt formelle und materielle Massgeblichkeit Bewertungsvorbehalte § 5 Abs. 6 EStG und Verzeichnis nach § 5 Abs. 1 S. 3 EStG. Output Pruefraster und Differenzliste. Abgrenzung zu fa-stu-bilanzberichtigung-4-abs-2-estg."
+description: "Pruefung der Massgeblichkeit der Handelsbilanz für die Steuerbilanz nach § 5 EStG sowie der Durchbrechungen durch steuerliche Sondervorschriften. Anwendungsfall Mandant hat in der Handelsbilanz Wahlrechte ausgeuebt und es ist zu klaeren ob und wie die Steuerbilanz folgt. Behandelt formelle und materielle Massgeblichkeit Bewertungsvorbehalte § 5 Abs. 6 EStG und Verzeichnis nach § 5 Abs. 1 S. 3 EStG. Output Pruefraster und Differenzliste. Abgrenzung zu fa-stu-bilanzberichtigung-4-abs-2-estg."
 ---
 
 # Massgeblichkeit Handelsbilanz zur Steuerbilanz — § 5 EStG und Abweichungen
@@ -18,7 +18,7 @@ description: "Pruefung der Massgeblichkeit der Handelsbilanz fuer die Steuerbila
 3. Wurde das Verzeichnis nach § 5 Abs. 1 S. 3 EStG ordnungsgemaess gefuehrt?
 4. Gibt es steuerliche Sonderregelungen (§ 6b § 7g EStG)?
 5. Sind latente Steuern handelsbilanziell korrekt erfasst?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

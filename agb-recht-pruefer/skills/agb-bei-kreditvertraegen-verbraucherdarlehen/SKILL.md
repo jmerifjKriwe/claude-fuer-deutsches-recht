@@ -21,7 +21,7 @@ description: "AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kon
 ## Bearbeitungsgebuehr
 
 - BGH XI ZR 405/12 (13.05.2014): Bearbeitungsentgelt bei Verbraucherdarlehen ist AGB-rechtlich unwirksam.
-- Folge: Massenhafte Rueckforderungen; Verjaehrung typischerweise 31.12. des dritten Folgejahres ab Kenntnis.
+- Folge: Massenhafte Rueckforderungen; Verjährung typischerweise 31.12. des dritten Folgejahres ab Kenntnis.
 
 ## Restschuldversicherung
 
@@ -48,6 +48,6 @@ description: "AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kon
 
 ## Output
 
-- Rueckforderungsanspruch-Memo.
+- Rückforderungsanspruch-Memo.
 - Klauselraster.
-- Verjaehrungspruefung.
+- Verjährungspruefung.

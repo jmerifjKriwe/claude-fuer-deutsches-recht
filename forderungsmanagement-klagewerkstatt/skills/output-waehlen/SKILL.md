@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Bestimmt fuer einen Forderungsfall das passende Ausgabeprodukt aussergerichtliche Mahnung Mahnbescheidsantrag Klageschrift Vollstreckungsauftrag Aktenvermerk oder Vergleichsentwurf. Beruecksichtigt Mandantenziel Kostenrisiko Eilbeduerftigkeit und Beweislage. Pinpoints ZPO 690 Antragsinhalt ZPO 253 Klageinhalt BGB 779 Vergleich. Liefert Format und Mindestbestandteile."
+description: "Bestimmt für einen Forderungsfall das passende Ausgabeprodukt aussergerichtliche Mahnung Mahnbescheidsantrag Klageschrift Vollstreckungsauftrag Aktenvermerk oder Vergleichsentwurf. Beruecksichtigt Mandantenziel Kostenrisiko Eilbeduerftigkeit und Beweislage. Pinpoints ZPO 690 Antragsinhalt ZPO 253 Klageinhalt BGB 779 Vergleich. Liefert Format und Mindestbestandteile."
 ---
 
 # Output waehlen
@@ -23,7 +23,7 @@ Nicht jede Forderungsakte braucht eine Klage. Dieser Skill waehlt das passende P
 
 ## Entscheidungslogik
 
-1. Eilbeduerftigkeit Verjaehrung naht in unter sechzig Tagen Mahnbescheid oder Klage sofort
+1. Eilbeduerftigkeit Verjährung naht in unter sechzig Tagen Mahnbescheid oder Klage sofort
 2. Beweislage stark Urkundenprozess pruefen
 3. Schuldner zahlungsbereit aber liquide schwach Vergleich mit Vollstreckungsunterwerfung ZPO 794 Abs. 1 Nr. 5
 4. Schuldner schweigt nach zwei Mahnungen Mahnbescheid

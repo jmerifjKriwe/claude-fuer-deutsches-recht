@@ -19,7 +19,7 @@ Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhal
 
 ## Triage zu Beginn
 
-1. **Ist eine Verstaendigung im Strafbefehlsverfahren sinnvoll?** — Strafbefehlsverfahren ist ungeeignet fuer komplexe Deals; einfacher: § 153a-Antrag oder direkter Strafmass-Einspruch mit Gestaendnis.
+1. **Ist eine Verstaendigung im Strafbefehlsverfahren sinnvoll?** — Strafbefehlsverfahren ist ungeeignet für komplexe Deals; einfacher: § 153a-Antrag oder direkter Strafmass-Einspruch mit Gestaendnis.
 2. **Liegt Gestaendnisbereitschaft des Mandanten vor?** — Verstaendigung setzt nach BGH ein Gestaendnis voraus (§ 257c Abs. 2 StPO).
 3. **Was ist das Ziel?** — Geldstrafe statt Bewaehrungsstrafe? Fahrverbot-Vermeidung? Einstellung nach § 153a? Klares Ziel formulieren.
 4. **Ist die Staatsanwaltschaft kontaktierbar?** — Fruehzeitige informelle Sondierung vor foermlicher Verstaendigungsanfrage ist zulaessig.
@@ -54,7 +54,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | § 257c StPO | Schweres Delikt, Hauptverhandlung notwendig | Strafmass-Sicherheit, Verfahrensabkuerzung |
 | § 46a StGB + Gestaendnis | Geschaedigter vorhanden, Wiedergutmachung moeglich | Erhebliche Strafmilderung, kann Bewaehrung ermoeglichen |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Zieldefinition mit Mandant:** Was soll das Ergebnis sein? (Strafmass, Fahrverbot, Eintrag)
 2. **Informelle Sondierung:** Staatsanwalt telefonisch kontaktieren — Einstellungsbereitschaft testen.

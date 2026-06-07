@@ -1,13 +1,13 @@
 ---
 name: cl-prozesskostenrisiko-each-party-bears-own
-description: "Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster fuer Mandanten-Risikoanalyse im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster für Mandanten-Risikoanalyse im Common Law Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Common Law: Each-party-bears-own
 
 ## Arbeitsbereich
 
-Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster fuer Mandanten-Risikoanalyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster für Mandanten-Risikoanalyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,13 +21,13 @@ Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grund
 Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute.
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Kostenregime im Vergleich
 
@@ -40,8 +40,8 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 ## Pruefraster Mandanten-Risikoanalyse
 
-1. **Forum bestimmen** — wo wird das Gericht zustaendig sein? Welche Kostenregel gilt dort?
-2. **Streitwert / amount in controversy** — bei US-Gerichten Bundeszustaendigkeit ab 75.000 USD diversity (28 U.S.C. § 1332).
+1. **Forum bestimmen** — wo wird das Gericht zuständig sein? Welche Kostenregel gilt dort?
+2. **Streitwert / amount in controversy** — bei US-Gerichten Bundeszuständigkeit ab 75.000 USD diversity (28 U.S.C. § 1332).
 3. **Anwaltskosten schaetzen** — US-Stundensaetze typischer Partner 600 bis 1.500 USD; Discovery-Kosten kalkulieren.
 4. **Vertragliche Fee-Shifting-Klausel** pruefen: "prevailing party shall be entitled to recover reasonable attorneys' fees and costs".
 5. **Drittfinanzierung** — Litigation Funding ist in den USA verbreitet; in DE seit BGH zulaessig, aber RDG-Grenzen.
@@ -51,7 +51,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 - **"Loser-pays-Trugschluss"** im US-Verfahren: deutsche Mandanten erwarten, im Erfolgsfall Kosten erstattet zu bekommen — das ist die seltene Ausnahme.
 - **Discovery-Kosten** koennen in den USA das Hauptkostenrisiko sein (E-Discovery, depositions), nicht Anwaltskosten.
-- **Class actions / collective actions:** asymmetrisches Kostenrisiko fuer Beklagten.
+- **Class actions / collective actions:** asymmetrisches Kostenrisiko für Beklagten.
 - **Anti-suit injunctions** — UK-Gerichte koennen Vollstreckung in DE behindern; in der EU vor Brexit unzulaessig (West Tankers).
 - **Pre-action protocols** UK Civil Procedure Rules: vor Klage bestimmte Schritte einhalten, sonst Kostenstrafe.
 
@@ -72,7 +72,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

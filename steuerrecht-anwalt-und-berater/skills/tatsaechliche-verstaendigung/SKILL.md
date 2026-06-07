@@ -14,11 +14,11 @@ description: "Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Fina
 ## Triage — kläre vor der Bearbeitung
 
 1. Geht es um Tatsachen die nicht weiter aufklaerbar sind — sonst keine tatsaechliche Verstaendigung zulaessig?
-2. Wer ist auf Behoerdenseite zustaendig (Sachgebietsleiter oder Vorsteher)?
+2. Wer ist auf Behördenseite zuständig (Sachgebietsleiter oder Vorsteher)?
 3. Ist die Mandantenposition rechtlich durchsetzbar oder Schaetzungsrisiko hoch?
 4. Soll die Verstaendigung mit oder ohne Vorbehalt der Nachpruefung getroffen werden?
 5. Welche Folgewirkung auf USt EStG GewSt KSt und auf Folgejahre wird vereinbart?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

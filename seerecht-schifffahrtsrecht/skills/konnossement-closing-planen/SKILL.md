@@ -24,7 +24,7 @@ Der Kauf eines Konnossements-Transaktion (Bill of Lading) soll abgeschlossen wer
 1. Ablosebetraege aller Hypothekenglaeubiger anfordern; Stichtag abstimmen.
 2. Loeschungsbewilligungen (SchRG § 19) beschaffen; zeitlich koordinieren.
 3. Escrow-Konto einrichten: Kaufpreis gegen Loeschungsbestaetigung.
-4. Eigentumsuebergang (SchRG § 2) und Hypothekenloesung gleichzeitig fuer Konnossements-Transaktion (Bill of Lading).
+4. Eigentumsuebergang (SchRG § 2) und Hypothekenloesung gleichzeitig für Konnossements-Transaktion (Bill of Lading).
 5. Zertifikate (Klasse; ISM; MLC; ISPS) auf neuen Eigentuemer ummelden.
 6. Registerauszug nach Closing beschaffen; Closing-Memo erstellen.
 
@@ -34,9 +34,9 @@ Der Kauf eines Konnossements-Transaktion (Bill of Lading) soll abgeschlossen wer
 ## Prüfraster
 - Sind alle Loeschungsbewilligungen zeitlich koordiniert?
 - Ist der Escrow-Mechanismus wasserdicht gegen Insolvenz des Verkaeufers?
-- Sind alle Zertifikate fuer Konnossements-Transaktion (Bill of Lading) auf neuen Eigentuemer vorbereitet?
+- Sind alle Zertifikate für Konnossements-Transaktion (Bill of Lading) auf neuen Eigentuemer vorbereitet?
 - Ist der Flaggenwechsel (wenn vorgesehen) vorbereitet?
-- Ist die Vollmacht fuer den Registerantrag aktuell?
+- Ist die Vollmacht für den Registerantrag aktuell?
 
 ## Typische Fallstricke
 - Zahlung ohne simultane Loeschung: Hypothek bleibt trotz Zahlung eingetragen.

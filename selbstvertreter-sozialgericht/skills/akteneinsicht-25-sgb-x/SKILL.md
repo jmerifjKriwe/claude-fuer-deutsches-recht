@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-25-sgb-x
-description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschaeftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage."
+description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage."
 ---
 
 # Akteneinsicht 25 Sgb X
@@ -19,22 +19,22 @@ description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wan
 
 - Akten zur Vorbereitung der Entscheidung (Entwurfsakten): teilweise gesperrt.
 - Persoenliche Verhaeltnisse Dritter.
-- Geschaeftsgeheimnisse Dritter.
+- Geschäftsgeheimnisse Dritter.
 - Schwerwiegende Belange Dritter.
 
 ## Wann beantragen
 
-- Sofort nach Anhoerung oder Widerspruchseinlegung.
+- Sofort nach Anhörung oder Widerspruchseinlegung.
 - Im laufenden Antragsverfahren ueberall moeglich.
 
 ## Wo beantragen
 
-- Bei der Behoerde die die Akte fuehrt (Jobcenter, Krankenkasse, Rentenversicherung, Pflegekasse, Versorgungsamt, BG, Familienkasse).
+- Bei der Behörde die die Akte fuehrt (Jobcenter, Krankenkasse, Rentenversicherung, Pflegekasse, Versorgungsamt, BG, Familienkasse).
 - Form: schriftlich oder elektronisch.
 
 ## Vorgang
 
-- Behoerde gewaehrt Einsicht in den Diensträumen.
+- Behörde gewaehrt Einsicht in den Diensträumen.
 - Auf Antrag oft auch Kopie / Scan zugesandt — gegen Kostenpauschale.
 
 ## Verhaeltnis zur DSGVO

@@ -41,7 +41,7 @@ Nach Erlangung eines Titels die richtige Vollstreckungsstrategie waehlen. Erfolg
 
 | Schritt | Inhalt |
 |---|---|
-| Auftrag | beim zustaendigen GV (Wohnsitz Schuldner) |
+| Auftrag | beim zuständigen GV (Wohnsitz Schuldner) |
 | Auftragsformular | DGVZ amtliches Formular |
 | GV-Besuch | Pfaendung gegen Quittung, Versteigerung |
 | Unpfaendbare Sachen | § 811 ZPO (Haushalt, Werkzeug, Religioes etc.) |
@@ -59,7 +59,7 @@ Zustellung an Bank (Drittschuldner) ->
 Zustellung an Schuldner -> Wirksamkeit
 ```
 
-P-Konto-Schutz § 850k ZPO: ab 2025 Grundfreibetrag ca. 1.560 EUR netto monatlich, Erhoehungen fuer Unterhaltspflicht.
+P-Konto-Schutz § 850k ZPO: ab 2025 Grundfreibetrag ca. 1.560 EUR netto monatlich, Erhoehungen für Unterhaltspflicht.
 
 ### Lohnpfaendung
 
@@ -102,7 +102,7 @@ Zwangshypothek nur bei Forderungen ueber 750 EUR (§ 866 Abs. 3 ZPO).
 ## Schuldnerverzeichnis § 882b ZPO
 
 - Zentral elektronisch beim AG bzw. zentraler Stelle.
-- Online abrufbar fuer Glaeubiger.
+- Online abrufbar für Glaeubiger.
 - Aufbewahrung: 3 Jahre.
 - Bonitaetsrelevant.
 

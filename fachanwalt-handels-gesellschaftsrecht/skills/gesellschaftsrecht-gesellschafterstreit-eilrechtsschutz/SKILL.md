@@ -47,7 +47,7 @@ description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels 
 6. Wurde bei der AG Widerspruch zur Niederschrift erklärt (§ 245 Nr. 1 AktG)?
 7. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 8. Liegt ein wichtiger Grund für Ausschluss eines Mitgesellschafters vor (Treuepflichtverletzung, strafrechtliches Verhalten, Zerrüttung)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -336,7 +336,7 @@ Praktische Richtwert: EUR 15.000–250.000 je nach Bedeutung des Beschlusses.
 6. Liegt ein Ausschlussgrund vor — Eigenkündigung ohne wichtigen Grund, Kündigung des Unternehmers aus schuldhaftem Verhalten des Handelsvertreters, Übernahme durch Dritten mit Vereinbarung?
 7. Handelt es sich ggf. um einen Vertragshändler oder Franchisenehmer (analoge Anwendung § 89b HGB)?
 8. Welche Sogwirkung hat die Marke des Unternehmers gehabt — stark oder schwach — relevant für Billigkeitskorrektur?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -648,7 +648,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 - Üblich-akzeptables Risiko
 - Beispiel: kleinere Marken-Klagen
-- Beispiel: routinemaessige Steuer-Veranlagungen
+- Beispiel: routinemäßige Steuer-Veranlagungen
 
 ## 4) Materialitaets-Schwellen
 
@@ -743,7 +743,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 ### Verzogenheit
 
-- Verjaehrung Garantien: 18-36 Monate
+- Verjährung Garantien: 18-36 Monate
 - Steuer-Garantien: 7 Jahre (Steuerverjaehrung)
 
 ## 9) Kaufpreis-Anpassung
@@ -766,7 +766,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 2. **Materialitaet nicht beziffert** — Garantie-Schwellen nicht greifbar
 3. **Knowledge-Qualifier ignoriert** — Verkaeufer entzieht sich Haftung
 4. **CP-Erfüllung nicht überwacht** — Closing verschoben
-5. **Verjaehrungs-Frist falsch verhandelt** — Garantie nicht greifbar
+5. **Verjährungs-Frist falsch verhandelt** — Garantie nicht greifbar
 
 ## 11) Reporting-Templates
 

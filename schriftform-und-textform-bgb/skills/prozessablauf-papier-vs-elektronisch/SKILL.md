@@ -230,4 +230,4 @@ von [Name Überbringer] folgendes Dokument erhalten zu haben:
 - → `dokumentations-und-beweisarchitektur`
 - → `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
 - → `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`
-- → `form-checker-fuer-vertrag-oder-willenserklaerung`
+- → `form-checker-für-vertrag-oder-willenserklaerung`

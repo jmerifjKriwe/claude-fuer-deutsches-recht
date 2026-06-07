@@ -1,6 +1,6 @@
 ---
 name: bwa-mandantengespraech-uebergabe
-description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste."
+description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persönliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste."
 ---
 
 # BWA-Uebergabegespraech mit dem Mandanten
@@ -13,7 +13,7 @@ description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenli
 
 ## Kernsachverhalt
 
-Die schriftliche BWA mit Erlaeuterungstext ist das eine; das Gespraech mit dem Mandanten das andere. Bei wesentlichen Abweichungen, bei Krisensignalen und bei strategischen Entscheidungen ist das persoenliche oder zumindest telefonische Gespraech der Standard. Der Steuerberater bereitet sich vor, fuehrt das Gespraech strukturiert, dokumentiert die Ergebnisse und vereinbart Folgemassnahmen. Das Gespraech ist auch Haftungsschutz: was muendlich besprochen wurde, ist in der Gespraechsnotiz festzuhalten.
+Die schriftliche BWA mit Erlaeuterungstext ist das eine; das Gespraech mit dem Mandanten das andere. Bei wesentlichen Abweichungen, bei Krisensignalen und bei strategischen Entscheidungen ist das persönliche oder zumindest telefonische Gespraech der Standard. Der Steuerberater bereitet sich vor, fuehrt das Gespraech strukturiert, dokumentiert die Ergebnisse und vereinbart Folgemassnahmen. Das Gespraech ist auch Haftungsschutz: was muendlich besprochen wurde, ist in der Gespraechsnotiz festzuhalten.
 
 ## Kaltstart-Rueckfragen
 
@@ -123,13 +123,13 @@ ANSCHLUSS-TERMIN: [Datum]
 ## Output
 
 - Gespraechsnotiz mit Massnahmenliste.
-- Wiedervorlage-Eintrag fuer Folgetermin.
+- Wiedervorlage-Eintrag für Folgetermin.
 - Ggf. Warnschreiben § 102 StaRUG.
 
 ## Strategie und Praxis-Tipps
 
 - Quartalsgespraech als Standard mit allen wichtigen Mandanten — staerkste Mandantenbindung.
-- Bei Krisensignalen: persoenliches Gespraech nicht durch E-Mail ersetzen.
+- Bei Krisensignalen: persönliches Gespraech nicht durch E-Mail ersetzen.
 - Gespraechsnotiz ist Haftungsschutz — was schriftlich dokumentiert ist, gilt.
 - StBVV: Gespraech als Zusatzleistung; Pauschalvereinbarung mit Gespraechs-Kontingent moeglich.
 - Bei wiederholten Krisensignalen ohne Reaktion: Mandatsniederlegung § 627 BGB pruefen, mit anwaltlicher Begleitung.

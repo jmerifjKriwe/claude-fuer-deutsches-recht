@@ -79,7 +79,7 @@ Der Vermieter muss im Kündigungsschreiben auf das Widerspruchsrecht hinweisen (
 
 - **BGH 14.12.2016, VIII ZR 232/15**: Bei Vortaeuschung des Eigenbedarfs haftet der Vermieter dem gekuendigten Mieter auf Schadensersatz nach §§ 280 Abs. 1, 311a Abs. 2 BGB; ersatzfaehig sind Umzugskosten, Maklerkosten, Mehrkosten neuer Mietwohnung und ggf. Anwaltskosten. Quelle: dejure.org/2016,46126 / NJW 2017, 1474.
 - **BGH 10.05.2017, VIII ZR 292/15**: Wegfall des Eigenbedarfs nach Ausspruch der Kuendigung — Vermieter muss den Mieter unverzueglich informieren, sonst Schadensersatzpflicht. Quelle: dejure.org/2017,15097.
-- **BGH 27.06.2007, VIII ZR 271/06**: Eigenbedarf einer GbR (Aussengesellschaft) — Eigenbedarf kann fuer die Gesellschafter geltend gemacht werden, sofern die GbR Vermieter ist und der Gesellschafter Eigenbedarf hat. Quelle: dejure.org / NJW 2007, 2845.
+- **BGH 27.06.2007, VIII ZR 271/06**: Eigenbedarf einer GbR (Aussengesellschaft) — Eigenbedarf kann für die Gesellschafter geltend gemacht werden, sofern die GbR Vermieter ist und der Gesellschafter Eigenbedarf hat. Quelle: dejure.org / NJW 2007, 2845.
 
 ### Schritt 7 — Formale Anforderungen (§ 568 Abs. 1 BGB)
 

@@ -139,6 +139,6 @@ Halluzinations-Reparatur task_198 (3 Probleme):
  und freier/amtlicher Quelle in die Ausgabe übernehmen.
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  explizites AZ-Zitat vorhanden; AZ existiert (BGH 25.03.2021), betrifft aber
- Nutzungsentgelt fuer bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
+ Nutzungsentgelt für bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
  kein Handlungsbedarf im Text, da AZ dort nicht vorkommt.
 -->

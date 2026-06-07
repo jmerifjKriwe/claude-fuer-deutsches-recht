@@ -21,8 +21,21 @@ Vergleich mit Versicherern: Abfindungserklärung, Erledigungsklausel, Nachschäd
 
 Der Skill verhindert, dass ein schneller Vergleich spätere Ansprüche ungewollt abschneidet.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 VVG` — Versicherungsvertrag.
+- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
+- `§ 28 VVG` — Obliegenheitsverletzung.
+- `§ 86 VVG` — Legalzession.
+- `§ 100 VVG` — Haftpflichtversicherung.
+- `§ 115 VVG` — Direktanspruch.
+- `§ 193 VVG` — Krankenversicherungspflicht.
+- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
+- `§ 294 VAG` — Missstandsaufsicht.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 BGB §§ 779, 133, 157; VVG; ZPO; RVG; Steuerrecht als Hinweis.
 
 ## Arbeitsfragen

@@ -24,7 +24,7 @@ Gewohnheitsrecht war im mittelalterlichen und fruehneuzeitlichen Recht die Haupt
 ## Kernnormen / Kernquellen
 
 - **HGB § 346**: Handelsbrauch als Auslegungsmittel und Rechtsquelle
-- **BGB § 242**: Treu und Glauben, Einfallstor fuer gewohnheitsrechtliche Grundsaetze
+- **BGB § 242**: Treu und Glauben, Einfallstor für gewohnheitsrechtliche Grundsaetze
 - **EinfGBGB Art. 2 (alt)**: Nichtkodifiziertes Recht; Gewohnheitsrecht blieb zulaessig
 - **Georg Friedrich Puchta**: Das Gewohnheitsrecht, 2 Bde. (1828/1837) als dogmenhistorische Grundquelle
 - **Savigny**: System des heutigen Roemischen Rechts Bd. I, §§ 11-29 (1840)
@@ -38,7 +38,7 @@ Gewohnheitsrecht war im mittelalterlichen und fruehneuzeitlichen Recht die Haupt
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. Kann Gewohnheitsrecht GG-Normen derogieren? (h.M.: nein fuer Verfassungsrecht)
+1. Kann Gewohnheitsrecht GG-Normen derogieren? (h.M.: nein für Verfassungsrecht)
 2. Handelsbräuche HGB § 346: Wie wird Beweis der Uebung gefuehrt?
 3. Savigny-Puchta: Ist Volksgeist als Quelle des Gewohnheitsrechts noch haltbar?
 4. Richterrecht als Gewohnheitsrecht? Wenn BGH-Rspr. stabile Regeln schafft?

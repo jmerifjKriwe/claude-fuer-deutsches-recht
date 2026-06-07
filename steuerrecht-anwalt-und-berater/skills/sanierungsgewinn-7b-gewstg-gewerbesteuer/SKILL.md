@@ -157,7 +157,7 @@ Gewerbeverlust verbraucht
 - `stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust`
 - `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
 - `stb-sanierungsgewinn-betriebsstaette-und-international`
-- `stb-sanierungsgewinn-zustaendigkeiten-fa-betriebspruefung`
+- `stb-sanierungsgewinn-zuständigkeiten-fa-betriebspruefung`
 
 ## Quellen Stand 06/2026
 

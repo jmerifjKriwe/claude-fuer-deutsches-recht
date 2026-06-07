@@ -13,7 +13,7 @@ description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartal
 
 ## Kernsachverhalt
 
-Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tatsaechlich gebuchten Werte und zeigt Abweichungen. Er ist Voraussetzung fuer professionelles Controlling und wird besonders bei groesseren Mandanten, Bankreporting und Sanierungsmandaten erwartet. Der Steuerberater leitet den Mandanten beim Aufstellen des Plans an und integriert die Werte in das DATEV/Addison-System.
+Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tatsaechlich gebuchten Werte und zeigt Abweichungen. Er ist Voraussetzung für professionelles Controlling und wird besonders bei groesseren Mandanten, Bankreporting und Sanierungsmandaten erwartet. Der Steuerberater leitet den Mandanten beim Aufstellen des Plans an und integriert die Werte in das DATEV/Addison-System.
 
 ## Kaltstart-Rueckfragen
 
@@ -21,7 +21,7 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 2. Detailgrad des Plans — Jahres-Plan, Quartals-Plan, Monats-Plan?
 3. Welche Position muss geplant werden — nur Umsatz und EBIT, oder gesamte GuV?
 4. Welche Annahmen gelten — Preise, Mengen, Tarife, Personalentwicklung?
-5. Liegen historische Daten fuer Plausibilitaet vor (mindestens 12 Monate)?
+5. Liegen historische Daten für Plausibilitaet vor (mindestens 12 Monate)?
 6. Reportingzweck — interne Steuerung, Bankgespraech, Investorenreport, Konzernreporting?
 7. Wie oft wird der Plan ueberarbeitet (rollierend, Quartal, Jahr)?
 8. Wer ist Plan-Verantwortlicher beim Mandanten (GF, kfm. Leitung, externer Berater)?
@@ -99,7 +99,7 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 - Plan-Ist macht nur Sinn, wenn der Plan ernsthaft erarbeitet wurde — sonst wird der Vergleich Spielerei.
 - Mindestens Quartalsweise Planrevision; rollierende Forecasts (Quartal + 4-Quartals-Horizont) sind heute Standard.
 - Bei sanierungsbeduerftigen Mandanten: Plan ist Pflichtbestandteil der Fortbestehensprognose nach § 19 InsO und IDW S 6.
-- Honorar fuer Plan-Erstellung gesondert vereinbaren — die Buchfuehrungspauschale deckt das nicht ab.
+- Honorar für Plan-Erstellung gesondert vereinbaren — die Buchfuehrungspauschale deckt das nicht ab.
 - Bei wesentlichen Abweichungen: Mandantengespraech terminieren, nicht nur per E-Mail kommunizieren.
 - DATEV-Tipp: Plan-Stammdaten zentral pflegen, damit die BWA automatisch Plan-Spalten ausweist.
 

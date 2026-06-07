@@ -99,8 +99,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
-## Verkehrsrechts-Behoerden / Gerichts / Register Bausteine
-- **Behoerden-Triade:**
+## Verkehrsrechts-Behörden / Gerichts / Register Bausteine
+- **Behörden-Triade:**
  - **Bussgeldstelle (zentrale OWi-Verfahrensbehoerde des Bundeslands):** § 65 OWiG; Bescheidserlass; Einspruchsbearbeitung; Abgabe an StA bei Strafbefehl-Antrag.
  - **Staatsanwaltschaft:** Verkehrsstrafsachen; § 152 StPO Anklageerhebung.
  - **Fahrerlaubnisstelle (Landratsamt / Buergeramt):** §§ 3 StVG, 46 FeV Entziehung; Wiedererteilung § 20 FeV; MPU-Anordnung §§ 11, 13, 14 FeV.
@@ -173,8 +173,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Sofort-Massnahmen:**
  - Unfallregulierung: Schadenanzeige, SV-Gutachten beauftragen (eigener SV bei klarer Haftung), Werkstatt einleiten.
  - OWi: Akteneinsicht § 49 OWiG; Schweigerecht § 55 OWiG.
- - Strafrecht: Verteidigerbestellung § 137 StPO; Schweigerecht § 136 StPO; bei vorlaeufiger Entziehung Fuehrerschein § 111a StPO Beschwerde.
- - FeV: Anhoerungstermin wahrnehmen; ggf. Stellungnahme einreichen.
+ - Strafrecht: Verteidigerbestellung § 137 StPO; Schweigerecht § 136 StPO; bei vorläufiger Entziehung Fuehrerschein § 111a StPO Beschwerde.
+ - FeV: Anhörungstermin wahrnehmen; ggf. Stellungnahme einreichen.
 - **Frist-Re-Check:** § 195 BGB / § 199 BGB Schaden; § 67 OWiG 2 Wochen; § 410 StPO 2 Wochen; § 314 StPO 1 Woche; § 30 VVG unverzueglich; § 25 IIa StVG 4-Monatsfrist Fahrverbot.
 - **Rechtsschutzversicherungs-Deckungsanfrage** sofort (RS-Versicherer informieren; Wartezeit pruefen).
-- **Mandatsmatrix erstellen:** mit Mandantenfreigabe schriftlich fuer alle weiteren Schritte (Strategie, Vergleich, Klage, Einspruch, Verzicht).
+- **Mandatsmatrix erstellen:** mit Mandantenfreigabe schriftlich für alle weiteren Schritte (Strategie, Vergleich, Klage, Einspruch, Verzicht).

@@ -15,7 +15,7 @@ description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BE
 
 ## Kernsachverhalt
 
-Die Betriebsstaette ist der Aufhaenger fuer das Besteuerungsrecht am Unternehmensgewinn (Art. 7 MA). Ihre Reichweite wurde durch BEPS Aktion 7 und das MLI deutlich erweitert: Vertreterbetriebsstaette wird auch durch Provisionsmodelle und Marktmittler ausgeloest; Hilfs- und Vorbereitungstaetigkeiten muessen "vom Charakter her" Vorbereitungs- bzw. Hilfstaetigkeit sein; Anti-Fragmentierungsregelungen verhindern Aufsplittung. Dieser Skill prueft, ob Betriebsstaette vorliegt und welche Gewinne ihr zuzurechnen sind.
+Die Betriebsstaette ist der Aufhaenger für das Besteuerungsrecht am Unternehmensgewinn (Art. 7 MA). Ihre Reichweite wurde durch BEPS Aktion 7 und das MLI deutlich erweitert: Vertreterbetriebsstaette wird auch durch Provisionsmodelle und Marktmittler ausgeloest; Hilfs- und Vorbereitungstaetigkeiten muessen "vom Charakter her" Vorbereitungs- bzw. Hilfstaetigkeit sein; Anti-Fragmentierungsregelungen verhindern Aufsplittung. Dieser Skill prueft, ob Betriebsstaette vorliegt und welche Gewinne ihr zuzurechnen sind.
 
 ## Kaltstart-Rueckfragen
 
@@ -52,7 +52,7 @@ Die Betriebsstaette ist der Aufhaenger fuer das Besteuerungsrecht am Unternehmen
 
 - **Geschaeftseinrichtung**: jeder physische Ort (Buero, Halle, Stand, Sponsorflaeche).
 - **Festigkeit**: raeumlich-funktional fest, also nicht jeden Tag woanders.
-- **Verfuegungsmacht**: Unternehmen kontrolliert den Ort fuer seine Geschaefte.
+- **Verfuegungsmacht**: Unternehmen kontrolliert den Ort für seine Geschaefte.
 - **Aktivitaet**: dort werden Geschaefte ausgefuehrt (Anwesenheit Personal oder automatische Anlagen).
 
 ### Beispielliste (Art. 5 Abs. 2)

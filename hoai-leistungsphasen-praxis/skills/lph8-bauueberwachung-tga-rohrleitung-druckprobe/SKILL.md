@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-tga-rohrleitung-druckprobe
-description: "Bauueberwachung HOAI LPH 8 fuer TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS fuer technischen Gebaeudemanager im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS für technischen Gebaeudemanager im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung TGA Rohrleitungen und Druckpruefung
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS fuer technischen Gebaeudemanager. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS für technischen Gebaeudemanager. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -59,7 +59,7 @@ Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waend
 - Fotodokumentation Rohrleitungsverlegung: Foto je Trassenabschnitt vor Schliessung Schlitz oder Decke, Zeitstempel, AKS-Schild sichtbar
 - Endoskop-Inspektion Rohrleitungsinnenwand: nach Schweissnahtreparatur visuelle Pruefung Schlackerestreste, Video-Protokoll
 - Schweissnahtpruefprotokoll RT: Roentgenfilm-Auswertung oder digitale DR-Aufnahme, Bewertung nach DIN EN ISO 10675-1
-- Druckpruefprotokoll PDF-Archiv: Automatisch generiert aus Digitalmanometer Rotronic oder Testo 512, Exportformat CSV fuer SAP-Import
+- Druckpruefprotokoll PDF-Archiv: Automatisch generiert aus Digitalmanometer Rotronic oder Testo 512, Exportformat CSV für SAP-Import
 - PlanRadar TGA-Grundriss: Mangelpin je Rohrleitungsabschnitt, Foto Undichtigkeit, Gewerk Heizung oder Sanitaer, Faelligkeit T+5
 
 ## Meldungserstellung im ERP / SAP

@@ -14,7 +14,24 @@ description: "Beratungshaftung Haftung Beweislast BK CUM im Plugin Fachanwalt Ba
 | --- | --- |
 | `spezial-beratungshaftung-zahlen-schwellen-und-berechnung` | Beratungshaftung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-haftung-beweislast-und-darlegungslast` | Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `bk-cum-ex-mandant-strafrecht-spezial` | Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjaehrung, Selbstanzeige, Anrechnung KapErtSt. Verhaeltnis zu Schadensersatz und Rueckforderung. Aktuelle BGH-Linie 1 StR 519 / 20 ff. Pruefraster fuer Mandant. |
+| `bk-cum-ex-mandant-strafrecht-spezial` | Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjährung, Selbstanzeige, Anrechnung KapErtSt. Verhaeltnis zu Schadensersatz und Rueckforderung. Aktuelle BGH-Linie 1 StR 519 / 20 ff. Pruefraster für Mandant. |
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
+- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
+- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
+- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
+- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
+- `Art. 28 DORA` — IKT-Drittparteienrisiko.
+- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
+- `§ 765 BGB` — Bürgschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -107,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `bk-cum-ex-mandant-strafrecht-spezial`
 
-**Fokus:** Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjaehrung, Selbstanzeige, Anrechnung KapErtSt. Verhaeltnis zu Schadensersatz und Rueckforderung. Aktuelle BGH-Linie 1 StR 519 / 20 ff. Pruefraster fuer Mandant.
+**Fokus:** Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjährung, Selbstanzeige, Anrechnung KapErtSt. Verhaeltnis zu Schadensersatz und Rueckforderung. Aktuelle BGH-Linie 1 StR 519 / 20 ff. Pruefraster für Mandant.
 
 # BK: Cum-Ex / Cum-Cum
 
@@ -115,13 +132,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Normen-/Quellenanker:** AO, BGH, BK.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -149,7 +166,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

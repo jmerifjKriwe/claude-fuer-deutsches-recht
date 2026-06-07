@@ -22,16 +22,16 @@ Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule,
 1. **Welches Ziel?** — Einrichtung einer Schulstrasse/30er-Zone, Schadensersatz nach Unfall auf dem Schulweg, Schulwegplan-Erstellung, Gefahrenstelle-Beseitigung?
 2. **Wer ist Mandant?** — Gemeinde (Pflichten), Eltern (Schadensersatz), Schule (Organisationspflicht), Kind/Eltern nach Unfall?
 3. **Amtshaftung?** — War Gefahrenstelle bekannt? Wurde Pflicht zur Sicherung verletzt?
-4. **Zustaendigkeiten?** — Strassenverkehrsbehoerde (§ 45 StVO), Schule (Schulbehorde), Gemeinde (Strassenlasttrager).
+4. **Zuständigkeiten?** — Strassenverkehrsbehoerde (§ 45 StVO), Schule (Schulbehorde), Gemeinde (Strassenlasttrager).
 5. **Eilt?** — Bei bekannter akuter Gefahrenstelle: Unterlassungsantrag oder Eilantrag moeglich.
 
 ## Zentrale Normen
 
 - **§ 45 Abs. 1 StVO** — Allgemeine Verkehrsregelungsbefugnis; 30er-Zonen, Tempo-30 vor Schulen
-- **§ 45 Abs. 9 StVO** — Restriktive Voraussetzungen fuer Geschwindigkeitsbeschraenkungen
+- **§ 45 Abs. 9 StVO** — Restriktive Voraussetzungen für Geschwindigkeitsbeschraenkungen
 - **§ 40 StVO** — Schulwarnzeichen (Zeichen 136)
 - **§ 839 BGB i.V.m. Art. 34 GG** — Amtshaftung bei Verletzung der Verkehrssicherungspflicht
-- **§ 823 Abs. 1 BGB** — Deliktische Haftung fuer Verkehrsgefahren
+- **§ 823 Abs. 1 BGB** — Deliktische Haftung für Verkehrsgefahren
 - **KMK-Empfehlungen** — Schulwegplan-Empfehlungen der Kultusministerkonferenz
 
 ## Aktuelle Rechtsprechung
@@ -41,17 +41,17 @@ Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule,
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Situation vor Ort analysieren:** Gefahrenstellen, Sichtbehinderungen, fehlende Querungshilfen.
-2. **Zustaendige Behoerde identifizieren:** Strassenverkehrsbehoerde, Strassenbaulasttraeger, Schulbehörde.
+2. **Zustaendige Behörde identifizieren:** Strassenverkehrsbehoerde, Strassenbaulasttraeger, Schulbehörde.
 3. **Antrag auf Sicherungsmasssnahmen stellen** mit Begruendung; Fotos, Unfallstatistiken.
 4. **Bei Ablehnung:** Widerspruch, dann Verpflichtungsklage VG.
 5. **Bei Schadensfall:** Amtshaftungsklage (§ 839 BGB i.V.m. Art. 34 GG) oder Deliktsklage (§ 823 BGB).
 
 ## Harte Leitplanken
 
-- Gefahrenstelle bekannt aber nicht gesichert = Amtshaftungsrisiko fuer Gemeinde.
+- Gefahrenstelle bekannt aber nicht gesichert = Amtshaftungsrisiko für Gemeinde.
 - 30er-Zone-Antrag erfordert Nachweis besonderer Gefaehrdung (§ 45 Abs. 9 StVO).
 - Schadensfall sofort dokumentieren: Fotos, Zeugen, Polizeiprotokoll.
 - Anwaltliche Endkontrolle bei Amtshaftungsklagen.

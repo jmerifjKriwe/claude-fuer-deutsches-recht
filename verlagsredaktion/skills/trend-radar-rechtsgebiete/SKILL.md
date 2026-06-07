@@ -1,13 +1,13 @@
 ---
 name: trend-radar-rechtsgebiete
-description: "Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ESG, KI-Recht, EU-Reformen) als Themen-Frueherkennung fuer mehrere Zeitschriften und Reihen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ESG, KI-Recht, EU-Reformen) als Themen-Frueherkennung für mehrere Zeitschriften und Reihen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trend-Radar Rechtsgebiete
 
 ## Arbeitsbereich
 
-Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ESG, KI-Recht, EU-Reformen) als Themen-Frueherkennung fuer mehrere Zeitschriften und Reihen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ESG, KI-Recht, EU-Reformen) als Themen-Frueherkennung für mehrere Zeitschriften und Reihen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,11 +19,11 @@ Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ESG, KI-Recht, E
 
 ## Worum geht es konkret
 
-Anders als der Themenscout (der einzelne Entscheidungen scannt) sucht der Trend-Radar nach uebergeordneten Bewegungen: KI-Regulierung quer durch Zivilrecht, Strafrecht, Arbeitsrecht; ESG-Pflichten quer durch Gesellschaftsrecht, Steuerrecht, Umweltrecht; EU-Reformen, die Folgewellen in nationalen Rechtsgebieten ausloesen. Dieser Skill systematisiert die Querschnittsbeobachtung fuer Verlagsprogramme.
+Anders als der Themenscout (der einzelne Entscheidungen scannt) sucht der Trend-Radar nach uebergeordneten Bewegungen: KI-Regulierung quer durch Zivilrecht, Strafrecht, Arbeitsrecht; ESG-Pflichten quer durch Gesellschaftsrecht, Steuerrecht, Umweltrecht; EU-Reformen, die Folgewellen in nationalen Rechtsgebieten ausloesen. Dieser Skill systematisiert die Querschnittsbeobachtung für Verlagsprogramme.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn fuer Programm- und Produktstrategie: neue Reihen, neue Zeitschriften, neue Loseblattwerke, neue Online-Kommentare. Klaeren Sie:
+Sie brauchen ihn für Programm- und Produktstrategie: neue Reihen, neue Zeitschriften, neue Loseblattwerke, neue Online-Kommentare. Klaeren Sie:
 
 1. Welcher Beobachtungszeitraum (rolling 24 Monate Standard)?
 2. Welche Rechtsgebiete im Scope (selektiv oder Vollscan)?
@@ -38,14 +38,14 @@ Sie brauchen ihn fuer Programm- und Produktstrategie: neue Reihen, neue Zeitschr
 - Beraterperspektive (was fragen Mandanten in welcher Branche?).
 - Wirtschafts-/Sozialdaten (Insolvenzstatistik, Klagezahlen).
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Topic-Cluster definieren.** 6-10 Querschnittsthemen (z. B. "KI-Regulierung", "ESG", "Plattformrecht", "Energierecht 3.0").
 2. **Quellenfaecher pro Cluster.** Pro Cluster: 4-6 zentrale Quellen, freie Tickerlinks, Verbandsstimmen.
 3. **Quartalsweise Sichtung.** Pro Cluster ein einseitiger Quartalsbericht: was war, wohin laeuft es, naechste Wegmarken.
 4. **Querverbindungen.** Welche zwei Cluster kreuzen sich (z. B. KI im Steuerrecht)? Querhinweise im Memo.
 5. **Programm-Konsequenzen.** Pro Cluster: welche Verlagsprodukte koennen reagieren (neuer Aufsatz, neue Online-Kommentar-Ressource, neue Reihe)?
-6. **Briefing fuer Verlagsleitung** mit klarer Empfehlung "weiterbeobachten" / "Aufbau eigener Reihe" / "in bestehende Reihe integrieren".
+6. **Briefing für Verlagsleitung** mit klarer Empfehlung "weiterbeobachten" / "Aufbau eigener Reihe" / "in bestehende Reihe integrieren".
 
 ## Trade-off-Matrix
 
@@ -77,7 +77,7 @@ Querverbindungen: Datenschutz (Cluster 3), Arbeitsrecht (Cluster 5)
 Programm-Empfehlung:
 - Zeitschrift NZA: 2 Aufsaetze, 1 Anmerkung
 - Online-Kommentar: neue Lemmata AI Act
-- Buchreihe: Kandidat fuer Loseblattwerk "AI Act Praxiskommentar"
+- Buchreihe: Kandidat für Loseblattwerk "AI Act Praxiskommentar"
 ```
 
 **Trendindikator-Tabelle:**
@@ -113,4 +113,4 @@ Programm-Empfehlung:
 - EUR-Lex, [https://eur-lex.europa.eu](https://eur-lex.europa.eu).
 - Bundesregierung Vorhabenplaner, [https://www.bundesregierung.de](https://www.bundesregierung.de).
 - AI Act, VO (EU) 2024/1689, [https://eur-lex.europa.eu/eli/reg/2024/1689/oj](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.

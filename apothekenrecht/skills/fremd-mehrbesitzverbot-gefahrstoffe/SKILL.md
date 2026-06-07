@@ -99,7 +99,7 @@ Eingaben:
 
 ## Querverweise
 
-- `apothekenerlaubnis-apog-persoenliche-voraussetzungen` (subjektive Voraussetzungen)
+- `apothekenerlaubnis-apog-persönliche-voraussetzungen` (subjektive Voraussetzungen)
 - `inhaberwechsel-kauf-apothekenbetrieb` (Übernahme)
 - `filialapotheke-hauptapotheke-leitung-vertretung` (Filialgrenze)
 - `widerruf-ruecknahme-ruhen-apothekenerlaubnis` (Folgen)

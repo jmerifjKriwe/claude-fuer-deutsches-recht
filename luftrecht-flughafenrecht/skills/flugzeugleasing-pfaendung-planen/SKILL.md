@@ -1,13 +1,13 @@
 ---
 name: flugzeugleasing-pfaendung-planen
-description: "Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen oder Glaeubiger will in geleaste Flugzeuge vollstrecken. Prueft Cape-Town-Convention Art. 8-10 Remedies IDERA LuftFzgG ZPO-Vollstreckungsrecht und InsO § 89 Vollstreckungssperre und liefert Ruecknahme-Strategie im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen oder Glaeubiger will in geleaste Flugzeuge vollstrecken. Prueft Cape-Town-Convention Art. 8-10 Remedies IDERA LuftFzgG ZPO-Vollstreckungsrecht und InsO § 89 Vollstreckungssperre und liefert Rücknahme-Strategie im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flugzeugleasing – Pfändung planen
 
 ## Arbeitsbereich
 
-Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen oder Glaeubiger will in geleaste Flugzeuge vollstrecken. Prueft Cape-Town-Convention Art. 8-10 Remedies IDERA LuftFzgG ZPO-Vollstreckungsrecht und InsO § 89 Vollstreckungssperre und liefert Ruecknahme-Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen oder Glaeubiger will in geleaste Flugzeuge vollstrecken. Prueft Cape-Town-Convention Art. 8-10 Remedies IDERA LuftFzgG ZPO-Vollstreckungsrecht und InsO § 89 Vollstreckungssperre und liefert Rücknahme-Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

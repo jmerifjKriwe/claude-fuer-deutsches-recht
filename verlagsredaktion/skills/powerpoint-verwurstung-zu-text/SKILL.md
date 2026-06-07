@@ -1,13 +1,13 @@
 ---
 name: powerpoint-verwurstung-zu-text
-description: "Macht aus einer schlechten Vortrags-PPT einen Fliesstextbeitrag fuer Fachzeitschrift oder Tagungsband, ohne Bullet-Wuesten und mit Quellenrekonstruktion im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht aus einer schlechten Vortrags-PPT einen Fliesstextbeitrag für Fachzeitschrift oder Tagungsband, ohne Bullet-Wuesten und mit Quellenrekonstruktion im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Powerpoint-Verwurstung zu Text
 
 ## Arbeitsbereich
 
-Macht aus einer schlechten Vortrags-PPT einen Fliesstextbeitrag fuer Fachzeitschrift oder Tagungsband, ohne Bullet-Wuesten und mit Quellenrekonstruktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Macht aus einer schlechten Vortrags-PPT einen Fliesstextbeitrag für Fachzeitschrift oder Tagungsband, ohne Bullet-Wuesten und mit Quellenrekonstruktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -37,14 +37,14 @@ Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klaeren Sie:
 - Skript / Manuskript, falls vorhanden.
 - Audiomitschnitt, falls vorhanden.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Notizenseiten zuerst.** Oft steckt dort der Volltext oder die Stichworte des Vortragenden. PowerPoint -> Datei -> Exportieren als Handzettel mit Notizen oder Pandoc.
-2. **Gliederung extrahieren.** Folien-Titel als Gliederungsskelett. Erste Diagnose: passt die Reihenfolge fuer Fliesstext?
+2. **Gliederung extrahieren.** Folien-Titel als Gliederungsskelett. Erste Diagnose: passt die Reihenfolge für Fliesstext?
 3. **Bullets in Fliesstext aufloesen.** Jeder Bullet wird ein Satz oder Halbsatz, nicht ein Aufzaehlungspunkt. Wo Bullets keinen Inhalt tragen, Autor fragen.
 4. **Grafiken pruefen.** Stammen sie vom Autor (Eigenproduktion mit Quellangabe) oder aus Drittquellen? Bei Drittgrafiken sofort Rechtecheck.
 5. **Quellenangabe rekonstruieren.** PPT enthaelt selten Pinpoints. Pinpoint-Auftrag an Autor zurueckspielen.
-6. **Schluss und Einleitung schreiben.** Vortraege beginnen oft mit "Vielen Dank fuer die Einladung", enden mit "Vielen Dank fuer Ihre Aufmerksamkeit". Beides streichen, durch echte Einleitung und Ergebnis ersetzen.
+6. **Schluss und Einleitung schreiben.** Vortraege beginnen oft mit "Vielen Dank für die Einladung", enden mit "Vielen Dank für Ihre Aufmerksamkeit". Beides streichen, durch echte Einleitung und Ergebnis ersetzen.
 7. **Erste Schriftfassung an Autor.** Markieren, wo Sie aus eigener Kompositionsleistung formuliert haben, damit der Autor freigeben kann.
 
 ## Trade-off-Matrix
@@ -52,13 +52,13 @@ Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klaeren Sie:
 | Pfad | A: PPT eng nachbauen | B: PPT als Inspiration, frei schreiben | Empfehlung |
 |------|----------------------|----------------------------------------|------------|
 | Treue zur Vorlage | hoch | niedrig | A bei wissenschaftlich strenger Vortragsdokumentation |
-| Lesbarkeit | schlecht (Bullet-Charakter bleibt) | gut | B fuer Fachzeitschrift |
+| Lesbarkeit | schlecht (Bullet-Charakter bleibt) | gut | B für Fachzeitschrift |
 | Autorenfreigabe | leichter | aufwendiger | A bei wenig Autorenzeit |
 
 ## Praxistipps der alten Redaktion
 
 - "Die besten Vortrags-PPTs haben den Vortragstext in den Notizenseiten. Bei den schlechtesten hat der Vortragende frei gesprochen und nichts notiert - dann ohne Audio keine Chance."
-- Folien-Reihenfolge ist nicht zwingend die Argumentationsfolge fuer Fliesstext - Gliederung neu denken.
+- Folien-Reihenfolge ist nicht zwingend die Argumentationsfolge für Fliesstext - Gliederung neu denken.
 - Bei vielen Schaubildern: ein Schaubild pro 3-5 Seiten Text ist sinnvoll, mehr ueberfordert die Druckseite.
 - Animationen / Build-ups gehen im Text verloren; bei tragenden Buildups (z. B. schrittweise Schema-Aufbau) muss die Schrittlogik im Text erklaert werden.
 
@@ -83,21 +83,21 @@ Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klaeren Sie:
 - Notizenseiten uebersehen.
 - Bullets 1:1 als Aufzaehlungen ueberfuehrt - Lesefluss zerstoert.
 - Grafiken eingebaut ohne Rechtepruefung.
-- "Vielen Dank fuer Ihre Aufmerksamkeit" als Schluss im Heft.
+- "Vielen Dank für Ihre Aufmerksamkeit" als Schluss im Heft.
 - Eigene Kompositionsleistung des Lektorats nicht markiert - Autor zeichnet Saetze ab, die nicht von ihm sind.
 
 ## Querverweise
 
 - `verl-audio-transkript-zu-fachbeitrag` - wenn Audio mitgeliefert wurde.
 - `verl-konferenzmitschnitt-zu-tagungsbericht` - wenn aus Vortrag ein Tagungsbericht wird.
-- `bildrechte-grafiken-tabellen` - fuer Grafiken aus der PPT.
+- `bildrechte-grafiken-tabellen` - für Grafiken aus der PPT.
 - `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `verl-fussnoten-quellen-konsolidierung` - fuer Pinpoint-Aufbau.
+- `verl-fussnoten-quellen-konsolidierung` - für Pinpoint-Aufbau.
 
 ## Quellen Stand 06/2026
 
 - UrhG §§ 51, 63, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022, zum Aufloesen von Stichwortketten in Fliesstext.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

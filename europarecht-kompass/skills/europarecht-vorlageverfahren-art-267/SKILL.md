@@ -63,11 +63,11 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 ## Triage vor Vorlage-Entscheidung
 
 Bevor losgelegt wird, klaere:
-1. Besteht eine Frage zur Gueltigkeit oder Auslegung von EU-Recht, die fuer den Ausgang des Verfahrens entscheidend ist?
+1. Besteht eine Frage zur Gueltigkeit oder Auslegung von EU-Recht, die für den Ausgang des Verfahrens entscheidend ist?
 2. Ist das nationale Gericht letztinstanzlich (Vorlagepflicht) oder nicht-letztinstanzlich (Vorlagemaessen)?
 3. Hat der EuGH die Frage bereits eindeutig geklart (Acte clair) oder ist sie offenkundig eindeutig (Acte eclaire)?
 4. Kann Vorlage die Verfahrensdauer akzeptabel verlaengern (EuGH: ca. 12-18 Monate)?
-5. Welche Fragestellung ist am ehesten geeignet fuer das Vorlageurteil?
+5. Welche Fragestellung ist am ehesten geeignet für das Vorlageurteil?
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
@@ -84,7 +84,7 @@ Klassische Anker zur Vorlagedogmatik (vor Verwendung über [curia.europa.eu](htt
 - **Art. 19 EUV** — Effektiver Rechtsschutz; Vorlage als Instrument
 - **EuGH-Satzung Art. 23** — Beteiligte im Vorabentscheidungsverfahren
 - **EuGH-Verfahrensordnung Art. 93-118** — Ablauf Vorabentscheidungsverfahren
-- **Eiliges Vorabentscheidungsverfahren (PPU)** Art. 107 EuGH-VerfO — fuer Freiheits-/Haftfragen; Frist ca. 2 Monate
+- **Eiliges Vorabentscheidungsverfahren (PPU)** Art. 107 EuGH-VerfO — für Freiheits-/Haftfragen; Frist ca. 2 Monate
 
 ## Quellenregel
 
@@ -121,7 +121,7 @@ und bei Verneinung [RECHTSFOLGE B] eintreten würde.
 
 Begruendung keine Acte clair:
 Der EuGH hat diese Frage noch nicht entschieden / Die Entscheidung [CELEX]
-klaert die Frage nicht vollstaendig fuer den vorliegenden Sachverhalt.
+klaert die Frage nicht vollstaendig für den vorliegenden Sachverhalt.
 
 [GERICHT], [ORT], [DATUM]
 [RICHTER-NAME]

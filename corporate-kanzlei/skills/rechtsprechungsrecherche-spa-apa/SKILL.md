@@ -32,7 +32,7 @@ Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile für Corporate/M&
 3. Welcher Zeitraum — nur aktuelle Entscheidungen (ab 2020), oder auch ältere Grundsatzentscheidungen?
 4. Welche Gerichte — BGH, BVerfG, BAG, BFH, OLG, EuGH, oder auch Instanzgerichte?
 5. Sind bereits Aktenzeichen oder Fundstellen bekannt, die verifiziert werden sollen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Recherchequellen
 

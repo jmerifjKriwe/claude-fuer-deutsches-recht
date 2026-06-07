@@ -19,23 +19,23 @@ Beamtenrecht: Landesbesoldung Föderalismus und Synopse. Die Prüfung konzentrie
 
 ## Aufgabe
 
-Skill fuer Landesbesoldung seit Foederalismusreform 2006 — Synopse der 16 Landesbesoldungsgesetze.
+Skill für Landesbesoldung seit Foederalismusreform 2006 — Synopse der 16 Landesbesoldungsgesetze.
 
 ## Norm
 
 - **Foederalismusreform 2006**: Beamtenbesoldungsrecht ist Landesangelegenheit.
 - Jedes Bundesland hat eigenes Landesbesoldungsgesetz (LBesG).
-- **BBesG** gilt nur fuer Bundesbeamte.
+- **BBesG** gilt nur für Bundesbeamte.
 
 ## Foederalismus-Folgen
 
 - Bis zu 16 verschiedene Besoldungstabellen.
 - Unterschiedliche Anpassungspolitiken (Tarifrunden unterschiedlich uebernommen).
-- "Besoldungsgefaelle" zwischen Laendern (z. B. Bayern vs. Berlin).
+- "Besoldungsgefaelle" zwischen Ländern (z. B. Bayern vs. Berlin).
 
 ## BVerfG-Linie zur Foederalismusreform
 
-- BVerfG 2 BvL 17/09: amtsangemessene Alimentation gilt fuer alle Dienstherren.
+- BVerfG 2 BvL 17/09: amtsangemessene Alimentation gilt für alle Dienstherren.
 - Methodischer Drei-Schritt:
  1. Vergleich mit Tarifentwicklung.
  2. Verbraucherpreisindex.
@@ -43,21 +43,21 @@ Skill fuer Landesbesoldung seit Foederalismusreform 2006 — Synopse der 16 Land
 
 ## Synopse-Strategie
 
-Bei Bewerbung in mehrere Laender Synopse erstellen:
+Bei Bewerbung in mehrere Länder Synopse erstellen:
 - Grundgehalt A 9 / A 13 / R 1 / W 1.
 - Familienzuschlag mit Kindern.
 - Beihilfe-Regelung.
 
 ## Aktuelle Reformen
 
-- Diverse Laender haben 2023/2024 amtsangemessene Alimentation reformiert.
+- Diverse Länder haben 2023/2024 amtsangemessene Alimentation reformiert.
 - Konkrete Datum live verifizieren.
 
 ## Pruefraster
 
 1. Welches Bundesland?
 2. Welches LBesG aktuell?
-3. Vergleich zu anderen Laendern?
+3. Vergleich zu anderen Ländern?
 4. Amtsangemessenheit?
 
 ## Output

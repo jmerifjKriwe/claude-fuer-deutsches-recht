@@ -19,13 +19,13 @@ Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-E
 
 ## Worum es geht
 
-Das Erbrecht hat in Deutschland eine vielschichtige Geschichte. Das Sachsenspiegel-Erbrecht (Ldr. I 17-27) kannte das Sippenerbe ohne Testament. Das roemisch-kanonische Recht brachte das Testament und die Testierfreiheit. Das BGB 1900 kodifizierte ein liberales Erbrecht mit Testierfreiheit (§§ 1937-1940 BGB) und gesetzlicher Erbfolge (§§ 1924 ff.). Sonderrecht galt fuer baeuerliche Behoefe (Anerbenrecht): In einzelnen Laendern galten Hoferbfolgegesetze, die das Gut ungeteilt auf einen Erben uebergehen liessen. Das NS-Reichserbhofgesetz 1933 (RGBl. I 1933, 685) schuf ein Sondererbrecht fuer Bauern. Das heutige HoefeO (BGBl. III 21-1) gilt in bestimmten Laendern weiterhin.
+Das Erbrecht hat in Deutschland eine vielschichtige Geschichte. Das Sachsenspiegel-Erbrecht (Ldr. I 17-27) kannte das Sippenerbe ohne Testament. Das roemisch-kanonische Recht brachte das Testament und die Testierfreiheit. Das BGB 1900 kodifizierte ein liberales Erbrecht mit Testierfreiheit (§§ 1937-1940 BGB) und gesetzlicher Erbfolge (§§ 1924 ff.). Sonderrecht galt für baeuerliche Behoefe (Anerbenrecht): In einzelnen Ländern galten Hoferbfolgegesetze, die das Gut ungeteilt auf einen Erben uebergehen liessen. Das NS-Reichserbhofgesetz 1933 (RGBl. I 1933, 685) schuf ein Sondererbrecht für Bauern. Das heutige HoefeO (BGBl. III 21-1) gilt in bestimmten Ländern weiterhin.
 
 ## Kernnormen / Kernquellen
 
 - **Sachsenspiegel Ldr. I 17-27**: Mittelalterliches Sippenerbe
 - **BGB §§ 1922-2385**: Erbrecht, Testierfreiheit und gesetzliche Erbfolge
-- **Reichserbhofgesetz 1933 (RGBl. I 1933, 685)**: NS-Sonderrecht fuer baeuerliche Hoefe
+- **Reichserbhofgesetz 1933 (RGBl. I 1933, 685)**: NS-Sonderrecht für baeuerliche Hoefe
 - **HoefeO 1947 (BGBl. III 21-1)**: Weitergeltendes Anerbenrecht in Norddeutschland
 - **BGB §§ 1924-1933**: Gesetzliche Erbfolge nach Verwandtschaft und Ehe
 
@@ -38,9 +38,9 @@ Das Erbrecht hat in Deutschland eine vielschichtige Geschichte. Das Sachsenspieg
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. Reichserbhofgesetz 1933: Sozialschutz fuer Bauern oder rassistische Blut-und-Boden-Ideologie?
+1. Reichserbhofgesetz 1933: Sozialschutz für Bauern oder rassistische Blut-und-Boden-Ideologie?
 2. Anerbenrecht heute: Ist die Bevorzugung eines Erben noch verfassungskonform (Art. 3 GG)?
-3. BGB-Testierfreiheit und Pflichtteil: Zu wenig Schutz fuer Familienangehoerige?
+3. BGB-Testierfreiheit und Pflichtteil: Zu wenig Schutz für Familienangehoerige?
 4. Sachsenspiegel-Erbrecht: Wie weit war es vom roemischen Testament entfernt?
 5. Erbschaft-Steuerrecht und seine Verfassungsmaessigkeit: BVerfGE 117, 1 und Folgeentscheidungen
 

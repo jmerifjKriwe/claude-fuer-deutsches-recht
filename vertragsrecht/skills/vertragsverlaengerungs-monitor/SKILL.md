@@ -35,7 +35,7 @@ Rechtlicher Hintergrund: § 309 Nr. 9 BGB verbietet in B2C-AGB stillschweigende 
 
 ## Eingaben
 
-- Register `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/renewal-register.yaml`
+- Register `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/renewal-register.yaml`
 - Optional: `--tage N` zur Änderung des Beobachtungsfensters (Standard: 90 Tage)
 - Optional: `--verpasst` für abgelaufene Fristen ohne erfasste Kündigung
 
@@ -43,7 +43,7 @@ Rechtlicher Hintergrund: § 309 Nr. 9 BGB verbietet in B2C-AGB stillschweigende 
 
 ### Schritt 1: Register lesen
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/renewal-register.yaml` lesen. Falls leer und CLM verbunden: Modus 3 (Erst-Import aus CLM) anbieten.
+`~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/renewal-register.yaml` lesen. Falls leer und CLM verbunden: Modus 3 (Erst-Import aus CLM) anbieten.
 
 ### Schritt 2: Standardmodus – was läuft in 90 Tagen aus?
 
@@ -66,7 +66,7 @@ Einträge mit `status: aktiv` anzeigen, deren `kündigen_bis_effektiv` in der Ve
 
 ## Das Register
 
-Gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/renewal-register.yaml`. Jeder Eintrag:
+Gespeichert unter `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/renewal-register.yaml`. Jeder Eintrag:
 
 ```yaml
 - vertragspartner: "Acme Software GmbH"

@@ -13,8 +13,8 @@ description: "Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtsch
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `gerichtsstand-und-rechtswahl-pruefen` | Prüfungslinie für gerichtsstand und rechtswahl pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `intwr-cisg-pruefraster` | Pruefraster CISG / UN-Kaufrecht: sachlicher und persoenlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht. |
-| `intwr-rom-i-ii-leitfaden` | Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster fuer Rechtswahl und gewoehnlicher Aufenthalt. |
+| `intwr-cisg-pruefraster` | Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht. |
+| `intwr-rom-i-ii-leitfaden` | Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster für Rechtswahl und gewoehnlicher Aufenthalt. |
 
 ## Arbeitsweg
 
@@ -39,7 +39,7 @@ description: "Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtsch
 6. Handelt es sich um eine deliktische oder außervertragliche Streitigkeit – gilt Rom II VO?
 7. Ist eine der Parteien Verbraucher oder Arbeitnehmer – greifen Sonderschutzmechanismen Art. 17 ff. bzw. Art. 21 ff. Brüssel Ia VO?
 8. Handelt es sich um einen neuen Vertragsentwurf oder einen laufenden Streit – ist präventive Klauselgestaltung oder prozessuale Zuständigkeitsprüfung gefragt?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -260,7 +260,7 @@ Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Geric
 2. Haben beide Parteien EU-Sitz? → Bruessel Ia; sonst: nationales IPR oder Hague Convention
 3. Wurde Schiedsklausel vereinbart? → §§ 1025 ff. ZPO; nicht Bruessel Ia
 4. Verbraucher oder Arbeitnehmer beteiligt? → Art. 17-22 Bruessel Ia Schutzgerichtsstand
-5. Welches Recht anwendbar? → Unabhaengig von Zustaendigkeit: Rom I / Rom II
+5. Welches Recht anwendbar? → Unabhaengig von Zuständigkeit: Rom I / Rom II
 
 ### Output-Template Gerichtsstand- und Rechtswahlgutachten
 **Adressat:** Mandant oder Gericht — Tonfall: praezis-juristisch
@@ -297,21 +297,21 @@ II. ANWENDBARES RECHT
 
 ## 2. `intwr-cisg-pruefraster`
 
-**Fokus:** Pruefraster CISG / UN-Kaufrecht: sachlicher und persoenlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht.
+**Fokus:** Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht.
 
 # IntWR: CISG-Pruefraster
 
 ## Aufgabe
-Pruefraster CISG / UN-Kaufrecht: sachlicher und persoenlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe.
+Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe.
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster CISG (Wiener UN-Kaufrechtsuebereinkommen)
 
@@ -350,7 +350,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 | Mangelbegriff | Art. 35 (objektive und subjektive Erwartung) | § 434 |
 | Anzeigeobliegenheit | Art. 38, 39: angemessene Frist nach Erkennen; 2-Jahres-Ausschlussfrist Art. 39 II | §§ 377, 378 HGB (im Handelskauf); BGB ohne Pflicht |
 | Ruecktritt | Art. 49: nur bei wesentlicher Vertragsverletzung | § 323 BGB: Fristsetzung |
-| Verjaehrung | UN-Verjaehrungsuebereinkommen 1974 (in DE nicht ratifiziert) -> Rueckgriff auf IPR | § 438 BGB: 2 Jahre |
+| Verjährung | UN-Verjährungsuebereinkommen 1974 (in DE nicht ratifiziert) -> Rueckgriff auf IPR | § 438 BGB: 2 Jahre |
 | Hardship / Frustration | Art. 79: Befreiung bei Hinderungsgrund ausserhalb Einflussbereichs | § 313 BGB (Stoerung der Geschaeftsgrundlage) |
 
 ## Praxisfallen
@@ -377,28 +377,28 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ## 3. `intwr-rom-i-ii-leitfaden`
 
-**Fokus:** Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster fuer Rechtswahl und gewoehnlicher Aufenthalt.
+**Fokus:** Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster für Rechtswahl und gewoehnlicher Aufenthalt.
 
 # IntWR: Rom I + II Leitfaden
 
 ## Aufgabe
-Leitfaden Rom I-VO (593/2008) und Rom II-VO (864/2007): Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public Art. 21 Rom I / Art. 26 Rom II. Pruefraster fuer Rechtswahl und gewoehnlichen Aufenthalt.
+Leitfaden Rom I-VO (593/2008) und Rom II-VO (864/2007): Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public Art. 21 Rom I / Art. 26 Rom II. Pruefraster für Rechtswahl und gewoehnlichen Aufenthalt.
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster Rom I (vertragliche Schuldverhaeltnisse)
 
@@ -409,7 +409,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 ### 2. Rechtswahl Art. 3 Rom I
 
-- Ausdrueckliche oder konkludente Rechtswahl moeglich, fuer Gesamtvertrag oder Teile (depecage Art. 3 I 3).
+- Ausdrueckliche oder konkludente Rechtswahl moeglich, für Gesamtvertrag oder Teile (depecage Art. 3 I 3).
 - Aenderung der Rechtswahl Art. 3 II.
 - Schutz vor reinen Binnensachverhalten Art. 3 III (zwingende Vorschriften des Sachstaats bleiben anwendbar).
 - Innergemeinschaftlicher Sachverhalt + Wahl drittstaatlichen Rechts: zwingendes Unionsrecht (Art. 3 IV).
@@ -466,7 +466,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 - Grundsaetzlich nach Schadenseintritt; bei kommerzieller Taetigkeit auch vorher.
 - Verbraucher- und AN-Schutz bleiben.
 
-## Pruefraster fuer den Skill
+## Pruefraster für den Skill
 
 1. **Sachverhalt fixieren** — Wer, was, wo, welcher Auslandsbezug?
 2. **Anwendbarkeit Rom I/II** pruefen.
@@ -477,9 +477,9 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 ## Praxisfallen
 
-- **Rom I gilt nicht** fuer Schiedsvereinbarungen (Art. 1 II lit. e Rom I); IPR der Schiedsvereinbarung folgt eigenen Regeln (NYÜ Art. V).
+- **Rom I gilt nicht** für Schiedsvereinbarungen (Art. 1 II lit. e Rom I); IPR der Schiedsvereinbarung folgt eigenen Regeln (NYÜ Art. V).
 - **Brexit**: UK seit 1.1.2021 nicht mehr an Rom I/II gebunden; UK hat aber Rom I/II in nationales Recht uebernommen (Retained EU Law).
-- **Vertragsstatut vs. Geschaeftsfaehigkeit**: Vertragsstatut nur fuer Vertragsinhalt; Geschaeftsfaehigkeit nach Personalstatut.
+- **Vertragsstatut vs. Geschaeftsfaehigkeit**: Vertragsstatut nur für Vertragsinhalt; Geschaeftsfaehigkeit nach Personalstatut.
 - **Form** Art. 11 Rom I: alternative Anknuepfung; Vertragsstatut oder Ortsrecht.
 
 ## Plugin-Kontext
@@ -499,7 +499,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

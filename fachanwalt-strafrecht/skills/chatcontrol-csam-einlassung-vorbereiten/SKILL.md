@@ -148,7 +148,7 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 
 - BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
 - CSA-VO-Vorschlag COM(2022)209 — Stand des EU-Gesetzgebungsverfahrens unter: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022PC0209
-- Interimsverordnung (EU) 2021/1232 (befristete Ausnahme von ePrivacy fuer freiwilliges CSAM-Scanning): vor Verwendung Geltungsdauer unter https://eur-lex.europa.eu pruefen.
+- Interimsverordnung (EU) 2021/1232 (befristete Ausnahme von ePrivacy für freiwilliges CSAM-Scanning): vor Verwendung Geltungsdauer unter https://eur-lex.europa.eu pruefen.
 - §§ 43a BRAO, 53, 53a, 97, 100a, 160a StPO sowie § 203 StGB als Maßstabskette.
 - Weitere Rechtsprechung vor Ausgabe in dejure.org / bverfg.de / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -165,7 +165,7 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 3. Bestehen Widersprüche zwischen Aktenlage und Mandantenversion? Welche Lücken sind aufklärungsbedürftig?
 4. Gibt es entlastende Beweismittel — Zeugen, Alibis, Standortdaten, Quittungen — die noch nicht bei der Behörde liegen?
 5. Soll die Einlassung schriftlich (klassischer Verteidigerweg) oder mündlich in der Vernehmung erfolgen? Bei welcher Stelle Polizei, StA, Ermittlungsrichter, Hauptverhandlung?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Grundlagen
 
@@ -390,7 +390,7 @@ Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig lauf
 8. Haben Sie anwaltliche Vertretung im Insolvenzverfahren getrennt von der strafrechtlichen Vertretung?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -670,7 +670,7 @@ Die Nebenklage gibt der verletzten Person eine eigenständige Rolle im Strafverf
 8. Wünscht die Mandantschaft Anonymität oder befürchtet sie Repressalien durch Anschluss als Nebenklägerin?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -729,8 +729,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Nebenklage Opfervertretung | Nebenklage-Anschlussschrift; Template unten |
 | Variante A — Opfer will nur Schmerzensgeld | Adhaesionsantrag statt Nebenklage |
-| Variante B — Taeterseitiges Gestaendnis vorhanden | Nebenklage trotzdem sinnvoll fuer Strafhoehe und Entschaedigung |
-| Variante C — Verjaehrungsrisiko | Nebenklagebefugnis fristen-unabhaengig; Verjaahrung des Hauptvorwurfs beachten |
+| Variante B — Taeterseitiges Gestaendnis vorhanden | Nebenklage trotzdem sinnvoll für Strafhoehe und Entschaedigung |
+| Variante C — Verjährungsrisiko | Nebenklagebefugnis fristen-unabhaengig; Verjaahrung des Hauptvorwurfs beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

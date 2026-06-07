@@ -13,7 +13,7 @@ description: "Typische Fehlerquellen in der BWA. Anwendungsfall Qualitaetsprüfu
 
 ## Kernsachverhalt
 
-BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung, koennen Krisensignale verdecken und im Streit mit dem Mandanten haftungsrelevant werden. Der Steuerberater muss systematisch die typischen Fehlerquellen abpruefen, bevor die BWA versendet wird. Dieser Skill ist Pflicht-Checkliste fuer Sachbearbeiter und Berufstraeger.
+BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung, koennen Krisensignale verdecken und im Streit mit dem Mandanten haftungsrelevant werden. Der Steuerberater muss systematisch die typischen Fehlerquellen abpruefen, bevor die BWA versendet wird. Dieser Skill ist Pflicht-Checkliste für Sachbearbeiter und Berufstraeger.
 
 ## Kaltstart-Rueckfragen
 
@@ -84,7 +84,7 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 - Lohnsumme BWA muss mit dem Bruttolohn aus dem Lohnprogramm uebereinstimmen (Konten Loehne/Gehaelter SKR 03 4120/4130 bzw. SKR 04 6020/6030 — DATEV-Kontenrahmen aktuelle Fassung).
 - SV-AG-Anteil-Konto-Saldo gegen den AG-Anteil aus der Lohnabrechnung pruefen (Daumenregel: ca. 20-21 Prozent vom Bruttolohn; massgebliche Beitragssaetze KV 14,6 Prozent allgemein (Stand 2025), RV 18,6 Prozent, PV 3,6 Prozent, AV 2,6 Prozent — aktuelle Werte aus der Sozialversicherungs-Rechengroessenverordnung abrufen).
 - Berufsgenossenschaft monatlich anteilig gebucht (Konto SKR 03 4140 bzw. SKR 04 6140 — Konkretisierung im aktuellen DATEV-Kontenrahmen pruefen).
-- Pauschalsteuer fuer Aushilfen ueber das jeweils passende Steueraufwandskonto buchen (z. B. SKR 03 4148 fuer Lohnsteuer 2 Prozent Pauschal — konkrete Kontonummer in der aktuellen DATEV-Kontenrahmen-Dokumentation nachschlagen).
+- Pauschalsteuer für Aushilfen ueber das jeweils passende Steueraufwandskonto buchen (z. B. SKR 03 4148 für Lohnsteuer 2 Prozent Pauschal — konkrete Kontonummer in der aktuellen DATEV-Kontenrahmen-Dokumentation nachschlagen).
 
 ### Phase 5 — Spezial-Pruefungen
 
@@ -104,7 +104,7 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 
 - Fehlerprotokoll mit Korrekturmassnahmen.
 - Korrigierte BWA.
-- Ggf. Schulungsmemo fuer Sachbearbeiter.
+- Ggf. Schulungsmemo für Sachbearbeiter.
 
 ## Strategie und Praxis-Tipps
 

@@ -1,13 +1,13 @@
 ---
 name: tantieme-abrechnung-themenscout
-description: "Jaehrliche Tantieme-Abrechnung fuer Autoren juristischer Werke: Stueck- und Umsatzbeteiligung, Loseblatt-Ergaenzungslieferungen, Online-Nutzung, Verrechnung mit Vorschuss, Pflichten nach UrhG § 32d im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Jaehrliche Tantieme-Abrechnung für Autoren juristischer Werke: Stueck- und Umsatzbeteiligung, Loseblatt-Ergaenzungslieferungen, Online-Nutzung, Verrechnung mit Vorschuss, Pflichten nach UrhG § 32d im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tantieme jaehrlich abrechnen
 
 ## Arbeitsbereich
 
-Jaehrliche Tantieme-Abrechnung fuer Autoren juristischer Werke: Stueck- und Umsatzbeteiligung, Loseblatt-Ergaenzungslieferungen, Online-Nutzung, Verrechnung mit Vorschuss, Pflichten nach UrhG § 32d. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Jaehrliche Tantieme-Abrechnung für Autoren juristischer Werke: Stueck- und Umsatzbeteiligung, Loseblatt-Ergaenzungslieferungen, Online-Nutzung, Verrechnung mit Vorschuss, Pflichten nach UrhG § 32d. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -41,14 +41,14 @@ Autorinnen und Autoren juristischer Werke erhalten typischerweise eine Beteiligu
 - BGB § 259 - Pflicht zur ordnungsgemaessen Rechenschaftslegung mit geordneter Aufstellung.
 - BGB § 273 - Zurueckbehaltungsrecht des Autors bei unvollstaendiger Abrechnung.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Stichtag setzen.** Standard 31.12., Abrechnung bis 30.06. des Folgejahres (vertraglich pruefen).
 2. **Datenbasis ziehen.** Verkaufszahlen, Retouren, Mengenrabatte, Frei- und Belegexemplare, Online-Nutzung (Klicks, Aufrufe nach Vertragsdefinition).
 3. **Nettoladenpreis / Nettoumsatz korrekt rechnen.** Buchpreisbindung beachten; Rabatte und Buchhaendlerkonditionen anhand der Verlagskalkulation.
 4. **Vorschuss verrechnen.** Tantieme wird gegen offenen Vorschuss verrechnet, danach Auszahlung.
 5. **Verteilung mehrerer Autoren.** Nach vereinbartem Schluessel (Seitenanteil, Kapitelzuordnung, gleichmaessig).
-6. **Steuerliche Behandlung.** Honorar = Verguetung fuer Rechteeinraeumung; 7 Prozent UStG-Satz (§ 12 Abs. 2 Nr. 7 lit. c UStG). KSK-Meldung nicht vergessen.
+6. **Steuerliche Behandlung.** Honorar = Verguetung für Rechteeinraeumung; 7 Prozent UStG-Satz (§ 12 Abs. 2 Nr. 7 lit. c UStG). KSK-Meldung nicht vergessen.
 7. **Abrechnungsdokument erstellen.** Tabelle pro Werk, kumulierter Stand, Auszahlungsbetrag.
 8. **Auskunftsschreiben gemaess UrhG § 32d.** Bei Verlangen auch Detailaufstellung Lizenzeinnahmen.
 9. **Versand und Frist zur Beanstandung.** Standard 30 Tage; sonst gilt Abrechnung als anerkannt (nur bei vertraglicher Klausel).
@@ -81,7 +81,7 @@ Betreff: Tantieme-Abrechnung [Jahr] - [Werktitel]
 Sehr geehrte Frau/Herr [Autorenname],
 
 anliegend uebersenden wir Ihnen die Jahresabrechnung Ihrer Tantiemen
-fuer den Zeitraum [Datum] bis [Datum].
+für den Zeitraum [Datum] bis [Datum].
 
 Auf einen Blick:
 - Werk: [Titel], [Auflage]
@@ -122,8 +122,8 @@ Auszahlung: EUR [Betrag]
 ```
 Sehr geehrte Frau/Herr [Anwaltsname],
 
-auf Ihr Auskunftsverlangen nach UrhG § 32d uebersenden wir Ihnen fuer
-das Werk [Titel] folgende Aufstellung fuer den Zeitraum [...]:
+auf Ihr Auskunftsverlangen nach UrhG § 32d uebersenden wir Ihnen für
+das Werk [Titel] folgende Aufstellung für den Zeitraum [...]:
 
 [Tabelle mit Vertriebszahlen, Lizenzeinnahmen, Sublizenzen]
 
@@ -156,6 +156,6 @@ Mit freundlichen Gruessen
 - UrhG §§ 32, 32a, 32d, 32e - Verguetung und Auskunftspflichten.
 - VerlG §§ 25, 26 - Rechenschaft und Abrechnung.
 - BGB §§ 259, 273 - Rechenschaftslegung, Zurueckbehaltungsrecht.
-- UStG § 12 Abs. 2 Nr. 7 lit. c - ermaessigter Steuersatz fuer Rechteeinraeumung.
+- UStG § 12 Abs. 2 Nr. 7 lit. c - ermaessigter Steuersatz für Rechteeinraeumung.
 - KSVG - Abgabepflicht; aktueller Satz unter kuenstlersozialkasse.de.
 - BGH-Rechtsprechung zu § 32a UrhG (Volltexte zur amtlichen Pruefung unter bundesgerichtshof.de und dejure.org).

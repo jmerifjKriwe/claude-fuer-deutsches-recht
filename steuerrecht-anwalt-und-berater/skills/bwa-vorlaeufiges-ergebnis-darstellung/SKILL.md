@@ -1,6 +1,6 @@
 ---
 name: bwa-vorlaeufiges-ergebnis-darstellung
-description: "Darstellung vorlaeufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus geschaetzte Posten Hinweis-Pflichten gegenüber Mandant. Output BWA mit Vorlaeufigkeitsvermerk Erlaeuterung."
+description: "Darstellung vorläufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus geschaetzte Posten Hinweis-Pflichten gegenüber Mandant. Output BWA mit Vorlaeufigkeitsvermerk Erlaeuterung."
 ---
 
 # Vorlaeufiges Ergebnis in der unterjaehrigen BWA
@@ -72,13 +72,13 @@ Unterjaehrige BWA sind per Definition vorlaeufig: Periodenabgrenzungen sind noch
 Standard-Vermerk:
 
 ```
-HINWEIS: Diese BWA gibt das vorlaeufige Ergebnis fuer den Zeitraum
+HINWEIS: Diese BWA gibt das vorläufige Ergebnis für den Zeitraum
 [von - bis] wieder. Folgende Posten enthalten Schaetzwerte:
 - Warenbestand: gerollt aus Inventur [Datum] auf Basis Wareneinsatz.
 - Urlaubsrueckstellung: anteilig 1/12 der Jahresrueckstellung.
 - Abschreibungen: 1/12 der Jahresabschreibung aus Anlagenverzeichnis.
 Diese Schaetzungen werden zum Jahresabschluss durch tatsaechliche
-Werte ersetzt; das vorlaeufige Ergebnis kann sich entsprechend
+Werte ersetzt; das vorläufige Ergebnis kann sich entsprechend
 veraendern. Die BWA ist nicht testiert.
 
 Erstellt: [Datum]

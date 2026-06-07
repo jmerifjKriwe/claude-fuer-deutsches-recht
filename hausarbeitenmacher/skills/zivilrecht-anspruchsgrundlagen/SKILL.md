@@ -300,6 +300,6 @@ Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durc
 
 ## Übergang zu
 
-- `subsumtion-schritt-fuer-schritt` — Subsumtions-Praxis
+- `subsumtion-schritt-für-schritt` — Subsumtions-Praxis
 - `meinungsstreit-darstellen` — bei Streit-Punkten innerhalb der Anspruchs-Grundlagen
 - `gliederung-mit-tiefenstruktur` — Gliederung mit Anspruchs-Grundlagen

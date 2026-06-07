@@ -259,7 +259,7 @@ Weitere Entscheidungen aus Modellwissen nicht zitieren; vor Ausgabe über bundes
 6. Wie alt sind die betroffenen Kinder, und wurde ein Verfahrensbeistand nach § 158 FamFG bestellt?
 7. Welche finanziellen Rahmenbedingungen gelten — Prozesskostenhilfe, Scheidungskosten bereits beziffert?
 8. Wurden Vereinbarungen bisher mündlich getroffen, und ist die Gegenseite grundsätzlich einigungsbereit?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -651,7 +651,7 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 6. Gibt es Versorgungsanrechte bei berufsständischen Versorgungswerken mit geschlechtsspezifischen Tabellen?
 7. Handelt es sich um einen Minderjährigen (ab 14 — Zustimmung Sorgeberechtigte § 2 SBGG; unter 14 — ausschließlich durch gesetzlichen Vertreter)?
 8. Ist Mandatskonflikt möglich — vertritt Kanzlei auch den anderen Ehegatten?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -987,7 +987,7 @@ eines Vermittlungstermins innerhalb eines Monats.
 6. Wie hoch sind die monatlichen Nettoeinkommen beider Ehegatten (relevant für Verfahrenswert und VKH-Prüfung)?
 7. Haben Sie bereits einen Ehevertrag oder Scheidungsfolgenvereinbarung mit Ihrem Ehegatten oder dessen Anwalt ausgehandelt?
 8. Kennen Sie das Datum der Eheschließung und liegt die Heiratsurkunde vor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

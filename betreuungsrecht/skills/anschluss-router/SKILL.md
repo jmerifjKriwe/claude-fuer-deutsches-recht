@@ -139,7 +139,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `familienbetreuer-alltagscockpit` | Wenn Post, Pflege, Bank, Heim, Arzt, Gericht und Behörden in einen Wochenplan gebracht werden sollen. |
 | `dokumentenscan-aktenablage-und-belegmappe` | Wenn Scans, Fotos, E-Mails, Kontoauszüge und Bescheide unsortiert vorliegen. |
 | `kalender-reminder-und-fristenmanagement` | Wenn Termine, Berichtspflichten, Bescheidfristen, Zahlungen und Routinekontakte in Reminder übersetzt werden sollen. |
-| `betreuungsgericht-kommunikation-fuer-angehoerige` | Wenn ein knapper Brief, eine Rückfrage, Fristverlängerung oder Genehmigungsanfrage ans Gericht benötigt wird. |
+| `betreuungsgericht-kommunikation-für-angehoerige` | Wenn ein knapper Brief, eine Rückfrage, Fristverlängerung oder Genehmigungsanfrage ans Gericht benötigt wird. |
 | `wunschermittlung-unterstuetzte-entscheidung` | Wenn unklar ist, was die betreute Person will oder wie ihr Wunsch dokumentiert werden soll. |
 | `betreuungsverein-behoerde-hilfe-holen` | Wenn der ehrenamtliche Betreuer Unterstützung, Einführung, Fortbildung oder Anbindung braucht. |
 | `ueberforderung-verhinderung-und-abgabe` | Wenn der Betreuer merkt, dass Zeit, Krankheit, Konflikt oder Komplexität die Betreuung gefährden. |
@@ -147,7 +147,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `familienkonflikt-grenzen-und-rollen` | Wenn Angehörige streiten, Auskunft verlangen, Druck machen oder Eigeninteressen im Raum stehen. |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | `betreuer-registrierung` | Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der… |
-| `betreuungsrecht-kaltstart-interview` | Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md mit Angaben zur Betreuerrolle (Berufsbetreuer /… |
+| `betreuungsrecht-kaltstart-interview` | Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-für-deutsches-recht/betreuungsrecht/CLAUDE.md mit Angaben zur Betreuerrolle (Berufsbetreuer /… |
 | `genehmigungspflicht-pruefung` | Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung,… |
 | `jahresbericht-betreuungsgericht` | Jahresbericht, Anfangsbericht oder Schlussbericht nach § 1863 BGB erstellen und sauber von Vermögensverzeichnis/Rechnungslegung trennen. |
 | `kontodaten-vertragsverdacht-pruefung` | Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: Anwendungsfall Betreuer oder Betreuungsgericht hat Verdacht auf ungewöhnliche Zahlungen verdächtige Dauerverträge oder Anlagegeschäfte zum… |
@@ -155,7 +155,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Betreuungsrecht regelt die rechtliche Fuersorge fuer Erwachsene, die ihre Angelegenheiten ganz oder teilweise nicht selbst besorgen koennen. Seit der Reform zum 01.01.2023 gilt das Betreuungsorganisationsgesetz (BtOG) neben den materiellen Normen der §§ 1814 ff. BGB. Das Reformgesetz staerkt das Selbstbestimmungsrecht der betreuten Person, praezisiert die Pflichten des Betreuers und regelt erstmals umfassend die Registrierung und Verguetung beruflicher Betreuer.
+Das Betreuungsrecht regelt die rechtliche Fuersorge für Erwachsene, die ihre Angelegenheiten ganz oder teilweise nicht selbst besorgen koennen. Seit der Reform zum 01.01.2023 gilt das Betreuungsorganisationsgesetz (BtOG) neben den materiellen Normen der §§ 1814 ff. BGB. Das Reformgesetz staerkt das Selbstbestimmungsrecht der betreuten Person, praezisiert die Pflichten des Betreuers und regelt erstmals umfassend die Registrierung und Verguetung beruflicher Betreuer.
 
 Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, Vereins- und Behördenbetreuer sowie deren Rechtsbeistände bei der täglich anfallenden Schutz-, Organisations-, Dokumentations-, Berichts- und Genehmigungsarbeit gegenüber betreuter Person, Betreuungsgericht, Behörden, Banken, Heimen, Ärzten und Pflegekassen.
 
@@ -193,7 +193,7 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 - §§ 23 ff. BtOG — Registrierung als Berufsbetreuer
 - VBVG — Verguetung beruflicher Betreuer
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Rolle klären: betreute Person, Angehöriger, ehrenamtlicher Betreuer, Berufsbetreuer, Verein/Behörde oder anwaltliche Begleitung?
 2. Phase des Mandats bestimmen: Ersteinrichtung (Registrierung, Vermögensverzeichnis), laufende Betreuung (Jahresbericht, Genehmigungen) oder Krisenfall (Missbrauchsverdacht, Erbschaftsfragen)?
@@ -207,10 +207,10 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 - `familienbetreuer-alltagscockpit` — Wochensteuerung für Post, Pflege, Bank, Arzt, Heim, Behörden und Gericht.
 - `dokumentenscan-aktenablage-und-belegmappe` — macht aus Scans und Fotos eine gerichtstaugliche Belegmappe.
 - `kalender-reminder-und-fristenmanagement` — baut aus Bescheiden, Gerichtspost und Routinepflichten einen Reminderplan.
-- `betreuungsgericht-kommunikation-fuer-angehoerige` — formuliert knappe Rückfragen, Sachstandsmitteilungen und Genehmigungsanfragen.
+- `betreuungsgericht-kommunikation-für-angehoerige` — formuliert knappe Rückfragen, Sachstandsmitteilungen und Genehmigungsanfragen.
 - `wunschermittlung-unterstuetzte-entscheidung` — dokumentiert Wünsche, Präferenzen und unterstützte Entscheidungen nach § 1821 BGB.
 - `betreuungsrecht-kaltstart-interview` — Ersteinrichtung des Plugins: Praxisprofil mit Betreuerrolle, Gericht und Aufgabenkreisen anlegen.
-- `betreuer-registrierung` — Erklaert Registrierungsweg, Sachkundeanforderungen und Berufshaftpflicht fuer Berufsbetreuer nach BtOG.
+- `betreuer-registrierung` — Erklaert Registrierungsweg, Sachkundeanforderungen und Berufshaftpflicht für Berufsbetreuer nach BtOG.
 - `genehmigungspflicht-pruefung` — Prueft, ob ein konkretes Rechtsgeschaeft der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB).
 - `jahresbericht-betreuungsgericht` — Erstellt den vollständigen Jahresbericht nach § 1863 BGB für das Betreuungsgericht.
 - `vermoegensverzeichnis-pruefung` — Erstellt und prueft das Vermögensverzeichnis nach § 1835 BGB bei Amtsuebernahme oder Kontrollpruefung.
@@ -237,7 +237,7 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 
 - `arbeitsrecht` — Fragen zur Verguetung des Betreuers und zur sozialversicherungsrechtlichen Einordnung beruflicher Betreuer.
 - `prozessrecht` — Wenn eine betreute Person selbst Klage erhebt oder verklagt wird und der Betreuer als gesetzlicher Vertreter auftritt.
-- `schriftform-und-textform-bgb` — Formanforderungen fuer betreuungsrechtlich relevante Erklaerungen (z.B. Kuendigungen von Mietvertraegen).
+- `schriftform-und-textform-bgb` — Formanforderungen für betreuungsrechtlich relevante Erklaerungen (z.B. Kuendigungen von Mietvertraegen).
 
 ## Quellen und Aktualitaet
 

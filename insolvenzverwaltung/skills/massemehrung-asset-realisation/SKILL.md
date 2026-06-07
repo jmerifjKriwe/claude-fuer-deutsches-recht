@@ -90,7 +90,7 @@ Bei US debtor in possession, US trustee, kanadischem trustee/monitor/receiver od
 
 ## Paragrafenkette Insolvenzverwaltung
 
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persoenliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
+§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
 
 ## Triage — Verfahrensstand
 

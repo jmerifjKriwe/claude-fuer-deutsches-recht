@@ -57,7 +57,7 @@ Pflichtangaben § 14 Abs. 4 UStG:
 - **Empfangs-Pflicht**: Seit 1.1.2025 muss jeder inländische Unternehmer für inländische B2B-Umsätze eRechnungen empfangen können.
 - **Ausstellungs-Pflicht** (gestaffelt):
  - bis 31.12.2026: Papier-/PDF-Rechnung mit Zustimmung des Empfaengers weiterhin zulaessig (Übergang)
- - bis 31.12.2027: nur fuer Unternehmer mit Vorjahresumsatz ≤ 800 000 EUR Papier-Erleichterung
+ - bis 31.12.2027: nur für Unternehmer mit Vorjahresumsatz ≤ 800 000 EUR Papier-Erleichterung
  - ab 1.1.2028: vollständige eRechnungspflicht für alle B2B-Inlands-Umsätze
 - **Format**: strukturiertes, maschinenlesbares Format nach EN 16931 (z. B. **XRechnung** oder **ZUGFeRD ab Profil EN-16931**); reines PDF ohne strukturierte XML-Daten ist KEINE eRechnung.
 - **Folge fehlerhafter Rechnung**: Vorsteuerabzug nach § 15 Abs. 1 UStG kann verweigert werden, wenn Rechnungspflicht eRechnung verletzt ist. Massgebend:
@@ -237,6 +237,6 @@ Pflichtangaben § 14 Abs. 4 UStG:
 - EStG § 4 Abs. 5
 - BFH V. Senat XI. Senat
 - BMF-Schreiben vom 15.10.2024 (Einfuehrung eRechnung) und BMF v. 15.10.2025 (zweites Anwendungsschreiben eRechnung, GZ III C 2 - S 7287-a/00019/007/243).
-- **Steueraenderungsgesetz 2025** (BGBl. 2025 I Nr. 363, verkuendet 23.12.2025): Erweiterung des ermaessigten USt-Satzes (7 %) auf Restaurant- und Verpflegungsdienstleistungen (ohne Getraenke) fuer Umsaetze nach dem 31.12.2025.
+- **Steueraenderungsgesetz 2025** (BGBl. 2025 I Nr. 363, verkuendet 23.12.2025): Erweiterung des ermaessigten USt-Satzes (7 %) auf Restaurant- und Verpflegungsdienstleistungen (ohne Getraenke) für Umsaetze nach dem 31.12.2025.
 - Sölch/Ringleb UStG
 - Tipke/Lang Steuerrecht

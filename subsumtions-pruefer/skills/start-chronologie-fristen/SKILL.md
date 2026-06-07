@@ -134,10 +134,10 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `grundrechte-pruefung-de-und-grch` | Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhältnismäßigkeitsprüfung mit Zweck,… |
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 | `konkurrenzen-anspruchsgrundlagen` | Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht,… |
-| `mandatsabbruch-empfehlung-an-fachanwalt` | Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behoerde. Warnt bei Strafrecht, Verfassungsrecht, internationalem… |
+| `mandatsabbruch-empfehlung-an-fachanwalt` | Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behörde. Warnt bei Strafrecht, Verfassungsrecht, internationalem… |
 | `norm-historie-und-aenderungen` | Prüft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Übergangsvorschriften, intertemporales Recht, aenderungsrelevante Gesetzgebungsverfahren. Warnt bei Normen, die seit dem Wissensstand des Systems… |
 | `norm-zerlegen-in-tatbestandsmerkmale` | Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): geschriebene und ungeschriebene Merkmale, Definitionen aus h.M. und Rechtsprechung, Prüfungsreihenfolge. Grundlage für den Vier-Schritt der Subsumtion… |
-| `output-alltagssprache-de` | Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus: ohne Fachbegriffe oder mit Erklärung, für Mandanten, Betroffene oder Behoerdenmitarbeiter. Behaelt die Strukturierung bei, vermeidet aber Lateinismen… |
+| `output-alltagssprache-de` | Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus: ohne Fachbegriffe oder mit Erklärung, für Mandanten, Betroffene oder Behördenmitarbeiter. Behaelt die Strukturierung bei, vermeidet aber Lateinismen… |
 | `output-antrag-beschwerde-klageschrift` | Erzeugt Tenor-Bausteine, Rubrum und formale Mindestanforderungen für Antrag, Beschwerde und Klageschrift nach ZPO, VwGO, SGG, FGO und BVerfGG. Gibt Pflichtangaben, Fristen und Einreichungshinweise. Kein anwaltlicher… |
 | `output-fremdsprachig-en-fr` | Gibt das Subsumtionsergebnis auf Englisch oder Franzoesisch aus. Enthaelt obligatorischen Hinweis auf nicht-amtliche Übersetzung und Abweichung von deutschen Originalnormen. Nuetzlich für internationale Mandanten,… |
 | `output-juristisch-gestochen-de` | Erzeugt Ausgaben im juristischen Schriftsatzstil auf Deutsch: Antrag-Begründung-Beweismittel-Struktur, Subsumtionsdarstellung im Vier-Schritt, Zitierweise nach BGH-Standard, Rubrum, Tenor. Für Schriftsaetze,… |
@@ -162,9 +162,9 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben einen konkreten Lebenssachverhalt und wollen wissen, welche Normen einschlaegig sein koennten.
-- Sie wollen eine Norm systematisch in ihre Tatbestandsmerkmale zerlegen und Schritt fuer Schritt subsumieren.
-- Sie muessen Beweislast, Einreden oder Verjaehrung pruefen und suchen eine strukturierte Abarbeitungshilfe.
-- Sie benoetigen eine Ausgabe fuer einen Schriftsatz, ein Memo oder einen Mandantenbrief in verschiedenen Sprachstilen.
+- Sie wollen eine Norm systematisch in ihre Tatbestandsmerkmale zerlegen und Schritt für Schritt subsumieren.
+- Sie muessen Beweislast, Einreden oder Verjährung pruefen und suchen eine strukturierte Abarbeitungshilfe.
+- Sie benoetigen eine Ausgabe für einen Schriftsatz, ein Memo oder einen Mandantenbrief in verschiedenen Sprachstilen.
 - Sie wollen eine Rechtsfrage mit EU-Bezug klaeren und pruefen, ob ein Vorabentscheidungsersuchen in Betracht kommt.
 
 ## Fachbegriffe (kurz erklaert)
@@ -179,7 +179,7 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 
 ## Rechtsgrundlagen
 
-- §§ 195 ff. BGB — Verjaehrung
+- §§ 195 ff. BGB — Verjährung
 - §§ 241 ff. BGB — Schuldrecht (Pflichten, Stoerungen)
 - §§ 355 ff. ZPO — Beweisrecht
 - Art. 267 AEUV — Vorabentscheidungsverfahren EuGH
@@ -188,12 +188,12 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - § 242 BGB — Treu und Glauben (Generalklausel)
 - Art. 103 Abs. 2 GG — Analogieverbot im Strafrecht
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Handelt es sich um eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung?
 2. Phase des Mandats bestimmen: Normensuche, Tatbestandsanalyse, Subsumtion, Rechtsfolge oder Output-Erstellung.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen pruefen: Verjaehrungsfristen (§ 195 BGB), prozessuale Notfristen.
+4. Eilfristen pruefen: Verjährungsfristen (§ 195 BGB), prozessuale Notfristen.
 5. Anschluss-Skill bestimmen: nach Subsumtion typischerweise Rechtsfolge bestimmen und dann Output-Skill auswaehlen.
 
 ## Skill-Tour (was gibt es hier?)
@@ -226,7 +226,7 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - `subsumtion-obersatz-definition-untersatz-ergebnis` — Fuehrt den klassischen Vier-Schritt je TBM durch.
 - `beweisbedarf-und-belege-erfassen` — Erfasst pro TBM den Beweisbedarf mit Beweismittel-Katalog und Belegen.
 - `darlegungs-und-beweislast-verteilen` — Verteilt Darlegungs- und Beweislast nach Grundregel, Beweislastumkehr und Anscheinsbeweis.
-- `verjaehrung-fristen-pruefen` — Prueft Verjaehrungsfristen inklusive Hemmung, Neubeginn und EU-Verjaehrungsregeln.
+- `verjaehrung-fristen-pruefen` — Prueft Verjährungsfristen inklusive Hemmung, Neubeginn und EU-Verjährungsregeln.
 
 **Gegenrechte und Rechtsfolgen**
 
@@ -239,15 +239,15 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - `output-juristisch-gestochen-de` — Ausgabe im juristischen Schriftsatzstil mit BGH-konformer Zitierweise.
 - `output-memo-und-mandantenbrief` — Erstellt Aktennotiz oder Mandantenbrief mit Pflicht-Haftungshinweis.
 - `output-alltagssprache-de` — Gibt Subsumtionsergebnis in verstaendlicher Alltagssprache ohne Fachbegriffe aus.
-- `output-antrag-beschwerde-klageschrift` — Erzeugt Tenor-Bausteine und Pflichtangaben fuer Klageschriften und Beschwerden.
+- `output-antrag-beschwerde-klageschrift` — Erzeugt Tenor-Bausteine und Pflichtangaben für Klageschriften und Beschwerden.
 - `output-fremdsprachig-en-fr` — Ausgabe auf Englisch oder Franzoesisch mit Hinweis auf nicht-amtliche Uebersetzung.
 - `output-pruefungsdokument-mit-warnhinweisen` — Vollstaendiges Pruefungsdokument mit Pflicht-Kopfhinweis und Disclaimern.
-- `rechtsprechung-recherche-strategie` — Strategie fuer die Rechtsprechungsrecherche mit Fundstellen-Hinweisen.
+- `rechtsprechung-recherche-strategie` — Strategie für die Rechtsprechungsrecherche mit Fundstellen-Hinweisen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **Eskalation**
 
-- `mandatsabbruch-empfehlung-an-fachanwalt` — Erkennt Komplexitaetsgrenzen und empfiehlt Weiterleitung an Fachanwalt, Notar oder Behoerde.
+- `mandatsabbruch-empfehlung-an-fachanwalt` — Erkennt Komplexitaetsgrenzen und empfiehlt Weiterleitung an Fachanwalt, Notar oder Behörde.
 
 ## Worauf besonders achten
 
@@ -261,7 +261,7 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 
 - Sachverhalt wird direkt unter Normen subsumiert ohne vorherige Zerlegung in TBM; fuehrt zu Subsumtionsspruengen.
 - Einreden und Einwendungen werden vergessen; geprueft wird nur die anspruchsbegruendende Seite.
-- Verjaehrung wird als gegeben angenommen ohne Pruefung von Hemmungstatbestaenden (§§ 203 ff. BGB).
+- Verjährung wird als gegeben angenommen ohne Pruefung von Hemmungstatbestaenden (§§ 203 ff. BGB).
 - Deutsches Recht wird angewendet obwohl Unionsrecht Anwendungsvorrang hat; Skill `de-eu-recht-abgrenzung` hilft.
 - Output wird ohne Pflicht-Disclaimer weitergegeben; das koennte als Rechtsberatung missverstanden werden.
 

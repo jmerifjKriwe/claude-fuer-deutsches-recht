@@ -12,7 +12,7 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `eingliederungshilfe-sgb-ix-rehabilitation` | Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zustaendigen Reha-Traeger. Liefert Pruefraster. |
+| `eingliederungshilfe-sgb-ix-rehabilitation` | Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zuständigen Reha-Traeger. Liefert Pruefraster. |
 | `eingliederungsvereinbarung-15-sgb-ii` | Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Pruefraster. |
 | `einreichung-fax-und-grenzen-sozialgericht` | Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Beweis Telefax-Nummer prüfen Frist halten. Hinweis Fax wird abgeschafft Alternativen vorhanden. |
 | `einreichung-mein-justizpostfach-mjp-sozialgericht` | Mein Justizpostfach (MJP) für Buerger seit 2024. Online-Einreichung von Klagen und Schriftsaetzen beim Sozialgericht. Anmeldung Identifikation PDF-Anlagen Sicherheit. |
@@ -29,7 +29,7 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 
 ## 1. `eingliederungshilfe-sgb-ix-rehabilitation`
 
-**Fokus:** Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zustaendigen Reha-Traeger. Liefert Pruefraster.
+**Fokus:** Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zuständigen Reha-Traeger. Liefert Pruefraster.
 
 # Eingliederungshilfe Sgb Ix Rehabilitation
 
@@ -41,10 +41,10 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Eingliederungshilfe — Wer ist zustaendig
+## Eingliederungshilfe — Wer ist zuständig
 
 - Land/Kommune ueber das jeweilige Land (Sozialamt Bezirksregierung).
-- Spezialisierte Traeger fuer Komplexleistungen.
+- Spezialisierte Traeger für Komplexleistungen.
 
 ## Reha-Traeger nach § 6 SGB IX
 
@@ -59,9 +59,9 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 ## Leistungen
 
 ### § 90 SGB IX — Teilhabe am Arbeitsleben
-- Berufliche Foerderung.
-- Werkstaetten fuer behinderte Menschen.
-- Budget fuer Arbeit.
+- Berufliche Förderung.
+- Werkstaetten für behinderte Menschen.
+- Budget für Arbeit.
 
 ### § 75 SGB IX — soziale Teilhabe
 - Assistenz.
@@ -155,7 +155,7 @@ Kooperationsplan-Redline, Gesprächsvorbereitung, Nachweisliste, Änderungswunsc
 
 ## Worum geht es?
 
-Fax ist immer noch ein anerkannter Weg, eine Klage einzureichen. Vorteil: Sie haben einen Beweis fuer den Eingang am selben Tag. Nachteil: Fax wird zunehmend abgeschafft. Diese Skill zeigt, wann Fax sinnvoll ist und worauf Sie achten muessen.
+Fax ist immer noch ein anerkannter Weg, eine Klage einzureichen. Vorteil: Sie haben einen Beweis für den Eingang am selben Tag. Nachteil: Fax wird zunehmend abgeschafft. Diese Skill zeigt, wann Fax sinnvoll ist und worauf Sie achten muessen.
 
 ## In einfacher Sprache
 
@@ -164,7 +164,7 @@ Sie koennen die Klage auch per Fax schicken. Das geht schnell. Sie haben einen B
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen am letzten Tag der Frist noch sicher einreichen.
-- Sie haben keinen Computer fuer MJP.
+- Sie haben keinen Computer für MJP.
 - Sie wollen eine Sofort-Bestaetigung.
 
 ## Fachbegriffe (kurz erklaert)
@@ -178,7 +178,7 @@ Sie koennen die Klage auch per Fax schicken. Das geht schnell. Sie haben einen B
 - **§ 90 SGG i.V.m. § 130 ZPO analog** — Fax ist Schriftform (BGH gefestigt).
 - **§ 65a SGG** — Elektronische Alternativen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Aktuelle Faxnummer pruefen
 
@@ -267,11 +267,11 @@ Stand: 05/2026. BGH und BSG haben Fax-Schriftform vielfach bestaetigt. Fax in de
 
 ## Worum geht es?
 
-Seit 2024 koennen Buerger ueber "Mein Justizpostfach" (MJP) digital mit Gerichten und Behoerden kommunizieren. Sicher, schnell, kostenfrei. Diese Skill zeigt, wie Sie damit Ihre Klage oder Schriftsaetze beim SG einreichen.
+Seit 2024 koennen Buerger ueber "Mein Justizpostfach" (MJP) digital mit Gerichten und Behörden kommunizieren. Sicher, schnell, kostenfrei. Diese Skill zeigt, wie Sie damit Ihre Klage oder Schriftsaetze beim SG einreichen.
 
 ## In einfacher Sprache
 
-Es gibt ein sicheres Online-Postfach fuer Buerger. Es heisst Mein Justizpostfach. Damit koennen Sie Klagen direkt ans Gericht schicken. Schnell, sicher, gratis.
+Es gibt ein sicheres Online-Postfach für Buerger. Es heisst Mein Justizpostfach. Damit koennen Sie Klagen direkt ans Gericht schicken. Schnell, sicher, gratis.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -281,7 +281,7 @@ Es gibt ein sicheres Online-Postfach fuer Buerger. Es heisst Mein Justizpostfach
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Mein Justizpostfach (MJP)**: Sicheres digitales Postfach fuer Buerger.
+- **Mein Justizpostfach (MJP)**: Sicheres digitales Postfach für Buerger.
 - **eID-Funktion**: Online-Funktion des Personalausweises.
 - **ELSTER-Zertifikat**: Steuer-Identifikation, alternativ nutzbar.
 - **OZG**: Onlinezugangsgesetz, schreibt digitale Verwaltung vor.
@@ -289,10 +289,10 @@ Es gibt ein sicheres Online-Postfach fuer Buerger. Es heisst Mein Justizpostfach
 ## Rechtsgrundlagen
 
 - **§ 65a SGG** — Elektronische Einreichung beim Gericht.
-- **§ 36a SGB I** — Elektronische Kommunikation mit Behoerden.
-- **Onlinezugangsgesetz (OZG)** — rechtlicher Rahmen fuer digitale Verwaltung.
+- **§ 36a SGB I** — Elektronische Kommunikation mit Behörden.
+- **Onlinezugangsgesetz (OZG)** — rechtlicher Rahmen für digitale Verwaltung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -353,7 +353,7 @@ Das Gericht antwortet im MJP. Sie bekommen Email-Benachrichtigung. Loggen Sie si
 
 ## Typische Fehler
 
-- Falscher Empfaenger (Sozialgericht der Behoerde statt Wohnort) → Wohnort-SG waehlen
+- Falscher Empfaenger (Sozialgericht der Behörde statt Wohnort) → Wohnort-SG waehlen
 - Datei ohne PDF gesendet → in PDF konvertieren
 - Quittung nicht gespeichert → immer speichern als Beweis
 - Identifikation klappt nicht → Hotline oder ELSTER-Alternative
@@ -369,7 +369,7 @@ Das Gericht antwortet im MJP. Sie bekommen Email-Benachrichtigung. Loggen Sie si
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. MJP seit 2024 fuer alle Buerger oeffentlich. § 65a SGG fuer elektronische Klage. Bei technischen Problemen: www.mein-justizpostfach.de/hilfe. Funktionalitaet variiert je Bundesland.
+Stand: 05/2026. MJP seit 2024 für alle Buerger oeffentlich. § 65a SGG für elektronische Klage. Bei technischen Problemen: www.mein-justizpostfach.de/hilfe. Funktionalitaet variiert je Bundesland.
 
 ## Qualitäts-Hardening
 
@@ -399,7 +399,7 @@ Auch ohne Internet und Fax koennen Sie klagen. Per Post. Dabei muessen Sie aber 
 
 ## In einfacher Sprache
 
-Sie koennen Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das Gericht braucht den Brief mehrfach. Einmal fuer sich, einmal fuer den Gegner.
+Sie koennen Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das Gericht braucht den Brief mehrfach. Einmal für sich, einmal für den Gegner.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -409,8 +409,8 @@ Sie koennen Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das G
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Abschrift**: Kopie eines Schriftsatzes fuer die Gegenseite.
-- **Original**: Mit Unterschrift versehenes Exemplar fuer das Gericht.
+- **Abschrift**: Kopie eines Schriftsatzes für die Gegenseite.
+- **Original**: Mit Unterschrift versehenes Exemplar für das Gericht.
 - **Einschreiben mit Rueckschein**: Brief, Empfaenger unterschreibt; Sie bekommen Beleg.
 - **Einwurf-Einschreiben**: Brief, Auslieferung wird dokumentiert.
 
@@ -421,7 +421,7 @@ Sie koennen Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das G
 - **§ 93 SGG** — Abschriften.
 - **§ 65a SGG** — Elektronische Alternative (siehe MJP).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Schriftsatz fertigstellen
 
@@ -429,24 +429,24 @@ Erstellen Sie die Klage am Computer oder schreiben sie sauber per Hand. Unterzei
 
 ### Schritt 2 — Abschriften anfertigen
 
-Pro Beklagter eine Abschrift, plus eine fuer das Gericht (Akte), plus eine fuer Sie:
+Pro Beklagter eine Abschrift, plus eine für das Gericht (Akte), plus eine für Sie:
 
-- Bei 1 beklagter Behoerde: 3 Exemplare (1 Original + 1 fuer Behoerde + 1 fuer Sie)
-- Bei 2 beklagten Behoerden: 4 Exemplare
+- Bei 1 beklagter Behörde: 3 Exemplare (1 Original + 1 für Behörde + 1 für Sie)
+- Bei 2 beklagten Behörden: 4 Exemplare
 
-Das Gericht braucht: 1 mit Originalunterschrift + Abschriften zur Zustellung an die Behoerde(n).
+Das Gericht braucht: 1 mit Originalunterschrift + Abschriften zur Zustellung an die Behörde(n).
 
 Sie machen einfach Kopien (kein Notar oder so noetig). Auf den Abschriften "Abschrift" oben drueber schreiben.
 
 ### Schritt 3 — Anlagen ebenfalls in Abschrift
 
-Alle Anlagen einmal fuer das Gericht (Original-Kopie reicht) und einmal je Beklagter.
+Alle Anlagen einmal für das Gericht (Original-Kopie reicht) und einmal je Beklagter.
 
 ### Schritt 4 — Versand vorbereiten
 
 - Adresse aus www.sozialgerichtsbarkeit.de
 - Umschlag entsprechend gross
-- Fragen Sie in der Post nach dem Porto fuer Maxibrief / Paketchen, je nach Umfang.
+- Fragen Sie in der Post nach dem Porto für Maxibrief / Paketchen, je nach Umfang.
 
 ### Schritt 5 — Versandweg waehlen
 

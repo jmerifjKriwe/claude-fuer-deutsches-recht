@@ -1,6 +1,6 @@
 ---
 name: abitur-und-abschlusspruefungen
-description: "Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abitur Und Abschlusspruefungen

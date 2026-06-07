@@ -7,7 +7,7 @@ description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckg
 
 ## Aufgabe
 
-Skill fuer die actio Pauliana als historisches Pendant zur modernen Insolvenzanfechtung.
+Skill für die actio Pauliana als historisches Pendant zur modernen Insolvenzanfechtung.
 
 ## Rechtsquelle
 
@@ -22,7 +22,7 @@ Skill fuer die actio Pauliana als historisches Pendant zur modernen Insolvenzanf
 - Schuldner ist insolvent oder wird durch das Geschaeft insolvent.
 
 ### Consilium fraudis (subjektiv Schuldnerseite)
-- Schuldner handelte in Glaeubigerschaedigungsabsicht oder zumindest mit positivem Wissen um seine Insolvenz und der Konsequenz fuer die Glaeubiger.
+- Schuldner handelte in Glaeubigerschaedigungsabsicht oder zumindest mit positivem Wissen um seine Insolvenz und der Konsequenz für die Glaeubiger.
 - Bewusstsein der Schaedigung genuegt; Absicht nicht erforderlich (Ulpian D. 42.8.1).
 
 ### Scientia oder conscientia fraudis (Drittseite)
@@ -75,5 +75,5 @@ Skill fuer die actio Pauliana als historisches Pendant zur modernen Insolvenzanf
 
 - Quellenmatrix mit Digestenstellen.
 - Vergleichende Synopse zu AnfG und §§ 129 ff. InsO.
-- Memo fuer rechtshistorische und insolvenzrechtliche Fragen.
-- Pruefraster fuer Hausarbeit oder Schriftsatz.
+- Memo für rechtshistorische und insolvenzrechtliche Fragen.
+- Pruefraster für Hausarbeit oder Schriftsatz.

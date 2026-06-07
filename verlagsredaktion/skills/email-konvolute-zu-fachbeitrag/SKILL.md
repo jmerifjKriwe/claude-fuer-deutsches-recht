@@ -1,13 +1,13 @@
 ---
 name: email-konvolute-zu-fachbeitrag
-description: "Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial fuer eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial für eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # E-Mail-Konvolute zu Fachbeitrag
 
 ## Arbeitsbereich
 
-Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial fuer eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial für eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,14 +19,14 @@ Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial fuer ein
 
 ## Worum geht es konkret
 
-Manchmal liefert eine Autorin den Sachverhalt eines geplanten Beitrags als E-Mail-Wechsel: Mandant - Anwalt - Behoerde - Gericht. Daraus wird ein Praxisbericht, eine Anmerkung zu einer Behoerdenpraxis oder eine Fallanalyse. Sie muessen den Wust anonymisieren, chronologisieren, zitierbar machen und entscheiden, was tatsaechlich in den Druck soll.
+Manchmal liefert eine Autorin den Sachverhalt eines geplanten Beitrags als E-Mail-Wechsel: Mandant - Anwalt - Behörde - Gericht. Daraus wird ein Praxisbericht, eine Anmerkung zu einer Behördenpraxis oder eine Fallanalyse. Sie muessen den Wust anonymisieren, chronologisieren, zitierbar machen und entscheiden, was tatsaechlich in den Druck soll.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis fuer einen Verlagsbeitrag dienen sollen. Klaeren Sie:
+Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis für einen Verlagsbeitrag dienen sollen. Klaeren Sie:
 
 1. Liegt das Einverstaendnis aller Mailbeteiligten zur Verwertung vor?
-2. Mandantenname, Aktenzeichen, Behoerdenname - was muss anonymisiert werden?
+2. Mandantenname, Aktenzeichen, Behördenname - was muss anonymisiert werden?
 3. Welche Mails sind tatsaechlich relevant, welche sind Rauschen?
 4. Zielformat (Praxisbericht, Anmerkung, Fallstudie)?
 
@@ -37,13 +37,13 @@ Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis fuer einen Verlagsbeitrag d
 - Hinweise der Autorin zu Vertraulichkeit.
 - Bei Anwaltsmandaten: Mandantenfreigabe schriftlich.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Vertraulichkeit klaeren.** Ohne schriftliche Freigabe der Mandantin oder anonymisierte Verwertung mit hinreichender Verfremdung: stop. § 43a Abs. 2 BRAO, § 203 StGB.
 2. **Chronologie aufbauen.** Mails nach Sendedatum sortieren. Bei verschachtelten Threads: jede Mail als eigenes Element.
-3. **Beteiligten-Tabelle.** Wer schreibt, wer empfaengt, welche Rolle? Pseudonymisieren (M = Mandantin, A = Anwalt, B = Behoerde, Az.-Code).
+3. **Beteiligten-Tabelle.** Wer schreibt, wer empfaengt, welche Rolle? Pseudonymisieren (M = Mandantin, A = Anwalt, B = Behörde, Az.-Code).
 4. **Inhaltliche Verdichtung.** Mails sind oft 80 % Hoeflichkeitsfloskel - die 20 % Substanz extrahieren.
-5. **Wortlautzitate sparsam.** Wo eine Behoerdenformulierung tragend ist, woertlich zitieren mit Anonymisierung der Beteiligten.
+5. **Wortlautzitate sparsam.** Wo eine Behördenformulierung tragend ist, woertlich zitieren mit Anonymisierung der Beteiligten.
 6. **Anlagen pruefen.** Bescheide, Vertraege - getrennt anonymisieren (Schwaerzungen sichtbar, nicht "weisse Flecken").
 7. **Sachverhalt formulieren.** Aus dem Konvolut einen klassischen Tatsachenabsatz im Beitragsstil bauen. Mails werden zur Belegunterlage, nicht zum Druckinhalt.
 
@@ -57,7 +57,7 @@ Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis fuer einen Verlagsbeitrag d
 
 ## Praxistipps der alten Redaktion
 
-- "Mailwechsel im Druck wirken selten gut. Lieber den Sachverhalt nacherzaehlen und nur eine zentrale Behoerdenpassage zitieren."
+- "Mailwechsel im Druck wirken selten gut. Lieber den Sachverhalt nacherzaehlen und nur eine zentrale Behördenpassage zitieren."
 - Originalmails als Belegunterlage im Verlagsarchiv aufbewahren (Audit), aber nicht drucken.
 - Anonymisierung: Personennamen, Adressen, Aktenzeichen, Bankverbindungen, Telefonnummern, IBAN, E-Mail-Adressen.
 - Bei Mandantenmails: jede Verwendung im Beitrag braucht Mandantenfreigabe - die Anwaltin entscheidet das, nicht der Verlag.
@@ -66,7 +66,7 @@ Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis fuer einen Verlagsbeitrag d
 
 **Freigabe-Anschreiben an Autorin:**
 
-> Sehr geehrter Herr Dr. Anwalt, fuer den Praxisbericht zur Behoerdenpraxis in Sachen [X] verwerten wir den uebersandten E-Mail-Wechsel als Sachverhaltsquelle. Wir benoetigen vor Druck: (1) die schriftliche Freigabe Ihrer Mandantin, (2) Bestaetigung der Anonymisierung (siehe Beleg-Anhang, anonymisierte Beteiligten-Tabelle), (3) Hinweis, ob die woertliche Wiedergabe der Behoerdenpassage vom 12.04.2026 im Druck erscheinen darf. Bitte bis 26.06.2026.
+> Sehr geehrter Herr Dr. Anwalt, für den Praxisbericht zur Behördenpraxis in Sachen [X] verwerten wir den uebersandten E-Mail-Wechsel als Sachverhaltsquelle. Wir benoetigen vor Druck: (1) die schriftliche Freigabe Ihrer Mandantin, (2) Bestaetigung der Anonymisierung (siehe Beleg-Anhang, anonymisierte Beteiligten-Tabelle), (3) Hinweis, ob die woertliche Wiedergabe der Behördenpassage vom 12.04.2026 im Druck erscheinen darf. Bitte bis 26.06.2026.
 
 **Anonymisierungs-Schablone:**
 
@@ -92,7 +92,7 @@ EUR = Betraege auf 1.000 EUR gerundet, wenn Identifikation droht
 
 - `verl-roh-research-zu-essay` - aehnlicher Verwertungsprozess.
 - `rechtecheck-urhg-verlg` - Rechte an fremden Mails.
-- `quellen-zitate-fundstellencheck` - fuer Belegbehandlung.
+- `quellen-zitate-fundstellencheck` - für Belegbehandlung.
 - `verl-aussagensicherheit-pruefung` - "darf das so im Druck?".
 - `workflow-dokumentenintake` - Intake.
 
@@ -102,5 +102,5 @@ EUR = Betraege auf 1.000 EUR gerundet, wenn Identifikation droht
 - StGB § 203, [https://www.gesetze-im-internet.de/stgb/](https://www.gesetze-im-internet.de/stgb/).
 - DSGVO Art. 6, Art. 9.
 - UrhG § 51 (Zitatschranke), § 63 (Quellenangabe).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

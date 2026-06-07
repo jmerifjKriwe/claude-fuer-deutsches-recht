@@ -7,7 +7,7 @@ description: "Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR 
 
 ## Norm
 
-ALR I 5 §§ — Konventionalstrafe als vereinbarte Geldbusse fuer Vertragsverletzung.
+ALR I 5 §§ — Konventionalstrafe als vereinbarte Geldbusse für Vertragsverletzung.
 
 ## Funktion
 
@@ -35,6 +35,22 @@ ALR I 5 §§ — Konventionalstrafe als vereinbarte Geldbusse fuer Vertragsverle
 1. Vereinbarung wirksam?
 2. Hoehe angemessen?
 3. Anrechnung?
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 StGB` — Keine Strafe ohne Gesetz.
+- `§ 15 StGB` — Vorsatz/Fahrlaessigkeit.
+- `§ 16 Abs. 1 StGB` — Tatbestandsirrtum.
+- `§ 17 StGB` — Verbotsirrtum.
+- `§ 46 Abs. 1 StGB` — Strafzumessung.
+- `§ 152 Abs. 2 StPO` — Legalitaetsprinzip/Anfangsverdacht.
+- `§ 160 Abs. 2 StPO` — Ermittlung auch entlastender Umstaende.
+- `§ 244 Abs. 2 StPO` — Aufklaerungspflicht.
+- `§ 261 StPO` — freie richterliche Beweiswuerdigung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

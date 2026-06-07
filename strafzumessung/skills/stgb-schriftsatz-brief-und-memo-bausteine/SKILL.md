@@ -100,7 +100,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 
  Bewaehrungsfaehig? Ja/Nein - Begruendung ...
 
- Belege fuer Strafmilderung (Status):
+ Belege fÃ¼r Strafmilderung (Status):
  [ ] BZRG-Auszug
  [ ] Lohnabrechnung 3 Monate (Tagessatz-Hoehe)
  [ ] Therapiebescheinigung

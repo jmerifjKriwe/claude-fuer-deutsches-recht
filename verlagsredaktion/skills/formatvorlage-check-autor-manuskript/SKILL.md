@@ -36,7 +36,7 @@ Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klaeren Sie:
 - Autorenmanuskript.
 - Eingangsmail mit Hinweis auf Manuskriptrichtlinien.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Eingangs-Sicherung.** Manuskript-Original ablegen, Arbeitskopie anlegen mit Versions-Stempel.
 2. **Strukturpruefung.** Ueberschriftenhierarchie (Verlagsvorlage: H1, H2, H3?), maximale Verschachtelungstiefe.
@@ -67,7 +67,7 @@ Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klaeren Sie:
 
 **Rueckmeldung an Autorin (Format-Defekt):**
 
-> Sehr geehrter Herr Dr. Schmidt, vielen Dank fuer Ihr Manuskript zu "[Titel]" vom 02.06.2026. Bei der Eingangspruefung haben wir die Einhaltung der NJW-Manuskriptrichtlinien geprueft (siehe NJW-Hinweise Stand 04/2026, in der Anlage). Sieben Stops haben wir markiert (siehe Befundtabelle, Anlage). Bitte ueberarbeiten Sie das Manuskript bis 16.06.2026. Bei Rueckfragen erreichen Sie uns unter ...
+> Sehr geehrter Herr Dr. Schmidt, vielen Dank für Ihr Manuskript zu "[Titel]" vom 02.06.2026. Bei der Eingangspruefung haben wir die Einhaltung der NJW-Manuskriptrichtlinien geprueft (siehe NJW-Hinweise Stand 04/2026, in der Anlage). Sieben Stops haben wir markiert (siehe Befundtabelle, Anlage). Bitte ueberarbeiten Sie das Manuskript bis 16.06.2026. Bei Rueckfragen erreichen Sie uns unter ...
 
 **Befund-Tabelle (Vorlage):**
 
@@ -108,6 +108,6 @@ Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klaeren Sie:
 
 - NJW-Manuskriptrichtlinien (vom Verlag bezogen, Stand jeweils im Manuskriptbearbeitungspaket).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.

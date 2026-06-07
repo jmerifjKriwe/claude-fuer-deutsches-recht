@@ -215,13 +215,13 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## Zweck
 
-Neue Abwesenheit in `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/urlaubsregister.yaml` eintragen, sodass der Urlaub-/Fehlzeiten-Tracker alle Fristen ab Tag 1 überwacht.
+Neue Abwesenheit in `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/urlaubsregister.yaml` eintragen, sodass der Urlaub-/Fehlzeiten-Tracker alle Fristen ab Tag 1 überwacht.
 
 ## Eingaben
 
 - Mitarbeiter-Angaben (Name/ID – anonymisiert genügt)
 - Abwesenheitstyp und Startdatum
-- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifvertrag
+- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifvertrag
 
 ## Ablauf
 
@@ -280,7 +280,7 @@ Je nach Abwesenheitstyp:
 
 ### 4. Eintrag schreiben
 
-Register-Eintrag anlegen in `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/urlaubsregister.yaml`:
+Register-Eintrag anlegen in `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/urlaubsregister.yaml`:
 
 ```yaml
 - id: [generierte ID]
@@ -363,8 +363,8 @@ Dieser Skill überprüft alle offenen Abwesenheiten mit gesetzlichen Fristen und
 
 ## Eingaben
 
-- HRIS-Zugang (falls konfiguriert) oder `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/urlaubsregister.yaml`
-- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifvertrag, Betriebsvereinbarungen
+- HRIS-Zugang (falls konfiguriert) oder `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/urlaubsregister.yaml`
+- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifvertrag, Betriebsvereinbarungen
 
 ## Ablauf
 

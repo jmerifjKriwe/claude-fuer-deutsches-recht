@@ -55,7 +55,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. **Rechtsformwahl prüfen:** Haftungsbedarf (beschränkt vs. unbeschränkt), Kapitalverfügbarkeit, Steuerstruktur (Körperschaft- vs. Einkommensteuer-Transparenz), Mitarbeiterzahl/Mitbestimmung, Investorenrunden, Exit-Optionen.
 3. **Registerweg planen:** GmbH/AG: Notar → HRB-Anmeldung Amtsgericht; UG: Musterprotokoll § 2 Abs. 1a GmbHG möglich, beschleunigt aber begrenzt; OHG/KG: HRA; GbR: seit MoPeG eGbR möglich (Voraussetzung für GbR-Erwerb von Grundstücken/GmbH-Anteilen § 707a BGB n.F.).
 4. **Begleitende Behörden:** Gewerbeanmeldung Gewerbeamt (§ 14 GewO), Finanzamt (Steuernummer, USt-ID, Anmeldung Körperschaft-/Gewerbesteuer), Transparenzregister (§ 19 GwG, Eintragung wirtschaftlich Berechtigte), IHK/HwK-Pflichtmitgliedschaft.
-5. **Anschluss:** Anschluss-Skill `spezial-gmbh-fristen-form-und-zustaendigkeit` (GmbH-spezifisch), `gesellschaftsgruender-kg-und-gmbhcokg` (Personengesellschaft), `gesellschaftsgruender-transparenzregister` (GwG-Eintragung).
+5. **Anschluss:** Anschluss-Skill `spezial-gmbh-fristen-form-und-zuständigkeit` (GmbH-spezifisch), `gesellschaftsgruender-kg-und-gmbhcokg` (Personengesellschaft), `gesellschaftsgruender-transparenzregister` (GwG-Eintragung).
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

@@ -1,13 +1,13 @@
 ---
 name: besoldung-verfassungswidrig-a-besoldung
-description: "Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema fuer den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag fuer das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema für den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag für das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verfassungswidrige A-Besoldung — Mindestabstandsgebot und Geltendmachung
 
 ## Arbeitsbereich
 
-Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema fuer den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag fuer das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema für den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag für das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema fu
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte und Richter, die geltend machen wollen, dass ihre Besoldung in der A-Skala (insb. niedrigere Besoldungsgruppen A4 bis A9 mit unterhaltsberechtigten Kindern) das verfassungsrechtliche Mindestabstandsgebot zur Grundsicherung nicht einhaelt. Anwendung neben `amtsangemessene-alimentation-bverfg` und `familienzuschlag-drittes-kind-bverfg`.
+Skill für Beamte und Richter, die geltend machen wollen, dass ihre Besoldung in der A-Skala (insb. niedrigere Besoldungsgruppen A4 bis A9 mit unterhaltsberechtigten Kindern) das verfassungsrechtliche Mindestabstandsgebot zur Grundsicherung nicht einhaelt. Anwendung neben `amtsangemessene-alimentation-bverfg` und `familienzuschlag-drittes-kind-bverfg`.
 
 ## 2. Eingaben
 
@@ -35,11 +35,11 @@ Skill fuer Beamte und Richter, die geltend machen wollen, dass ihre Besoldung in
 - Das BVerfG verlangt einen wirksamen Abstand zwischen der Besoldung der untersten Besoldungsgruppen und dem sozialhilferechtlichen Grundsicherungsniveau (gemessen am SGB II / SGB XII unter Beruecksichtigung von Regelbedarfen, Unterkunfts- und Heizkosten und Kinderbedarfen).
 - Faustregel: ca. 15 Prozent oberhalb des Grundsicherungsniveaus. Im Einzelfall pruefen.
 
-### b) Familienzuschlag fuer Mehrkinderfamilien
-- Familienzuschlag fuer das dritte und jedes weitere Kind hat eine zentrale Rolle. Bei zu niedrigem Zuschlag verstoesst die Besoldung gegen Art. 33 Abs. 5 GG — siehe Schwester-Skill `familienzuschlag-drittes-kind-bverfg`.
+### b) Familienzuschlag für Mehrkinderfamilien
+- Familienzuschlag für das dritte und jedes weitere Kind hat eine zentrale Rolle. Bei zu niedrigem Zuschlag verstoesst die Besoldung gegen Art. 33 Abs. 5 GG — siehe Schwester-Skill `familienzuschlag-drittes-kind-bverfg`.
 
 ### c) Geltendmachung zeitnah
-- Wichtige BVerfG-Bedingung: Der Beamte muss seinen Anspruch zeitnah im laufenden Haushaltsjahr geltend machen (Widerspruch). Ohne zeitnahe Geltendmachung kein Nachzahlungsanspruch fuer vergangene Jahre.
+- Wichtige BVerfG-Bedingung: Der Beamte muss seinen Anspruch zeitnah im laufenden Haushaltsjahr geltend machen (Widerspruch). Ohne zeitnahe Geltendmachung kein Nachzahlungsanspruch für vergangene Jahre.
 
 ### d) Verfahrenslage
 - Widerspruch gegen die monatliche Bezuegemitteilung.

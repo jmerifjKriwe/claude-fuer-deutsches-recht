@@ -9,6 +9,23 @@ description: "Diakonat und Dienst: Dienst des Diakons, Liturgie, Verkündigung u
 
 Diakonat und Dienst: Dienst des Diakons, Liturgie, Verkündigung und Caritas; CIC can. 1008-1009 und 1031; KKK 1569-1571; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Canones- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
+- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
+- `CIC can. 96` — Rechtsstellung der Getauften.
+- `CIC can. 1055 § 1` — Ehebegriff.
+- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
+- `CIC can. 1246 § 1` — Sonn- und Feiertage.
+- `CIC can. 1752` — salus animarum als Auslegungsziel.
+- `KKK 1776` — Gewissen.
+- `KKK 1783` — Gewissensbildung.
+- `KKK 2032` — kirchliche Morallehre.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

@@ -25,7 +25,7 @@ Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswe
 
 ## Erste Schritte
 
-1. Verrechnungspreisdokumentation (Masterfile Localfile) auf Relevanz fuer Zollwert pruefen.
+1. Verrechnungspreisdokumentation (Masterfile Localfile) auf Relevanz für Zollwert pruefen.
 2. Transaktionswert nach UZK Art. 70 Pruefung: Gibt es Preisbeeinflussung durch Verhaeltnis (Art. 70 Abs. 3)?
 3. Preisanpassungen und True-Ups: retroaktive Zollwertkorrektur und Nachanmeldungspflicht pruefen.
 4. APA-Vereinbarung auf Zollwert-Kompatibilitaet pruefen; WTO Valuation Agreement Art. 1.
@@ -60,7 +60,7 @@ Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswe
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Konsistenzanalyse Zollwert/Verrechnungspreise, Nacherhebungsrisiko-Memo, Empfehlungen fuer True-Up-Klauseln und Ruecksprache-Strategie mit Haupt- und Finanzzollamt.
+Konsistenzanalyse Zollwert/Verrechnungspreise, Nacherhebungsrisiko-Memo, Empfehlungen für True-Up-Klauseln und Ruecksprache-Strategie mit Haupt- und Finanzzollamt.
 
 ## Quellen
 

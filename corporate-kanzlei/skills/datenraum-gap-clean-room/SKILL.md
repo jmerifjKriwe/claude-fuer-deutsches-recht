@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -107,7 +107,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche Datenraum-Plattform? Welche Dokument-Kategorien fehlen noch?
 2. Wie weit ist die IRL (Information Request List) abgearbeitet? Quantifizieren.
 3. Welche Workstreams sind zeitkritisch (z.B. Steuer vor DD-Abschluss)?
-4. Gibt es kartellrechtliche Clean-Room-Anforderungen (GWB Clean Team fuer Wettbewerber)?
+4. Gibt es kartellrechtliche Clean-Room-Anforderungen (GWB Clean Team für Wettbewerber)?
 5. Welche sensiblen Daten (HR, Kunden-Namen, Betriebsgeheimnisse) brauchen eingeschraenkten Zugang?
 6. Sind W&I-Underwriter im Prozess? (Underwriter-Zugriffsrechte separat regeln)
 
@@ -116,7 +116,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Art. 5, 28 DSGVO** — Datensparsamkeit; Auftragsverarbeitung; keine unnoetigen Personal-Daten im DR
 - **§§ 1, 19 GWB** — kartellrechtliche Clean-Room-Anforderung bei Wettbewerber-Transaktionen; Informationsaustausch verboten bis Freigabe
 - **§ 17 UWG** — Geschaeftsgeheimnis; Schutz sensibler Informationen auch im DD-Prozess
-- **Art. 18 MAR** — Insider-Log fuer jeden mit Datenraum-Zugang bei borsennotierten Zielgesellschaften
+- **Art. 18 MAR** — Insider-Log für jeden mit Datenraum-Zugang bei borsennotierten Zielgesellschaften
 
 ## Aktuelle Rechtsprechung
 
@@ -147,7 +147,7 @@ Bei Transaktionen zwischen Wettbewerbern prueft das Bundeskartellamt den Informa
 4. Ergebnisse nur in aggregierter/anonymisierter Form an das Verhandlungsteam
 5. Protokollierung aller Clean-Team-Aktivitaeten
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Ausgangsstatus erfassen** — Datenraum-Index gegen IRL spiegeln; fehlende Positionen markieren
 2. **Prioritaeten festlegen** — kritische Pfade (Tax, Litigation, wesentliche Vertraege) zuerst

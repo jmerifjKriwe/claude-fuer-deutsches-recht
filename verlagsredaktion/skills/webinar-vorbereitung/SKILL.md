@@ -28,7 +28,7 @@ Ein erfolgreicher Aufsatz oder ein neues Buch wird zum Webinar ausgebaut: 60-90 
 3. Soll FAO-Fortbildungsbescheinigung ausgestellt werden (BRAO § 43a Abs. 6, FAO § 15)?
 4. Plattform (Zoom, MS Teams, Webex, eigene Plattform)?
 5. Aufzeichnung und spaetere Verwertung als Onlinekurs?
-6. Honorar fuer den Autor (Festhonorar, Umsatzbeteiligung)?
+6. Honorar für den Autor (Festhonorar, Umsatzbeteiligung)?
 7. Werbung intern (Newsletter, Social, PM) und extern (Anzeigenkooperation)?
 
 ## Rechtlicher und sachlicher Rahmen
@@ -38,10 +38,10 @@ Ein erfolgreicher Aufsatz oder ein neues Buch wird zum Webinar ausgebaut: 60-90 
 - UrhG § 32 - angemessene Verguetung; Festhonorar oder Beteiligung am Verkaufserloes der Aufzeichnung.
 - KUG §§ 22, 23 - Bildnisrecht des Referenten und der Teilnehmenden bei Aufzeichnung.
 - DSGVO Art. 6, 13, 28 - Rechtsgrundlage, Informationspflichten, Auftragsverarbeitung mit Plattform.
-- TDDDG / TTDSG § 25 - Einwilligung fuer Cookies und Trackingpixel.
-- UWG § 7 - Werbe-E-Mails an Teilnehmende fuer Folgeveranstaltungen.
+- TDDDG / TTDSG § 25 - Einwilligung für Cookies und Trackingpixel.
+- UWG § 7 - Werbe-E-Mails an Teilnehmende für Folgeveranstaltungen.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Format definieren.** 60 oder 90 Minuten; Vortrag mit Q&A oder Workshopformat; Folien oder Bildschirmfreigabe.
 2. **Vertrag mit Autor.** Webinarvertrag separat vom Buchvertrag; Honorar, Aufzeichnungsrechte, Verwertung als Onlinekurs, Folgeauftritte.
@@ -88,7 +88,7 @@ Teilnahmegebuehr: EUR [...] inkl. USt.
 
 [ ] Vorname, Name
 [ ] Berufsfunktion (z. B. Rechtsanwalt, Steuerberater)
-[ ] Kammer / Mitgliedsnummer (fuer FAO-Bescheinigung)
+[ ] Kammer / Mitgliedsnummer (für FAO-Bescheinigung)
 [ ] E-Mail
 [ ] Rechnungsanschrift
 [ ] Ich habe die Datenschutzhinweise gelesen [Link].
@@ -106,7 +106,7 @@ Teilnahmegebuehr: EUR [...] inkl. USt.
 "Bevor wir starten, ein kurzer Hinweis: Dieses Webinar wird
 aufgezeichnet. Wer eine Wortmeldung im Q&A nicht aufgezeichnet
 haben moechte, schreibt die Frage bitte im Chat. Die Aufzeichnung
-wird Teilnehmenden fuer 30 Tage zur Verfuegung gestellt und kann
+wird Teilnehmenden für 30 Tage zur Verfuegung gestellt und kann
 spaeter als Onlinekurs angeboten werden. Mit Bleiben im Webinar
 erklaeren Sie sich hiermit einverstanden."
 ```

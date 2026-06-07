@@ -5,6 +5,24 @@ description: "Dpia: Dokumentenmatrix, Lückenliste und Nachforderung im Datensch
 
 # Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 1 DSGVO` — Grundsaetze der Verarbeitung.
+- `Art. 6 Abs. 1 DSGVO` — Rechtsgrundlagen.
+- `Art. 12 DSGVO` — transparente Information.
+- `Art. 15 DSGVO` — Auskunft.
+- `Art. 17 DSGVO` — Loeschung.
+- `Art. 24 DSGVO` — Verantwortung des Verantwortlichen.
+- `Art. 32 DSGVO` — Sicherheit der Verarbeitung.
+- `Art. 33 DSGVO` — Meldung von Datenschutzverletzungen.
+- `Art. 58 DSGVO` — Befugnisse der Aufsichtsbehoerden.
+- `Art. 83 DSGVO` — Geldbussen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Spezialwissen: Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 

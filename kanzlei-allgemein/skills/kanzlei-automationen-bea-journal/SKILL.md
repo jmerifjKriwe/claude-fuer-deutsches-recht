@@ -21,15 +21,15 @@ Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisiert
 1. Welche Routine soll automatisiert werden: Postlauf, Zeitabfrage, Fristencheck, UStVA oder Tagesabschluss?
 2. Ist eine echte Systemanbindung verfuegbar (beA-Connect, Outlook, DATEV) oder soll simuliert werden?
 3. Wer muss die Automation freigeben und welche Datenschutzfolgeabschaetzung ist erforderlich (Art. 35 DSGVO)?
-4. Gibt es Konflikte mit bestehenden Kanzlei-Prozessen oder Doppelzustaendigkeiten?
+4. Gibt es Konflikte mit bestehenden Kanzlei-Prozessen oder Doppelzuständigkeiten?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- Art. 6 DSGVO — Rechtsgrundlage fuer automatisierte Datenverarbeitung in der Kanzlei
+- Art. 6 DSGVO — Rechtsgrundlage für automatisierte Datenverarbeitung in der Kanzlei
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei Einsatz externer Dienstleister
-- Art. 32 DSGVO — Technisch-organisatorische Massnahmen fuer sichere Automation
+- Art. 32 DSGVO — Technisch-organisatorische Massnahmen für sichere Automation
 - § 43 BRAO — Berufsrechtliche Pflichten bei Einsatz technischer Hilfsmittel
 
 ## Quellenregel

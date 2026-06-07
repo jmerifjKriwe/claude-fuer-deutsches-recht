@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-altvertrag
-description: "Bauueberwachung HOAI LPH 8 fuer Windpark-Fundamente und Turmbauten — Ueberwachung Pfahlgruendungen und Flachgruendungen nach DIN EN 1997-1 EC7, Stahlbeton C30/37 XS1 fuer kuestennahe Standorte, Ringfundamente nach DIBt-Zulassung, Ankerkorb-Einmessung mit Tachymeter, Ankerschrauben-Drehmomentkontrolle M48 Guete 10.9, Setzungsmonitoring sowie VOB/C-Abnahme bei Windenergieanlagen bis 200 m Nabenhoehe im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Windpark-Fundamente und Turmbauten — Ueberwachung Pfahlgruendungen und Flachgruendungen nach DIN EN 1997-1 EC7, Stahlbeton C30/37 XS1 für kuestennahe Standorte, Ringfundamente nach DIBt-Zulassung, Ankerkorb-Einmessung mit Tachymeter, Ankerschrauben-Drehmomentkontrolle M48 Guete 10.9, Setzungsmonitoring sowie VOB/C-Abnahme bei Windenergieanlagen bis 200 m Nabenhoehe im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Windpark Fundament und Turmschaft
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Windpark-Fundamente und Turmbauten — Ueberwachung Pfahlgruendungen und Flachgruendungen nach DIN EN 1997-1 EC7, Stahlbeton C30/37 XS1 fuer kuestennahe Standorte, Ringfundamente nach DIBt-Zulassung, Ankerkorb-Einmessung mit Tachymeter, Ankerschrauben-Drehmomentkontrolle M48 Guete 10.9, Setzungsmonitoring sowie VOB/C-Abnahme bei Windenergieanlagen bis 200 m Nabenhoehe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Windpark-Fundamente und Turmbauten — Ueberwachung Pfahlgruendungen und Flachgruendungen nach DIN EN 1997-1 EC7, Stahlbeton C30/37 XS1 für kuestennahe Standorte, Ringfundamente nach DIBt-Zulassung, Ankerkorb-Einmessung mit Tachymeter, Ankerschrauben-Drehmomentkontrolle M48 Guete 10.9, Setzungsmonitoring sowie VOB/C-Abnahme bei Windenergieanlagen bis 200 m Nabenhoehe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -38,12 +38,12 @@ Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchs
 
 ## Normen und Rechtsrahmen
 
-- § 650p BGB, § 650q BGB: Ingenieurvertrag Windpark, Haftung fuer geotechnische Planungsfehler
+- § 650p BGB, § 650q BGB: Ingenieurvertrag Windpark, Haftung für geotechnische Planungsfehler
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Bauueberwachung Ingenieurbauwerke, Sonderleistungen Geotechnik-Monitoring
-- VOB/C DIN 18301 Bohrarbeiten und DIN 18305 Wasserhaltungsarbeiten fuer Pfahlbohrung
+- VOB/C DIN 18301 Bohrarbeiten und DIN 18305 Wasserhaltungsarbeiten für Pfahlbohrung
 - DIN EN 1997-1 Eurocode 7 Geotechnik: GEO-Klasse 3, Pfahltragfaehigkeit, Setzungsnachweis
-- DIN EN 206:2021-06 und DIN 1045-2:2023-08: Beton C30/37 XF4 fuer Froststress Windpark-Exposition
-- DIBt-Zulassung des Herstellers fuer Turm-Fundament-Verbindung Ankerkorb und Bolzengarnitur
+- DIN EN 206:2021-06 und DIN 1045-2:2023-08: Beton C30/37 XF4 für Froststress Windpark-Exposition
+- DIBt-Zulassung des Herstellers für Turm-Fundament-Verbindung Ankerkorb und Bolzengarnitur
 
 ## Prueferaster und Kontrollpunkte
 
@@ -58,13 +58,13 @@ Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchs
 
 - Drohnenbefliegung DJI Matrice 300 RTK Zenmuse P1: Photogrammetrie Fundamentgrube nach Aushub, Orthofoto 1 cm/px, Vergleich mit geologischem Querschnitt
 - Zeitrafferaufnahme Betonage Ringfundament: GoPro HERO11 auf Stativ 1-Minuten-Intervall, Dokumentation Betonfluss und Verdichtung
-- Stahllieferscheine: Werksbescheinigung 3.1 nach EN 10204 fuer Ankerbolzen Guete 10.9 und Stahl S355 fuer Ankerkorbkonstruktion
+- Stahllieferscheine: Werksbescheinigung 3.1 nach EN 10204 für Ankerbolzen Guete 10.9 und Stahl S355 für Ankerkorbkonstruktion
 - Bohrprotokoll und Schichtenverzeichnis: DIN 4022 je Bohrung, Abgleich mit Baugrundgutachten Schichtgrenzen, Foto Bohrkern
 - PlanRadar Fotodokumentation: Jeder Mangel mit 3 Fotos Ueberblick-Detail-Kontext, GPS-Tag, Zeitstempel ISO 8601
 
 ## Meldungserstellung im ERP / SAP
 
-- SAP PM Meldungsart M1 Instandhaltungsanforderung planmaessige Pruefungen Ankerschrauben: Equipment-Nr Anlage-ID z.B. WEA-07-NF, Pruefplan PP-WIND-0001
+- SAP PM Meldungsart M1 Instandhaltungsanforderung planmäßige Pruefungen Ankerschrauben: Equipment-Nr Anlage-ID z.B. WEA-07-NF, Pruefplan PP-WIND-0001
 - SAP PS Projekt WP-XXX: Netzplan FUND-010 Erdaushub, FUND-020 Bewehrung, FUND-030 Betonage, FUND-040 Ankerkorb, FUND-050 Setzungsmonitoring
 - RIB iTWO Qualitaetsmanagement: Pruefplan Beton-Guetepruefung, automatische Eskalation bei Unterschreitung C30/37, Freigabe Bauleiter erforderlich
 - Nevaris Bautagebuch-Modul: Import Wetter-API DWD, automatische Eintragung Temperatur und Niederschlag, digitale Unterschrift Bauleiter

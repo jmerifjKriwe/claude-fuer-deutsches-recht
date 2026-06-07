@@ -22,7 +22,7 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 1. Auszahlende Gesellschaft (Tochtergesellschaft) — Sitz?
 2. Empfaengerin (Mutter) — Sitz, Rechtsform?
 3. Beteiligungshoehe?
-4. Mindesthaltedauer erfuellt (12 Monate fuer § 43b EStG/MTRL)?
+4. Mindesthaltedauer erfuellt (12 Monate für § 43b EStG/MTRL)?
 5. Substanz der Empfaengerin (§ 50d Abs. 3 EStG)?
 6. 45-Tage-Mindesthaltefrist § 50j EStG bei beschraenkt Steuerpflichtigen erfuellt?
 7. Liegt Ansaessigkeitsbescheinigung der Empfaengerin vor?
@@ -110,20 +110,20 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **BZSt-Antragsformular Dividenden-Erstattung**: das Formular fuer die Erstattung nach § 50c Abs. 3 EStG fuer auslaendische Dividendenempfaenger findet sich im BZSt-Online-Portal (BOP, bzst.de) im Bereich "Kapitalertragsteuer/Solidaritaetszuschlag — Erstattung" (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — Bezeichnungen aendern sich periodisch).
-- **Freistellungsbescheinigung BZSt fuer Schachteldividenden** nach § 43b EStG / MTRL: vorab beantragen mit drei Jahren Geltungsdauer. Empfaengergesellschaft spart Cashflow-Vorfinanzierung.
+- **BZSt-Antragsformular Dividenden-Erstattung**: das Formular für die Erstattung nach § 50c Abs. 3 EStG für auslaendische Dividendenempfaenger findet sich im BZSt-Online-Portal (BOP, bzst.de) im Bereich "Kapitalertragsteuer/Solidaritaetszuschlag — Erstattung" (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — Bezeichnungen aendern sich periodisch).
+- **Freistellungsbescheinigung BZSt für Schachteldividenden** nach § 43b EStG / MTRL: vorab beantragen mit drei Jahren Geltungsdauer. Empfaengergesellschaft spart Cashflow-Vorfinanzierung.
 - **Ansaessigkeitsbescheinigung des Heimat-FA mitsenden**: IRS Form 6166 (USA, ueber Form 8802; Bearbeitung 6-8 Wochen), HMRC Certificate of Residence (UK; 4-6 Wochen), CFR-1 (Polen). Ohne Ansaessigkeitsbescheinigung wird BZSt-Antrag im Erstcheck zurueckgewiesen.
 - **45-Tage-Cum-Cum-Frist § 50j EStG**: in der Praxis Anteils-Stichtag minus 45 Tage und plus 45 Tage festlegen — Stichtagsbuch des Depotverwalters anfordern.
 - **Substanz-Dokumentation aufbauen**: bei Holding/Konzern: Stammbuch Geschaeftsfuehrungssitzungen, Personalliste, Mietvertrag, Telefonanlage, Bankvollmachten — § 50d Abs. 3 EStG-Pruefung.
 - **Originalbelege vs. beglaubigte Kopien**: BZSt akzeptiert beglaubigte Kopien der Ansaessigkeitsbescheinigung; bei Drittstaaten teils Apostille notwendig (Spanien, Italien, USA-Konsularstempel). Originale Steuerbescheinigung der KSt im Original.
-- **Online-Antrag BZSt-Online-Portal (BOP)**: deutlich schneller als postalisch; Massen-Antraege fuer Institutionelle Anleger ueber DAV (Datenuebermittlungs-Verfahren).
+- **Online-Antrag BZSt-Online-Portal (BOP)**: deutlich schneller als postalisch; Massen-Antraege für Institutionelle Anleger ueber DAV (Datenuebermittlungs-Verfahren).
 - **Q1-Antragsfenster (Januar bis Maerz)**: BZSt-Bearbeitung kuerzer als bei Antraegen im Q4. Mandanten-Daten sammeln, sobald die jeweilige Dividende beschlossen ist.
 
 ## Trade-off-Tabelle
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Freistellungsbescheinigung vorab vs. Erstattung nachher | Antrag vor Zahlung — Empfaenger erhaelt brutto, max. 3 Jahre Geltung | Erstattung nach Einbehalt — vier Jahre Antragsfrist | bei regelmaessigen Dividenden Pfad A; bei einmaligen Pfad B |
+| Freistellungsbescheinigung vorab vs. Erstattung nachher | Antrag vor Zahlung — Empfaenger erhaelt brutto, max. 3 Jahre Geltung | Erstattung nach Einbehalt — vier Jahre Antragsfrist | bei regelmäßigen Dividenden Pfad A; bei einmaligen Pfad B |
 | MTRL vs. DBA-Hoechstsatz | EU-MTRL 0 Prozent bei 10 Prozent Beteiligung und 12 Monate Halten | DBA-Hoechstsatz 5/15 Prozent | MTRL vorrangig, wenn Voraussetzungen erfuellt — sonst DBA |
 | EU-Holding vs. direkte Beteiligung | Holding in EU-Staat zur MTRL-Nutzung | direkte Beteiligung mit DBA | bei Substanz und Ueberlegungen jenseits Steuer Pfad A; bei reiner Steueroptimierung scheitert Pfad A an § 50d Abs. 3 EStG |
 | § 8b KStG-Befreiung vs. Teileinkuenfteverfahren | Koerperschaft als Empfaenger — 95 Prozent steuerfrei | natuerliche Person — Teileinkuenfteverfahren 40 Prozent | bei groesseren Beteiligungen Koerperschaftsmantel vorteilhaft |
@@ -157,7 +157,7 @@ Sachverhalt: Deutsche GmbH (Mutter) haelt 100 Prozent an Tochter in Frankreich (
 | GewSt je nach Hebesatz (ca. 14 Prozent) | ca. 7.000 EUR |
 | Effektive Belastung auf 1 Mio. Dividende | ca. 1,5 Prozent |
 
-(**Werte sind Beispiel — konkrete Saetze fuer Frankreich und MTRL-Voraussetzungen im DBA und in der MTRL-RL nachpruefen.**)
+(**Werte sind Beispiel — konkrete Saetze für Frankreich und MTRL-Voraussetzungen im DBA und in der MTRL-RL nachpruefen.**)
 
 ## Querverweise
 

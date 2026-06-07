@@ -12,9 +12,9 @@ description: "Ausland EU Aussergerichtlicher im Plugin Verbraucherinsolvenz Schu
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `ausland-und-eu-schulden` | Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.; Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `aussergerichtlicher-einigungsversuch` | Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.; Normanker: InsO § 305 Abs. 1 Nr. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `auto-und-arbeitsweg` | Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.; Normanker: InsO § 36; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `ausland-und-eu-schulden` | Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.; Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `aussergerichtlicher-einigungsversuch` | Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.; Normanker: InsO § 305 Abs. 1 Nr. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `auto-und-arbeitsweg` | Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.; Normanker: InsO § 36; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Ausland EU Aussergerichtlicher im Plugin Verbraucherinsolvenz Schu
 
 ## 1. `ausland-und-eu-schulden`
 
-**Fokus:** Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.; Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.; Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.
 
@@ -66,7 +66,7 @@ EuInsVO; InsO; internationale Zustellung. Entscheidend ist immer der aktuelle No
 
 ## 2. `aussergerichtlicher-einigungsversuch`
 
-**Fokus:** Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.; Normanker: InsO § 305 Abs. 1 Nr. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.; Normanker: InsO § 305 Abs. 1 Nr. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.
 
@@ -105,7 +105,7 @@ InsO § 305 Abs. 1 Nr. 1. Entscheidend ist immer der aktuelle Normstand der InsO
 
 ## 3. `auto-und-arbeitsweg`
 
-**Fokus:** Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.; Normanker: InsO § 36; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.; Normanker: InsO § 36; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.
 

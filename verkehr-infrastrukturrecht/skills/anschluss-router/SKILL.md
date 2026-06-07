@@ -122,7 +122,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `verkehr-infrastrukturrecht-foerderung-vergabe` | Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44… |
+| `verkehr-infrastrukturrecht-foerderung-vergabe` | Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Länderanteil), BHO §§ 23 und 44… |
 | `verkehr-infrastrukturrecht-kommandocenter` | Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf passenden Subskill. Normen: FStrG, AEG, PBefG, StVO, BauGB, FStrG, GWB (je nach Sachgebiet).… |
 | `verkehr-infrastrukturrecht-ladeinfrastruktur` | Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung… |
 | `verkehr-infrastrukturrecht-parkraumbewirtschaftung` | Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einführt Bewohnerparkausweis oder Abschleppung wird angefochten. Normen: § 45 StVO (Bewohnerparkausweis, Verkehrszeichen), StVG § 12… |
@@ -130,48 +130,48 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `verkehr-infrastrukturrecht-schulwegsicherheit` | Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen,… |
 | `verkehr-infrastrukturrecht-sondernutzung` | Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW… |
 | `verkehr-infrastrukturrecht-strassenbahn` | Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39… |
-| `verkehr-infrastrukturrecht-verfahren` | Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO… |
+| `verkehr-infrastrukturrecht-verfahren` | Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO… |
 | `verkehr-infrastrukturrecht-verkehrsplanung` | Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht),… |
-| `verkehr-infrastrukturrecht-verkehrswende` | Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Foerderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO… |
+| `verkehr-infrastrukturrecht-verkehrswende` | Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Förderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO… |
 | `verkehr-infrastrukturrecht-wirtschaftsverkehr` | Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO… |
 
 ## Worum geht es?
 
-Das Plugin begleitet rechtliche Fragestellungen rund um Verkehrsplanung und Infrastrukturprojekte auf kommunaler und ueberregionaler Ebene. Es deckt das gesamte Spektrum vom Planfeststellungsverfahren fuer Strassenbau und Schienenstrecken ueber Ladeinfrastruktur fuer Elektromobilitaet bis hin zu Parkraumbewirtschaftung, Sondernutzung oeffentlicher Strassenflaechen und Schulwegsicherheit ab.
+Das Plugin begleitet rechtliche Fragestellungen rund um Verkehrsplanung und Infrastrukturprojekte auf kommunaler und ueberregionaler Ebene. Es deckt das gesamte Spektrum vom Planfeststellungsverfahren für Strassenbau und Schienenstrecken ueber Ladeinfrastruktur für Elektromobilitaet bis hin zu Parkraumbewirtschaftung, Sondernutzung öffentlicher Strassenflaechen und Schulwegsicherheit ab.
 
 Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstragern und OEPNV-Betreibern sowie Unternehmen, die Foerdergelder oder Vergabe-Auftraege im Infrastrukturbereich benoetigen. Das Plugin unterstuetzt sowohl die angreifende als auch die verteidigenden Seite bei Planfeststellung und Verwaltungsstreitverfahren.
 
 ## Wann brauchen Sie diese Skill?
 
-- Vorhabentraeger oder Behoerde leitet ein Planfeststellungsverfahren fuer Strassenneubau, Schieneninfrastruktur oder OEPNV ein und braucht verfahrensrechtliche Begleitung.
-- Betreiber plant Ladepunkte fuer Elektrofahrzeuge und muss Netzanschluss, Foerderungsantrag und Genehmigungsrecht klaeren.
+- Vorhabentraeger oder Behörde leitet ein Planfeststellungsverfahren für Strassenneubau, Schieneninfrastruktur oder OEPNV ein und braucht verfahrensrechtliche Begleitung.
+- Betreiber plant Ladepunkte für Elektrofahrzeuge und muss Netzanschluss, Förderungsantrag und Genehmigungsrecht klaeren.
 - Kommune fuehrt Bewohnerparkausweis oder Tempo-30-Zone ein und muss Rechtmaessigkeit und Anfechtungsrisiken beachten.
-- Unternehmen beantragt Sondernutzungserlaubnis fuer Aussengastronomie, Lieferzone oder Baustelle im oeffentlichen Strassenraum.
+- Unternehmen beantragt Sondernutzungserlaubnis für Aussengastronomie, Lieferzone oder Baustelle im öffentlichen Strassenraum.
 - OEPNV-Betreiber oder Gemeinde will Strassenbahnlinie errichten oder Konzession verteidigen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Planfeststellung** — Foermliches Verwaltungsverfahren nach §§ 72 ff. VwVfG, das Bau und Betrieb von Infrastrukturanlagen konzentriert genehmigt und private Einwendungen ausschliessen kann.
-- **GVFG** — Gemeindeverkehrsfinanzierungsgesetz; Bundesfoerderung fuer kommunale Strassenbahnprojekte und OEPNV-Infrastruktur.
-- **Sondernutzung** — Nutzung oeffentlicher Strassen, die ueber den Gemeingebrauch hinausgeht (z.B. Werbeanlagen, Aussengastronomie, Baustellenflaeche) und einer besonderen Erlaubnis bedarf.
+- **GVFG** — Gemeindeverkehrsfinanzierungsgesetz; Bundesfoerderung für kommunale Strassenbahnprojekte und OEPNV-Infrastruktur.
+- **Sondernutzung** — Nutzung öffentlicher Strassen, die ueber den Gemeingebrauch hinausgeht (z.B. Werbeanlagen, Aussengastronomie, Baustellenflaeche) und einer besonderen Erlaubnis bedarf.
 - **Planungshoheit** — Kommunale Selbstverwaltungsrecht bei der Bauleit- und Verkehrsplanung (Art. 28 Abs. 2 GG).
 - **Konzession (PBefG)** — Genehmigung zum Betrieb von Strassenbahnlinien nach dem Personenbefoerderungsgesetz.
-- **Verkehrswende** — Stadtplanerische und rechtliche Massnahmen zur Foerderung umweltfreundlicher Mobilitaet (Fussgaengerzonen, Radwege, Tempo-30-Zonen).
-- **Schulwegsicherung** — Amtspflichten der Gemeinde und des Strassenverkehrsrechts zum Schutz von Schulkindern im Strassenverkehr; relevant fuer Amtshaftung.
+- **Verkehrswende** — Stadtplanerische und rechtliche Massnahmen zur Förderung umweltfreundlicher Mobilitaet (Fussgaengerzonen, Radwege, Tempo-30-Zonen).
+- **Schulwegsicherung** — Amtspflichten der Gemeinde und des Strassenverkehrsrechts zum Schutz von Schulkindern im Strassenverkehr; relevant für Amtshaftung.
 
 ## Rechtsgrundlagen
 
 - §§ 72 ff. VwVfG — Planfeststellungsverfahren
-- FStrG, StrWG der Laender — Bundesfernstrassenrecht und Landesstrassenrecht
+- FStrG, StrWG der Länder — Bundesfernstrassenrecht und Landesstrassenrecht
 - PBefG — Personenbefoerderungsgesetz (Strassenbahn, Linienverkehr)
 - BNatSchG — Naturschutz bei Infrastrukturvorhaben
 - GVFG — Gemeindeverkehrsfinanzierungsgesetz
 - § 45 StVO — Verkehrsbeschraenkungen (Tempo-30, Spielstrasse)
 - VwGO — Verwaltungsgerichtliche Verfahren, Eilrechtsschutz
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Vorhabentraeger, Behoerde, Anlieger oder Verband?
+1. Mandantenkonstellation klaeren: Vorhabentraeger, Behörde, Anlieger oder Verband?
 2. Phase des Mandats bestimmen: Planungsphase, Genehmigungsverfahren, Foerderantrag oder Streitverfahren?
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
 4. Eilfristen pruefen: Widerspruchs- und Klagefrist gegen Planfeststellungsbeschluss (§ 74 VwVfG, §§ 70 74 VwGO).
@@ -179,24 +179,24 @@ Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstrag
 
 ## Skill-Tour (was gibt es hier?)
 
-- `verkehr-infrastrukturrecht-kommandocenter` — Zentrales Steuerungsmodul fuer neue Verkehrsinfrastruktur-Mandate mit Routing auf passende Skills.
-- `verkehr-infrastrukturrecht-planfeststellung` — Planfeststellungsverfahren fuer Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten.
+- `verkehr-infrastrukturrecht-kommandocenter` — Zentrales Steuerungsmodul für neue Verkehrsinfrastruktur-Mandate mit Routing auf passende Skills.
+- `verkehr-infrastrukturrecht-planfeststellung` — Planfeststellungsverfahren für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten.
 - `verkehr-infrastrukturrecht-strassenbahn` — Strassenbahn- und OEPNV-Infrastrukturrecht: Konzession, Planfeststellung, Linienplanung nach PBefG.
-- `verkehr-infrastrukturrecht-ladeinfrastruktur` — Ladepunkte fuer Elektromobilitaet: Netzanschluss, Genehmigung und Foerderrecht.
+- `verkehr-infrastrukturrecht-ladeinfrastruktur` — Ladepunkte für Elektromobilitaet: Netzanschluss, Genehmigung und Foerderrecht.
 - `verkehr-infrastrukturrecht-parkraumbewirtschaftung` — Bewohnerparkausweis, Abschleppanordnungen und kommunale Parkraummassnahmen rechtssicher gestalten und anfechten.
-- `verkehr-infrastrukturrecht-foerderung-vergabe` — GVFG-Foerderantrag und Vergabeverfahren fuer Infrastrukturprojekte begleiten.
-- `verkehr-infrastrukturrecht-sondernutzung` — Sondernutzungserlaubnis fuer Aussengastronomie, Werbeanlagen und Baustellenflaechen beantragen und anfechten.
+- `verkehr-infrastrukturrecht-foerderung-vergabe` — GVFG-Foerderantrag und Vergabeverfahren für Infrastrukturprojekte begleiten.
+- `verkehr-infrastrukturrecht-sondernutzung` — Sondernutzungserlaubnis für Aussengastronomie, Werbeanlagen und Baustellenflaechen beantragen und anfechten.
 - `verkehr-infrastrukturrecht-schulwegsicherheit` — Schulwegsicherung rechtlich verbessern; Amtshaftungsansprueche pruefen und geltend machen.
 - `verkehr-infrastrukturrecht-verkehrsplanung` — Strassenverkehrs- und Radverkehrsplanung rechtlich begleiten; Beteiligungspflichten und Abwaegungsfehler.
 - `verkehr-infrastrukturrecht-verkehrswende` — Fussgaengerzonen, Tempo-30-Zonen und Radverkehrsfoerderung rechtssicher gestalten.
-- `verkehr-infrastrukturrecht-verfahren` — Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten.
+- `verkehr-infrastrukturrecht-verfahren` — Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten.
 - `verkehr-infrastrukturrecht-wirtschaftsverkehr` — Lieferzonen, Wirtschaftsverkehrskonzepte und Logistikrecht im staedtischen Raum.
 
 ## Worauf besonders achten
 
 - Planfeststellungsbeschluesse werden bestandskraeftig, wenn keine rechtzeitige Klage erhoben wird; Klagefrist beachten (§ 74 Abs. 1 VwVfG i.V.m. VwGO).
-- Einwendungsausschluss (§ 73 Abs. 4 VwVfG): Wer im Anhoerungsverfahren keine Einwendungen erhebt, verliert Klagebefugnis fuer diese Punkte.
-- GVFG-Foerderantraege erfordern fruehzeitige Abstimmung mit Behoerden; spaetere Aenderungen am Vorhaben koennen Foerderausschluss ausloesen.
+- Einwendungsausschluss (§ 73 Abs. 4 VwVfG): Wer im Anhörungsverfahren keine Einwendungen erhebt, verliert Klagebefugnis für diese Punkte.
+- GVFG-Foerderantraege erfordern fruehzeitige Abstimmung mit Behörden; spaetere Aenderungen am Vorhaben koennen Foerderausschluss ausloesen.
 - Vergaberechtliche Anforderungen gelten ab definierten Schwellenwerten (EU-Schwellenwerte nach VgV); Unterschwellenverfahren unterliegen den Landesvergabeordnungen.
 - Verkehrswende-Massnahmen (Sperrungen, Geschwindigkeitsbeschraenkungen) muessen auf § 45 StVO gestuetzt sein; fehlerhafte Begruendung macht Anordnung angreifbar.
 
@@ -205,14 +205,14 @@ Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstrag
 - Einwendungsfrist im Planfeststellungsverfahren versaeumt: Nach Ablauf ist Einwendungsausschluss bindend.
 - Foerderantrag zu spaet gestellt: GVFG-Mittel werden jedes Haushaltsjahr kontingentiert; verspaetest gestellte Antraege gehen leer aus.
 - Konzessionspflicht uebersehen: Linienbusverkehr und Strassenbahn beduerften zwingend PBefG-Genehmigung; Betrieb ohne Konzession ist Ordnungswidrigkeit.
-- Sondernutzungsgebueher nicht einkalkuliert: Kommunale Sondernutzungssatzungen erheben Gebuehren; fehlende Berechnungsgrundlage fuehrt zu Nachforderungen.
+- Sondernutzungsgebueher nicht einkalkuliert: Kommunale Sondernutzungssatzungen erheben Gebühren; fehlende Berechnungsgrundlage fuehrt zu Nachforderungen.
 - Amtshaftungsansprueche bei Schulwegsicherung versaeumen: Dreijaehrige Verjaeehrungsfrist nach § 195 BGB ab Kenntnis des Schadens.
 
 ## Querverweise
 
 - Plugin `umweltrecht` — Naturschutz, FFH-Vertraeglichkeit und Artenschutz bei Infrastrukturvorhaben.
 - Plugin `aussenwirtschaft-zoll-sanktionen` — Bei EU-kofinanzierter Infrastruktur Beihilferecht und Subventionskontrolle beachten.
-- Plugin `grosskanzlei-corporate-ma` — Bei Privatisierung oder Konzessionsmodellen fuer Infrastruktur M&A-Aspekte pruefen.
+- Plugin `grosskanzlei-corporate-ma` — Bei Privatisierung oder Konzessionsmodellen für Infrastruktur M&A-Aspekte pruefen.
 
 ## Quellen und Aktualitaet
 

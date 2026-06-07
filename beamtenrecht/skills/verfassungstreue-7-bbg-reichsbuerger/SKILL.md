@@ -19,19 +19,19 @@ Skill zur beamtenrechtlichen Verfassungstreue nach § 7 BBG bzw. § 33 BeamtStG 
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, denen mangelnde Verfassungstreue vorgeworfen wird, oder fuer Bewerber, denen unter Hinweis auf die Verfassungstreue die Einstellung verweigert wird.
+Skill für Beamte, denen mangelnde Verfassungstreue vorgeworfen wird, oder für Bewerber, denen unter Hinweis auf die Verfassungstreue die Einstellung verweigert wird.
 
 ## 2. Eingaben
 
 - Konkrete Anhaltspunkte (Mitgliedschaft, Aeusserungen, Aktivitaeten)
 - Verfassungsschutzbericht (falls einschlaegig)
-- Anhoerungsschreiben
+- Anhörungsschreiben
 - Beurteilungen und dienstliche Vorgeschichte
 
 ## 3. Ablauf / Checkliste
 
 ### a) Gesetzlicher Rahmen
-- § 7 Abs. 1 Nr. 2 BBG bzw. § 7 Abs. 1 Nr. 2 BeamtStG: Eignungsvoraussetzung, dass der Bewerber jederzeit fuer die freiheitlich demokratische Grundordnung eintritt.
+- § 7 Abs. 1 Nr. 2 BBG bzw. § 7 Abs. 1 Nr. 2 BeamtStG: Eignungsvoraussetzung, dass der Bewerber jederzeit für die freiheitlich demokratische Grundordnung eintritt.
 - § 33 Abs. 1 BeamtStG bzw. § 60 Abs. 1 BBG: laufende Pflicht.
 
 ### b) Bewertungssystem
@@ -43,11 +43,11 @@ Skill fuer Beamte, denen mangelnde Verfassungstreue vorgeworfen wird, oder fuer 
 - Bekenntnis zur Nichtanerkennung der Bundesrepublik Deutschland regelmaessig schwerwiegender Verstoss; im Einstellungsverfahren regelmaessig Versagung der Eignung; im Disziplinarverfahren regelmaessig Entfernung aus dem Beamtenverhaeltnis.
 
 ### d) Verfahrensanforderungen
-- Anhoerung des Betroffenen.
+- Anhörung des Betroffenen.
 - Beweismittel: Verfassungsschutzbericht ist Indiz, aber nicht allein tragend; konkrete Tatsachen erforderlich.
 
 ### e) Rechtsweg
-- Klage zum VG; vorlaeufiger Rechtsschutz nach § 80 V oder § 123 VwGO.
+- Klage zum VG; vorläufiger Rechtsschutz nach § 80 V oder § 123 VwGO.
 
 ## 4. Quellenpflicht
 
@@ -71,4 +71,4 @@ Skill fuer Beamte, denen mangelnde Verfassungstreue vorgeworfen wird, oder fuer 
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Polizeibeamter, in Chatgruppen mit Reichsbuergerinhalten beteiligt; eine Aeusserung "BRD ist eine GmbH". Skill liefert Pruefraster mit Indizienliste, Anhoerungsstrategie und Disziplinargewichtung.
+Mandant Polizeibeamter, in Chatgruppen mit Reichsbuergerinhalten beteiligt; eine Aeusserung "BRD ist eine GmbH". Skill liefert Pruefraster mit Indizienliste, Anhörungsstrategie und Disziplinargewichtung.

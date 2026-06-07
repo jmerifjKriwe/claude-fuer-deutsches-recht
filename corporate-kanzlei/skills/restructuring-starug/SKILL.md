@@ -25,7 +25,7 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 6. Ist eine Distressed-M&A-Transaktion geplant — Insolvenzplan mit übertragendem Restrukturierungsträger oder Unternehmensverkauf aus der Insolvenz?
 7. Welche Sicherheiten (Grundpfandrechte, Pfandrechte, Sicherungsübereignung) bestehen, und wie wirken sie auf die Klassenbildung?
 8. Welcher Zeitplan ist für den Plan realistisch — Abstimmungstermin, Gerichtsbestätigung, Vollzug?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

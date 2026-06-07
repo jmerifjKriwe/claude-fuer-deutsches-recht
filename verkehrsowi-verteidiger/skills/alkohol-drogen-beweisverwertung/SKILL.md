@@ -58,7 +58,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | THC im Blutserum ab 3.5 ng/ml (seit 22.8.2024) | § 24a Abs. 1a StVG | OWi |
 | Andere Drogen-Wirkstoffnachweis | § 24a Abs. 2 StVG | OWi |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Sachverhalt aufnehmen:** AAK-Wert, BAK-Wert, Zeitpunkt der Atemtest/Blutentnahme, Fahrtende.
 2. **Zuordnung OWi oder Strafrecht?** — Trennlinie klar definieren.

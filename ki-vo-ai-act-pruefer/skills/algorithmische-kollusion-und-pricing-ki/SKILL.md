@@ -1,6 +1,6 @@
 ---
 name: algorithmische-kollusion-und-pricing-ki
-description: "Algorithmische Kollusion und KI-Pricing: Preisalgorithmen, Signalling, Hub-and-Spoke, Plattformdaten, Monitoring, Kartellrecht, Compliance-Firewalls und Beweisindikatoren fuer Rechtsabteilung und Vertrieb."
+description: "Algorithmische Kollusion und KI-Pricing: Preisalgorithmen, Signalling, Hub-and-Spoke, Plattformdaten, Monitoring, Kartellrecht, Compliance-Firewalls und Beweisindikatoren für Rechtsabteilung und Vertrieb."
 ---
 
 # Algorithmische Kollusion und Pricing-KI

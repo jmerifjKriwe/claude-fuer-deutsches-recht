@@ -46,7 +46,7 @@ Lena Beispiel erhielt einen Bussgeldbescheid: qualifiziertes Rotlicht (> 1 Sekun
 **Aufgaben:**
 1. Beweislage analysieren: Wie wurde die Rotphasendauer von > 1 Sekunde festgestellt?
 2. Angriffspunkt: Polizeibeamten koennen Sekunden nicht exakt schaetzen
-3. Sachverstaendigenantrag formulieren fuer Rotphasendauer-Messung
+3. Sachverstaendigenantrag formulieren für Rotphasendauer-Messung
 4. Haertefall-Argumentation prufen (Lena ist Krankenpflegerin, benoetigt Auto)
 
 **Erwartungshorizont:**

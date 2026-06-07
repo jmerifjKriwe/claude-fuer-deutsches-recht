@@ -60,7 +60,7 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 ### Drei Besitzkategorien
 - **Possessio civilis**: rechtsverbindlicher Besitz, geschuetzt durch interdicta.
 - **Possessio naturalis**: blosse Innehabung ohne Besitzwillen (z. B. der Verwahrer hat keine possessio civilis).
-- **Possessio iniusta**: unrechtmaessiger Besitz (Dieb), aber dennoch durch interdicta gegenueber Dritten geschuetzt.
+- **Possessio iniusta**: unrechtmäßiger Besitz (Dieb), aber dennoch durch interdicta gegenueber Dritten geschuetzt.
 
 ### Subsumtionsbeispiel: Diebstahl der Toga
 Sachverhalt: A besitzt Toga; B stiehlt sie; C kauft sie redlich vom B.

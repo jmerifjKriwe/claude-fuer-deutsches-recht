@@ -1,13 +1,13 @@
 ---
 name: lohn-betriebsausfluege-aufmerksamkeiten-60-euro
-description: "Aufmerksamkeiten 60 EUR-Freigrenze pro persoenlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufmerksamkeiten 60 EUR-Freigrenze pro persönlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Aufmerksamkeiten — 60-EUR-Freigrenze pro persoenlichem Anlass
+# Aufmerksamkeiten — 60-EUR-Freigrenze pro persönlichem Anlass
 
 ## Arbeitsbereich
 
-Aufmerksamkeiten 60 EUR-Freigrenze pro persoenlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufmerksamkeiten 60 EUR-Freigrenze pro persönlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Aufmerksamkeiten 60 EUR-Freigrenze pro persoenlichem Anlass. Anwendungsfall Sach
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufmerksamkeiten — 60-EUR-Freigrenze pro persoenlichem Anlass` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufmerksamkeiten — 60-EUR-Freigrenze pro persönlichem Anlass` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
 - **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
@@ -27,11 +27,11 @@ Aufmerksamkeiten 60 EUR-Freigrenze pro persoenlichem Anlass. Anwendungsfall Sach
 
 ## Kernsachverhalt
 
-Aufmerksamkeiten zu persoenlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines Kindes, runder Beschaeftigungs-Jubilaeum) sind LSt-frei bis 60 EUR pro Anlass (LStR R 19.6). Diese Regelung ist UNABHAENGIG von der 50-EUR-Sachbezugs-Freigrenze nach § 8 Abs. 2 Satz 11 EStG. Wichtig: keine Geldzuwendung, sondern Sachzuwendung. Anlassbezug muss erkennbar sein. Bei Ueberschreiten ist Aufmerksamkeit voll steuerpflichtig.
+Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines Kindes, runder Beschaeftigungs-Jubilaeum) sind LSt-frei bis 60 EUR pro Anlass (LStR R 19.6). Diese Regelung ist UNABHAENGIG von der 50-EUR-Sachbezugs-Freigrenze nach § 8 Abs. 2 Satz 11 EStG. Wichtig: keine Geldzuwendung, sondern Sachzuwendung. Anlassbezug muss erkennbar sein. Bei Ueberschreiten ist Aufmerksamkeit voll steuerpflichtig.
 
 ## Kaltstart-Rueckfragen
 
-1. Liegt ein persoenlicher Anlass beim AN vor (Geburtstag, Hochzeit, Geburt, Jubilaeum)?
+1. Liegt ein persönlicher Anlass beim AN vor (Geburtstag, Hochzeit, Geburt, Jubilaeum)?
 2. Welche Form der Zuwendung (Blumen, Sachgeschenk, Gutschein)?
 3. Wert der Zuwendung?
 4. Anlass dokumentiert (Karte, Vermerk)?
@@ -68,14 +68,14 @@ Aufmerksamkeiten zu persoenlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 | Beschaeftigungs-Jubilaeum 10, 20, 25 Jahre | Ja |
 | Krankheit, Genesung (Blumenstrauss) | Ja |
 | Beerdigung (Trauerbeihilfe) | Eigenes Regelwerk (R 19.7 LStR) |
-| Firmenjubilaeum (kein persoenlicher Anlass des AN) | Nein, ggf. § 19 Abs. 1 Nr. 1a EStG Betriebsveranstaltung |
+| Firmenjubilaeum (kein persönlicher Anlass des AN) | Nein, ggf. § 19 Abs. 1 Nr. 1a EStG Betriebsveranstaltung |
 
 ### Phase 2 — Hoechstgrenze
 
-- 60 EUR brutto inkl. USt pro persoenlichem Anlass.
+- 60 EUR brutto inkl. USt pro persönlichem Anlass.
 - Ueberschreitung: GESAMTE Zuwendung steuerpflichtig (Freigrenze, nicht Freibetrag).
 - Bei mehrfacher Aufmerksamkeit im Jahr: jede separat (z.B. Geburtstag + Hochzeit = beide bis 60 EUR moeglich).
-- Beispiel: Geschenkkorb fuer 55 EUR brutto zum Geburtstag = LSt- und SV-frei. Geschenkkorb fuer 65 EUR brutto = vollstaendig (alle 65 EUR) lohnsteuer- und beitragspflichtig; Pauschalierung § 37b EStG (30 Prozent) als AG-Option moeglich.
+- Beispiel: Geschenkkorb für 55 EUR brutto zum Geburtstag = LSt- und SV-frei. Geschenkkorb für 65 EUR brutto = vollstaendig (alle 65 EUR) lohnsteuer- und beitragspflichtig; Pauschalierung § 37b EStG (30 Prozent) als AG-Option moeglich.
 
 ### Phase 3 — Form der Zuwendung
 

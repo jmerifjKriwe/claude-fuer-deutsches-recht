@@ -12,10 +12,10 @@ description: "Laienhilfe EM Rente Erwerbsminderungsrente im Plugin Fachanwalt So
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-em-rente-gutachten` | Laienverstaendlicher Sozialrechts-Skill zu Em Rente Gutachten. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-erwerbsminderungsrente-antrag` | Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-fehlervermeidung-sozialrecht` | Laienverstaendlicher Sozialrechts-Skill zu Fehlervermeidung Sozialrecht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-gutachten-fehler-finden` | Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler Finden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-em-rente-gutachten` | Laienverstaendlicher Sozialrechts-Skill zu Em Rente Gutachten. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-erwerbsminderungsrente-antrag` | Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-fehlervermeidung-sozialrecht` | Laienverstaendlicher Sozialrechts-Skill zu Fehlervermeidung Sozialrecht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-gutachten-fehler-finden` | Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler Finden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ description: "Laienhilfe EM Rente Erwerbsminderungsrente im Plugin Fachanwalt So
 
 ## 1. `laienhilfe-em-rente-gutachten`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Em Rente Gutachten. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Em Rente Gutachten. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Em Rente Gutachten
 
@@ -107,7 +107,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-erwerbsminderungsrente-antrag`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Erwerbsminderungsrente Antrag
 
@@ -127,7 +127,7 @@ Dieser Skill erklaert **Erwerbsminderungsrente Antrag** so, dass auch Menschen o
 
 - Erwerbsminderungsrente (EM-Rente): § 43 SGB VI. Volle EM bei Leistungsvermoegen unter 3 Stunden taeglich, teilweise EM bei 3 bis unter 6 Stunden, jeweils auf nicht absehbare Zeit.
 - Versicherungsrechtliche Voraussetzungen: § 43 Abs. 1, 2 SGB VI – grundsaetzlich 60 Monate Wartezeit; 3/5-Belegung (drei Jahre Pflichtbeitraege in letzten fuenf Jahren vor Eintritt EM, § 43 Abs. 2 Nr. 2 SGB VI).
-- Versicherungsfall: Erwerbsminderung muss objektiv vorliegen; Berufsschutz § 240 SGB VI nur fuer geborene Jahrgaenge vor 1961 (Berufsunfaehigkeitsrente).
+- Versicherungsfall: Erwerbsminderung muss objektiv vorliegen; Berufsschutz § 240 SGB VI nur für geborene Jahrgaenge vor 1961 (Berufsunfaehigkeitsrente).
 - Antrag: § 115 SGB VI – formelles Antragsverfahren, Reha vor Rente § 9 SGB VI ("Reha vor Rente").
 - Stufen: Aerztlicher Dienst der DRV begutachtet; Gutachten kritisch lesen, ggf. eigene Befundberichte vorlegen.
 - Befristung: § 102 Abs. 2 SGB VI – Erstbewilligung i.d.R. befristet auf 3 Jahre; unbefristet erst nach 9 Jahren oder bei dauerhafter Lage.
@@ -184,7 +184,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-fehlervermeidung-sozialrecht`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Fehlervermeidung Sozialrecht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Fehlervermeidung Sozialrecht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Fehlervermeidung Sozialrecht
 
@@ -251,17 +251,17 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **Wiedereinsetzung § 67 SGG:** 1 Monat ab Wegfall des Hindernisses; **keine Versaeumnis durch grob fahrlaessiges Verhalten** verzeihlich.
  - **§ 66 SGG:** bei fehlender / fehlerhafter Rechtsbehelfsbelehrung 1 Jahr Frist.
 - **Klassische Fehler:**
- - Widerspruch nur muendlich oder per Telefon (Form § 84 I SGG: schriftlich oder zur Niederschrift bei Behoerde).
- - Adresse fehlt oder unklar - Behoerden-Sitz/Wohnsitz angeben.
+ - Widerspruch nur muendlich oder per Telefon (Form § 84 I SGG: schriftlich oder zur Niederschrift bei Behörde).
+ - Adresse fehlt oder unklar - Behörden-Sitz/Wohnsitz angeben.
  - Aktenzeichen vergessen (siehe Bescheid oben rechts).
  - Originale ohne Kopie eingereicht.
  - Keine Begruendung / kein Hilfsantrag.
- - Falsche Behoerde adressiert - z. B. Berufsgenossenschaft statt Krankenkasse.
+ - Falsche Behörde adressiert - z. B. Berufsgenossenschaft statt Krankenkasse.
 - **Beweissicherung:**
  - Atteste vor Begutachtung; konkrete Funktionsbeschreibung statt Diagnosen.
  - Pflegetagebuch ueber 14 Tage bei Pflegegrad (§§ 14, 15 SGB XI).
- - Kontoauszuege ueber 3 Monate fuer Vermoegen § 12 SGB II / III.
- - Schweigepflichtentbindung fuer Aerzte schriftlich.
+ - Kontoauszuege ueber 3 Monate für Vermoegen § 12 SGB II / III.
+ - Schweigepflichtentbindung für Aerzte schriftlich.
  - Mietvertrag/Nebenkostenabrechnung bei KdU.
 - **Hauptklippe Mitwirkung § 60 SGB I:** Versaeumnis kann zu Versagung / Entziehung fuehren § 66 SGB I; immer fristgemaess Unterlagen einreichen oder Verlaengerungsantrag stellen.
 - **Praxis-Tipp:** Sozialverband-Mitgliedschaft (VdK, SoVD) hat geringes Risiko und volles Rechtsschutz inkl. Klage; Beratungshilfe nach BerHG bei Anwalt (15 EUR Schutzgebuehr).
@@ -276,7 +276,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-gutachten-fehler-finden`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler Finden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler Finden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Gutachten Fehler Finden
 

@@ -1,13 +1,13 @@
 ---
 name: interview-roh-zu-magazinbeitrag
-description: "Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung fuer Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung für Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Interview-Roh zu Magazinbeitrag
 
 ## Arbeitsbereich
 
-Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung fuer Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung für Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -37,7 +37,7 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 - Hinweise auf "off the record"-Passagen.
 - Funktionsbezeichnung der Interviewten zum Zeitpunkt des Drucks.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Hoechstlaenge fixieren.** Magazin oft 8.000-15.000 Zeichen. Das diktiert die Zahl der Fragen (selten mehr als 7-10).
 2. **Hauptthesen sortieren.** Welche 3-5 Kernaussagen tragen das Interview? Alles drumherum dient diesen Thesen.
@@ -69,7 +69,7 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 
 > Sehr geehrte Frau Vorsitzende Richterin, anbei die redaktionelle Druckfassung unseres Gespraechs vom 14.05.2026 (Aufnahmedauer 78 Minuten, verdichtet auf rund 12.000 Zeichen, sechs Fragen). Bitte autorisieren Sie das Interview oder bitten Sie um Aenderungen direkt im Dokument (Track Changes). Brisante Stellen (S. 2 zur Verfassungsbeschwerde, S. 4 zur Kollegialitaet im Senat) haben wir gelb markiert - bitte besonders auf diese Passagen achten. Wir benoetigen Ihre Rueckmeldung bis 26.06.2026, damit die Ausgabe 07/2026 noch erreicht wird.
 
-**Interview-Standardelemente fuer Druck:**
+**Interview-Standardelemente für Druck:**
 
 - Vor- und Zwischentitel
 - Vorstellungssatz (Funktion, Karrierestation, warum gerade jetzt?)
@@ -91,14 +91,14 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 - `verl-audio-transkript-zu-fachbeitrag` - Schwester-Skill.
 - `verl-konferenzmitschnitt-zu-tagungsbericht` - Audio mit mehreren Sprechern.
 - `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `verl-aussagensicherheit-pruefung` - fuer brisante Aussagen.
+- `verl-aussagensicherheit-pruefung` - für brisante Aussagen.
 - `verl-redaktionelle-rueckmeldung-formulieren` - Rueckmeldungsstil.
 
 ## Quellen Stand 06/2026
 
 - KUG § 22 Bildnis (Portraitbild), [https://www.gesetze-im-internet.de/kunsturhg/](https://www.gesetze-im-internet.de/kunsturhg/).
-- UrhG § 51 Zitatschranke fuer Aussagen Dritter.
-- BGB §§ 823, 1004 fuer Aeusserungsrecht und Unterlassung.
+- UrhG § 51 Zitatschranke für Aussagen Dritter.
+- BGB §§ 823, 1004 für Aeusserungsrecht und Unterlassung.
 - DSGVO Art. 6 bei personenbezogenen Daten.
 - Pressekodex Ziff. 2 (Sorgfalt), Ziff. 3 (Richtigstellung), [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.

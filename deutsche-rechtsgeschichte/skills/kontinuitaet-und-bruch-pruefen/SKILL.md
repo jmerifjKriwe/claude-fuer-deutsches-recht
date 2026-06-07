@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodisches Werkzeug
 
 ## Worum es geht
 
-Die Frage nach Kontinuitaet und Bruch ist eine der grundlegendsten der deutschen Rechtsgeschichte. Scheinbare Brueche: 1945 schien das Recht neu zu beginnen, aber viele NS-Juristen arbeiteten weiter. 1990 schien DDR-Recht beendet, aber viele DDR-Regelungen galten uebergangsweise fort. Echte Brueche: 1933 Ermächtigungsgesetz als Bruch mit der WRV; 1945 Totalzusammenbruch. Das Pruef-Instrument fragt: (1) Normkontinuitaet (gleicher Gesetzestext?), (2) Institutionenkontinuitaet (gleiche Behoerden, Gerichte?), (3) Personalkaontinuitaet (gleiche Richter, Beamten?), (4) Dogmatikkontinuitaet (gleiche Rechtsbegriffe und Prinzipien?).
+Die Frage nach Kontinuitaet und Bruch ist eine der grundlegendsten der deutschen Rechtsgeschichte. Scheinbare Brueche: 1945 schien das Recht neu zu beginnen, aber viele NS-Juristen arbeiteten weiter. 1990 schien DDR-Recht beendet, aber viele DDR-Regelungen galten uebergangsweise fort. Echte Brueche: 1933 Ermächtigungsgesetz als Bruch mit der WRV; 1945 Totalzusammenbruch. Das Pruef-Instrument fragt: (1) Normkontinuitaet (gleicher Gesetzestext?), (2) Institutionenkontinuitaet (gleiche Behörden, Gerichte?), (3) Personalkaontinuitaet (gleiche Richter, Beamten?), (4) Dogmatikkontinuitaet (gleiche Rechtsbegriffe und Prinzipien?).
 
 ## Kernnormen / Kernquellen
 
@@ -27,7 +27,7 @@ Die Frage nach Kontinuitaet und Bruch ist eine der grundlegendsten der deutschen
 - **Kontrollratsgesetz Nr. 1 (ABl. KR 1945, 6)**: Aufhebung NS-Recht, formeller Bruch
 - **GG Art. 123 Abs. 1**: Fortgeltung alten Rechts (Normkontinuitaet trotz Bruch)
 - **Einigungsvertrag Art. 8**: Ueberleitung BRD-Recht auf DDR, formeller Bruch DDR-Recht
-- **GG Art. 143**: Uebergangsrecht fuer neue Laender
+- **GG Art. 143**: Uebergangsrecht für neue Länder
 
 ## Akteure und Institutionen
 

@@ -5,6 +5,24 @@ description: "Mandantenkommunikation im Forschungszulage-Antragstellung: 1. Wer 
 
 # Mandantenkommunikation
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 FZulG` — Anspruchsberechtigung.
+- `§ 2 Abs. 1 FZulG` — begünstigte Forschungs- und Entwicklungsvorhaben.
+- `§ 3 FZulG` — förderfähige Aufwendungen und Bemessungsgrundlage.
+- `§ 4 FZulG` — Hoehe der Forschungszulage.
+- `§ 5 FZulG` — Antrag auf Forschungszulage.
+- `§ 6 FZulG` — Bescheinigung.
+- `§ 7 FZulG` — Kumulierung mit anderen Förderungen/Beihilfen.
+- `§ 10 FZulG` — Festsetzung und Leistung.
+- `§ 12 FZulG` — Anwendung der Abgabenordnung.
+- `§ 90 Abs. 1 AO` — Mitwirkung und Belegordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Aufgabe
 Dieses Modul bearbeitet: Mandantenkommunikation im Plugin forschungszulage-antragstellung: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 

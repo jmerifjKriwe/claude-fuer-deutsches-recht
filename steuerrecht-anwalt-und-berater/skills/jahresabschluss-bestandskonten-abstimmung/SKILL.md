@@ -86,7 +86,7 @@ Vor dem JA-Endlauf muessen alle Bestandskonten (Klasse 0-3 SKR 03 bzw. entsprech
 
 - Forderungen: Einzelwertberichtigung bei zweifelhaften Schuldnern.
 - Vorraete: Niederstwertprinzip; Veraltete Bestaende.
-- Anlagen: Ausserplanmaessige Abschreibung bei dauerhafter Wertminderung.
+- Anlagen: Ausserplanmäßige Abschreibung bei dauerhafter Wertminderung.
 
 ### Phase 6 — Endgueltige Bilanz
 

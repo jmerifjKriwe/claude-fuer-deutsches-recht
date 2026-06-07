@@ -23,7 +23,7 @@ Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszusch
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser in drei Stufen ein: Basis (Stufe 1), erweiterte (Stufe 2), umfassende (Stufe 3) Notfallversorgung — plus die Sonderform Spezialversorgung. Eingruppierung beeinflusst Verguetungszuschlaege. Parallel ermoeglicht § 17b Abs. 1a KHEntgG Sicherstellungszuschlaege fuer duenn besiedelte Regionen.
+Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser in drei Stufen ein: Basis (Stufe 1), erweiterte (Stufe 2), umfassende (Stufe 3) Notfallversorgung — plus die Sonderform Spezialversorgung. Eingruppierung beeinflusst Verguetungszuschlaege. Parallel ermoeglicht § 17b Abs. 1a KHEntgG Sicherstellungszuschlaege für duenn besiedelte Regionen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Notfallstufe hat die Klinik aktuell?
@@ -35,12 +35,12 @@ Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser 
 ## Rechtlicher Rahmen
 - **SGB V § 136c Abs. 4** G-BA-Regelung Notfallversorgung.
 - **G-BA Notfallstufen-Richtlinie (Notfallstufen-RL)** als Mass.
-- **KHEntgG § 9 Abs. 1a, § 17b Abs. 1a** Zu-/Abschlaege fuer Notfallstufen, Sicherstellungszuschlag.
+- **KHEntgG § 9 Abs. 1a, § 17b Abs. 1a** Zu-/Abschlaege für Notfallstufen, Sicherstellungszuschlag.
 - **KHVVG** Modifikationen Notfallstufenkonzept (z. B. Level Ii-Kliniken).
 - **Landeskrankenhausgesetze** Konkretisierung Versorgungsbeduerfnis.
 - **MD-Strukturpruefung** zur Verifizierung der Stufenmerkmale.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Eingruppierung pruefen:** Welche Stufe gilt aktuell, welche soll gehalten/erreicht werden?
 2. **Strukturmerkmale gegenrechnen:** Aerzte, Pflege, Geraete, 24/7-Bereitschaft, intensivmed. Anbindung.
 3. **MD-Bericht auswerten:** Welche Beanstandungen, welche Heilungsmoeglichkeiten?

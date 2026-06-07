@@ -56,7 +56,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 ### Aktive Einkuenfte
 
 - Loehne (Art. 15): 183-Tage-Regel.
-- Achtung: Es gab in den 1960er-DBA fuer Belgien eine **echte Grenzgaengerregelung** in den Grenzbezirken (Aachen, Eupen, Malmedy). Diese wurde durch Aenderungsprotokolle abgeschafft und durch eine Sonderregelung in den Grenzgemeinden ersetzt — aktuellen Protokoll-Stand im konsolidierten DBA-Text pruefen.
+- Achtung: Es gab in den 1960er-DBA für Belgien eine **echte Grenzgaengerregelung** in den Grenzbezirken (Aachen, Eupen, Malmedy). Diese wurde durch Aenderungsprotokolle abgeschafft und durch eine Sonderregelung in den Grenzgemeinden ersetzt — aktuellen Protokoll-Stand im konsolidierten DBA-Text pruefen.
 
 ### Passive Einkuenfte
 
@@ -111,11 +111,11 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 ### Erstattungsverfahren belgische Vorsteuer (Roerende Voorheffing / Precompte Mobilier)
 
-- **Zustaendigkeit**: belgische Erstattung durch **Service Public Federal Finances** (FOD/SPF Finances), Centre de Perception/Inningscentrum. Aktuelle Zustaendigkeit auf **finance.belgium.be** pruefen.
-- **Antragsformulare**: belgische Formulare **276 Div.** (Antrag Erstattung Mobiliar-Steuer fuer Auslaender) bzw. Schachtel-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf finance.belgium.be zu verifizieren.
+- **Zuständigkeit**: belgische Erstattung durch **Service Public Federal Finances** (FOD/SPF Finances), Centre de Perception/Inningscentrum. Aktuelle Zuständigkeit auf **finance.belgium.be** pruefen.
+- **Antragsformulare**: belgische Formulare **276 Div.** (Antrag Erstattung Mobiliar-Steuer für Auslaender) bzw. Schachtel-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf finance.belgium.be zu verifizieren.
 - **Frist**: nach belgischem Steuerrecht regelmaessig **fuenf Jahre** ab dem Steuerjahr — vergleichsweise grosszuegig.
 - **Bearbeitungsdauer**: 6-24 Monate; bei strittigen Faellen oft Jahre.
-- **Online-Portal**: **MyMinfin** (myminfin.be) fuer belgische Steuerangelegenheiten.
+- **Online-Portal**: **MyMinfin** (myminfin.be) für belgische Steuerangelegenheiten.
 
 ### Lokaler Steuerberater-Kontakt
 
@@ -136,7 +136,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 ## Edge Cases — was Pruefer triggert
 
-- **Sondersystem fuer Sportler/Kuenstler**: Belgien hat eigenes System fuer auftretende Kuenstler/Sportler (haeufig 18 Prozent Pauschalsteuer); DBA Art. 17 sieht Quellenstaat-Besteuerung vor — bei Tournees genau dokumentieren.
+- **Sondersystem für Sportler/Kuenstler**: Belgien hat eigenes System für auftretende Kuenstler/Sportler (haeufig 18 Prozent Pauschalsteuer); DBA Art. 17 sieht Quellenstaat-Besteuerung vor — bei Tournees genau dokumentieren.
 - **EU-Beamten-Konstellation**: deutscher EU-Beamter mit Wohnsitz Bruessel — § 14 EU-BeamtenStG iVm Protokoll 7 EUV bewirkt **Wohnsitzfiktion** Deutschland; trotz physischem Aufenthalt BE bleibt deutsche Steueransaessigkeit erhalten. EU-Gehalt steuerfrei in beiden Staaten.
 - **Eupen-Malmedy-Pendler**: deutschsprachige Gemeinschaft Belgiens; klassische Grenzgaengerregelung der 1960er-Generation wurde durch Aenderungsprotokolle ersetzt — aktuellen Stand pruefen.
 - **DBI-Mismatch**: belgische Holding mit deutscher Quelle — belgische DBI gewaehrt Schachtelbefreiung im Empfaengerstaat; § 8b KStG-Befreiung in DE; bei Hybriden § 4k EStG.

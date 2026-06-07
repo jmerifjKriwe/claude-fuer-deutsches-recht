@@ -49,17 +49,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ## Strafakte-Internationaler Bezug Bausteine
-- **EuStA (Europaeische Staatsanwaltschaft - VO 2017/1939):** zustaendig fuer Straftaten gegen EU-Finanzinteressen (Mehrwertsteuerbetrug, EU-Subventionsbetrug, Korruption, Geldwaesche bei EU-Bezug); deutsches Recht anwendbar mit EU-Verfahrensanpassungen.
+- **EuStA (Europaeische Staatsanwaltschaft - VO 2017/1939):** zuständig für Straftaten gegen EU-Finanzinteressen (Mehrwertsteuerbetrug, EU-Subventionsbetrug, Korruption, Geldwaesche bei EU-Bezug); deutsches Recht anwendbar mit EU-Verfahrensanpassungen.
 - **Europaeische Ermittlungsanordnung (EEA) RL 2014/41/EU:**
  - Vereinfachte Beweiserhebung in anderen EU-Mitgliedstaaten.
  - Anwendung statt klassische Rechtshilfe gemaess EuRhuebkAG.
  - Akteneinsicht in EU-Bezug-Verfahren auch bezueglich EEA-Aufnahmen.
 - **Klassische Rechtshilfe (EuRhuebk, MLA-Abkommen):**
  - Vernehmungen im Ausland, Beweismittelbeschaffung.
- - DE-Behoerden ueber Justizministerium / GenStA.
+ - DE-Behörden ueber Justizministerium / GenStA.
 - **Auslieferungsverfahren:**
  - **Europaeischer Haftbefehl (EuHbG / RB 2002/584/JI):** schneller Verfahren in EU.
- - **IRG fuer Drittstaaten:** klassische Auslieferung.
+ - **IRG für Drittstaaten:** klassische Auslieferung.
 - **Schengen-Informationssystem (SIS II):** Ausschreibung zur Festnahme; deutsche Ermittlungsbehoerden haben direkten Zugriff.
 - **EU-Strafrechtspflege-Verfahren:** RB 2008/675/JI (Beruecksichtigung Vorverurteilungen anderer EU-Mitgliedstaaten); RB 2008/909/JI (Vollstreckungsuebernahme freiheitsentziehender Sanktionen).
 - **DSGVO im Strafverfahren:**

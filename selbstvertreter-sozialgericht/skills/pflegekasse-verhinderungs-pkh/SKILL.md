@@ -15,7 +15,7 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 | `pflegekasse-verhinderungs-und-kurzzeitpflege` | Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert die Verhinderungspflege § 39 SGB XI Kurzzeitpflege § 42 SGB XI Voraussetzungen Hoechstbetraege Kombinierbarkeit und die Anrechnungsregeln. Liefert Antragsvorlage. |
 | `pkh-anwaltsbeiordnung-erfolgsaussicht` | Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt. |
 | `pkh-vor-sozialgericht-73a-sgg` | Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklärung wirtschaftlicher Verhältnisse Anwaltsbeiordnung. |
-| `rentenauskunft-und-versicherungsverlauf-pruefen` | Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig fuer EM-Rente Altersrente Witwenrente. Liefert Pruefraster. |
+| `rentenauskunft-und-versicherungsverlauf-pruefen` | Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster. |
 | `rentenkontenklaerung-149-sgb-vi` | Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Verfahren der Kontoklaerung Antrag Belege Schwerpunkte Schulzeit Wehrdienst Mutterschutz Erziehung Pflege Arbeitslosigkeit Auslandsarbeit. Liefert Antragsvorlage. |
 
 ## Arbeitsweg
@@ -50,7 +50,7 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 
 ## Kurzzeitpflege § 42 SGB XI
 
-- Stationaere Pflege fuer Uebergangszeit (z. B. nach Krankenhausentlassung Reha).
+- Stationaere Pflege für Uebergangszeit (z. B. nach Krankenhausentlassung Reha).
 - Dauer max. 8 Wochen pro Kalenderjahr.
 - Hoechstbetrag 1774 Euro/Jahr (2024 — verifizieren).
 
@@ -112,7 +112,7 @@ Damit Sie Prozesskostenhilfe bekommen, muss Ihre Klage Aussicht haben. Wenn das 
 - **§ 114 ZPO** — Hinreichende Erfolgsaussicht, keine Mutwilligkeit.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was bedeutet "hinreichende Erfolgsaussicht"?
 
@@ -126,14 +126,14 @@ Eine gute Klagebegruendung ueberzeugt das Gericht von der Erfolgsaussicht. Achte
 
 - **Tatsachen klar dargestellt**: Was wann passiert ist.
 - **Beweise benannt**: Atteste, Zeugen, Gutachten.
-- **Rechtsfehler der Behoerde aufgezeigt**: Punktgenau, nicht allgemein.
+- **Rechtsfehler der Behörde aufgezeigt**: Punktgenau, nicht allgemein.
 
 ### Schritt 3 — Typische Konstellationen
 
 **Klar gute Erfolgsaussicht**:
 
-- Mehrere Aerzte attestieren EM, Behoerde stuetzt sich auf altes Gutachten.
-- Sanktionsbescheid ohne Anhoerung (§ 24 SGB X).
+- Mehrere Aerzte attestieren EM, Behörde stuetzt sich auf altes Gutachten.
+- Sanktionsbescheid ohne Anhörung (§ 24 SGB X).
 - Pflegegrad mit klarem Pflegeprotokoll, MD-Gutachten 2 Jahre alt.
 
 **Mittlere Erfolgsaussicht**:
@@ -209,16 +209,16 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Worum geht es?
 
-Wenn Sie sich keinen Anwalt leisten koennen, gibt es Prozesskostenhilfe (PKH). Der Staat zahlt Ihren Anwalt. Auch vor dem SG, wo das Verfahren ohnehin kostenfrei ist, ist PKH fuer die Anwaltskosten wichtig.
+Wenn Sie sich keinen Anwalt leisten koennen, gibt es Prozesskostenhilfe (PKH). Der Staat zahlt Ihren Anwalt. Auch vor dem SG, wo das Verfahren ohnehin kostenfrei ist, ist PKH für die Anwaltskosten wichtig.
 
 ## In einfacher Sprache
 
-Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn fuer Sie. Das nennt man Prozesskostenhilfe. Sie muessen das beantragen und Belege zeigen.
+Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn für Sie. Das nennt man Prozesskostenhilfe. Sie muessen das beantragen und Belege zeigen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben wenig Einkommen und Vermoegen.
-- Sie wollen einen Anwalt fuer Ihr SG-Verfahren.
+- Sie wollen einen Anwalt für Ihr SG-Verfahren.
 - Sie haben Sorge, dass Anwaltskosten zu hoch werden.
 
 ## Fachbegriffe (kurz erklaert)
@@ -230,11 +230,11 @@ Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn fuer Sie. D
 
 ## Rechtsgrundlagen
 
-- **§ 73a SGG** — Prozesskostenhilfe-Bestimmungen fuer SG/LSG.
+- **§ 73a SGG** — Prozesskostenhilfe-Bestimmungen für SG/LSG.
 - **§§ 114 ff. ZPO** — Allgemeine PKH-Vorschriften.
 - **§ 117 ZPO** — PKH-Erklaerung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sie wirtschaftlich PKH-berechtigt sind
 
@@ -247,9 +247,9 @@ Sicherheitsformel: Wer Buergergeld bekommt oder kurz drueber liegt, hat in der R
 ### Schritt 2 — Anwalt suchen
 
 - VdK oder SoVD als Mitglied: oft inklusive
-- Anwalt fuer Sozialrecht (Suche unter www.rechtsanwaltsregister.org)
+- Anwalt für Sozialrecht (Suche unter www.rechtsanwaltsregister.org)
 - "Beratungshilfe-Anwalt" beim Amtsgericht erfragen
-- Anwalt bekommen Sie schwerer fuer reine PKH-Mandate; lange Verhandlungen evtl. Anwaltskammer-Empfehlung
+- Anwalt bekommen Sie schwerer für reine PKH-Mandate; lange Verhandlungen evtl. Anwaltskammer-Empfehlung
 
 ### Schritt 3 — PKH-Antrag stellen
 
@@ -267,7 +267,7 @@ Antrag auf Prozesskostenhilfe gem. § 73a SGG i.V.m. §§ 114 ff. ZPO
 
 Ich beantrage:
 
-1. Mir wird Prozesskostenhilfe gewaehrt fuer das Verfahren wegen [Stichwort].
+1. Mir wird Prozesskostenhilfe gewaehrt für das Verfahren wegen [Stichwort].
 
 2. Mir wird Rechtsanwalt/Rechtsanwaeltin [Name, Adresse] als Prozessbevollmaechtigter beigeordnet.
 
@@ -359,7 +359,7 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 
 ## 4. `rentenauskunft-und-versicherungsverlauf-pruefen`
 
-**Fokus:** Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig fuer EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
+**Fokus:** Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
 
 # Rentenauskunft Und Versicherungsverlauf Pruefen
 
@@ -418,7 +418,7 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 
 1. Aktuelle Rentenauskunft?
 2. Vollstaendigkeitscheck?
-3. Belege fuer Lueckhe?
+3. Belege für Lueckhe?
 4. Kontoklaerungsantrag?
 
 ## 5. `rentenkontenklaerung-149-sgb-vi`

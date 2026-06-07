@@ -23,7 +23,7 @@ ALR II 1 §§ 19 bis 22 — die wahrscheinlich beruehmteste Detailregelung des A
 
 ## Rechtshistorische Bedeutung
 
-- Beleg fuer den kasuistischen Anspruch des ALR — selbst seltenste Konstellationen geregelt.
+- Beleg für den kasuistischen Anspruch des ALR — selbst seltenste Konstellationen geregelt.
 - Aufgeklaerter Charakter: Wahlrecht des Volljaehrigen, nicht nur fremdbestimmt durch Eltern oder Aerzte.
 - Sachverstaendigenkompetenz: Aerzte werden im Streit gehoert.
 

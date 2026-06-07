@@ -1,13 +1,13 @@
 ---
 name: rueckruf-fehlerbeitrag-screenshot-pdf
-description: "Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte fuer Print- und Online-Rueckruf, Kostenabwaegung im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte für Print- und Online-Rueckruf, Kostenabwaegung im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rueckruf bei spaet erkanntem Fehlerbeitrag
 
 ## Arbeitsbereich
 
-Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte fuer Print- und Online-Rueckruf, Kostenabwaegung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte für Print- und Online-Rueckruf, Kostenabwaegung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -37,14 +37,14 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
 - BGB § 1004 analog - Unterlassungs- und Beseitigungsanspruch.
 - UrhG § 14 - Recht des Urhebers auf Schutz vor Entstellung des Werks (bei eigenmaechtiger Aenderung).
 - UrhG §§ 97, 97a - Schadensersatz, Abmahnung.
-- DDG § 7 Abs. 1 i.V.m. DSA Art. 4-8 (Mere Conduit, Caching, Hosting, freiwillige Untersuchungen, kein allgemeines Monitoring) - beschraenkte Verantwortlichkeit der Diensteanbieter; DDG § 7 Abs. 2 - Sondervorschrift fuer WLAN-Anbieter (keine behoerdliche Pflicht zu Registrierung oder Passwortabfrage).
+- DDG § 7 Abs. 1 i.V.m. DSA Art. 4-8 (Mere Conduit, Caching, Hosting, freiwillige Untersuchungen, kein allgemeines Monitoring) - beschraenkte Verantwortlichkeit der Diensteanbieter; DDG § 7 Abs. 2 - Sondervorschrift für WLAN-Anbieter (keine behoerdliche Pflicht zu Registrierung oder Passwortabfrage).
 - DDG § 8 - Anspruch auf Sperrung bei Rechtsverletzung am geistigen Eigentum: Anspruch besteht nur gegen Diensteanbieter, die einen digitalen Dienst erbringen, der darin besteht, von einem Nutzer bereitgestellte Informationen in einem Kommunikationsnetz zu uebermitteln oder den Zugang zu einem Kommunikationsnetz zu vermitteln (§ 8 Abs. 1 DDG; reine Durchleitungs-/Zugangsdienste - nicht Hosting, Datenbankanbieter oder sonstige Diensteanbieter ausserhalb von Mere Conduit). Sperrung muss zumutbar und verhaeltnismaessig sein; Kostenerstattung nur bei vorsaetzlichem Zusammenwirken. Verpflichtungen zur Entfernung oder Sperrung nach allgemeinen Gesetzen auf Grund gerichtlicher oder behoerdlicher Anordnungen bleiben unberuehrt (§ 8 Abs. 4 DDG). Gegen Hosting- und Datenbankanbieter (juris, beck-online) richten sich Ansprueche stattdessen aus DSA Art. 6 i.V.m. den allgemeinen Gesetzen (Beseitigung, Unterlassung).
 - Hinweis: Das TMG ist seit Mai 2024 durch DDG plus DSA abgeloest.
 - UWG §§ 5, 5a - Irrefuehrung; bei Werbeaussagen relevant.
 - Aeusserungsrecht: BVerfG-Rechtsprechung zu Werturteil vs. Tatsachenbehauptung (zu pruefen unter bundesverfassungsgericht.de).
 - BGB § 314 - Kuendigung aus wichtigem Grund (bei Aufnahmevertrag mit Autor).
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Lage erfassen.** Welches Heft / welche ISBN / welcher Online-Stand? Wer hat was wann gemeldet?
 2. **Schwellenwert pruefen.**
@@ -55,7 +55,7 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
 3. **Sofortmassnahmen.**
  - Online: Beitrag depublizieren oder mit korrigierter Fassung ersetzen; Datenbankanbieter informieren (juris, beck-online).
  - Print: Versand stoppen, Buchhandel benachrichtigen, Remissionsangebot.
- - Loseblatt: Austauschblatt mit Hinweis fuer Abonnenten.
+ - Loseblatt: Austauschblatt mit Hinweis für Abonnenten.
 4. **Kommunikation.** An Betroffene, an Autor, an Abonnenten, an Pressevertreter (wenn der Fehler bereits oeffentlich ist).
 5. **Schadensabwehr.** Versicherung pruefen (Verlagshaftpflicht, Vermoegensschadenhaftpflicht); Justiziariat einbinden.
 6. **Dokumentation.** Chronologie, Beschluesse, Mailverkehr, Pressemitteilungen archivieren.
@@ -105,7 +105,7 @@ Wir werden Ihnen innerhalb von 5 Tagen eine korrigierte Fassung
 zur Verfuegung stellen. Bis dahin sollte der Beitrag nicht
 abrufbar sein.
 
-Vielen Dank fuer Ihre umgehende Bearbeitung.
+Vielen Dank für Ihre umgehende Bearbeitung.
 
 Mit freundlichen Gruessen
 [Name, Verlag]
@@ -139,7 +139,7 @@ Betreff: Wichtiger Hinweis - Austauschseite Loseblatt [Werktitel]
 Sehr geehrte Abonnentin, sehr geehrter Abonnent,
 
 mit der naechsten Ergaenzungslieferung erhalten Sie eine Austauschseite
-fuer Seite [n] in Ordner [n], Abschnitt [n]. Hintergrund: Die in der
+für Seite [n] in Ordner [n], Abschnitt [n]. Hintergrund: Die in der
 letzten Lieferung enthaltene Darstellung zu [Thema] war in einem Punkt
 unzutreffend.
 

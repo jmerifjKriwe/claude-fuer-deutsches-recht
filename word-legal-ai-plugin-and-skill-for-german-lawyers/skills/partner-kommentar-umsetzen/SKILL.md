@@ -37,7 +37,7 @@ Partnerkommentare sind oft kurz, schnell und mehrdeutig. Dieser Skill übersetzt
 | "mehr Druck" | Gegenseite soll merken, dass Eskalation real ist | Frist, Konsequenz, Beleg, kein Lärm |
 | "zu hart" | Beziehung oder Deal gefährdet | Ton deeskalieren, Rechtsposition halten |
 | "nicht gutachten" | Prüfungssprache stört | Urteilsstil oder Empfehlungssprache |
-| "US counsel?" | Begriff könnte im Common Law anders verstanden werden | `us-uk-legal-writing-fuer-deutsche` zuschalten |
+| "US counsel?" | Begriff könnte im Common Law anders verstanden werden | `us-uk-legal-writing-für-deutsche` zuschalten |
 | "Word sauber" | Format/Markup nicht sendefähig | `word-dokument-finish-und-layout` zuschalten |
 
 ## Ablauf

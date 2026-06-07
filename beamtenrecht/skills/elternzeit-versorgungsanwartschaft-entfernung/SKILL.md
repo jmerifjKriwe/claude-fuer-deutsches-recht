@@ -19,7 +19,7 @@ Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versorgungsanwartsch
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkungen auf Besoldung Stufenaufstieg Versorgungsbezuege und Beihilfe pruefen wollen.
+Skill für Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkungen auf Besoldung Stufenaufstieg Versorgungsbezuege und Beihilfe pruefen wollen.
 
 ## 2. Eingaben
 

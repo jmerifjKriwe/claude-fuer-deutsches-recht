@@ -58,7 +58,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Mandant ist Schuldner / Geschäftsführer mit Antragsfrage:**
  - `spezial-insolvenzreife-antragspflicht-und-haftung` (§ 15a InsO, § 15b InsO).
  - `spezial-zahlungsunfaehigkeit-tatbestand-beweis-und-belege` (§ 17 InsO, 10-Prozent-/3-Wochen-Schwelle).
- - `spezial-ueberschuldung-fristen-form-und-zustaendigkeit` (§ 19 InsO, Fortbestehensprognose 12 Monate).
+ - `spezial-ueberschuldung-fristen-form-und-zuständigkeit` (§ 19 InsO, Fortbestehensprognose 12 Monate).
 - **Verfahrensweg:**
  - `spezial-verfahrenstypen-livequellen-und-rechtsprechungscheck` (Regelinsolvenz vs. Eigenverwaltung § 270 InsO vs. Schutzschirm § 270d InsO).
  - `spezial-glaeubigerantrag-risikoampel-und-gegenargumente` (Gläubigerantrag § 14 InsO).

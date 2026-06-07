@@ -1,6 +1,6 @@
 ---
 name: art-4-ki-kompetenz-schulungsprogramm
-description: "Art. 4 KI-VO als praktisches Schulungs- und Nachweissystem: Rollendifferenzierte AI-Literacy fuer Vorstand, Legal, IT, HR, Fachabteilung, Einkauf, Support und externe Dienstleister; mit Kompetenzmatrix, Pflichtenkalender, Schulungsnachweisen, Shadow-AI-Schnittstelle und Audit-Readiness."
+description: "Art. 4 KI-VO als praktisches Schulungs- und Nachweissystem: Rollendifferenzierte AI-Literacy für Vorstand, Legal, IT, HR, Fachabteilung, Einkauf, Support und externe Dienstleister; mit Kompetenzmatrix, Pflichtenkalender, Schulungsnachweisen, Shadow-AI-Schnittstelle und Audit-Readiness."
 ---
 
 # Art. 4 KI-VO — KI-Kompetenz als Compliance-Programm
@@ -42,9 +42,9 @@ Erzeuge eine Tabelle:
 
 Liefere:
 
-- Schulungsplan fuer 30/60/90 Tage.
-- Einseitige KI-Nutzungsregel fuer Mitarbeitende.
-- Nachweismatrix fuer Audits und Marktaufsicht.
+- Schulungsplan für 30/60/90 Tage.
+- Einseitige KI-Nutzungsregel für Mitarbeitende.
+- Nachweismatrix für Audits und Marktaufsicht.
 - Trigger, wann neu geschult werden muss: neues Tool, neuer Use Case, Anhang-III-Naehe, Incident, Rollenwechsel, neue Leitlinie/Norm.
 
 ## Qualitätsregel

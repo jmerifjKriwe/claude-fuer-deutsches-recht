@@ -1,13 +1,13 @@
 ---
 name: stufenfeststellung-besoldung-27-bbesg
-description: "Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine fuer Widerspruch und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine für Widerspruch und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stufenfeststellung Besoldung nach § 27 BBesG
 
 ## Arbeitsbereich
 
-Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine fuer Widerspruch und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine für Widerspruch und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBes
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, die ihre Erfahrungsstufe der Besoldung anzweifeln. Anwendung bei Neuernannten, bei Versetzungen zwischen Bund und Land, bei Quereinsteigern aus dem Tarifbereich und bei Konstellationen mit langen Erziehungs- oder Pflegezeiten.
+Skill für Beamte, die ihre Erfahrungsstufe der Besoldung anzweifeln. Anwendung bei Neuernannten, bei Versetzungen zwischen Bund und Land, bei Quereinsteigern aus dem Tarifbereich und bei Konstellationen mit langen Erziehungs- oder Pflegezeiten.
 
 ## 2. Eingaben
 
@@ -31,11 +31,11 @@ Skill fuer Beamte, die ihre Erfahrungsstufe der Besoldung anzweifeln. Anwendung 
 ## 3. Ablauf / Checkliste
 
 ### a) Grundregel
-- § 27 BBesG: Aufstieg in den Stufen nach Erfahrungszeiten; Bundesrecht. Laender haben eigene Vorschriften, oft strukturell aehnlich.
+- § 27 BBesG: Aufstieg in den Stufen nach Erfahrungszeiten; Bundesrecht. Länder haben eigene Vorschriften, oft strukturell aehnlich.
 - Zaehlbar sind beamtenrechtliche Dienstzeiten und gleichgestellte Verwendungen.
 
 ### b) Anerkennung beruflicher Vorzeiten
-- § 28 BBesG (Bund): Beruecksichtigung beruflicher Erfahrungen, die fuer das Statusamt foerderlich waren.
+- § 28 BBesG (Bund): Beruecksichtigung beruflicher Erfahrungen, die für das Statusamt foerderlich waren.
 - Unionsrechtliche Vorgaben: Beruecksichtigung von Beschaeftigungszeiten in anderen Mitgliedstaaten nach EuGH-Rechtsprechung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 
 ### c) Verzoegerungstatbestaende

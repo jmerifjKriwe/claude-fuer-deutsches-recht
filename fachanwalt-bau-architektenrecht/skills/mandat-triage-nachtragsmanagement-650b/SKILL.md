@@ -184,7 +184,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 6. Wurde Behinderungsanzeige nach § 6 Abs. 1 VOB/B / analog § 642 BGB rechtzeitig gestellt?
 7. Gibt es Kalkulationsunterlagen aus dem Ursprungsangebot für die Kostenbasis nach § 2 Abs. 5 VOB/B?
 8. Besteht Eilbedürftigkeit — drohende Insolvenz Auftraggeber, Fertigstellungstermin überschritten, Subunternehmer unter Zeitdruck?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -210,7 +210,7 @@ Wichtige Linien (jedes Aktenzeichen vor Ausgabe ueber dejure.org / bundesgericht
 
 - BGH VII. Zivilsenat: Mehrvergütung VOB/B § 2 Abs. 5 / Abs. 6 — Tendenz seit 2019 zur Berechnung auf Grundlage der tatsaechlich erforderlichen Kosten zuzueglich angemessener Zuschlaege (Aufgabe einer rein „vorkalkulatorischen" Preisfortschreibung). Konkretes Eckurteil (BGH 08.08.2019) vor Ausgabe ueber bundesgerichtshof.de mit Aktenzeichen verifizieren.
 - BGH zum BGB-Bauvertrag § 650c BGB seit 2018: Berechnung der Mehrverguetung primaer kostenorientiert (tatsaechliche Selbstkosten + AGK + WuG); Wahlrecht des AN auf Urkalkulationsabgleich nur bei nachgewiesenem Auseinanderfallen — vor Ausgabe konkrete Entscheidung verifizieren.
-- Behinderungsanzeige § 6 VOB/B: stehende Rspr. fordert konkrete Behinderungsursache, Beginn und voraussichtliche Dauer; Pauschalhinweis genuegt nicht — OLG-Linien siehe oeffentliche Entscheidungsdatenbanken der OLG (z. B. olg-duesseldorf.nrw.de).
+- Behinderungsanzeige § 6 VOB/B: stehende Rspr. fordert konkrete Behinderungsursache, Beginn und voraussichtliche Dauer; Pauschalhinweis genuegt nicht — OLG-Linien siehe öffentliche Entscheidungsdatenbanken der OLG (z. B. olg-duesseldorf.nrw.de).
 
 Live-Verifikation Pflicht ueber dejure.org / bundesgerichtshof.de / olg-...nrw.de bzw. die jeweilige Landesjustiz-Datenbank.
 
@@ -547,7 +547,7 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -609,7 +609,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -617,7 +617,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Privates Baurecht, Architekten- und Ingenieurrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Privates Baurecht, Architekten- und Ingenieurrecht.
 - §§ 631 ff. BGB, VOB/B, HOAI, MaBV, BauFordSiG sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -653,7 +653,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Privates Baurecht, Architekten- und Ingenieurrecht (Klage auf Werklohn, Schadensersatzklage Baumangel, Honorarklage HOAI):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -685,7 +685,7 @@ Typische Antraege in Privates Baurecht, Architekten- und Ingenieurrecht (Klage a
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -720,8 +720,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Aktuelle Rechtsprechung Bau-/Architektenrecht
 
@@ -742,7 +742,7 @@ Kläre vor Beginn:
 3. Welche Beweismittel stehen bereit? (Privatsachverständiger, Gutachten, Fotos, Aufmaß)
 4. Abnahme erfolgt? (Voraussetzung Werklohnfälligkeit und Mängelgewährleistung)
 5. Liegt VOB/B-Vertrag vor? (Rügepflichten und Fristregelungen VOB/B beachten)
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -788,7 +788,7 @@ III. Mangelhaftigkeit des Werks — § 633 Abs. 2 BGB
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
-- VII ZR 181/00: ersatzlos entfernt (BGH 09.01.2003 – VII ZR 181/00 betrifft Baumangel Betondecke B25/B35 und Minderungsberechnung nach VOB/B § 13 Nr. 1, 6 a.F., BGHZ 153, 279; kein Bezug zu HOAI-Honorarklage; der im Skill genannte BGHZ-Band 153, 244 existiert fuer dieses AZ nicht; Quelle: dejure.org/2003,455)
+- VII ZR 181/00: ersatzlos entfernt (BGH 09.01.2003 – VII ZR 181/00 betrifft Baumangel Betondecke B25/B35 und Minderungsberechnung nach VOB/B § 13 Nr. 1, 6 a.F., BGHZ 153, 279; kein Bezug zu HOAI-Honorarklage; der im Skill genannte BGHZ-Band 153, 244 existiert für dieses AZ nicht; Quelle: dejure.org/2003,455)
 
 ## 4. `spezial-architektenrecht-tatbestand-beweis-und-belege`
 

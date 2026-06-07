@@ -43,7 +43,7 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 6. Handelt es sich um eine normale DD-Situation oder um einen Krisenfall (drohende Zahlungsunfähigkeit)?
 7. Sollen Kaufpreiskomponenten (Locked Box, Net Debt, Working Capital) in die Vorschau eingebaut werden?
 8. Wer empfängt die Vorschau — interne Nutzung, Hausbank, Käufer-DD, Insolvenzgericht?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -122,7 +122,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Liquiditaetsvorschau fuer Mittelstand erstellen | Vorschau nach Schema; Schriftsatz unten |
+| Standard — Liquiditaetsvorschau für Mittelstand erstellen | Vorschau nach Schema; Schriftsatz unten |
 | Variante A — Kurzfristige Engpaesse 4-Wochen-Vorschau | Kurzfrist-Vorschau als Subset; Kreditlinien pruefen |
 | Variante B — Mandant will Banken Vorschau zeigen | Banken-freundliche Darstellung; Stresstest ergaenzen |
 | Variante C — Saisonales Unternehmen Schwankungen normal | Saisonalitaets-Hinweis in Vorschau einbauen |
@@ -181,7 +181,7 @@ bitten wir Sie, uns unverzüglich telefonisch zu kontaktieren.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

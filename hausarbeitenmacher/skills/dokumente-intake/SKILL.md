@@ -20,7 +20,7 @@ Dieser Dokumenten-Intake für **Hausarbeitenmacher** ordnet Anlagen, Registerdat
 - `gutachtenstil-vs-haus-fussnotenstil-literaturrecherche-leitfaden` — Gutachtenstil Vs Haus Fussnotenstil Literaturrecherche Leitfaden
 - `haus-plagiatscheck-haus-themaeingrenzung-meinungsstreit` — Haus Plagiatscheck Haus Themaeingrenzung Meinungsstreit
 - `juristische-liefert-beweislast-rechtstheorie` — Juristische Liefert Beweislast Rechtstheorie
-- `methodenlehre-auslegung-oeffentliches-statthaft-professor` — Methodenlehre Auslegung Oeffentliches Statthaft Professor
+- `methodenlehre-auslegung-öffentliches-statthaft-professor` — Methodenlehre Auslegung Oeffentliches Statthaft Professor
 - `rechtstheorie-rechtsphilosophie-seminararbeit-modus-adressaten` — Rechtstheorie Rechtsphilosophie Seminararbeit Modus Adressaten
 - `schleimerei-seminararbeiten-sokratisch` — Schleimerei Seminararbeiten Sokratisch
 - `strafrecht-zivilrecht-strafrecht-rechtswidrigkeit` — Strafrecht Zivilrecht Strafrecht Rechtswidrigkeit

@@ -19,7 +19,7 @@ Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit. Die Prüfung kon
 
 ## Aufgabe
 
-Skill fuer Richterbesoldung — R-Besoldung und richterliche Unabhaengigkeit Art. 97 GG.
+Skill für Richterbesoldung — R-Besoldung und richterliche Unabhaengigkeit Art. 97 GG.
 
 ## Norm
 
@@ -29,7 +29,7 @@ Skill fuer Richterbesoldung — R-Besoldung und richterliche Unabhaengigkeit Art
 ## BVerfG-Linie
 
 - **BVerfG 2 BvL 17/09** vom 05.05.2015: R-Besoldung Sachsen-Anhalt zu niedrig.
-- **BVerfG 2 BvL 6/17, 2 BvL 8/17, 2 BvL 17/16** vom 04.05.2020 (R-Besoldung mehrere Laender).
+- **BVerfG 2 BvL 6/17, 2 BvL 8/17, 2 BvL 17/16** vom 04.05.2020 (R-Besoldung mehrere Länder).
 
 ## Methodischer Drei-Schritt (BVerfG)
 

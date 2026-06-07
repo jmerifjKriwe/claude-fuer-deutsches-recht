@@ -80,7 +80,7 @@ Keine Eintragungs-Barriere vorhanden?
 | Widerspruch gegen Marke | Frist-Check, Zeichenvergleich, Schriftsatz | 3 Monate ab Veroeffentlichung § 42 MarkenG |
 | UWG-Abmahnung reaktiv | Formanalyse, Missbrauch pruefen, mod. UE | ueblicherweise 7-14 Tage Reaktionsfrist |
 | Einstweilige Verfuegung | Dringlichkeit pruefen, Glaubhaftmachung | 4 Wochen Selbstwiderlegungsfrist |
-| Designverletzungsklage | SdT-Recherche, Neuheits-Eigenarts-Test | Verjaehrung 3 Jahre §§ 195, 199 BGB |
+| Designverletzungsklage | SdT-Recherche, Neuheits-Eigenarts-Test | Verjährung 3 Jahre §§ 195, 199 BGB |
 | Patent-Nichtigkeitsklage | StdT-Recherche, BPatG, Nebenintervention | Keine Frist, aber Verletzungsverfahren dringt |
 
 ## Aktuelle Rechtsprechung
@@ -96,7 +96,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - [ ] Einstweilige Verfuegung: max. 4 Wochen Kenntnis (Selbstwiderlegung)
 - [ ] Einspruch Patent: 9 Monate ab Erteilung (§ 59 Abs. 1 PatG)
 - [ ] Beschwerde BPatG: 1 Monat (§ 66 MarkenG; § 73 PatG)
-- [ ] Verjaehrung Ansprueche: 3 Jahre ab Kenntnis (§§ 195, 199 BGB)
+- [ ] Verjährung Ansprueche: 3 Jahre ab Kenntnis (§§ 195, 199 BGB)
 - [ ] Verjaerungs-Hemmung: Klage, Mahnbescheid, Verhandlung (§ 204 BGB)
 
 ## Uebergabe
@@ -117,9 +117,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. **Strategische Rolle:** Offensiv (fremdes Patent raumen) oder defensiv (Verletzungsklage abwehren)?
 3. **Stand der Technik:** Existiert konkrete Entgegenhaltung (Vorveröffentlichung, Vorbenutzung, aelteres Schutzrecht)?
 4. **Paralleles Verletzungsverfahren?** Bifurkation im DE-System beachten — Verletzung (LG/OLG) und Nichtigkeit (BPatG) sind getrennt.
-5. **EPG-Opt-out:** Ist das EP-Patent aus dem EPG herausgehalten? Wenn nein: EPG/UPC statt BPatG zustaendig.
+5. **EPG-Opt-out:** Ist das EP-Patent aus dem EPG herausgehalten? Wenn nein: EPG/UPC statt BPatG zuständig.
 6. **FRAND-Fragestellung:** Handelt es sich um ein Standard-essentielles Patent (SEP)? → Sonderpruefung Lizenzierungspflicht.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -131,14 +131,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - § 81 PatG — Nichtigkeitsklage vor BPatG
 - § 65 PatG — Beschraenkung des Patentanspruchs durch Inhaber
 - § 110 PatG — Berufung zum BGH (Nichtigkeitssenat X. ZS)
-- Art. 32 ff. EPGUE — Zustaendigkeit Einheitliches Patentgericht
+- Art. 32 ff. EPGUE — Zuständigkeit Einheitliches Patentgericht
 
 ## Klagegrunde § 22 PatG
 
 | Grund | Inhalt | Pruefung |
 |-------|--------|---------|
 | Mangelnde Neuheit § 3 PatG | Jedes Merkmal eines Anspruchs ist im StdT offenbart | Einzel-Entgegenhaltung; kein Mosaikverbot |
-| Fehlende Erfindungshoehe § 4 PatG | Gesamtheit der Anspruchsmerkmale fuer Fachmann naheliegend | Fachmann-Perspektive; Kombinationsnahelegen erlaubt |
+| Fehlende Erfindungshoehe § 4 PatG | Gesamtheit der Anspruchsmerkmale für Fachmann naheliegend | Fachmann-Perspektive; Kombinationsnahelegen erlaubt |
 | Unzureichende Offenbarung § 21 I Nr. 2 PatG | Fachmann kann Erfindung nicht ausfuehren | Ausnahme: Hinterlegung biologischen Materials |
 | Unzulaessige Erweiterung § 21 I Nr. 4 PatG | Schutzbereich ueber urspruenglich Offenbartes erweitert | Vergleich Anmeldung mit erteiltem Anspruch |
 
@@ -162,7 +162,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zustaendigkeit und Bifurkation
+## Zuständigkeit und Bifurkation
 
 ### Bundespatentgericht Muenchen (DE-Patent, klassisches EP)
 
@@ -173,9 +173,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### EPG / UPC (Einheitspatent)
 
-- Zustaendigkeit: Local Divisions (Duesseldorf, Hamburg, Muenchen) oder Central Division
+- Zuständigkeit: Local Divisions (Duesseldorf, Hamburg, Muenchen) oder Central Division
 - Zweig Verletzung und Nichtigkeit koennen in einem Verfahren behandelt werden (kein Bifurkations-Problem)
-- Opt-out moeglich fuer klassische EP-Patente bis 2030
+- Opt-out moeglich für klassische EP-Patente bis 2030
 
 ### Bifurkation im DE-System
 
@@ -183,7 +183,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Nichtigkeitsverfahren:** BPatG Muenchen
 - **Injunction Gap-Risiko:** LG kann Verletzungs-Urteil sprechen, bevor BPatG Nichtigkeit feststellt → strategisch: Nichtigkeitsklage frueh einreichen
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -193,7 +193,7 @@ Schritt 1: Patentdokumentation beschaffen
  → Anmeldungs-Tag, Prioritaets-Tag, Erteilungs-Tag notieren
 
 Schritt 2: Stand-der-Technik-Recherche
- → Patentanwalt beauftragen fuer systematische Recherche
+ → Patentanwalt beauftragen für systematische Recherche
  → NPL-Datenbanken (IEEE, Science) separat pruefen
  → Ergebnis: Entgegenhaltungs-Tabelle mit Datum und Treffer-Analyse
 
@@ -264,9 +264,9 @@ Streitwert: [BETRAG] EUR
 
 I. KLAGEANTRAEGE
 
-Die Klaegerin beantragt, das deutsche Patent DE [NR] mit Wirkung fuer die
-Bundesrepublik Deutschland fuer nichtig zu erklaeren, hilfsweise es in
-beschraenktem Umfang fuer nichtig zu erklaeren.
+Die Klaegerin beantragt, das deutsche Patent DE [NR] mit Wirkung für die
+Bundesrepublik Deutschland für nichtig zu erklaeren, hilfsweise es in
+beschraenktem Umfang für nichtig zu erklaeren.
 
 II. BEGRUENDUNG
 
@@ -354,7 +354,7 @@ Hat Mandant nach Kenntnis noch laenger zugewartet?
  → Gericht kann trotzdem Dringlichkeit verneinen
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ```
 Schritt 1: Dringlichkeit pruefen
@@ -422,7 +422,7 @@ Belege: Anlage A1 (Screenshot vom TT.MM.JJJJ)
 Im Unterlassungsfall werden wir ohne weitere Ankuendigung Antrag auf Erlass einer
 einstweiligen Verfuegung stellen.
 
-Unsere Aufwendungen fuer diese Abmahnung betragen [BETRAG] EUR (berechnet auf
+Unsere Aufwendungen für diese Abmahnung betragen [BETRAG] EUR (berechnet auf
 Basis Streitwert [BETRAG] EUR).
 
 Mit freundlichen Gruessen
@@ -431,11 +431,11 @@ Mit freundlichen Gruessen
 
 ## Output-Template Verfuegungsantrag (Grundgeruest)
 
-**Adressat:** LG [ORT], [Kammer fuer UWG] — Tonfall sachlich-juristisch
+**Adressat:** LG [ORT], [Kammer für UWG] — Tonfall sachlich-juristisch
 
 ```
 An das Landgericht [ORT]
-[Kammer fuer Handelssachen / UWG-Kammer]
+[Kammer für Handelssachen / UWG-Kammer]
 
 ANTRAG AUF ERLASS EINER EINSTWEILIGEN VERFUEGUNG
 

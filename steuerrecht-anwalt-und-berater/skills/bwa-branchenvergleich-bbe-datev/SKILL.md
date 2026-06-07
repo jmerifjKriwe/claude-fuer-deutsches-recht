@@ -51,7 +51,7 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 
 - WZ-Code des Mandanten ermitteln (aktuelle Klassifikation der Wirtschaftszweige des Statistischen Bundesamtes; bisher WZ 2008, Aktualisierung pruefen).
 - Beispiele typischer WZ-Codes: Restaurants mit Bedienung, Lebensmittel-Einzelhandel, Bau von Wohngebaeuden (konkrete Schluessel im Mandantenstamm gegen die aktuelle WZ-Fassung pruefen).
-- Im DATEV-Stammblatt erfassen — Voraussetzung fuer BBE-Auswertung (Klickpfad: Mandantendaten → Allgemeines → Branchenschluessel).
+- Im DATEV-Stammblatt erfassen — Voraussetzung für BBE-Auswertung (Klickpfad: Mandantendaten → Allgemeines → Branchenschluessel).
 - Bei Mischbetrieb: Hauptbranche festlegen und Nebenbranche dokumentieren.
 
 ### Phase 2 — BBE-Datenabruf

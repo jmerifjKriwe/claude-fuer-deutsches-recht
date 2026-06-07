@@ -21,7 +21,7 @@ Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 
 
 - Konzern liefert Lizenzgebuehr an verbundene Markengesellschaft; Zollamt fordert Hinzurechnung zum Zollwert.
 - Importeur stellt Produktionswerkzeuge dem Auslandslieferanten unentgeltlich bei; Zollwert pruefen.
-- Markenlizenz fuer Wiederverkauf: Ist Lizenz als Verkaufsbedingung fuer Import zu qualifizieren?
+- Markenlizenz für Wiederverkauf: Ist Lizenz als Verkaufsbedingung für Import zu qualifizieren?
 
 ## Erste Schritte
 
@@ -37,8 +37,8 @@ Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 
 - **UZK Art. 70**: Transaktionswert als primaere Zollwertmethode.
 - **UZK Art. 71 Abs. 1 lit. c**: Hinzurechnung von Lizenzgebuehren.
 - **UZK Art. 71 Abs. 1 lit. b**: Hinzurechnung von Assists.
-- **UZK-DA Art. 136-141**: Detailregeln fuer Lizenzgebuehren-Hinzurechnung.
-- **WTO-Bewertungsabkommen Art. 8**: Internationale Grundlage fuer Hinzurechnungen.
+- **UZK-DA Art. 136-141**: Detailregeln für Lizenzgebuehren-Hinzurechnung.
+- **WTO-Bewertungsabkommen Art. 8**: Internationale Grundlage für Hinzurechnungen.
 
 ## Pruef-Raster
 
@@ -46,13 +46,13 @@ Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 
 - [ ] Verkaufsbedingung-Test nach UZK-DA Art. 136 angewendet?
 - [ ] Assists vollstaendig erfasst und bewertet?
 - [ ] Hinzurechnungs-Kalkulation erstellt?
-- [ ] Rueckwirkungs-Risiko fuer Vorjahre quantifiziert?
+- [ ] Rueckwirkungs-Risiko für Vorjahre quantifiziert?
 - [ ] Ergebnis als Zollwert-Analyse dokumentiert?
 
 ## Typische Fallstricke
 
 - Lizenzgebuehren an Konzernmutter gelten fast immer als Verkaufsbedingung.
-- Markenlizenz fuer Weiterverkauf koennen ebenfalls hinzurechnungspflichtig sein.
+- Markenlizenz für Weiterverkauf koennen ebenfalls hinzurechnungspflichtig sein.
 - Assists werden haeufig vergessen; Konzerninterne Beistellungen besonders pruefanfaellig.
 - Nacherhebung rueckwirkend bis zu 10 Jahre bei arglistiger Verschweigung.
 
@@ -60,7 +60,7 @@ Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Zollwert-Analyse mit Royalty-Pruefpfad, Assists-Bewertungsblatt, Hinzurechnungs-Kalkulation und Risikobewertung fuer Vorjahre.
+Zollwert-Analyse mit Royalty-Pruefpfad, Assists-Bewertungsblatt, Hinzurechnungs-Kalkulation und Risikobewertung für Vorjahre.
 
 ## Quellen
 

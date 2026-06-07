@@ -21,20 +21,20 @@ Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Ab
 
 - Fleischimporteur moechte Rindfleiisch aus Uruguay zu Vorzugszollsatz importieren; TRQ-Zuteilung beantragt.
 - Stahleinfuhr aus Drittlaendern; Safeguard-Kontingent fast erschoepft; kritisches Kontingent-Management.
-- Textilinporteur stellt fest, dass Kontingent fuer bevorzugte Lieferung nicht ausgeschoepft ist; Uebertragung moeglich?
+- Textilinporteur stellt fest, dass Kontingent für bevorzugte Lieferung nicht ausgeschoepft ist; Uebertragung moeglich?
 
 ## Erste Schritte
 
-1. TARIC-Datenbank auf Kontingente fuer betroffene Waren und Ursprungslaender pruefen.
+1. TARIC-Datenbank auf Kontingente für betroffene Waren und Ursprungslaender pruefen.
 2. Kontingentart bestimmen: autonom, praeferenziell, TRQ aus Handelsabkommen.
-3. Kontingentlizenzen bei der zustendigen Stelle beantragen (z.B. BLE fuer Agrar-TRQ).
+3. Kontingentlizenzen bei der zustendigen Stelle beantragen (z.B. BLE für Agrar-TRQ).
 4. Kontingenterschoepfung und kritischen Status in TARIC kontinuierlich monitoring.
 5. Zollanmeldung mit Kontingent-Requestcode erstellen (Zusatzcode in TARIC).
 6. Kontingentlizenz aufbewahren und fristgerecht verwenden.
 
 ## Rechtsrahmen
 
-- **UZK Art. 56 Abs. 2 lit. b**: Ermaechtigung fuer Kontingente.
+- **UZK Art. 56 Abs. 2 lit. b**: Ermaechtigung für Kontingente.
 - **VO (EU) 2021/2278**: Autonome Zollaussetzungen und Kontingente.
 - **VO (EU) 1308/2013**: Agrar-TRQ-Verwaltung.
 - **UZK-IA Art. 49 ff.**: Verwaltung und Zuteilung von Zollkontingenten.
@@ -42,7 +42,7 @@ Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Ab
 
 ## Pruef-Raster
 
-- [ ] TARIC-Kontingente fuer Ware und Ursprungsland abgefragt?
+- [ ] TARIC-Kontingente für Ware und Ursprungsland abgefragt?
 - [ ] Kontingentart und Verwaltungsstelle korrekt identifiziert?
 - [ ] Kontingentlizenz rechtzeitig beantragt?
 - [ ] Erschoepfungsstatus vor Anmeldung geprueft?
@@ -60,7 +60,7 @@ Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Ab
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Kontingentantrag bei zustaendiger Stelle, Kontingent-Monitoring-Plan fuer TARIC-Erschoepfung, Lizenz-Management-Kalender.
+Kontingentantrag bei zuständiger Stelle, Kontingent-Monitoring-Plan für TARIC-Erschoepfung, Lizenz-Management-Kalender.
 
 ## Quellen
 

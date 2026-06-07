@@ -49,7 +49,7 @@ description: "Lohn Arbeitszeit Mandat Triage im Plugin Arbeitsrecht: prüft konk
 - Konkrete Frage (Freitext)
 - Jurisdiktion / Bundesland (falls nicht aus Profil erkennbar)
 - Tätigkeit / Branche (für Tarifverträge)
-- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifbindung, Arbeitszeitmodelle
+- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Tarifbindung, Arbeitszeitmodelle
 
 ## Ablauf
 
@@ -471,7 +471,7 @@ Schriftlich an Betriebsrat:
 ### Folge bei Mangel der Anzeige
 
 - BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22, sowie EuGH, Urteile vom 30.10.2025 - C-134/24 und C-402/24: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen. Eine Heilung nach Kuendigungsausspruch ist ausgeschlossen. Quellen: dejure.org-Vernetzungen; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren".
-- Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; insbesondere die bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist nach BAG 6 AZR 155/21 fuer sich allein kein zur Unwirksamkeit fuehrender Fehler.
+- Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; insbesondere die bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist nach BAG 6 AZR 155/21 für sich allein kein zur Unwirksamkeit fuehrender Fehler.
 
 ## Schritt 4 — Reihenfolge der Schritte
 
@@ -628,7 +628,7 @@ Schriftlich an Betriebsrat:
 3. Welche Branche? (Branchen-Mindestlohn möglicherweise höher als allgemeiner MiLoG-Satz)
 4. Liegt ein Tarifvertrag vor? (Tariflicher Lohn geht vor, MiLoG ist Untergrenze)
 5. Klageziel: Lohnnachzahlung, OWi-Abwehr, System-Einführung?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Anspruchsgrundlagen & Normen
 
@@ -943,7 +943,7 @@ Antraege:
 Begruendung:
 
 Die Klaeger/in war bei der Beklagten im Zeitraum
-[von] bis [bis] beschaeftigt. Die Beklagte hat fuer
+[von] bis [bis] beschaeftigt. Die Beklagte hat für
 diesen Zeitraum das Mindestlohnversprechen verletzt.
 
 Die Beklagte fuehrte kein objektives verlaessliches

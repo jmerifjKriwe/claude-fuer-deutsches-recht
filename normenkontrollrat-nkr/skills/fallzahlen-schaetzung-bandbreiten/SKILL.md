@@ -1,6 +1,6 @@
 ---
 name: fallzahlen-schaetzung-bandbreiten
-description: "Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme."
+description: "Methodischer Fachmodul für Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme."
 ---
 
 # NKR-Fallzahlen — Schaetzung und Bandbreiten
@@ -24,7 +24,7 @@ Rueckfrage nur wenn unklar: *"Was ist Ihre beste Annaeherung — und in welcher 
 - **OECD-SKM-Toolkit** — Sensitivity Analysis
 - **EU Better Regulation Toolbox** Tool 25 Quantification
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Statistikrecherche** vollstaendig dokumentieren (auch wenn keine Treffer)
 2. **Hilfsdaten** identifizieren: vergleichbare Pflichten, Branchenkennzahlen, Erfahrungswerte
@@ -50,7 +50,7 @@ Einzelfaelle werden hochgerechnet ueber typische Verteilung.
 
 Vergleich mit vergleichbarer Pflicht in anderem Rechtsgebiet (z.B. Berichtspflicht im Steuerrecht als Analogon).
 
-### Befragung / Anhoerung
+### Befragung / Anhörung
 
 Verbaende, Kammern, Vertreter der Wirtschaft befragen. Aussagen dokumentieren.
 
@@ -71,13 +71,13 @@ Aus Pilotphase oder einer ersten kleinen Stichprobe hochrechnen.
 | Datenlage | Pflicht zur Bandbreite |
 |---|---|
 | Harte Statistik vorhanden | nicht zwingend, aber empfohlen |
-| Statistik mit Lueckenbereich | ja, fuer Lueckenbereich |
+| Statistik mit Lueckenbereich | ja, für Lueckenbereich |
 | Reine Schaetzung | zwingend |
 | Hohe politische Bedeutung | zwingend plus Sensitivitaet |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Mangels statistischer Erfassung schaetzt das Ressort die Fallzahl auf [Punktwert] mit einer Bandbreite von [Min] bis [Max]. Der NKR haelt die Methodik fuer nachvollziehbar."
+- "Mangels statistischer Erfassung schaetzt das Ressort die Fallzahl auf [Punktwert] mit einer Bandbreite von [Min] bis [Max]. Der NKR haelt die Methodik für nachvollziehbar."
 - "Die Sensitivitaetsanalyse zeigt: bei Variation der Fallzahl um ± 20% bewegt sich der Erfuellungsaufwand zwischen [X] und [Y] Mio EUR jaehrlich."
 - "Der NKR weist darauf hin, dass die Fallzahl auf einer Schaetzung beruht und empfiehlt eine Nacherhebung im Rahmen der Evaluierung nach [Frist]."
 - "Der NKR begruesst die transparente Darstellung der Datenherkunft und die Sensitivitaetsanalyse."
@@ -93,7 +93,7 @@ Aus Pilotphase oder einer ersten kleinen Stichprobe hochrechnen.
 ## Typische Fehler in Ressort-Entwuerfen
 
 - "Etwa 100.000 Faelle" ohne Quelle
-- "Genauere Daten liegen nicht vor" als Begruendung fuer Verzicht auf Schaetzung
+- "Genauere Daten liegen nicht vor" als Begruendung für Verzicht auf Schaetzung
 - Punktschaetzung ohne Bandbreite
 - Keine Sensitivitaet
 

@@ -139,7 +139,7 @@ Bevor der Widerspruch eingelegt wird, klaere:
 1. Ist die 3-Monats-Widerspruchsfrist ab Veroeffentlichung der angegriffenen Marke noch offen (Art. 46 I UMV)?
 2. Welche Widerspruchsmarke wird eingesetzt — EUTM, nationale Marke, unregistriertes Zeichen (Art. 8 IV UMV)?
 3. Besteht Verwechslungsgefahr (Art. 8 I lit. b UMV) oder Bekanntheitsschutz (Art. 8 V UMV)?
-4. Ist die Widerspruchsmarke mindestens 5 Jahre alt (wenn ja: Benutzungsnachweis fuer 5-Jahres-Zeitraum vorbereiten)?
+4. Ist die Widerspruchsmarke mindestens 5 Jahre alt (wenn ja: Benutzungsnachweis für 5-Jahres-Zeitraum vorbereiten)?
 
 ## Aktuelle Rechtsprechung
 

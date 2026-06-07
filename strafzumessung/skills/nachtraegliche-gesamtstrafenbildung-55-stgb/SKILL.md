@@ -32,9 +32,9 @@ Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat
 
 - **§ 55 Abs. 1 StGB** — Wird ein bereits rechtskraeftig Verurteilter spaeter wegen einer anderen Tat verurteilt, die vor der frueheren Verurteilung begangen wurde, so ist eine nachtraegliche Gesamtstrafe nach §§ 53, 54 StGB zu bilden. Vorverurteilung muss in den Aburteilung einbezogen werden, soweit die Strafe noch nicht **vollstreckt, verjaehrt oder erlassen** ist.
 - **§ 55 Abs. 2 StGB** — Bei Nebenstrafen, Nebenfolgen und Massregeln gilt § 53 Abs. 4 StGB sinngemaess.
-- **§ 460 StPO** — Beschluss-Verfahren zur nachtraeglichen Gesamtstrafenbildung; zustaendig ist das Gericht des letzten Verfahrens.
-- **§ 462 StPO** — Anhoerung, sofortige Beschwerde.
-- **§ 462a StPO** — Strafvollstreckungskammer fuer bestimmte Konstellationen.
+- **§ 460 StPO** — Beschluss-Verfahren zur nachtraeglichen Gesamtstrafenbildung; zuständig ist das Gericht des letzten Verfahrens.
+- **§ 462 StPO** — Anhörung, sofortige Beschwerde.
+- **§ 462a StPO** — Strafvollstreckungskammer für bestimmte Konstellationen.
 
 ## Zentrale Voraussetzung — Zaesurwirkung
 
@@ -62,7 +62,7 @@ Tat C wurde **nach** der Verurteilung vom 10.07.2024 begangen — sie kann **nic
 
 In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung`.
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **BZRG-Auszug** und Verfahrensakte pruefen: Welche Vorverurteilungen liegen vor? Welche Tatzeiten?
 2. **Zaesur-Pruefung**: Wurde die abzuurteilende Tat **vor** der ersten tatrichterlichen Verurteilung begangen?
@@ -73,7 +73,7 @@ In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgle
  - Noch offen / in Vollstreckung / Bewaehrung laufend? — Einbeziehung nach § 55 StGB.
 4. **Antrag**:
  - **In der Hauptverhandlung**: "Wir beantragen, gemaess § 55 StGB eine Gesamtstrafe aus der Strafe aus dem Urteil [Az.] vom [Datum] und der hier zu verhaengenden Strafe zu bilden."
- - **Nach Rechtskraft (Beschluss-Verfahren)**: § 460 StPO; zustaendig ist das Gericht des **letzten** Verfahrens.
+ - **Nach Rechtskraft (Beschluss-Verfahren)**: § 460 StPO; zuständig ist das Gericht des **letzten** Verfahrens.
 5. **Begruendung im Urteil**: Einzelstrafen, Einsatzstrafe, Gesamtstrafe; vgl. `gesamtstrafenbildung-53-54-stgb-erste-instanz`.
 6. **Bewaehrungsperspektive**: Gesamtstrafe darf nicht ueber 2 Jahre liegen, wenn Bewaehrung erhalten bleiben soll.
 
@@ -81,7 +81,7 @@ In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgle
 
 - Antrag der Staatsanwaltschaft oder des Verurteilten.
 - Zustaendig: Gericht des **letzten** Verfahrens.
-- Anhoerung des Verurteilten und der Staatsanwaltschaft (§ 462 Abs. 2 StPO).
+- Anhörung des Verurteilten und der Staatsanwaltschaft (§ 462 Abs. 2 StPO).
 - Entscheidung durch **Beschluss**; sofortige Beschwerde nach § 462 Abs. 3 StPO innerhalb einer Woche.
 - Die einbezogenen Strafen verlieren ihre Selbststaendigkeit; die alte Strafvollstreckungsgrundlage wird ersetzt durch den neuen Gesamtstrafen-Beschluss.
 

@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -116,9 +116,9 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - **§§ 154, 155 BGB** — Einigung ueber alle wesentlichen Punkte; Letter of Intent als Vorvertrag-Pruefung
 - **§ 311 II BGB** — vorvertragliche Schutzpflichten; Exklusivitaet; culpa in contrahendo
-- **§ 241 II BGB** — Ruecksichtnahmepflicht; bei laufenden Verhandlungen schuetzwuerdiges Vertrauen
+- **§ 241 II BGB** — Rücksichtnahmepflicht; bei laufenden Verhandlungen schuetzwuerdiges Vertrauen
 - **§§ 307, 305 BGB** — AGB-Kontrolle; Process-Dokumente koennen AGB-Charakter haben
-- **Art. 18 MAR** — bei borsennotierten Zielgesellschaften: Insider-Log fuer alle Bieter
+- **Art. 18 MAR** — bei borsennotierten Zielgesellschaften: Insider-Log für alle Bieter
 
 ## Aktuelle Rechtsprechung
 
@@ -207,7 +207,7 @@ Stand: [DATUM]
 EMPFEHLUNG: [Bieter X auf die Shortlist; Begruendung]
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Prozess-Design** — Breite oder schmale Auktion; Zeitplan; Datenraum-Readiness
 2. **Bieter-Qualifikation** — strategische vs. Finanzinvestoren; regulatorische Risiken vorab pruefen

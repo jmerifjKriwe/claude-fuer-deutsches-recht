@@ -37,7 +37,7 @@ Aenderungen so schnell erfassen, dass keine verspaetete Aktualisierung entsteht.
 
 ## API-Nachkontrolle
 
-Nach einer Portalaktualisierung soll der Skill eine Wiedervorlage fuer den oeffentlichen API-Abgleich anlegen:
+Nach einer Portalaktualisierung soll der Skill eine Wiedervorlage für den öffentlichen API-Abgleich anlegen:
 
 1. Vorherige API-Antwort oder PDF-Version aus der Akte ziehen.
 2. Nach Veroeffentlichung `GET /registerentries/{registerNumber}?format=json` abrufen.
@@ -48,7 +48,7 @@ Nach einer Portalaktualisierung soll der Skill eine Wiedervorlage fuer den oeffe
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 - Open Data/API: ../../references/open-data-api-v2.md

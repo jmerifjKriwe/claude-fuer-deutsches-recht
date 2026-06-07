@@ -142,12 +142,12 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 - Sie wollen einen Kaufvertrag, Mietvertrag oder WEG-Beschluss auf Musterbasis erstellen oder nach einem Playbook auf Risiken pruefen.
 - Ein Mieter oder WEG-Eigentumer stellt eine Anfrage zu Instandsetzung, Betriebskosten oder Kuendigung.
 - Sie muessen mehrere Beteiligte, Fristen und Meilensteine in einem komplexen Immobilienprojekt steuern.
-- Sie benoetigen einen Sachverhalts-Ermittlungsbericht als Grundlage fuer die rechtliche Bewertung.
+- Sie benoetigen einen Sachverhalts-Ermittlungsbericht als Grundlage für die rechtliche Bewertung.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Grundbuch** — Oeffentliches Register der Eigentumsverhaeltnisse und dinglichen Belastungen eines Grundstuecks; gefuehrt nach der Grundbuchordnung (GBO).
-- **Grundschuld** — Dingliches Sicherungsrecht am Grundstueck nach §§ 1191 ff. BGB; haufig Sicherungsmittel fuer Bankdarlehen.
+- **Grundschuld** — Dingliches Sicherungsrecht am Grundstueck nach §§ 1191 ff. BGB; haufig Sicherungsmittel für Bankdarlehen.
 - **WEG** — Wohnungseigentumsgesetz; regelt die Gemeinschaft der Wohnungseigentuemer, Beschlusse und Verwaltung.
 - **Dienstbarkeit** — Beschraenkung des Eigentuemers zugunsten Dritter (z. B. Wegerecht, Niesbrauch) nach §§ 1018 ff. BGB.
 - **GrEStG** — Grunderwerbsteuergesetz; regelt Steuertatbestand beim Eigentumsubergang.
@@ -167,7 +167,7 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 - GBO — Grundbuchordnung
 - GrEStG — Grunderwerbsteuergesetz
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren (Kaeufer, Verkaeufer, Vermieter, WEG-Verwalter, Rechtsabteilung).
 2. Phase des Mandats bestimmen (Sachverhaltsaufnahme, Vertragserstellung, Vertragspruefung, laufende Verwaltung, Streitfall).
@@ -177,10 +177,10 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 
 ## Skill-Tour (was gibt es hier?)
 
-- `case-management` — Fallmanagement fuer Immobilienrechtsmandate: Verfahrensstand, Fristen und Dokumente im Ueberblick.
+- `case-management` — Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen und Dokumente im Ueberblick.
 - `grundbuchanalyse` — Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten und Rangverhaeltnisse.
 - `mieteranfragen-bearbeitung` — Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kuendigung.
-- `projekt-arbeitsweise` — Projektmethodik fuer Immobilienrechtsprojekte mit mehreren Beteiligten, Meilensteinen und Dokumentenstruktur.
+- `projekt-arbeitsweise` — Projektmethodik für Immobilienrechtsprojekte mit mehreren Beteiligten, Meilensteinen und Dokumentenstruktur.
 - `sachverhaltsermittlung` — Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhaeltnisse, Vertragshistorie, Beweismittel.
 - `vertragserstellung-musterbasiert` — Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss.
 - `vertragspruefung-playbook` — Immobilienrechtliche Vertraege nach standardisiertem Playbook pruefen: Kaufvertrag, Grundschuld, WEG.
@@ -190,7 +190,7 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 - **Formzwang**: Kaufvertraege ueber Grundstuecke beduerften notarieller Beurkundung (§ 311b BGB); Formmangel fuehrt zu Nichtigkeit des gesamten Vertrages.
 - **Grundbuchstand vor Vertragsschluss pruefen**: Nicht eingetragene Belastungen und Widersprueche koennen Eigentumsuebergang erschweren.
 - **WEG-Beschluesse**: Nicht ordnungsgemaesse Einberufung oder fehlende Mehrheiten fuehren zur Anfechtbarkeit; Fristen nach § 45 WEG beachten.
-- **GrEStG-Grunderwerbsteuer**: Zahlungsfrist nach § 15 GrEStG; Unbedenklichkeitsbescheinigung Voraussetzung fuer Grundbucheintragung.
+- **GrEStG-Grunderwerbsteuer**: Zahlungsfrist nach § 15 GrEStG; Unbedenklichkeitsbescheinigung Voraussetzung für Grundbucheintragung.
 - **AVV beim KI-Einsatz**: Mandatsdaten duerfen nur in KI-Systeme eingegeben werden, wenn ein datenschutzkonformer AVV vorliegt.
 
 ## Typische Fehler
@@ -203,7 +203,7 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 
 ## Querverweise
 
-- `kanzlei-allgemein` — Allgemeines Kanzlei-Workflow-Plugin fuer Fristen, Schriftsaetze und Mandatsmanagement.
+- `kanzlei-allgemein` — Allgemeines Kanzlei-Workflow-Plugin für Fristen, Schriftsaetze und Mandatsmanagement.
 - `zwangsverwaltung-zvg` — Bei Zwangsverwaltung und Zwangsversteigerung von Immobilien.
 - `aktenauszug-gerichtsverfahren` — Fuer schnelle Einarbeitung in laufende Immobilienprozesse.
 - `insolvenzverwaltung` — Wenn Immobilien Teil einer Insolvenzmasse sind.

@@ -13,7 +13,7 @@ description: "Statische Liquiditaetskennzahlen Liquiditaet 1 2 3 Grades aus BWA 
 
 ## Kernsachverhalt
 
-Statische Liquiditaetskennzahlen geben einen Schnappschuss der Zahlungsfaehigkeit zum Stichtag. Sie sind keine vollwertige Liquiditaetsplanung (dynamisch), aber Standardinstrument fuer Bank-Reporting, Quartals-Pruefung und erste Krisenfrueherkennung. Der Steuerberater berechnet sie aus Bilanz und SuSa und bewertet sie nach branchenueblichen Schwellenwerten. Bei Krisenmandanten ist die Liquiditaet 1. Grades unter 100 Prozent oft erster Indikator fuer § 17 InsO-Risiko.
+Statische Liquiditaetskennzahlen geben einen Schnappschuss der Zahlungsfaehigkeit zum Stichtag. Sie sind keine vollwertige Liquiditaetsplanung (dynamisch), aber Standardinstrument für Bank-Reporting, Quartals-Pruefung und erste Krisenfrueherkennung. Der Steuerberater berechnet sie aus Bilanz und SuSa und bewertet sie nach branchenueblichen Schwellenwerten. Bei Krisenmandanten ist die Liquiditaet 1. Grades unter 100 Prozent oft erster Indikator für § 17 InsO-Risiko.
 
 ## Kaltstart-Rueckfragen
 

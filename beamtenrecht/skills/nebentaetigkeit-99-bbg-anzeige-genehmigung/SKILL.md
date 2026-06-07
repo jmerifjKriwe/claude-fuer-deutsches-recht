@@ -1,13 +1,13 @@
 ---
 name: nebentaetigkeit-99-bbg-anzeige-genehmigung
-description: "Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 BeamtStG i.V.m. Landesrecht. Klaert die Unterscheidung anzeigepflichtige und genehmigungspflichtige Nebentaetigkeiten den Versagungs- und Widerrufsgrund das Verbot bestimmter Taetigkeiten sowie die Ablieferungspflicht bei Nebentaetigkeit im oeffentlichen Dienst. Behandelt typische Konstellationen Lehrauftrag Sachverstaendigentaetigkeit Aufsichtsratsmandat ehrenamtliche politische Funktionen Schriftstellertaetigkeit. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 BeamtStG i.V.m. Landesrecht. Klaert die Unterscheidung anzeigepflichtige und genehmigungspflichtige Nebentaetigkeiten den Versagungs- und Widerrufsgrund das Verbot bestimmter Taetigkeiten sowie die Ablieferungspflicht bei Nebentaetigkeit im öffentlichen Dienst. Behandelt typische Konstellationen Lehrauftrag Sachverstaendigentaetigkeit Aufsichtsratsmandat ehrenamtliche politische Funktionen Schriftstellertaetigkeit. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nebentaetigkeit § 99 BBG — Anzeige und Genehmigung
 
 ## Arbeitsbereich
 
-Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 BeamtStG i.V.m. Landesrecht. Klaert die Unterscheidung anzeigepflichtige und genehmigungspflichtige Nebentaetigkeiten den Versagungs- und Widerrufsgrund das Verbot bestimmter Taetigkeiten sowie die Ablieferungspflicht bei Nebentaetigkeit im oeffentlichen Dienst. Behandelt typische Konstellationen Lehrauftrag Sachverstaendigentaetigkeit Aufsichtsratsmandat ehrenamtliche politische Funktionen Schriftstellertaetigkeit. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 BeamtStG i.V.m. Landesrecht. Klaert die Unterscheidung anzeigepflichtige und genehmigungspflichtige Nebentaetigkeiten den Versagungs- und Widerrufsgrund das Verbot bestimmter Taetigkeiten sowie die Ablieferungspflicht bei Nebentaetigkeit im öffentlichen Dienst. Behandelt typische Konstellationen Lehrauftrag Sachverstaendigentaetigkeit Aufsichtsratsmandat ehrenamtliche politische Funktionen Schriftstellertaetigkeit. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 Beam
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagungs- oder Widerrufsentscheidung des Dienstherrn ueberpruefen.
+Skill für Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagungs- oder Widerrufsentscheidung des Dienstherrn ueberpruefen.
 
 ## 2. Eingaben
 
@@ -42,10 +42,10 @@ Skill fuer Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagung
 
 ### c) Verbotene Nebentaetigkeiten
 - Geschaeftsfuehrertaetigkeit in einem auf Gewinnerzielung gerichteten Unternehmen ohne weitere Genehmigung.
-- Beratungstaetigkeit fuer einen mit dem Dienstherrn in Geschaeftsbeziehung stehenden Auftraggeber.
+- Beratungstaetigkeit für einen mit dem Dienstherrn in Geschaeftsbeziehung stehenden Auftraggeber.
 
 ### d) Ablieferungspflicht
-- Bei Nebentaetigkeit im oeffentlichen Dienst Ablieferung des die Hoechstgrenze uebersteigenden Anteils der Verguetung an den Dienstherrn.
+- Bei Nebentaetigkeit im öffentlichen Dienst Ablieferung des die Hoechstgrenze uebersteigenden Anteils der Verguetung an den Dienstherrn.
 
 ### e) Folgen unterlassener Anzeige
 - Disziplinarrechtliche Folgen; Skill `disziplinarmassnahmebemessung-13-bdg`.
@@ -66,9 +66,9 @@ Skill fuer Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagung
 
 - §§ 97 bis 105 BBG (Nebentaetigkeitsrecht Bund); § 40 BeamtStG i.V.m. Landesrecht.
 - Bundesnebentaetigkeitsverordnung (BNV); landesrechtliche Nebentaetigkeitsverordnungen.
-- Hoechstgrenze fuer Nebentaetigkeitsverguetungen mit Ablieferungspflicht an den Dienstherrn bei oeffentlicher Nebentaetigkeit.
+- Hoechstgrenze für Nebentaetigkeitsverguetungen mit Ablieferungspflicht an den Dienstherrn bei öffentlicher Nebentaetigkeit.
 - BVerwG zur Genehmigung und Versagung von Nebentaetigkeiten — Datum und Az vor Zitat live verifizieren.
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Hochschuldozent (Beamter) plant Vortragstaetigkeit fuer einen Wirtschaftspruefer. Skill liefert Genehmigungsantrag, Pruefraster Interessenkonflikt und ggf. Begrenzung der Honorarablieferung.
+Mandant Hochschuldozent (Beamter) plant Vortragstaetigkeit für einen Wirtschaftspruefer. Skill liefert Genehmigungsantrag, Pruefraster Interessenkonflikt und ggf. Begrenzung der Honorarablieferung.

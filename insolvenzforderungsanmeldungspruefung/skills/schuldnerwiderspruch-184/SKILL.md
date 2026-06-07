@@ -76,7 +76,7 @@ Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenverm
 Bevor losgelegt wird, klaere:
 1. **Pruefungstermin-Datum?** § 176 InsO — Ladungsfrist 7 Tage; Tabelle vollstaendig vor Termin.
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
-3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend fuer Zahlungsreihenfolge.
+3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Vorsatz-Tatbestand benannt?** Für § 302 Nr. 1 InsO ausdrücklich Tatbestand der vorsätzlich unerlaubten Handlung in der Anmeldung benennen. Schuldnerwiderspruch nach § 184 InsO innerhalb der Frist klären.
 
 ## Quellenregel

@@ -18,7 +18,7 @@ description: "Praxis-Skill zur Bilanzberichtigung und Bilanzaenderung im Steuerr
 3. Auf welche Auswirkung bezieht sich die Aenderung — Gewinn ausgleichend?
 4. Greift Bilanzzusammenhang — wirkt Korrektur in Vorjahren bestandskraeftig?
 5. Welche Verfahrensaenderung kommt im Steuerbescheid in Betracht (§ 164 § 173 AO)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

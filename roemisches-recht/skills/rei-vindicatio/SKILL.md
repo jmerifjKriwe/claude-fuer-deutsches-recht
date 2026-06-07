@@ -63,12 +63,12 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 
 ### Folgen
 - Hauptfolge: Herausgabe der Sache.
-- Bei boesglaeubigem Besitzer: Schadensersatz fuer Fruechte, Nutzungen, Wertminderung.
+- Bei boesglaeubigem Besitzer: Schadensersatz für Fruechte, Nutzungen, Wertminderung.
 - Bei gutglaeubigem Besitzer: nur seit Klagerhebung Haftung.
 
 ### Subsumtionsbeispiel: Gestohlene Vase
 Sachverhalt: A hat Vase; B stiehlt sie; B verkauft sie an C, der nichts weiss; nach 6 Monaten findet A die Vase bei C.
-- **Roemisch**: D. 6.1 — A kann rei vindicatio gegen C erheben; C muss herausgeben; Schadensersatz fuer Nutzungen seit Klage. C hat actio empti gegen B auf Kaufpreis.
+- **Roemisch**: D. 6.1 — A kann rei vindicatio gegen C erheben; C muss herausgeben; Schadensersatz für Nutzungen seit Klage. C hat actio empti gegen B auf Kaufpreis.
 - **BGB**: § 985 BGB Vindikation gegen C; § 935 BGB schliesst gutglaeubigen Erwerb gestohlener Sachen aus; C verliert; C hat § 437 Nr. 2 iVm § 433 BGB Anspruch gegen B.
 
 ### Subsumtionsbeforderung: Nutzungen

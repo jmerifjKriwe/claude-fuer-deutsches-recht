@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-estrich-feuchteprotokoll
-description: "Bauueberwachung HOAI LPH 8 fuer Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar fuer Bodenbelag-Freigabe im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar für Bodenbelag-Freigabe im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Estrich und Feuchteprotokoll
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar fuer Bodenbelag-Freigabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar für Bodenbelag-Freigabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Bauueberwachung HOAI LPH 8 fuer Estricharbeiten mit Schwerpunkt Feuchteprotokoll
 
 ## Spezialwissen
 
-Estrichschichten sind Voraussetzung fuer nahezu jeden Bodenbelag, und ein zu feuchter Estrich fuehrt zum teuersten Folgeschaden des Hochbaus: Estrich- und Bodenbelagsaustausch nach Schimmelbildung. Die Bauueberwachung in LPH 8 stellt sicher, dass Estrich die vorgeschriebene Feuchte-Grenzwerte erreicht hat, bevor der Bodenbelag verlegt wird, und dokumentiert lueckenlos fuer die Gewaehrleistungsphase.
+Estrichschichten sind Voraussetzung für nahezu jeden Bodenbelag, und ein zu feuchter Estrich fuehrt zum teuersten Folgeschaden des Hochbaus: Estrich- und Bodenbelagsaustausch nach Schimmelbildung. Die Bauueberwachung in LPH 8 stellt sicher, dass Estrich die vorgeschriebene Feuchte-Grenzwerte erreicht hat, bevor der Bodenbelag verlegt wird, und dokumentiert lueckenlos für die Gewaehrleistungsphase.
 
 ## Bauwerk und Auftrag
 
@@ -59,8 +59,8 @@ Estrichschichten sind Voraussetzung fuer nahezu jeden Bodenbelag, und ein zu feu
 - Fotodokumentation Estrichauftrag: Foto Daemmschicht vor Estrich, Foto Estrichoberflaeche nach Abziehen, Foto Fugen je Raum, Zeitstempel und GPS
 - CM-Messung Fotoprotokoll: Entnahmeposition auf Grundrissplan markiert, Foto CM-Geraet mit Anzeige, Zeitstempel Freigabeprotokoll
 - Lieferschein Estrichmaterial: Mischungsklasse CT oder CA, Festigkeitsklasse C und F, Chargen-Nr, Einbautemperatur-Angabe
-- Trocknungsprotokoll: Temperatur und Luftfeuchte taeglich waehrend Trocknungsphase, Hygrometer-Messung, Ausgabe CSV-Format fuer SAP-Import
-- PlanRadar Grundriss: Raum-weise CM-Messwert-Protokoll, Freigabestatus gruen/rot, Exportliste fuer Bauleiter
+- Trocknungsprotokoll: Temperatur und Luftfeuchte taeglich waehrend Trocknungsphase, Hygrometer-Messung, Ausgabe CSV-Format für SAP-Import
+- PlanRadar Grundriss: Raum-weise CM-Messwert-Protokoll, Freigabestatus gruen/rot, Exportliste für Bauleiter
 
 ## Meldungserstellung im ERP / SAP
 
@@ -79,7 +79,7 @@ Estrichschichten sind Voraussetzung fuer nahezu jeden Bodenbelag, und ein zu feu
 
 ## Output
 
-CM-Messprotokolle je Raum mit Datum und Grenzwert-Bewertung. Trocknungsprotokoll Temperatur und Luftfeuchte taeglich. Ebenheitsmessprotokoll 2-m-Latte. Fugenplan mit Fotos. Belagsfreigabe-Protokoll mit Unterschrift Bauueberwacher. Bautagebuch Estricharbeiten. SAP-PM-Equipment-IDs Bodenflaechen fuer Facility Management.
+CM-Messprotokolle je Raum mit Datum und Grenzwert-Bewertung. Trocknungsprotokoll Temperatur und Luftfeuchte taeglich. Ebenheitsmessprotokoll 2-m-Latte. Fugenplan mit Fotos. Belagsfreigabe-Protokoll mit Unterschrift Bauueberwacher. Bautagebuch Estricharbeiten. SAP-PM-Equipment-IDs Bodenflaechen für Facility Management.
 
 ## Hinweise zur Qualitaetssicherung
 

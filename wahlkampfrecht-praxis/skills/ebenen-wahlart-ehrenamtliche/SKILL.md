@@ -9,6 +9,24 @@ description: "Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, B
 
 Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
+- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
+- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
+- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
+- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
+- `§ 49a BWahlG` — Ordnungswidrigkeiten.
+- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
+- `§ 25 PartG` — Spendenannahme und Spendenverbote.
+- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,7 +64,7 @@ Bestimmt, ob Bundesrecht, Landeswahlrecht, Kommunalrecht, Parteisatzung oder Pla
 
 ## Output
 
-Erzeuge: **Rechtsraum-Matrix mit zustaendiger Wahlleitung**. Wenn Informationen fehlen, stelle höchstens acht präzise Rückfragen und liefere anschließend eine vorläufige Ampel mit Annahmen.
+Erzeuge: **Rechtsraum-Matrix mit zuständiger Wahlleitung**. Wenn Informationen fehlen, stelle höchstens acht präzise Rückfragen und liefere anschließend eine vorläufige Ampel mit Annahmen.
 
 ## Qualitätsgate
 

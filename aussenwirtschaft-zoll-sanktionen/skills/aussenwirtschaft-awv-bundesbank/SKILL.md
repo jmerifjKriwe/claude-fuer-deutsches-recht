@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-awv-bundesbank
-description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare fuer Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle fuer monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare für Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle für monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AWV-Bundesbank-Meldungen: Z-Formulare und Kapitalverkehrspflichten
 
 ## Arbeitsbereich
 
-Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare fuer Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle fuer monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare für Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle für monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,7 +20,7 @@ Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z
 ## Mandantenfall
 
 - Unternehmen erhalt Zahlungen aus dem Ausland ueber 12.500 EUR und weiss nicht, ob Z4-Meldung noetig.
-- Bank fragt nach korrektem Formular fuer Wertpapierkaeufe eines Kunden aus Drittstaaten.
+- Bank fragt nach korrektem Formular für Wertpapierkaeufe eines Kunden aus Drittstaaten.
 - Exporteur zahlungsabwicklung ueber Auslandsbank; interessen Compliancepruefung aller Meldepflichten.
 
 ## Erste Schritte
@@ -37,8 +37,8 @@ Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z
 - **AWV §§ 67-71**: Zahlungsmeldepflichten gegenueber Bundesbank.
 - **§ 67 AWV**: 12.500-EUR-Schwellenwert und Meldepflicht.
 - **AWG §§ 13-14**: Auskunfts- und Aufzeichnungspflichten.
-- **§ 24 AWV**: Aufbewahrungspflichten fuer Meldungsbelege.
-- **EU-Kapitalverkehrsfreiheit (Art. 63-66 AEUV)**: Rahmenbedingungen fuer Kapitalverkehr.
+- **§ 24 AWV**: Aufbewahrungspflichten für Meldungsbelege.
+- **EU-Kapitalverkehrsfreiheit (Art. 63-66 AEUV)**: Rahmenbedingungen für Kapitalverkehr.
 
 ## Pruef-Raster
 
@@ -60,7 +60,7 @@ Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Ausgefuellte Z-Formulare, Fristen-Kalender fuer jaehrliche und monatliche Meldungen, Einreichungsbestaetigung und Compliance-Archiv-Mappe.
+Ausgefuellte Z-Formulare, Fristen-Kalender für jaehrliche und monatliche Meldungen, Einreichungsbestaetigung und Compliance-Archiv-Mappe.
 
 ## Quellen
 

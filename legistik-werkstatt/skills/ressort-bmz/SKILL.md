@@ -1,16 +1,16 @@
 ---
 name: ressort-bmz
-description: "Heranfuehrung Ressort BMZ (Bundesministerium fuer wirtschaftliche Zusammenarbeit und Entwicklung). Schwerpunkt: Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales. Kernnormen: Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG. Fuenf Spezialfelder: entwicklungszusammenarbeit-und-bilaterale-abkommen; humanitaere-hilfe-und-krisenpraevention; internationale-klimafinanzierung; menschenrechte-in-lieferketten-lksg; multilaterale-zusammenarbeit-und-eu. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmz und legw-bmz-Themenslug."
+description: "Heranfuehrung Ressort BMZ (Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung). Schwerpunkt: Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales. Kernnormen: Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG. Fuenf Spezialfelder: entwicklungszusammenarbeit-und-bilaterale-abkommen; humanitaere-hilfe-und-krisenpraevention; internationale-klimafinanzierung; menschenrechte-in-lieferketten-lksg; multilaterale-zusammenarbeit-und-eu. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmz und legw-bmz-Themenslug."
 ---
 
 # Ressort-Heranfuehrung BMZ
 
 > Heranfuehrungs-Skill nach `legw-ressort-router`. Politikwissenschaftliche Legistinnen und Legisten
-> bekommen hier das Sachfeld-Verstaendnis fuer das Ressort, bevor sie an Normtext und Begruendung gehen.
+> bekommen hier das Sachfeld-Verstaendnis für das Ressort, bevor sie an Normtext und Begruendung gehen.
 
 ## Ressort-Stammdaten
 
-- **Volltitel:** Bundesministerium fuer wirtschaftliche Zusammenarbeit und Entwicklung
+- **Volltitel:** Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
 - **Kuerzel:** BMZ
 - **Hausleitung Stand 2026:** Reem Alabali Radovan (SPD)
 - **Dienstsitz:** Stresemannstr. 94; 10963 Berlin; Zweitsitz Dahlmannstr. 4; 53113 Bonn
@@ -22,13 +22,13 @@ description: "Heranfuehrung Ressort BMZ (Bundesministerium fuer wirtschaftliche 
 ### Worum geht es sachlich
 
 Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales. Dieses Ressort ist nicht primaer Politik; es ist sachverstaendige Verwaltung
-einer Lebenswelt - Behoerden; Verbaende; technische Regeln; europaeische Rechtsakte und
+einer Lebenswelt - Behörden; Verbaende; technische Regeln; europaeische Rechtsakte und
 Vollzugspraxis greifen ineinander.
 
 ### Wer spielt mit
 
 - **Federfuehrendes Referat** (im BMZ)
-- **Nachgeordnete Behoerden und Aufsichten** des Geschaeftsbereichs
+- **Nachgeordnete Behörden und Aufsichten** des Geschaeftsbereichs
 - **Bundesrat-Ausschuss** (bei zustimmungs- oder einspruchspflichtigen Vorhaben)
 - **Bundestags-Fachausschuss** (BMZ-Spiegel)
 - **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
@@ -45,7 +45,7 @@ gerichts-Linie und BVerwG-Linie.
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
  konsistent halten (siehe `terminologie-konsistenz`).
-- **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
+- **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Ländern oder nachgeordneten Behörden;
  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
  (siehe `goldplating-vermeiden`).
@@ -85,7 +85,7 @@ in das Auftragsblatt einpflegen.
 ### Schritt 2 - Spezialfeld waehlen
 
 Aus den fuenf Spezialfeldern (siehe oben) das passende waehlen. Bei Mehrfachbezug: das
-schwerpunktmaessige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
+schwerpunktmäßige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
 
 ### Schritt 3 - Ressortaufgaben-Skill rufen
 
@@ -102,12 +102,29 @@ Verbaendeanhoerung; Bundestagsweg; Aufsicht).
 
 Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einstieg in die 10 RuleMapping-Skills (Abschluss mit `legw-rmap-anschluss-an-legw`).
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort: BMZ - Bundesministerium fuer wirtschaftliche Zusammenarbeit und Entwicklung
+Ressort: BMZ - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
 Hausleitung: Reem Alabali Radovan (SPD)
 Materie: Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales.
 Kernnormen: Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG.
@@ -121,7 +138,7 @@ Naechster Skill: legw-ressortaufgaben-bmz
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

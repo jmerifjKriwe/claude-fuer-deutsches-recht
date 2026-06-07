@@ -1,13 +1,13 @@
 ---
 name: asset-freeze-atlas-ausfuhranmeldung-audit
-description: "Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste fuer Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflicht an Bundesbank/BaFin und zustaendige Behoerden. Output: Einfrierungs-Protokoll und Meldedokument im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflicht an Bundesbank/BaFin und zuständige Behörden. Output: Einfrierungs-Protokoll und Meldedokument im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermoegens
 
 ## Arbeitsbereich
 
-Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste fuer Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflicht an Bundesbank/BaFin und zustaendige Behoerden. Output: Einfrierungs-Protokoll und Meldedokument. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflicht an Bundesbank/BaFin und zuständige Behörden. Output: Einfrierungs-Protokoll und Meldedokument. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,10 +27,10 @@ Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis
 
 1. Sanktionstreffer sofort dokumentieren: Name, Listennummer, Verordnung, Datum des Treffers.
 2. Gelder/wirtschaftliche Ressourcen einfrieren; keine Auszahlung, kein Transfer, keine Verrechnung.
-3. Zustaendige nationale Behoerde informieren: Bundesbank (Devisenbeschraenkungen), BaFin (Finanzsektor), BAFA (Gueter).
+3. Zustaendige nationale Behörde informieren: Bundesbank (Devisenbeschraenkungen), BaFin (Finanzsektor), BAFA (Gueter).
 4. Ggf. Freistellungs- oder Genehmigungsantrag vorbereiten (Art. 6 VO 269/2014: humanitaere Ausnahme).
 5. Rechtsbeistand einschalten; Haftungsrisiko der handelnden Personen absichern.
-6. Legal Hold fuer alle relevanten Unterlagen erteilen.
+6. Legal Hold für alle relevanten Unterlagen erteilen.
 
 ## Rechtsrahmen
 
@@ -44,8 +44,8 @@ Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis
 
 - [ ] Trefferidentitaet eindeutig verifiziert (kein False Positive)?
 - [ ] Einfrierungsmassnahmen sofort und vollstaendig umgesetzt?
-- [ ] Zustaendige Behoerde (Bundesbank/BaFin/BAFA) rechtzeitig informiert?
-- [ ] Freistellungsantrag fuer genehmigte Transaktionen vorbereitet?
+- [ ] Zustaendige Behörde (Bundesbank/BaFin/BAFA) rechtzeitig informiert?
+- [ ] Freistellungsantrag für genehmigte Transaktionen vorbereitet?
 - [ ] Legal Hold erteilt und Unterlagen gesichert?
 - [ ] Strafrecht-/Haftungsrisiko bewertet und Rechtsberatung eingeholt?
 
@@ -60,7 +60,7 @@ Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

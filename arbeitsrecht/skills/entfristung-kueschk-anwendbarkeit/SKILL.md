@@ -202,7 +202,7 @@ In der Praxis werden Arbeitsverträge immer häufiger digital unterzeichnet. Die
 
 ## Unterschied: Einfache vs. qualifizierte elektronische Signatur
 
-| Signaturtyp | Sicherheitsniveau | Genuegt fuer § 14 Abs. 4 TzBfG? |
+| Signaturtyp | Sicherheitsniveau | Genuegt für § 14 Abs. 4 TzBfG? |
 |---|---|---|
 | Einfache (eingescannte Unterschrift, Klick) | Niedrig | Nein |
 | Fortgeschrittene (kryptographisch, ohne Zertifikat) | Mittel | Nein |

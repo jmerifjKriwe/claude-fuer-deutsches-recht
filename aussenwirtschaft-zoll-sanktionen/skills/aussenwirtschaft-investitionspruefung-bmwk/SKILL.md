@@ -46,7 +46,7 @@ Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff.: se
 - [ ] Sektor des Zielunternehmens in Anhang A oder B AWV?
 - [ ] Anteilsschwelle ueberschritten oder wird ueberschritten?
 - [ ] Vollzugsverbot beachtet; kein Closing vor Freigabe?
-- [ ] Alle erforderlichen Unterlagen fuer BMWK-Anmeldung vollstaendig?
+- [ ] Alle erforderlichen Unterlagen für BMWK-Anmeldung vollstaendig?
 - [ ] Verfahrenszeitplan in M&A-Zeitplan integriert?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff.: se
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-BMWK-Anmeldeformular, M&A-Pruefcheckliste fuer Investitionspruefung, Risikoklassifizierung Zielunternehmen und Zeitplan-Empfehlung.
+BMWK-Anmeldeformular, M&A-Pruefcheckliste für Investitionspruefung, Risikoklassifizierung Zielunternehmen und Zeitplan-Empfehlung.
 
 ## Quellen
 

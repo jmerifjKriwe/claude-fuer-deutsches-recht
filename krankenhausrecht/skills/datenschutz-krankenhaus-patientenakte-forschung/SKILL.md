@@ -41,12 +41,12 @@ Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im 
 - **MBO-Aerzte § 9** aerztliche Schweigepflicht.
 - **PatientendatenSchutzG (PDSG)** ePA-Anbindung.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Rechtsgrundlage je Verarbeitung:** Art. 6/9 DSGVO; Behandlung Art. 9 Abs. 2 lit. h; Forschung Art. 9 Abs. 2 lit. j + § 27 BDSG; Abrechnung gesetzliche Pflicht.
-2. **Patienteninformation Art. 13/14 DSGVO:** Verstaendlich, schriftlich, fuer jeden Hauptzweck.
+2. **Patienteninformation Art. 13/14 DSGVO:** Verstaendlich, schriftlich, für jeden Hauptzweck.
 3. **Einwilligungen separat:** Behandlung (gesetzlich nicht erforderlich), Forschung (i. d. R. erforderlich), Werbung/Sekundaerzweck.
 4. **AVV bei Auftragsverarbeitung** (Cloud, IT, KI-Anbieter): Inhalt § 28 DSGVO; technische und organisatorische Massnahmen.
-5. **Patientenakte/Einsichtsrecht:** §§ 630g BGB, Art. 15 DSGVO; unverzueglich, ggf. Gebuehr fuer Kopien.
+5. **Patientenakte/Einsichtsrecht:** §§ 630g BGB, Art. 15 DSGVO; unverzueglich, ggf. Gebuehr für Kopien.
 6. **Forschungsprojekt:** Konzept, Ethikkommission, DSGVO-Pruefung, Pseudonymisierung/Anonymisierung.
 7. **Datenpanne:** Innerhalb 72h Meldung Aufsicht (Art. 33), bei hohem Risiko Betroffene informieren (Art. 34).
 
@@ -94,7 +94,7 @@ Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im 
 ## Quellen Stand 06/2026
 - DSGVO.
 - BDSG §§ 22, 23, 27.
-- Landeskrankenhausgesetze 16 Laender (Live-Check Landesministerien).
+- Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
 - SGB X §§ 67, 76.
 - StGB § 203.
 - PatientendatenSchutzG (PDSG) zur ePA.

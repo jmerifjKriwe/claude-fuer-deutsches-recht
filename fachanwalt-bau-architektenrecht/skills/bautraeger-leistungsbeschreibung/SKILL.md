@@ -120,7 +120,7 @@ Seit 01.01.2018: Bautraegervertraege mit Verbrauchern sind Verbraucherbauvertrae
 - Bei schwacher Buergschaft: Erwerber haftet im Schlepptau.
 
 ### § 3-Modell Vorteile
-- Erwerber zahlt nur fuer Geleistetes.
+- Erwerber zahlt nur für Geleistetes.
 - Bei Insolvenz: bisher gezahlte Raten sind ggf. werthaltig in Vermoegensauskehr.
 
 ### § 3-Modell Risiken

@@ -122,7 +122,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `europarecht-beihilfen-vergaben` | Beihilfenrecht und Vergaberecht prüfen wenn staatliche Foerderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen… |
+| `europarecht-beihilfen-vergaben` | Beihilfenrecht und Vergaberecht prüfen wenn staatliche Förderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen… |
 | `europarecht-delegierte-durchfuehrungsakte` | Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf… |
 | `europarecht-deutscher-denkfehler-scanner` | Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene… |
 | `europarecht-gesetzgebung-trilog` | Europaeisches Gesetzgebungsverfahren und Trilog-Verhandlungen einordnen wenn EU-Regelung in Entstehung ist. Art. 289 294 AEUV ordentliches Gesetzgebungsverfahren. Prüfraster: Verfahrensstand Kompromisstext… |
@@ -134,7 +134,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `europarecht-nationales-verfahren-effektivitaet` | EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz… |
 | `europarecht-quality-gate` | EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie… |
 | `europarecht-richtlinie-umsetzung` | EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung… |
-| `europarecht-simulation-behoerde-gericht` | Verhandlung vor EU-Behoerde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung… |
+| `europarecht-simulation-behoerde-gericht` | Verhandlung vor EU-Behörde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung… |
 | `europarecht-verordnung-beschluss-soft-law` | EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf… |
 | `europarecht-vertragsverletzung-durchsetzung` | Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Prüfraster: Verletzungshandlung Mahnschreiben Klage… |
 | `europarecht-vorlageverfahren-art-267` | Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage… |
@@ -143,13 +143,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin korrigiert typische deutsche Denkfehler im Umgang mit EU-Recht und unterstuetzt Anwaelte, Berater und Behoerden bei der systematischen Bearbeitung europarechtlicher Mandate. Es deckt die Kernbereiche des EU-Primaerrechts (AEUV, EUV, GRC) und des Sekundaerrechts (Verordnungen, Richtlinien, Beschluesse, Soft Law) ab.
+Dieses Plugin korrigiert typische deutsche Denkfehler im Umgang mit EU-Recht und unterstuetzt Anwaelte, Berater und Behörden bei der systematischen Bearbeitung europarechtlicher Mandate. Es deckt die Kernbereiche des EU-Primaerrechts (AEUV, EUV, GRC) und des Sekundaerrechts (Verordnungen, Richtlinien, Beschluesse, Soft Law) ab.
 
 Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung und -konforme Auslegung, Grundfreiheiten des Binnenmarkts, EU-Grundrechtecharta, Beihilfen- und Vergaberecht, Vorlageverfahren nach Art. 267 AEUV, Klagearten vor EuGH und EuG sowie effektiver nationaler Rechtsschutz. Das Plugin richtet sich ausdrucklich gegen die Tendenz, EU-Recht durch nationale Brillen zu lesen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein nationales Gericht oder eine Behoerde wendet nationales Recht an, das moeglicherweise EU-Recht widerspricht.
+- Ein nationales Gericht oder eine Behörde wendet nationales Recht an, das moeglicherweise EU-Recht widerspricht.
 - Sie wollen pruefen, ob eine EU-Richtlinie in Deutschland korrekt umgesetzt wurde oder ob ein Umsetzungsdefizit besteht.
 - Sie begleiten ein Unternehmen mit grenzueberschreitender Taetigkeit und muessen Grundfreiheitsverstoss pruefen.
 - Ein nationales Gericht steht vor der Frage, ob es den EuGH nach Art. 267 AEUV anrufen muss.
@@ -158,9 +158,9 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 ## Fachbegriffe (kurz erklaert)
 
 - **Vorrang des EU-Rechts** — EU-Recht geht nationalem Recht vor; entgegenstehendes nationales Recht ist unanwendbar (Costa v. ENEL, EuGH 1964).
-- **Unmittelbare Wirkung** — EU-Normen koennen Rechte und Pflichten fuer Einzelne begruenden, ohne nationalem Umsetzungsrecht zu beduerfan (Van Gend en Loos, EuGH 1963); Richtlinien nur vertikal unmittelbar wirksam.
+- **Unmittelbare Wirkung** — EU-Normen koennen Rechte und Pflichten für Einzelne begruenden, ohne nationalem Umsetzungsrecht zu beduerfan (Van Gend en Loos, EuGH 1963); Richtlinien nur vertikal unmittelbar wirksam.
 - **Richtlinienkonforme Auslegung** — Nationales Recht ist so weit wie moeglich im Licht des Wortlauts und Zwecks der Richtlinie auszulegen.
-- **Francovich-Staatshaftung** — Mitgliedstaat haftet fuer Schaden durch fehlerhafte oder ausgebliebene Richtlinienumsetzung.
+- **Francovich-Staatshaftung** — Mitgliedstaat haftet für Schaden durch fehlerhafte oder ausgebliebene Richtlinienumsetzung.
 - **Vorlagepflicht** — Letztinstanzliche Gerichte muessen EU-Rechtsfragen dem EuGH vorlegen (Art. 267 Abs. 3 AEUV); Ausnahme: acte-clair-Doktrin.
 - **Grundfreiheiten** — Warenverkehr (Art. 34 AEUV), Personenfreizuegigkeit (Art. 45 AEUV), Niederlassungsfreiheit (Art. 49 AEUV), Dienstleistungsfreiheit (Art. 56 AEUV), Kapitalverkehr (Art. 63 AEUV).
 - **Art. 51 GRC** — EU-Grundrechtecharta gilt nur, wenn Mitgliedstaat EU-Recht vollzieht oder im Anwendungsbereich des EU-Rechts handelt.
@@ -178,9 +178,9 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 - Art. 51 und 52 GRC — Anwendungsbereich und Schranken der EU-Grundrechtecharta.
 - Art. 107 und 108 AEUV — Beihilfeverbot und Notifizierungspflicht.
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandat aufgleisen: Skill `europarecht-kommandocenter` fuer EU-Rechtsbezug, Rechtsgebiet und Route.
+1. Mandat aufgleisen: Skill `europarecht-kommandocenter` für EU-Rechtsbezug, Rechtsgebiet und Route.
 2. Deutschen Denkfehler ausschliessen: `europarecht-deutscher-denkfehler-scanner`.
 3. Rechtsquelle einordnen: `europarecht-verordnung-beschluss-soft-law` oder `europarecht-richtlinie-umsetzung`.
 4. Materielles Rechtsproblem pruefen: Grundfreiheiten, Charta, Beihilfen, Kartell je nach Mandat.
@@ -218,7 +218,7 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 - `europarecht-klagearten-eugh` — Klagemoeglichkeiten vor EuGH und EuG; Nichtigkeitsklage, Untaetigkeit, Schadensersatz.
 - `europarecht-vertragsverletzung-durchsetzung` — Vertragsverletzungsverfahren einordnen und Reaktion vorbereiten.
 - `europarecht-nationales-verfahren-effektivitaet` — Effektivitaets- und Aequivalenzgrundsatz im nationalen Verfahren.
-- `europarecht-simulation-behoerde-gericht` — Argumentation vor EU-Behoerde oder nationalem Gericht simulieren.
+- `europarecht-simulation-behoerde-gericht` — Argumentation vor EU-Behörde oder nationalem Gericht simulieren.
 
 **Gesetzgebung**
 

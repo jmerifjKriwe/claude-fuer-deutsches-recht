@@ -18,7 +18,7 @@ Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD vorbereiten und validier
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Wer ist der Rechnungsempfaenger: Verbraucher (B2C), Unternehmen (B2B) oder oeffentliche Stelle (B2G)?
+1. Wer ist der Rechnungsempfaenger: Verbraucher (B2C), Unternehmen (B2B) oder öffentliche Stelle (B2G)?
 2. Welches Format ist erforderlich oder gewuenscht: XRechnung, ZUGFeRD 2.3 oder klassisches PDF?
 3. Liegt eine Leitweg-ID oder Buyer Reference des Empfaengers vor (Pflicht bei B2G)?
 4. Welcher Versandweg ist vorgesehen: E-Mail, Peppol-Netzwerk, Portal oder Mandantenportal?
@@ -27,9 +27,9 @@ Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD vorbereiten und validier
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 14 UStG — Pflichtangaben auf Rechnungen; Pflicht zur E-Rechnung ab 2025 fuer B2B
-- EN 16931 — Europaeische Norm fuer elektronische Kernrechnungen; Grundlage von XRechnung und ZUGFeRD
-- § 14b UStG — Aufbewahrungspflicht fuer Rechnungen (10 Jahre, GoBD-konform)
+- § 14 UStG — Pflichtangaben auf Rechnungen; Pflicht zur E-Rechnung ab 2025 für B2B
+- EN 16931 — Europaeische Norm für elektronische Kernrechnungen; Grundlage von XRechnung und ZUGFeRD
+- § 14b UStG — Aufbewahrungspflicht für Rechnungen (10 Jahre, GoBD-konform)
 - § 10 RVG — Pflichtangaben auf der anwaltlichen Honorarrechnung
 
 ## Quellenregel

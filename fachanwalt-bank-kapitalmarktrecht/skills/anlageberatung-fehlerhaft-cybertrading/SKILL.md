@@ -38,7 +38,7 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
 3. Welche Risikoklasse hat der Mandant in seinem WpHG-Bogen angegeben? Wurde Risikobereitschaft und Anlageziel erfragt?
 4. Hat die Bank über Rückvergütungen (Kick-backs) oder Innenprovisionen aufgeklärt?
 5. Wie hoch ist der eingetretene Schaden (Erwerbsschaden, entgangener Gewinn)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -70,7 +70,7 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
  - Totalverlustrisiko (geschlossene Fonds)
 4. Geeignetheitserklaerung § 64 Abs. 4 WpHG analysieren (bzw. § 34 Abs. 2a WpHG aF bis 02.01.2018)
 5. Schaden berechnen (Erwerbsschaden + entgangener Gewinn)
-6. Verjaehrung pruefen (3 Jahre Kenntnis / 10 Jahre Hoechstfrist)
+6. Verjährung pruefen (3 Jahre Kenntnis / 10 Jahre Hoechstfrist)
 ```
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -141,7 +141,7 @@ Mit freundlichen Gruessen
 ### Ergaenzende Leitsaetze
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Schritt-fuer-Schritt-Anlageberatungsfehler
+### Schritt-für-Schritt-Anlageberatungsfehler
 1. **Mandantengespräch:** Produkt, Datum Beratung, Risikoprofil, Verlusthoehe dokumentieren.
 2. **Beratungsprotokoll anfordern** (§ 83 WpHG, § 64 Abs. 4 WpHG): 3-Tage-Frist auf Herausgabe.
 3. **Pruefung Kickbacks:** Bank-interne Vertriebsprovision vom Emittenten = aufklaerungspflichtig.
@@ -407,7 +407,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen Cybertrading-Betrug
-- § 263 Abs. 1, Abs. 3 StGB — Betrug, gewerbsmaessiger Betrug
+- § 263 Abs. 1, Abs. 3 StGB — Betrug, gewerbsmäßiger Betrug
 - § 263a StGB — Computerbetrug
 - § 261 StGB — Geldwaesche
 - § 826 BGB — vorsaetzliche sittenwidrige Schaedigung (Vermittler)

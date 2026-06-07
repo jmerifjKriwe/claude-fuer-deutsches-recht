@@ -19,7 +19,7 @@ Impressumspflicht und Pruefung im Verlag: DDG § 5, MStV § 18 V. i. S. d. P., A
 
 ## Worum geht es konkret
 
-Jedes Verlagsprodukt mit eigener oeffentlicher Wirkung braucht ein Impressum: Print-Heft, Buch, Online-Volltextangebot, Newsletter, Social-Media-Profil. Anforderungen verteilen sich auf DDG § 5 (Telemedien), MStV § 18 (journalistisch-redaktionelle Telemedien) und Landespressegesetze (Print). Der Skill bietet eine Pruefcheckliste und Mustertexte fuer alle Produkte des Verlags.
+Jedes Verlagsprodukt mit eigener öffentlicher Wirkung braucht ein Impressum: Print-Heft, Buch, Online-Volltextangebot, Newsletter, Social-Media-Profil. Anforderungen verteilen sich auf DDG § 5 (Telemedien), MStV § 18 (journalistisch-redaktionelle Telemedien) und Landespressegesetze (Print). Der Skill bietet eine Pruefcheckliste und Mustertexte für alle Produkte des Verlags.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -33,17 +33,17 @@ Jedes Verlagsprodukt mit eigener oeffentlicher Wirkung braucht ein Impressum: Pr
 
 ## Rechtlicher und sachlicher Rahmen
 
-- DDG § 5 - Allgemeine Informationspflichten fuer geschaeftsmaessige Telemedien (Name, Anschrift, Vertretungsberechtigte, Kontakt, Register, USt-ID, ggf. Aufsichtsbehoerde, Berufsverband).
+- DDG § 5 - Allgemeine Informationspflichten für geschaeftsmäßige Telemedien (Name, Anschrift, Vertretungsberechtigte, Kontakt, Register, USt-ID, ggf. Aufsichtsbehoerde, Berufsverband).
 - MStV § 18 - Journalistisch-redaktionelle Telemedien: zusaetzlich Verantwortlicher im Sinne des Presserechts (V. i. S. d. P.) mit Name und Anschrift.
 - Landespressegesetze - Print: Impressum mit Verlag, Druckerei, V. i. S. d. P., Erscheinungsweise.
 - TMG ausser Kraft seit DDG (2024); Bezugnahmen auf TMG sind veraltet.
 - DSGVO Art. 13, 14 - Informationspflichten beim Erheben personenbezogener Daten (separate Datenschutzerklaerung).
-- HGB §§ 37a, 80 - Pflichtangaben auf Geschaeftsbriefen (Firma, Rechtsform, Sitz, Registergericht, Registernummer); gilt analog fuer Newsletter.
+- HGB §§ 37a, 80 - Pflichtangaben auf Geschaeftsbriefen (Firma, Rechtsform, Sitz, Registergericht, Registernummer); gilt analog für Newsletter.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Produkttyp einordnen.** Print (LandesPresseG), Online-Geschaeftsmaessig (DDG § 5), Online-Journalistisch (DDG § 5 + MStV § 18), Newsletter (DDG § 5 + HGB), Social-Profil (DDG § 5).
-2. **V. i. S. d. P. festlegen** fuer journalistisch-redaktionelle Inhalte; eine natuerliche Person mit ladungsfaehiger Anschrift.
+2. **V. i. S. d. P. festlegen** für journalistisch-redaktionelle Inhalte; eine natuerliche Person mit ladungsfaehiger Anschrift.
 3. **Pflichtangaben sammeln.**
  - Firma und Anschrift (kein Postfach).
  - Vertretungsberechtigte.
@@ -60,7 +60,7 @@ Jedes Verlagsprodukt mit eigener oeffentlicher Wirkung braucht ein Impressum: Pr
  - Newsletter: Footer jeder Ausgabe.
  - Social Media: Bio-Link oder eigenes Impressums-Tab.
 6. **Datenschutzerklaerung** separat halten; nicht im Impressum aufgehen lassen.
-7. **Regelmaessige Pruefung** halbjaehrlich (Vertretungswechsel, Anschrift, USt-ID).
+7. **Regelmäßige Pruefung** halbjaehrlich (Vertretungswechsel, Anschrift, USt-ID).
 
 ## Trade-off-Matrix
 
@@ -107,7 +107,7 @@ Verantwortlich nach MStV § 18 (V. i. S. d. P.):
 [Name]
 [Anschrift, soweit von Verlagsanschrift abweichend]
 
-Aufsichtsbehoerde (wenn anwendbar): [Behoerde, Adresse]
+Aufsichtsbehoerde (wenn anwendbar): [Behörde, Adresse]
 
 Streitschlichtung Verbraucher (OS-Plattform der EU): [Link]
 Wir nehmen nicht an einem Streitbeilegungsverfahren vor einer
@@ -182,7 +182,7 @@ Datenschutz: [Link]
 ## Quellen Stand 06/2026
 
 - DDG § 5 - Allgemeine Informationspflichten Telemedien.
-- MStV § 18 - V. i. S. d. P. fuer journalistisch-redaktionelle Telemedien.
+- MStV § 18 - V. i. S. d. P. für journalistisch-redaktionelle Telemedien.
 - Landespressegesetze (jeweiliges Bundesland) - Print-Impressum.
 - HGB §§ 37a, 80 - Pflichtangaben auf Geschaeftsbriefen.
 - UStG § 27a - USt-ID-Angabe.

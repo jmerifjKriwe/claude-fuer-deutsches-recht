@@ -116,7 +116,7 @@ Bevor rechtliche Schritte eingeleitet werden, klaere:
 1. Wurden die Waren erstmals im EWR durch den Rechteinhaber oder mit seiner Zustimmung in den Verkehr gebracht (§ 24 MarkenG / Art. 15 UMV — Erschoepfung)?
 2. Ist die Graumarktware unveraendert oder wurde sie umgepackt/neuetikettiert (§ 24 II MarkenG)?
 3. Liegt ein legitimes Interesse des Markeninhabers vor, das dem Erschoepfungseinwand entgegensteht?
-4. Stammen die Waren aus einem Parallel-Import aus Nicht-EWR-Laendern (kein Erschoepfungsschutz)?
+4. Stammen die Waren aus einem Parallel-Import aus Nicht-EWR-Ländern (kein Erschoepfungsschutz)?
 
 ## Aktuelle Rechtsprechung
 

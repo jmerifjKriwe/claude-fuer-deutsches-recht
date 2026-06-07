@@ -9,6 +9,23 @@ description: "Kirchliche Vereine und Verbände: Fachmodul für CIC, Katechismus,
 
 Kirchliche Vereine und Verbände: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Canones- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
+- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
+- `CIC can. 96` — Rechtsstellung der Getauften.
+- `CIC can. 1055 § 1` — Ehebegriff.
+- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
+- `CIC can. 1246 § 1` — Sonn- und Feiertage.
+- `CIC can. 1752` — salus animarum als Auslegungsziel.
+- `KKK 1776` — Gewissen.
+- `KKK 1783` — Gewissensbildung.
+- `KKK 2032` — kirchliche Morallehre.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,22 +74,22 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 ## Aktualisierte Norm- und Reformlage
 
 ### Schluesselcanones CIC 1983
-- **can. 215 CIC** Recht der Glaeubigen, fuer kirchliche Zwecke Vereinigungen zu gruenden.
+- **can. 215 CIC** Recht der Glaeubigen, für kirchliche Zwecke Vereinigungen zu gruenden.
 - **can. 298 CIC** Definition kirchliche Vereinigungen.
-- **can. 299-329 CIC** Allgemeine Normen fuer Vereinigungen.
-- **can. 312-320 CIC** Oeffentliche Vereinigungen (juristische Personen oeffentlichen Rechts).
+- **can. 299-329 CIC** Allgemeine Normen für Vereinigungen.
+- **can. 312-320 CIC** Oeffentliche Vereinigungen (juristische Personen öffentlichen Rechts).
 - **can. 321-326 CIC** Private Vereinigungen.
 - **can. 327-329 CIC** Vereinigungen von Laien.
 
 ### Praedicate Evangelium 2022
 - **Praedicate Evangelium** (Apost. Konst. Franziskus, 19.03.2022, in Kraft 05.06.2022): Reform der Roemischen Kurie.
-- Dikasterium fuer die Laien, die Familie und das Leben hat Zustaendigkeit fuer Laienvereine erworben (vorher Paepstlicher Rat fuer die Laien).
-- Vincere ist die neue Foerderlogik: Vorrang fuer Mission und Synodalitaet.
+- Dikasterium für die Laien, die Familie und das Leben hat Zuständigkeit für Laienvereine erworben (vorher Paepstlicher Rat für die Laien).
+- Vincere ist die neue Foerderlogik: Vorrang für Mission und Synodalitaet.
 
 ### Beruehmte Vereinigungen
 - Opus Dei (Personalpraelatur, c. 294 CIC; Reform durch M.P. Ad Charisma Tuendum 14.07.2022 - Statuten neu gefasst, Stellung herabgestuft).
 - Schoenstattbewegung.
-- Caritasverband (oeffentliche Vereinigung in Deutschland).
+- Caritasverband (öffentliche Vereinigung in Deutschland).
 - Neokatechumenaler Weg (Statuten 2008 endgueltig approbiert).
 
 ### Deutsches Verbandswesen

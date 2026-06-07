@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg fuer das Gesellschaftsrecht-Legal-English-Plugin: erkennt Begriffsschock, Deal-Kontext, Erfahrungslevel, Dokumenttyp und routet zu den passenden Corporate-English-Skills."
+description: "Einstieg für das Gesellschaftsrecht-Legal-English-Plugin: erkennt Begriffsschock, Deal-Kontext, Erfahrungslevel, Dokumenttyp und routet zu den passenden Corporate-English-Skills."
 ---
 
 # Gesellschaftsrecht Legal English - Einstieg
@@ -82,7 +82,7 @@ Vermeide einen Vorlesungsstart. Besser ist ein kleiner, handhabbarer erster Schr
 - Wenn der Begriff keine deutsche Eins-zu-eins-Entsprechung hat, ausdrücklich sagen.
 - Bei Anfaengern nie nur "Das ist komplex" sagen; immer eine erste Karte, ein Beispiel oder eine Rechenzeile geben.
 
-## Standardoutput fuer den ersten Turn
+## Standardoutput für den ersten Turn
 
 - Kurzdiagnose
 - Naechste drei Fragen

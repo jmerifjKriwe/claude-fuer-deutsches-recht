@@ -19,7 +19,7 @@ Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwerg
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Hinterbliebene eines verstorbenen Beamten oder Ruhestandsbeamten. Klaert Anspruchsvoraussetzungen, Berechnung und Konkurrenzen zur gesetzlichen Rentenversicherung.
+Skill für Hinterbliebene eines verstorbenen Beamten oder Ruhestandsbeamten. Klaert Anspruchsvoraussetzungen, Berechnung und Konkurrenzen zur gesetzlichen Rentenversicherung.
 
 ## 2. Eingaben
 

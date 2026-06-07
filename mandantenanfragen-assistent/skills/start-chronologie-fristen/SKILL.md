@@ -141,7 +141,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Der Mandantenanfragen-Assistent unterstuetzt Anwaltskanzleien bei der Bearbeitung eingehender Mandantenanfragen per E-Mail. Er strukturiert den Eingang, erkennt Dringlichkeit und Fristen, erzeugt eine professionelle Erstantwort mit korrekter Anrede und allen berufsrechtlich gebotenen Hinweisen (kein Mandatsverhaeltnis, DSGVO, Verschwiegenheit) und bereitet CRM-Eintrag sowie Aktenanlage vor.
 
-Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, berufsrechtskonformen Eingangskanal fuer Sekretariat und Anwaltschaft.
+Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, berufsrechtskonformen Eingangskanal für Sekretariat und Anwaltschaft.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -156,7 +156,7 @@ Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, beruf
 - **Mandatsverhaeltnis** — das durch Mandatsvertrag begrundete Rechtsverhaeltnis zwischen Anwalt und Mandant; entsteht nicht bereits durch eine Erstanfrage.
 - **Interessenkonflikt** — Situation, in der der Anwalt nicht beide Seiten vertreten darf (§ 43a Abs. 4 BRAO, § 3 BORA); muss vor Mandatsannahme geprueft werden.
 - **DSGVO-Einwilligung** — erforderlich, wenn die Kanzlei ein Telefongespraech transkribiert und den Text verarbeitet (Art. 6 Abs. 1 lit. a DSGVO).
-- **Transkriptionsservice** — Kanzlei-Angebot, bei dem der Mandant seinen Fall per Telefon schildert und die Aufzeichnung fuer das Erstgespraech aufbereitet wird.
+- **Transkriptionsservice** — Kanzlei-Angebot, bei dem der Mandant seinen Fall per Telefon schildert und die Aufzeichnung für das Erstgespraech aufbereitet wird.
 - **Berufsrecht** — BRAO, BORA und die berufsrechtlichen Pflichten des Anwalts, insbesondere Verschwiegenheit (§ 43a Abs. 2 BRAO) und Unabhaengigkeit.
 
 ## Rechtsgrundlagen
@@ -168,7 +168,7 @@ Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, beruf
 - Art. 6 Abs. 1 lit. a DSGVO — Einwilligung als Rechtsgrundlage
 - Art. 13 DSGVO — Informationspflicht bei Datenerhebung
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Ist die Anfrage eine echte Neuanfrage, eine Folgekommunikation oder Spam?
 2. Phase des Mandats bestimmen: Erstkontakt (kein Mandat), vor Mandatsannahme (Konfliktcheck noetig) oder laufendes Mandat?
@@ -181,23 +181,23 @@ Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, beruf
 - `anfrage-eingang-parser` — Eingehende E-Mail strukturiert auswerten: Kontaktdaten, Sachverhalts-Extrakt, Dringlichkeitssignale.
 - `dringlichkeitsmarker` — Erkennt Eilbedarf in der Anfrage (Fristen, Vollstreckung, Hauptverhandlung) und gibt Dringlichkeitsstufe aus.
 - `spam-und-massen-anfrage-filter` — Unterscheidet echte Mandantenanfragen von Spam, Phishing und Massen-Anfragen.
-- `konfliktcheck-vorab` — Gibt Abfragestruktur fuer den Interessenkonflikt-Check nach § 43a Abs. 4 BRAO vor.
+- `konfliktcheck-vorab` — Gibt Abfragestruktur für den Interessenkonflikt-Check nach § 43a Abs. 4 BRAO vor.
 - `anrede-uebernehmen` — Ermittelt die korrekte formelle Anredezeile aus dem Absender (Titel, Doppelnamen, Paare).
 - `erstantwort-generator` — Erzeugt die vollstaendige Erstantwort-E-Mail mit Pflichthinweisen, Terminangebot und DSGVO-Text.
-- `muster-erstantwort` — Fertige ausfuellbare Vorlage fuer die Erstantwort in drei Varianten (Standard, Vorname, Transkriptionsservice).
+- `muster-erstantwort` — Fertige ausfuellbare Vorlage für die Erstantwort in drei Varianten (Standard, Vorname, Transkriptionsservice).
 - `mehrsprachige-antwort` — Erstantwort auf Englisch, Franzoesisch oder Italienisch in der Sprache der eingehenden Anfrage.
-- `einwilligung-hinweis-datenschutz` — DSGVO-konforme Einwilligungsklausel fuer den Transkriptionsservice (Art. 6 DSGVO).
+- `einwilligung-hinweis-datenschutz` — DSGVO-konforme Einwilligungsklausel für den Transkriptionsservice (Art. 6 DSGVO).
 - `transkriptionsdienst-erklaerung` — Erklaert den Transkriptionsservice und integriert den Ablauf in die Erstantwort.
 - `mandatsverhaeltnis-hinweis` — Disclaimer-Texte: kein Mandatsverhaeltnis, keine Rechtsberatung durch Erstanfrage.
-- `vertraulichkeit-erinnerung` — Instruktion fuer das Sekretariat: wann die Schweigepflicht gilt und was das konkret bedeutet.
+- `vertraulichkeit-erinnerung` — Instruktion für das Sekretariat: wann die Schweigepflicht gilt und was das konkret bedeutet.
 - `folgekorrespondenz-vorbereiten` — CRM-Skeleton-Eintrag und Aktenanlage aus den geparsten Anfragedaten.
-- `telefon-konfiguration` — Kanzlei-Telefonnummern fuer Sekretariat und Transkriptionsservice in Templates hinterlegen.
+- `telefon-konfiguration` — Kanzlei-Telefonnummern für Sekretariat und Transkriptionsservice in Templates hinterlegen.
 
 ## Worauf besonders achten
 
 - **Kein Rechtsrat in der Erstantwort**: Auch eine gut gemeinte Erstantwort darf keine inhaltliche Rechtsberatung enthalten; das loest Haftungsrisiken aus, ohne dass ein Mandat begruendet wurde.
-- **Anrede prazise uebernehmen**: Fehler bei akademischen Titeln (Dr., Prof.) oder Doppelnamen sind der haeufigste Grund fuer unprofessionellen Ersteindruck.
-- **DSGVO-Pflichten beim Transkriptionsservice**: Ohne Einwilligung und Datenschutzhinweis ist die Transkription eines Telefonats nicht rechtsgemaess; die Einwilligung muss fuer den konkreten Zweck erteilt werden.
+- **Anrede prazise uebernehmen**: Fehler bei akademischen Titeln (Dr., Prof.) oder Doppelnamen sind der haeufigste Grund für unprofessionellen Ersteindruck.
+- **DSGVO-Pflichten beim Transkriptionsservice**: Ohne Einwilligung und Datenschutzhinweis ist die Transkription eines Telefonats nicht rechtsgemaess; die Einwilligung muss für den konkreten Zweck erteilt werden.
 - **Interessenkonflikt-Zeitpunkt**: Der Check muss vor jeder Terminvergabe erfolgen — nicht erst bei Mandatsannahme.
 - **Schweigepflicht gilt nicht ab Erstanfrage**: Sekretariatsmitarbeiter muessen wissen, dass die Verschwiegenheitspflicht erst nach Mandatsbeginn gilt, vorher aber allgemeine Diskretionspflichten bestehen.
 
@@ -205,7 +205,7 @@ Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, beruf
 
 - Erstantwort enthaelt bereits inhaltliche Einschaetzungen zum Sachverhalt: Der Anwalt ist dann moeglicherweise beratend taetig ohne Verguetungsanspruch und mit Haftungsrisiko.
 - Interessenkonflikt-Check wird uebersprungen: Bei spaeterer Entdeckung muss das Mandat niedergelegt werden; Reputations- und Haftungsschaden.
-- DSGVO-Einwilligung fuer Transkription fehlt: Datenschutzrechtliche Abmahnung oder Busgeld moeglich.
+- DSGVO-Einwilligung für Transkription fehlt: Datenschutzrechtliche Abmahnung oder Busgeld moeglich.
 - Spam nicht erkannt: Massen-Anfragen und 419-Scams binden Kanzlei-Ressourcen ohne jeden Nutzen.
 - Mehrsprachige Anfragen auf Deutsch beantwortet: Mandant fuehl sich nicht abgeholt; Kanzlei verliert potenzielle Mandate.
 

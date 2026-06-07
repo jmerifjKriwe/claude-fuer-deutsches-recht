@@ -1,13 +1,13 @@
 ---
 name: mandantenkommunikation
-description: "Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoetigt verstaendliche Erklärung. Normen: BRAO § 43a (Beratungspflicht), § 67 OWiG, § 25 StVG. Prüfraster: Erstgespraeche-Leitfaden, Anhoerungsbogen-Empfehlung, Fahrverbot-Erklärung, Punktestand-Abfrage, Terminvorbereitung HV. Output Mandantenbrief-Template, Erklärungsbausteine, Kommunikations-Protokoll. Abgrenzung: Inhaltliche Strategie siehe verkehrsowi-kommandocenter; Anhoerung siehe verkehrsowi-anhoerung-bußgeldbescheid im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoetigt verstaendliche Erklärung. Normen: BRAO § 43a (Beratungspflicht), § 67 OWiG, § 25 StVG. Prüfraster: Erstgespraeche-Leitfaden, Anhörungsbogen-Empfehlung, Fahrverbot-Erklärung, Punktestand-Abfrage, Terminvorbereitung HV. Output Mandantenbrief-Template, Erklärungsbausteine, Kommunikations-Protokoll. Abgrenzung: Inhaltliche Strategie siehe verkehrsowi-kommandocenter; Anhörung siehe verkehrsowi-anhoerung-bußgeldbescheid im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenkommunikation im OWi-Mandat
 
 ## Arbeitsbereich
 
-Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoetigt verstaendliche Erklärung. Normen: BRAO § 43a (Beratungspflicht), § 67 OWiG, § 25 StVG. Prüfraster: Erstgespraeche-Leitfaden, Anhoerungsbogen-Empfehlung, Fahrverbot-Erklärung, Punktestand-Abfrage, Terminvorbereitung HV. Output Mandantenbrief-Template, Erklärungsbausteine, Kommunikations-Protokoll. Abgrenzung: Inhaltliche Strategie siehe verkehrsowi-kommandocenter; Anhoerung siehe verkehrsowi-anhoerung-bußgeldbescheid. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoetigt verstaendliche Erklärung. Normen: BRAO § 43a (Beratungspflicht), § 67 OWiG, § 25 StVG. Prüfraster: Erstgespraeche-Leitfaden, Anhörungsbogen-Empfehlung, Fahrverbot-Erklärung, Punktestand-Abfrage, Terminvorbereitung HV. Output Mandantenbrief-Template, Erklärungsbausteine, Kommunikations-Protokoll. Abgrenzung: Inhaltliche Strategie siehe verkehrsowi-kommandocenter; Anhörung siehe verkehrsowi-anhoerung-bußgeldbescheid. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -64,20 +64,20 @@ Was Sie tun koennen:
 - Haben Sie ein Fahrtenbuch oder Notizbuch, das den Tatvorwurf
  betrifft? Bitte aufbewahren.
 
-Kostenschaetzung: [RVG-Gebuehren]
+Kostenschaetzung: [RVG-Gebühren]
 
 Mit freundlichen Gruessen
 [KANZLEI]
 ```
 
-## Template Anhoerungsbogen-Empfehlung
+## Template Anhörungsbogen-Empfehlung
 
 **Adressat:** Mandant — Tonfall: klar und eindeutig
 
 ```
 Sehr geehrte/r Frau/Herr [NAME],
 
-Sie haben einen Anhoerungsbogen erhalten. Meine Empfehlung:
+Sie haben einen Anhörungsbogen erhalten. Meine Empfehlung:
 
 BITTE DEN BOGEN NICHT AUSFULLEN UND NICHT UNTERSCHREIBEN.
 
@@ -92,7 +92,7 @@ mich sofort.
 Mit freundlichen Gruessen [KANZLEI]
 ```
 
-## Schritt-fuer-Schritt-Mandantenbetreuung
+## Schritt-für-Schritt-Mandantenbetreuung
 
 1. **Erstgespraech:** Sachverhalt aufnehmen, Frist sofort notieren, Vollmacht einholen.
 2. **Einspruch einlegen:** Mandant sofort informieren.
@@ -103,7 +103,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 ## Harte Leitplanken
 
-- Mandant immer ueber Kosten informieren (RVG-Gebuehren schriftlich).
+- Mandant immer ueber Kosten informieren (RVG-Gebühren schriftlich).
 - Erfolgsaussichten realistisch kommunizieren — keine Garantien.
 - Fristen immer in Mandantenkommunikation vermerken.
 - Anwaltliche Endkontrolle bei Mandantenkorrespondenz.

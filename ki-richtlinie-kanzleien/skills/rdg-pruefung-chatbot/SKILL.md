@@ -62,7 +62,7 @@ Die Rechtsprechung zum RDG im Kontext von KI-Systemen ist noch im Entstehen. Nac
 ## Triage zu Beginn
 1. Gibt der Chatbot rechtliche Einschatzungen oder nur allgemeine Informationen?
 2. Basiert die Chatbot-Antwort auf dem konkreten Einzelfall des Nutzers — Subsumtion?
-3. Ist ein Rechtsanwalt als Verantwortlicher fuer die Chatbot-Antworten benannt?
+3. Ist ein Rechtsanwalt als Verantwortlicher für die Chatbot-Antworten benannt?
 4. Wird der Chatbot-Charakter nach Art. 50 Abs. 1 KI-VO offengelegt?
 5. Gibt es einen Hinweis, dass der Chatbot keine anwaltliche Beratung ersetzt?
 

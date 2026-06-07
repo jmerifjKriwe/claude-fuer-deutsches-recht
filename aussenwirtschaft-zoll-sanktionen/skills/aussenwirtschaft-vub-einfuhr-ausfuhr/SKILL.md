@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-vub-einfuhr-ausfuhr
-description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzustaendigen Behoerden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behoerdenkoordinationsplan im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzuständigen Behörden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behördenkoordinationsplan im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Verbote und Beschraenkungen (VuB) bei Ein- und Ausfuhr: Behoerdenkoordination
+# Verbote und Beschraenkungen (VuB) bei Ein- und Ausfuhr: Behördenkoordination
 
 ## Arbeitsbereich
 
-Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzustaendigen Behoerden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behoerdenkoordinationsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzuständigen Behörden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behördenkoordinationsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,8 +26,8 @@ Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnah
 ## Erste Schritte
 
 1. Warenklassifizierung: HS-/KN-Code und TARIC auf VuB-Eintraege pruefen.
-2. Relevante Behoerde identifizieren: BLE (Lebensmittel) BZSt (Drogen) BAFA (Dual-Use/Embargo) BMUV (Umwelt) Kulturbehoerde.
-3. Genehmigung/Lizenz bei zustaendiger Behoerde vor Zollanmeldung beantragen.
+2. Relevante Behörde identifizieren: BLE (Lebensmittel) BZSt (Drogen) BAFA (Dual-Use/Embargo) BMUV (Umwelt) Kulturbehoerde.
+3. Genehmigung/Lizenz bei zuständiger Behörde vor Zollanmeldung beantragen.
 4. ATLAS-Zollanmeldung: VuB-Code eintragen und Dokument-Referenz hinterlegen.
 5. Begleitdokumentation (CITES-Zertifikat BLE-Genehmigung etc.) bei Abfertigung vorlegen.
 6. Abfertigungszeitraum kalkulieren: VuB-Pruefungen verlaengern Zollabfertigung.
@@ -36,31 +36,31 @@ Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnah
 
 - **UZK Art. 134**: Nichtpraefer enzielle Ursprungsregeln und Verbote.
 - **VO (EG) 338/97 (CITES-VO)**: Artenschutzregelungen beim Im-/Export.
-- **EG-Drogenvorstufen-VO 111/2005**: Einfuhrgenehmigungen fuer Praekursoren.
+- **EG-Drogenvorstufen-VO 111/2005**: Einfuhrgenehmigungen für Praekursoren.
 - **§§ 1-5 KultSchG**: Kulturgutschutz bei Ausfuhr.
 - **BtMG §§ 3 ff.**: Betaeubungsmittelrecht bei Im- und Export.
 
 ## Pruef-Raster
 
-- [ ] TARIC auf VuB-Eintraege fuer HS-Code geprueft?
-- [ ] Zustaendige Behoerde korrekt identifiziert?
+- [ ] TARIC auf VuB-Eintraege für HS-Code geprueft?
+- [ ] Zustaendige Behörde korrekt identifiziert?
 - [ ] Genehmigung/Lizenz vor Zollanmeldung beantragt und erhalten?
 - [ ] VuB-Code und Dokument-Referenz in ATLAS-Anmeldung eingetragen?
 - [ ] Begleitdokumentation vollstaendig bei Abfertigung vorhanden?
-- [ ] Zeitpuffer fuer VuB-Pruefung in Lieferplanung beruecksichtigt?
+- [ ] Zeitpuffer für VuB-Pruefung in Lieferplanung beruecksichtigt?
 
 ## Typische Fallstricke
 
 - VuB-Genehmigung nach Zollanmeldung nicht mehr moeglich; Vorab-Beantragung Pflicht.
 - TARIC-VuB-Eintraege werden regelmaessig aktualisiert; Check vor jeder Sendung noetig.
-- Multiples VuB mehrerer Behoerden bei ein und derselben Ware moeglich.
-- Zeitverzug bei Behoerden-Genehmigungen kann Lieferketten erheblich stoeren.
+- Multiples VuB mehrerer Behörden bei ein und derselben Ware moeglich.
+- Zeitverzug bei Behörden-Genehmigungen kann Lieferketten erheblich stoeren.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-VuB-Pruefprotokoll mit Behoerdenidentifikation, Genehmigungs-Checkliste, ATLAS-Eintragungsanleitung und Lieferketten-Zeitplanung.
+VuB-Pruefprotokoll mit Behördenidentifikation, Genehmigungs-Checkliste, ATLAS-Eintragungsanleitung und Lieferketten-Zeitplanung.
 
 ## Quellen
 

@@ -15,7 +15,7 @@ description: "Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: 
 | `aufenthaltstitel-pruefung` | Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-migrationsrecht-abschiebungsabwehr` | Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbote § 60 Abs. 5 und 7 AufenthG Eilrechtsschutz § 123 VwGO bzw. § 80 Abs. 5 VwGO. Inlandsbezogene Vollstreckungshindernisse Art. 6 GG Familieneinheit Art. 8 EMRK Privat- und Familienleben Reiseunfähigkeit. Petitions- und Haerteverfahren. Asylfolgeantrag § 71 AsylG. Verfassungsbeschwerde nach Erschoepfung Rechtsweg. |
-| `fachanwalt-migrationsrecht-asyl-folgeantrag-71` | Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhoerung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr. |
+| `fachanwalt-migrationsrecht-asyl-folgeantrag-71` | Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhörung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr. |
 
 ## Arbeitsweg
 
@@ -44,7 +44,7 @@ description: "Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: 
 8. Bei humanitärem Aufenthalt: Welche Schutzanerkennung liegt vor (GFK, subsidiär, national § 60 AufenthG)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -411,7 +411,7 @@ VI. NAECHSTE SCHRITTE
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster fuer Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
+Standard-Fragenraster für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
 
 - Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
@@ -424,15 +424,15 @@ Standard-Fragenraster fuer Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
 - Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG fuer RA-Mandate).
+- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
 
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behoerde).
+- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
 - Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
 
@@ -446,23 +446,23 @@ Standard-Streitwerte im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrech
 Drei Weichen am Ende des Erstgespraechs:
 
 - **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzustaendig oder Konflikt.
+- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjaehrung, Ausschlussfristen, Beweisanforderungs-Fristen).
+2. **Frist-Liste** (Sofortfristen, Verjährung, Ausschlussfristen, Beweisanforderungs-Fristen).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
 4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
 5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
 
 ## Relevante Rechtsgrundlagen und Standards
 
-- BORA, BRAO, FAO fuer Fachanwaltschaft Auslaender-, Asyl- und Staatsangehoerigkeitsrecht.
+- BORA, BRAO, FAO für Fachanwaltschaft Auslaender-, Asyl- und Staatsangehoerigkeitsrecht.
 - GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
-- AufenthG, AsylG, StAG, FreizuegigG/EU, BeschV, EU-RL 2008/115/EG (fuer fachliche Erstpruefung).
-- DSGVO und BDSG fuer den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
+- AufenthG, AsylG, StAG, FreizuegigG/EU, BeschV, EU-RL 2008/115/EG (für fachliche Erstpruefung).
+- DSGVO und BDSG für den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
 
 ## Typische Fehler im Erstgespraech
 
@@ -491,7 +491,7 @@ Drei Weichen am Ende des Erstgespraechs:
 
 Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht). Handlungs-Sequenz:
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behoerdenportal).
+1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
 2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO, § 110 AO) als Reserve dokumentieren.
 3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
 4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten - aber transparent kommunizieren.
@@ -501,7 +501,7 @@ Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsf
 Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fachlichen Bewertung:
 
 1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl - Spielraum fuer Verjaehrungs- und Ausschlussfristen identifizieren.
+2. Chronologischer Verlauf als Zeitstrahl - Spielraum für Verjährungs- und Ausschlussfristen identifizieren.
 3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
 
 ### Konstellation C: Interessenkonflikt-Naehe
@@ -543,9 +543,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
 
 ## Vertiefung: Rechtsprechung und Normen (Migrationsrecht Mandatsannahme)
 
@@ -555,9 +555,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - **§ 10 ff. GwG** — Sorgfaltspflichten und Identifizierung; § 2 Abs. 1 Nr. 10 GwG — Anwendung auf RA-Mandate
 - **§ 43a Abs. 4 BRAO / § 3 BORA** — Interessenkonflikt; Doppelvertretung verboten
-- **§ 3a RVG** — Honorarvereinbarung; Schriftform; Trennungsgebot RVG-Gebuehren / Stundensatz
+- **§ 3a RVG** — Honorarvereinbarung; Schriftform; Trennungsgebot RVG-Gebühren / Stundensatz
 - **§§ 166 VwGO, 114 ZPO** — Prozesskostenhilfe im Verwaltungsverfahren
-- **§ 52 GKG** — Streitwert; Abs. 2 Regelstreitwert 5.000 EUR fuer Asylklage
+- **§ 52 GKG** — Streitwert; Abs. 2 Regelstreitwert 5.000 EUR für Asylklage
 - **§ 25 Abs. 6 AsylG** — Recht auf anwaltlichen Beistand bei BAMF-Anhörung
 
 ## Quellenregel
@@ -640,7 +640,7 @@ Anordnungsanspruch:
  (Anlage K3).
 
 Anordnungsgrund:
-- Abschiebung ist fuer [Datum] angekuendigt — irreparable Verletzung
+- Abschiebung ist für [Datum] angekuendigt — irreparable Verletzung
  von Grundrechten droht.
 
 Glaubhaftmachung: § 920 Abs. 2 ZPO durch beigefuegte Anlagen.
@@ -708,7 +708,7 @@ deutschen Kindern, Anlage K1: Geburtsurkunden. ODER § 60a Abs. 2c
 AufenthG — Reiseunfaehigkeit gemaess Attest Anlage K2.]
 
 II. Anordnungsgrund
-Die Abschiebung ist fuer den [DATUM] angekuendigt (Anlage K3:
+Die Abschiebung ist für den [DATUM] angekuendigt (Anlage K3:
 Bescheid Auslaenderbehoerde). Irreparable Nachteile drohen.
 
 III. Glaubhaftmachung
@@ -721,7 +721,7 @@ Anlagen K1 bis K[X].
 
 ## 4. `fachanwalt-migrationsrecht-asyl-folgeantrag-71`
 
-**Fokus:** Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhoerung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr.
+**Fokus:** Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhörung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr.
 
 # Asyl-Folgeantrag § 71 AsylG
 
@@ -785,7 +785,7 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 
 ### Bei Folgeantrag
 
-- Prüfung ob anderer EU-Staat zustaendig
+- Prüfung ob anderer EU-Staat zuständig
 - 6-Monats-Überstellungs-Frist
 - Bei Versäumnis: DE-Zuständigkeit
 
@@ -896,7 +896,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 [KANZLEI]
 [ADRESSE]
 
-Bundesamt fuer Migration und Fluechtlinge
+Bundesamt für Migration und Fluechtlinge
 [AUSSENSTELLE]
 [ADRESSE]
 
@@ -917,13 +917,13 @@ II. WIEDERAUFGREIFENSGRUENDE (§ 51 Abs. 1 Nr. [X] VwVfG)
 [Variante A — Aenderung Sachlage:]
 Seit der Ablehnung des Erstantrags hat sich die Lage im Herkunftsland
 [LAND] wesentlich veraendert: [KONKRETE SCHILDERUNG MIT DATUM].
-Belege: UNHCR-Laenderbericht [DATUM] Anlage 1, AA-Bericht [DATUM] Anlage 2.
+Belege: UNHCR-Länderbericht [DATUM] Anlage 1, AA-Bericht [DATUM] Anlage 2.
 
 [Variante B — Neue Beweismittel:]
 Es liegen neue Beweismittel vor, die bei der Erstentscheidung nicht
 verfuegbar waren: [ATTEST / DOKUMENT / ZEUGNIS]. Anlage 3.
 
-[Variante C — Konversion / LGBTQ / persoenliche Aenderung:]
+[Variante C — Konversion / LGBTQ / persönliche Aenderung:]
 Der Antragsteller ist am [DATUM] zum [Christentum / Islam / ...] konvertiert.
 Bescheinigung beigefuegt Anlage 4. Die innere Uberzeugung ist echt und stabil
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

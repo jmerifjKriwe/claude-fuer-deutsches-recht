@@ -155,7 +155,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Dieses Plugin unterstuetzt Insolvenzverwalter, Pruefungsstellen und Kanzleien bei der strukturierten Pruefung von Insolvenzforderungsanmeldungen nach §§ 174-189 InsO. Es deckt den gesamten Pruefpfad ab: vom kanaluebergreifenden Eingang der Anmeldungen ueber Formalprüfung, Belegprüfung, Anspruchsgrundlage, Betrag, Zinsen, Rangprüfung und vorsaetzlich begangene unerlaubte Handlung (vbuH) bis hin zu Pruefungstermin, Bestreitungsverfahren, Tabelleneintrag, Tabellenauszug und Verteilung.
 
-Das Plugin ist freistehend und eignet sich sowohl fuer Einzelforderungen als auch fuer Massenverfahren mit strukturiertem Batchregister.
+Das Plugin ist freistehend und eignet sich sowohl für Einzelforderungen als auch für Massenverfahren mit strukturiertem Batchregister.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -187,7 +187,7 @@ Das Plugin ist freistehend und eignet sich sowohl fuer Einzelforderungen als auc
 - § 302 InsO — Ausnahmen von der Restschuldbefreiung (vbuH)
 - § 850f Abs. 2 ZPO — Pfaendungsfreigrenze bei vbuH
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Verwalterrolle, Verfahrensstand (Eroeffnung, Pruefungstermin, Verteilung), Forderungstyp.
 2. Phase des Mandats bestimmen: Eingangserfassung, Formalprüfung, inhaltliche Pruefung, Entscheidung, Termin oder Verteilung.
@@ -201,7 +201,7 @@ Das Plugin ist freistehend und eignet sich sowohl fuer Einzelforderungen als auc
 
 - `ifap-kommandocenter` — Steuerung des gesamten Pruefpfads von Eingang bis Tabelle; zeigt naechste Schritte und Fristen an.
 - `ifap-intake-kanalcheck` — Kanaluebergreifende Eingangserfassung: Post, E-Mail, Portal, Tabellenexport und Nachtrag.
-- `ifap-aktenanlage-batchregister` — Strukturiertes Batchregister fuer Massenverfahren mit Glaeubigerstamm, Fristen und Audit-Trail.
+- `ifap-aktenanlage-batchregister` — Strukturiertes Batchregister für Massenverfahren mit Glaeubigerstamm, Fristen und Audit-Trail.
 
 **Formalprüfung**
 
@@ -227,7 +227,7 @@ Das Plugin ist freistehend und eignet sich sowohl fuer Einzelforderungen als auc
 **Bestreiten und Streit**
 
 - `ifap-streitige-forderung-179-180` — Nachverfolgung bestrittener Forderungen: Feststellungsklage (§ 179 InsO), Tabellenklage (§ 180 InsO).
-- `ifap-schuldnerwiderspruch-184` — Schuldnerwiderspruch nach § 184 InsO pruefen und Monatsfrist fuer Aufnahme des Rechtsstreits einhalten.
+- `ifap-schuldnerwiderspruch-184` — Schuldnerwiderspruch nach § 184 InsO pruefen und Monatsfrist für Aufnahme des Rechtsstreits einhalten.
 
 **Tabelle und Verteilung**
 

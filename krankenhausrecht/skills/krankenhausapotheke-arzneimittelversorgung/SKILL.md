@@ -40,9 +40,9 @@ Die Krankenhausversorgung mit Arzneimitteln laeuft entweder ueber eine eigene **
 - **IfSG / ABS** Antibiotic Stewardship und Resistenzprophylaxe.
 - **KHEntgG / G-DRG** Arzneimittelkosten in DRG-Kalkulation.
 - **BfArM-Lieferengpassmanagement** (Arzneimittel-Versorgungs-Verbesserungsgesetz).
-- **Cannabis-Gesetz, BtMG** fuer Betaeubungsmittel.
+- **Cannabis-Gesetz, BtMG** für Betaeubungsmittel.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Versorgungsmodell pruefen:** Eigene Apotheke, Verbund-Apotheke, Versorgungsvertrag § 14 ApoG.
 2. **Compliance Apotheke:** Apothekenleiter, ApBetrO, Pruefungen Land.
 3. **NUB-Antrag pruefen:** Wenn Arzneimittel/Methode neu — Antrag an InEK, § 6 Abs. 2 KHEntgG.
@@ -65,11 +65,11 @@ Die Krankenhausversorgung mit Arzneimitteln laeuft entweder ueber eine eigene **
 - Off-Label-Use beim Krankenhaus traegt Haftungsrisiko; Aufklaerung und Indikation dokumentieren.
 - Antibiotic Stewardship ist KRINKO/Heilberufekammer-Empfehlung und Strukturmerkmal mancher LG/G-BA-Vorgaben.
 - Lieferengpass-Liste BfArM regelmaeßig pruefen; Substitution mit Aerztlichem Direktor abstimmen.
-- Vergaberecht (Schwellenwerte) gilt fuer Lieferkonsortien — beihilfe-/vergabekonforme Loesung anstreben.
+- Vergaberecht (Schwellenwerte) gilt für Lieferkonsortien — beihilfe-/vergabekonforme Loesung anstreben.
 
 ## Mustertexte
 **NUB-Antrag (Skizze):**
-> Antrag auf Neue Untersuchungs- und Behandlungsmethode gemaess § 6 Abs. 2 KHEntgG. Methode: [Name]. Wirkstoff: [INN]. Indikation: … Klinische Evidenz: … Wir beantragen Zusatzentgelt fuer Behandlungsjahr [Jahr]. Anlagen: Studien, Kalkulation.
+> Antrag auf Neue Untersuchungs- und Behandlungsmethode gemaess § 6 Abs. 2 KHEntgG. Methode: [Name]. Wirkstoff: [INN]. Indikation: … Klinische Evidenz: … Wir beantragen Zusatzentgelt für Behandlungsjahr [Jahr]. Anlagen: Studien, Kalkulation.
 
 **Versorgungsvertrag-Pruefliste:**
 > Pruefkriterien: Lieferzeiten, Notfallversorgung 24/7, Compounding, Zytostatika, BtM, Apothekenleiter-Praesenz, Pruefberichte Land, Kosten, Vergaberecht.

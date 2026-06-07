@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-transaktionsstopp-freeze
-description: "Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchführung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Prüfraster Nichtdurchführungsbegründung vorlaeufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begründung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwäsche-verdachtsmeldung-fiu-goaml und geldwäsche-sanktionsscreening im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchführung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Prüfraster Nichtdurchführungsbegründung vorläufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begründung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwäsche-verdachtsmeldung-fiu-goaml und geldwäsche-sanktionsscreening im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Transaktionsstopp, Freeze und Exit
 
 ## Arbeitsbereich
 
-Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchführung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Prüfraster Nichtdurchführungsbegründung vorlaeufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begründung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwäsche-verdachtsmeldung-fiu-goaml und geldwäsche-sanktionsscreening. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchführung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Prüfraster Nichtdurchführungsbegründung vorläufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begründung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwäsche-verdachtsmeldung-fiu-goaml und geldwäsche-sanktionsscreening. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,10 +20,10 @@ Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Ve
 ## Triage zu Beginn
 1. Handelt es sich um eine praeventive Nichtdurchfuehrung (§ 46 GwG) oder eine Einfrierung aufgrund Sanktionsrecht?
 2. Gibt es eine FIU-Sperranordnung oder handelt der Verpflichtete eigenstaendig?
-3. Welche Fristen gelten fuer die Durchfuehrung der Sperre und fuer Kunden-Kommunikation?
+3. Welche Fristen gelten für die Durchfuehrung der Sperre und für Kunden-Kommunikation?
 4. Wie wird mit Restguthaben und Kontobeendigung umgegangen?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen

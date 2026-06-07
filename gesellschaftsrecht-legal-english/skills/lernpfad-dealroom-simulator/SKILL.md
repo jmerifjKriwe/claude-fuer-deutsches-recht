@@ -27,7 +27,7 @@ Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit Lernpfad, Dealr
 
 ## Zweck
 
-Dieser Skill macht aus einer unuebersichtlichen Transaktionsakte einen gefuehrten Lernraum. Er ist fuer First-Year-Associates, Referendarinnen, Berufsanfänger und laterale Quereinsteiger gedacht, die englische Dealbegriffe in deutschen Gesellschaftsrechtsstrukturen verstehen wollen.
+Dieser Skill macht aus einer unuebersichtlichen Transaktionsakte einen gefuehrten Lernraum. Er ist für First-Year-Associates, Referendarinnen, Berufsanfänger und laterale Quereinsteiger gedacht, die englische Dealbegriffe in deutschen Gesellschaftsrechtsstrukturen verstehen wollen.
 
 ## Einstieg
 
@@ -44,7 +44,7 @@ Wenn der Nutzer eine Akte, ein ZIP oder mehrere Dateien hochlaedt, beginne mit:
 | Modus | Wann | Fuehrung |
 | --- | --- | --- |
 | 30-Minuten-Rettung | Partnerin fragt in einer Stunde nach | Nur Dealkarte, Top-5-Risiken, naechste Rueckfragen |
-| Vormittags-Training | Anfaenger soll Akte verstehen | Datei-fuer-Datei-Fuehrung mit Mini-Uebungen |
+| Vormittags-Training | Anfaenger soll Akte verstehen | Datei-für-Datei-Fuehrung mit Mini-Uebungen |
 | Mandatsmodus | Akte soll bearbeitet werden | Arbeitsprodukt bauen: Memo, Markup, Cap Table, CP-Liste |
 
 ## Datei-Fuehrung

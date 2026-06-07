@@ -19,7 +19,7 @@ Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren. Die Prüfung konzentri
 
 ## Aufgabe
 
-Skill fuer Dienstunfall — § 30 ff. BeamtVG mit Heilverfahren und Unfallausgleich.
+Skill für Dienstunfall — § 30 ff. BeamtVG mit Heilverfahren und Unfallausgleich.
 
 ## Norm
 

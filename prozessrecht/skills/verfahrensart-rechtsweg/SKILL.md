@@ -9,6 +9,23 @@ description: "Fristen: Fristen, Form, Zuständigkeit und Rechtsweg; schärft Rol
 
 Fristen: Fristen, Form, Zuständigkeit und Rechtsweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 535 Abs. 1 BGB` — Hauptpflichten des Mietvertrags.
+- `§ 536 Abs. 1 BGB` — Minderung.
+- `§ 543 Abs. 1 BGB` — ausserordentliche Kuendigung.
+- `§ 556 Abs. 1 BGB` — Betriebskostenvereinbarung.
+- `§ 556 Abs. 3 BGB` — Abrechnung und Einwendungsfrist.
+- `§ 558 Abs. 1 BGB` — Mieterhoehung bis ortsuebliche Vergleichsmiete.
+- `§ 559 Abs. 1 BGB` — Modernisierungsmieterhoehung.
+- `§ 573 Abs. 1 BGB` — ordentliche Vermieterkuendigung.
+- `§ 259 BGB` — Rechnungslegung.
+- `§ 2 BetrKV` — Betriebskostenarten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

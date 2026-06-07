@@ -43,7 +43,7 @@ Sieben-Fragen-Diagnose:
 - **§ 79 OWiG** Rechtsbeschwerde.
 - **§ 20 BDSG** Verwaltungsrechtsweg für Art.-78-Streitigkeiten gegen Aufsichtsbehörden; ausdrücklich nicht für Bußgeldverfahren. Relevant für Art.-58-Anordnungen, nicht für die Geldbuße selbst.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst: Frist sichern.** Einspruchsfrist nach § 67 I OWiG zwei Wochen ab Zustellung — sofort im Fristenkalender, Wiedereinsetzungspruefung bei Saeumnis.
 2. **Akteneinsicht beantragen.** § 49 OWiG i.V.m. § 147 StPO. Erst danach Strategie.

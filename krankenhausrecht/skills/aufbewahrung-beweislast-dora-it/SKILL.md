@@ -29,7 +29,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 - Welche Doku-Pflicht ist betroffen (Aerztlich, Pflege, Aufklaerung, Strahlentherapie, Blut)?
 - Ist analog/digital gefuehrt? Liegen Manipulationssicherung und Versionierung vor?
 - Welche Aufbewahrungsfrist gilt (10, 15, 30 Jahre)?
-- Wird die Akte fuer Patient, MD, Gericht oder Aufsicht verlangt?
+- Wird die Akte für Patient, MD, Gericht oder Aufsicht verlangt?
 - Drohen Beweislastnachteile bei Behandlungsfehlerklage (§ 630h BGB)?
 
 ## Rechtlicher Rahmen
@@ -42,7 +42,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 - **DSGVO Art. 5, 17, 18** Datenschutz, Speicherbegrenzung, Loeschpflicht nach Ablauf.
 - **SGB X § 84** Aufbewahrung sozialrechtliche Unterlagen.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Aktenklassen identifizieren:** Aerztlich, Pflege, Aufklaerung, Bildgebung, OP, Anaesthesie, Blut, Labor.
 2. **Aufbewahrungsfrist je Klasse:** Standard 10 Jahre, Roentgen/Strahlentherapie 30 Jahre, Blut 30 Jahre, Geburten 30 Jahre (haftungsrechtlich BGH).
 3. **Form pruefen:** Analog vs. digital, ePA-Anbindung, Manipulationssicherheit.
@@ -54,7 +54,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 
 | Aktenklasse | Mindestfrist | Praxisfrist |
 |---|---|---|
-| Allg. aerztliche Doku | 10 Jahre (§ 630f Abs. 3) | 30 Jahre wegen Verjaehrung (BGH) |
+| Allg. aerztliche Doku | 10 Jahre (§ 630f Abs. 3) | 30 Jahre wegen Verjährung (BGH) |
 | Roentgen, Strahlentherapie | 30 Jahre (StrlSchV) | 30 Jahre |
 | Transfusion Blut | 30 Jahre (TFG) | 30 Jahre |
 | Geburten | empfohlen 30 Jahre | mind. bis Volljaehrigkeit + 3 Jahre |
@@ -62,7 +62,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 | Forschungsdaten (klinische Studie) | 10-25 Jahre (GCP) | je nach Pruefer |
 
 ## Praxistipps
-- Lange Verjaehrungsfrist Behandlungsfehler (§ 199 BGB: 3 Jahre ab Kenntnis, Hoechstfrist 30 Jahre); deshalb Praxis 30 Jahre archivieren.
+- Lange Verjährungsfrist Behandlungsfehler (§ 199 BGB: 3 Jahre ab Kenntnis, Hoechstfrist 30 Jahre); deshalb Praxis 30 Jahre archivieren.
 - Digitale Akte muss revisionssicher sein (GoBD), inkl. Zeitstempel und Berechtigungskonzept.
 - Aerztliche und pflegerische Doku zeitnah, nicht retrospektiv "geglaettet".
 - Aufklaerungsdoku ist Schlachtfeld bei Haftungsstreit — Vordrucke + handschriftliche Notiz schaffen Authentizitaet.

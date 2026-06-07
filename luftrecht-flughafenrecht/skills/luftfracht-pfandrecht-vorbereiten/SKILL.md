@@ -1,13 +1,13 @@
 ---
 name: luftfracht-pfandrecht-vorbereiten
-description: "Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Glaeubiger will Fracht pfaenden. Prueft HGB § 440 Frachtfuehrerpfandrecht Montreal Convention Art. 9 und ZPO-Pfaendungsrecht und liefert Sicherungsstruktur-Vermerk fuer Luftfracht-Finanzierung im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Glaeubiger will Fracht pfaenden. Prueft HGB § 440 Frachtfuehrerpfandrecht Montreal Convention Art. 9 und ZPO-Pfaendungsrecht und liefert Sicherungsstruktur-Vermerk für Luftfracht-Finanzierung im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Luftfracht – Pfandrecht vorbereiten
 
 ## Arbeitsbereich
 
-Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Glaeubiger will Fracht pfaenden. Prueft HGB § 440 Frachtfuehrerpfandrecht Montreal Convention Art. 9 und ZPO-Pfaendungsrecht und liefert Sicherungsstruktur-Vermerk fuer Luftfracht-Finanzierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Glaeubiger will Fracht pfaenden. Prueft HGB § 440 Frachtfuehrerpfandrecht Montreal Convention Art. 9 und ZPO-Pfaendungsrecht und liefert Sicherungsstruktur-Vermerk für Luftfracht-Finanzierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

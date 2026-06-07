@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollen-mandatsziel
-description: "Klaert vor inhaltlicher Bearbeitung wer Mandant ist welche Rolle die Beteiligten haben und was das konkrete Mandatsziel ist. Trennt Mandantenwunsch von rechtlich Erreichbarem. Pinpoints BORA 43a BRAO Interessenkollision RVG 3a RVG 4 Honorarvereinbarung. Liefert Checkliste fuer Aktenkopf Vollmacht Honorarbasis und Zielkonflikte."
+description: "Klaert vor inhaltlicher Bearbeitung wer Mandant ist welche Rolle die Beteiligten haben und was das konkrete Mandatsziel ist. Trennt Mandantenwunsch von rechtlich Erreichbarem. Pinpoints BORA 43a BRAO Interessenkollision RVG 3a RVG 4 Honorarvereinbarung. Liefert Checkliste für Aktenkopf Vollmacht Honorarbasis und Zielkonflikte."
 ---
 
 # Erstpruefung Rollen und Mandatsziel

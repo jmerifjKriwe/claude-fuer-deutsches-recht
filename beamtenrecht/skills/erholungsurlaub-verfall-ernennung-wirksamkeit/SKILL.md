@@ -19,7 +19,7 @@ Skill zum Verfall des Erholungsurlaubs im Beamtenverhaeltnis nach Massgabe der E
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, denen Erholungsurlaub aus zurueckliegenden Urlaubsjahren nicht gewaehrt wurde und die jetzt Uebertragung, Inanspruchnahme oder Abgeltung beanspruchen wollen. Anwendung typisch nach langer Krankheit, Elternzeit, Pflegezeit oder nach Eintritt in den Ruhestand.
+Skill für Beamte, denen Erholungsurlaub aus zurueckliegenden Urlaubsjahren nicht gewaehrt wurde und die jetzt Uebertragung, Inanspruchnahme oder Abgeltung beanspruchen wollen. Anwendung typisch nach langer Krankheit, Elternzeit, Pflegezeit oder nach Eintritt in den Ruhestand.
 
 ## 2. Eingaben
 
@@ -46,7 +46,7 @@ Skill fuer Beamte, denen Erholungsurlaub aus zurueckliegenden Urlaubsjahren nich
 - Zusatzurlaub (Schwerbehinderung, Wechselschicht) ist landesrechtlich gesondert geregelt.
 
 ### e) Frist
-- Antrag auf Abgeltung zeitnah nach Ausscheiden; Verjaehrungsfristen pruefen.
+- Antrag auf Abgeltung zeitnah nach Ausscheiden; Verjährungsfristen pruefen.
 
 ## 4. Quellenpflicht
 

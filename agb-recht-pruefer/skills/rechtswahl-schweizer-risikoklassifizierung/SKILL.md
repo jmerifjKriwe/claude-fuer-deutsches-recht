@@ -1,13 +1,13 @@
 ---
 name: rechtswahl-schweizer-risikoklassifizierung
-description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf fuer rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm im AGB-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm im AGB-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agb Rechtswahl Schweizer Recht Rom I
 
 ## Arbeitsbereich
 
-Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf fuer rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkomm
 
 ## Fachkern: Agb Rechtswahl Schweizer Recht Rom I
 
-- **Klauselproblem (Agb Rechtswahl Schweizer Recht Rom I):** Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf fuer rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm.
+- **Klauselproblem (Agb Rechtswahl Schweizer Recht Rom I):** Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -44,13 +44,13 @@ Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkomm
 - BGH-Linie: deutsches AGB-Recht greift bei deutschem Verbraucher und ausgerichteter Schweizer Taetigkeit durch.
 
 ### Art. 9 Rom-I — Eingriffsnormen
-- Eingriffsnormen sind zwingende Bestimmungen, deren Beachtung als so entscheidend fuer den Staat angesehen wird, dass sie ungeachtet des nach den Rom-I-VO-Regeln anwendbaren Rechts anzuwenden sind.
+- Eingriffsnormen sind zwingende Bestimmungen, deren Beachtung als so entscheidend für den Staat angesehen wird, dass sie ungeachtet des nach den Rom-I-VO-Regeln anwendbaren Rechts anzuwenden sind.
 - Sind § 307 BGB oder § 242 BGB Eingriffsnormen?
-- BGH und h.M.: **§§ 305-310 BGB sind keine Eingriffsnormen** im Sinne Art. 9. Sie sind Schutznormen, aber sie regeln nicht das oeffentliche Interesse, sondern die Wertung des Verbraucherschutzes — diese Wertung ist ueber Art. 6 Rom-I bereits abgesichert.
+- BGH und h.M.: **§§ 305-310 BGB sind keine Eingriffsnormen** im Sinne Art. 9. Sie sind Schutznormen, aber sie regeln nicht das öffentliche Interesse, sondern die Wertung des Verbraucherschutzes — diese Wertung ist ueber Art. 6 Rom-I bereits abgesichert.
 - **§ 242 BGB als Eingriffsnorm?** Vereinzelt vertreten, aber abzulehnen. § 242 ist kein international zwingender Anwendungsbefehl, sondern eine Generalklausel des deutschen Privatrechts. Die Konstruktion "ueber § 242 BGB greift das gesamte AGB-Recht international durch" ist nicht haltbar.
 
 ### Art. 21 Rom-I — Ordre Public
-- Anwendung des fremden Rechts kann ausgeschlossen werden, soweit sie offensichtlich mit der oeffentlichen Ordnung Deutschlands unvereinbar ist.
+- Anwendung des fremden Rechts kann ausgeschlossen werden, soweit sie offensichtlich mit der öffentlichen Ordnung Deutschlands unvereinbar ist.
 - Nur Kerngehalte (Vorsatzhaftungsausschluss, Verzicht auf Personenschaden) sind ordre public.
 
 ## B2B-Konstellation

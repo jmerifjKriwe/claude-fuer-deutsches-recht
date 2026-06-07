@@ -5,6 +5,24 @@ description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinung
 
 # Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Wann verwenden
 
 Dieser Skill wird **am Ende** des Legistik-Workflows aufgerufen, wenn aus den strukturierten Markdown-Bausteinen der vorgelagerten Skills (Auftrag, Normentext, Begründung, Synopse) ein **lieferfähiges Dokument** im offiziellen Erscheinungsbild erstellt werden soll.

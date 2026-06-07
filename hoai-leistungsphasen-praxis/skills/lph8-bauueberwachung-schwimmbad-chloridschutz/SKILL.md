@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-schwimmbad-chloridschutz
-description: "Bauueberwachung nach HOAI LPH 8 fuer Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nach DIN EN ISO 12944 Klasse C5. Praxisnahe Dokumentation mit SAP PM und PlanRadar im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nach DIN EN ISO 12944 Klasse C5. Praxisnahe Dokumentation mit SAP PM und PlanRadar im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Schwimmbad Chloridschutz (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nach DIN EN ISO 12944 Klasse C5. Praxisnahe Dokumentation mit SAP PM und PlanRadar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nach DIN EN ISO 12944 Klasse C5. Praxisnahe Dokumentation mit SAP PM und PlanRadar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Bauueberwachung nach HOAI LPH 8 fuer Hallenbaeder und Freibaeder mit besonderem 
 
 ## Spezialwissen
 
-Hallenbaeeder sind wegen der chloridhaltigen Atmosphaere besonders korrosionsschaedigend fuer Stahl- und Betonkonstruktionen.
+Hallenbaeeder sind wegen der chloridhaltigen Atmosphaere besonders korrosionsschaedigend für Stahl- und Betonkonstruktionen.
 Die Bauueberwachung nach HOAI LPH 8 prueft chloridbestaendigen Beton, Beckenbeschichtung und Filtranlageninstallation.
 Lueftungsanlage im Hallenbad muss spezifisch auf Chloramin-Abfuhr und Korrosionsschutz der Kanaele ausgelegt sein.
 
@@ -68,7 +68,7 @@ Lueftungsanlage im Hallenbad muss spezifisch auf Chloramin-Abfuhr und Korrosions
 
 - SAP PM EAM Schwimmbad: Equipment Becken, Filteranlage, Lueftung, Wartungsplaene Jahresinspektionen
 - SAP PM Meldung M2: Beckenbeschichtungs-Blase, Schadenscode, Kostenstelle Badeanstalten
-- PlanRadar Sammelreport: Maengelreport Beckenbeschichtung, Filtration, Lueftung fuer Stadtwerke
+- PlanRadar Sammelreport: Maengelreport Beckenbeschichtung, Filtration, Lueftung für Stadtwerke
 - RIB iTWO: Aufmass Beckenbeschichtung nach qm, Schlusskostenfeststellung, Nachtragsprotokoll
 - Dalux BIM-Betrieb: As-Built Schwimmbad, Beschichtungspluene, Wartungsintervalle eingebunden
 

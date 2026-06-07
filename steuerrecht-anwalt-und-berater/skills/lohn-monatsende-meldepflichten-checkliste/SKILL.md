@@ -20,7 +20,7 @@ Zum Monatsende fallen mehrere Meldepflichten gleichzeitig an: LSt-Anmeldung beim
 1. Welcher Mandant — Mitarbeiterzahl, Branche?
 2. Welcher Anmeldungszeitraum LSt (monatlich, vierteljaehrlich, jaehrlich)?
 3. Welche Krankenkassen sind vertreten?
-4. Welche BG ist zustaendig?
+4. Welche BG ist zuständig?
 5. Wann ist letzter Lauf erfolgt?
 6. Welche Sondermeldungen ausstehend (Anmeldungen, Abmeldungen)?
 7. Liegen alle ELStAM-Daten vor?

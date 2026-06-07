@@ -20,10 +20,10 @@ KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freiga
 ## Triage zu Beginn
 1. Handelt es sich um eine natuerliche Person, juristische Person oder einen Trust/Stiftung?
 2. Gibt es PEP-Indikatoren, Hochrisikobezug oder komplexe Eigentumsstrukturen (mehr als zwei Ebenen)?
-3. Welche Unterlagen liegen bereits vor und welche fehlen fuer die vollstaendige Identifizierung nach § 10 GwG?
+3. Welche Unterlagen liegen bereits vor und welche fehlen für die vollstaendige Identifizierung nach § 10 GwG?
 4. Welche Risikoklasse (niedrig/normal/erhoehte Sorgfalt/verstaerkte Sorgfalt) wird erwartet?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen

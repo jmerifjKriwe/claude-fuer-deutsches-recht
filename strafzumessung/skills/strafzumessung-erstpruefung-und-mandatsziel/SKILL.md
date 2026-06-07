@@ -57,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Sofort-Checkliste:**
  - Welcher Tatbestand? Strafrahmen abstrakt (Min-Max).
  - Vorstrafen (BZRG-Auszug); Verwertungsverbot § 51 BZRG.
- - Schuldfaehigkeit § 20 StGB / verminderte Schuldfaehigkeit § 21 StGB - Anhaltspunkte fuer Gutachten?
+ - Schuldfaehigkeit § 20 StGB / verminderte Schuldfaehigkeit § 21 StGB - Anhaltspunkte für Gutachten?
  - Tatschuld (objektive Schwere, subjektive Vorwerfbarkeit) - § 46 I 1 StGB Grundlage.
  - Pruefung Regelbeispiel / besonders schwerer Fall / minderschwerer Fall.
  - Strafrahmenverschiebung § 49 StGB pruefen.

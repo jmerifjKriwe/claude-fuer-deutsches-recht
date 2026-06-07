@@ -100,10 +100,10 @@ nehmer als Anbieter traegt die Pflichten nach Art. 9-15 KI-VO.
 (3) Auftragsverarbeitung: Soweit der Auftragnehmer personenbezogene Daten
 verarbeitet, gilt Anlage [X] (AVV nach Art. 28 DSGVO).
 
-(4) Haftungsgrenze: Die Haftung des Auftragnehmers fuer Schaden durch
+(4) Haftungsgrenze: Die Haftung des Auftragnehmers für Schaden durch
 fehlerhafte KI-Ausgaben ist auf [EURO-BETRAG] pro Schadensfall begrenzt,
 hoechstens [EURO-BETRAG] pro Jahr. Vorbehaltlich § 307 BGB.
 
 (5) Vertraulichkeit (GeschGehG): Der Auftragnehmer verpflichtet sich, alle
-Eingabedaten als Geschaeftsgeheimnisse i.S.d. § 2 GeschGehG zu behandeln.
+Eingabedaten als Geschäftsgeheimnisse i.S.d. § 2 GeschGehG zu behandeln.
 ```

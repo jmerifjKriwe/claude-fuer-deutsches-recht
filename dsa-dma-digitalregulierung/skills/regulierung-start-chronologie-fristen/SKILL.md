@@ -130,11 +130,11 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `dsa-art-40-forschungsdatenzugang-algorithmen` | Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung),… |
 | `dsa-vlop-vlose-einordnung-und-pflichten` | VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation… |
 | `klage-gegen-vlop-einordnung-art-263-aeuv` | Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA… |
-| `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13… |
+| `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behörde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13… |
 
 ## Worum geht es?
 
-Dieses Plugin ist der strukturierte Einstiegspunkt fuer die EU-Digitalregulierung. Es hilft dabei, den richtigen Rechtsakt fuer einen konkreten Sachverhalt zu identifizieren und die jeweils zustaendige Pflichtenmatrix zu aktivieren. Die EU-Digitalregulierung besteht aus einem dichten Regelwerk, das sich nach Akteurstyp, Dienst-Typ, Datentyp und Risikoklasse staffelt: Digital Services Act (DSA, VO 2022/2065), Digital Markets Act (DMA, VO 2022/1925), Data Act (VO 2023/2854), Data Governance Act (DGA), AI Act (VO 2024/1689), NIS-2, DORA, CRA, eIDAS 2.0, Digitale-Dienste-Gesetz (DDG), P2B-VO und § 19a GWB.
+Dieses Plugin ist der strukturierte Einstiegspunkt für die EU-Digitalregulierung. Es hilft dabei, den richtigen Rechtsakt für einen konkreten Sachverhalt zu identifizieren und die jeweils zuständige Pflichtenmatrix zu aktivieren. Die EU-Digitalregulierung besteht aus einem dichten Regelwerk, das sich nach Akteurstyp, Dienst-Typ, Datentyp und Risikoklasse staffelt: Digital Services Act (DSA, VO 2022/2065), Digital Markets Act (DMA, VO 2022/1925), Data Act (VO 2023/2854), Data Governance Act (DGA), AI Act (VO 2024/1689), NIS-2, DORA, CRA, eIDAS 2.0, Digitale-Dienste-Gesetz (DDG), P2B-VO und § 19a GWB.
 
 Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmensjuristen, die mit der Pflichtendichte der EU-Digitalregulierung umgehen muessen. Es ist kein Rechtsberatungsersatz.
 
@@ -149,7 +149,7 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 ## Fachbegriffe (kurz erklaert)
 
 - **DSA (Digital Services Act)** — EU-Verordnung 2022/2065; regelt Haftung und Pflichten von Vermittlungsdiensten, Online-Plattformen, VLOP und VLOSE.
-- **DMA (Digital Markets Act)** — EU-Verordnung 2022/1925; regelt Pflichten fuer Gatekeeper bei Kernplattformdiensten.
+- **DMA (Digital Markets Act)** — EU-Verordnung 2022/1925; regelt Pflichten für Gatekeeper bei Kernplattformdiensten.
 - **VLOP** — Sehr grosse Online-Plattform nach Art. 33 DSA; Designierungsschwelle 45 Mio. monatlich aktive Nutzer in der EU.
 - **Gatekeeper** — Designierter Kernplattformdienst-Betreiber nach Art. 3 DMA; quantitative Schwellen und qualitative Designierung durch die Kommission.
 - **Kernplattformdienste** — Abschliessender Katalog in Art. 2 Nr. 2 DMA: soziale Netzwerke, App-Stores, Suchmaschinen, Werbenetzwerke usw.
@@ -166,9 +166,9 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 - § 19a GWB — Unterhalb DMA-Schwellen: ergaenzende nationale Regulierung besonders marktmaechtiger Unternehmen.
 - DDG §§ 1 ff. — Nationales Ausfuehrungsrecht zum DSA.
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Sachverhalt einordnen: Skill `digitalregulierung-pyramide-check` fuer die richtige Regulierungsebene.
+1. Sachverhalt einordnen: Skill `digitalregulierung-pyramide-check` für die richtige Regulierungsebene.
 2. Schnittstellen identifizieren: `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` bei Mehrrechtsakten.
 3. Spezifischen Pflichtenkatalog aktivieren: VLOP-Check, Gatekeeper-Check, Account-Sperre oder Forschungsdatenzugang.
 4. Verfahren und Klagewege klaren: Beschwerde, Klage oder Zustellungsfragen.
@@ -184,7 +184,7 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 **DSA-spezifisch**
 
 - `dsa-vlop-vlose-einordnung-und-pflichten` — VLOP/VLOSE-Einordnung und Pflichtenkatalog Art. 33 bis 43 DSA.
-- `dsa-art-34-systemische-risikobewertung` — Jaehrliche Risikobewertung nach Art. 34 DSA fuer VLOP/VLOSE durchfuehren.
+- `dsa-art-34-systemische-risikobewertung` — Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchfuehren.
 - `dsa-art-40-forschungsdatenzugang-algorithmen` — Forschungsdatenzugang nach Art. 40 DSA beantragen oder einrichten.
 - `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` — Account-Sperre anfechten; Stufenmodell Art. 17-21 DSA; Klageschrift.
 
@@ -203,7 +203,7 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 - **Schwellenwerte sind dynamisch** — Meldepflicht nach Art. 24 Abs. 3 DSA bei Erreichen der Nutzerschwelle; Kommission designiert unabhaengig von Meldestand.
 - **DSA verdraengt DSGVO nicht** — Art. 2 Abs. 4 DSA stellt klar, dass DSGVO vorgeht; DSA-Compliance schutzt nicht vor DSGVO-Bussgeld.
 - **§ 19a GWB als Luecken-Fuelung** — Unterhalb DMA-Schwellen greift das BKartA auf § 19a GWB zurueck; Unternehmen muessen beide Ebenen im Blick haben.
-- **Zustellung gegen auslaendische Plattformen** — EU-Vertreter-Pflicht nach Art. 13 DSA ist Voraussetzung fuer Zustellung; ohne Vertreter komplexes Auslandsverfahren.
+- **Zustellung gegen auslaendische Plattformen** — EU-Vertreter-Pflicht nach Art. 13 DSA ist Voraussetzung für Zustellung; ohne Vertreter komplexes Auslandsverfahren.
 
 ## Typische Fehler
 

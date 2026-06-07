@@ -1,13 +1,13 @@
 ---
 name: arbeitgeberwechsel-asyl-anhoerung-asylg
-description: "Arbeitgeberwechsel Asyl Anhoerung Asylg im Migrationsrecht: prüft konkret Arbeitgeberwechsel, Asylanhörung/Glaubhaftigkeit, Asylg, Ausbildungsduldung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Arbeitgeberwechsel Asyl Anhörung Asylg im Migrationsrecht: prüft konkret Arbeitgeberwechsel, Asylanhörung/Glaubhaftigkeit, Asylg, Ausbildungsduldung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Arbeitgeberwechsel Asyl Anhoerung Asylg
+# Arbeitgeberwechsel Asyl Anhörung Asylg
 
 ## Arbeitsbereich
 
-**Arbeitgeberwechsel Asyl Anhoerung Asylg** ordnet den Fall über die tragenden Prüfungslinien: Arbeitgeberwechsel, Asylanhörung/Glaubhaftigkeit, Asylg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Arbeitgeberwechsel Asyl Anhörung Asylg** ordnet den Fall über die tragenden Prüfungslinien: Arbeitgeberwechsel, Asylanhörung/Glaubhaftigkeit, Asylg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

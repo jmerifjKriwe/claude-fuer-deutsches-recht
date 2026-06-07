@@ -473,7 +473,7 @@ Das Wesentliche dieser Vereinbarung wird Betroffenen gemäß Art. 26 Abs. 2 DSGV
 
 ## Zweck / Purpose
 
-English-language template for a joint controller agreement under Article 26 GDPR, allocating responsibilities and publishing the essence under Article 26 (2) GDPR. Purpose (DE): Englischsprachige Mustervorlage fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO.
+English-language template for a joint controller agreement under Article 26 GDPR, allocating responsibilities and publishing the essence under Article 26 (2) GDPR. Purpose (DE): Englischsprachige Mustervorlage für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO.
 
 ## Wann dieses Modul hilft
 
@@ -914,8 +914,8 @@ Verbote (Auswahl):
 - **Stufenweise Anwendung KI-VO (Art. 113):** 02.02.2025 — Verbote Art. 5 und Art. 4 KI-Kompetenz; 02.08.2025 — GPAI-Pflichten Art. 51-55, Sanktionsregime Art. 99; 02.08.2026 — Hochrisiko Anhang III, Art. 50 Transparenzpflichten; 02.08.2027 — Hochrisiko Anhang I. Quelle: VO (EU) 2024/1689, eur-lex.europa.eu/eli/reg/2024/1689/oj.
 - **EDSA-Schnittstelle KI-VO / DSGVO:** EDSA-Stellungnahme 28/2024 (Modelle, die mit personenbezogenen Daten trainiert wurden) — verbindliche Auslegungshilfe zur DSGVO-Grundlage bei KI-Training und -Deployment. Quelle: edpb.europa.eu.
 - **GPAI Code of Practice:** seit 2025 verfuegbar; Anbieter, die zeichnen, geniessen Vermutung der Compliance (Art. 56 KI-VO). Live-Status der Saeulen (Transparenz, Urheberrecht, Safety/Security) ueber digital-strategy.ec.europa.eu pruefen.
-- **EU AI Office:** seit Anfang 2025 voll operativ; zustaendig fuer GPAI, Koordination mit nationalen Behoerden, Code of Practice.
-- **Nationale Aufsicht Deutschland:** Bundesnetzagentur (BNetzA) als koordinierende KI-Aufsichtsbehoerde; sektorale Zustaendigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt) bleiben bestehen. Konkretisierende Gesetzgebung (KI-Marktueberwachungsgesetz / KI-VO-Durchfuehrungsgesetz) live ueber bundestag.de pruefen.
+- **EU AI Office:** seit Anfang 2025 voll operativ; zuständig für GPAI, Koordination mit nationalen Behörden, Code of Practice.
+- **Nationale Aufsicht Deutschland:** Bundesnetzagentur (BNetzA) als koordinierende KI-Aufsichtsbehoerde; sektorale Zuständigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt) bleiben bestehen. Konkretisierende Gesetzgebung (KI-Marktueberwachungsgesetz / KI-VO-Durchfuehrungsgesetz) live ueber bundestag.de pruefen.
 - **Schnittstelle Art. 22 DSGVO / KI-VO:** Bei automatisierten Einzelentscheidungen mit erheblicher Wirkung (Scoring, Personalauswahl, Kredit) parallele Pruefung Art. 22 DSGVO + Art. 26 KI-VO + ggf. FRIA Art. 27 KI-VO erforderlich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber curia.europa.eu verifizieren.
 

@@ -12,9 +12,9 @@ description: "Bescheinigung Inso Datenschutz Schamfreie im Plugin Verbraucherins
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `bescheinigung-305-inso` | Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `datenschutz-und-schamfreie-akte` | Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `eigenverwaltung-nicht-verbraucher` | Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `bescheinigung-305-inso` | Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `datenschutz-und-schamfreie-akte` | Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `eigenverwaltung-nicht-verbraucher` | Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Bescheinigung Inso Datenschutz Schamfreie im Plugin Verbraucherins
 
 ## 1. `bescheinigung-305-inso`
 
-**Fokus:** Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.
 
@@ -66,7 +66,7 @@ InsO § 305 Abs. 1 Nr. 1, Abs. 4. Entscheidend ist immer der aktuelle Normstand 
 
 ## 2. `datenschutz-und-schamfreie-akte`
 
-**Fokus:** Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.
 
@@ -105,7 +105,7 @@ DSGVO Art. 5, 6, 9; Berufsgeheimnis je nach Beratung. Entscheidend ist immer der
 
 ## 3. `eigenverwaltung-nicht-verbraucher`
 
-**Fokus:** Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.
 

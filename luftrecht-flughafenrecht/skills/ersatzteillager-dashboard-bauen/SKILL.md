@@ -1,13 +1,13 @@
 ---
 name: ersatzteillager-dashboard-bauen
-description: "MRO-Gesellschaft oder Airline braucht Inventar-Dashboard fuer Ersatzteillager: EASA-Zertifizierungsstatus Pfandrechte Cape-Town-Eintrag Versicherung Wert. Skill strukturiert Datenquellen und liefert befuellbares Inventar-Dashboard-Template im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "MRO-Gesellschaft oder Airline braucht Inventar-Dashboard für Ersatzteillager: EASA-Zertifizierungsstatus Pfandrechte Cape-Town-Eintrag Versicherung Wert. Skill strukturiert Datenquellen und liefert befuellbares Inventar-Dashboard-Template im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ersatzteillager – Dashboard bauen
 
 ## Arbeitsbereich
 
-MRO-Gesellschaft oder Airline braucht Inventar-Dashboard fuer Ersatzteillager: EASA-Zertifizierungsstatus Pfandrechte Cape-Town-Eintrag Versicherung Wert. Skill strukturiert Datenquellen und liefert befuellbares Inventar-Dashboard-Template. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+MRO-Gesellschaft oder Airline braucht Inventar-Dashboard für Ersatzteillager: EASA-Zertifizierungsstatus Pfandrechte Cape-Town-Eintrag Versicherung Wert. Skill strukturiert Datenquellen und liefert befuellbares Inventar-Dashboard-Template. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

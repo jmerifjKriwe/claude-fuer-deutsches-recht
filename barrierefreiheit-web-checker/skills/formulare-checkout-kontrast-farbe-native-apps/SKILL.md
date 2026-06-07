@@ -59,7 +59,7 @@ Dieses Fachmodul prüft Webshops, Buchungsstrecken, Login-Portale und digitale V
 - Nutzerwirkung.
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
-- Prioritaet und Nachweis fuer die Dokumentation.
+- Prioritaet und Nachweis für die Dokumentation.
 
 ## Qualitäts-Hardening
 

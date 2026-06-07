@@ -15,7 +15,7 @@ Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umform
 1. Welche Berufsgruppe ist der Absender: Rechtsanwalt, Steuerberater, Notar oder allgemeines Unternehmen?
 2. Welche Kuerzel-Normen sind voraussichtlich zu verwenden (BRAO-43a, BORA-25, StBerG-57)?
 3. Soll das Ausgabeformat vollstaendig (Analyse + Tabelle + ueberarbeiteter Text) oder komprimiert erstellt werden?
-4. Ist das Ergebnis fuer sofortige Verwendung oder zur Nacharbeit durch den Nutzer bestimmt?
+4. Ist das Ergebnis für sofortige Verwendung oder zur Nacharbeit durch den Nutzer bestimmt?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

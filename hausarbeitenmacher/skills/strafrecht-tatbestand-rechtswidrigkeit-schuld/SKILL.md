@@ -1,13 +1,13 @@
 ---
 name: strafrecht-tatbestand-rechtswidrigkeit-schuld
-description: "Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Rücktritt § 24 StGB Konkurrenzen. Prüfraster Stufenprüfung Vorsatz-Fahrl-saessigkeitsabgrenzung Konkurrenzen. Output strafrechtliches Prüfungsschema Begründung. Abgrenzung zu fachgebiet-routing (Gebietswahl) und subsumtion-schritt-fuer-schritt (Methode) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Rücktritt § 24 StGB Konkurrenzen. Prüfraster Stufenprüfung Vorsatz-Fahrl-saessigkeitsabgrenzung Konkurrenzen. Output strafrechtliches Prüfungsschema Begründung. Abgrenzung zu fachgebiet-routing (Gebietswahl) und subsumtion-schritt-für-schritt (Methode) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld
 
 ## Arbeitsbereich
 
-Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Rücktritt § 24 StGB Konkurrenzen. Prüfraster Stufenprüfung Vorsatz-Fahrl-saessigkeitsabgrenzung Konkurrenzen. Output strafrechtliches Prüfungsschema Begründung. Abgrenzung zu fachgebiet-routing (Gebietswahl) und subsumtion-schritt-fuer-schritt (Methode). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Rücktritt § 24 StGB Konkurrenzen. Prüfraster Stufenprüfung Vorsatz-Fahrl-saessigkeitsabgrenzung Konkurrenzen. Output strafrechtliches Prüfungsschema Begründung. Abgrenzung zu fachgebiet-routing (Gebietswahl) und subsumtion-schritt-für-schritt (Methode). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,7 +20,7 @@ Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rec
 ## Triage zu Beginn
 1. Welches Straftatbestandsdelikt ist im Sachverhalt erkennbar: Koerperverletzung, Betrug, Diebstahl, Toetung?
 2. Gibt es Hinweise auf Versuch, Vollendung oder Ruecktritt nach § 24 StGB?
-3. Liegen Anzeichen fuer Rechtfertigungsgruende vor (Notwehr § 32, rechtfertigender Notstand § 34)?
+3. Liegen Anzeichen für Rechtfertigungsgruende vor (Notwehr § 32, rechtfertigender Notstand § 34)?
 4. Gibt es Schuldunfaehigkeitsindikatoren (Alter, psychische Erkrankung, Trunkenheit)?
 
 ## Aktuelle Rechtsprechung
@@ -291,6 +291,6 @@ III. Schuld
 
 ## Übergang zu
 
-- `subsumtion-schritt-fuer-schritt` — Subsumtions-Praxis
+- `subsumtion-schritt-für-schritt` — Subsumtions-Praxis
 - `meinungsstreit-darstellen` — Bei Streit (z.B. Vorsatz vs. Fahrlässigkeit, Tatbestands- vs. Verbotsirrtum)
 - `gliederung-mit-tiefenstruktur` — Gliederung

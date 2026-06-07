@@ -56,8 +56,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Lebensakte Geraet** komplett? (Reparaturen, Software-Updates).
  - **Messprotokoll** ordnungsgemaess gefuehrt? (Datum, Zeit, Aufstellort, Witterung).
  - **Rohdaten** (.case / .esa / Statistik): Anspruch auf Herausgabe nach BVerfG-Linie zur fair-trial-Garantie - vom OLG zunehmend bejaht; ggf. Verfassungsbeschwerde bei Verweigerung.
- - **Messort** Hinweisschilder? Tempolimit unauffaellig? Geraet zugelassen fuer die Messstelle?
-- **Standardisierte Messverfahren BGH-Linie:** Vermutung Richtigkeit bei Einhaltung der PTB-Bauartzulassung; Verteidigung muss konkreten Anhaltspunkt fuer Messfehler liefern (Anomalien, Toleranzunterschreitung).
+ - **Messort** Hinweisschilder? Tempolimit unauffaellig? Geraet zugelassen für die Messstelle?
+- **Standardisierte Messverfahren BGH-Linie:** Vermutung Richtigkeit bei Einhaltung der PTB-Bauartzulassung; Verteidigung muss konkreten Anhaltspunkt für Messfehler liefern (Anomalien, Toleranzunterschreitung).
 - **Spezifische Geraete-Schwaechen:**
  - **Poliscan F1HP / FM1**: bekannte Diskussionen zu Photopositionierung, Rohdaten-Verfuegbarkeit.
  - **Leivtec XV3**: Verfahren bei AG/OLG bei systematischen Messfehlern.

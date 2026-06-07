@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-antidumping-taric-massnahmen
-description: "Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Massnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte fuer relevante Waren. Output: TARIC-Massnahmen-Uebersicht mit Handlungsempfehlung fuer Zollabfertigung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Massnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte für relevante Waren. Output: TARIC-Massnahmen-Uebersicht mit Handlungsempfehlung für Zollabfertigung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # TARIC-Massnahmen: Antidumping und Ausgleichszoelle in der Zollabfertigung
 
 ## Arbeitsbereich
 
-Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Massnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte fuer relevante Waren. Output: TARIC-Massnahmen-Uebersicht mit Handlungsempfehlung fuer Zollabfertigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Massnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte für relevante Waren. Output: TARIC-Massnahmen-Uebersicht mit Handlungsempfehlung für Zollabfertigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, 
 ## Erste Schritte
 
 1. KN-8-Steller und Ursprungsland klar bestimmen; TARIC-Abfrage mit aktueller Fassung.
-2. Alle gueltigen Massnahmen (ADD, CVD, Safeguard, Surveillance) fuer den Code auflisten.
+2. Alle gueltigen Massnahmen (ADD, CVD, Safeguard, Surveillance) für den Code auflisten.
 3. Hersteller-Code (TARIC ADD-Zusatzcode) beim Lieferanten erfragen und validieren.
 4. Preisverpflichtungen (Price Undertakings) und Mindestimportpreise pruefen.
 5. Freimengen und Zollkontingente (TRQ) pruefen, falls Massnahme-Ausnahmen bestehen.
@@ -42,7 +42,7 @@ Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, 
 
 ## Pruef-Raster
 
-- [ ] KN-Code und Ursprungsland korrekt fuer TARIC-Abfrage?
+- [ ] KN-Code und Ursprungsland korrekt für TARIC-Abfrage?
 - [ ] Alle aktiven Massnahmen (ADD, CVD, Safeguard) aufgelistet?
 - [ ] Hersteller-TARIC-Code validiert und nicht gesperrt?
 - [ ] Preisverpflichtungs-Compliance dokumentiert?
@@ -60,7 +60,7 @@ Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, 
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

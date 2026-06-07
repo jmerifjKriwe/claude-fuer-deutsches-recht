@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, E
 
 Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen oh
 
 ## Worum es geht
 
-Die Bodenreform in der Sowjetischen Besatzungszone (SBZ) 1945-49 enteignete Gutsbesitzer ueber 100 Hektar sowie aktive Nationalsozialisten entschaedigungslos. Ca. 3,3 Millionen Hektar wurden umverteilt. Die Gemeinsame Erklaerung der BRD- und DDR-Regierungen vom 15. Juni 1990 (Teil des Einigungsvertrags) schloss Restitution fuer die Bodenreform-Enteignungen von 1945-49 aus. Das BVerfG bestaetigte dies in BVerfGE 84, 90 (1991) und BVerfGE 94, 12 (1996): Die Eigentumsgarantie des GG galt fuer diese Enteignungen nicht, da sie unter alliierter Besatzungshoheit stattfanden.
+Die Bodenreform in der Sowjetischen Besatzungszone (SBZ) 1945-49 enteignete Gutsbesitzer ueber 100 Hektar sowie aktive Nationalsozialisten entschaedigungslos. Ca. 3,3 Millionen Hektar wurden umverteilt. Die Gemeinsame Erklaerung der BRD- und DDR-Regierungen vom 15. Juni 1990 (Teil des Einigungsvertrags) schloss Restitution für die Bodenreform-Enteignungen von 1945-49 aus. Das BVerfG bestaetigte dies in BVerfGE 84, 90 (1991) und BVerfGE 94, 12 (1996): Die Eigentumsgarantie des GG galt für diese Enteignungen nicht, da sie unter alliierter Besatzungshoheit stattfanden.
 
 ## Kernnormen / Kernquellen
 
@@ -41,14 +58,14 @@ Die Bodenreform in der Sowjetischen Besatzungszone (SBZ) 1945-49 enteignete Guts
 
 1. Alliierte Besatzungshoheit: Durfte das GG die Bodenreform nicht rueckgaengig machen oder war das politische Entscheidung?
 2. BVerfGE 84, 90: War die Begruendung ueberzeugend oder hat das BVerfG politischen Druck nachgegeben?
-3. EGMR Jahn und andere v. Germany 2005: Hat der Europaeische Gerichtshof fuer Menschenrechte die Entscheidung bestaetigte?
+3. EGMR Jahn und andere v. Germany 2005: Hat der Europaeische Gerichtshof für Menschenrechte die Entscheidung bestaetigte?
 4. Neubauerndoerfer: Was geschah mit Neubauern, die Bodenreform-Land erhalten hatten?
 5. Gleichheitsgebot: War die Differenzierung zwischen Bodenreform (kein Anspruch) und anderen NS-DDR-Enteignungen sachgerecht?
 
 ## Methodik
 
 - BVerfGE 84, 90 und 94, 12: bverfg.de vollstaendig lesen
-- VermG § 1 Abs. 8: gesetze-im-internet.de fuer Wortlaut
+- VermG § 1 Abs. 8: gesetze-im-internet.de für Wortlaut
 - EGMR Jahn v. Germany (2005): ECHR-Datenbank (hudoc.echr.coe.int)
 - Bodenreform-Dokumente: SMAD-Befehl Nr. 209 im Bundesarchiv (Bestand DY 30)
 
@@ -60,4 +77,4 @@ Die Bodenreform in der Sowjetischen Besatzungszone (SBZ) 1945-49 enteignete Guts
 
 ## Quellenregel
 
-BVerfGE: bverfg.de. VermG: gesetze-im-internet.de. Einigungsvertrag Anlage III: BGBl. II 1990. EGMR: hudoc.echr.coe.int. Bundesarchiv fuer SMAD-Befehle: invenio.bundesarchiv.de.
+BVerfGE: bverfg.de. VermG: gesetze-im-internet.de. Einigungsvertrag Anlage III: BGBl. II 1990. EGMR: hudoc.echr.coe.int. Bundesarchiv für SMAD-Befehle: invenio.bundesarchiv.de.

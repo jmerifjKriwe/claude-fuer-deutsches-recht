@@ -1,9 +1,9 @@
 ---
 name: lohn-betriebsausfluege-aufmerksamkeiten
-description: "Aufmerksamkeiten 60 EUR-Freigrenze pro persoenlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit."
+description: "Aufmerksamkeiten 60 EUR-Freigrenze pro persönlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit."
 ---
 
-# Aufmerksamkeiten — 60-EUR-Freigrenze pro persoenlichem Anlass
+# Aufmerksamkeiten — 60-EUR-Freigrenze pro persönlichem Anlass
 
 ## Fachlicher Anker
 
@@ -13,11 +13,11 @@ description: "Aufmerksamkeiten 60 EUR-Freigrenze pro persoenlichem Anlass. Anwen
 
 ## Kernsachverhalt
 
-Aufmerksamkeiten zu persoenlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines Kindes, runder Beschaeftigungs-Jubilaeum) sind LSt-frei bis 60 EUR pro Anlass (LStR R 19.6). Diese Regelung ist UNABHAENGIG von der 50-EUR-Sachbezugs-Freigrenze nach § 8 Abs. 2 Satz 11 EStG. Wichtig: keine Geldzuwendung, sondern Sachzuwendung. Anlassbezug muss erkennbar sein. Bei Ueberschreiten ist Aufmerksamkeit voll steuerpflichtig.
+Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines Kindes, runder Beschaeftigungs-Jubilaeum) sind LSt-frei bis 60 EUR pro Anlass (LStR R 19.6). Diese Regelung ist UNABHAENGIG von der 50-EUR-Sachbezugs-Freigrenze nach § 8 Abs. 2 Satz 11 EStG. Wichtig: keine Geldzuwendung, sondern Sachzuwendung. Anlassbezug muss erkennbar sein. Bei Ueberschreiten ist Aufmerksamkeit voll steuerpflichtig.
 
 ## Kaltstart-Rueckfragen
 
-1. Liegt ein persoenlicher Anlass beim AN vor (Geburtstag, Hochzeit, Geburt, Jubilaeum)?
+1. Liegt ein persönlicher Anlass beim AN vor (Geburtstag, Hochzeit, Geburt, Jubilaeum)?
 2. Welche Form der Zuwendung (Blumen, Sachgeschenk, Gutschein)?
 3. Wert der Zuwendung?
 4. Anlass dokumentiert (Karte, Vermerk)?
@@ -54,14 +54,14 @@ Aufmerksamkeiten zu persoenlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 | Beschaeftigungs-Jubilaeum 10, 20, 25 Jahre | Ja |
 | Krankheit, Genesung (Blumenstrauss) | Ja |
 | Beerdigung (Trauerbeihilfe) | Eigenes Regelwerk (R 19.7 LStR) |
-| Firmenjubilaeum (kein persoenlicher Anlass des AN) | Nein, ggf. § 19 Abs. 1 Nr. 1a EStG Betriebsveranstaltung |
+| Firmenjubilaeum (kein persönlicher Anlass des AN) | Nein, ggf. § 19 Abs. 1 Nr. 1a EStG Betriebsveranstaltung |
 
 ### Phase 2 — Hoechstgrenze
 
-- 60 EUR brutto inkl. USt pro persoenlichem Anlass.
+- 60 EUR brutto inkl. USt pro persönlichem Anlass.
 - Ueberschreitung: GESAMTE Zuwendung steuerpflichtig (Freigrenze, nicht Freibetrag).
 - Bei mehrfacher Aufmerksamkeit im Jahr: jede separat (z.B. Geburtstag + Hochzeit = beide bis 60 EUR moeglich).
-- Beispiel: Geschenkkorb fuer 55 EUR brutto zum Geburtstag = LSt- und SV-frei. Geschenkkorb fuer 65 EUR brutto = vollstaendig (alle 65 EUR) lohnsteuer- und beitragspflichtig; Pauschalierung § 37b EStG (30 Prozent) als AG-Option moeglich.
+- Beispiel: Geschenkkorb für 55 EUR brutto zum Geburtstag = LSt- und SV-frei. Geschenkkorb für 65 EUR brutto = vollstaendig (alle 65 EUR) lohnsteuer- und beitragspflichtig; Pauschalierung § 37b EStG (30 Prozent) als AG-Option moeglich.
 
 ### Phase 3 — Form der Zuwendung
 

@@ -16,7 +16,7 @@ description: "Datenschutz Sanktion Unternehmensgruppe Federfuehrende im Datensch
 | `dsv-sanktion-veroeffentlichung-von-bussgeldentscheidungen` | Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
 | `dsv-sanktion-verteidigerrolle-dsb-gf-und-externe-berater` | Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
 | `dsv-schadensersatz-art-82` | Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österreichische Post C-300/21; Saturn C-687/21); Substantiierungsanforderungen; Bagatellschwelle; Kausalität; Exkulpation nach Art. 82 Abs. 3 DSGVO; gesamtschuldnerische Haftung. Output: Verteidigungsraster mit Schriftsatzgliederung. Abgrenzung: keine Bußgeldverteidigung. |
-| `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden` | Livecheck-Skill fuer aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zustaendige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-fuer-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte fuer Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen). |
+| `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden` | Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zuständige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-für-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte für Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen). |
 
 ## Arbeitsweg
 
@@ -79,7 +79,7 @@ Behördenstrategie mit Antwortentwurf, Vorbehalten, Anlagenplan und Schutz vor �
 
 ## Übergabe an das Spezialplugin
 
-Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
 
 ## Quellen- und Verifikationsregel
 
@@ -140,7 +140,7 @@ Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisth
 
 ## Übergabe an das Spezialplugin
 
-Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
 
 ## Quellen- und Verifikationsregel
 
@@ -201,7 +201,7 @@ Mandats-Cockpit mit Verfahrensspur, Fristen, Sofortmaßnahmen, Risikoampel und n
 
 ## Übergabe an das Spezialplugin
 
-Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
 
 ## Quellen- und Verifikationsregel
 
@@ -271,7 +271,7 @@ F. Höhe — Bagatellgrenze; Vergleich mit Rechtsprechung.
 
 ## 5. `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden`
 
-**Fokus:** Livecheck-Skill fuer aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zustaendige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-fuer-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte fuer Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen).
+**Fokus:** Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zuständige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-für-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte für Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen).
 
 # Datenschutz Livecheck — BfDI und Landesaufsichten
 
@@ -292,7 +292,7 @@ Sieben-Fragen-Diagnose:
 
 1. **Mandatsgebiet:** Auskunft, Datenpanne, Bussgeld, Schadensersatz, Drittlandstransfer, Beschaeftigtendatenschutz, KI-VO-Schnittstelle?
 2. **Zustaendige Aufsicht:** BfDI oder welches Bundesland? Federfuehrend nach Art. 56 DSGVO?
-3. **Rechtsbereich:** Privatwirtschaft, oeffentlicher Bereich, Telekommunikation und Telemedien (TDDDG), Strafverfolgung?
+3. **Rechtsbereich:** Privatwirtschaft, öffentlicher Bereich, Telekommunikation und Telemedien (TDDDG), Strafverfolgung?
 4. **Verarbeitungsart:** Marketing, HR, Gesundheit, Finanz, Cloud, KI?
 5. **EuGH-Vorabentscheidungen:** Welche Verfahren seit 2023 relevant?
 6. **EDSA-Leitlinien:** Welche Leitlinie ist seit 2023 angenommen oder aktualisiert?
@@ -308,13 +308,13 @@ Sieben-Fragen-Diagnose:
 - **§ 13 BDSG** BfDI.
 - **§ 40 BDSG** Landesaufsichten.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst: Quellenliste pruefen.** Die folgenden offiziellen Quellen sind massgeblich:
  - BfDI: bfdi.bund.de (Taetigkeitsberichte, Konsultationen, FAQ).
  - EDSA: edpb.europa.eu (Leitlinien, Stellungnahmen, koordinierte Aktionen).
  - EuGH: curia.europa.eu (Rechtsprechungsdatenbank).
- - Bayerisches Landesamt fuer Datenschutzaufsicht: lda.bayern.de (privater Bereich, Bayern).
+ - Bayerisches Landesamt für Datenschutzaufsicht: lda.bayern.de (privater Bereich, Bayern).
  - LfDI BW: baden-wuerttemberg.datenschutz.de.
  - Berliner Datenschutzbeauftragte: datenschutz-berlin.de.
  - Hessischer Datenschutzbeauftragter: datenschutz.hessen.de.
@@ -352,7 +352,7 @@ Quellen geprueft:
 4. BfDI — Taetigkeitsbericht [Jahr] — Ziffer [Nr.].
 
 Stand der Information: [Datum].
-Konsequenz fuer Mandat: [konkret].
+Konsequenz für Mandat: [konkret].
 
 Verifizierung: [Quelle, URL gespeichert in Akte].
 ```
@@ -374,10 +374,10 @@ Verifizierung: [Quelle, URL gespeichert in Akte].
 - "BfDI sagt..." ohne Quelle.
 - EuGH-Az erfunden oder verschoben.
 - EDSA-Leitlinie veraltet zitiert (z. B. Leitlinien 9/2022 ohne Annahmedatum 28.03.2023).
-- Landesaufsicht falsch zugeordnet (Bayerisches LDA fuer Privatbereich Bayern, Bayerischer Landesbeauftragter fuer oeffentlichen Bereich Bayern — unterscheiden).
+- Landesaufsicht falsch zugeordnet (Bayerisches LDA für Privatbereich Bayern, Bayerischer Landesbeauftragter für öffentlichen Bereich Bayern — unterscheiden).
 - TDDDG (seit 14.05.2024) als TTDSG zitiert.
 
-**Was triggert die Aufsicht negativ?** Veraltete Zitate, EuGH-Az ohne Datum, Bezug auf Aufsichtspraxis anderer Laender ohne Pruefung.
+**Was triggert die Aufsicht negativ?** Veraltete Zitate, EuGH-Az ohne Datum, Bezug auf Aufsichtspraxis anderer Länder ohne Pruefung.
 
 ## Querverweise
 

@@ -37,10 +37,10 @@ Vor der Anmeldungsvorbereitung klaeren:
 1. **Anmeldungsgegenstand:** Was soll angemeldet werden? (Geschaeftsfuehrer-Wechsel, Prokura, Sitzverlegung, Kapitalerhoehung, Satzungsaenderung, Liquidation, Loeschung)
 2. **Registerart:** HRB (GmbH/AG), HRA (OHG/KG), GnR (eG), PartGR (PartG)? Bei GmbH & Co. KG: sowohl HRB als auch HRA betroffen?
 3. **Unterlagen vollstaendig?** Gesellschafterbeschluss (ggf. notariell beurkundet bei Satzungsaenderung § 53 GmbHG), Versicherung GF (§ 8 Abs. 3 GmbHG), Satzung aktuell?
-4. **Notar beauftragt?** § 12 HGB: oeffentliche Beglaubigung erforderlich; Notar uebermittelt elektronisch (§ 12 Abs. 2 HGB). Ist der Notar bereits beauftragt?
-5. **Mehrfache Aenderungen gleichzeitig?** Mehrere Aenderungen koennen in einer Anmeldung zusammengefasst werden; Voraussetzungen fuer jede Aenderung separat pruefen.
+4. **Notar beauftragt?** § 12 HGB: öffentliche Beglaubigung erforderlich; Notar uebermittelt elektronisch (§ 12 Abs. 2 HGB). Ist der Notar bereits beauftragt?
+5. **Mehrfache Aenderungen gleichzeitig?** Mehrere Aenderungen koennen in einer Anmeldung zusammengefasst werden; Voraussetzungen für jede Aenderung separat pruefen.
 6. **§ 15 HGB-Risiko waehrend Wartezeit?** Wer vertritt die Gesellschaft bis zur Eintragung des neuen GF? Uebergangsregelungen (Vollmachten) treffen.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zweck
 
@@ -181,7 +181,7 @@ Amtsgericht [ORT] — Handelsregister
 
 Betreff: [FIRMA] — [HRB/HRA-NUMMER] — Anmeldung [GEGENSTAND]
 
-Anmeldende Partei: [KANZLEI / NOTAR] fuer [GESELLSCHAFT]
+Anmeldende Partei: [KANZLEI / NOTAR] für [GESELLSCHAFT]
 
 Hiermit melden wir im Namen der [FIRMA] mit Sitz in [ORT], eingetragen im
 Handelsregister des Amtsgerichts [ORT] unter [HRB/HRA-NUMMER], folgende
@@ -230,7 +230,7 @@ Mit freundlichen Gruessen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

@@ -97,7 +97,7 @@ Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Er
 - einsatzunfall-wehrdienstbeschaedigung
 - einsatz-unfall-versorgung-dokumentenplan
 - aerztliche-begutachtung-dienstfaehigkeit
-- sanitaetsdienst-heilfuersorge
+- sanitaetsdienst-heilfürsorge
 - dienstunfaehigkeit-entlassung-zurruhesetzung
 
 ## Quellen Stand 06/2026

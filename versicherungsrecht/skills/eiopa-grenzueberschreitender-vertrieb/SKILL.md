@@ -21,8 +21,21 @@ Grenzüberschreitender Versicherungsvertrieb: Niederlassungs-/Dienstleistungsfre
 
 Für internationale Policen, InsurTechs, EU-Vermittler und deutsche Kunden ausländischer Versicherer.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 VVG` — Versicherungsvertrag.
+- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
+- `§ 28 VVG` — Obliegenheitsverletzung.
+- `§ 86 VVG` — Legalzession.
+- `§ 100 VVG` — Haftpflichtversicherung.
+- `§ 115 VVG` — Direktanspruch.
+- `§ 193 VVG` — Krankenversicherungspflicht.
+- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
+- `§ 294 VAG` — Missstandsaufsicht.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 VAG; IDD; Solvency II; EIOPA-Veröffentlichungen live prüfen; Rom-I/Brüssel-Ia bei Vertrag und Gerichtsstand.
 
 ## Arbeitsfragen
@@ -46,7 +59,7 @@ EU-Vertriebscheck, Aufsichtslandkarte, Beschwerdeweg und Vertragsrechtsnotiz.
 ## Anschluss-Skills
 
 - vag-bafin-aufsicht-beschwerde-missstand
-- deckungsprozess-zustaendigkeit-215-vvg
+- deckungsprozess-zuständigkeit-215-vvg
 
 ## Qualitätsregel
 

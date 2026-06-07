@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-hochhaus-statik-fassade
-description: "Bauueberwachung nach HOAI LPH 8 fuer Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Hochhaus Statik und Fassade (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -36,15 +36,15 @@ Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle S
 3. Fassadenmontageplan pruefen: Ankerpositionen, Toleranzen, Dichtsystem Silikonbutylfuge
 4. Windlastpruefung Fassade: Pruefoeffnungen nach DIN EN 13830, Druckwasserdichtheit-Pruefprotokoll
 5. Brandschutzabschalung Traeger und Stuetzen: F90-A Brandschutzputz oder Intumeszenz-Anstrich dokumentieren
-6. Aufzugsschachtkontrolle: Schachtmasse fuer Hochgeschwindigkeitsaufzug bis 6 m/s, Fuehrungsschienen-Ausrichtung
+6. Aufzugsschachtkontrolle: Schachtmasse für Hochgeschwindigkeitsaufzug bis 6 m/s, Fuehrungsschienen-Ausrichtung
 
 ## Normen und Rechtsrahmen
 
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen Bauueberwachung
 - § 650p und § 650q BGB Architekten- und Ingenieurvertrag
-- DIN EN 13670 Ausfuehrung von Tragwerken aus Beton: Ueberwachungsklasse UK3 fuer Hochhaeuser
+- DIN EN 13670 Ausfuehrung von Tragwerken aus Beton: Ueberwachungsklasse UK3 für Hochhaeuser
 - DIN EN 13830 Vorhangfassaden: Pruefanforderungen Windlast, Schlagregendichtheit, Einbruchhemmung
-- DIN EN 1991-1-4 Eurocode 1: Windlasten, Boesigkeit, Richtungsbeiwert fuer Hochhaeuser
+- DIN EN 1991-1-4 Eurocode 1: Windlasten, Boesigkeit, Richtungsbeiwert für Hochhaeuser
 - Musterrichtlinie Hochhaeuser MHHR: Sonderbauvorschriften Fluchtwege, Feuerwehrzugang, Sprinkler
 
 ## Prueferaster und Kontrollpunkte

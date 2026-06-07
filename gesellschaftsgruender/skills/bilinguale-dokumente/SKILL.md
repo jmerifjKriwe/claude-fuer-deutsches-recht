@@ -41,7 +41,7 @@ Dieser Skill unterstützt bei der Erstellung, Qualitätssicherung und Konsistenz
 6. **Standard-Glossar vorhanden?** Gibt es ein Kanzlei-Glossar für Standardbegriffe (Class A, Liquidation Preference, Vesting)?
 7. **Schiedssprache?** Bei DIS-Schiedsklausel: Schiedsverfahrenssprache festlegen (Deutsch oder Englisch).
 8. **Zieldatum?** Notartermin und Signing-Datum festlegen — bestimmt Bearbeitungszeit für Übersetzung und Qualitätssicherung.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -281,7 +281,7 @@ In case of discrepancies, the German version shall prevail.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -403,7 +403,7 @@ notarial deed; the English version serves as a convenience
 translation only.
 ```
 
-## Output-Template: Qualitaetscheckliste fuer bilinguale Dokumente
+## Output-Template: Qualitaetscheckliste für bilinguale Dokumente
 
 **Adressat:** Interne Qualitaetskontrolle — Tonfall sachlich
 
@@ -432,7 +432,7 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 
 ## Anschluss-Skills
 
-- `gesellschaftsgruender-klauselkatalog-bilingual` — Volltext-Klauseln DE/EN fuer alle Klauseltypen
+- `gesellschaftsgruender-klauselkatalog-bilingual` — Volltext-Klauseln DE/EN für alle Klauseltypen
 - `gesellschaftsgruender-intake-decision-tree` — Workflow-Steuerung mit bilingualer Ausgabe
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Eilantraege in Deutsch (Gerichtssprache)
 - `gesellschaftsgruender-rechtsformwahl` — Rechtsform bestimmt Dokumenttypen

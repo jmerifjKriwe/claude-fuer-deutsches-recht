@@ -13,7 +13,7 @@ description: "Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklär
 
 ## Worum geht es?
 
-Viele denken: ohne Anwalt geht es nicht. Beim Sozialgericht ist das anders. Sie duerfen sich selbst vertreten — als Versicherter, als Leistungsempfaenger, als Behoerde. Erst beim Bundessozialgericht ist ein Anwalt Pflicht.
+Viele denken: ohne Anwalt geht es nicht. Beim Sozialgericht ist das anders. Sie duerfen sich selbst vertreten — als Versicherter, als Leistungsempfaenger, als Behörde. Erst beim Bundessozialgericht ist ein Anwalt Pflicht.
 
 ## In einfacher Sprache
 
@@ -29,7 +29,7 @@ Sie brauchen am Sozialgericht keinen Anwalt. Auch nicht am Landessozialgericht. 
 
 - **Anwaltszwang**: Pflicht, sich von einem Anwalt vertreten zu lassen. Gibt es in vielen Gerichts-Arten, aber nicht beim SG/LSG.
 - **Postulationsfaehigkeit**: Wer vor Gericht auftreten darf. Beim SG sind Sie selbst postulationsfaehig.
-- **Bevollmaechtigter**: Eine Person, die fuer Sie auftritt. Kann ein Anwalt sein, muss aber nicht.
+- **Bevollmaechtigter**: Eine Person, die für Sie auftritt. Kann ein Anwalt sein, muss aber nicht.
 
 ## Rechtsgrundlagen
 
@@ -37,7 +37,7 @@ Sie brauchen am Sozialgericht keinen Anwalt. Auch nicht am Landessozialgericht. 
 - **§ 73 Abs. 2 SGG** — Sie duerfen einen Bevollmaechtigten waehlen. Erlaubt sind: Anwalt, Rechtsbeistand, Mitglieder von Gewerkschaft / Sozialverband, andere Personen mit Befaehigung zum Richteramt.
 - **§ 73 Abs. 4 SGG** — Vor dem BSG ist ein Anwalt oder Hochschullehrer zwingend.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, in welcher Instanz Sie sind
 
@@ -60,7 +60,7 @@ Anwalt nehmen, wenn:
 
 - der Fall medizinisch komplex ist
 - mehrere Bescheide zusammenhaengen
-- die Behoerde ein juristisch schwieriges Argument bringt
+- die Behörde ein juristisch schwieriges Argument bringt
 - der Streitwert hoch ist
 - es um Existenz geht (laufende Leistung gestoppt)
 
@@ -68,7 +68,7 @@ Selbst vertreten ist gut, wenn:
 
 - der Fall einfach ist (Rechenfehler, klarer Sachverhalt)
 - Sie Zeit haben, sich einzulesen
-- Sie schon Erfahrung mit Behoerden haben
+- Sie schon Erfahrung mit Behörden haben
 
 ### Schritt 4 — Bei Berufung zum LSG nachdenken
 

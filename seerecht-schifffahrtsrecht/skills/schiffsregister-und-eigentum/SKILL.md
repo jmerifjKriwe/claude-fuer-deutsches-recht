@@ -1,13 +1,13 @@
 ---
 name: schiffsregister-und-eigentum
-description: "Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Vermerk fuer Schiffskauf im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Vermerk für Schiffskauf im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffsregister und Eigentum – Due-Diligence-Prüfung
 
 ## Arbeitsbereich
 
-Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Vermerk fuer Schiffskauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Vermerk für Schiffskauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

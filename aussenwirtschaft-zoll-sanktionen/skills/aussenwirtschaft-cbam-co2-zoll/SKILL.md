@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-cbam-co2-zoll
-description: "Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhren kohlenstoffintensiver Waren nach VO (EU) 2023/956. Ab 2026 Pflicht zum Kauf von CBAM-Zertifikaten entsprechend eingebetteter Emissionen. Schnittpunkte mit TARIC und Zollwert. Output: CBAM-Kostenabschaetzung und Zertifikatskalkulation fuer Importplanung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhren kohlenstoffintensiver Waren nach VO (EU) 2023/956. Ab 2026 Pflicht zum Kauf von CBAM-Zertifikaten entsprechend eingebetteter Emissionen. Schnittpunkte mit TARIC und Zollwert. Output: CBAM-Kostenabschaetzung und Zertifikatskalkulation für Importplanung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CBAM CO2-Zoll: Zertifikatspflicht und Kostenberechnung ab 2026
 
 ## Arbeitsbereich
 
-Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhren kohlenstoffintensiver Waren nach VO (EU) 2023/956. Ab 2026 Pflicht zum Kauf von CBAM-Zertifikaten entsprechend eingebetteter Emissionen. Schnittpunkte mit TARIC und Zollwert. Output: CBAM-Kostenabschaetzung und Zertifikatskalkulation fuer Importplanung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhren kohlenstoffintensiver Waren nach VO (EU) 2023/956. Ab 2026 Pflicht zum Kauf von CBAM-Zertifikaten entsprechend eingebetteter Emissionen. Schnittpunkte mit TARIC und Zollwert. Output: CBAM-Kostenabschaetzung und Zertifikatskalkulation für Importplanung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhr
 
 ## Mandantenfall
 
-- Stahlimporteur plant 2026 weiterhin grosse Mengen aus Nicht-EU-Laendern einzufuehren; CBAM-Kosten kalkulieren.
+- Stahlimporteur plant 2026 weiterhin grosse Mengen aus Nicht-EU-Ländern einzufuehren; CBAM-Kosten kalkulieren.
 - Aluminium-Importeur fragt, ob Vorleistungsemissionen in Drittland abgezogen werden koennen.
 - Elektrizitaetsimporteur aus Schweiz prueft CBAM-Relevanz nach Ende der Uebergangsphase.
 
@@ -28,8 +28,8 @@ Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhr
 1. CBAM-pflichtige Waren nach Anhang I VO 2023/956 und KN-Code pruefen.
 2. Eingebettete Emissionen je Tonne Ware ermitteln (Lieferantendaten oder Standardwerte).
 3. Anzahl der erforderlichen CBAM-Zertifikate berechnen: Emissionen - angerechnetes Drittland-CO2-Preis.
-4. CBAM-Zertifikatspreis (CO2-Preis EU-ETS aktuell) fuer Kostenschaetzung ansetzen.
-5. CBAM-Konto als 'Declarant' beim nationalen Zustaendigkeitspunkt anlegen.
+4. CBAM-Zertifikatspreis (CO2-Preis EU-ETS aktuell) für Kostenschaetzung ansetzen.
+5. CBAM-Konto als 'Declarant' beim nationalen Zuständigkeitspunkt anlegen.
 6. Jaehrliche Zertifikatsabgabepflicht nach 31. Mai des Folgejahres einplanen.
 
 ## Rechtsrahmen
@@ -38,7 +38,7 @@ Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhr
 - **Art. 4-5 VO (EU) 2023/956**: Meldepflichten und Erklaerungspflichten ab 2026.
 - **Richtlinie 2003/87/EG (ETS-RL)**: EU-Emissionshandelssystem als Bezugssystem.
 - **UZK Art. 56**: CBAM-Abgaben als Teil des Zolltarifs.
-- **Art. 9 VO (EU) 2023/956**: Befreiungen fuer Laender mit vergleichbarem CO2-Preis.
+- **Art. 9 VO (EU) 2023/956**: Befreiungen für Länder mit vergleichbarem CO2-Preis.
 
 ## Pruef-Raster
 
@@ -60,7 +60,7 @@ Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhr
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

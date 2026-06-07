@@ -33,7 +33,7 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 
 ## Worum geht es?
 
-Fristen sind das groesste Risiko fuer Selbstvertreter. Eine verpasste Frist kann den ganzen Prozess kosten. Diese Skill zeigt, wie Sie eine Frist Tag-genau berechnen — nach den Regeln der §§ 187, 188 BGB.
+Fristen sind das groesste Risiko für Selbstvertreter. Eine verpasste Frist kann den ganzen Prozess kosten. Diese Skill zeigt, wie Sie eine Frist Tag-genau berechnen — nach den Regeln der §§ 187, 188 BGB.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -55,7 +55,7 @@ Fristen sind das groesste Risiko fuer Selbstvertreter. Eine verpasste Frist kann
 - **§ 193 BGB** — Sonn-, Feiertag, Samstag.
 - **§ 222 ZPO** — Prozessfristen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Fristausloesendes Ereignis
 
@@ -195,7 +195,7 @@ Anwaltskanzleien fuehren Fristenkalender mit Mehrfach-Kontrollen, weil Versaeumn
 - **§ 222 ZPO** — Prozessfristen.
 - **§ 233 ZPO** — Wiedereinsetzung (eingeschraenkt, daher Praevention besser).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tabelle erstellen
 
@@ -262,7 +262,7 @@ In Aktenordner sortieren.
 
 ### Schritt 8 — Bei mehreren Verfahren
 
-Pro Verfahren eigener Ordner / Tab. Tabellen-Spalte fuer Verfahrens-Zuordnung.
+Pro Verfahren eigener Ordner / Tab. Tabellen-Spalte für Verfahrens-Zuordnung.
 
 ### Schritt 9 — Routine
 
@@ -276,7 +276,7 @@ Einmal pro Woche:
 
 - **Vorfristen** sind die Lebensversicherung.
 - **Doppelpruefung** vermeidet Rechenfehler.
-- **Belege aufbewahren** fuer ggf. spaeteren Streit.
+- **Belege aufbewahren** für ggf. spaeteren Streit.
 - **Routine** der woechentlichen Pruefung.
 
 ## Typische Fehler
@@ -309,7 +309,7 @@ Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** s
 ## Wann brauchen Sie diese Skill?
 
 - Sie schaffen die Frist nicht.
-- Sie brauchen mehr Zeit fuer den Schriftsatz.
+- Sie brauchen mehr Zeit für den Schriftsatz.
 - Sie warten auf Beweise (Sachverstaendiger).
 
 ## Fachbegriffe (kurz erklaert)
@@ -324,7 +324,7 @@ Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** s
 - **§ 224 II ZPO** — Andere Fristen koennen verlaengert werden.
 - **§ 225 ZPO** — Antrag und Bewilligung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Frist verlaengerbar
 
@@ -380,7 +380,7 @@ Faustregel: Mindestens 3-5 Tage vor Frist-Ende.
 Die Begruendung muss substantiiert sein:
 
 - "Ich bin krank" reicht nicht. → Attest.
-- "Ich brauche Zeit fuer Recherche" reicht nicht. → Konkret, was Sie recherchieren.
+- "Ich brauche Zeit für Recherche" reicht nicht. → Konkret, was Sie recherchieren.
 - "Beweis-Beschaffung dauert" — okay, mit konkretem Aufwand.
 
 Gute Gruende:
@@ -406,7 +406,7 @@ Bei mehrfachen Antraegen oder pauschalen Gruenden: Ablehnung wahrscheinlicher.
 
 - Frist bleibt unveraendert.
 - Sie muessen handeln.
-- Falls bereits Termin fuer Antrag und Ablehnung: ggf. § 296 ZPO Praeklusion droht.
+- Falls bereits Termin für Antrag und Ablehnung: ggf. § 296 ZPO Praeklusion droht.
 
 ### Schritt 7 — Bei Notfrist
 

@@ -42,7 +42,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — KI-Nutzungsprotokoll fuer Kanzlei erstellen | Protokoll nach Schema; Template unten |
+| Standard — KI-Nutzungsprotokoll für Kanzlei erstellen | Protokoll nach Schema; Template unten |
 | Variante A — Nur bestimmte KI-Tools zu protokollieren | Selektive Protokollierung; nicht alle Tools erfassen |
 | Variante B — Retrospektive Dokumentation vergangener Nutzung | Nacherfassung mit Schatzwerten; Vollstaendigkeit vermerken |
 | Variante C — Automatisierte Protokollierung per Tool | Tool-gestuetztes Protokoll; manuelle Felder minimieren |
@@ -69,7 +69,7 @@ Wird in einem Mandat ein KI-System für die Erstellung wesentlicher Dokumente ei
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -89,12 +89,12 @@ Anforderungen an die Dokumentation können sich durch neue DSGVO-Leitlinien des 
 - § 43 BRAO — Gewissenhafte Berufsausuebung und Dokumentationsstandards
 
 ## Triage zu Beginn
-1. Welche KI-Eingaben und Ausgaben sind fuer den Mandatsvorgang relevant?
+1. Welche KI-Eingaben und Ausgaben sind für den Mandatsvorgang relevant?
 2. Wie lange muessen die Protokolle aufbewahrt werden (§ 50 BRAO: fuenf Jahre)?
 3. Liegt ein Hochrisiko-KI-System vor — ist Protokollierung nach Art. 26 Abs. 1 KI-VO verpflichtend?
 4. Ist der Pruefvorgang (Verifikation der KI-Ausgabe) dokumentiert und datiert?
-5. Ist eine Versionskontrolle fuer das KI-System vorhanden (Modell-Version, Datum)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+5. Ist eine Versionskontrolle für das KI-System vorhanden (Modell-Version, Datum)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — KI-Nutzungsprotokoll
 **Adressat:** Kanzlei intern (Akte) — Tonfall: kurz, dokumentierend

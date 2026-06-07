@@ -19,7 +19,7 @@ Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion. Die Prüfung kon
 
 ## Aufgabe
 
-Skill fuer Eingruppierung in Besoldungsgruppen — Statusamt vs. Funktionsamt.
+Skill für Eingruppierung in Besoldungsgruppen — Statusamt vs. Funktionsamt.
 
 ## Norm
 

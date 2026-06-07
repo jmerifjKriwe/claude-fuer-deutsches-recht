@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-cites-artenschutz
-description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zustaendige Behoerden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zuständige Behörden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# CITES-Artenschutz: Genehmigungen fuer geschuetzte Arten im Aussenhandel
+# CITES-Artenschutz: Genehmigungen für geschuetzte Arten im Aussenhandel
 
 ## Arbeitsbereich
 
-Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zustaendige Behoerden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zuständige Behörden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,12 +21,12 @@ Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflan
 
 - Kunsthaendler moechte Elfenbein-Schnitzereien aus den 1960er Jahren importieren; CITES-Status klaeren.
 - Reptilienhaendler exportiert Terrarien-Tiere; welche CITES-Genehmigungen erforderlich?
-- Moebelhaendler bezieht Holz aus tropischen Laendern; CITES-Holzarten pruefen.
+- Moebelhaendler bezieht Holz aus tropischen Ländern; CITES-Holzarten pruefen.
 
 ## Erste Schritte
 
 1. Art und Anhang-Einstufung in CITES-Anhang A-D (VO 338/97) und CITES-Appendix I-III pruefen.
-2. Fuer Anhang A/B: Aus- und Einfuhrgenehmigung bei zustaendiger Behoerde beantragen (BfN/Landeslbehoerden).
+2. Fuer Anhang A/B: Aus- und Einfuhrgenehmigung bei zuständiger Behörde beantragen (BfN/Landeslbehoerden).
 3. Fuer Anhang C: Exportbescheinigung des Herkunftslandes und Einfuhrnotifizierung.
 4. Fuer Pre-Convention-Objekte: Herkunftsnachweis vor CITES-Listierung (Art. 2 Abs. 2 VO 338/97).
 5. Zollanmeldung mit CITES-Referenz und Genehmigungsnummer.
@@ -43,10 +43,10 @@ Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflan
 ## Pruef-Raster
 
 - [ ] Art korrekt bestimmt und CITES-Anhang-Einstufung geprueft?
-- [ ] Genehmigung fuer Anhang A/B beantragt und erteilt?
-- [ ] Pre-Convention-Herkunftsnachweis fuer aeltere Objekte vorhanden?
+- [ ] Genehmigung für Anhang A/B beantragt und erteilt?
+- [ ] Pre-Convention-Herkunftsnachweis für aeltere Objekte vorhanden?
 - [ ] CITES-Dokumente bei Zollanmeldung beigefuegt?
-- [ ] Archivierung fuer Lebensdauer des Exemplars sichergestellt?
+- [ ] Archivierung für Lebensdauer des Exemplars sichergestellt?
 - [ ] Straf- und Ordnungswidrigkeits-Risiko bewertet?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflan
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
@@ -94,6 +94,6 @@ CITES-Genehmigungspaket mit Antragsformularen, Artbestimmungsprotokoll, Herkunft
 ## Quellen
 
 - [VO (EG) 338/97 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31997R0338)
-- [Bundesamt fuer Naturschutz CITES](https://www.bfn.de/themen/cites.html)
+- [Bundesamt für Naturschutz CITES](https://www.bfn.de/themen/cites.html)
 - [Zoll.de Artenschutz](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Artenschutz/artenschutz_node.html)
 - [BNatSchG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bnatschg_2009/index.html)

@@ -71,8 +71,8 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 ### Subsumtionsbeispiel: Pferdekauf, Pferd lahmt
 Sachverhalt: A kauft Pferd; nach 3 Wochen lahmt es; bei Kauf bereits krank, aber A wusste nichts.
 - **Roemisch**: actio redhibitoria innerhalb 6 Monaten; Wahlrecht Wandlung oder Minderung (actio quanti minoris). D. 21.1.
-- **ALR I 11**: Aedilizische Aktionen uebernommen; 6 Monate Frist fuer Tiere.
-- **BGB**: § 434 BGB Mangel; § 437 Nr. 2 Ruecktritt bzw. Nr. 3 Minderung; 2 Jahre Verjaehrung § 438 BGB (im B2C bei beweglichen Sachen).
+- **ALR I 11**: Aedilizische Aktionen uebernommen; 6 Monate Frist für Tiere.
+- **BGB**: § 434 BGB Mangel; § 437 Nr. 2 Ruecktritt bzw. Nr. 3 Minderung; 2 Jahre Verjährung § 438 BGB (im B2C bei beweglichen Sachen).
 
 ### Subsumtionsbeispiel: Eviktion
 Sachverhalt: A kauft Sklave von B; spaeter klagt C als wahrer Eigentuemer.

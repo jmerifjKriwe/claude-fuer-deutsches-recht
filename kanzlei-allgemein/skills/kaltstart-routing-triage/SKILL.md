@@ -111,9 +111,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `aktenbestand-pflege` | Laufende Pflege des Aktenbestands der Kanzlei — Aktualisierung Aktenstatus (laufend / ruhend / abgeschlossen) Mandatsende mit Schlussrechnung und Aktenherausgabe an Mandant Archivierung nach Aufbewahrungspflicht (§ 50… |
-| `bea-versand-pruefen` | Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 55a VwGO § 52d FGO sowie § 31a BRAO. Erforderliche Beachtung sicherer Übermittlungsweg (sUW durch persoenliches Versenden des beA-Inhabers)… |
+| `bea-versand-pruefen` | Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 55a VwGO § 52d FGO sowie § 31a BRAO. Erforderliche Beachtung sicherer Übermittlungsweg (sUW durch persönliches Versenden des beA-Inhabers)… |
 | `fristenbuch-fuehren` | Zentrales Fristenbuch für die Kanzlei mit Haupt- und Vorfristen über alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Vier-Tages-Fiktionen bei… |
-| `geburtstage-feiertage` | Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler. Reminders einige Tage vor dem Tag. Vorlagen für kurze persoenliche Glueckwunsch-E-Mail (formell-warm). Bei Geschäftspartnern auch Firmenjubilaeen.… |
+| `geburtstage-feiertage` | Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler. Reminders einige Tage vor dem Tag. Vorlagen für kurze persönliche Glueckwunsch-E-Mail (formell-warm). Bei Geschäftspartnern auch Firmenjubilaeen.… |
 | `kanzlei-allgemein-abwesenheiten-urlaub` | Verwaltung von Abwesenheiten in der Kanzlei — Urlaub Krankmeldung Elternzeit Pflegezeit Fortbildung. Anwendungsfall Anwalt oder Mitarbeiter meldet Urlaub oder Krankheit und Kanzlei muss Vertretung für Fristen beA… |
 | `kanzlei-allgemein-akte` | Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO… |
 | `kanzlei-allgemein-aktenzeichen` | Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief enthaelt Aktenzeichen das einer Akte zugeordnet werden muss. Normen § 51 BRAO Organisationspflicht §… |
@@ -160,7 +160,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Kanzlei-Allgemein-Plugin (fusioniert mit Cowork) ist das zentrale Workflow-Plugin fuer den gesamten Kanzleibetrieb. Es vereint alle wesentlichen Tagesoperationen einer Anwaltskanzlei: von der Mandatsannahme mit GwG-Pruefung ueber die Erstellung von Klagen, Repliken und Vertraegen bis zur Zeiterfassung, Rechnungsstellung, Buchhaltung und UStVA-Vorbereitung. Hinzu kommen beA-Versand, Postlauf, Fristenbuch, HR und Sekretariatsfunktionen.
+Das Kanzlei-Allgemein-Plugin (fusioniert mit Cowork) ist das zentrale Workflow-Plugin für den gesamten Kanzleibetrieb. Es vereint alle wesentlichen Tagesoperationen einer Anwaltskanzlei: von der Mandatsannahme mit GwG-Pruefung ueber die Erstellung von Klagen, Repliken und Vertraegen bis zur Zeiterfassung, Rechnungsstellung, Buchhaltung und UStVA-Vorbereitung. Hinzu kommen beA-Versand, Postlauf, Fristenbuch, HR und Sekretariatsfunktionen.
 
 Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und orangenem Akzent (Cowork-Designsprache) und gibt alle Outputs als Markdown-Dashboards mit Freigabeampeln und Statuskarten aus. Es richtet sich an Einzelanwaelte, Sozietaeten und anwaltliche GmbHs jeder Groesse.
 
@@ -169,19 +169,19 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - Sie erhalten eine neue Mandatsanfrage und wollen Intake, GwG-Pruefung, Konfliktcheck und Aktenanlage in einem strukturierten Ablauf durchfuehren.
 - Eine Frist laeuft ab und Sie benoetigen schnellen Zugriff auf Fristenbuch, beA-Versand und Schriftsatzerstellung.
 - Der Monat endet und Sie wollen Zeiterfassung, Rechnungserstellung, UStVA-Vorbereitung und DATEV-Uebergabe koordinieren.
-- Ein Mitarbeiter ist abwesend und Sie muessen Vertretungsregelungen fuer Postlauf, Fristen und beA sicherstellen.
+- Ein Mitarbeiter ist abwesend und Sie muessen Vertretungsregelungen für Postlauf, Fristen und beA sicherstellen.
 - Sie moechten Kanzlei-Routinen automatisieren oder im Simulationsmodus testen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **beA** — Besonderes elektronisches Anwaltspostfach; Pflichtkanal fuer elektronischen Schriftverkehr mit Gerichten nach § 31a BRAO.
+- **beA** — Besonderes elektronisches Anwaltspostfach; Pflichtkanal für elektronischen Schriftverkehr mit Gerichten nach § 31a BRAO.
 - **GwG** — Geldwaeschegesetz; verpflichtet Kanzleien bei Kataloggeschaeften zur Identifizierung von Mandanten und wirtschaftlich Berechtigten.
 - **EB** — Empfangsbekenntnis; Bestaetigung des Empfangs nach § 174 ZPO bei sicherem Uebermittlungsweg.
 - **sUW** — Sicherer Uebermittlungsweg im Sinne des § 130a ZPO; beA-Versand zaehlt nur als sUW, wenn der Inhaber selbst versendet.
-- **XRechnung / ZUGFeRD** — Elektronische Rechnungsformate nach EN 16931; bei oeffentlichen Auftraggebern Pflicht.
-- **RVG** — Rechtsanwaltsvergaetungsgesetz; regelt gesetzliche Gebuehren nach Streitwert und Gebuehrentatbestaenden.
-- **DATEV** — Buchhaltungssoftware-System; Plugin bereitet DATEV-Uebergabepakete fuer Steuerberater vor.
-- **GoBD** — Grundsaetze zur ordnungsmaessigen Buchfuehrung; gelten fuer die gesamte digitale Aktenfuehrung der Kanzlei.
+- **XRechnung / ZUGFeRD** — Elektronische Rechnungsformate nach EN 16931; bei öffentlichen Auftraggebern Pflicht.
+- **RVG** — Rechtsanwaltsvergaetungsgesetz; regelt gesetzliche Gebühren nach Streitwert und Gebührentatbestaenden.
+- **DATEV** — Buchhaltungssoftware-System; Plugin bereitet DATEV-Uebergabepakete für Steuerberater vor.
+- **GoBD** — Grundsaetze zur ordnungsmäßigen Buchfuehrung; gelten für die gesamte digitale Aktenfuehrung der Kanzlei.
 
 ## Rechtsgrundlagen
 
@@ -192,11 +192,11 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - §§ 2 10 11 GwG — Anwendungsbereich, Identifizierungspflicht, wirtschaftlich Berechtigte
 - § 10 RVG — Pflichtangaben der Rechtsanwaltsrechnung
 - §§ 14 18 21 UStG — Rechnungsanforderungen und UStVA-Pflicht
-- GoBD — Grundsaetze ordnungsmaessiger Buchfuehrung
+- GoBD — Grundsaetze ordnungsmäßiger Buchfuehrung
 - Art. 5 Art. 13 Art. 28 Art. 35 DSGVO — Datenschutz in der Kanzlei
 - § 7 BUrlG, § 3 PflegeZG, §§ 16 ff. BEEG — Abwesenheitsregelungen
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Kaltstart-Interview: Kanzleiprofil, Aktenzeichen-Konvention, Eingangskanale und Integrationen einrichten.
 2. Kommandocenter: Tages-Routing aus einem Satz; automatisch bestimmen.
@@ -215,7 +215,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - `kanzlei-allgemein-mandatsvereinbarung` — Mandatsvereinbarung, Vollmacht, Datenschutzhinweis, Honorarvereinbarung und Vorschuss erstellen.
 - `mandantenakte-anlegen` — Mandantenakte nach Kanzleikonvention anlegen: Stammdaten, Konfliktcheck, GwG, Honorar.
 - `kanzlei-allgemein-kaltstart` — Kaltstart des Plugins: Kanzleiprofil und Stammprofil einrichten.
-- `kanzlei-cowork-kaltstart-interview` — Erweitertes Kaltstart-Interview mit Kanzleiprofil-Datei fuer Cowork-Konfiguration.
+- `kanzlei-cowork-kaltstart-interview` — Erweitertes Kaltstart-Interview mit Kanzleiprofil-Datei für Cowork-Konfiguration.
 
 **Kommandocenter und Navigation**
 - `kanzlei-allgemein-kommandocenter` — Schnellstart: erkennt aus einem Satz und routet zu Mandatsannahme, Klage, Rechnung, HR und mehr.
@@ -224,14 +224,14 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 
 **Schriftsatz, Vertrag und Schreiben**
 - `kanzlei-allgemein-schriftsatz-turbo` — Schnellerstellung von Klage, Replik, Antrag und Klageerwiderung mit Anlagenlogik.
-- `kanzlei-allgemein-schreibcanvas` — Freies Canvas fuer Schriftsaetze, Briefe und Mandantenkommunikation mit Substanzcheck.
+- `kanzlei-allgemein-schreibcanvas` — Freies Canvas für Schriftsaetze, Briefe und Mandantenkommunikation mit Substanzcheck.
 - `kanzlei-allgemein-vertragsentwurf` — Vertragsentwuerfe aus Term Sheet, Stichpunkten oder Vorlagen erstellen.
-- `mandantenbrief-vorlagen` — Standardvorlagen fuer Mandantenbriefe: Mandat, Zwischenbericht, Abschluss, Schlussrechnung.
+- `mandantenbrief-vorlagen` — Standardvorlagen für Mandantenbriefe: Mandat, Zwischenbericht, Abschluss, Schlussrechnung.
 - `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten` — Anwaltliche Strategie bei Vorwurf des KI-Einsatzes in gerichtlichen Sachverstaendigengutachten.
 
 **Rechtsprechung und Handelsregister**
 - `kanzlei-allgemein-rechtsprechungsrecherche` — Rechtsprechungsrecherche in amtlichen Datenbanken und OpenJur mit Zitier- und Quellenprotokoll.
-- `kanzlei-allgemein-handelsregisterabruf` — Handelsregisterabruf fuer GmbH-Vertretung, Gesellschafterstruktur und GwG-Dokumentation.
+- `kanzlei-allgemein-handelsregisterabruf` — Handelsregisterabruf für GmbH-Vertretung, Gesellschafterstruktur und GwG-Dokumentation.
 
 **beA, Versand und Postlauf**
 - `bea-versand-pruefen` — beA-Versand pruefen: sicherer Uebermittlungsweg, qeS, Versandquittung, Wiedereinsetzung.
@@ -244,7 +244,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 **Fristen und Kalender**
 - `fristenbuch-fuehren` — Zentrales Fristenbuch: Haupt- und Vorfristen, PostModG-Fiktionen, Eskalation.
 - `kanzlei-allgemein-fristen-monitor` — Akteninhalt auf Fristen, Action-Items und Wiedervorlagen scannen.
-- `kanzlei-allgemein-kanzleikalender` — Kanzleikalender fuer Termine, Fristen, HR, Jour fixe und UStVA-Faelligkeiten.
+- `kanzlei-allgemein-kanzleikalender` — Kanzleikalender für Termine, Fristen, HR, Jour fixe und UStVA-Faelligkeiten.
 - `sekretariats-tagesbrief` — Tagesbrief: Fristen, Vorfristen, Post, Rueckrufe, Termine, Geburtstage, Honorarrueckstaende.
 
 **Zeiterfassung und Rechnung**
@@ -253,11 +253,11 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - `kanzlei-allgemein-rechnung` — Kanzleirechnungen, Vorschussrechnungen und Stundenhonorare vorbereiten.
 - `rechnungserstellung-rvg` — Honorarrechnungen nach RVG oder Honorarvereinbarung mit Pflichtangaben nach § 10 RVG erstellen.
 - `kanzlei-allgemein-erechnung` — XRechnung oder ZUGFeRD vorbereiten und validieren.
-- `mahnwesen-honorar` — Mahnwesen fuer eigene Honorarforderungen: gestufte Mahnschreiben, Klageentwurf.
+- `mahnwesen-honorar` — Mahnwesen für eigene Honorarforderungen: gestufte Mahnschreiben, Klageentwurf.
 
 **Buchhaltung und UStVA**
 - `kanzlei-allgemein-buchhaltung-konten` — Kanzlei-Buchhaltung: Geschaeftskonto, offene Posten, Debitoren, Bankmatching, DATEV-Export.
-- `kanzlei-allgemein-ustva-buchhaltung` — UStVA-Unterlagen fuer ELSTER oder Steuerkanzlei zusammenstellen.
+- `kanzlei-allgemein-ustva-buchhaltung` — UStVA-Unterlagen für ELSTER oder Steuerkanzlei zusammenstellen.
 - `kanzlei-allgemein-ustva-simulation` — UStVA-Simulation bei ELSTER-Stoerung oder fehlendem Fachsystem-Zugang.
 
 **HR und Abwesenheiten**
@@ -266,10 +266,10 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - `kanzlei-allgemein-abwesenheiten-urlaub` — Abwesenheiten verwalten: Urlaub, Krankheit, Elternzeit, Vertretungsregelungen.
 
 **Qualitaetssicherung und Automationen**
-- `kanzlei-allgemein-qualitaetsgate-hardening` — Mehrstufige Qualitaetsgates vor Versand: Substanz, Fristen, Zustaendigkeit, Antraege.
+- `kanzlei-allgemein-qualitaetsgate-hardening` — Mehrstufige Qualitaetsgates vor Versand: Substanz, Fristen, Zuständigkeit, Antraege.
 - `kanzlei-allgemein-automationen` — Wiederkehrende Kanzlei-Routinen als datenschutzkonforme Automationen planen.
 - `kanzlei-allgemein-integrationen-simulation` — Kanzlei-Integrationen pruefen und Workflows im Simulationsmodus testen.
-- `kanzlei-allgemein-kanzleitag-simulation` — Achtstuendigen Kanzleitag fuer Training und Demo simulieren.
+- `kanzlei-allgemein-kanzleitag-simulation` — Achtstuendigen Kanzleitag für Training und Demo simulieren.
 
 **Mandantenpflege und Sonstiges**
 - `geburtstage-feiertage` — Mandanten-Geburtstagsverteiler und Glueckwunsch-E-Mail-Vorlagen pflegen.
@@ -277,7 +277,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 
 ## Worauf besonders achten
 
-- **beA sicherer Uebermittlungsweg**: Nur der persoenliche Versand durch den beA-Inhaber zaehlt als sUW; Versand durch Mitarbeitende erfordert qeS.
+- **beA sicherer Uebermittlungsweg**: Nur der persönliche Versand durch den beA-Inhaber zaehlt als sUW; Versand durch Mitarbeitende erfordert qeS.
 - **PostModG seit 1.1.2025**: Die Zustellungsfiktion bei Brief betraegt jetzt vier Werktage (vorher drei); alle Fristberechnungen anpassen.
 - **GwG-Kataloggeschaefte nicht uebersehen**: Truhand, Immobilientransaktionen und Gesellschaftsgruendungen loesen GwG-Pflichten aus, auch wenn kein Gerichtsverfahren anhangig ist.
 - **DSGVO-Speicherbegrenzung bei Aktenarchivierung**: Nach Ablauf der sechs-jaehrigen Aufbewahrungsfrist (§ 50 BRAO) muessen Akten geloescht werden.
@@ -294,7 +294,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 ## Querverweise
 
 - `berufsrecht-ki-vertragspruefung` — Berufsrechtliche Pruefung von KI-Diensten, die in Kanzlei-Workflows eingesetzt werden.
-- `ki-richtlinie-kanzleien` — KI-Nutzungsrichtlinie als Rahmen fuer den KI-Einsatz im Kanzleibetrieb.
+- `ki-richtlinie-kanzleien` — KI-Nutzungsrichtlinie als Rahmen für den KI-Einsatz im Kanzleibetrieb.
 - `kanzlei-builder-hub` — Installation und Verwaltung weiterer Skills.
 - `insolvenzverwaltung` — Wenn Mandate in ein Insolvenzverfahren muenden.
 - `selbstvertreter-amtsgericht` — Wenn Mandanten ohne Anwalt vor dem Amtsgericht auftreten wollen.

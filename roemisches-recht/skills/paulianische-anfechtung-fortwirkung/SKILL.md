@@ -7,7 +7,7 @@ description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill b
 
 ## Aufgabe
 
-Skill fuer die rechtshistorische und dogmengeschichtliche Vergleichung.
+Skill für die rechtshistorische und dogmengeschichtliche Vergleichung.
 
 ## Strukturparallelen
 

@@ -59,7 +59,7 @@ Prüfung nach Fix:
 - Nutzerwirkung.
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
-- Prioritaet und Nachweis fuer die Dokumentation.
+- Prioritaet und Nachweis für die Dokumentation.
 
 ## Qualitäts-Hardening
 

@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Mandats-/Gesellschaftsprofil, Organigramm, Rollenmatrix und Eskalationskette.
@@ -164,7 +164,7 @@ Empfohlene Formulierung (SPA):
 Gegenformulierung (Kaeufer bevorzugt English):
 > "This Agreement is prepared in both the German and English language. In the event of any inconsistency between the two versions, the English version shall prevail."
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Sprachanforderungen klaeren** — Governing Language, Uebersetzungsbedarf, Notarpflicht
 2. **Erstfassung erstellen** — immer in Mutterrechtssprache; dann Uebersetzung
@@ -188,7 +188,7 @@ erteilt hiermit / hereby grants
 folgende Vollmacht / the following power of attorney:
 
 ...den Kaufvertrag ueber alle Geschaeftsanteile zu unterzeichnen und alle Massnahmen
-zu ergreifen, die fuer den Vollzug der Transaktion erforderlich sind...
+zu ergreifen, die für den Vollzug der Transaktion erforderlich sind...
 
 ...to sign the share purchase agreement for all shares and to take all actions
 required for the completion of the transaction...
@@ -206,7 +206,7 @@ purposes only. In case of doubt, the German version shall prevail.
 
 - Keine Governing-Language-Klausel → Auslegungsstreit bei Widerspruechen zwischen Sprachfassungen
 - Terminologie inkonsistent (z.B. Aufsichtsrat mal supervisory board, mal board of directors) → Auslegungsrisiko
-- Eigene Kanzlei-Uebersetzung fuer ausl. Handelsregister → nicht verwendbar ohne beeidigten Dolmetscher
+- Eigene Kanzlei-Uebersetzung für ausl. Handelsregister → nicht verwendbar ohne beeidigten Dolmetscher
 - Zeitdruck: Uebersetzung ohne angemessene Pruefung → Fehler in bindenden Dokumenten
 
 ## Quellen

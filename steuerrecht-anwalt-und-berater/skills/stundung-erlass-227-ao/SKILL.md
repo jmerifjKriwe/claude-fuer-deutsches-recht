@@ -1,6 +1,6 @@
 ---
 name: stundung-erlass-227-ao
-description: "Praxis-Skill fuer Stundungs- Niederschlagungs- und Erlassantraege — von der sachlichen Unbilligkeit ueber persoenliche Haerte bis zur Liquiditaetsanalyse. Anwendungsfall Mandant kann faellige Steuer nicht zahlen oder die Festsetzung enthaelt einen sachlichen Unbilligkeitsgrund. Behandelt § 222 AO Stundung § 226 AO Aufrechnung § 227 AO Erlass und Billigkeitsmassnahmen im Festsetzungs- und Erhebungsverfahren. Output Antragsmuster mit Liquiditaetsanlage. Abgrenzung zu fa-stu-onboarding-verzinsung und anw-aussetzung-vollziehung."
+description: "Praxis-Skill für Stundungs- Niederschlagungs- und Erlassantraege — von der sachlichen Unbilligkeit ueber persönliche Haerte bis zur Liquiditaetsanalyse. Anwendungsfall Mandant kann faellige Steuer nicht zahlen oder die Festsetzung enthaelt einen sachlichen Unbilligkeitsgrund. Behandelt § 222 AO Stundung § 226 AO Aufrechnung § 227 AO Erlass und Billigkeitsmassnahmen im Festsetzungs- und Erhebungsverfahren. Output Antragsmuster mit Liquiditaetsanlage. Abgrenzung zu fa-stu-onboarding-verzinsung und anw-aussetzung-vollziehung."
 ---
 
 # Stundung Niederschlagung Erlass — §§ 222 226 227 AO
@@ -18,7 +18,7 @@ description: "Praxis-Skill fuer Stundungs- Niederschlagungs- und Erlassantraege 
 3. Persoenliche Unbilligkeit — Existenzgefaehrdung des Mandanten?
 4. Ist die Steuer bereits faellig — sonst nur AdV-Antrag § 361 AO sinnvoll?
 5. Kann eine Ratenzahlung mit Sicherheitsleistung angeboten werden?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

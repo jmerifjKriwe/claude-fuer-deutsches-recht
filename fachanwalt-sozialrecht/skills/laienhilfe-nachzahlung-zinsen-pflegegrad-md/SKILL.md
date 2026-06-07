@@ -12,10 +12,10 @@ description: "Laienhilfe Nachzahlung Zinsen Pflegegrad MD im Plugin Fachanwalt S
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-nachzahlung-zinsen` | Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-pflegegrad-md-begutachtung` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-pflegegrad-widerspruch-module` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-reha-antrag` | Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-nachzahlung-zinsen` | Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-pflegegrad-md-begutachtung` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-pflegegrad-widerspruch-module` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-reha-antrag` | Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ description: "Laienhilfe Nachzahlung Zinsen Pflegegrad MD im Plugin Fachanwalt S
 
 ## 1. `laienhilfe-nachzahlung-zinsen`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Nachzahlung Zinsen
 
@@ -97,7 +97,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-pflegegrad-md-begutachtung`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Pflegegrad Md Begutachtung
 
@@ -182,7 +182,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-pflegegrad-widerspruch-module`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Pflegegrad Widerspruch Module
 
@@ -252,8 +252,8 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **Modul 6 Gestaltung Alltagsleben und sozialer Kontakte (15 %):** Tagesablauf, freie Zeit, ausgewaehlte Kontakte, Ausflug.
 - **Pflegegrade-Punkteschwellen § 15 SGB XI:** PG 1 (12,5-26,99), PG 2 (27-47,49), PG 3 (47,5-69,99), PG 4 (70-89,99), PG 5 (90-100).
 - **Widerspruchsstrategie:**
- - **MD-Gutachten anfordern (Akteneinsicht § 25 SGB X)** und Modul fuer Modul kritisch lesen.
- - **Pflegetagebuch** ueber 14 Tage detailliert (Zeitangaben fuer jede Hilfeleistung).
+ - **MD-Gutachten anfordern (Akteneinsicht § 25 SGB X)** und Modul für Modul kritisch lesen.
+ - **Pflegetagebuch** ueber 14 Tage detailliert (Zeitangaben für jede Hilfeleistung).
  - **Stellungnahmen** Bezugspersonen / Pflegekraefte / Hausarzt; Schweigepflichtentbindung.
  - **Konkrete Beispiele** aus Alltag - Diagnosen allein reichen nicht; Funktionsbeeintraechtigung beschreiben.
  - **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig) je Modulkriterium konkret durchgehen.
@@ -270,7 +270,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-reha-antrag`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Reha Antrag
 

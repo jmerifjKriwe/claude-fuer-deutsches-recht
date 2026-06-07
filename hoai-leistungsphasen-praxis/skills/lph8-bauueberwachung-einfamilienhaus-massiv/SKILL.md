@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-einfamilienhaus-massiv
-description: "Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protokollen, Betonpruefung und digitaler Maengeldokumentation mit PlanRadar und RIB iTWO im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protokollen, Betonpruefung und digitaler Maengeldokumentation mit PlanRadar und RIB iTWO im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Einfamilienhaus Massivbau (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protokollen, Betonpruefung und digitaler Maengeldokumentation mit PlanRadar und RIB iTWO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protokollen, Betonpruefung und digitaler Maengeldokumentation mit PlanRadar und RIB iTWO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -45,7 +45,7 @@ KfW-Foerderbedingungen erfordern Nachweis der energetischen Qualitaet durch akkr
 - DIN EN 1996-1-1 Eurocode 6: Bemessung und Konstruktion von Mauerwerksbauten
 - DIN EN 13670 Ausfuehrung von Tragwerken aus Beton, Ueberwachungsklassen UK1 bis UK3
 - DIN 18533 Abdichtung von erdberuehrten Bauteilen bei Gebaeuden nach Wassereinwirkungsklassen
-- GEG 2023 Gebaeude-Energie-Gesetz: Anforderungen Neubau, Nachweispflichten, KfW-Foerderung
+- GEG 2023 Gebaeude-Energie-Gesetz: Anforderungen Neubau, Nachweispflichten, KfW-Förderung
 
 ## Prueferaster und Kontrollpunkte
 
@@ -75,9 +75,9 @@ KfW-Foerderbedingungen erfordern Nachweis der energetischen Qualitaet durch akkr
 ## Typische Fallstricke
 
 - Betonlieferung nach mehr als 90 Minuten Transportzeit: Beton ablehnen, Lieferschein einbehalten und protokollieren
-- Abdichtungsfehler in der Kehle Boden/Wand: haeufigste Ursache fuer Keller-Feuchtigkeitsschaeden mit Folgekosten
+- Abdichtungsfehler in der Kehle Boden/Wand: haeufigste Ursache für Keller-Feuchtigkeitsschaeden mit Folgekosten
 - Mauerwerk ohne Ringbalken: fehlende Horizontalaussteifung fuehrt zu Rissen und Versagen am Sturz
-- GEG-Anforderung verfehlt: Waermebruecken senken Energieeffizienz unter Nachweisgrenze, KfW-Foerderung gefaehrdet
+- GEG-Anforderung verfehlt: Waermebruecken senken Energieeffizienz unter Nachweisgrenze, KfW-Förderung gefaehrdet
 
 ## Output
 

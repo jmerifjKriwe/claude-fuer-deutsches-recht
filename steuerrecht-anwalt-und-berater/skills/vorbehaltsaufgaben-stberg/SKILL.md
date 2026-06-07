@@ -18,7 +18,7 @@ description: "Pruefung der Vorbehaltsaufgaben nach StBerG — wer darf welche st
 3. Greift § 4 StBerG Befugnis zur eingeschraenkten Hilfeleistung?
 4. Liegt unerlaubte Hilfeleistung § 5 StBerG vor — Ordnungswidrigkeit § 160 StBerG?
 5. Welche zivilrechtliche Folge — § 134 BGB Nichtigkeit?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

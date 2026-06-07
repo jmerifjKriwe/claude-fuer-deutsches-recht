@@ -89,7 +89,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -103,17 +103,17 @@ Die Literaturliste ist beim halbjährlichen Richtlinien-Review vollständig zu �
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43 BRAO — Sorgfaltspflicht und korrekte Quellenangaben
-- § 138 ZPO — Wahrheitspflicht (gilt auch fuer Quellenangaben)
+- § 138 ZPO — Wahrheitspflicht (gilt auch für Quellenangaben)
 - Art. 5 Abs. 1 lit. d DSGVO — Richtigkeit der verarbeiteten Informationen
-- § 44b UrhG — Text-und-Data-Mining-Schranke (fuer KI-Recherche)
+- § 44b UrhG — Text-und-Data-Mining-Schranke (für KI-Recherche)
 
 ## Triage zu Beginn
 1. Werden Quellen aus KI-Ausgaben direkt verwendet oder gegen amtliche Quellen verifiziert?
-2. Ist ein Verifikationsprozess fuer Rechtsprechungs-Fundstellen (juris, Beckonline, EUR-Lex) etabliert?
+2. Ist ein Verifikationsprozess für Rechtsprechungs-Fundstellen (juris, Beckonline, EUR-Lex) etabliert?
 3. Werden Kommentare und Monografien aus KI-Ausgaben abgeglichen?
-4. Gibt es eine aktuelle Literatursammlung fuer das relevante Rechtsgebiet?
+4. Gibt es eine aktuelle Literatursammlung für das relevante Rechtsgebiet?
 5. Sind Mitarbeiter geschult, zwischen Primaer- und Sekundaerquellen zu unterscheiden?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Quellenverzeichnis / Verifizierungsprotokoll
 **Adressat:** Kanzlei intern — Tonfall: dokumentierend

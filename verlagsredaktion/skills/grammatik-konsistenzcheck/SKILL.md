@@ -27,7 +27,7 @@ Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 
 1. Welcher Stilrahmen (Gutachten-, Urteils-, Essaystil)?
 2. Welches Standardtempus (Praesens im Aufsatz, Imperfekt in Anmerkungen)?
-3. Hausregel fuer Genderschreibung?
+3. Hausregel für Genderschreibung?
 4. Welche Bezugstellen besonders heikel (Verweisketten "siehe oben Rn. X")?
 
 ## Material- bzw. Sachrahmen
@@ -36,7 +36,7 @@ Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 - Hauseigener Stilkatalog.
 - Genderschreibungs-Regelung.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Tempora pruefen.** Im Aufsatz ueberwiegend Praesens. Bei Rspr.-Wiedergabe: "Der BGH hat entschieden ..." vs. "Der BGH entscheidet ..." - Hausregel.
 2. **Subjekt-Praedikat-Kongruenz.** Lange Saetze mit Einschueben - oft verliert das Praedikat den Subjektbezug.
@@ -61,7 +61,7 @@ Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 
 ## Praxistipps der alten Redaktion
 
-- "Lange Saetze sind nicht per se falsch, aber sie sind oft Versteck fuer Bezugsfehler. Saetze ueber 30 Woerter pruefen."
+- "Lange Saetze sind nicht per se falsch, aber sie sind oft Versteck für Bezugsfehler. Saetze ueber 30 Woerter pruefen."
 - Verweise auf Randnummern brechen, sobald jemand Absaetze umstellt. Vor Druck noch einmal alle Verweise pruefen.
 - Konsistenz von Begriffen kann mit Suche/Ersetzen geprueft werden: "Plattformbetreiber" und "Plattformanbieter" beides suchen.
 - Genderform niemals stillschweigend umstellen - mit Autorin besprechen, Hausregel hinterlegen.
@@ -115,7 +115,7 @@ Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 
 - Duden, Die Grammatik, 10. Aufl. 2022.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Rat fuer deutsche Rechtschreibung, [https://www.rechtschreibrat.com](https://www.rechtschreibrat.com).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Rat für deutsche Rechtschreibung, [https://www.rechtschreibrat.com](https://www.rechtschreibrat.com).
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

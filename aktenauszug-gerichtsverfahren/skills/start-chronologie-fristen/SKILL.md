@@ -133,7 +133,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `neutralitaetspruefung` | Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale… |
 | `parteivortrag-gegenueberstellung` | Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen… |
 | `rechtsargumente-gegenueberstellung` | Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einreden Verjährungsthema und Pinpoint-Zitate aus Rechtsprechung (BGH OLG EuGH). Keine Wertung welches… |
-| `sachverhaltschronologie` | Erstellt eine chronologische Bullet-Liste aller wesentlichen außerprozessualen Tatsachen: Vertragsschluss Vorfaelle vorgerichtliche Korrespondenz Schadensereignisse und Behoerdenakte. Datum fett vorangestellt knappe… |
+| `sachverhaltschronologie` | Erstellt eine chronologische Bullet-Liste aller wesentlichen außerprozessualen Tatsachen: Vertragsschluss Vorfaelle vorgerichtliche Korrespondenz Schadensereignisse und Behördenakte. Datum fett vorangestellt knappe… |
 | `schwerpunktthemen-identifikation` | Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster… |
 | `sozialgerichtsverfahren-modus` | Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Prüfraster… |
 | `strafprozess-modus` | Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359… |
@@ -147,15 +147,15 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das Plugin ermoeglicht Anwaelten und Paralegals die schnelle, strukturierte Einarbeitung in deutsche Gerichtsverfahren aller Verfahrensordnungen. Es teilt die Aktenzusammenfassung in sechs klar definierte Bausteine auf: Verfahrensidentifikation mit Stammdaten, praegnanter Einleitungssatz, Zusammenfassungsabsatz, Sachverhaltschronologie, Verfahrenschronologie und tabellarische Gegenueberstellung von Parteivortraegen sowie Beweismitteln und Rechtsargumenten.
 
-Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne Erfolgsprogosen, der als Grundlage fuer Beratungsgespraeche, Schriftsaetze oder die Vorbereitung muendlicher Verhandlungen dient. Spezifische Modi fuer ZPO-, ArbGG-, SGG-, VwGO- und StPO-Verfahren decken die verfahrensordnungsrelevanten Besonderheiten ab.
+Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne Erfolgsprogosen, der als Grundlage für Beratungsgespraeche, Schriftsaetze oder die Vorbereitung muendlicher Verhandlungen dient. Spezifische Modi für ZPO-, ArbGG-, SGG-, VwGO- und StPO-Verfahren decken die verfahrensordnungsrelevanten Besonderheiten ab.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie uebernehmen ein laufendes Mandat und muessen sich ohne vollstaendige Aktenlektuere schnell orientieren.
 - Eine neue Kollegin tritt die Vertretung an und braucht eine neutrale Zusammenfassung des Verfahrensstands.
-- Sie moechten Beweismittel und Rechtsargumente beider Seiten strukturiert gegenueberstellen fuer die Vorbereitung der muendlichen Verhandlung.
+- Sie moechten Beweismittel und Rechtsargumente beider Seiten strukturiert gegenueberstellen für die Vorbereitung der muendlichen Verhandlung.
 - Fristen aus Schriftsaetzen, Beschluessen oder Urteilen muessen systematisch hervorgehoben werden.
-- Sie erstellen ein Anlagenverzeichnis fuer alle Partei-Anlagen aus einer umfangreichen Akte.
+- Sie erstellen ein Anlagenverzeichnis für alle Partei-Anlagen aus einer umfangreichen Akte.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -166,7 +166,7 @@ Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne E
 - **Parteivortrag-Gegenueberstellung** — Zweispaltige Tabelle mit streitigen Sachverhaltsangaben je Partei.
 - **Neutralitaetspruefung** — Sicherheitsgate zur Entfernung unzulaessiger Wertungen und Erfolgsprognosen aus dem Auszug.
 - **Anlagenverzeichnis** — Vollstaendige Liste aller Anlagen (K-, B-, AST-, AG-Verweise) mit Partei und Fundstelle.
-- **Stilrichtlinie** — Verbindliche Sprachregelung fuer juristisch saubere, neutrale Aktenauszuege.
+- **Stilrichtlinie** — Verbindliche Sprachregelung für juristisch saubere, neutrale Aktenauszuege.
 
 ## Rechtsgrundlagen
 
@@ -180,7 +180,7 @@ Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne E
 - StPO §§ 200 203 333 359 — Strafprozess und Rechtsmittel
 - § 4 KSchG — Kuendigungsschutzklage: Dreiwochenfrist
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Verfahrensordnung und -art bestimmen (ZPO, ArbGG, SGG, VwGO, StPO) und passenden Modus auswaehlen.
 2. Verfahrensidentifikation: alle Stammdaten und Beteiligte erfassen.
@@ -193,8 +193,8 @@ Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne E
 - `aktenauszug-erstellen` — Vollstaendigen Aktenauszug in allen sechs Bausteinen aus Gerichtsakte oder Schriftsaetzen erstellen.
 - `aktenauszug-strukturpruefung` — Fertig erstellten Aktenauszug auf Vollstaendigkeit, Fristen-Markierung und Neutralitaet pruefen.
 - `anlagenverzeichnis-extrakt` — Alle Anlagen-Verweise (K-, B-, AST-, AG-) aus der Akte extrahieren und Anlagenverzeichnis erstellen.
-- `anwaltsschriftsatz-stilrichtlinie` — Verbindliche Stilregeln fuer neutralen, juristisch sauberen Aktenauszug anwenden.
-- `arbeitsgerichtsverfahren-modus` — Aktenauszug fuer ArbGG-Verfahren mit KSchG-Fristen und ArbGG-Besonderheiten erstellen.
+- `anwaltsschriftsatz-stilrichtlinie` — Verbindliche Stilregeln für neutralen, juristisch sauberen Aktenauszug anwenden.
+- `arbeitsgerichtsverfahren-modus` — Aktenauszug für ArbGG-Verfahren mit KSchG-Fristen und ArbGG-Besonderheiten erstellen.
 - `beweismittel-gegenueberstellung` — Beweisangebote aller Parteien (Zeugen, Urkunden, Sachverstaendige) tabellarisch gegenueberstellen.
 - `einleitungssatz-generator` — Praegnanten Einleitungssatz generieren: wer streitet mit wem worueber nach welcher Hauptnorm.
 - `fristen-und-terminkalender` — Prozessuale Fristen und Termine hervorheben und Fristen-Box erstellen.
@@ -203,13 +203,13 @@ Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne E
 - `rechtsargumente-gegenueberstellung` — Tabellarische Gegenueberstellung der Rechtsargumente beider Parteien mit Normfundstellen.
 - `sachverhaltschronologie` — Chronologische Bullet-Liste ausserprozessualer Tatsachen ohne Wertung erstellen.
 - `schwerpunktthemen-identifikation` — Drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Fundstellen identifizieren.
-- `sozialgerichtsverfahren-modus` — Aktenauszug fuer SGG-Verfahren mit Vorverfahrens-Pruefung und Leistungsarten erstellen.
-- `strafprozess-modus` — Aktenauszug fuer StPO-Verfahren mit Anklageschrift, Hauptverhandlung und Rechtsmitteln erstellen.
+- `sozialgerichtsverfahren-modus` — Aktenauszug für SGG-Verfahren mit Vorverfahrens-Pruefung und Leistungsarten erstellen.
+- `strafprozess-modus` — Aktenauszug für StPO-Verfahren mit Anklageschrift, Hauptverhandlung und Rechtsmitteln erstellen.
 - `verfahrenschronologie` — Chronologische Liste aller prozessualen Schritte mit hervorgehobenen kritischen Fristen.
 - `verfahrensidentifikation` — Alle Verfahrensstammdaten strukturiert erfassen: Gericht, Kammer, Aktenzeichen, Parteien.
 - `verfahrenszusammenfassung-absatz` — Acht bis zehn Saetze Hintergrund, Streitstand und anstehende Verfahrenshandlungen.
-- `verwaltungsprozess-modus` — Aktenauszug fuer VwGO-Verfahren mit Vorverfahren und Widerspruchsbescheid erstellen.
-- `zivilprozess-modus` — Aktenauszug fuer ZPO-Verfahren mit Berufung, Revision und einstweiliger Verfuegung erstellen.
+- `verwaltungsprozess-modus` — Aktenauszug für VwGO-Verfahren mit Vorverfahren und Widerspruchsbescheid erstellen.
+- `zivilprozess-modus` — Aktenauszug für ZPO-Verfahren mit Berufung, Revision und einstweiliger Verfuegung erstellen.
 
 ## Worauf besonders achten
 
@@ -217,7 +217,7 @@ Das Ergebnis ist ein Markdown-Aktenauszug in juristisch neutraler Sprache ohne E
 - **Fristen immer optisch hervorheben**: Eine uebersehene Berufungsfrist kann das Mandat kosten; der Fristen-und-Terminkalender-Skill ist Pflichtschritt.
 - **Modus korrekt auswaehlen**: ArbGG, SGG, VwGO und StPO haben eigene Fristen und Besonderheiten, die der jeweilige Modus-Skill abdeckt.
 - **Anlagenverzeichnis vollstaendig fuehren**: Fehlende Anlagen koennen in der Verhandlung nicht nachgereicht werden ohne Fristrisiko.
-- **Stilrichtlinie fuer alle Bausteine verbindlich**: Unterschiedliche Sprachstile in verschiedenen Bausteinen zerstoeren die Lesbarkeit des Auszugs.
+- **Stilrichtlinie für alle Bausteine verbindlich**: Unterschiedliche Sprachstile in verschiedenen Bausteinen zerstoeren die Lesbarkeit des Auszugs.
 
 ## Typische Fehler
 

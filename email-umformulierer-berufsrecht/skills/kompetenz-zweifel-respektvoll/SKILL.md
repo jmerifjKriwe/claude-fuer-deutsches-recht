@@ -1,6 +1,6 @@
 ---
 name: kompetenz-zweifel-respektvoll
-description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen)."
+description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persönlichen Angriff (persönlichen-angriff-entschaerfen)."
 ---
 
 # Kompetenz-Zweifel respektvoll formulieren
@@ -15,7 +15,7 @@ Dieser Skill hilft dabei, fachliche Kritik oder Zweifel an der Kompetenz eines A
 1. Bezieht sich die Fachkritik auf ein konkretes Dokument/Ergebnis (Sachkritik) oder auf die Person (Personenabwertung)?
 2. Wer ist der Adressat: Kollege direkt, eigener Mandant ueber den Kollegen oder Gericht?
 3. Gibt es einschlaeige Rechtsprechung oder Normen, auf die die Sachkritik gestuetzt werden kann?
-4. Ist die Aeusserung notwendig fuer den Inhalt des Schreibens oder kann sie weggelassen werden?
+4. Ist die Aeusserung notwendig für den Inhalt des Schreibens oder kann sie weggelassen werden?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

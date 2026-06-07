@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-sanktionsscreening-fuzzy-match
-description: "Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Matching: Schwellenwerte fuer Namensaehnlichkeit, Algorithmen (Levenshtein, phonetisch), False-Positive-Management, Dokumentation und Validierungspflicht des Screening-Tools nach EU-Sanktionsrecht. Output: Screening-Methodikbeschreibung und Validierungsprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Matching: Schwellenwerte für Namensaehnlichkeit, Algorithmen (Levenshtein, phonetisch), False-Positive-Management, Dokumentation und Validierungspflicht des Screening-Tools nach EU-Sanktionsrecht. Output: Screening-Methodikbeschreibung und Validierungsprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanktionsscreening mit Fuzzy-Match: Methodik, Schwellenwerte und Validierung
 
 ## Arbeitsbereich
 
-Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Matching: Schwellenwerte fuer Namensaehnlichkeit, Algorithmen (Levenshtein, phonetisch), False-Positive-Management, Dokumentation und Validierungspflicht des Screening-Tools nach EU-Sanktionsrecht. Output: Screening-Methodikbeschreibung und Validierungsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Matching: Schwellenwerte für Namensaehnlichkeit, Algorithmen (Levenshtein, phonetisch), False-Positive-Management, Dokumentation und Validierungspflicht des Screening-Tools nach EU-Sanktionsrecht. Output: Screening-Methodikbeschreibung und Validierungsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Ma
 ## Erste Schritte
 
 1. Screening-Algorithmen des Tools dokumentieren (Levenshtein-Distanz, Soundex, Metaphon etc.).
-2. Schwellenwerte fuer Namensaehnlichkeit festlegen und begruenden (z.B. 80 % als Minimum).
+2. Schwellenwerte für Namensaehnlichkeit festlegen und begruenden (z.B. 80 % als Minimum).
 3. Test-Datensatz mit bekannten Treffern und bekannten Nicht-Treffern aufbauen.
 4. Erkennungsleistung messen: Sensitivity (korrekte Treffer) und Specificity (False Positives).
 5. Validierungsprotokoll erstellen und periodisch wiederholen (mindestens jaehrlich).
@@ -43,7 +43,7 @@ Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Ma
 ## Pruef-Raster
 
 - [ ] Screening-Algorithmen dokumentiert und begruendet?
-- [ ] Schwellenwert fuer Fuzzy-Match definiert und schriftlich festgelegt?
+- [ ] Schwellenwert für Fuzzy-Match definiert und schriftlich festgelegt?
 - [ ] Validierungstest mit bekannten Treffern durchgefuehrt?
 - [ ] False-Positive-Rate gemessen und dokumentiert?
 - [ ] Validierungsprotokoll erstellt und im ICP hinterlegt?
@@ -60,7 +60,7 @@ Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Ma
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

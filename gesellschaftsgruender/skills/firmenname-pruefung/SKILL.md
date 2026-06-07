@@ -70,7 +70,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 11 | Branchenbezeichnung-Zulassung | Berufsrecht | Bank, Steuer, Rechts, Arzt: Zulassung geprueft |
 | 12 | Internationale Bedeutung geprueft | Selbst | Keine negativen Konnotationen in Zielmaerkten |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **T-14 (2 Wochen vor Notar):** 3-5 Wunsch-Namen listen; HR-Suche nationwide; DPMA-Stichprobe.
 2. **T-10:** IHK-Vorpruefung beantragen (oft binnen 2-5 Werktagen); Domain-Verfuegbarkeit pruefen.
@@ -110,9 +110,9 @@ Empfehlung: [NAME 1] GmbH (keine Konflikte, Domain gesichert)
 Fallback: [NAME 3] GmbH
 
 Naechste Schritte:
-[ ] IHK-Bescheinigung fuer [NAME 1] einholen
+[ ] IHK-Bescheinigung für [NAME 1] einholen
 [ ] Domain [name1].de registriert am [DATUM]
-[ ] Marken-Anmeldung DPMA fuer [NAME 1] einleiten?
+[ ] Marken-Anmeldung DPMA für [NAME 1] einleiten?
 ```
 
 ## Rote Schwellen

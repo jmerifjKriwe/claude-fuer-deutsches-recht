@@ -68,7 +68,7 @@ Beweislastverteilung im BGB Besonderer Teil systematisch aufarbeiten: Grundregel
 - workflow-anspruchslandkarte
 - kaufrecht-beweislast-verjaehrung-digitale-elemente
 - dienstvertrag-und-behandlungsvertrag
-- deliktsrecht-haftung-fuer-verrichtungen-paragraph-831
+- deliktsrecht-haftung-für-verrichtungen-paragraph-831
 
 ## Quellen
 

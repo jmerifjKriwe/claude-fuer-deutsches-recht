@@ -16,6 +16,21 @@ description: "Einstweilige Fachanwalt Kanzlei im Plugin Fachanwalt Verwaltungsre
 | `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 28 Abs. 1 VwVfG` — Anhörung vor belastender Verwaltungsentscheidung.
+- `§ 37 Abs. 1 VwVfG` — Bestimmtheit des Verwaltungsakts.
+- `§ 39 Abs. 1 VwVfG` — Begruendungspflicht.
+- `§ 40 VwVfG` — Ermessensausübung und Ermessensfehler.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist, soweit Widerspruchsverfahren vorgesehen.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz gegen Vollziehung.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

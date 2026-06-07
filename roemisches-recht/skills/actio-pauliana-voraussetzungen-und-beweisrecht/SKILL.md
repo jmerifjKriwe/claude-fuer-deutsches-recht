@@ -1,13 +1,13 @@
 ---
 name: actio-pauliana-voraussetzungen-und-beweisrecht
-description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften fuer Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht
 
 ## Arbeitsbereich
 
-Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften fuer Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,18 +19,18 @@ Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die
 
 ## Aufgabe
 
-Skill fuer die Beweislastfragen bei der actio Pauliana.
+Skill für die Beweislastfragen bei der actio Pauliana.
 
 ## Beweislast
 
-- Glaeubiger traegt die Beweislast fuer:
+- Glaeubiger traegt die Beweislast für:
  - eventus damni
  - consilium fraudis des Schuldners
  - scientia oder conscientia des Dritten (bei entgeltlich)
 
 ## Indizienbeweis
 
-- Verkauf zu marktnotorisch zu niedrigem Preis: Indiz fuer scientia.
+- Verkauf zu marktnotorisch zu niedrigem Preis: Indiz für scientia.
 - Verkauf unter Freunden in zeitlicher Naehe zur Insolvenz.
 - Verschwiegene Geschaefte ueber Mittelsmaenner.
 

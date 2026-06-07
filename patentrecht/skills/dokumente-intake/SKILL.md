@@ -13,7 +13,7 @@ Dieser Dokumenten-Intake für **Patentrecht** ordnet Anlagen, Registerdaten, Kor
 
 - `beschreibung-zeichnungen-einspruch-epa-epo-epue` — Beschreibung Zeichnungen Einspruch Epa Epo Epue
 - `erfinderbenennung-arbeitnehmererfindung-erfindungsmeldung` — Erfinderbenennung Arbeitnehmererfindung Erfindungsmeldung
-- `gebrauchsmuster-patent-patentrechts-laendercheck-israel` — Gebrauchsmuster Patent Patentrechts Laendercheck Israel
+- `gebrauchsmuster-patent-patentrechts-laendercheck-israel` — Gebrauchsmuster Patent Patentrechts Ländercheck Israel
 - `japan-jpo-kanada-cipo-loeschung-widerruf` — Japan Jpo Kanada Cipo Löschung Widerruf
 - `neuheit-erfinderische-patentprozess-besichtigung-claim` — Neuheit Erfinderische Patentprozess Besichtigung Claim
 - `patentlizenzvertrag-drafting-patentlizenzvertrag-review` — Patentlizenzvertrag Drafting Patentlizenzvertrag Review
@@ -24,7 +24,7 @@ Dieser Dokumenten-Intake für **Patentrecht** ordnet Anlagen, Registerdaten, Kor
 - `patentrecht-redteam-qualitygate` — Patentrecht Redteam Qualitygate
 - `patentrechts-tuerkei-turkpatent-uk-patents` — Patentrechts Tuerkei Turkpatent Uk Patents
 - `patentverletzung-claim-patr2-arbeitnehmererfindung-patr2` — Patentverletzung Claim Patr2 Arbeitnehmererfindung Patr2
-- `patr2-zwangslizenz-pct-laenderstrategie-pruefungsbescheid-dpma` — Patr2 Zwangslizenz Pct Laenderstrategie Pruefungsbescheid Dpma
+- `patr2-zwangslizenz-pct-laenderstrategie-pruefungsbescheid-dpma` — Patr2 Zwangslizenz Pct Länderstrategie Pruefungsbescheid Dpma
 
 ## Arbeitsweg
 

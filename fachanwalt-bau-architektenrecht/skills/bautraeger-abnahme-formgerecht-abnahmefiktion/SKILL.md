@@ -15,7 +15,7 @@ description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt
 | `bautraeger-abnahme-formgerecht-640-bgb` | Bautraeger-Abnahme formgerecht nach § 640 BGB. Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Beweislast). Liefert Pruefraster. |
 | `bautraeger-abnahmefiktion-clause-unwirksam` | Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Pruefraster. |
 | `bautraeger-anlagen-zur-baubeschreibung` | Anlagen zur Baubeschreibung beim Bautraegervertrag. Skill listet typische Anlagen Plaene Grundriss Schnitt Ansicht Wohnflaechenberechnung Energieausweis Teilungserklaerung. Folgen fehlender oder veralteter Anlagen. |
-| `bautraeger-aufflassungsvormerkung-883-bgb` | Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen fuer den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster. |
+| `bautraeger-aufflassungsvormerkung-883-bgb` | Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -49,12 +49,12 @@ description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt
 
 ## Folge Abnahme
 
-- Beginn der Verjaehrungsfrist § 634a BGB (5 Jahre fuer Bauwerk).
+- Beginn der Verjährungsfrist § 634a BGB (5 Jahre für Bauwerk).
 - Umkehr der Beweislast: Erwerber muss spaetere Maengel beweisen.
 - Verguetungspflicht wird faellig.
 - Gefahrtragung geht auf Erwerber ueber.
 
-## Foerderung Bautraeger zur Abnahme
+## Förderung Bautraeger zur Abnahme
 
 - Bautraeger draengt oft auf Abnahme, um Verguetung zu erhalten und Maengelhaftungsfrist zu starten.
 - Erwerber sollte nicht abnehmen, wenn wesentliche Maengel bestehen.
@@ -94,7 +94,7 @@ oder
 ## Folge Unwirksamkeit
 
 - Keine Abnahme erfolgt.
-- Verjaehrungsfrist startet nicht.
+- Verjährungsfrist startet nicht.
 - Verguetung nicht faellig.
 
 ## Pruefraster
@@ -155,13 +155,13 @@ oder
 
 ## 4. `bautraeger-aufflassungsvormerkung-883-bgb`
 
-**Fokus:** Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen fuer den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster.
+**Fokus:** Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster.
 
 # Bautraeger Aufflassungsvormerkung 883 Bgb
 
 ## Norm
 
-§ 883 BGB Vormerkung — Sicherungsinstrument fuer einen schuldrechtlichen Anspruch auf Eigentumsuebertragung.
+§ 883 BGB Vormerkung — Sicherungsinstrument für einen schuldrechtlichen Anspruch auf Eigentumsuebertragung.
 
 ## Funktion beim Bautraegervertrag
 

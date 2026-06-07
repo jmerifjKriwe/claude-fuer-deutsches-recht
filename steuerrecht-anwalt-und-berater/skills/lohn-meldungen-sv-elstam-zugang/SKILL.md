@@ -72,7 +72,7 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 
 ### Phase 3 — ELStAM-Abruf
 
-- Anmeldung beim ELStAM-Verfahren ueber das BZSt (Bundeszentralamt fuer Steuern).
+- Anmeldung beim ELStAM-Verfahren ueber das BZSt (Bundeszentralamt für Steuern).
 - Voraussetzungen: AN-Steuer-ID (11-stellig nach § 139b AO), AG-Steuer-Nr (oder AG-Identifikationsnummer), AG-Betriebsstaetten-Nummer der BA.
 - Standard-Abrufintervall: monatlich vor der Lohnabrechnung; in DATEV LODAS automatisiert.
 - Bei Aenderungen (Steuerklasse, Kinderfreibetrag, Konfession): automatische Aktualisierung durch FA; das AG-System aktualisiert ELStAM beim naechsten Abruf.
@@ -105,7 +105,7 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 ## Strategie und Praxis-Tipps
 
 - Anmeldung rechtzeitig — Sofortmeldungspflicht-Branchen vor Beschaeftigungsbeginn melden.
-- Bei Sofortmeldungs-Branchen Verspaetung: Bussgelder erheblich (bis 25.000 EUR fuer den AG).
+- Bei Sofortmeldungs-Branchen Verspaetung: Bussgelder erheblich (bis 25.000 EUR für den AG).
 - ELStAM-Abruf jeden Monat — Aenderungen durch FA (KiFB, KKB) werden automatisch wirksam.
 - Bei Mehrfachbeschaeftigung: AN muss FA bzgl. Hauptarbeitgeber informieren.
 - StBVV: SV/ELStAM-Meldungen pauschal in Lohnabrechnungsentgelt.

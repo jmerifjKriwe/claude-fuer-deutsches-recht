@@ -1,13 +1,13 @@
 ---
 name: space-weather-solarsturm-haftung-und-versicherung
-description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit fuer Industrie und Versicherer im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit für Industrie und Versicherer im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Space Weather: Solarsturm-Haftung und Versicherung
 
 ## Arbeitsbereich
 
-Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit fuer Industrie und Versicherer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit für Industrie und Versicherer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von
 
 ## Aufgabe
 
-Skill fuer Mandate aus Branchen, die durch Space Weather betroffen sind: Satellitenbetreiber, Energieversorger, Telekommunikationsanbieter, Luftfahrtgesellschaften, Versicherer, Aufsichtsbehoerden. Anlaesse: Halloween-Storms 2003, geomagnetischer Sturm Mai 2024 (Gannon Storm), Carrington-Ereignis 1859 als historisches Maximum.
+Skill für Mandate aus Branchen, die durch Space Weather betroffen sind: Satellitenbetreiber, Energieversorger, Telekommunikationsanbieter, Luftfahrtgesellschaften, Versicherer, Aufsichtsbehoerden. Anlaesse: Halloween-Storms 2003, geomagnetischer Sturm Mai 2024 (Gannon Storm), Carrington-Ereignis 1859 als historisches Maximum.
 
 ## Sofortfragen
 
@@ -42,7 +42,7 @@ Skill fuer Mandate aus Branchen, die durch Space Weather betroffen sind: Satelli
 - **Force-Majeure-Klauseln**: hauptstreit, ob Solarsturm als hoehere Gewalt qualifiziert. Argumente pro: nicht beherrschbar, nicht versicherbar im Vollumfang. Argumente contra: vorhersehbar via NOAA SWPC und ESA SSA mit Vorlauf bis zu 72 Stunden, Mitigation moeglich (Safe-Mode, Bahnkorrektur, Stromnetzdrosselung).
 - **Versicherungsklauseln**: Lloyd's LMA5390 (TLI) und Folgevarianten beinhalten Naturereignisse als Deckungsfall, schliessen aber "wilful misconduct" und unzureichende Mitigation aus. Bei Solarsturm idR Deckung wenn Warnung vom Betreiber befolgt wurde.
 - **Cyber-vs-Naturklauseln**: Klare Trennung; geomagnetisch induzierte Stromschwankungen sind Naturereignisse, kein Cyber-Vorfall.
-- **Sublimits**: oft 25-50 Mio. Euro fuer geomagnetisch induzierte Schaeden je Versicherer-Einheit.
+- **Sublimits**: oft 25-50 Mio. Euro für geomagnetisch induzierte Schaeden je Versicherer-Einheit.
 
 ## KRITIS und NIS2
 

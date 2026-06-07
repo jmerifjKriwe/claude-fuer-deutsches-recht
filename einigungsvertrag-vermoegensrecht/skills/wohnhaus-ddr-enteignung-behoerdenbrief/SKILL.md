@@ -3,11 +3,11 @@ name: wohnhaus-ddr-enteignung-behoerdenbrief
 description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Behördenbrief schreiben im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Wohnhaus Ddr Enteignung Behoerdenbrief
+# Wohnhaus Ddr Enteignung Behördenbrief
 
 ## Arbeitsbereich
 
-Spezialthema **Wohnhaus Ddr Enteignung Behoerdenbrief** im Einigungsvertrag/Vermögensrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Wohnhaus Ddr Enteignung Behördenbrief** im Einigungsvertrag/Vermögensrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Wohnhaus Ddr Enteignung Behoerdenbrief** im Einigungsvertrag/Verm
 
 ## Arbeitsauftrag
 
-Wohnhaus Ddr Enteignung Behoerdenbrief wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Wohnhaus Ddr Enteignung Behördenbrief wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 

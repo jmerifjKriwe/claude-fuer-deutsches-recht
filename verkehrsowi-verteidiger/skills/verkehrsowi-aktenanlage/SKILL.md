@@ -21,7 +21,7 @@ Akte im Verkehrs-OWi-Mandat anlegen und strukturieren: Neues Mandat Bußgeldbesc
 
 1. **Vollmacht vorhanden?** — Ohne Vollmacht keine Akteneinsicht.
 2. **Zustellungsdatum des Bescheids dokumentiert?** — Fristbeginn.
-3. **Aktenzeichen und Delikt notiert?** — Grundlage fuer Schriftsaetze.
+3. **Aktenzeichen und Delikt notiert?** — Grundlage für Schriftsaetze.
 4. **Mandantenziel klar?** — Einspruch, Einstellung, Fahrverbot-Vermeidung.
 5. **Sofortmassnahmen eingeleitet?** — Einspruch und Akteneinsicht.
 
@@ -41,7 +41,7 @@ Akte im Verkehrs-OWi-Mandat anlegen und strukturieren: Neues Mandat Bußgeldbesc
 03_FRISTEN
  - Einspruchsfrist: Zustellungsdatum + 14 Tage
  - Rechtsbeschwerde-Frist (wenn noetig): Urteil + 7 Tage
- - Verjaehrungs-Check
+ - Verjährungs-Check
 
 04_SCHRIFTSAETZE_AUSGEHEND
  - Einspruch (mit Eingangsbestaetigung)

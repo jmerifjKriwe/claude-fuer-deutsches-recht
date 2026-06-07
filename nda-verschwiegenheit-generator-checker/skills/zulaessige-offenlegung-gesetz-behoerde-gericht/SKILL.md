@@ -1,13 +1,13 @@
 ---
 name: zulaessige-offenlegung-gesetz-behoerde-gericht
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behoerde Gericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behörde Gericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Zulaessige Offenlegung Gesetz Behoerde Gericht
+# Zulaessige Offenlegung Gesetz Behörde Gericht
 
 ## Arbeitsbereich
 
-NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behoerde Gericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behörde Gericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -17,7 +17,7 @@ NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Zulaessige Offenlegung Gesetz Behoerde Gericht
+## Fachkern: Zulaessige Offenlegung Gesetz Behörde Gericht
 - **Normen-/Quellenanker:** BGB/AGB-Recht, GeschGehG, DSGVO, HinSchG, ArbR, Kartellrecht, Exportkontrolle, IP-Rechte und prozessuale Herausgabepflichten.
 - **Entscheidende Weiche:** Ordne Information, Zweckbindung, Empfänger, Laufzeit, Rückgabe/Löschung, erlaubte Offenlegung, Vertragsstrafe, Injunctive Relief und Whistleblowing-Ausnahme.
 

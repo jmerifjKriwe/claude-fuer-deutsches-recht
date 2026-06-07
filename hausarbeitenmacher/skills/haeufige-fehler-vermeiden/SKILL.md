@@ -28,9 +28,9 @@ Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische
 
 ## Zentrale Normen
 - § 195 BGB — Regelverjaehrung: haeufig vergessener Pruefungspunkt, fuehrt zu Fehler 19
-- § 138 Abs. 1 ZPO — Wahrheitspflicht: mahnende Analogie fuer korrekte Sachverhaltserfassung
+- § 138 Abs. 1 ZPO — Wahrheitspflicht: mahnende Analogie für korrekte Sachverhaltserfassung
 - § 242 BGB — Treu und Glauben: verhindert uebertrieben formalistische Fehler
-- §§ 133, 157 BGB — Auslegungsgrundsaetze: Masstab fuer Definitionen und Subsumtion
+- §§ 133, 157 BGB — Auslegungsgrundsaetze: Masstab für Definitionen und Subsumtion
 
 ## Quellenregel
 

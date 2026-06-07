@@ -45,7 +45,7 @@ In Ihrer Klageerwiderung muessen Sie **systematisch** auf jeden erheblichen Punk
 
 - **Zugestandene Tatsache**: Tatsache, die der Beklagte nicht bestreitet — gilt als wahr.
 - **Bestreiten**: Erklaerung, dass Behauptung der Gegenseite nicht stimmt.
-- **Einrede**: Eigenes Recht, das die Klage abwehrt (z. B. Verjaehrung).
+- **Einrede**: Eigenes Recht, das die Klage abwehrt (z. B. Verjährung).
 - **Klage-Abweisungsantrag**: Antrag, die Klage als unbegruendet abzuweisen.
 
 ## Rechtsgrundlagen
@@ -56,11 +56,11 @@ In Ihrer Klageerwiderung muessen Sie **systematisch** auf jeden erheblichen Punk
 - **§ 282 ZPO** — Rechtzeitige Vorlage.
 - **§ 296 ZPO** — Praeklusion.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klage aufschluesseln
 
-Lesen Sie die Klage Punkt fuer Punkt. Notieren Sie:
+Lesen Sie die Klage Punkt für Punkt. Notieren Sie:
 
 - Wer wird auf was verklagt?
 - Welche Anspruchsgrundlage?
@@ -94,11 +94,11 @@ Skill `substantiiertes-bestreiten-138-iv-zpo`.
 
 Pruefen Sie:
 
-- Verjaehrung (§ 214 BGB)?
+- Verjährung (§ 214 BGB)?
 - Aufrechnung (§ 387 BGB)?
 - Zurueckbehaltung (§ 273 BGB)?
 - Stundung?
-- Unzustaendigkeit des Gerichts?
+- Unzuständigkeit des Gerichts?
 
 Jede Einrede muss **ausdruecklich erhoben werden** — Gericht prueft nicht von Amts wegen.
 
@@ -106,7 +106,7 @@ Skill `einreden-aktiv-geltend-machen`.
 
 ### Schritt 5 — Eigener Sachverhalt
 
-Tragen Sie auch Tatsachen vor, die fuer Sie sprechen:
+Tragen Sie auch Tatsachen vor, die für Sie sprechen:
 
 - "Tatsaechlich wurde am 19.3.2025 ein Maengel-Vorbehalt erklaert."
 - "Bereits am 1.4.2025 hat die Klaegerin eine Teilzahlung von 500 EUR akzeptiert."
@@ -122,7 +122,7 @@ Beweis: Anlage B1 (Mangelanzeige vom 19.3.2025)
 Beweis: Zeugnis Frau X, ladungsfaehige Anschrift Y
 ```
 
-Skill `klageschrift-beweisangebote-einbauen-373-zpo` (gilt analog fuer Klageerwiderung).
+Skill `klageschrift-beweisangebote-einbauen-373-zpo` (gilt analog für Klageerwiderung).
 
 ### Schritt 7 — Hauptantrag
 
@@ -135,7 +135,7 @@ Antraege:
 
 2. Die Kosten des Rechtsstreits traegt die Klaegerin.
 
-3. Das Urteil wird fuer vorlaeufig vollstreckbar erklaert
+3. Das Urteil wird für vorlaeufig vollstreckbar erklaert
  (auch ohne Sicherheitsleistung).
 ```
 
@@ -184,7 +184,7 @@ oder Einreden greifen]
 
 IV. Einreden
 
-[Verjaehrung / Aufrechnung / Zurueckbehaltung]
+[Verjährung / Aufrechnung / Zurueckbehaltung]
 
 [Anlagenverzeichnis, Unterschrift]
 ```
@@ -203,13 +203,13 @@ Vor Versand:
 
 - **§ 138 III ZPO**: Nicht-Bestrittenes ist zugestanden. KERN-Regel!
 - **Praeklusion § 296 ZPO**: Spaeter nicht vorgetragen = nicht beruecksichtigt.
-- **Einreden mit Frist**: Manche (Verjaehrung) muessen ausdruecklich erhoben werden.
+- **Einreden mit Frist**: Manche (Verjährung) muessen ausdruecklich erhoben werden.
 - **Wahrheitspflicht** § 138 I ZPO: Keine bewusst falschen Tatsachenbehauptungen.
 
 ## Typische Fehler
 
 - "Ich antworte allgemein, das deckt alles." → Pauschale Antworten reichen nicht.
-- "Verjaehrung erkennt das Gericht selbst." → Nein, Einrede muss kommen.
+- "Verjährung erkennt das Gericht selbst." → Nein, Einrede muss kommen.
 - "Ich erzaehle erstmal meine Sicht." → Auch Stellungnahme zu Klaeger-Punkten Pflicht.
 - "Beweis kommt im Termin." → Beweismittel jetzt benennen.
 
@@ -266,7 +266,7 @@ Wenn Sie auf eine Klage antworten (= Klageerwiderung) oder selbst auf eine Klage
 - **K-Anlagen**: Anlagen des Klaegers (K = Klaeger).
 - **B-Anlagen**: Anlagen des Beklagten (B = Beklagter).
 
-## Schritt-fuer-Schritt — als Beklagter
+## Schritt-für-Schritt — als Beklagter
 
 ### Schritt 1 — Klage durchlesen und K-Anlagen identifizieren
 
@@ -300,7 +300,7 @@ Anlage B2 — Foto der gelieferten Ware mit Mangel (2 Seiten)
 Anlage B3 — Gutachten Sachverstaendiger ABC vom 15.05.2025 (8 Seiten)
 ```
 
-## Schritt-fuer-Schritt — als Klaeger in der Replik
+## Schritt-für-Schritt — als Klaeger in der Replik
 
 ### Schritt 1 — Letzte K-Nummer der Klage merken
 
@@ -335,7 +335,7 @@ Anlage K10 — Zeugen-Aussage Zeuge Mueller schriftlich (2 Seiten)
 
 So sieht man auf einen Blick: K1-K8 schon bekannt, K9-K10 neu.
 
-## Schritt-fuer-Schritt — als Beklagter in der Duplik
+## Schritt-für-Schritt — als Beklagter in der Duplik
 
 ### Schritt 1 — Letzte B-Nummer merken
 
@@ -353,7 +353,7 @@ Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 - **Keine Kollision** — niemals zweimal "Anlage K3" oder "Anlage B2".
 - **Konsequenz**: Wenn Klaeger K9, dann nicht "Anlage K1 zur Replik" schreiben.
 - **Querverweis** auf gegnerische Anlagen: "Anlage B1 der Klageerwiderung" — so ist klar, welche gemeint ist.
-- **Anlagenverzeichnis aktualisieren** — fuer jede neue Anlage ein Eintrag.
+- **Anlagenverzeichnis aktualisieren** — für jede neue Anlage ein Eintrag.
 
 ## Typische Fehler
 
@@ -373,7 +373,7 @@ Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 fuer Klaeger und KE1, KE2 fuer Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
+Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 für Klaeger und KE1, KE2 für Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
 
 ## Qualitäts-Hardening
 
@@ -391,7 +391,7 @@ Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht g
 
 ## Worum geht es?
 
-Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnummeriert (K1, K2, K3 ... fuer Klaeger; B1, B2, B3 ... fuer Beklagten) und im Sachvortrag mit dieser Bezeichnung referenziert. Eine gute Anlagen-Struktur erleichtert Richter und Gegenseite die Lesefuehrung — was bei Selbstvertretung Eindruck macht.
+Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnummeriert (K1, K2, K3 ... für Klaeger; B1, B2, B3 ... für Beklagten) und im Sachvortrag mit dieser Bezeichnung referenziert. Eine gute Anlagen-Struktur erleichtert Richter und Gegenseite die Lesefuehrung — was bei Selbstvertretung Eindruck macht.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -403,7 +403,7 @@ Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnumme
 
 - **Anlage**: Dokument, das einer Schriftsatz beigefuegt ist.
 - **Anlagenverzeichnis**: Liste aller Anlagen am Ende des Schriftsatzes.
-- **Abschrift**: Kopie eines Schriftsatzes, die fuer die Gegenseite bestimmt ist.
+- **Abschrift**: Kopie eines Schriftsatzes, die für die Gegenseite bestimmt ist.
 
 ## Rechtsgrundlagen
 
@@ -411,7 +411,7 @@ Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnumme
 - **§ 133 II ZPO** — Beifuegung der Abschriften.
 - **§ 253 III ZPO** — Klage mit Anlagen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Sortierung festlegen
 
@@ -488,9 +488,9 @@ Pro Beklagtem **eine vollstaendige Abschrift** der Klageschrift inklusive aller 
 
 Also:
 
-- 1 Original fuer das Gericht.
-- 1 Abschrift fuer jeden Beklagten.
-- 1 Kopie fuer Sie zu Ihren Akten.
+- 1 Original für das Gericht.
+- 1 Abschrift für jeden Beklagten.
+- 1 Kopie für Sie zu Ihren Akten.
 
 Bei einem Beklagten: 3 Saetze. Bei zwei Beklagten: 4 Saetze.
 

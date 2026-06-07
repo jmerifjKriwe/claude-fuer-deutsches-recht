@@ -20,7 +20,7 @@ description: "Übt deutsche und europäische Rechtsgeschichte für Studierende �
 ## Triage zu Beginn
 1. Welche Epoche oder welches Thema steht im Fokus: roemisches Recht, BGB-Entstehung, NS-Recht, SED-Unrecht, GG-Genese, EU-Entwicklung?
 2. Dient die Rechtsgeschichte als Examensvorbereitung oder als Verstaendnis-Vertiefung?
-3. Welche historischen Bezuege sind fuer den aktuellen Lerninhalt relevant?
+3. Welche historischen Bezuege sind für den aktuellen Lerninhalt relevant?
 4. Gibt es Verbindungslinien zwischen Rechtsgeschichte und geltendem Recht?
 
 ## Aktuelle Rechtsprechung
@@ -124,7 +124,7 @@ Lern-Anker: Vorrang, unmittelbare Wirkung und unionsrechtskonforme Auslegung hab
 
 - `methodenlehre-grundlagen` — verfassungs- und unionsrechtskonforme Auslegung.
 - `methodenlehre-strafrecht` — Bestimmtheitsgebot und Analogieverbot historisch.
-- `methodenlehre-oeffentliches-recht` — Vorrang des Unionsrechts historisch.
+- `methodenlehre-öffentliches-recht` — Vorrang des Unionsrechts historisch.
 - `examensvorbereitung-fragen` — Rechtsgeschichte im mündlichen Examen.
 
 ## Quellen für eigene Vertiefung

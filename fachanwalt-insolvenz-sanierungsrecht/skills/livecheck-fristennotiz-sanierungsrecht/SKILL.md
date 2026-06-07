@@ -13,7 +13,7 @@ description: "Inso Livecheck Fristennotiz Sanierungsrecht im Insolvenz- und Sani
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-livecheck-fristennotiz-und-naechster-schritt` | Livecheck: Fristennotiz und nächster Schritt im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-sanierungsrecht-fristen-form-und-zustaendigkeit` | Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-sanierungsrecht-fristen-form-und-zuständigkeit` | Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `inso-p104-fixgeschafte-finanzleistungen-vertragliches-liquidatio` | § 104 InsO (Fixgeschäfte, Finanzleistungen, vertragliches Liquidationsnetting) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p116-erloschen-von-geschaftsbesorgungsvertragen` | § 116 InsO (Erlöschen von Geschäftsbesorgungsverträgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p255-wiederauflebensklausel` | § 255 InsO (Wiederauflebensklausel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
-## 2. `spezial-sanierungsrecht-fristen-form-und-zustaendigkeit`
+## 2. `spezial-sanierungsrecht-fristen-form-und-zuständigkeit`
 
 **Fokus:** Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 

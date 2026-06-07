@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-bewehrung-verlegekontrolle
-description: "Bauueberwachung HOAI LPH 8 fuer Bewehrungsverlegung — Kontrolle Stabstaehle BSt 500 S und BSt 500 M nach DIN 488, Betondeckung nach DIN EN 1992-1-1 EC2, Stosslaeange und Ankerlaeange, Biegerollendurchmesser, Abstandhalter-Typ und Anordnung nach DBV-Merkblatt Betondeckung. Umfasst Werksbescheinigungen 3.1 nach EN 10204, Stahllager-Pruefung, fotografische Abnahmedokumentation und BIM360-Integration im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Bewehrungsverlegung — Kontrolle Stabstaehle BSt 500 S und BSt 500 M nach DIN 488, Betondeckung nach DIN EN 1992-1-1 EC2, Stosslaeange und Ankerlaeange, Biegerollendurchmesser, Abstandhalter-Typ und Anordnung nach DBV-Merkblatt Betondeckung. Umfasst Werksbescheinigungen 3.1 nach EN 10204, Stahllager-Pruefung, fotografische Abnahmedokumentation und BIM360-Integration im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Bewehrungsverlegung und Verlegekontrolle
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Bewehrungsverlegung — Kontrolle Stabstaehle BSt 500 S und BSt 500 M nach DIN 488, Betondeckung nach DIN EN 1992-1-1 EC2, Stosslaeange und Ankerlaeange, Biegerollendurchmesser, Abstandhalter-Typ und Anordnung nach DBV-Merkblatt Betondeckung. Umfasst Werksbescheinigungen 3.1 nach EN 10204, Stahllager-Pruefung, fotografische Abnahmedokumentation und BIM360-Integration. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Bewehrungsverlegung — Kontrolle Stabstaehle BSt 500 S und BSt 500 M nach DIN 488, Betondeckung nach DIN EN 1992-1-1 EC2, Stosslaeange und Ankerlaeange, Biegerollendurchmesser, Abstandhalter-Typ und Anordnung nach DBV-Merkblatt Betondeckung. Umfasst Werksbescheinigungen 3.1 nach EN 10204, Stahllager-Pruefung, fotografische Abnahmedokumentation und BIM360-Integration. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -31,7 +31,7 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 
 1. Stahllager-Pruefung auf der Baustelle: Lagerungsqualitaet trocken und unterlueftet, keine Roststellen tiefer als Korrosionsgrad C nach DIN EN ISO 8501-1, Chargen-Etikett erhalten
 2. Werksbescheinigung 3.1 nach EN 10204: Je Liefercharge Stahlsorte und Chargen-Nr, chemische Analyse und mechanische Kennwerte, Uebereinstimmung mit Bestellspezifikation
-3. Biegerollendurchmesser pruefen: Biegerollendurchmesser nach DIN EN 1992-1-1 Tabelle 8.1 d groesser 5d fuer Durchmesser groesser 16 mm, Fehlbiegungen dokumentieren
+3. Biegerollendurchmesser pruefen: Biegerollendurchmesser nach DIN EN 1992-1-1 Tabelle 8.1 d groesser 5d für Durchmesser groesser 16 mm, Fehlbiegungen dokumentieren
 4. Abstandhalter-Einbau: Typ und Anordnung nach DBV-Merkblatt Betondeckung 2020, Punktlast-Abstandhalter max. 500 mm Abstand, Linienstuetzung bei Matten
 5. Stosslageprotokoll: Bewehrungsstoesse nicht im Bereich maximaler Biegemomente, Ueberlappungslaenge nach EC2, Fotos jedes Stosses
 6. Zeichnungsabgleich: Plan-Revision aktuell vor Bewehrungseinbau, Stabdurchmesser und Abstaende gemessen und eingetragen in Abnahme-Checkliste
@@ -43,7 +43,7 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 - VOB/C DIN 18331 Betonarbeiten: Dokumentationspflichten Bewehrungseinbau
 - DIN 488-1:2009-08 Betonstahl: Gueteeigenschaften BSt 500 S und 500 M, Pruefanforderungen
 - DIN EN 1992-1-1 Eurocode 2: Betondeckung cmin und cdev, Stosslaeangen, Mindestbewehrung, Biegeradius
-- DBV-Merkblatt Betondeckung und Bewehrung 2020: Abstandhalter-Anordnung, Toleranzregeln fuer Betondeckung
+- DBV-Merkblatt Betondeckung und Bewehrung 2020: Abstandhalter-Anordnung, Toleranzregeln für Betondeckung
 
 ## Prueferaster und Kontrollpunkte
 
@@ -59,15 +59,15 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 - Fotodokumentation Bewehrungsabnahme: Systemfoto Flaeche, Detailfoto Stosslage, Detailfoto Abstandhalter, Detailfoto Aussparungsschalung, Zeitstempel
 - BIM360 Photo Tracking: Foto gelinkt an IFC-Bauteil-ID Deckenfeld-Nr oder Stuetzen-ID, exportierbar je Bauteil als Abnahme-Paket
 - Matterport 360-Grad-Scan grosse Bewehrungsflaechen: Deckenbewehrung 3D dokumentiert, massstabsgerechte Abstands-Messung im Viewer
-- Lieferschein-Archiv: Scan per Handy-App, Verknuepfung Chargen-Nr zu Stahlsorte und Einbaubereich, vollstaendig fuer Gewaehrleistungsakte
-- Covermeter-Messprotokoll: Tabellarisch je Rasterfeld, Farbmarkierung Unterschreitung rot, Export PDF fuer Bauherrenakte
+- Lieferschein-Archiv: Scan per Handy-App, Verknuepfung Chargen-Nr zu Stahlsorte und Einbaubereich, vollstaendig für Gewaehrleistungsakte
+- Covermeter-Messprotokoll: Tabellarisch je Rasterfeld, Farbmarkierung Unterschreitung rot, Export PDF für Bauherrenakte
 
 ## Meldungserstellung im ERP / SAP
 
 - SAP PM Meldungsart M2 Bewehrungsmangel: Equipment-Nr Bauteil-ID, Schadenscode B010 Betondeckungsunterschreitung, Zustaendiger Polier zugewiesen
 - SAP PS Vorgang BEWEH-020: Status BTAB Teilabnahme Bewehrung, Datum Freigabe durch Bauueberwacher, Dokumenten-Link zu PlanRadar
 - PlanRadar Mangel mit IFC-Bauteil-Verknuepfung: Mangel-Nr, Foto, Schweregrad, Faelligkeit, Bauueberwacher als Erfasser, Polier als Empfaenger
-- Dalux BIM-Mangel direkt im 3D-Modell: BCF 2.1 Export an Tragwerksplaner fuer Stellungnahme bei Bewehrungsabweichungen
+- Dalux BIM-Mangel direkt im 3D-Modell: BCF 2.1 Export an Tragwerksplaner für Stellungnahme bei Bewehrungsabweichungen
 - Workflow: Mangel-Abnahmeprotokoll erstellt, Massnahme definiert, Polier Mangelbeseitigung, Nachkontrolle Foto, Bewehrungsabnahme-Freigabe, Betonage-Freigabe
 
 ## Typische Fallstricke

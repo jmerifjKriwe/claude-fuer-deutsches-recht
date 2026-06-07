@@ -38,14 +38,14 @@ Ueberblick und Triage ueber EU-Sanktionen und Embargos: Russland (VO 833/2014 un
 - **VO (EU) 267/2012**: Iran-Sanktionen und Finanzsanktionen.
 - **VO (EU) 765/2006**: Belarus-Sanktionen.
 - **VO (EU) 2017/1509**: Nordkorea-Sanktionen.
-- **AWG § 4 Abs. 1 Nr. 3**: Nationale Ermaechtigung fuer Embargomassnahmen.**
+- **AWG § 4 Abs. 1 Nr. 3**: Nationale Ermaechtigung für Embargomassnahmen.**
 
 ## Pruef-Raster
 
 - [ ] Sanktionsregime und anwendbare Verordnung identifiziert?
 - [ ] Parteien gegen EU-Finanzsanktionsliste geprueft?
 - [ ] Gueter gegen Sanktionsanhaenge der Verordnung geprueft?
-- [ ] Sektorsanktionen fuer relevante Taetigkeitsbereiche geprueft?
+- [ ] Sektorsanktionen für relevante Taetigkeitsbereiche geprueft?
 - [ ] Ausnahmen und Genehmigungstatbestaende geprueft?
 - [ ] Sanktionslage mit Quellenstand und Datum dokumentiert?
 
@@ -60,7 +60,7 @@ Ueberblick und Triage ueber EU-Sanktionen und Embargos: Russland (VO 833/2014 un
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

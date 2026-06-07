@@ -101,7 +101,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 6. Liegt ein Aufklärungsbogen vor — handschriftliche Eintragungen oder nur Standardtext?
 7. War eine Begleitperson beim Gespräch anwesend (möglicher Zeuge)?
 8. Welcher Schaden ist eingetreten — ist er von den verschwiegenen Risiken umfasst?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -164,7 +164,7 @@ Aufklaerungs-Anamnese [Name, Datum, AZ]
  [ ] Ort: Sprechstunde / Bettenstation / Aufnahme / OP-Vorbereitung
 
 3. Wie lange dauerte das Gespraech?
- ___ Minuten. (Kurzgespraech unter 5 Min. Indiz fuer unzureichende Aufklaerung)
+ ___ Minuten. (Kurzgespraech unter 5 Min. Indiz für unzureichende Aufklaerung)
 
 4. Welche Risiken wurden konkret genannt?
  [freitextlich]
@@ -205,8 +205,8 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
  c) [Risiko aus individuellen Vorerkrankungen]
 
  Der verwendete Standard-Aufklaerungsbogen enthalt keine
- handschriftlichen Eintragungen zu den persoenlichen Risiken
- der Klaegerin / des Klaegers. Er ist damit kein Beleg fuer
+ handschriftlichen Eintragungen zu den persönlichen Risiken
+ der Klaegerin / des Klaegers. Er ist damit kein Beleg für
  ein individualisiertes Aufklaerungsgespraech.
 
 2. Mangelnde Rechtzeitigkeit
@@ -217,7 +217,7 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 
 3. Beweislast
  Gemaess § 630h Abs. 2 BGB traegt die Beklagte die Beweis-
- last fuer eine ordnungsgemaesse Aufklaerung und eine
+ last für eine ordnungsgemaesse Aufklaerung und eine
  wirksame Einwilligung. Diese Beweislast kann mit dem
  vorgelegten Standard-Aufklaerungsbogen nicht erfuellt werden
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -348,7 +348,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Nützliche Startquellen
 
-- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
+- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-für-alle
 - BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
 - EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/
 - BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
@@ -375,7 +375,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 6. Besteht Rechtsschutzversicherung — Deckungsanfrage für Arzthaftungsmandat?
 7. Gibt es GKV — Regress-Interesse der Krankenkasse § 116 SGB X?
 8. Liegt strafrechtlicher Aspekt vor (Körperverletzung § 229 StGB fahrlässig, Tötung § 222 StGB)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -470,7 +470,7 @@ dokumentation gemaess § 630g BGB zu uebersenden, insbesondere:
 - Ambulanz- und Notaufnahmeprotokolle
 
 Die Unterlagen sind vollstaendig und in lesbarer Form als Kopie
-zu uebermitteln. Die Kosten hierfuer werden gemaess § 630g
+zu uebermitteln. Die Kosten hierfür werden gemaess § 630g
 Abs. 2 Satz 2 BGB uebernommen (Kopierkosten angemessen).
 
 Sollten Teile der Dokumentation fehlen, bitten wir um
@@ -507,7 +507,7 @@ II. Behandlungsfehler
 
 3. Befunderhebungsfehler § 630h Abs. 5 Satz 2 BGB: Unterlassen
  der Untersuchung [X]; ein positiver Befund war hinreichend
- wahrscheinlich; Beweislastumkehr fuer Kausalitaet.
+ wahrscheinlich; Beweislastumkehr für Kausalitaet.
 
 III. Schaeden
 - Schmerzensgeld EUR ____ (Begr.: [Tabellen-Referenz])
@@ -522,9 +522,9 @@ IV. Forderung
 Wir fordern Anerkennung des Haftpflichtgrundes bis [Datum]
 sowie Zahlung eines Vorschusses von EUR ____.
 
-V. Verjaehrung
-Zur Hemmung der Verjaehrung bitten wir um eine
-Verjaehrungsverzichtserklaerung bis [Datum + 12 Monate].
+V. Verjährung
+Zur Hemmung der Verjährung bitten wir um eine
+Verjährungsverzichtserklaerung bis [Datum + 12 Monate].
 
 Anlagen:
 - Behandlungsdokumentation

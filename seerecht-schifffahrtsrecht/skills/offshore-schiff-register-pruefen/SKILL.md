@@ -1,13 +1,13 @@
 ---
 name: offshore-schiff-register-pruefen
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prueft Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prueft Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Offshore-Schiff – Registerprüfung
 
 ## Arbeitsbereich
 
-Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prueft Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prueft Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,10 +18,10 @@ Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren p
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine finanzierende Bank prueft den Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten vor Auszahlung eines Kredits fuer ein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste fuer die Masse.
+Eine finanzierende Bank prueft den Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten vor Auszahlung eines Kredits für ein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste für die Masse.
 
 ## Erste Schritte
-1. Aktuellen Registerauszug (Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten) beim zustaendigen Gericht beschaffen.
+1. Aktuellen Registerauszug (Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten) beim zuständigen Gericht beschaffen.
 2. Eigentuemerstellung (Abt. I) pruefen; Verkaeufereigenschaft bestaetigen.
 3. Hypothekenabteilung (Abt. II): Betrag, Rang, Glaeubiger und Faelligkeit.
 4. Gesetzliche Vorrechte identifizieren (HGB §§ 596-601 oder BinSchG §§ 102-116).
@@ -40,7 +40,7 @@ Eine finanzierende Bank prueft den Seeschiffsregister; Bahamas/Isle of Man fuer 
 
 ## Typische Fallstricke
 - Gesetzliche Vorrechte (Crew-Löhne, Hafengebühren) entstehen ohne Registereintragung.
-- Voreintragungspflicht: Veräußerer muss im Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten eingetragen sein.
+- Voreintragungspflicht: Veräußerer muss im Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten eingetragen sein.
 - Bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender unter Auslandsflagge gilt Lex registri des Flaggenstaats.
 
 ## Output

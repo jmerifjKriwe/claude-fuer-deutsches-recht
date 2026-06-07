@@ -66,16 +66,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Schnittstellen
 
-- **`stb-`-Skills im selben Plugin** fuer Steuerberater-spezifische Workflows (BWA-/SuSa-/Bilanzpruefung, Liquiditaetsvorschau).
+- **`stb-`-Skills im selben Plugin** für Steuerberater-spezifische Workflows (BWA-/SuSa-/Bilanzpruefung, Liquiditaetsvorschau).
 - **`kanzlei-allgemein`** für Fristen, Versand, Aktenführung.
 - **`fachanwalt-handels-gesellschaftsrecht`** bei Tax-Aspekten der Unternehmensberatung.
 - **`fachanwalt-insolvenz-sanierungsrecht`** bei Steuerforderungen in der Insolvenz.
 
 ## Anhang — FAO-Voraussetzungen (§ 9 FAO)
 
-Nur relevant fuer den Erwerb des Fachanwaltstitels "Fachanwalt fuer Steuerrecht":
+Nur relevant für den Erwerb des Fachanwaltstitels "Fachanwalt für Steuerrecht":
 
 - Lehrgang 120 Stunden + drei Klausuren.
 - 50 Faelle in den letzten drei Jahren aus dem Steuerrecht, davon Bezug zu mindestens drei der in § 9 Nr. 1 bis 3 FAO genannten Bereiche und zu allen drei Bereichen in der Falldokumentation; mindestens fuenf rechtsfoermliche Verfahren vor Finanzgerichten oder vergleichbare Verfahren.
 
-Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skills in diesem Plugin (`anw-*`) sind sowohl fuer Fachanwaeltinnen/Fachanwaelte als auch fuer alle anderen Anwaeltinnen/Anwaelte im Steuerrecht gleichermassen nutzbar.
+Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skills in diesem Plugin (`anw-*`) sind sowohl für Fachanwaeltinnen/Fachanwaelte als auch für alle anderen Anwaeltinnen/Anwaelte im Steuerrecht gleichermassen nutzbar.

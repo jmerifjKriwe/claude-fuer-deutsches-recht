@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-screening-tool-validierung
-description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design fuer SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatorischen Mindestanforderungen erfuellt. Output: Validierungsbericht mit Gap-Analyse im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design für SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatorischen Mindestanforderungen erfuellt. Output: Validierungsbericht mit Gap-Analyse im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Screening-Tool-Validierung: Trefferqualitaet und Audit-Readiness
 
 ## Arbeitsbereich
 
-Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design fuer SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatorischen Mindestanforderungen erfuellt. Output: Validierungsbericht mit Gap-Analyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design für SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatorischen Mindestanforderungen erfuellt. Output: Validierungsbericht mit Gap-Analyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -37,8 +37,8 @@ Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Desig
 - **Art. 2 VO (EU) 2016/679 (DSGVO)**: Datenschutzanforderungen beim Verarbeiten von Personendaten im Screening.
 - **OFAC Sanctions Compliance Guidance (2019)**: Empfehlungen zur Screening-Tool-Kalibrierung.
 - **BaFin Rundschreiben 08/2021 (GW)**: Mindestanforderungen an Transaktionsmonitoring und Screening.
-- **AWV § 24**: Aufbewahrungspflichten fuer Screening-Ergebnisse.
-- **Art. 20 VO (EU) 2021/821**: Aufzeichnungspflichten fuer Exportkontrollentscheidungen.
+- **AWV § 24**: Aufbewahrungspflichten für Screening-Ergebnisse.
+- **Art. 20 VO (EU) 2021/821**: Aufzeichnungspflichten für Exportkontrollentscheidungen.
 
 ## Pruef-Raster
 
@@ -47,7 +47,7 @@ Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Desig
 - [ ] False-Negative-Test mit bekannten Listentreffer durchgefuehrt?
 - [ ] Fuzzy-Match-Schwellenwert kalibriert und begruendet?
 - [ ] Update-Frequenz der Listendatenbank ausreichend?
-- [ ] Audit-Dokumentation fuer BAFA-/BaFin-Pruefung vorhanden?
+- [ ] Audit-Dokumentation für BAFA-/BaFin-Pruefung vorhanden?
 
 ## Typische Fallstricke
 
@@ -60,7 +60,7 @@ Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Desig
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Validierungsbericht mit Testfall-Protokoll, False-Positive/Negative-Rate, Schwachstellen-Liste, Empfehlungen zur Schwellenwert-Kalibrierung und Gap-Analyse fuer Audit.
+Validierungsbericht mit Testfall-Protokoll, False-Positive/Negative-Rate, Schwachstellen-Liste, Empfehlungen zur Schwellenwert-Kalibrierung und Gap-Analyse für Audit.
 
 ## Quellen
 

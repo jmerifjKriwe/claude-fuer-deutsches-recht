@@ -1,11 +1,11 @@
 ---
 name: mahnverfahren-beweislast-darlegungslast
-description: "Beweislast und Darlegungslast in Mahnverfahren und Klage: Klaeger traegt Darlegungs- und Beweislast fuer anspruchsbegruendende Tatsachen. Substantiierungspflicht § 138 ZPO, Wahrheitspflicht, Bestreiten mit Nichtwissen § 138 Abs. 4 ZPO. Sekundaere Darlegungslast bei Wissensvorsprung Bekl. Output: Beweisaufgabe je Sachverhaltspunkt."
+description: "Beweislast und Darlegungslast in Mahnverfahren und Klage: Klaeger traegt Darlegungs- und Beweislast für anspruchsbegruendende Tatsachen. Substantiierungspflicht § 138 ZPO, Wahrheitspflicht, Bestreiten mit Nichtwissen § 138 Abs. 4 ZPO. Sekundaere Darlegungslast bei Wissensvorsprung Bekl. Output: Beweisaufgabe je Sachverhaltspunkt."
 ---
 
 # Beweislast und Darlegungslast
 
-Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. Erfolgskritisch fuer Klage und Verteidigung.
+Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. Erfolgskritisch für Klage und Verteidigung.
 
 ## Grundregeln
 
@@ -19,7 +19,7 @@ Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. E
 
 ## Verteilung der Beweislast
 
-**Grundsatz** (BGH IX ZR 12/86): Jede Partei traegt die Beweislast fuer die Tatsachen, aus denen sich die fuer sie guenstige Rechtsfolge ergibt.
+**Grundsatz** (BGH IX ZR 12/86): Jede Partei traegt die Beweislast für die Tatsachen, aus denen sich die für sie guenstige Rechtsfolge ergibt.
 
 ### Beim Klaeger (anspruchsbegruendende Tatsachen)
 
@@ -40,7 +40,7 @@ Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. E
 | Aufrechnung § 387 BGB | Gegenforderung, Aufrechnungslage, Erklaerung |
 | Stundung | Stundungsvereinbarung |
 | Erlass § 397 BGB | Erlassvertrag |
-| Verjaehrung § 214 BGB | Verjaehrungsdaten, fehlende Hemmung |
+| Verjährung § 214 BGB | Verjährungsdaten, fehlende Hemmung |
 | Schlechtleistung § 280 BGB | Mangel, Frist, Schaden |
 | AGB-Unwirksamkeit | Vereinbarung, Inhaltswidrigkeit § 305 ff. BGB |
 | Sittenwidrigkeit § 138 BGB | sittenwidrige Umstaende |
@@ -56,7 +56,7 @@ Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. E
 
 ## Sekundaere Darlegungslast (BGH-Doktrin)
 
-Wenn Klaeger ausserhalb des fuer ihn beweisbaren Bereichs steht und der Beklagte naehere Kenntnis hat, trifft den Beklagten eine **sekundaere Darlegungslast** (konkrete Darlegung, ggf. Belege).
+Wenn Klaeger ausserhalb des für ihn beweisbaren Bereichs steht und der Beklagte naehere Kenntnis hat, trifft den Beklagten eine **sekundaere Darlegungslast** (konkrete Darlegung, ggf. Belege).
 
 **Beispiele:**
 - Arbeitnehmer klagt Vergueetung → AG legt Stundenaufzeichnung vor.
@@ -67,7 +67,7 @@ Wenn Klaeger ausserhalb des fuer ihn beweisbaren Bereichs steht und der Beklagte
 
 | Anforderung | Beispiel |
 |---|---|
-| Schluessigkeit | "Verkauf Maschine X am 15.04.2024 fuer 12.000 EUR, geliefert 20.04., Rechnung 22.04." |
+| Schluessigkeit | "Verkauf Maschine X am 15.04.2024 für 12.000 EUR, geliefert 20.04., Rechnung 22.04." |
 | Erheblichkeit | reicht aus, wenn schluessig zur Begruendung des Anspruchs |
 | Bestreiten konkret | "Vertragsschluss bestritten, weil ich nie unterschrieb" |
 | Bestreiten ins Blaue hinein | unzulaessig |
@@ -123,7 +123,7 @@ Bei Aufnahme eines Falles erstellen:
 | Verzug | Klaeger | Mahnung K4 mit Zugang |
 | Hoehe Schaden Inkassokosten | Klaeger | Anwaltsrechnung K6 |
 | Erfuellung durch Bekl. | Beklagter | Kontoauszug |
-| Verjaehrung | Beklagter | Datum Forderungsbeginn |
+| Verjährung | Beklagter | Datum Forderungsbeginn |
 
 ## Typische Fehler
 

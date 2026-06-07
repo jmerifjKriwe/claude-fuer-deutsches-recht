@@ -1,13 +1,13 @@
 ---
 name: amtssprache-entschluesseln-anhoerung
-description: "Hilft bei Amtssprache Entschluesseln fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Amtssprache Entschluesseln für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Amtssprache Entschluesseln
 
 ## Arbeitsbereich
 
-Hilft bei Amtssprache Entschluesseln fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Amtssprache Entschluesseln für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -24,15 +24,15 @@ Dieser Skill unterstuetzt bei **Amtssprache Entschluesseln**, wenn deutsche Allt
 ## Start
 
 - Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
 - Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Arbeitsweise
 
 1. Schwierige Woerter markieren und kurz erklaeren.
 2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
-3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
+3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Rücknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
 4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
 5. Bei Unsicherheit genau eine Rueckfrage stellen.
 
@@ -68,13 +68,13 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 | **Widerspruch** | Sie sagen: "Nein, ich bin nicht einverstanden." | Frist meist 1 Monat (§ 70 VwGO). Schriftlich oder zur Niederschrift. |
 | **Klage** | Sie gehen vor Gericht. | Klagefrist meist 1 Monat (§ 74 VwGO). |
 | **Mahnbescheid** | Vorstufe zur Zwangsvollstreckung. | 2 Wochen Widerspruch (§ 692 ZPO), sonst Vollstreckungsbescheid. |
-| **Vollziehung** | Behoerde fuehrt Entscheidung aus. | Antrag auf aufschiebende Wirkung (§ 80 V VwGO) erwaegen. |
+| **Vollziehung** | Behörde fuehrt Entscheidung aus. | Antrag auf aufschiebende Wirkung (§ 80 V VwGO) erwaegen. |
 
 ## Sprachebene waehlen
 
 - **Einfache Sprache:** kurze Saetze, aktive Verben, ein Gedanke pro Satz. Beispiel: "Sie muessen bis 30. Juni zahlen."
-- **Leichte Sprache:** noch einfacher; Regeln nach DIN SPEC 33429. Eher fuer Personen mit kognitiver Einschraenkung.
-- **Behoerdensprache hoeflich-formal:** "Sehr geehrte Damen und Herren, mit Schreiben vom .. teilen Sie mit ... Hierzu nehme ich wie folgt Stellung: ..."
+- **Leichte Sprache:** noch einfacher; Regeln nach DIN SPEC 33429. Eher für Personen mit kognitiver Einschraenkung.
+- **Behördensprache hoeflich-formal:** "Sehr geehrte Damen und Herren, mit Schreiben vom .. teilen Sie mit ... Hierzu nehme ich wie folgt Stellung: ..."
 - Tipp: Mehrdeutige Formulierungen vermeiden ("erforderlichenfalls" → "wenn noetig"; "Sachverhalt" → "Geschehen").
 
 ## Qualitäts-Hardening

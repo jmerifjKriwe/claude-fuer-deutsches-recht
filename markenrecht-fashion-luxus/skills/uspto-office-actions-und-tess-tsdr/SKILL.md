@@ -166,7 +166,7 @@ Whitman Brennan Forsythe LLP
 Bevor die Response verfasst wird, klaere:
 1. Wie lange ist die Antwortfrist (6 Monate ab Mail-Date — verlängerbar gegen Gebuehr)?
 2. Basiert die Zuerueckweisung auf § 2(d) (Likelihood of Confusion) oder § 2(e)(1) (Mere Descriptiveness) oder beides?
-3. Ist die Zitiermarke in TESS noch live und im relevanten Klassensegment aktiv (Basis fuer DuPont-Analyse)?
+3. Ist die Zitiermarke in TESS noch live und im relevanten Klassensegment aktiv (Basis für DuPont-Analyse)?
 4. Gibt es Prosecution History Estoppel-Risiken bei geplanten Warenverzeichnis-Einschraenkungen?
 
 ## Aktuelle Rechtsprechung (US)

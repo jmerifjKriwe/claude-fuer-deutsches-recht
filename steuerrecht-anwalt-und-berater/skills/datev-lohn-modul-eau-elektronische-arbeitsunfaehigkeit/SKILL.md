@@ -27,7 +27,7 @@ DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt
 
 ## Kernsachverhalt
 
-DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-System; haeufiger in Steuerberater-Buros) und Lohn und Gehalt (LUG; vorwiegend bei Mandanten selbst). Beide Programme decken Lohnabrechnung, SV-Meldungen, ELStAM, ELSTER, Jahresmeldungen ab. Der Steuerberater waehlt das passende System fuer die Mandantenstruktur und konfiguriert die Schnittstellen.
+DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-System; haeufiger in Steuerberater-Buros) und Lohn und Gehalt (LUG; vorwiegend bei Mandanten selbst). Beide Programme decken Lohnabrechnung, SV-Meldungen, ELStAM, ELSTER, Jahresmeldungen ab. Der Steuerberater waehlt das passende System für die Mandantenstruktur und konfiguriert die Schnittstellen.
 
 ## Kaltstart-Rueckfragen
 
@@ -97,8 +97,8 @@ DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-Sy
 
 ## Strategie und Praxis-Tipps
 
-- LODAS ist Standard fuer StB-Kanzleien — multimandantenfaehig.
-- Lohn und Gehalt fuer Mandanten, die selbst Loehne abrechnen, aber StB-Schnittstelle wuenschen.
+- LODAS ist Standard für StB-Kanzleien — multimandantenfaehig.
+- Lohn und Gehalt für Mandanten, die selbst Loehne abrechnen, aber StB-Schnittstelle wuenschen.
 - Schulungen DATEV-Akademie jaehrlich empfehlenswert.
 - Bei Aenderungen am ELStAM-Verfahren: Updates zwingend.
 

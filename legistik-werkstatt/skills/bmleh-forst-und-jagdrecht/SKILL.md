@@ -1,11 +1,11 @@
 ---
 name: bmleh-forst-und-jagdrecht
-description: "Sachbereich Forst- und Jagdrecht im Geschaeftsbereich BMLEH: Normbestand (BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.); Akteure (BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.); EU-Bezug (EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung)."
+description: "Sachbereich Forst- und Jagdrecht im Geschaeftsbereich BMLEH: Normbestand (BWaldG; BJagdG; LJagdGes der Länder; FleischhygieneG; ForstWG.); Akteure (BLE; Länder-Forstaemter und Jagdbehoerden; BMLEH.); EU-Bezug (EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung)."
 ---
 
 # Forst- und Jagdrecht (BMLEH)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Forst- und Jagdrecht im Geschaeftsbereich BMLEH. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Forst- und Jagdrecht im Geschaeftsbereich BMLEH. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -16,15 +16,15 @@ description: "Sachbereich Forst- und Jagdrecht im Geschaeftsbereich BMLEH: Normb
 
 ## Normbestand
 
-Kernbestand des Sachfelds: BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.
+Kernbestand des Sachfelds: BWaldG; BJagdG; LJagdGes der Länder; FleischhygieneG; ForstWG.
 
 Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
-BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.
+BLE; Länder-Forstaemter und Jagdbehoerden; BMLEH.
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -36,7 +36,7 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 Bewirtschaftung; Schutz vor Wildschaeden; Jagdrechte und -Pachten; Holzhandel; EUDR-Umsetzung.
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -52,6 +52,23 @@ Foederale Kompetenz; Bockschwund; EUDR-Sorgfaltspflichten.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Sachfeld-Kompass:
@@ -59,8 +76,8 @@ Sachfeld-Kompass:
 ```
 Sachfeld: Forst- und Jagdrecht
 Ressort: BMLEH
-Kernnormen: BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.
-Akteure/Aufsicht: BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.
+Kernnormen: BWaldG; BJagdG; LJagdGes der Länder; FleischhygieneG; ForstWG.
+Akteure/Aufsicht: BLE; Länder-Forstaemter und Jagdbehoerden; BMLEH.
 EU/Voelkerrecht: EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.
 Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
 Stolpersteine: <Sachfeld-spezifisch>
@@ -75,7 +92,7 @@ Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

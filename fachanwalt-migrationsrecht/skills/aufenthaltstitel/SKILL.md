@@ -1,20 +1,20 @@
 ---
 name: aufenthaltstitel
-description: "Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Erteilung oder Verlaengerung eines, Mandant erhielt Ausweisungsverfuegung und will Widerspruch, Anwalt bereitet Behoerdenkommunikation BAMF-Anhoerung oder, Antrag auf Einbuergerung nach StAG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Erteilung oder Verlaengerung eines, Mandant erhielt Ausweisungsverfuegung und will Widerspruch, Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder, Antrag auf Einbuergerung nach StAG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Aufenthaltstitel
 
 ## Arbeitsbereich
 
-**Aufenthaltstitel** ordnet den Fall über die tragenden Prüfungslinien: Antrag auf Erteilung oder Verlaengerung eines, Mandant erhielt Ausweisungsverfuegung und will Widerspruch, Anwalt bereitet Behoerdenkommunikation BAMF-Anhoerung oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Aufenthaltstitel** ordnet den Fall über die tragenden Prüfungslinien: Antrag auf Erteilung oder Verlaengerung eines, Mandant erhielt Ausweisungsverfuegung und will Widerspruch, Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-migrationsrecht-aufenthaltstitel-antrag` | Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Auslaenderbehoerde. Typen § 4 AufenthG Visum Aufenthaltserlaubnis Niederlassungserlaubnis Erlaubnis zum Daueraufenthalt-EU Blaue Karte EU. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt geklaerte Identität kein Ausweisungsinteresse. Verlaengerung § 8 AufenthG. Fiktionswirkung § 81 Abs. 4 AufenthG bei rechtzeitiger Antragstellung. |
 | `fachanwalt-migrationsrecht-ausweisung-widerspruch` | Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Prüfraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Prüfung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung. |
-| `fachanwalt-migrationsrecht-bamf-anhoerung-strategie` | Anwalt bereitet Behoerdenkommunikation BAMF-Anhoerung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhoerungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhoerungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behoerdenkorrespondenz-Muster Anhoerungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst. |
+| `fachanwalt-migrationsrecht-bamf-anhoerung-strategie` | Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhörungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhörungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behördenkorrespondenz-Muster Anhörungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst. |
 | `fachanwalt-migrationsrecht-einbuergerung` | Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmäßiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsaetzlich zulässig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untätigkeitsklage § 75 VwGO. |
 
 ## Arbeitsweg
@@ -44,7 +44,7 @@ description: "Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Ert
 8. Bei Verlängerungsantrag: Wurde der Antrag vor Ablauf der Geltungsdauer gestellt, um Fiktionswirkung § 81 Abs. 4 AufenthG zu sichern?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -347,7 +347,7 @@ Auslaenderbehoerde [ORT / LANDKREIS]
 [ADRESSE]
 
 Re: Antrag auf [Erteilung / Verlaengerung] Aufenthaltstitel
- fuer: [NAME, geb. DATUM, Staatsang., AKZ Auslaenderbehoerde falls vorhanden]
+ für: [NAME, geb. DATUM, Staatsang., AKZ Auslaenderbehoerde falls vorhanden]
 
 Sehr geehrte Damen und Herren,
 
@@ -401,7 +401,7 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 4. Wohndauer Deutschland?
 5. Heimatland-Bezüge?
 6. Strafverfahren parallel?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## 2) Drei-Stufen-Prüfung § 53 AufenthG (seit 2016)
 
@@ -445,7 +445,7 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 
 ### Daueraufenthaltsrecht EU § 9a AufenthG
 
-- Verstaerkter Schutz nach 5 Jahren rechtmaessigem Aufenthalt
+- Verstaerkter Schutz nach 5 Jahren rechtmäßigem Aufenthalt
 - Ausweisung nur bei besonders schwerwiegenden Gründen
 
 ### Türkische Staatsangehörige ARB 1/80
@@ -625,7 +625,7 @@ Eilantrag nach § 80 Abs. 5 VwGO beim VG [ORT] eingereicht.
 
 ## 3. `fachanwalt-migrationsrecht-bamf-anhoerung-strategie`
 
-**Fokus:** Anwalt bereitet Behoerdenkommunikation BAMF-Anhoerung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhoerungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhoerungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behoerdenkorrespondenz-Muster Anhoerungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst.
+**Fokus:** Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhörungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhörungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behördenkorrespondenz-Muster Anhörungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst.
 
 # BAMF-Anhörung / Ausländerbehörde-Kommunikation
 
@@ -741,12 +741,12 @@ Stand: 05/2026. AsylG, AufenthG. GEAS-Reform ab 12.6.2026 wirksam.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Normen-Kette BAMF-Anhoerung
+## Normen-Kette BAMF-Anhörung
 
-- **§§ 13–25 AsylG** — Asylantrag und Anhoerungsverfahren; § 25 Abs. 6 AsylG — Beistand
+- **§§ 13–25 AsylG** — Asylantrag und Anhörungsverfahren; § 25 Abs. 6 AsylG — Beistand
 - **§ 24 VwVfG** — Amtsermittlungsgrundsatz; § 28 VwVfG — rechtliches Gehoer
 - **Art. 4 Qualifikations-RL 2011/95** — Pruefung von Tatsachen und Umstaenden; Glaubwuerdigkeitspruefung
-- **Art. 15 Verfahrens-RL 2013/32** — Garantien fuer Antragsteller; Recht auf Anhörungsprotokoll
+- **Art. 15 Verfahrens-RL 2013/32** — Garantien für Antragsteller; Recht auf Anhörungsprotokoll
 - **§ 36 AsylG** — beschleunigtes Verfahren mit 1-Wochen-Klagefrist
 - **§ 74 Abs. 1 AsylG** — Klagefrist zwei Wochen (Standardbescheid), eine Woche (§ 36 AsylG)
 
@@ -758,10 +758,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Bevor losgelegt wird, klaere:
 1. War bereits eine Erstanhoerung — welche Abweichungen drohen zur Zweitanhoerung?
 2. Bestehen Traumatisierungen, Behinderungen oder sprachliche Barrieren, die Sonderregelungen auslösen?
-3. Liegt das Anhoerungsprotokoll der Erstanhoerung vor — Konsistenz pruefen?
+3. Liegt das Anhörungsprotokoll der Erstanhoerung vor — Konsistenz pruefen?
 4. Welche Sprache des Dolmetschers ist am naechsten zur Muttersprache des Mandanten?
 5. Frist: § 36 AsylG (1 Woche) oder § 74 AsylG (2 Wochen) nach zu erwartendem Bescheid?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -769,15 +769,15 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — BAMF-Anhoerung Strategie vorbereiten | Stellungnahme nach Anhoerung; Template unten |
-| Variante A — Anhoerung ohne Anwalt stattgefunden | Ruege der Verfahrensverletzung; Wiederholungsanhoerung beantragen |
+| Standard — BAMF-Anhörung Strategie vorbereiten | Stellungnahme nach Anhörung; Template unten |
+| Variante A — Anhörung ohne Anwalt stattgefunden | Ruege der Verfahrensverletzung; Wiederholungsanhoerung beantragen |
 | Variante B — Dolmetscher-Problem | Ruege Uebersetzungsfehler; qualifizierter Dolmetscher |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Output-Template: Stellungnahme nach BAMF-Anhoerung
+## Output-Template: Stellungnahme nach BAMF-Anhörung
 
-**Adressat:** Bundesamt fuer Migration und Fluechtlinge (BAMF)
+**Adressat:** Bundesamt für Migration und Fluechtlinge (BAMF)
 **Tonfall:** Sachlich-verfahrensrechtlich; Schutzklaerung; Korrekturen Protokoll
 
 ```
@@ -785,13 +785,13 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 [ADRESSE]
 Telefon: [TEL]
 
-Bundesamt fuer Migration und Fluechtlinge
+Bundesamt für Migration und Fluechtlinge
 [Referat / Aussenstelle]
 [ADRESSE]
 
 Re: Asylverfahren [NAME, geb. DATUM, Staatsang.]
  BAMF-Aktenzeichen: [AZ]
- Anhoerung am: [DATUM]
+ Anhörung am: [DATUM]
 
 Sehr geehrte Damen und Herren,
 
@@ -805,13 +805,13 @@ in die Akte.
 
 II. ERGAENZENDE VERFOLGUNGSSCHILDERUNG
 Der Antragsteller war aus folgenden Gruenden nicht in der Lage, bei der
-Anhoerung vollstaendig zu schildern: [Trauma / Sprachprobleme / Zeitdruck].
+Anhörung vollstaendig zu schildern: [Trauma / Sprachprobleme / Zeitdruck].
 Erganzt wird:
 - [Sachverhaltspunkt 1 mit Beleg Anlage K1]
 - [Sachverhaltspunkt 2]
 
 III. LAENDEKUNDLICHE BELEGE
-[Bericht Auswärtiges Amt / UNHCR / Laenderbericht EASO]
+[Bericht Auswärtiges Amt / UNHCR / Länderbericht EASO]
 
 IV. BITTE UM SCHUTZZUERKENNUNG
 Gemaess §§ 3 ff. AsylG / § 4 AsylG / § 60 Abs. 5/7 AufenthG wird gebeten,
@@ -850,7 +850,7 @@ die Formulierung bleibt unveraendert.
 6. Soll die bisherige Staatsangehörigkeit beibehalten werden (Mehrstaatigkeit — nach StAG-Reform 27.06.2024 grundsätzlich zulässig § 12 StAG n. F.)?
 7. Liegt besondere Integrationsleistung vor — Ehrenamt, herausragende berufliche Leistungen, die eine Verkürzung auf vier oder drei Jahre ermöglichen?
 8. Ist der Mandant verheiratet mit einer deutschen Staatsangehörigen — dann § 9 StAG (drei Jahre Aufenthalt, zwei Jahre Ehe)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -916,7 +916,7 @@ den deutschen Staatsverband.
 I. Begründung
 
 1. Aufenthaltsdauer
- Rechtmaessiger gewoehnlicher Aufenthalt seit [Datum] —
+ Rechtmäßiger gewoehnlicher Aufenthalt seit [Datum] —
  Dauer [X Jahre Y Monate] (Anlage K1: AZR-Auskunft).
 
 2. Aufenthaltstitel
@@ -925,7 +925,7 @@ I. Begründung
 
 3. Lebensunterhalt
  Erwerbstaetigkeit als [Beruf] bei [Arbeitgeber],
- Bruttomonatseinkommen EUR [Betrag]; keine oeffentlichen
+ Bruttomonatseinkommen EUR [Betrag]; keine öffentlichen
  Leistungen in den letzten 24 Monaten
  (Anlage K3-K5: Gehaltsabrechnungen; Steuerbescheide).
 
@@ -1064,7 +1064,7 @@ Hiermit beantragen wir die Einbuergerung des o.g. Mandanten gemaess
 § [10 / 9 / 8] StAG.
 
 I. VORAUSSETZUNGEN (§ 10 StAG)
-a) Aufenthaltsdauer: Rechtmaessiger Aufenthalt seit [DATUM] = [X] Jahre
+a) Aufenthaltsdauer: Rechtmäßiger Aufenthalt seit [DATUM] = [X] Jahre
  (Nachweis: Aufenthaltstitel-Uebersicht Anlage 2).
 b) Aufenthaltstitel: [NE / DA-EU / unbefristete AE] Anlage 3.
 c) Bekenntnis fdGO: Unterschriebene Erklaerung Anlage 4.
@@ -1085,7 +1085,7 @@ III. ANLAGEN (Checkliste)
 1. Vollmacht Kanzlei
 2. Aufenthaltstitel-Uebersicht (alle Titel seit Einreise)
 3. Aktueller Aufenthaltstitel
-4. fdGO-Bekenntnis (ausgefuelltes Formular Behoerde)
+4. fdGO-Bekenntnis (ausgefuelltes Formular Behörde)
 5. Einkommensnachweise (letzte 3 Monate), Steuerbescheide
 6. Fuehrungszeugnis (aktuell, hoechstens 3 Monate alt)
 7. Sprachzertifikat B1

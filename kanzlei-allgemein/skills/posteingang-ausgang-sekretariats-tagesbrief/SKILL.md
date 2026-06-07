@@ -28,7 +28,7 @@ Postein- und Postausgangsbuch führen. Posteingang erfasst Empfangstag (relevant
 
 ## Zentrale Normen
 - §§ 187-188 BGB i.V.m. § 222 ZPO — Fristbeginn bei Zustellung
-- Art. 7 PostModG — Vier-Tages-Zustellungsfiktion fuer Postsendungen ab 01.01.2025
+- Art. 7 PostModG — Vier-Tages-Zustellungsfiktion für Postsendungen ab 01.01.2025
 - § 173 ZPO — beA-Zustellungszeitpunkt: Eingang im Empfangspostfach
 - § 51 BRAO — Haftung bei fehlerhafter oder fehlender Postbuchdokumentation
 
@@ -47,7 +47,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
  art: urteil # urteil / beschluss / verfügung / mandantenbrief / behörden-bescheid / sonstiges
  mandat-az: 2026/0042
  betreff: Klage gg. ABC GmbH
- zustaendigkeit: RA Mueller
+ zuständigkeit: RA Mueller
  fristfolge: berufungsfrist
  fristtermin: 2026-06-20
  aktion: an-fristenbuch

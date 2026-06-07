@@ -51,7 +51,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ### Subsumtionsbeispiel: Pferdekauf 1830, Pferd lahmt nach drei Wochen
 Sachverhalt: Kaeufer kauft Pferd; nach 3 Wochen Lahmen festgestellt; vermutlich vor Kauf bereits krank.
-ALR-Loesung: ALR I 11 §§ 116-180 — aedilizische Aktion. Bei verborgenem Mangel Wahlrecht: actio redhibitoria (Wandlung, Rueckgaengigmachung) oder actio quanti minoris (Minderung). 6 Monate Frist fuer Vieh-Mangelruege (kurzer Frist nach roemischer Tradition). Beweislast Kaeufer fuer Vor-Verkaufsbedingung.
+ALR-Loesung: ALR I 11 §§ 116-180 — aedilizische Aktion. Bei verborgenem Mangel Wahlrecht: actio redhibitoria (Wandlung, Rueckgaengigmachung) oder actio quanti minoris (Minderung). 6 Monate Frist für Vieh-Mangelruege (kurzer Frist nach roemischer Tradition). Beweislast Kaeufer für Vor-Verkaufsbedingung.
 
 ### Subsumtionsbeispiel: Kauf bricht nicht Miete (alt-roemisch)
 Sachverhalt: Mietshaus verkauft mit laufenden Mietern.

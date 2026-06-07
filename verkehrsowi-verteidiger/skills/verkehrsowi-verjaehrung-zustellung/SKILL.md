@@ -20,17 +20,17 @@ Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand
 ## Triage zu Beginn
 
 1. **Wann war das angebliche Tatdatum?** — Verjaerunsfrist laeuft ab Tatende.
-2. **Frist bei § 24 StVG / § 26a StVG?** — § 26 Abs. 3 StVG: 3 Monate Verjaerunsfrist fuer einfache Verkehrs-OWi.
-3. **Unterbrechungshandlungen geprueft?** — § 33 OWiG: Anhoerung des Betroffenen, Bussgeldbescheid, Eingang Einspruch — unterbrechen Verjaehrung.
-4. **Absolute Verjaehrung?** — § 33 Abs. 3 OWiG: absolute Verjaehrung = doppelte ordentliche Frist (bei 3-Monats-Frist: 6 Monate).
-5. **Zustellungsfehler moeglich?** — Fehlerhafte Zustellung unterbricht die Verjaehrung nicht; Bescheid gilt als nicht zugestellt.
+2. **Frist bei § 24 StVG / § 26a StVG?** — § 26 Abs. 3 StVG: 3 Monate Verjaerunsfrist für einfache Verkehrs-OWi.
+3. **Unterbrechungshandlungen geprueft?** — § 33 OWiG: Anhörung des Betroffenen, Bussgeldbescheid, Eingang Einspruch — unterbrechen Verjährung.
+4. **Absolute Verjährung?** — § 33 Abs. 3 OWiG: absolute Verjährung = doppelte ordentliche Frist (bei 3-Monats-Frist: 6 Monate).
+5. **Zustellungsfehler moeglich?** — Fehlerhafte Zustellung unterbricht die Verjährung nicht; Bescheid gilt als nicht zugestellt.
 
 ## Zentrale Normen
 
-- **§ 31 OWiG** — Verfolgungsverjaehrung im OWi-Verfahren (allgemein); Grundfrist 3 Jahre fuer alle OWi
+- **§ 31 OWiG** — Verfolgungsverjaehrung im OWi-Verfahren (allgemein); Grundfrist 3 Jahre für alle OWi
 - **§ 26 Abs. 3 StVG** — Verkehrs-OWi: 3 Monate Verjaerunsfrist ab Tatende (abgekuerzt gegenueber § 31 OWiG)
-- **§ 33 OWiG** — Unterbrechungshandlungen: Anhoerung, Bussgeldbescheid, Einspruch, Hauptverhandlungstermin
-- **§ 33 Abs. 3 OWiG** — Absolute Verjaehrung: Doppelte ordentliche Frist; faengt nach jeder Unterbrechung neu an, aber nie nach absoluter Frist
+- **§ 33 OWiG** — Unterbrechungshandlungen: Anhörung, Bussgeldbescheid, Einspruch, Hauptverhandlungstermin
+- **§ 33 Abs. 3 OWiG** — Absolute Verjährung: Doppelte ordentliche Frist; faengt nach jeder Unterbrechung neu an, aber nie nach absoluter Frist
 - **§ 28 OWiG** — Bekanntgabe des Bussgeldbescheids; fehlerhafte Bekanntgabe = keine Unterbrechung
 - **§ 33 OWiG i.V.m. §§ 177-182 ZPO** — Zustellungsvorschriften
 
@@ -45,17 +45,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 1. Tatdatum: [DATUM]
-2. Verjaehrungsfrist:
+2. Verjährungsfrist:
  - Verkehrs-OWi § 26 Abs. 3 StVG: 3 Monate
  - Andere OWi § 31 OWiG: 3 Jahre
 3. Erste Verjaerungs-Deadline: Tatdatum + [Frist]
 4. Unterbrechungshandlungen nach § 33 OWiG:
- - Anhoerungsschreiben: Datum + Zustellungsnachweis?
+ - Anhörungsschreiben: Datum + Zustellungsnachweis?
  - Bussgeldbescheid: Datum + Zustellungsnachweis?
 5. Neue Verjaerungs-Deadline nach letzter Unterbrechung
-6. Absolute Verjaehrung: Doppelte Grundfrist ab Tatende
+6. Absolute Verjährung: Doppelte Grundfrist ab Tatende
  - Bei 3 Monaten: 6 Monate ab Tatende
-7. Ist absolute Verjaehrung abgelaufen? → Einstellung zwingend!
+7. Ist absolute Verjährung abgelaufen? → Einstellung zwingend!
 ```
 
 ## Zustellungsmaengel als Verteidigung
@@ -69,13 +69,13 @@ Zustellungsform pruefen:
 
 Wenn Zustellungsmangel vorliegt:
 → Unterbrechung nach § 33 OWiG ist NICHT eingetreten
-→ Verjaehrungsfrist lief ununterbrochen weiter
-→ Moegliche Verjaehrung pruefen und Einstellung beantragen
+→ Verjährungsfrist lief ununterbrochen weiter
+→ Moegliche Verjährung pruefen und Einstellung beantragen
 ```
 
 ## Harte Leitplanken
 
-- Verjaehrungseinwand ist Prozesshindernis — von Amts wegen zu beachten, muss aber in der Regel gerueagt werden.
-- Absolute Verjaehrung (§ 33 Abs. 3 OWiG) kann nicht durch neue Unterbrechungen ueberschritten werden.
+- Verjährungseinwand ist Prozesshindernis — von Amts wegen zu beachten, muss aber in der Regel gerueagt werden.
+- Absolute Verjährung (§ 33 Abs. 3 OWiG) kann nicht durch neue Unterbrechungen ueberschritten werden.
 - Zustellungsmangel-Prufung ist Standardbestandteil jedes OWi-Mandats.
 - Anwaltliche Endkontrolle bei Verjaerungs-Berechnung.

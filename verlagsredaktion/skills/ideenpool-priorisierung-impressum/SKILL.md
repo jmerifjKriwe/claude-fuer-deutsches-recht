@@ -1,13 +1,13 @@
 ---
 name: ideenpool-priorisierung-impressum
-description: "Verwaltet einen Ideen-Backlog der Verlagsredaktion mit Priorisierungsmatrix, Zustandskategorien und Eskalationsregeln fuer entscheidungsreife Themen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verwaltet einen Ideen-Backlog der Verlagsredaktion mit Priorisierungsmatrix, Zustandskategorien und Eskalationsregeln für entscheidungsreife Themen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ideenpool und Priorisierung
 
 ## Arbeitsbereich
 
-Verwaltet einen Ideen-Backlog der Verlagsredaktion mit Priorisierungsmatrix, Zustandskategorien und Eskalationsregeln fuer entscheidungsreife Themen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verwaltet einen Ideen-Backlog der Verlagsredaktion mit Priorisierungsmatrix, Zustandskategorien und Eskalationsregeln für entscheidungsreife Themen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -37,7 +37,7 @@ Sie brauchen ihn, wenn keine zentrale Themenverwaltung existiert oder die besteh
 - Beitragsabsagen / Verschiebungen (oft Ideen!).
 - Mandanten- und Leserfeedback.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Backlog-Format festlegen.** Eine Quelle der Wahrheit (Excel-Tabelle reicht). Felder: ID, Titel, Beschreibung in 2 Saetzen, Status, Prioritaet, Owner, Notizen.
 2. **Status-Lebenszyklus.** Roh -> Geprueft -> Entscheidungsreif -> Beauftragt -> In Produktion -> Erschienen -> Abgelehnt.
@@ -52,7 +52,7 @@ Sie brauchen ihn, wenn keine zentrale Themenverwaltung existiert oder die besteh
 | Pfad | A: Lange Liste, lockere Priorisierung | B: Kurze Liste, harte Priorisierung | Empfehlung |
 |------|---------------------------------------|--------------------------------------|------------|
 | Vollstaendigkeit | hoch | niedrig | A bei Fruehrecherche |
-| Handhabbarkeit | gering | hoch | B fuer Heftproduktion |
+| Handhabbarkeit | gering | hoch | B für Heftproduktion |
 | Pflegeaufwand | hoch | mittel | Mischform: getrennt nach Wagenladung und naechsten 6 Monaten |
 
 ## Praxistipps der alten Redaktion
@@ -73,7 +73,7 @@ ID | Titel | Beschreibung | Rechtsgebiet | Quelle | Status | Prioritaet (1-5) | 
 
 **Priorisierungs-Mail-Vorlage:**
 
-> Liebes Redaktionsteam, anbei das aktualisierte Backlog (Stand 02.06.2026, 47 Eintraege). Vorschlag fuer den naechsten Monat: Top 10 Themen sind im Anhang grun markiert (entscheidungsreif), 5 weitere gelb (Pruefauftrag noetig). Bitte bis zur Sitzung am 12.06.2026 Stellungnahme. Backlog-Hygiene-Termin: 30.06.2026.
+> Liebes Redaktionsteam, anbei das aktualisierte Backlog (Stand 02.06.2026, 47 Eintraege). Vorschlag für den naechsten Monat: Top 10 Themen sind im Anhang grun markiert (entscheidungsreif), 5 weitere gelb (Pruefauftrag noetig). Bitte bis zur Sitzung am 12.06.2026 Stellungnahme. Backlog-Hygiene-Termin: 30.06.2026.
 
 **Status-Definition (intern):**
 
@@ -106,6 +106,6 @@ Abgelehnt: Begruendung in Spalte "Notizen"
 ## Quellen Stand 06/2026
 
 - Allgemeine Backlog-/Kanban-Methodik: keine spezifische juristische Quelle erforderlich.
-- Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024 (fuer Backlog-Texte).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016 (fuer Verweisungsdisziplin im Backlog).
+- Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024 (für Backlog-Texte).
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Verweisungsdisziplin im Backlog).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

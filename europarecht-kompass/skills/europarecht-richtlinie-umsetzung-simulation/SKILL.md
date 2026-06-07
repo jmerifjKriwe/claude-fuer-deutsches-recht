@@ -113,5 +113,5 @@ Klage gegen: [Bundesrepublik vor LG Berlin (§ 839 BGB / EU-SH)]
 
 E. VORLAGE EuGH (falls Auslegungsfrage)
 Fragebeschreibung: [...]
-Zustaendiges Gericht fuer Vorlage: [...]
+Zustaendiges Gericht für Vorlage: [...]
 ```

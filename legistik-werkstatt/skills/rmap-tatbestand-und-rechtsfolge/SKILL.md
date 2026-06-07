@@ -1,6 +1,6 @@
 ---
 name: rmap-tatbestand-und-rechtsfolge
-description: "Knotenmodellierung in der Rulemap: jeden Tatbestand als pruefbare Bedingung; jede Rechtsfolge als Aktionsknoten. Konjunktion; Disjunktion; Negation; Schwellenwerte sauber abbilden. Output Tatbestands-Rechtsfolge-Liste mit Knoten-IDs; Datentypen und Pruefnotizen. Anschluss legw-rmap-verweisungen-und-ausnahmen fuer Sonderkonstellationen und legw-rmap-entscheidungsbaum-validierung fuer die Pruefung der Pfade."
+description: "Knotenmodellierung in der Rulemap: jeden Tatbestand als pruefbare Bedingung; jede Rechtsfolge als Aktionsknoten. Konjunktion; Disjunktion; Negation; Schwellenwerte sauber abbilden. Output Tatbestands-Rechtsfolge-Liste mit Knoten-IDs; Datentypen und Pruefnotizen. Anschluss legw-rmap-verweisungen-und-ausnahmen für Sonderkonstellationen und legw-rmap-entscheidungsbaum-validierung für die Pruefung der Pfade."
 ---
 
 # Tatbestand und Rechtsfolge als Knoten modellieren
@@ -28,6 +28,23 @@ Jeder Tatbestand wird zum pruefbaren Bedingungsknoten mit klarem Datentyp (boole
 
 Pruefen: ist jede Voraussetzung als eigener Knoten modelliert? Sind unbestimmte Rechtsbegriffe (zumutbar; angemessen; ueberwiegendes Interesse) entweder konkretisiert oder als gesonderter Beurteilungsknoten markiert?
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 ```
@@ -43,4 +60,4 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 
 ## Quellen Stand 06/2026
 
-Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur fuer Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
+Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.

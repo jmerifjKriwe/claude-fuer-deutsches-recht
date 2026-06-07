@@ -28,7 +28,7 @@ Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training u
 
 ## Zentrale Normen
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch im Simulationsmodus; keine echten Mandatsdaten ohne Anonymisierung
-- Art. 32 DSGVO — TOM: Sicherheitsstandards gelten auch fuer Trainingsumgebungen
+- Art. 32 DSGVO — TOM: Sicherheitsstandards gelten auch für Trainingsumgebungen
 - § 43 BRAO — Fortbildungspflicht des Anwalts: Simulation als anerkanntes Fortbildungsmittel
 - § 26 BDSG — Beschaeftigtendatenschutz: gilt auch bei internem Onboarding mit Simulationsdaten
 

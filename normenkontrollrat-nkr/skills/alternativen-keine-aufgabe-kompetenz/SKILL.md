@@ -37,7 +37,7 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 - **Leitfaden BMI / NKR** — Alternativenpruefung als Standardelement
 - **Better Regulation Guidelines** EU — Options Analysis
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 5-Stufen-Hierarchie (vom mildesten zum staerksten Eingriff)
 
@@ -60,7 +60,7 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 - Alternative "Verzicht" wurde gar nicht erwogen
 - Soft-Law-Alternative nicht erwogen, obwohl moeglich
 - Begruendung der Verwerfung pauschal ("Selbstregulierung hat nicht funktioniert")
-- Keine Aufwand-Schaetzung fuer Alternativen
+- Keine Aufwand-Schaetzung für Alternativen
 - Nur eine Variante des Eingriffs untersucht (kein Vergleich milderer Eingriffstiefen)
 
 ## Trade-off-Matrix
@@ -76,7 +76,7 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Der NKR weist darauf hin, dass eine Alternativenpruefung gemaess § 44 Abs. 1 Nr. 4 GGO unvollstaendig ist. Insbesondere ist nicht erkennbar, ob eine [Alternative: Branchenvereinbarung / Soft-Law / Vollzugsverbesserung] geprueft wurde."
-- "Der NKR begruesst die ressortseitige Pruefung der Alternativen und die transparente Darstellung der Gruende fuer die Wahl der gesetzlichen Regelung."
+- "Der NKR begruesst die ressortseitige Pruefung der Alternativen und die transparente Darstellung der Gruende für die Wahl der gesetzlichen Regelung."
 - "Aus Sicht des NKR ist die Wahl der Eingriffstiefe (gesetzliche Pflicht statt Empfehlung) verhaeltnismaessig, weil [Gruende]."
 - "Eine mildere Alternative waere [Konkretisierung]. Der NKR empfiehlt, diese Alternative im weiteren Verfahren zu pruefen."
 

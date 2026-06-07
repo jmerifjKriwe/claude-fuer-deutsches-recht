@@ -54,11 +54,11 @@ Nach Ihrer Klage und der Klageerwiderung des Beklagten haben Sie meist die Moegl
 - **§ 273 ZPO** — Vorbereitung der Verhandlung.
 - **§ 138 ZPO** — Wahrheit, Vollstaendigkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klageerwiderung pruefen
 
-Lesen Sie Wort fuer Wort:
+Lesen Sie Wort für Wort:
 
 - Welche Tatsachen bestreitet der Beklagte?
 - Welche Einreden erhebt er?
@@ -77,9 +77,9 @@ Wenn Beklagter neue Tatsachen vortraegt — Sie muessen darauf reagieren:
 
 ### Schritt 3 — Auf Einreden reagieren
 
-Wenn Beklagter Verjaehrung einredet:
+Wenn Beklagter Verjährung einredet:
 
-- Verjaehrungs-Berechnung pruefen.
+- Verjährungs-Berechnung pruefen.
 - Hemmung darlegen (Verhandlungen, Mahnbescheid).
 - Neubeginn pruefen (Anerkenntnis).
 
@@ -99,7 +99,7 @@ Wenn Ihre Klage Beweis nicht klar hatte, jetzt ergaenzen:
 ```
 Beweis: Zeugnis des Herrn X,
 [ladungsfaehige Anschrift],
-zum Beweis dafuer, dass ...
+zum Beweis dafür, dass ...
 ```
 
 ### Schritt 5 — Replik strukturieren
@@ -128,7 +128,7 @@ Wuerdigung):
 [Stellungnahme]
 
 Zu III. der Klageerwiderung (Einreden):
-- Verjaehrungs-Einrede: [Erwiderung]
+- Verjährungs-Einrede: [Erwiderung]
 - Aufrechnung: [Erwiderung]
 
 III. Ergaenzender Sachvortrag
@@ -177,7 +177,7 @@ Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
 ## Worauf Sie besonders achten muessen
 
 - **Pro Beklagten-Tatsache eine Antwort** — sonst Geltend.
-- **Beweismittel benennen** auch fuer neue Tatsachen.
+- **Beweismittel benennen** auch für neue Tatsachen.
 - **Frist einhalten** oder Verlaengerung beantragen.
 - **Wahrheitspflicht** beachten.
 
@@ -236,7 +236,7 @@ Der Richter hat eine **Hinweispflicht** nach § 139 ZPO: Wenn er ein wichtiges D
 - **§ 139 IV ZPO** — Hinweise sind im Protokoll oder schriftlich zu dokumentieren.
 - **§ 138 III ZPO** — Wahrheitspflicht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Hinweis genau lesen
 
@@ -367,7 +367,7 @@ Wenn es um eine technische, medizinische oder andere Fachfrage geht (Reparaturko
 - **Sachverstaendiger**: Vom Gericht beauftragte Person mit besonderer Fachkunde.
 - **Privatgutachten**: Vom Klaeger/Beklagten in eigener Initiative eingeholtes Gutachten.
 - **Gerichtsgutachten**: Vom Gericht beauftragtes Gutachten.
-- **Vorschuss**: Vorab zu zahlende Kosten fuer die Beauftragung.
+- **Vorschuss**: Vorab zu zahlende Kosten für die Beauftragung.
 
 ## Rechtsgrundlagen
 
@@ -376,9 +376,9 @@ Wenn es um eine technische, medizinische oder andere Fachfrage geht (Reparaturko
 - **§ 404 ZPO** — Auswahl des Sachverstaendigen.
 - **§ 17 GKG** — Vorschuss.
 - **§ 411 ZPO** — Schriftliches Gutachten.
-- **§ 412 ZPO** — Anhoerung im Termin.
+- **§ 412 ZPO** — Anhörung im Termin.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sachverstaendiger noetig
 
@@ -401,7 +401,7 @@ Beispiele:
 Beweisantrag (§ 402 ZPO):
 
 Es wird beantragt, ein schriftliches Sachverstaendigen-
-Gutachten einzuholen zum Beweis dafuer, dass die
+Gutachten einzuholen zum Beweis dafür, dass die
 Reparaturkosten des Fahrzeugs Mercedes Benz, Modell X,
 amtl. Kennzeichen Y, infolge des Unfalls vom [Datum]
 einen Betrag von 4.250 EUR netto erreichen.
@@ -446,7 +446,7 @@ Nachteil:
 
 Sachverstaendiger erstellt schriftliches Gutachten. Parteien koennen Stellungnahme abgeben.
 
-Im Termin: ggf. Anhoerung Sachverstaendiger (§ 412 ZPO).
+Im Termin: ggf. Anhörung Sachverstaendiger (§ 412 ZPO).
 
 ### Schritt 7 — Gegen-Gutachten
 

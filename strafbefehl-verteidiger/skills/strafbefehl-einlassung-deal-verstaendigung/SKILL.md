@@ -20,9 +20,9 @@ Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach
 ## Triage zu Beginn
 
 1. **Was bestreitet der Mandant?** — Tathandlung, Fahrereigenschaft, Vorsatz, Schuld? Klare Abgrenzung der streitigen Punkte.
-2. **Aktenlage:** Welche Beweismittel hat die Staatsanwaltschaft — Zeugen, Messgeraet, Video, Gestaendnis im Anhoerungsbogen?
-3. **Hat der Mandant sich bereits gegenueber der Polizei gaeussert?** — Aussagen im Anhoerungsverfahren oder Vernehmung koennen belastend sein.
-4. **Anhoerungsbogen ausgefuellt oder unterschrieben?** — Nur schriftliche Bekanntgabe, kein Gestaendnis; Unterschrift kann als Einraeuming der Fahrereigenschaft ausgelegt werden.
+2. **Aktenlage:** Welche Beweismittel hat die Staatsanwaltschaft — Zeugen, Messgeraet, Video, Gestaendnis im Anhörungsbogen?
+3. **Hat der Mandant sich bereits gegenueber der Polizei gaeussert?** — Aussagen im Anhörungsverfahren oder Vernehmung koennen belastend sein.
+4. **Anhörungsbogen ausgefuellt oder unterschrieben?** — Nur schriftliche Bekanntgabe, kein Gestaendnis; Unterschrift kann als Einraeuming der Fahrereigenschaft ausgelegt werden.
 5. **Dauer der Hauptverhandlung und Ressourcen des Mandanten** — Einlassung mit Kostenpruefung abstimmen.
 6. **Smartphone-, Polizei- oder Versammlungsaufnahme?** — Bei Strafbefehl wegen Filmens/Audioaufnahme sofort `strafbefehl-polizeifilmerei-201-kug` hinzuziehen: § 201 StGB, § 201a StGB und KunstUrhG/KUG dürfen nicht vermischt werden.
 
@@ -59,23 +59,23 @@ Mandant bestreitet Tat?
 └─ Fahrereigenschaft bestreitbar
  ├─ Lichtbildabgleich anfordern
  ├─ Keine Aussagen zur Fahreridentifikation
- └─ Beweisantrag auf Sachverstaendigen fuer Lichtbild-Identifikation
+ └─ Beweisantrag auf Sachverstaendigen für Lichtbild-Identifikation
 
-Anhoerungsbogen ausgefuellt?
+Anhörungsbogen ausgefuellt?
 ├─ Nein → gut; Schweigen weiter empfehlen bis Akteneinsicht
-├─ Ja, Tat zugegeben → Gestaendnis-Wert pruefen fuer § 153a oder Strafmassreduzierung
+├─ Ja, Tat zugegeben → Gestaendnis-Wert pruefen für § 153a oder Strafmassreduzierung
 └─ Ja, Einwaende gemacht → auf diese aufbauen, widerspruchsfrei vertiefen
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
-1. **Akteneinsicht anfordern** (§ 147 StPO) — Basis fuer jede Einlassungsstrategie.
+1. **Akteneinsicht anfordern** (§ 147 StPO) — Basis für jede Einlassungsstrategie.
 2. **Beweislage analysieren:** Welche Beweismittel hat die Anklage? Sind sie verwertbar (Belehrungsfehler, § 136a-Verstoss)?
 3. **Mandantengespraech: Sachverhaltsschilderung vollstaendig aufnehmen** — ohne Bewertung, nur erfassen.
 4. **Strategie festlegen** (s. Entscheidungsbaum) — schriftlich dokumentieren, Mandant ueber Risiken aufklaeren.
 5. **Einlassung formulieren oder Schweigen anordnen** — bei Schweigen Mandanten anweisen, keine Angaben gegenueber Polizei/Staatsanwaltschaft zu machen.
 6. **Beweisantraege formulieren** (§ 244 StPO) — konkret: Beweisthema und Beweismittel benennen.
-7. **Wenn Gestaendnis:** Timing und Umfang mit Mandant absprechen; Gestaendnis in HV fruehzeitig abgeben fuer optimalen Strafzumessungseffekt.
+7. **Wenn Gestaendnis:** Timing und Umfang mit Mandant absprechen; Gestaendnis in HV fruehzeitig abgeben für optimalen Strafzumessungseffekt.
 
 ## Output-Template Einlassungsschreiben
 

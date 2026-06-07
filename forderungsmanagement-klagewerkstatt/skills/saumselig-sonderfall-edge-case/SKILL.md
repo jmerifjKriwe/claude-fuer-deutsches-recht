@@ -1,6 +1,6 @@
 ---
 name: saumselig-sonderfall-edge-case
-description: "Spezielle Fallkonstellationen die vom Standard abweichen. Schuldner ist unbekannt verstorben verzogen ins Ausland oder unter Betreuung. Pinpoints ZPO 185 oeffentliche Zustellung BGB 1922 Erbfolge BGB 1896 Betreuung ZPO 50 Parteifaehigkeit. Liefert Behandlungsstrategien je Sonderfall."
+description: "Spezielle Fallkonstellationen die vom Standard abweichen. Schuldner ist unbekannt verstorben verzogen ins Ausland oder unter Betreuung. Pinpoints ZPO 185 öffentliche Zustellung BGB 1922 Erbfolge BGB 1896 Betreuung ZPO 50 Parteifaehigkeit. Liefert Behandlungsstrategien je Sonderfall."
 ---
 
 # Saumselige Sonderfaelle
@@ -11,7 +11,7 @@ Edge-Cases die das Standardverfahren stoppen.
 
 | Konstellation | Strategie | Norm |
 |---|---|---|
-| Schuldner verzogen Anschrift unbekannt | Einwohnermeldeamtsanfrage Auskunftei dann oeffentliche Zustellung | BMG 44 ZPO 185 |
+| Schuldner verzogen Anschrift unbekannt | Einwohnermeldeamtsanfrage Auskunftei dann öffentliche Zustellung | BMG 44 ZPO 185 |
 | Schuldner verstorben Erben unklar | Erbenermittlung Klage gegen Nachlass Nachlasspfleger nach BGB 1961 | BGB 1922 1961 |
 | Schuldner unter Betreuung | Vertretung durch Betreuer Klage gegen Betreuer in seiner Stellvertreterrolle | BGB 1814 ff |
 | Schuldner Minderjaehrige | Eltern als gesetzliche Vertreter | BGB 1626 1629 |
@@ -20,7 +20,7 @@ Edge-Cases die das Standardverfahren stoppen.
 | Schuldner BGB-Gesellschaft GbR | Klage gegen Gesellschaft und Gesellschafter samt Haftung BGB 720 723 |
 | Forderung gegen Verein | Klage gegen e V Vorstand | BGB 26 |
 | Insolvente Privatperson | Tabellenanmeldung InsO 174 oder Restschuldbefreiung beachten | InsO 286 ff |
-| Forderung gegen Behoerde | Pruefung Rechtsweg | GVG 13 VwGO 40 |
+| Forderung gegen Behörde | Pruefung Rechtsweg | GVG 13 VwGO 40 |
 
 ## Oeffentliche Zustellung ZPO 185
 

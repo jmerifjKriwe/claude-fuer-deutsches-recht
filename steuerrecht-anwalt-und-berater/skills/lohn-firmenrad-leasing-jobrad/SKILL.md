@@ -54,7 +54,7 @@ Das JobRad / Dienstrad ist ein vom AG geleastes Fahrrad oder E-Bike, das dem AN 
 
 - Konstruktion: 1 Prozent von einem Viertel des Bruttolistenpreises (= 0,25 Prozent vom Bruttolistenpreis) als monatlicher Sachbezug Privatnutzung.
 - Bruttolistenpreis vorher auf volle 100 EUR abgerundet.
-- Im Unterschied zum Dienstwagen: keine zusaetzlichen 0,03 Prozent fuer Fahrten Wohnung-Arbeit beim Fahrrad/E-Bike (nicht S-Pedelec).
+- Im Unterschied zum Dienstwagen: keine zusaetzlichen 0,03 Prozent für Fahrten Wohnung-Arbeit beim Fahrrad/E-Bike (nicht S-Pedelec).
 - **Zahlenbeispiel:** Bruttolistenpreis 3.000 EUR — 0,25 Prozent = 7,50 EUR/Monat Sachbezug. Bei E-Bike 4.500 EUR Listenpreis — 0,25 Prozent x 4.500 EUR = 11,25 EUR/Monat.
 
 ### Phase 3 — Leasingvertrag
@@ -74,7 +74,7 @@ Das JobRad / Dienstrad ist ein vom AG geleastes Fahrrad oder E-Bike, das dem AN 
 
 - Verzicht auf laufende Vergueteung schriftlich vereinbart.
 - Auswirkung auf Mindestlohn-Pflicht: Brutto-Lohn nach Umwandlung muss MiLo erreichen.
-- Auswirkung auf bAV-Foerderung: BBG-Grenzen bleiben.
+- Auswirkung auf bAV-Förderung: BBG-Grenzen bleiben.
 - Auswirkung auf Sondervergueteungen (z.B. Tantieme): in der Regel keine Reduktion.
 
 ### Phase 6 — Lohnabrechnung
@@ -93,7 +93,7 @@ Das JobRad / Dienstrad ist ein vom AG geleastes Fahrrad oder E-Bike, das dem AN 
 
 - JobRad ist beliebter Lohnumwandlungs-Hebel mit hoher AN-Akzeptanz.
 - 0,25-Prozent-Regelung ist generoes — bei 3.000 EUR-Rad nur 7,50 EUR/Monat Sachbezug.
-- Bei AG-Finanzierung zusaetzlich: voll steuerfrei nach § 3 Nr. 37 EStG — beste Variante fuer AG mit gutem Imagewunsch.
+- Bei AG-Finanzierung zusaetzlich: voll steuerfrei nach § 3 Nr. 37 EStG — beste Variante für AG mit gutem Imagewunsch.
 - Restwert-Versteuerung am Ende des Leasings nicht vergessen (Wert minus 10 Prozent Restwert = Versteuerungs-Pflicht).
 - S-Pedelec ungleich JobRad — Dienstwagen-Behandlung 1 Prozent.
 - StBVV: in Lohnpauschale; Konfiguration einmalig.

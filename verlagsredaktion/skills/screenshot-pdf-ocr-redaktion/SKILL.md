@@ -1,13 +1,13 @@
 ---
 name: screenshot-pdf-ocr-redaktion
-description: "Fuehrt einen sauberen OCR-fuer gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fuehrt einen sauberen OCR-für gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Screenshot / PDF-OCR-Workflow
 
 ## Arbeitsbereich
 
-Fuehrt einen sauberen OCR-fuer gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fuehrt einen sauberen OCR-für gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -36,12 +36,12 @@ Sie brauchen ihn, sobald eine Bildquelle (Scan, Screenshot, fotografierte Seite)
 - Idealerweise mehrere Seiten als Vergleich (eine Seite ist keine OCR-Statistik).
 - Hinweise auf besondere Schriftbestandteile (Tabellen, Marginalien, Fussnoten in kleinerer Schrift).
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Datenschutz pruefen.** Wenn Mandantendaten enthalten sind: nur in Tools mit AVV und entsprechend BRAO § 43a Abs. 2.
 2. **Qualitaet pruefen.** Eine Stichprobe von zwei bis drei Seiten ansehen. Unter 200 dpi: zurueck zur Quelle (neu scannen).
 3. **OCR ausfuehren.** Tesseract, Adobe Acrobat oder vergleichbare Werkzeuge mit Sprachpaket "deu" (und ggf. "lat", "eng").
-4. **Fehlerquoten-Stichprobe.** Zwei zufaellige Seiten Wort-fuer-Wort vergleichen, Fehlerrate dokumentieren (typisch 0,3 bis 3 % bei modernem Druck, deutlich mehr bei Fraktur).
+4. **Fehlerquoten-Stichprobe.** Zwei zufaellige Seiten Wort-für-Wort vergleichen, Fehlerrate dokumentieren (typisch 0,3 bis 3 % bei modernem Druck, deutlich mehr bei Fraktur).
 5. **Manuelle Nachkorrektur** vor allem bei: Eigennamen (Personen, Orte, Kommentar-Bearbeitern), Zahlen (Aktenzeichen, Randnummern, Seitenangaben), Sonderzeichen (§, II 2, vgl.), Fussnoten.
 6. **Strukturmarkierung.** OCR liefert Fliesstext ohne Stilauszeichnung; Ueberschriften, Fussnoten, Tabellen mit Verlagsvorlage neu auszeichnen.
 7. **Audit-Log.** Quelle, Stichproben-Fehlerrate, manuelle Korrekturen dokumentieren - der Verlag muss spaeter beweisen koennen, dass nicht halluziniert wurde.
@@ -104,4 +104,4 @@ Status: redaktionsreif nach Lektoratspruefung
 - DSGVO Art. 6, Art. 28 (Auftragsverarbeitung), [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj).
 - Tesseract OCR, [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016, zur Pinpoint-Disziplin.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, zur Pinpoint-Disziplin.

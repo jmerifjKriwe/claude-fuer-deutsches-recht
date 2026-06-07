@@ -12,7 +12,7 @@ description: "Verbraucher Regelinsolvenz Jahres im Plugin Verbraucherinsolvenz S
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `verbraucher-oder-regelinsolvenz` | Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `verbraucher-oder-regelinsolvenz` | Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 | `verbraucherinsolvenz-3-jahres-restschuldbefreiung` | Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Glaeubigern. Liefert Pruefraster. |
 | `verbraucherinsolvenz-aussergerichtl-schuldenbereinigung` | Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste ueber die Quotenberechnung bis zur formalen Vorlage an die Glaeubiger. Behandelt Pflicht zur Beilage Bescheinigung der geeigneten Stelle / des geeigneten Beraters. Liefert Vorlagenstruktur und Pruefraster. |
 
@@ -27,7 +27,7 @@ description: "Verbraucher Regelinsolvenz Jahres im Plugin Verbraucherinsolvenz S
 
 ## 1. `verbraucher-oder-regelinsolvenz`
 
-**Fokus:** Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
 
@@ -77,7 +77,7 @@ InsO § 304; § 15a InsO als Altlast; Forderungsstruktur. Entscheidend ist immer
 
 ## Aufgabe
 
-Skill fuer die verkuerzte Restschuldbefreiung.
+Skill für die verkuerzte Restschuldbefreiung.
 
 ## Norm
 
@@ -113,7 +113,7 @@ Skill fuer die verkuerzte Restschuldbefreiung.
 
 ## Nachtraeglich auftauchende Glaeubiger
 
-- § 301 InsO: Restschuldbefreiung wirkt auch fuer nicht angemeldete Glaeubiger.
+- § 301 InsO: Restschuldbefreiung wirkt auch für nicht angemeldete Glaeubiger.
 - Ausnahme: arglistig verschwiegene Forderungen (§ 302 InsO).
 
 ## Pruefraster
@@ -142,12 +142,12 @@ Skill fuer die verkuerzte Restschuldbefreiung.
 
 ## Aufgabe
 
-Skill fuer den ersten Vergleichsvorschlag im aussergerichtlichen Schuldenbereinigungsverfahren.
+Skill für den ersten Vergleichsvorschlag im aussergerichtlichen Schuldenbereinigungsverfahren.
 
 ## Norm
 
 - § 305 InsO (Insolvenzverordnung).
-- Schuldnerberatungsstellen-Recht der Laender.
+- Schuldnerberatungsstellen-Recht der Länder.
 
 ## Voraussetzungen
 
@@ -164,7 +164,7 @@ Skill fuer den ersten Vergleichsvorschlag im aussergerichtlichen Schuldenbereini
 ### Schritt 2: Quotenberechnung
 - Realistisch erfuellbare Quote.
 - Typische Spanne 0-30 Prozent.
-- Sondervorschriften fuer einzelne Glaeubigertypen (z. B. Finanzamt nach AO).
+- Sondervorschriften für einzelne Glaeubigertypen (z. B. Finanzamt nach AO).
 
 ### Schritt 3: Vergleichsvorschlag
 - Form: Schriftlich.

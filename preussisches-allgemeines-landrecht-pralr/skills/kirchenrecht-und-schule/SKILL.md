@@ -31,10 +31,10 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 ## Meat on the Bone — Konkreter ALR-Stoff
 
 ### Schluesselparagraphen
-- **ALR II 11**: Religionsgesellschaften — Privilegium principis fuer evangelische, katholische und reformierte Religionsgesellschaften.
+- **ALR II 11**: Religionsgesellschaften — Privilegium principis für evangelische, katholische und reformierte Religionsgesellschaften.
 - **ALR II 11 §§ 1-30**: Aufgeklaert-tolerantes Religionsrecht; "Privilegien" der ueblichen Religionsgemeinschaften, "geduldete" Religionsgemeinschaften (z. B. Mennoniten, Juden mit eingeschraenkten Rechten).
 - **ALR II 12**: Schule — allgemeine Volksschule; Schulpflicht; Schulaufsicht durch Geistlichkeit / Schulvisitator.
-- **ALR II 12 §§ 1 ff.**: Schulgeld; allgemeine Schulpflicht; Lehrerstellung als oeffentliches Amt.
+- **ALR II 12 §§ 1 ff.**: Schulgeld; allgemeine Schulpflicht; Lehrerstellung als öffentliches Amt.
 
 ### Subsumtionsbeispiel: Religioese Mischehe 1840
 Sachverhalt: Katholische Frau, evangelischer Mann; Streit ueber Konfession der Kinder.
@@ -42,11 +42,11 @@ ALR-Loesung: ALR II 11 — Religionsmischehen erlaubt; Konfession der Kinder fol
 
 ### Subsumtionsbeispiel: Allgemeine Schulpflicht 1830
 Sachverhalt: Bauernfamilie schickt Kinder nicht zur Schule.
-ALR-Loesung: ALR II 12 — Schulpflicht; Sanktionen ueber Polizei. Heute durchgehend Schulgesetze der Laender mit Schulpflicht (Art. 7 GG).
+ALR-Loesung: ALR II 12 — Schulpflicht; Sanktionen ueber Polizei. Heute durchgehend Schulgesetze der Länder mit Schulpflicht (Art. 7 GG).
 
 ### Heutige Fortwirkung
 - Art. 4 GG Religionsfreiheit (statt aufgeklaerte Privilegierung).
-- Art. 7 GG Schulwesen — Laenderkompetenz.
+- Art. 7 GG Schulwesen — Länderkompetenz.
 - Allgemeine Schulpflicht in jedem Landesschulgesetz.
 - ALR-Linie der Schulaufsicht durch Geistlichkeit ist aufgehoben — strikte Trennung Staat/Kirche im Schulwesen (Art. 137 III WRV iVm Art. 140 GG).
 

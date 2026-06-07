@@ -12,10 +12,10 @@ description: "Uvgo Unterschwellenvergabe Vergabesperre im Plugin Fachanwalt Verg
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-vergaberecht-uvgo-unterschwellenvergabe` | Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen. Normen: UVgO (Bund seit 2017, Laender ueberwiegend), § 55 BHO, LHO der Laender, Primaerrechtsschutz vor VG nicht VK. Pruefraster: Anwendungsbereich UVgO (LD/D oberhalb Direktauftragsgrenze, unterhalb EU-Schwelle), Verfahrenstypen (oeffentlich, beschraenkt, Verhandlung), Bekanntmachung, Wertungsschema, Rechtsschutz Primaer (VG/OVG) und Sekundaer (LG-Zivilklage). Output Verfahrensentwurf, VG-Eilantrag-Geruest. Abgrenzung: Oberschwelle siehe fachanwalt-vergaberecht-orientierung; VOB-A Abschn. 1 siehe fachanwalt-vergaberecht-vob-a-bauvergabe. |
+| `fachanwalt-vergaberecht-uvgo-unterschwellenvergabe` | Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen. Normen: UVgO (Bund seit 2017, Länder ueberwiegend), § 55 BHO, LHO der Länder, Primaerrechtsschutz vor VG nicht VK. Pruefraster: Anwendungsbereich UVgO (LD/D oberhalb Direktauftragsgrenze, unterhalb EU-Schwelle), Verfahrenstypen (oeffentlich, beschraenkt, Verhandlung), Bekanntmachung, Wertungsschema, Rechtsschutz Primaer (VG/OVG) und Sekundaer (LG-Zivilklage). Output Verfahrensentwurf, VG-Eilantrag-Geruest. Abgrenzung: Oberschwelle siehe fachanwalt-vergaberecht-orientierung; VOB-A Abschn. 1 siehe fachanwalt-vergaberecht-vob-a-bauvergabe. |
 | `fachanwalt-vergaberecht-vergabesperre-korruption-selbstreinigung` | Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden; Auftraggeber will sperren. Normen: §§ 123-126 GWB (zwingende und fakultative Ausschlussgruende), § 125 GWB (Selbstreinigung), Wettbewerbsregister § 8 WRegG. Pruefraster: Tatbestand § 123 zwingend vs. § 124 fakultativ, Sperrfristen § 126 GWB (drei Jahre § 123; zwei Jahre § 124), Selbstreinigungs-Trias Schadenswiedergutmachung Kooperation Compliance, Wettbewerbsregister-Eintrag pruefen. Output Selbstreinigungs-Memo, Sperraufhebungs-Antragsentwurf. Abgrenzung: Eignung siehe fachanwalt-vergaberecht-eignungspruefung. |
 | `fachanwalt-vergaberecht-vk-aufklaerung-vergleich` | VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit. Normen: § 158 Abs. 3 GWB (Vergleich vor VK), § 173 GWB (OLG-Beschwerdeinstanz), § 106 VwVfG (Vergleich). Prüfraster: Aufklärungsverlangen VK, Vergleichsbereitschaft Auftraggeber, OLG-Risiko bei Beschwerde, Vergleichs-Konditionen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Nachprüfungsantrag initial siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; OLG-Beschwerde siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk. |
-| `fachanwalt-vergaberecht-vob-a-bauvergabe` | VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: oeffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu VgV-Baubereich), §§ 1-22 VOB-A. Pruefraster: Anwendungsbereich Bauleistung § 1 VOB-A, Verfahrenstypen (oeffentlich, beschraenkt mit/ohne TW, freihaendig), Leistungsbeschreibung § 7 VOB-A, Nebenangebote § 8, Wertung § 16d, Schnittstelle VOB-B-Vertrag. Output Verfahrenswahl-Pruefvermerk, Leistungsbeschreibungs-Checkliste. Abgrenzung: Unterschwelle Liefer-/Dienstleistung siehe fachanwalt-vergaberecht-uvgo-unterschwellenvergabe; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema. |
+| `fachanwalt-vergaberecht-vob-a-bauvergabe` | VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu VgV-Baubereich), §§ 1-22 VOB-A. Pruefraster: Anwendungsbereich Bauleistung § 1 VOB-A, Verfahrenstypen (oeffentlich, beschraenkt mit/ohne TW, freihaendig), Leistungsbeschreibung § 7 VOB-A, Nebenangebote § 8, Wertung § 16d, Schnittstelle VOB-B-Vertrag. Output Verfahrenswahl-Pruefvermerk, Leistungsbeschreibungs-Checkliste. Abgrenzung: Unterschwelle Liefer-/Dienstleistung siehe fachanwalt-vergaberecht-uvgo-unterschwellenvergabe; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema. |
 
 ## Arbeitsweg
 
@@ -28,12 +28,12 @@ description: "Uvgo Unterschwellenvergabe Vergabesperre im Plugin Fachanwalt Verg
 
 ## 1. `fachanwalt-vergaberecht-uvgo-unterschwellenvergabe`
 
-**Fokus:** Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen. Normen: UVgO (Bund seit 2017, Laender ueberwiegend), § 55 BHO, LHO der Laender, Primaerrechtsschutz vor VG nicht VK. Pruefraster: Anwendungsbereich UVgO (LD/D oberhalb Direktauftragsgrenze, unterhalb EU-Schwelle), Verfahrenstypen (oeffentlich, beschraenkt, Verhandlung), Bekanntmachung, Wertungsschema, Rechtsschutz Primaer (VG/OVG) und Sekundaer (LG-Zivilklage). Output Verfahrensentwurf, VG-Eilantrag-Geruest. Abgrenzung: Oberschwelle siehe fachanwalt-vergaberecht-orientierung; VOB-A Abschn. 1 siehe fachanwalt-vergaberecht-vob-a-bauvergabe.
+**Fokus:** Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen. Normen: UVgO (Bund seit 2017, Länder ueberwiegend), § 55 BHO, LHO der Länder, Primaerrechtsschutz vor VG nicht VK. Pruefraster: Anwendungsbereich UVgO (LD/D oberhalb Direktauftragsgrenze, unterhalb EU-Schwelle), Verfahrenstypen (oeffentlich, beschraenkt, Verhandlung), Bekanntmachung, Wertungsschema, Rechtsschutz Primaer (VG/OVG) und Sekundaer (LG-Zivilklage). Output Verfahrensentwurf, VG-Eilantrag-Geruest. Abgrenzung: Oberschwelle siehe fachanwalt-vergaberecht-orientierung; VOB-A Abschn. 1 siehe fachanwalt-vergaberecht-vob-a-bauvergabe.
 
 # UVgO und Unterschwellenvergabe
 
 ## Aufgabe
-Vergabe unterhalb der EU-Schwellenwerte nach UVgO (Bund und mehrheitlich Laender) strukturieren oder angreifen. Rechtsschutz unterscheidet sich grundlegend vom Oberschwellenverfahren (kein VK-Verfahren).
+Vergabe unterhalb der EU-Schwellenwerte nach UVgO (Bund und mehrheitlich Länder) strukturieren oder angreifen. Rechtsschutz unterscheidet sich grundlegend vom Oberschwellenverfahren (kein VK-Verfahren).
 
 ## Einstieg
 1. Auftraggeber: Bund (UVgO direkt), Land (UVgO meist eingefuehrt, Pruefung Landeshaushaltsrecht), Kommune (Pruefung Landes- bzw. Gemeindehaushaltsrecht)?
@@ -48,7 +48,7 @@ Vergabe unterhalb der EU-Schwellenwerte nach UVgO (Bund und mehrheitlich Laender
 - **Beschraenkte Ausschreibung mit Teilnahmewettbewerb** (zulaessig bei Eignungsbedarf oder hoher Komplexitaet).
 - **Beschraenkte Ausschreibung ohne TW** (begrenzte Faelle § 8 Abs. 4 UVgO).
 - **Verhandlungsvergabe mit/ohne TW** (Faelle § 8 Abs. 4 Nr. 5 ff. UVgO).
-- **Direktauftrag** unterhalb Wertgrenze (Bund EUR 1000 netto, Laender abweichend).
+- **Direktauftrag** unterhalb Wertgrenze (Bund EUR 1000 netto, Länder abweichend).
 
 ### Bekanntmachung
 - Auf der Vergabeplattform des Bundes (eVergabe-Online) oder Land/Kommune.
@@ -63,17 +63,17 @@ Vergabe unterhalb der EU-Schwellenwerte nach UVgO (Bund und mehrheitlich Laender
 - Kein VK-/OLG-Verfahren.
 - Verwaltungsgerichtsweg (§ 40 VwGO) bei oeffentlich-rechtlichen Ausschreibungen, sofern Klagebefugnis (Bieter als Konkurrent).
 - Eilrechtsschutz § 123 VwGO (einstweilige Anordnung) auf Unterlassung Zuschlag.
-- Praxis: Erfolgschancen begrenzt, Zustaendigkeitsstreit zwischen VG und LG haeufig.
+- Praxis: Erfolgschancen begrenzt, Zuständigkeitsstreit zwischen VG und LG haeufig.
 
 ### Sekundaerrechtsschutz
 - Schadensersatz vor Zivilgericht (LG) nach §§ 280, 311 BGB i. V. m. § 241 Abs. 2 BGB, hilfsweise § 826 BGB.
 - Echte-Chance-Doktrin und Mitverschulden wie bei § 181 GWB.
 
 ## Typische Fehler
-- Verhandlungsvergabe ohne TW wird gewaehlt, obwohl oeffentliche Ausschreibung haetterechtmaessig.
+- Verhandlungsvergabe ohne TW wird gewaehlt, obwohl öffentliche Ausschreibung haetterechtmaessig.
 - Wertgrenzen werden ueberschritten und kein VgV-Verfahren angesetzt -> De-facto-Vergabe-Risiko und § 135 GWB-Analogie.
 - Bekanntmachung erfolgt nicht oder nur auf unbekannter Plattform.
-- Bieter unterlaesst Ruege; Vergaberecht-Ruege ist im Unterschwellenbereich keine zwingende Voraussetzung fuer Klage, aber empfohlen zur Schadensminderung.
+- Bieter unterlaesst Ruege; Vergaberecht-Ruege ist im Unterschwellenbereich keine zwingende Voraussetzung für Klage, aber empfohlen zur Schadensminderung.
 
 ## Output
 - UVgO-Verfahrensplan mit Verfahrenswahl-Begruendung.
@@ -126,7 +126,7 @@ Vergabesperre verhindern, aufheben oder durchsetzen. § 125 GWB-Selbstreinigung 
 - schwere Verfehlung (z. B. Korruption ohne strafrechtliche Verurteilung),
 - wettbewerbsbeschraenkende Abrede,
 - Interessenkonflikt,
-- mangelhafte Vertragsdurchfuehrung in fruherem oeffentlichem Auftrag.
+- mangelhafte Vertragsdurchfuehrung in fruherem öffentlichem Auftrag.
 
 ### Sperrfristen § 126 GWB
 - § 123: max. 5 Jahre, in der Praxis 3 Jahre Standard.
@@ -141,18 +141,18 @@ Drei-Voraussetzungen-Trias:
 Dokumentation: Selbstreinigungs-Memo mit Belegen zu allen drei Pflichten. Wirkung: Auftraggeber darf nicht mehr ausschliessen (§ 125 Abs. 1 GWB), Eintrag im Wettbewerbsregister kann geloescht werden (§ 8 WRegG).
 
 ## Wettbewerbsregister
-- Behoerdliche Eintragung durch Staatsanwaltschaft, Behoerden, Auftraggeber.
+- Behoerdliche Eintragung durch Staatsanwaltschaft, Behörden, Auftraggeber.
 - Pflicht zur Abfrage durch Auftraggeber ab Schwellenwert.
 - Loeschung nach Sperrfrist oder anerkannter Selbstreinigung.
 
-## Strategie fuer betroffene Unternehmen
+## Strategie für betroffene Unternehmen
 1. Sofort Sachverhalt aufklaeren, Mitarbeiter und Vertretungsberechtigte identifizieren.
 2. CMS-Lueckenanalyse durch externe Compliance-Berater.
-3. Selbstanzeige bei Behoerden pruefen (§ 371 AO, Bonusregelung BKartA).
+3. Selbstanzeige bei Behörden pruefen (§ 371 AO, Bonusregelung BKartA).
 4. Schadensausgleich verhandeln.
 5. Selbstreinigungs-Memo an Auftraggeber und Wettbewerbsregister.
 
-## Strategie fuer ausschliessende Auftraggeber
+## Strategie für ausschliessende Auftraggeber
 - Sachverhalt zum konkreten Bieter ermitteln (Wettbewerbsregister, Strafregister-Auszuege, Selbstauskunft).
 - Verhaeltnismaessigkeit pruefen.
 - Bei Selbstreinigung Pruefung der Trias und Dokumentation der Entscheidung.
@@ -201,7 +201,7 @@ Vergabe-Nachprüfungs-Verfahren ist verfahrensrechtlich straff und schnell (5 Wo
 ## Rechtlicher Rahmen
 
 - **§ 155 GWB** — Beginn 2. Teil GWB (Vergabe-Nachpruefungsverfahren)
-- **§ 156 GWB** — Vergabekammern (Zustaendigkeit, Besetzung)
+- **§ 156 GWB** — Vergabekammern (Zuständigkeit, Besetzung)
 - **§ 169 GWB** — Suspensiveffekt/Zuschlagsverbot waehrend Nachpruefungsverfahren (Aussetzung des Zuschlags)
 - **§ 160 GWB** — Ruegeobliegenheit Bieter
 - **§ 158 GWB** — Entscheidung VK / Vergleich
@@ -315,7 +315,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 2. Welche Dokumente fordert VK an (Vergabeakte, Wertungsunterlagen, Akteneinblick)?
 3. Ist Akteneinsichtsrecht nach §§ 165, 166 GWB geltend zu machen?
 4. Bietet Auftraggeber Einigung an? → Vergleich im VK-Verfahren moeglich
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Output-Template Stellungnahme im VK-Verfahren
 **Adressat:** Vergabekammer [NAME] — Tonfall: sachlich-juristisch
@@ -369,7 +369,7 @@ Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
 
 ## 4. `fachanwalt-vergaberecht-vob-a-bauvergabe`
 
-**Fokus:** VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: oeffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu VgV-Baubereich), §§ 1-22 VOB-A. Pruefraster: Anwendungsbereich Bauleistung § 1 VOB-A, Verfahrenstypen (oeffentlich, beschraenkt mit/ohne TW, freihaendig), Leistungsbeschreibung § 7 VOB-A, Nebenangebote § 8, Wertung § 16d, Schnittstelle VOB-B-Vertrag. Output Verfahrenswahl-Pruefvermerk, Leistungsbeschreibungs-Checkliste. Abgrenzung: Unterschwelle Liefer-/Dienstleistung siehe fachanwalt-vergaberecht-uvgo-unterschwellenvergabe; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
+**Fokus:** VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu VgV-Baubereich), §§ 1-22 VOB-A. Pruefraster: Anwendungsbereich Bauleistung § 1 VOB-A, Verfahrenstypen (oeffentlich, beschraenkt mit/ohne TW, freihaendig), Leistungsbeschreibung § 7 VOB-A, Nebenangebote § 8, Wertung § 16d, Schnittstelle VOB-B-Vertrag. Output Verfahrenswahl-Pruefvermerk, Leistungsbeschreibungs-Checkliste. Abgrenzung: Unterschwelle Liefer-/Dienstleistung siehe fachanwalt-vergaberecht-uvgo-unterschwellenvergabe; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
 # VOB-A-Bauvergabe (Abschnitte 1 und 2)
 
@@ -384,7 +384,7 @@ Bauvergaben nach VOB-A (Abschnitt 1 Unterschwelle, Abschnitt 2 Oberschwelle) str
 5. Fachloseinteilung erfolgt?
 
 ## Verfahrenstypen
-### Abschnitt 1 (Unterschwelle, fuer Bund + groesstenteils Laender)
+### Abschnitt 1 (Unterschwelle, für Bund + groesstenteils Länder)
 - Oeffentliche Ausschreibung.
 - Beschraenkte Ausschreibung mit/ohne TW.
 - Freihaendige Vergabe.
@@ -400,7 +400,7 @@ Bauvergaben nach VOB-A (Abschnitt 1 Unterschwelle, Abschnitt 2 Oberschwelle) str
 - **Detaillierte LB** (Leistungsverzeichnis mit Positionen, Mengen, Einheitspreisen).
 - **Funktionale LB** mit Leistungsprogramm (ueblich bei komplexen oder GU-Vergaben).
 - Eindeutigkeit, Vollstaendigkeit, Hinweis auf besondere Umstaende.
-- Risiko des Auftraggebers fuer unvollstaendige LB (BGH VII ZR 113/17 Rechtsprechungslinie ueberpruefen).
+- Risiko des Auftraggebers für unvollstaendige LB (BGH VII ZR 113/17 Rechtsprechungslinie ueberpruefen).
 
 ## Wertung § 16d VOB-A
 - Eignungspruefung (Fachkunde, Leistungsfaehigkeit, Zuverlaessigkeit).

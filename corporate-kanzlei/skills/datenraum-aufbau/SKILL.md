@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -106,8 +106,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. Welche Plattform: Intralinks, Merrill Datasite, Ansarada, SharePoint, andere?
 2. Art des Prozesses: Auktionsprozess (mehrere Bieter) oder bilateraler Deal?
-3. Clean-Room-Anforderung (sensible Personal-/Kundendaten nur fuer ausgewaehlte Bieter)?
-4. Jurisdiktionen: Welche Laender-spezifischen Compliance-Anforderungen bestehen?
+3. Clean-Room-Anforderung (sensible Personal-/Kundendaten nur für ausgewaehlte Bieter)?
+4. Jurisdiktionen: Welche Länder-spezifischen Compliance-Anforderungen bestehen?
 5. Welche Workstreams sollen separat zugaenglich sein (Full Access vs. Restricted)?
 6. W&I-Versicherung geplant? (Underwriter-Zugang zum Datenraum meist erforderlich)
 7. Seller-Side: Welche Daten sollen noch nicht offenbart werden (z.B. vor LoI-Unterzeichnung)?
@@ -164,14 +164,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 6. LEGAL / LITIGATION
  6.1 Laufende Rechtsstreitigkeiten und Schiedsverfahren
- 6.2 Behoerdenkorrespondenz (kartellrechtlich, regulatorisch)
+ 6.2 Behördenkorrespondenz (kartellrechtlich, regulatorisch)
  6.3 Versicherungsdeckung (D&O, Haftpflicht, Produkthaftung)
 
 7. COMPLIANCE
  7.1 Compliance-Richtlinien
  7.2 GwG / AML-Pruefungsberichte
  7.3 Zertifikate (ISO, ESG)
- 7.4 Behoerdenerlaubnisse und Lizenzen
+ 7.4 Behördenerlaubnisse und Lizenzen
 
 8. STEUER
  8.1 Steuererklaerungen (letzte 3 Jahre)
@@ -191,13 +191,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Clean-Room-Konzept
 
-Ein Clean Room ist ein abgeschirmter Bereich im Datenraum fuer besonders sensible Informationen:
-- **Typische Clean-Room-Inhalte:** Kundennamen und -konditionen, persoenliche HR-Daten (Gehaelter, Krankengeschichte), technische Betriebsgeheimnisse, laufende Angebote
+Ein Clean Room ist ein abgeschirmter Bereich im Datenraum für besonders sensible Informationen:
+- **Typische Clean-Room-Inhalte:** Kundennamen und -konditionen, persönliche HR-Daten (Gehaelter, Krankengeschichte), technische Betriebsgeheimnisse, laufende Angebote
 - **Zugangsberechtigung:** nur von Verkaefer benanntes Clean-Team des Kaeufers; kein operatives Deck
-- **Protokoll:** Zugangsliste im Datenraum; separate NDA-Erweiterung fuer Clean-Team-Mitglieder
+- **Protokoll:** Zugangsliste im Datenraum; separate NDA-Erweiterung für Clean-Team-Mitglieder
 - **Informationsfluss:** Ergebnisse nur als Zusammenfassung (nicht Originaldaten) an Verhandlungs-Team
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Datenraum-Struktur planen** — Index nach Workstreams; Zugriffsebenen; Clean-Room-Zonen
 2. **Plattform aufsetzen** — AVV mit Plattformanbieter (DSGVO Art. 28); Sicherheitseinstellungen

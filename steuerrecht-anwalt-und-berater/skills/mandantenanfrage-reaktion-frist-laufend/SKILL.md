@@ -3,7 +3,7 @@ name: mandantenanfrage-reaktion-frist-laufend
 description: "Mandantenanfragen Reaktionsfristen Servicelevel. Anwendungsfall Standardisierte Reaktion auf Mandantenanfragen klare Service-Versprechen Eskalation. Methodik SLA-Festlegung. Output Service-Standard-Dokument."
 ---
 
-# Reaktionsfristen fuer Mandantenanfragen — Servicelevel
+# Reaktionsfristen für Mandantenanfragen — Servicelevel
 
 ## Fachlicher Anker
 
@@ -38,7 +38,7 @@ Mandantenanfragen kommen taeglich: telefonisch, per E-Mail, via DUO-Portal. Ohne
 
 **§ 280 BGB** — Schadensersatz bei Pflichtverletzung.
 
-**§ 199 BGB** — Verjaehrungsbeginn.
+**§ 199 BGB** — Verjährungsbeginn.
 
 ## Workflow
 
@@ -77,7 +77,7 @@ Mandantenbrief mit Standardanliegen | 1 Tag | 5 Tage
 ### Phase 4 — Mandantenkommunikation
 
 - Service-Standard im Onboarding mitteilen.
-- Regelmaessige Mandantenumfrage zur Zufriedenheit.
+- Regelmäßige Mandantenumfrage zur Zufriedenheit.
 - Bei Beschwerden: Eskalation Kanzleiinhaber.
 
 ### Phase 5 — Krisensituationen

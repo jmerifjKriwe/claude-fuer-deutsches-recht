@@ -19,7 +19,7 @@ Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als V
 
 ## Aufgabe
 
-Skill fuer mandatum pecuniae credendae.
+Skill für mandatum pecuniae credendae.
 
 ## Rechtsquelle
 

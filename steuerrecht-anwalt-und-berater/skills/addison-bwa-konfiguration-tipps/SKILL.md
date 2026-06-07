@@ -19,7 +19,7 @@ Addison (Wolters Kluwer) ist die zweitstaerkste StB-Kanzleisoftware in Deutschla
 
 1. Welche Addison-Version (jaehrliche Updates)?
 2. Welche Module (Finanzbuchhaltung, Lohn, Jahresabschluss)?
-3. Welche Standard-Form fuer Mandanten?
+3. Welche Standard-Form für Mandanten?
 4. Welche Branchen-Konfiguration?
 5. Welche individuellen Anpassungen?
 6. Welche Schnittstellen aktiv (eRechnung, Bank)?
@@ -42,7 +42,7 @@ Hinweis: konkrete Form-Nummern und Bezeichnungen variieren mit der Addison-Versi
 
 ### Phase 2 — Konten-Konfiguration
 
-- Kontenrahmen SKR 03 / SKR 04 wie in DATEV; alternativ branchenspezifische Rahmen (z.B. SKR 14 Landwirtschaft, IKR fuer Industrieunternehmen).
+- Kontenrahmen SKR 03 / SKR 04 wie in DATEV; alternativ branchenspezifische Rahmen (z.B. SKR 14 Landwirtschaft, IKR für Industrieunternehmen).
 - BWA-Konten-Zuordnung ueber Berater-Stammdaten (typischer Pfad `Stammdaten → BWA-Konfiguration → Konten-Zuordnung`; konkreter Menue-Pfad variiert je Addison-Version — im Zweifelsfall in der Programm-Onlinehilfe unter "BWA-Konfiguration" nachschlagen).
 - Bei individuellen Konten manuelle Zuordnung zur BWA-Zeile vor erstem Lauf.
 
@@ -61,7 +61,7 @@ Hinweis: konkrete Form-Nummern und Bezeichnungen variieren mit der Addison-Versi
 ### Phase 5 — Ausgabe
 
 - PDF-Export mit Mandanten-Briefkopf.
-- Excel-Export fuer Detailauswertung (Pivot-tauglich).
+- Excel-Export für Detailauswertung (Pivot-tauglich).
 - Mandantenportal "Wolters Kluwer Mandanten-Cockpit" als Pendant zu DATEV Unternehmen Online.
 
 ### Phase 6 — Updates

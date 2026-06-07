@@ -19,7 +19,7 @@ Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung im Ausland na
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beihilfeberechtigte, die eine Behandlung im Ausland in Anspruch nehmen wollen oder genommen haben und deren Erstattungsfaehigkeit klaeren wollen.
+Skill für Beihilfeberechtigte, die eine Behandlung im Ausland in Anspruch nehmen wollen oder genommen haben und deren Erstattungsfaehigkeit klaeren wollen.
 
 ## 2. Eingaben
 
@@ -42,7 +42,7 @@ Skill fuer Beihilfeberechtigte, die eine Behandlung im Ausland in Anspruch nehme
 - Ggf. Vorabgenehmigung sinnvoll, um Unsicherheit zu vermeiden.
 
 ### d) Auslandsdienstbezuege
-- Bei Auslandsverwendung ist Beihilfe regelmaessig nur fuer Restkosten nach Auslandsdienstkrankenversicherung zu beanspruchen.
+- Bei Auslandsverwendung ist Beihilfe regelmaessig nur für Restkosten nach Auslandsdienstkrankenversicherung zu beanspruchen.
 
 ### e) Rehabilitation im Ausland
 - Reha im Ausland regelmaessig nur erstattungsfaehig, wenn ein vergleichbares Inlandsangebot fehlt oder die Maszahme im Einzelfall medizinisch erforderlich ist.

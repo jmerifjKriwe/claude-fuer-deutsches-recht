@@ -29,7 +29,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -134,9 +134,9 @@ Fuehrt Signing-to-Closing-Prozess: Conditions Precedent (CPs), Ordinary Course C
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
-1. **CP-Register anlegen:** alle CPs aus SPA extrahieren; je CP: Owner, Faelligkeit, Nachweis (Behoerdenbescheid, Beschluss, Zertifikat), Eskalationsstufe
+1. **CP-Register anlegen:** alle CPs aus SPA extrahieren; je CP: Owner, Faelligkeit, Nachweis (Behördenbescheid, Beschluss, Zertifikat), Eskalationsstufe
 2. **Kartell- und FDI-Timeline:** bei Fusionskontrollpflicht §§ 35 ff. GWB: Filing-Datum plus 4 Wochen (Phase I) oder Phase-II-Risiko einkalkulieren; FDI § 55 AWV: 2-4 Monate
 3. **Ordinary Course Covenants ueberwachen:** wochentliche Kontrolle Veraeusserungsverbote, Investitionskoerbe, wesentliche Vertragsaenderungen, Personalentscheidungen
 4. **Bring-down-Check:** Tage vor Closing alle SPA-Garantien gegen Ist-Zustand pruefen; MAC-Pruefung; eventuelle Closing-Verweigerung dokumentieren
@@ -150,7 +150,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Kartell-CP → GWB-Filing erforderlich → Vollzugsverbot bis Freigabe → Gun Jumping vermeiden
 - FDI-CP → § 55 AWV → Genehmigung abwarten → bei Verstoß: Nichtigkeit des Vollzugs
 - Bring-down scheitert → MAC ausgeloest → Kaeufer hat Ruecktrittsrecht → Pruefung und Dokumentation sofort
-- Longstop Date erreicht ohne CP → Ruecktrittsrecht → Frist 2 Wochen fuer Ruecktrittserklaerung (§ 349 BGB)
+- Longstop Date erreicht ohne CP → Ruecktrittsrecht → Frist 2 Wochen für Ruecktrittserklaerung (§ 349 BGB)
 
 ## Output-Template: CP-Tracker
 
@@ -162,7 +162,7 @@ Deal: [DEALNAME] — Signing: [DATUM] — Longstop: [DATUM]
 
 | Nr. | CP-Bezeichnung | Owner | Faelligkeit | Nachweistyp | Status |
 |----|---------------|-------|------------|-------------|--------|
-| 1 | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behoerdenbescheid | Ausstehend |
+| 1 | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behördenbescheid | Ausstehend |
 | 2 | FDI-Freigabe § 55 AWV | [KAEUFER] | [DATUM] | BMWi-Schreiben | Ausstehend |
 | 3 | Gesellschafterbeschluss Verkaeufer | [VERKAEUFER] | [DATUM] | Notarielles Protokoll | OK |
 | 4 | W&I Deckungszusage | [VERKAEUFER] | [DATUM] | Versicherer-Schreiben | TODO |
@@ -201,9 +201,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

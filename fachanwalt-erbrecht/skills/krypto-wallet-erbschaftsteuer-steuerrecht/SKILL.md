@@ -49,7 +49,7 @@ description: "Krypto Wallet Erbschaftsteuer Steuerrecht im Plugin Fachanwalt Erb
 6. Hat der Exchange Kenntnis vom Erbfall? Wurden Zugangssperrungen vorgenommen?
 7. Wie hoch ist der Anschaffungswert (relevant für § 23 EStG Spekulationsgewinnsteuer)?
 8. Gibt es Hinweise auf Smart-Contract-gebundene Assets (DeFi Liquidity Pools, Staking-Verträge)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

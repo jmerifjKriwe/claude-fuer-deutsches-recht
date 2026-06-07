@@ -19,7 +19,7 @@ Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abs
 
 ## Zweck
 
-Dieser Skill ist die abschliessende Qualitaetssicherung fuer das Strafbefehlsmandat. Er ist an drei kritischen Punkten einzusetzen:
+Dieser Skill ist die abschliessende Qualitaetssicherung für das Strafbefehlsmandat. Er ist an drei kritischen Punkten einzusetzen:
 1. **Vor Einspruch-Versand** — alle formalen Voraussetzungen erfuellt?
 2. **Vor der Hauptverhandlung** — vollstaendige Vorbereitung?
 3. **Nach dem Urteil** — Rechtsmitteloptionen geprueft?
@@ -48,7 +48,7 @@ AMPEL: GRUEN wenn alle Punkte erfuellt / ROT wenn Frist nicht mehr offen
 □ Einlassung mit Mandant abgestimmt (Schweigen oder Aussage)?
 □ Beweisantraege vorbereitet (Beweisthema + Beweismittel)?
 □ Sachverstaendiger beauftragt wenn noetig?
-□ Einkommensnachweise fuer Tagessatz-Pruefung vollstaendig?
+□ Einkommensnachweise für Tagessatz-Pruefung vollstaendig?
 □ § 153a-Antrag bei Staatsanwaltschaft gestellt oder abgelehnt?
 □ Verstaendigung § 257c StPO geprueft und entschieden?
 □ Mandant ueber HV-Ablauf informiert (Aufruf, Vernehmung, Plaedoyer, Letztes Wort)?

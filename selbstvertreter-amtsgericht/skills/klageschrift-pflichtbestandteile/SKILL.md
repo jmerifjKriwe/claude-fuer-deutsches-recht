@@ -54,7 +54,7 @@ Eine Klage muss bestimmte Pflichtangaben enthalten, sonst ist sie unzulaessig. �
 - **§ 253 II Nr. 2 ZPO** — Bestimmter Antrag.
 - **§ 253 III ZPO** — Streitwert, Beweismittel.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Kopfdaten
 
@@ -112,7 +112,7 @@ Antraege:
 2. Die Kosten des Rechtsstreits traegt der
  Beklagte.
 
-3. Das Urteil wird fuer vorlaeufig vollstreckbar
+3. Das Urteil wird für vorlaeufig vollstreckbar
  erklaert.
 ```
 
@@ -193,7 +193,7 @@ Skill `klageschrift-anlagen-bezeichnen`.
 
 ### Schritt 9 — Abschriften
 
-Pro Beklagter eine Abschrift fuer die Zustellung; zusaetzlich Original fuer das Gericht und Kopie fuer Sie.
+Pro Beklagter eine Abschrift für die Zustellung; zusaetzlich Original für das Gericht und Kopie für Sie.
 
 Skill `einreichung-papierform-mit-abschriften`.
 
@@ -267,7 +267,7 @@ Der Tatsachenvortrag (= Sachverhalt) ist das Fundament Ihrer Klage. Das Gericht 
 - **§ 296 ZPO** — Versplaeteter Vortrag — Praeklusion!
 - **§ 253 II Nr. 2 ZPO** — Klagegrund.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tatbestandsmerkmale identifizieren
 
@@ -357,7 +357,7 @@ Pro Tatbestandsmerkmal:
 - Habe ich vorgetragen?
 - Habe ich Beweis benannt?
 
-Beispiel-Checkliste fuer Kaufpreis-Forderung:
+Beispiel-Checkliste für Kaufpreis-Forderung:
 
 - [x] Kaufvertrag — Datum, Parteien, Sache, Preis.
 - [x] Uebergabe / Lieferung.
@@ -367,7 +367,7 @@ Beispiel-Checkliste fuer Kaufpreis-Forderung:
 
 ### Schritt 6 — Negative Tatsachen
 
-Wenn Sie eine Negative behaupten ("hat nicht gezahlt"), reicht die Behauptung. Beklagter muss substantiiert bestreiten, was er gezahlt hat (sekundaere Darlegungslast). Sie selbst koennen z. B. Kontoauszug als Beweis fuer "kein Eingang" anbieten.
+Wenn Sie eine Negative behaupten ("hat nicht gezahlt"), reicht die Behauptung. Beklagter muss substantiiert bestreiten, was er gezahlt hat (sekundaere Darlegungslast). Sie selbst koennen z. B. Kontoauszug als Beweis für "kein Eingang" anbieten.
 
 ### Schritt 7 — Schluessigkeit pruefen
 
@@ -456,7 +456,7 @@ Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das
 - **§ 104 ZPO** — Verfahren.
 - **§ 91 II 1 ZPO** — Anwaltskosten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzung: Kosten-Titel
 
@@ -470,7 +470,7 @@ Sie brauchen ein Urteil (oder Vergleich), das die Kostenfolge regelt:
 Aus § 91 ZPO und Rechtsprechung:
 
 - **Gerichtskosten**: Vorschuss, Sachverstaendigen-Auslagen.
-- **Anwaltskosten**: Wenn Sie Anwalt hatten (nach RVG). Bei Selbstvertretung: kein Erstattungs-Anspruch fuer eigene Zeit.
+- **Anwaltskosten**: Wenn Sie Anwalt hatten (nach RVG). Bei Selbstvertretung: kein Erstattungs-Anspruch für eigene Zeit.
 - **Reisekosten** zum Gericht (km-Pauschale, ggf. Hotel).
 - **Verdienstausfall** bei eigener Anwesenheit (begrenzt).
 - **Porto, Telekommunikation**.

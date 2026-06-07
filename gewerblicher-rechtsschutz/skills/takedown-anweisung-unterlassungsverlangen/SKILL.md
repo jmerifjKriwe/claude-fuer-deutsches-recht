@@ -355,7 +355,7 @@ Bevor der Takedown ausgeloest wird, klaere:
 1. Liegt eine klare Rechtsverletzung vor oder handelt es sich um Kritik/Parodie/Satire (urheberrechtliche Schranke)?
 2. Ist der Rechteinhaber klar identifiziert und ist der Einreicher zur Meldung berechtigt?
 3. Ist die Plattform eine Very Large Online Platform (VLOP) nach DSA Art. 33 (Pflicht zu foermlicehem Notice-and-Action-Verfahren)?
-4. Wurde das NetzDG geprueft (§§ 1-3 NetzDG) fuer strafbare Inhalte mit eigenen Loeschfristen?
+4. Wurde das NetzDG geprueft (§§ 1-3 NetzDG) für strafbare Inhalte mit eigenen Loeschfristen?
 
 ## Aktuelle Rechtsprechung
 

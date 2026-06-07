@@ -17,8 +17,8 @@ description: "Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft —
 2. Wer ist Organtraeger nach aktueller EuGH-Rechtsprechung — Personengesellschaft moeglich?
 3. Welche Umsaetze sind Innenumsaetze und damit nicht steuerbar?
 4. Folgen einer (Drohenden) Insolvenz der Organgesellschaft — Beendigung der Organschaft?
-5. Haftung Organtraeger § 73 AO fuer Steuern der Organgesellschaft?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+5. Haftung Organtraeger § 73 AO für Steuern der Organgesellschaft?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

@@ -68,7 +68,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 Bevor losgelegt wird, klaere:
 1. Verordnung (unmittelbar anwendbar), Richtlinie (Umsetzung), Beschluss (individuell adressiert) oder Soft Law?
-2. Ist Soft Law (Leitlinie, Mitteilung, Empfehlung) fuer den Mandanten faktisch bindend?
+2. Ist Soft Law (Leitlinie, Mitteilung, Empfehlung) für den Mandanten faktisch bindend?
 3. Koennte Soft Law anfechtbar sein (faktische Rechtswirkung)?
 
 ## Normen-Kette

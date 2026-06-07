@@ -3,11 +3,28 @@ name: eu-rechtsgeschichte-fuer-deutsche-juristen
 description: "Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historischer Perspektive. EGKS 1951, EWG 1957, EG-Vertrag, Maastricht 1992, Lissabon 2007 und Einfluss des Europarechts auf deutsche Rechtsordnung im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# EU-Rechtsgeschichte fuer deutsche Juristen
+# EU-Rechtsgeschichte für deutsche Juristen
 
 ## Arbeitsbereich
 
 Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historischer Perspektive. EGKS 1951, EWG 1957, EG-Vertrag, Maastricht 1992, Lissabon 2007 und Einfluss des Europarechts auf deutsche Rechtsordnung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historischer Perspekti
 
 ## Worum es geht
 
-Die europaeische Rechtsgeschichte beginnt fuer Deutschland mit dem EGKS-Vertrag von 1951 (BGBl. II 1952, 447), dem EWG-Vertrag und EURATOM von 1957 (BGBl. II 1957, 753). Die unmittelbare Wirkung des Europarechts wurde durch den EuGH 1963 (van Gend en Loos) und die Vorranglehre 1964 (Costa/ENEL) festgelegt. Das BVerfG entwickelte seine Solange-Rechtsprechung (Solange I 1974, BVerfGE 37, 271; Solange II 1986, BVerfGE 73, 339). Maastricht 1992 schuf die EU; das Lissaboner Reformvertrag 2007 (BGBl. II 2008, 1039) brachte die Charta der Grundrechte in Kraft.
+Die europaeische Rechtsgeschichte beginnt für Deutschland mit dem EGKS-Vertrag von 1951 (BGBl. II 1952, 447), dem EWG-Vertrag und EURATOM von 1957 (BGBl. II 1957, 753). Die unmittelbare Wirkung des Europarechts wurde durch den EuGH 1963 (van Gend en Loos) und die Vorranglehre 1964 (Costa/ENEL) festgelegt. Das BVerfG entwickelte seine Solange-Rechtsprechung (Solange I 1974, BVerfGE 37, 271; Solange II 1986, BVerfGE 73, 339). Maastricht 1992 schuf die EU; das Lissaboner Reformvertrag 2007 (BGBl. II 2008, 1039) brachte die Charta der Grundrechte in Kraft.
 
 ## Kernnormen / Kernquellen
 
@@ -33,7 +50,7 @@ Die europaeische Rechtsgeschichte beginnt fuer Deutschland mit dem EGKS-Vertrag 
 ## Akteure und Institutionen
 
 - **Walter Hallstein** (1901-1982): Erster Kommissionspraesident, Vorrangtheoretiker
-- **EuGH Luxemburg**: Praegend fuer europaeische Rechtsordnung seit 1952
+- **EuGH Luxemburg**: Praegend für europaeische Rechtsordnung seit 1952
 - **BVerfG**: Solange-Linie und Identitaetskontrolle
 - **Konrad Adenauer** und **Jean Monnet**: Politische Architekten der europaeischen Integration
 
@@ -48,9 +65,9 @@ Die europaeische Rechtsgeschichte beginnt fuer Deutschland mit dem EGKS-Vertrag 
 ## Methodik
 
 - Vertragstexte: eur-lex.europa.eu (konsolidierte Fassungen)
-- EuGH: curia.europa.eu fuer vollstaendige Urteile
+- EuGH: curia.europa.eu für vollstaendige Urteile
 - BVerfGE: bverfg.de
-- BGBl. II fuer Zustimmungsgesetze: gesetze-im-internet.de
+- BGBl. II für Zustimmungsgesetze: gesetze-im-internet.de
 
 ## Output
 

@@ -74,10 +74,10 @@ Hinweis: Adressen und URLs werden vor Versendung über die offizielle Behördens
 
 ## Berliner Struktur als Goldstandard
 
-Die Meldeformular-Vorlage der Berliner Beauftragten fuer Datenschutz und Informationsfreiheit deckt strukturell alle Pflichtangaben nach Art. 33 Abs. 3 DSGVO ab und wird als inhaltliche Pruefliste verwendet. Die Meldung gliedert sich in sechs Bloecke:
+Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informationsfreiheit deckt strukturell alle Pflichtangaben nach Art. 33 Abs. 3 DSGVO ab und wird als inhaltliche Pruefliste verwendet. Die Meldung gliedert sich in sechs Bloecke:
 
 **I. Wo ist die Datenpanne passiert?**
-- Verantwortliche Stelle (Unternehmen, Verein, Praxis, Behoerde) — Name, Anschrift, Webseite, Branche.
+- Verantwortliche Stelle (Unternehmen, Verein, Praxis, Behörde) — Name, Anschrift, Webseite, Branche.
 - Angaben zur meldenden Person — Name, Funktion, dienstliche E-Mail, Telefon.
 
 **II. Was ist passiert?**
@@ -88,10 +88,10 @@ Die Meldeformular-Vorlage der Berliner Beauftragten fuer Datenschutz und Informa
 - Datum der Kenntnisnahme (loest 72-Stunden-Frist aus).
 - Betroffene Datenarten — Namen; Adressen; E-Mail-Adressen; Standort; Geburtsdatum; Passwoerter; Personalausweisnummer; Pass; Steuernummer; Bankdaten; wirtschaftliche Verhaeltnisse; Straftaten; politische Meinungen; religioese Ueberzeugungen; Gewerkschaftszugehoerigkeit; Gesundheit; Sexualitaet; ethnische Herkunft; Biometrie; Identifikationsnummern; Fotos/Videos; unbekannt.
 - Art. 9 DSGVO-Daten ja/nein/nicht bekannt.
-- Kategorien betroffener Personen — Mitarbeitende; Nutzer; Kunden; Patienten; Politiker; Kinder/Minderjaehrige; Personen oeffentlichen Lebens; andere.
+- Kategorien betroffener Personen — Mitarbeitende; Nutzer; Kunden; Patienten; Politiker; Kinder/Minderjaehrige; Personen öffentlichen Lebens; andere.
 - Anzahl betroffener Personen (Obergrenze).
 - Anzahl betroffener Datensaetze.
-- Wahrscheinliche Folgen fuer Betroffene — Geheimnisoffenbarung; wirtschaftliche Nachteile; finanzieller Schaden; Bloss­stellung; Rufschaedigung; Verlust des Arbeitsplatzes; Existenzgefaehrdung; Lebensgefaehrdung; Diskriminierung; gesellschaftliche Nachteile; Identitaetsdiebstahl; Aufhebung Pseudonymisierung; andere.
+- Wahrscheinliche Folgen für Betroffene — Geheimnisoffenbarung; wirtschaftliche Nachteile; finanzieller Schaden; Bloss­stellung; Rufschaedigung; Verlust des Arbeitsplatzes; Existenzgefaehrdung; Lebensgefaehrdung; Diskriminierung; gesellschaftliche Nachteile; Identitaetsdiebstahl; Aufhebung Pseudonymisierung; andere.
 
 **III. Welche Gegenmassnahmen wurden ergriffen oder werden vorgeschlagen?**
 - Bereits eingeleitete und geplante Gegenmassnahmen zur Schadensminderung und zur kuenftigen Verhinderung.
@@ -99,7 +99,7 @@ Die Meldeformular-Vorlage der Berliner Beauftragten fuer Datenschutz und Informa
 - Information der Betroffenen ja/nein; wie und wann; welche Empfehlungen; bei nein Begruendung zu Art. 34 DSGVO.
 
 **IV. Sonstige Mitteilungen an die Aufsichtsbehoerde**
-- Andere Behoerden eingeschaltet (mit Aktenzeichen).
+- Andere Behörden eingeschaltet (mit Aktenzeichen).
 - Strafanzeige (Dienststelle, Aktenzeichen).
 - Sonstige Hinweise.
 
@@ -110,9 +110,9 @@ Die Meldeformular-Vorlage der Berliner Beauftragten fuer Datenschutz und Informa
 - Schluesselmaterial (PGP).
 
 **VI. Abschluss**
-- Vorlaeufige Meldung ja/nein; bei vorlaeufiger Meldung Ergaenzung binnen 14 Tagen.
+- Vorlaeufige Meldung ja/nein; bei vorläufiger Meldung Ergaenzung binnen 14 Tagen.
 
-Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; die Reihenfolge kann je nach Formular variieren.
+Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; die Reihenfolge kann je nach Formular variieren.
 
 ## Praxisformulierung — Einreichungsablauf
 
@@ -179,10 +179,10 @@ Hinweis: Adressen und URLs werden vor Versendung über die offizielle Behördens
 
 ## Berliner Struktur als Goldstandard
 
-Die Meldeformular-Vorlage der Berliner Beauftragten fuer Datenschutz und Informationsfreiheit deckt strukturell alle Pflichtangaben nach Art. 33 Abs. 3 DSGVO ab und wird als inhaltliche Pruefliste verwendet. Die Meldung gliedert sich in sechs Bloecke:
+Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informationsfreiheit deckt strukturell alle Pflichtangaben nach Art. 33 Abs. 3 DSGVO ab und wird als inhaltliche Pruefliste verwendet. Die Meldung gliedert sich in sechs Bloecke:
 
 **I. Wo ist die Datenpanne passiert?**
-- Verantwortliche Stelle (Unternehmen, Verein, Praxis, Behoerde) — Name, Anschrift, Webseite, Branche.
+- Verantwortliche Stelle (Unternehmen, Verein, Praxis, Behörde) — Name, Anschrift, Webseite, Branche.
 - Angaben zur meldenden Person — Name, Funktion, dienstliche E-Mail, Telefon.
 
 **II. Was ist passiert?**
@@ -193,10 +193,10 @@ Die Meldeformular-Vorlage der Berliner Beauftragten fuer Datenschutz und Informa
 - Datum der Kenntnisnahme (loest 72-Stunden-Frist aus).
 - Betroffene Datenarten — Namen; Adressen; E-Mail-Adressen; Standort; Geburtsdatum; Passwoerter; Personalausweisnummer; Pass; Steuernummer; Bankdaten; wirtschaftliche Verhaeltnisse; Straftaten; politische Meinungen; religioese Ueberzeugungen; Gewerkschaftszugehoerigkeit; Gesundheit; Sexualitaet; ethnische Herkunft; Biometrie; Identifikationsnummern; Fotos/Videos; unbekannt.
 - Art. 9 DSGVO-Daten ja/nein/nicht bekannt.
-- Kategorien betroffener Personen — Mitarbeitende; Nutzer; Kunden; Patienten; Politiker; Kinder/Minderjaehrige; Personen oeffentlichen Lebens; andere.
+- Kategorien betroffener Personen — Mitarbeitende; Nutzer; Kunden; Patienten; Politiker; Kinder/Minderjaehrige; Personen öffentlichen Lebens; andere.
 - Anzahl betroffener Personen (Obergrenze).
 - Anzahl betroffener Datensaetze.
-- Wahrscheinliche Folgen fuer Betroffene — Geheimnisoffenbarung; wirtschaftliche Nachteile; finanzieller Schaden; Bloss­stellung; Rufschaedigung; Verlust des Arbeitsplatzes; Existenzgefaehrdung; Lebensgefaehrdung; Diskriminierung; gesellschaftliche Nachteile; Identitaetsdiebstahl; Aufhebung Pseudonymisierung; andere.
+- Wahrscheinliche Folgen für Betroffene — Geheimnisoffenbarung; wirtschaftliche Nachteile; finanzieller Schaden; Bloss­stellung; Rufschaedigung; Verlust des Arbeitsplatzes; Existenzgefaehrdung; Lebensgefaehrdung; Diskriminierung; gesellschaftliche Nachteile; Identitaetsdiebstahl; Aufhebung Pseudonymisierung; andere.
 
 **III. Welche Gegenmassnahmen wurden ergriffen oder werden vorgeschlagen?**
 - Bereits eingeleitete und geplante Gegenmassnahmen zur Schadensminderung und zur kuenftigen Verhinderung.
@@ -204,7 +204,7 @@ Die Meldeformular-Vorlage der Berliner Beauftragten fuer Datenschutz und Informa
 - Information der Betroffenen ja/nein; wie und wann; welche Empfehlungen; bei nein Begruendung zu Art. 34 DSGVO.
 
 **IV. Sonstige Mitteilungen an die Aufsichtsbehoerde**
-- Andere Behoerden eingeschaltet (mit Aktenzeichen).
+- Andere Behörden eingeschaltet (mit Aktenzeichen).
 - Strafanzeige (Dienststelle, Aktenzeichen).
 - Sonstige Hinweise.
 
@@ -215,9 +215,9 @@ Die Meldeformular-Vorlage der Berliner Beauftragten fuer Datenschutz und Informa
 - Schluesselmaterial (PGP).
 
 **VI. Abschluss**
-- Vorlaeufige Meldung ja/nein; bei vorlaeufiger Meldung Ergaenzung binnen 14 Tagen.
+- Vorlaeufige Meldung ja/nein; bei vorläufiger Meldung Ergaenzung binnen 14 Tagen.
 
-Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; die Reihenfolge kann je nach Formular variieren.
+Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; die Reihenfolge kann je nach Formular variieren.
 
 ## Praxisformulierung — Einreichungsablauf
 

@@ -23,7 +23,7 @@ Eine Sammlung der haeufigsten Fehler aus der Praxis.
 | Forderung nicht hinreichend bezeichnet | Zurueckweisung | Anspruchsgrund mit Vertragsdatum |
 | Zinsen falsch eingegeben | Korrekturbescheid | korrekt B2B oder B2C |
 | Streitwert falsch | Gerichtskostenproblem | nochmal pruefen |
-| Antrag an unzustaendiges Mahngericht | Verzoegerung | Tabelle ZPO 689 nutzen |
+| Antrag an unzuständiges Mahngericht | Verzoegerung | Tabelle ZPO 689 nutzen |
 
 ## Phase Klage
 
@@ -31,8 +31,8 @@ Eine Sammlung der haeufigsten Fehler aus der Praxis.
 |---|---|---|
 | Klage nicht ueber beA eingereicht | Unwirksamkeit ZPO 130d | beA-Pflicht beachten |
 | Gerichtskostenvorschuss zu spaet | keine Rueckwirkung ZPO 167 | sofort einzahlen |
-| Streitwert falsch sachliche Zustaendigkeit | Verweisung Verzoegerung | GVG 23 71 pruefen |
-| Pauschal-Bestreiten ohne Substanz | Folge fuer Beklagte | substantiiert ZPO 138 Abs. 2 |
+| Streitwert falsch sachliche Zuständigkeit | Verweisung Verzoegerung | GVG 23 71 pruefen |
+| Pauschal-Bestreiten ohne Substanz | Folge für Beklagte | substantiiert ZPO 138 Abs. 2 |
 
 ## Phase Urteil und Vollstreckung
 
@@ -41,7 +41,7 @@ Eine Sammlung der haeufigsten Fehler aus der Praxis.
 | Vollstreckungsklausel nicht beantragt | keine Vollstreckung | Klausel beim Gericht beantragen |
 | Pfaendungsgrenze ZPO 850c nicht beruecksichtigt | unzulaessige Pfaendung | Tabelle nutzen |
 | Pfaendung gegen Insolvenzschuldner nach Eroeffnung | unwirksam InsO 89 | InsO-Pruefung vor Vollstreckung |
-| Verjaehrung Titel BGB 197 dreissig Jahre verkannt | unnoetige Eile | aber Hemmungshandlung dokumentieren |
+| Verjährung Titel BGB 197 dreissig Jahre verkannt | unnoetige Eile | aber Hemmungshandlung dokumentieren |
 
 ## Norm-Pinpoints
 

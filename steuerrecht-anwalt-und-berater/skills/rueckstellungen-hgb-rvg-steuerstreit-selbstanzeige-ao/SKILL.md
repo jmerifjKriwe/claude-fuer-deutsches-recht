@@ -32,7 +32,7 @@ Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verb
 3. Greift steuerliches Passivierungsverbot (z. B. Drohverlust § 5 Abs. 4a EStG)?
 4. Wird die Rueckstellung mit 5,5 Prozent abgezinst § 6 Abs. 1 Nr. 3a EStG?
 5. Gibt es Sonderregeln Pensionsrueckstellungen § 6a EStG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

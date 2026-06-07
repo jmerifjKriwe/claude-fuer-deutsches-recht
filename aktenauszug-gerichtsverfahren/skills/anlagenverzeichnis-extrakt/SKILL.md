@@ -26,7 +26,7 @@ Umfangreiche Gerichtsakten enthalten oft Hunderte von Anlagen, die über verschi
 1. Liegt ein vollständiges Inhaltsverzeichnis der Akte vor?
 2. Sind alle Schriftsätze in der Akte? Welche fehlen?
 3. Besteht Streit über Übergabe oder Vollständigkeit bestimmter Anlagen?
-4. Ist ein Anlageregister fuer Gericht oder fuer Mandant gedacht?
+4. Ist ein Anlageregister für Gericht oder für Mandant gedacht?
 
 ## Zentrale Normen
 

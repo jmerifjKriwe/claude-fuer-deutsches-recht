@@ -1,13 +1,13 @@
 ---
 name: zustaendigkeitspruefung-mahngericht
-description: "Sachliche § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026) und § 71 GVG (LG ab 10.001 EUR), oertliche Zustaendigkeit §§ 12-17 ZPO (allgemeiner Gerichtsstand Wohnsitz Schuldner), besondere Gerichtsstaende §§ 20-32 ZPO. Internationale Zustaendigkeit Bruessel Ia VO 1215/2012. Mahngericht § 689 ZPO zentral je Bundesland."
+description: "Sachliche § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026) und § 71 GVG (LG ab 10.001 EUR), oertliche Zuständigkeit §§ 12-17 ZPO (allgemeiner Gerichtsstand Wohnsitz Schuldner), besondere Gerichtsstaende §§ 20-32 ZPO. Internationale Zuständigkeit Bruessel Ia VO 1215/2012. Mahngericht § 689 ZPO zentral je Bundesland."
 ---
 
-# Zustaendigkeitspruefung
+# Zuständigkeitspruefung
 
-Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gericht sachlich, oertlich und ggf. international zustaendig.
+Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gericht sachlich, oertlich und ggf. international zuständig.
 
-## Sachliche Zustaendigkeit (Streitwert-Grenze)
+## Sachliche Zuständigkeit (Streitwert-Grenze)
 
 | Streitwert | Gericht | Norm | Anwaltszwang |
 |---|---|---|---|
@@ -23,7 +23,7 @@ Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gerich
 
 **Uebergangsregelung § 47 EGZPO**: Verfahren vor 01.01.2026 beim alten Gericht.
 
-## Oertliche Zustaendigkeit – Stufenpruefung
+## Oertliche Zuständigkeit – Stufenpruefung
 
 ### Allgemeiner Gerichtsstand §§ 12, 13, 17 ZPO
 
@@ -31,7 +31,7 @@ Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gerich
 |---|---|
 | Natuerliche Person | Wohnsitz (§ 13 ZPO) |
 | Juristische Person (GmbH, AG, e.V.) | Satzungssitz (§ 17 Abs. 1 ZPO), hilfsweise Verwaltungssitz |
-| Behoerde | Amtssitz (§ 17 Abs. 2 ZPO) |
+| Behörde | Amtssitz (§ 17 Abs. 2 ZPO) |
 | Person ohne Wohnsitz im Inland | letzter Wohnsitz Inland (§ 16 ZPO) |
 | Bei Auslandsbeklagtem | Aufenthalt / Vermoegen § 23 ZPO (besonderer Gerichtsstand) |
 
@@ -53,7 +53,7 @@ Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gerich
 |---|---|
 | Kaufmaennische Vertraege B2B | wirksam § 38 Abs. 1 ZPO |
 | Mit Verbraucher | nur eng beschraenkt § 38 Abs. 2 ZPO |
-| Auslandsbezug (vor Streit) | nur fuer kuenftige Streitigkeiten § 38 Abs. 2 ZPO |
+| Auslandsbezug (vor Streit) | nur für kuenftige Streitigkeiten § 38 Abs. 2 ZPO |
 | AGB-Klausel im B2C | regelmaessig unwirksam § 307 BGB |
 
 ### Ausschliesslicher Gerichtsstand (Vorrang)
@@ -66,7 +66,7 @@ Vor jeder Klage- oder Mahnantrag-Einreichung pruefen: ist das angegangene Gerich
 
 **Ausschliesslich** das **zentrale Mahngericht des Landes des Glaeubigers** (siehe Skill `mahnbescheid-online`).
 
-## Internationale Zustaendigkeit
+## Internationale Zuständigkeit
 
 ### Bruessel Ia VO (EU 1215/2012) – innerhalb EU
 
@@ -94,7 +94,7 @@ Parallel zu Bruessel Ia, weitgehend identisch.
 
 ## Verweisung § 281 ZPO
 
-Bei Unzustaendigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkung § 281 Abs. 2 ZPO. Vorsicht: Verweisung an LG nur ueber 10.000 EUR ohne Anwaltszwang nicht moeglich; vorherige Mandatierung.
+Bei Unzuständigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkung § 281 Abs. 2 ZPO. Vorsicht: Verweisung an LG nur ueber 10.000 EUR ohne Anwaltszwang nicht moeglich; vorherige Mandatierung.
 
 ## Online-Verifikation
 
@@ -107,13 +107,13 @@ Bei Unzustaendigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkun
 ## Output Pruefung
 
 ```
-Sachliche Zustaendigkeit:
+Sachliche Zuständigkeit:
   Streitwert:   EUR ...
   Gericht:      AG / LG ...
   Grundlage:    § 23 Nr. 1 GVG / § 71 GVG
   Anwaltszwang: ja/nein
 
-Oertliche Zustaendigkeit:
+Oertliche Zuständigkeit:
   Allgemein:    § 13/17 ZPO (Wohn-/Satzungssitz)
   Besonders:    ja/nein, § ... ZPO, ... 
   Ausschl.:     ja/nein, § ... ZPO
@@ -135,5 +135,5 @@ Verifiziert:
 - ZPO § 511 Berufung [gesetze-im-internet.de/zpo/__511.html](https://www.gesetze-im-internet.de/zpo/__511.html)
 - EGZPO § 47 [gesetze-im-internet.de/zpoeg/__47.html](https://www.gesetze-im-internet.de/zpoeg/__47.html)
 - Bruessel Ia VO [eur-lex.europa.eu/eli/reg/2012/1215/oj](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1215)
-- BGBl. 2025 I Nr. 318 vom 11.12.2025 (Erhoehung AG-Zustaendigkeit + Berufungssumme)
+- BGBl. 2025 I Nr. 318 vom 11.12.2025 (Erhoehung AG-Zuständigkeit + Berufungssumme)
 - Justizportal Gerichtssuche [justiz.de](https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php)

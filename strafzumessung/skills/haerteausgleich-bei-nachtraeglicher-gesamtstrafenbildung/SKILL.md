@@ -47,7 +47,7 @@ Wird die fruehere Strafe vor der jetzigen Verurteilung vollstaendig vollstreckt,
 
 Wird die Bewaehrung gluecklich beendet und die Strafe erlassen, kann sie nicht mehr einbezogen werden. Auch hier waere eine gemeinsame Aburteilung guenstiger gewesen.
 
-### 3. Verjaehrung der frueheren Strafe
+### 3. Verjährung der frueheren Strafe
 
 Die Strafe ist verjaehrt; keine Einbeziehung mehr.
 
@@ -66,7 +66,7 @@ Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
 - **Differenz** zwischen hypothetischer Gesamtstrafe und kumulierten Einzelstrafen kann als Massstab dienen.
 - **Strafabschlag** wird auf die nunmehr zu verhaengende Strafe angerechnet — entweder durch Senkung der Einzelstrafe oder durch ausdruecklichen Abschlag in der Strafzumessungsbegruendung.
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Vorverurteilungen** und Status pruefen: BZRG-Auszug, Vollstreckungsakte, Bewaehrungsentscheidungen.
 2. **Zaesur-Pruefung**: Wurde die abzuurteilende Tat **vor** der frueheren Verurteilung begangen?
@@ -108,7 +108,7 @@ Wenn die fruehere Strafe noch in Bewaehrung laeuft, ist die Einbeziehung nach §
 
 ### Mehrere Zaesuren
 
-Bei mehreren Vorverurteilungen ist sorgfaeltig zu pruefen, welche Strafen einbeziehbar sind und welche nicht — und ob fuer die nicht einbeziehbaren ein Haerteausgleich vorzunehmen ist.
+Bei mehreren Vorverurteilungen ist sorgfaeltig zu pruefen, welche Strafen einbeziehbar sind und welche nicht — und ob für die nicht einbeziehbaren ein Haerteausgleich vorzunehmen ist.
 
 ### Geldstrafe schon gezahlt
 

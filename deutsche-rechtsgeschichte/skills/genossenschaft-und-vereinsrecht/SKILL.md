@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Sc
 
 ## Worum es geht
 
-Das Genossenschaftsrecht ist eine eigenstaendige Erfolgsgeschichte des 19. Jh. Hermann Schulze-Delitzsch (1808-1883) gruendete die ersten Kreditgenossenschaften (Vorschussvereine) fuer Handwerker; Friedrich Wilhelm Raiffeisen (1818-1888) entwickelte laendliche Darlehenskassen. Das Preussische Genossenschaftsgesetz 1867 (PrGBl. 1867, 501) schuf die erste gesetzliche Grundlage. Das Reichsgenossenschaftsgesetz 1889 (RGBl. 1889, 55) war das erste gesamtdeutsche Genossenschaftsrecht. Das BGB 1900 schuf in §§ 21-79 das Vereinsrecht, das neben dem Genossenschaftsrecht trat. Gewerkschaften und Berufsverbande nutzten das BGB-Vereinsrecht.
+Das Genossenschaftsrecht ist eine eigenstaendige Erfolgsgeschichte des 19. Jh. Hermann Schulze-Delitzsch (1808-1883) gruendete die ersten Kreditgenossenschaften (Vorschussvereine) für Handwerker; Friedrich Wilhelm Raiffeisen (1818-1888) entwickelte laendliche Darlehenskassen. Das Preussische Genossenschaftsgesetz 1867 (PrGBl. 1867, 501) schuf die erste gesetzliche Grundlage. Das Reichsgenossenschaftsgesetz 1889 (RGBl. 1889, 55) war das erste gesamtdeutsche Genossenschaftsrecht. Das BGB 1900 schuf in §§ 21-79 das Vereinsrecht, das neben dem Genossenschaftsrecht trat. Gewerkschaften und Berufsverbande nutzten das BGB-Vereinsrecht.
 
 ## Kernnormen / Kernquellen
 

@@ -67,7 +67,7 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-1. Altfassung 1977 fuer Zeitraeume bis 2011; Neufassung 2011 ab 2012.
+1. Altfassung 1977 für Zeitraeume bis 2011; Neufassung 2011 ab 2012.
 
 ### Phase 2 — Ansaessigkeit klaeren
 ### Phase 3 — Einkunftsart einordnen
@@ -94,14 +94,14 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 - **Erstattungsverfahren HU → DE-Mandant**: Antrag bei der Nemzeti Adó- és Vámhivatal (NAV); Online-Portal der NAV (eBEV/Ügyfélkapu, vom Anwender mit aktuellem Stand des ungarischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung "Illetőségigazolás" der NAV als Anlage. NAV verlangt regelmaessig polnische Anlagen.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Ungarisch; bei Auslegungsfragen den ungarischen Text mit dem deutschen Text vergleichen, da ungarische Verwaltung tendenziell der ungarischen Fassung folgt.
 - **Lokaler Berater**: Bei ungarischer Kft. (Korlátolt Felelősségű Társaság, GmbH-Aequivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines ungarischen Steuerberaters; HU hat sehr strenge KFV-Pruefung (Verrechnungspreis-Dokumentation) und "innovacios jarulek" (Innovationsbeitrag) zusaetzlich zur KSt.
-- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten fuer Standard-Steuerdokumente.
+- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten für Standard-Steuerdokumente.
 
 ## Edge Cases und Was-Pruefer-Triggert
 
 - **Sozialversicherungs-Sondersteuern Ungarn**: HU-Arbeitgeberbeitraege (Sozialbeitrag "szociális hozzájárulási adó" reduziert auf 13 Prozent ab 2022, vom Anwender mit aktuellem ungarischem Steuerrecht zu verifizieren) plus diverse Branchen-Sonderabgaben (Bankensektor, Versicherung, Telekom, Einzelhandel). Diese sind durch DBA NICHT erfasst.
-- **Pillar Two seit 2024**: HU musste die EU-Pillar-Two-Richtlinie umsetzen — fuer multinationale Konzerne ueber 750 Mio EUR Umsatz Mindeststeuer 15 Prozent (Top-Up). Ungarn-Vorteil 9 Prozent KSt nivelliert sich fuer grosse Konzerne; fuer KMU bleibt 9 Prozent attraktiv.
+- **Pillar Two seit 2024**: HU musste die EU-Pillar-Two-Richtlinie umsetzen — für multinationale Konzerne ueber 750 Mio EUR Umsatz Mindeststeuer 15 Prozent (Top-Up). Ungarn-Vorteil 9 Prozent KSt nivelliert sich für grosse Konzerne; für KMU bleibt 9 Prozent attraktiv.
 - **§ 50d Abs. 3 EStG-Substanz**: HU-Holdings mit nur Briefkasten-Geschaeft werden nicht anerkannt — keine BZSt-Erstattung der einbehaltenen DE-Quellensteuer.
-- **HU-IPR (Intellectual Property Rights)-Regime**: bis 2016 Ungarn IP-Box-Regime mit Vorzugssteuer auf Lizenzeinkuenfte. Auslaufendes Regime — Bestandsschutz fuer Altfaelle; Neuverlagerungen nicht mehr attraktiv.
+- **HU-IPR (Intellectual Property Rights)-Regime**: bis 2016 Ungarn IP-Box-Regime mit Vorzugssteuer auf Lizenzeinkuenfte. Auslaufendes Regime — Bestandsschutz für Altfaelle; Neuverlagerungen nicht mehr attraktiv.
 - **Wahl Methodenartikel 2011**: Neufassung 2011 hat von Freistellung zu Anrechnung gewechselt — Altzeitraeume mit Freistellung weiter pruefen.
 
 ## Trade-offs
@@ -110,7 +110,7 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 |---|---|---|---|
 | HU-Holding 9 Prozent KSt vs. CFC | HU-Tochter mit aktivem Geschaeft: 9 Prozent KSt vorteilhaft | DE-CFC-Hinzurechnung bei passiven Einkuenften, Pillar Two Top-Up | bei aktivem Geschaeftsbetrieb Aktivitaetskatalog § 8 AStG durchpruefen — bei passiven Einkuenften CFC; bei Pillar-Two-Konzern Top-Up oft unvermeidlich |
 | EU-MTRL-Schachtel 10 Prozent vs. DBA-Schachtel 10 Prozent | EU-MTRL: 0 Prozent ab 10 Prozent Beteiligung | DBA-Ungarn: 5 Prozent ab 10 Prozent Beteiligung | EU-MTRL vorrangig — § 43b EStG |
-| Lizenzgebuehren 0 Prozent DBA-Hoechstsatz | DBA Art. 12: 0 Prozent — keine HU-QSt | EU-ZinsLizenzRL ergaenzend nicht erforderlich, da bereits 0 Prozent | DBA-Wirkung direkt; Freistellungsbescheinigung gleichwohl nuetzlich fuer den HU-Zahlenden zur Vermeidung von Rueckhalt-Risiko |
+| Lizenzgebuehren 0 Prozent DBA-Hoechstsatz | DBA Art. 12: 0 Prozent — keine HU-QSt | EU-ZinsLizenzRL ergaenzend nicht erforderlich, da bereits 0 Prozent | DBA-Wirkung direkt; Freistellungsbescheinigung gleichwohl nuetzlich für den HU-Zahlenden zur Vermeidung von Rueckhalt-Risiko |
 
 ## Berechnungsbeispiel
 
@@ -131,9 +131,9 @@ Bei KMU unter Pillar-Two-Schwelle bleibt die 10,4-Prozent-Belastung der erheblic
 4. **Laufende Compliance**: HU-Erklaerung mit Verrechnungspreis-Dokumentation; DE-Erklaerung mit Anrechnung und ggf. CFC-Hinzurechnung.
 5. **Audit-Vorbereitung**: HU-Pruefer akribisch bei Verrechnungspreisen und Substanz; DE-FA-Pruefung CFC und Pillar Two Top-Up.
 
-## Ausgabeformat fuer Mandanten-Memo Ungarn
+## Ausgabeformat für Mandanten-Memo Ungarn
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Automotive-Holding, IP-Lizenz, Beteiligung), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, niedrige HU-KSt 9 Prozent, CFC-Pruefung, Pillar Two.

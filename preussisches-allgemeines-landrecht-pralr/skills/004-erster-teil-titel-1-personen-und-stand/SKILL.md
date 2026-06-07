@@ -67,7 +67,7 @@ ALR I 1 normiert die natuerliche und juristische Person, Rechts- und Geschaeftsf
 
 ### Beruehmte Faelle / Personen
 - Streit um die "Adelsfuehrung" der ehemaligen Mediatisierten — bis in BVerfG-Entscheidungen zur Namensfuehrung (Az im Digitalisat verifizieren).
-- ALR-Personenrecht als Vorbild fuer ABGB (1811) und BGB (1900).
+- ALR-Personenrecht als Vorbild für ABGB (1811) und BGB (1900).
 
 ### Pruefraster
 1. Geht es um eine standesrechtliche Frage des historischen ALR oder um heutige Namensrechtsfragen? Trennung scharf.

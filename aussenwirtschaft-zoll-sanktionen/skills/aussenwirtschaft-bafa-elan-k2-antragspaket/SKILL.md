@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-bafa-elan-k2-antragspaket
-description: "Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstaendiges Antragspaket fuer BAFA-Genehmigungsantrag im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstaendiges Antragspaket für BAFA-Genehmigungsantrag im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BAFA ELAN-K2: Vollstaendiges Genehmigungsantragspaket aufbauen
 
 ## Arbeitsbereich
 
-Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstaendiges Antragspaket fuer BAFA-Genehmigungsantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstaendiges Antragspaket für BAFA-Genehmigungsantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,9 +19,9 @@ Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-O
 
 ## Mandantenfall
 
-- Maschinenbauunternehmen muss BAFA-Einzelgenehmigung fuer Lieferung von CNC-Maschinen nach Russland (vor Embargo) einholen.
+- Maschinenbauunternehmen muss BAFA-Einzelgenehmigung für Lieferung von CNC-Maschinen nach Russland (vor Embargo) einholen.
 - Elektronikexporteur reicht Dual-Use-Genehmigungsantrag ein; BAFA fordert Nachbesserung der EUC.
-- Ruestungslieferant stellt Sammelgenehmigungsantrag fuer laufende Lieferbeziehung in NATO-Partnerland.
+- Ruestungslieferant stellt Sammelgenehmigungsantrag für laufende Lieferbeziehung in NATO-Partnerland.
 
 ## Erste Schritte
 
@@ -60,7 +60,7 @@ Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-O
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-fassade-wdvs-brandsperren
-description: "Bauueberwachung HOAI LPH 8 fuer Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung WDVS-Fassade und Brandsperren
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -41,8 +41,8 @@ Das Waermedaemm-Verbundsystem ist DAS Mauerwerk der Fassade: Fehler im Kleberauf
 - § 650p BGB, § 650q BGB: Architektenvertrag, Dokumentation Brandschutz-Einbau WDVS
 - HOAI 2021 § 34 Anlage 10 LPH 8: Bauueberwachung Fassade und Brandschutznachweis
 - VOB/C DIN 18350 Putz- und Stuckarbeiten: Untergrundpruefung, Auftragsdik ke, Trocknungszeiten
-- DIBt-Zulassung Z-33.4-xx fuer das jeweilige WDVS-Fabrikat: Klebstoffe, Duebel, Putzsystem, Brandschutz-Ausfuehrungsvorgaben
-- MBO Musterbauordnung § 28 Abs. 3 und LBO der Laender: Brandschutznachweise Fassade, Brandsperren, Baustoffe Aussenwaende
+- DIBt-Zulassung Z-33.4-xx für das jeweilige WDVS-Fabrikat: Klebstoffe, Duebel, Putzsystem, Brandschutz-Ausfuehrungsvorgaben
+- MBO Musterbauordnung § 28 Abs. 3 und LBO der Länder: Brandschutznachweise Fassade, Brandsperren, Baustoffe Aussenwaende
 - DIN 18516-1:2021-01 Bekleidungen der Aussenwaende: Luftschicht, Befestigung, Winddruck-Nachweis vorgehaengte Fassaden
 
 ## Prueferaster und Kontrollpunkte
@@ -67,7 +67,7 @@ Das Waermedaemm-Verbundsystem ist DAS Mauerwerk der Fassade: Fehler im Kleberauf
 - SAP PM Meldungsart M2 Duebel-Anzahl Unterschreitung: Equipment-Nr Fassadenabschnitt z.B. FA-SUED-4.OG-03, Schadenscode F001 Duebel fehlend
 - SAP PS Netzplan WDVS: UNTERGRND-010 Vorbereitung, KLEBR-020 Daemmplatten-Einbau, DUEBEL-030 Duebelung, BRANDSP-040 Brandsperren, PUTZ-050 Armierung und Schlussbeschichtung
 - BIM360 Bauteil-Link: Fassaden-ID aus IFC-Modell, Brandsperre-Lage dokumentiert mit Foto und Bestaetigungs-Checkbox
-- Dalux Brandschutz-Checkliste: Geschoss, Lage, Material, Foto, Unterschrift Brandschutzsachverstaendiger, Export fuer Baubehoerde
+- Dalux Brandschutz-Checkliste: Geschoss, Lage, Material, Foto, Unterschrift Brandschutzsachverstaendiger, Export für Baubehoerde
 - Workflow: Fehlende Brandsperre erkannt, Meldung SAP und Dalux, Einbau angeordnet, Foto-Besteatigung, Abschluss Meldung vor naechstem Putzauftrag
 
 ## Typische Fallstricke

@@ -6,8 +6,8 @@ description: "Steuert Output und Versand für Schriftsatz Brief E-Mail Fax beA S
 # Output und Versandsteuerung
 
 ## Triage zu Beginn
-1. Welcher Versandkanal ist fuer diesen Ausgang vorgesehen: beA, Brief, Fax, E-Mail, Mandantenportal?
-2. Ist der Entwurf vom Anwalt freigegeben (persoenliche Freigabe Pflicht bei beA-Versand)?
+1. Welcher Versandkanal ist für diesen Ausgang vorgesehen: beA, Brief, Fax, E-Mail, Mandantenportal?
+2. Ist der Entwurf vom Anwalt freigegeben (persönliche Freigabe Pflicht bei beA-Versand)?
 3. Wurde der Versand-Vor-Check bereits durchgefuehrt (Dokument, Unterschrift, Adressat, Anlagen)?
 4. Ist ein fristgebundenes Dokument dabei, das sofort nach Versand ins Fristenbuch muss?
 
@@ -18,7 +18,7 @@ description: "Steuert Output und Versand für Schriftsatz Brief E-Mail Fax beA S
 - § 130a ZPO — Elektronisches Dokument: Anforderungen an Inhalt und Uebermittlungsweg
 - § 174 ZPO — Zustellungen von Anwalt zu Anwalt: Empfangsbekenntnis und Fristen
 - § 43 BRAO — Sorgfaltspflicht: umfasst Pruefung vor Ausgang
-- § 31a BRAO — beA-Nutzungspflicht: persoenlicher Versand durch Inhaber
+- § 31a BRAO — beA-Nutzungspflicht: persönlicher Versand durch Inhaber
 
 ## Quellenregel
 

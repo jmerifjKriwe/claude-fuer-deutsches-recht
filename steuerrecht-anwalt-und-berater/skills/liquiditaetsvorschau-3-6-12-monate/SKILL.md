@@ -27,7 +27,7 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 6. Welcher Auftragsbestand — zugesagte Aufträge mit Zahlungserwartung, Abschläge, Zahlungsziel?
 7. Gibt es Kreditverträge mit Covenants (EK-Quote, Leverage) und wann sind diese zu messen?
 8. Liegt ein Sanierungskonzept IDW S 6 vor oder soll die Vorschau Grundlage dafür sein?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -124,7 +124,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Liquiditaetsvorschau fuer 3 bis 12 Monate erstellen | Vorschau nach Schema; Schriftsatz unten |
+| Standard — Liquiditaetsvorschau für 3 bis 12 Monate erstellen | Vorschau nach Schema; Schriftsatz unten |
 | Variante A — Kurzfristige Liquiditaet kritisch Woche noetig | Kurzfrist-Vorschau separat; dann Mittelfrist ergaenzen |
 | Variante B — Saisonales Unternehmen | Saisonalitaets-Hinweise in Vorschau einarbeiten |
 | Variante C — Bankfinanzierung laeuft aus Prolongation noetig | Bankgespraeche-Version der Vorschau; Stresstest anfuegen |
@@ -202,7 +202,7 @@ FORTFÜHRUNGSPROGNOSE — [Firma] GmbH — [Datum]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

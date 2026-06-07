@@ -31,7 +31,7 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu K
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Kanada vom 19.04.2001**, in Kraft 28.03.2002, anwendbar ab 01.01.2001 fuer einbehaltene Steuern (BGBl. 2002 II S. 670; Inkrafttreten: BGBl. 2002 II S. 962).
+- **DBA Deutschland-Kanada vom 19.04.2001**, in Kraft 28.03.2002, anwendbar ab 01.01.2001 für einbehaltene Steuern (BGBl. 2002 II S. 670; Inkrafttreten: BGBl. 2002 II S. 962).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 6, § 20 AStG.
 - **MLI**: Deutschland und Kanada sind beide MLI-Unterzeichner. Ob das DBA-Kanada 2001 als gedecktes Steuerabkommen i.S.d. BEPS-MLI-Anwendungsgesetzes gilt, ist im aktuellen BMF-Schreiben zum Stand der DBA zu pruefen.
@@ -98,9 +98,9 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu K
 
 ## Edge Cases und Was-Pruefer-Triggert
 
-- **Hybride Unternehmen (LP, ULC)**: Kanadische ULC (Unlimited Liability Company) und LLP (Limited Liability Partnership) sind fuer kanadische Zwecke teilweise transparent — fuer deutsche Zwecke regelmaessig als KapGes klassifiziert. Hybridmismatch § 4k EStG.
+- **Hybride Unternehmen (LP, ULC)**: Kanadische ULC (Unlimited Liability Company) und LLP (Limited Liability Partnership) sind für kanadische Zwecke teilweise transparent — für deutsche Zwecke regelmaessig als KapGes klassifiziert. Hybridmismatch § 4k EStG.
 - **Quebec-Spezifika**: Quebec hat eigenes Zivilrecht (Code civil du Québec) und eigene Steuerverwaltung (Revenu Québec). Provinz-KSt addiert sich zur Bundes-KSt — Gesamtsteuerlast ca. 26,5 Prozent (vom Anwender mit aktuellem QC-Recht zu verifizieren).
-- **RRSP (Registered Retirement Savings Plan) und RRIF (Registered Retirement Income Fund)**: Kanadische steuerbeguenstigte Altersvorsorge — bei Wohnsitz DE pruefen ob analog zu IRA Pension Protection (Spezialregelung in DBA-Kanada Art. 18); Auszahlung kanadische QSt typ. 25 Prozent national, nach DBA reduziert. Erstattung CRA.
+- **RRSP (Registered Retirement Savings Plan) und RRIF (Registered Retirement Income Fund)**: Kanadische steuerbegünstigte Altersvorsorge — bei Wohnsitz DE pruefen ob analog zu IRA Pension Protection (Spezialregelung in DBA-Kanada Art. 18); Auszahlung kanadische QSt typ. 25 Prozent national, nach DBA reduziert. Erstattung CRA.
 - **CPP/QPP (Canada Pension Plan / Quebec Pension Plan)**: Gesetzliche Renten — DBA-Regelung typ. Wohnsitzstaat (Art. 18 DBA-CA).
 - **Branch Profits Tax (Branch Tax)**: Kanadische Branch Tax 25 Prozent national auf "branch profits"; DBA Art. 10 Abs. 6 reduziert auf 5 Prozent.
 - **Wegzug DE → CA**: Drittland — § 6 AStG harte Steuer, Stundung mit Sicherheiten und EuGH-Stundung schwierig.
@@ -119,17 +119,17 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu K
 Mandant mit Wohnsitz Deutschland hat RRSP-Bestand 100.000 CAD bei kanadischer Bank; Auszahlung 2025 in voller Hoehe:
 
 - CA-QSt national auf RRSP-Auszahlung: 25 Prozent = 25.000 CAD.
-- DBA-Kanada 2001 Art. 18: Wohnsitzstaat-Prinzip — DE besteuert; CA-QSt kann nach DBA reduziert sein (vom Anwender mit konkretem DBA-Text Art. 18 und Protokoll zu verifizieren; oft 15 Prozent fuer "periodic payments", 25 Prozent fuer "lump-sum").
+- DBA-Kanada 2001 Art. 18: Wohnsitzstaat-Prinzip — DE besteuert; CA-QSt kann nach DBA reduziert sein (vom Anwender mit konkretem DBA-Text Art. 18 und Protokoll zu verifizieren; oft 15 Prozent für "periodic payments", 25 Prozent für "lump-sum").
 - Erstattung Differenz ueber CRA — langwieriger Antragsprozess.
-- DE: RRSP-Auszahlung als auslaendische Pensionseinkuenfte (§ 22 EStG); persoenlicher Steuersatz angenommen 35 Prozent auf 100.000 CAD = ca. 67.500 EUR (Wechselkurs 1 EUR = 1,48 CAD vom Anwender mit aktuellem EZB-Kurs zu verifizieren) = 23.625 EUR DE-Steuer.
+- DE: RRSP-Auszahlung als auslaendische Pensionseinkuenfte (§ 22 EStG); persönlicher Steuersatz angenommen 35 Prozent auf 100.000 CAD = ca. 67.500 EUR (Wechselkurs 1 EUR = 1,48 CAD vom Anwender mit aktuellem EZB-Kurs zu verifizieren) = 23.625 EUR DE-Steuer.
 - Anrechnung CA-QSt (z.B. 15.000 CAD nach DBA-Reduktion = ca. 10.135 EUR) auf DE-Steuer; DE-Resteuer ca. 13.490 EUR.
 - Gesamtbelastung etwa entsprechend DE-Steuerniveau ohne Anrechnungsverlust.
 
 Bei Wegzug DE → CA: § 6 AStG bei wesentlichen Anteilen (mindestens 1 Prozent an KapGes); CA Drittland — harte Wegzugsbesteuerung. Vorab Planung zwingend.
 
-## Ausgabeformat fuer Mandanten-Memo Kanada
+## Ausgabeformat für Mandanten-Memo Kanada
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (RRSP/RRIF, CPP/QPP, Beteiligung, Branch, Quebec-Bezug), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, Branch Profits Tax, RRSP-Auszahlung, Wegzugsbesteuerung.

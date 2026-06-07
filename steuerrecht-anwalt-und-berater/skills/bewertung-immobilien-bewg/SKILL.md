@@ -1,9 +1,9 @@
 ---
 name: bewertung-immobilien-bewg
-description: "Bewertung von Grundvermoegen fuer Zwecke der Erbschaft- und Schenkungsteuer — Vergleichswertverfahren Ertragswertverfahren Sachwertverfahren nach §§ 176 ff. BewG sowie Nachweis des niedrigeren gemeinen Werts § 198 BewG. Anwendungsfall Finanzamt setzt einen Bedarfswert fest der erkennbar ueber dem tatsaechlichen Verkehrswert liegt — Mandant moechte niedrigeren Wert nachweisen. Behandelt Verfahrensauswahl Bewertungsparameter Sachverstaendigengutachten und Verfassungsfragen nach Aenderung 2023. Output Pruefraster und Antrag § 198 BewG. Abgrenzung zu fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg."
+description: "Bewertung von Grundvermoegen für Zwecke der Erbschaft- und Schenkungsteuer — Vergleichswertverfahren Ertragswertverfahren Sachwertverfahren nach §§ 176 ff. BewG sowie Nachweis des niedrigeren gemeinen Werts § 198 BewG. Anwendungsfall Finanzamt setzt einen Bedarfswert fest der erkennbar ueber dem tatsaechlichen Verkehrswert liegt — Mandant moechte niedrigeren Wert nachweisen. Behandelt Verfahrensauswahl Bewertungsparameter Sachverstaendigengutachten und Verfassungsfragen nach Aenderung 2023. Output Pruefraster und Antrag § 198 BewG. Abgrenzung zu fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg."
 ---
 
-# Bewertung von Immobilien fuer Erbschaft und Schenkung — §§ 176 ff. BewG
+# Bewertung von Immobilien für Erbschaft und Schenkung — §§ 176 ff. BewG
 
 ## Fachlicher Anker
 
@@ -18,7 +18,7 @@ description: "Bewertung von Grundvermoegen fuer Zwecke der Erbschaft- und Schenk
 3. Liegt ein zeitnahes qualifiziertes Gutachten eines oeffentlich bestellten Sachverstaendigen vor?
 4. Wurde der Antrag § 198 BewG mit Nachweis des niedrigeren gemeinen Werts gestellt?
 5. Gibt es verfassungsrechtliche Bedenken gegen die Bewertung nach BewG nF?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

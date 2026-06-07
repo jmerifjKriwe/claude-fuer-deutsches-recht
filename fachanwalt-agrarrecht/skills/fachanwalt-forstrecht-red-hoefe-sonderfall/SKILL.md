@@ -16,6 +16,23 @@ description: "Forstrecht RED Hoefe Sonderfall im Agrarrecht: prüft konkret Fach
 | `spezial-forstrecht-red-team-und-qualitaetskontrolle` | Forstrecht: Red-Team und Qualitätskontrolle im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-hoefe-sonderfall-und-edge-case` | Hoefe: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; landesrechtliche Wald-, Jagd-, Naturschutz- und Landwirtschaftsregeln live ergänzen, wenn sie den konkreten Auftrag tragen:
+
+- `§ 581 Abs. 1 BGB` — Pachtvertrag als Grundtyp.
+- `§ 585 Abs. 1 BGB` — Landpachtvertrag.
+- `§ 594a Abs. 1 BGB` — Kündigung und Fristen im Landpachtrecht.
+- `§ 1 GrdstVG` — Genehmigungspflicht im landwirtschaftlichen Grundstücksverkehr.
+- `§ 9 GrdstVG` — Versagungsgründe.
+- `§ 1 HöfeO` — Hofeigenschaft.
+- `§ 5 HöfeO` — Hoferbenstellung und Wirtschaftsfähigkeit live prüfen.
+- `§ 9 BWaldG` — Waldumwandlung.
+- `§ 11 BWaldG` — ordnungsgemäße Bewirtschaftung des Waldes.
+- `§ 14 BWaldG` — Betreten des Waldes.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

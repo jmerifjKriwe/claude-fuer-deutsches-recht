@@ -19,8 +19,8 @@ Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Manda
 
 ## Triage zu Beginn
 1. Was ist der Zweck des Abrufs: Vertretungspruefung, KYC/GwG, Zustellungsanschrift, Vertragspartei-Identifikation?
-2. Ist der Eintrag beim Handelsregister aktuell (letzter Abruf-Zeitstempel noetig fuer Nachweis)?
-3. Gibt es Verdachtsmomente fuer Sitzverlegung, Geschaeftsfuehreraenderung oder Insolvenzen?
+2. Ist der Eintrag beim Handelsregister aktuell (letzter Abruf-Zeitstempel noetig für Nachweis)?
+3. Gibt es Verdachtsmomente für Sitzverlegung, Geschaeftsfuehreraenderung oder Insolvenzen?
 4. Ist eine Gesellschafterliste (GmbH) oder Prokura-Eintragung relevant?
 
 ## Aktuelle Rechtsprechung
@@ -30,7 +30,7 @@ Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Manda
 - § 15 HGB — Registerpublizitaet: Eintragungen und deren Wirkung
 - § 8 HGB — Inhalt und Pflichtangaben des Handelsregisters
 - § 40 GmbHG — Gesellschafterliste: Hinterlegung und Wirkung als Nachweis der Mitgliedschaft
-- § 3 GwG — Sorgfaltspflichten fuer risikobasierte KYC-Pruefung (Handelsregister als Beleg)
+- § 3 GwG — Sorgfaltspflichten für risikobasierte KYC-Pruefung (Handelsregister als Beleg)
 
 ## Quellenregel
 

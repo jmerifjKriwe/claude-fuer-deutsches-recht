@@ -12,10 +12,10 @@ description: "Laienhilfe Aufhebung Rueckforderung im Plugin Fachanwalt Sozialrec
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-aufhebung-rueckforderung` | Laienverstaendlicher Sozialrechts-Skill zu Aufhebung Rueckforderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-beitragsbescheid-krankenkasse` | Laienverstaendlicher Sozialrechts-Skill zu Beitragsbescheid Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-berufskrankheit` | Laienverstaendlicher Sozialrechts-Skill zu Berufskrankheit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-berufung-beschwerde` | Laienverstaendlicher Sozialrechts-Skill zu Berufung Beschwerde. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-aufhebung-rueckforderung` | Laienverstaendlicher Sozialrechts-Skill zu Aufhebung Rueckforderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-beitragsbescheid-krankenkasse` | Laienverstaendlicher Sozialrechts-Skill zu Beitragsbescheid Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-berufskrankheit` | Laienverstaendlicher Sozialrechts-Skill zu Berufskrankheit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-berufung-beschwerde` | Laienverstaendlicher Sozialrechts-Skill zu Berufung Beschwerde. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ description: "Laienhilfe Aufhebung Rueckforderung im Plugin Fachanwalt Sozialrec
 
 ## 1. `laienhilfe-aufhebung-rueckforderung`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Aufhebung Rueckforderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Aufhebung Rueckforderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Aufhebung Rueckforderung
 
@@ -48,7 +48,7 @@ Dieser Skill erklaert **Aufhebung Rueckforderung** so, dass auch Menschen ohne j
 
 - Aufhebung Verwaltungsakt mit Dauerwirkung: § 48 SGB X – bei wesentlicher Aenderung der tatsaechlichen oder rechtlichen Verhaeltnisse; rueckwirkend nur bei grober Verletzung Mitwirkungspflichten oder Kenntnis/grob fahrlaessiger Unkenntnis.
 - Aufhebung rechtswidrig beguenstigender VA: § 45 SGB X – Vertrauensschutz pruefen (§ 45 Abs. 2 SGB X), Rueckwirkung nur bei Boesglaeubigkeit, falschen Angaben, Kenntnis.
-- Erstattung: § 50 SGB X – zu Unrecht erbrachte Leistungen sind zu erstatten; ab 4. Jahr Verjaehrung.
+- Erstattung: § 50 SGB X – zu Unrecht erbrachte Leistungen sind zu erstatten; ab 4. Jahr Verjährung.
 - Aufrechnung: § 51 SGB I – Aufrechnung mit laufenden Leistungen begrenzt (Existenzminimum, § 51 Abs. 2 SGB I, Pfaendungsfreigrenze).
 - Erlass / Stundung: § 76 SGB IV bei sozialversicherungsrechtlichen Rueckforderungen.
 - Widerspruchsfrist: § 84 SGG – einen Monat ab Bekanntgabe (drei Monate, wenn Belehrung fehlt § 66 SGG).
@@ -107,7 +107,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-beitragsbescheid-krankenkasse`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Beitragsbescheid Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Beitragsbescheid Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Beitragsbescheid Krankenkasse
 
@@ -169,11 +169,11 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 ## Beitragsbescheid Krankenkasse - Themenspezifika
 - **Rechtsgrundlage:** §§ 240, 241 SGB V (Beitragsbemessung freiwillig Versicherte); § 226 SGB V (Pflichtversicherte); § 232a SGB V (Bezieher Buergergeld); §§ 226-228 SGB V (Beitragspflichtige Einnahmen).
 - **Mindestbeitragsbemessungsgrundlage** freiwillig Versicherte regelmaessig 1/90 monatliche Bezugsgroesse - **jaehrlich anzupassen**, daher live pruefen (BMG-Bekanntmachung).
-- **Hauptberuflich Selbststaendige § 240 IV SGB V:** Mindestbeitrag oder Einkommen nach letztem Steuerbescheid; vorlaeufige Festsetzung.
-- **Bezieher Buergergeld § 232a SGB V:** vereinfachte Beitragsbemessung Mindestbeitrag; Buergergeld-Bescheid genuegt regelmaessig fuer Nachweis.
+- **Hauptberuflich Selbststaendige § 240 IV SGB V:** Mindestbeitrag oder Einkommen nach letztem Steuerbescheid; vorläufige Festsetzung.
+- **Bezieher Buergergeld § 232a SGB V:** vereinfachte Beitragsbemessung Mindestbeitrag; Buergergeld-Bescheid genuegt regelmaessig für Nachweis.
 - **Rentner § 237 SGB V:** Beitrag aus Rente, Versorgungsbezuegen, Arbeitseinkommen (in der Krankenversicherung Pflicht KVdR) und sonstigen Einkuenften (freiwillige); freiwillige Mitgliedschaft Vorrang vor KVdR-Prufung.
 - **Einkommensueberpruefung:** Beitragsbescheid stuetzt sich auf Einkommensteuerbescheid; bei abweichendem aktuellen Einkommen Antrag auf Anpassung mit Belegen (Gewinn- und Verlustrechnung, Lohnabrechnungen, BWA).
-- **Verjaehrung:** Beitragsforderung § 25 SGB IV regelmaessig 4 Jahre (vorsaetzlich 30 Jahre).
+- **Verjährung:** Beitragsforderung § 25 SGB IV regelmaessig 4 Jahre (vorsaetzlich 30 Jahre).
 - **Saeumniszuschlag § 24 SGB IV:** 1 % pro Monat.
 - **Praxis-Tipp:** Bei Existenzbedrohung Stundung § 76 II SGB IV beantragen; ggf. Erlass § 76 II Nr. 3 SGB IV in haerteren Faellen. Bei freiwilliger Mitgliedschaft pruefen, ob Wechsel in Familienversicherung § 10 SGB V moeglich (Einkommensgrenze 535 EUR/Monat bzw. 556 EUR Minijob).
 
@@ -187,7 +187,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-berufskrankheit`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Berufskrankheit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Berufskrankheit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Berufskrankheit
 
@@ -248,7 +248,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## Berufskrankheit - Themenspezifika
 - **Rechtsgrundlage:** § 9 SGB VII (Berufskrankheit), Berufskrankheitenverordnung (BKV) mit Anlage 1 (BK-Liste); §§ 26 ff. SGB VII (Leistungen); §§ 56 ff. SGB VII (Renten bei Minderung der Erwerbsfaehigkeit, MdE).
-- **Zustaendigkeit:** zustaendige Berufsgenossenschaft (gewerblich) bzw. Unfallkasse (oeffentlicher Dienst, Schule, Studium); BG-Liste DGUV.
+- **Zuständigkeit:** zuständige Berufsgenossenschaft (gewerblich) bzw. Unfallkasse (öffentlicher Dienst, Schule, Studium); BG-Liste DGUV.
 - **Drei Anerkennungsstufen** § 9 SGB VII:
  - (a) Listen-Berufskrankheit (Anlage 1 BKV, z. B. BK 2108 Lendenwirbelsaeule, BK 4101 Asbestose, BK 5101 Hauterkrankungen).
  - (b) Quasi-Listen-Berufskrankheit nach § 9 II SGB VII bei neuen Erkenntnissen.
@@ -269,7 +269,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-berufung-beschwerde`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Berufung Beschwerde. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Berufung Beschwerde. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Berufung Beschwerde
 
@@ -292,7 +292,7 @@ Dieser Skill erklaert **Berufung Beschwerde** so, dass auch Menschen ohne jurist
 - Zulassung Berufung: § 144 Abs. 2 SGG – grundsaetzliche Bedeutung, Divergenz, Verfahrensmangel.
 - Nichtzulassungsbeschwerde zum LSG: § 145 SGG – Frist 1 Monat.
 - Beschwerde gegen Beschluesse: § 172 SGG – Frist regelmaessig 1 Monat; nicht statthaft gegen prozessleitende Verfuegungen § 172 Abs. 2 SGG.
-- Postulationsfaehigkeit LSG: § 73 SGG – auch vor LSG kein Anwaltszwang fuer Versicherte, aber Sozialverband oder Anwalt mit PKH empfehlenswert.
+- Postulationsfaehigkeit LSG: § 73 SGG – auch vor LSG kein Anwaltszwang für Versicherte, aber Sozialverband oder Anwalt mit PKH empfehlenswert.
 - Praxis-Tipp: Berufung in der Frist einlegen ("Hiermit lege ich Berufung gegen das Urteil vom XX.XX.XXXX, Az. XXX, ein"). Begruendung kann nachgereicht werden. Bei Wertgrenzen-Problem (unter 750 EUR) Nichtzulassungs­beschwerde gleichzeitig nutzen.
 
 ## Erst sortieren

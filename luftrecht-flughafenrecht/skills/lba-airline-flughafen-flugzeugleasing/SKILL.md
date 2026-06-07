@@ -1,13 +1,13 @@
 ---
 name: lba-airline-flughafen-flugzeugleasing
-description: "Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zustaendig ist. Prueft §§ 29 31 LuftVG Zustaendigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zustaendigkeitsvermerk mit richtigem Adressaten fuer Widerspruch oder Klage im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zuständig ist. Prueft §§ 29 31 LuftVG Zuständigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zuständigkeitsvermerk mit richtigem Adressaten für Widerspruch oder Klage im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # LBA-Zuständigkeit prüfen – Behörde korrekt adressieren
 
 ## Arbeitsbereich
 
-Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zustaendig ist. Prueft §§ 29 31 LuftVG Zustaendigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zustaendigkeitsvermerk mit richtigem Adressaten fuer Widerspruch oder Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zuständig ist. Prueft §§ 29 31 LuftVG Zuständigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zuständigkeitsvermerk mit richtigem Adressaten für Widerspruch oder Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

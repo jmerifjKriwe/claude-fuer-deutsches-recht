@@ -1,13 +1,13 @@
 ---
 name: acc3-insolvenzrisiko-markieren
-description: "ACC3-Carrier zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel fuer Glaeubiger und Geschaeftspartner des ACC3-Carriers im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ACC3-Carrier zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel für Glaeubiger und Geschaeftspartner des ACC3-Carriers im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ACC3 – Insolvenzrisiko markieren
 
 ## Arbeitsbereich
 
-ACC3-Carrier zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel fuer Glaeubiger und Geschaeftspartner des ACC3-Carriers. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ACC3-Carrier zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel für Glaeubiger und Geschaeftspartner des ACC3-Carriers. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -12,7 +12,7 @@ description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Recht
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` | Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr. |
+| `spezial-rechtsschutz-fristen-form-und-zuständigkeit` | Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr. |
 | `spezial-schadensersatz-abschlussprodukt-und-uebergabe` | Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten. |
 | `designrecht-praxis-grundlagen` | Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster. Verletzungsfolgen, einstweilige Verfügung, Schadensersatz-Berechnung. Prüfraster für Modemarkenpraxis. |
 
@@ -25,7 +25,7 @@ description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Recht
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüfungslinien im Detail
 
-## 1. `spezial-rechtsschutz-fristen-form-und-zustaendigkeit`
+## 1. `spezial-rechtsschutz-fristen-form-und-zuständigkeit`
 
 **Fokus:** Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr.
 

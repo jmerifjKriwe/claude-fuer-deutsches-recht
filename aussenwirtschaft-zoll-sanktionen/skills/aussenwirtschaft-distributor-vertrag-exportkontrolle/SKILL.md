@@ -26,10 +26,10 @@ Exportkontrollklauseln in Distributor- und Handelsvertretervertraegen: Vertragli
 ## Erste Schritte
 
 1. Risikoprofil des Distributors und der Ziellaender ermitteln.
-2. Pflicht zur No-Russia-Clause pruefen (Art. 12g VO 833/2014) fuer relevante Gueterkategorien.
+2. Pflicht zur No-Russia-Clause pruefen (Art. 12g VO 833/2014) für relevante Gueterkategorien.
 3. Exportkontroll-Klauseln entwerfen: Re-Export-Verbot, Endverwender-Pflicht, Screeningpflicht, Audit-Recht.
 4. Gerichtsstand und anwendbares Recht mit Blick auf Durchsetzbarkeit der Exportkontroll-Pflichten waehlen.
-5. Vertragspartner bei Widerstand aufklaeren: Haftungsrisiken fuer den Distributor selbst.
+5. Vertragspartner bei Widerstand aufklaeren: Haftungsrisiken für den Distributor selbst.
 6. Bestandsvertraege auf fehlende Klauseln pruefen und Nachtragsvereinbarungen vorbereiten.
 
 ## Rechtsrahmen
@@ -37,21 +37,21 @@ Exportkontrollklauseln in Distributor- und Handelsvertretervertraegen: Vertragli
 - **Art. 12g VO (EU) 833/2014**: Pflichtklausel in Vertraegen ueber bestimmte Gueter.
 - **AWG §§ 17-18**: Haftung des Exporteurs bei Kenntnis der Weiterlieferung.
 - **Art. 9 VO (EU) 2021/821**: Vertragliche Compliance-Pflichten im Rahmen von ICP.
-- **§ 242 BGB**: Treu und Glauben als Auslegungsmassstab fuer Exportkontrollklauseln.
+- **§ 242 BGB**: Treu und Glauben als Auslegungsmassstab für Exportkontrollklauseln.
 - **VO (EU) 269/2014 Art. 2**: Bereitstellungsverbot auch durch Dritte.
 
 ## Pruef-Raster
 
-- [ ] No-Russia-Clause fuer relevante Gueterkategorien integriert?
+- [ ] No-Russia-Clause für relevante Gueterkategorien integriert?
 - [ ] Re-Export-Verbot in Kaufvertrag aufgenommen?
 - [ ] Endverwender-Erklaerungspflicht des Distributors geregelt?
 - [ ] Audit-Recht des Exporteurs vertraglich gesichert?
-- [ ] Gerichtsstand fuer Compliance-Streitigkeiten bestimmt?
+- [ ] Gerichtsstand für Compliance-Streitigkeiten bestimmt?
 - [ ] Bestandsvertraege nachtraeglich angepasst?
 
 ## Typische Fallstricke
 
-- Zu allgemeine Formulierungen ('comply with all applicable laws') genuegen fuer Art. 12g VO 833/2014 nicht.
+- Zu allgemeine Formulierungen ('comply with all applicable laws') genuegen für Art. 12g VO 833/2014 nicht.
 - Fehlende Audit-Rechte verhindern effektive Ueberwachung.
 - Ohne Ruecktrittsrecht bei Sanktionsverstoessen bleibt Exporteur in der Haftung.
 - Englische Klauselsprache kann bei auslaendischem Gericht anders ausgelegt werden.
@@ -60,7 +60,7 @@ Exportkontrollklauseln in Distributor- und Handelsvertretervertraegen: Vertragli
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Standardklauselwerk fuer Exportkontroll-Compliance-Schedule, No-Russia-Clause-Template, Muster-Nachtrag fuer Bestandsvertraege.
+Standardklauselwerk für Exportkontroll-Compliance-Schedule, No-Russia-Clause-Template, Muster-Nachtrag für Bestandsvertraege.
 
 ## Quellen
 

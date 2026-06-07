@@ -1,6 +1,6 @@
 ---
 name: kst-organschaft-14-kstg
-description: "Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Organschaft begruenden oder das Finanzamt versagt eine bestehende Organschaft wegen mangelhafter Durchfuehrung. Behandelt finanzielle Eingliederung Gewinnabfuehrungsvertrag § 291 AktG Mindestlaufzeit Verlustuebernahmeklausel § 302 AktG und steuerliche Folgen einer verungluckten Organschaft. Output Pruefraster Organschaftsvoraussetzungen und Auditmuster fuer GAV. Abgrenzung zu fa-stu-vga-pruefraster und fa-stu-anteilstausch-21-umwstg."
+description: "Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Organschaft begruenden oder das Finanzamt versagt eine bestehende Organschaft wegen mangelhafter Durchfuehrung. Behandelt finanzielle Eingliederung Gewinnabfuehrungsvertrag § 291 AktG Mindestlaufzeit Verlustuebernahmeklausel § 302 AktG und steuerliche Folgen einer verungluckten Organschaft. Output Pruefraster Organschaftsvoraussetzungen und Auditmuster für GAV. Abgrenzung zu fa-stu-vga-pruefraster und fa-stu-anteilstausch-21-umwstg."
 ---
 
 # Koerperschaftsteuerliche Organschaft — § 14 KStG und Gewinnabfuehrungsvertrag
@@ -18,7 +18,7 @@ description: "Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft 
 3. Ist die finanzielle Eingliederung iSd § 14 Abs. 1 Nr. 1 KStG gegeben (Stimmrechtsmehrheit ab Beginn des Wirtschaftsjahres)?
 4. Liegt ein wirksamer Gewinnabfuehrungsvertrag mit fuenf Jahren Mindestlaufzeit und Verlustuebernahmeklausel § 302 AktG vor?
 5. Wird der GAV tatsaechlich durchgefuehrt (Gewinnabfuehrung Verlustausgleich Buchungen)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat. Die Pr√
 
 ## Aufgabe
 
-Skill fuer die Entstehung des Grundgesetzes 1948/49 und seine Architektur.
+Skill f√ºr die Entstehung des Grundgesetzes 1948/49 und seine Architektur.
 
 ## Vorgeschichte
 

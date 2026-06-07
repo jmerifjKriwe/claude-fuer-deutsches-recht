@@ -13,10 +13,10 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `mutterrente-und-kindererziehung-56-sgb-vi` | Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Pruefraster. |
-| `nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x` | Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung fuer Vollziehung und Vollstreckung. Liefert Pruefraster. |
+| `nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x` | Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung für Vollziehung und Vollstreckung. Liefert Pruefraster. |
 | `nichtzulassungsbeschwerde-bsg-160a-sgg` | Nichtzulassungsbeschwerde zum BSG nach § 160a SGG. Wenn LSG Revision nicht zugelassen hat. Grundsatzbedeutung Divergenz Verfahrensmangel mit Anwalt. |
 | `orientierung-selbstvertreter-sozialgericht` | Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, Erwerbsminderungsrente, GdB, Sanity-Check, Rechtsprechungschat, Rechtsmittelgrenzen und Grundregeln des SGG. |
-| `persoenliches-budget-29-sgb-ix` | Persoenliches Budget nach § 29 SGB IX. Skill klaert die Voraussetzungen das trager-uebergreifende Budget Verwaltung Beratungsanspruch und typische Anwendungsfaelle (Assistenz Mobilitaet Wohnen). Liefert Antragsvorlage. |
+| `persönliches-budget-29-sgb-ix` | Persoenliches Budget nach § 29 SGB IX. Skill klaert die Voraussetzungen das trager-uebergreifende Budget Verwaltung Beratungsanspruch und typische Anwendungsfaelle (Assistenz Mobilitaet Wohnen). Liefert Antragsvorlage. |
 
 ## Arbeitsweg
 
@@ -43,7 +43,7 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 
 ## Grundsatz
 
-§ 56 SGB VI: Erziehungszeit fuer jedes Kind wird der Mutter (oder einem Elternteil) als Beitragszeit gutgeschrieben.
+§ 56 SGB VI: Erziehungszeit für jedes Kind wird der Mutter (oder einem Elternteil) als Beitragszeit gutgeschrieben.
 
 ## Reformen
 
@@ -59,7 +59,7 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 ## Hoehe
 
 - Pro Erziehungsjahr: 1 Entgeltpunkt (ca. 39 Euro Monatsrente West 2024 — verifizieren).
-- Mutterrente I/II hat zusaetzliche Entgeltpunkte fuer Vor-1992-Kinder.
+- Mutterrente I/II hat zusaetzliche Entgeltpunkte für Vor-1992-Kinder.
 
 ## Aufteilung zwischen Eltern
 
@@ -79,7 +79,7 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 
 ## 2. `nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x`
 
-**Fokus:** Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung fuer Vollziehung und Vollstreckung. Liefert Pruefraster.
+**Fokus:** Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung für Vollziehung und Vollstreckung. Liefert Pruefraster.
 
 # Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X
 
@@ -96,8 +96,8 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 VA ist nichtig wenn besonders schwerer Fehler vorliegt und dieser Fehler bei verstaendiger Wuerdigung aller in Betracht kommenden Umstaende offenkundig ist.
 
 ### Sondertatbestaende § 40 Abs. 2 SGB X
-- Schriftform nicht eingehalten und nicht erkennbar Behoerde.
-- Sache liegt ausserhalb Zustaendigkeitsbereich.
+- Schriftform nicht eingehalten und nicht erkennbar Behörde.
+- Sache liegt ausserhalb Zuständigkeitsbereich.
 - Niemand kann den VA ausfuehren.
 - Inhaltlich Strafgesetz verlangen oder gegen gute Sitten.
 
@@ -117,8 +117,8 @@ VA ist nichtig wenn besonders schwerer Fehler vorliegt und dieser Fehler bei ver
 ## Heilung formeller Fehler § 41 SGB X
 
 - Begruendung nachholbar.
-- Anhoerung nachholbar.
-- Mitwirkung anderer Behoerden nachholbar.
+- Anhörung nachholbar.
+- Mitwirkung anderer Behörden nachholbar.
 - Heilung bis zum Abschluss des Widerspruchsverfahrens.
 
 ## Pruefraster
@@ -169,7 +169,7 @@ Das LSG hat Sie nicht zum BSG gelassen. Sie koennen das selbst angreifen. Das ne
 - **§ 160a SGG** — Nichtzulassungsbeschwerde.
 - **§ 73 Abs. 4 SGG** — Anwaltszwang.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anwalt sofort suchen
 
@@ -271,26 +271,26 @@ Sie sind nicht einverstanden mit einem Bescheid. Sie koennen sich wehren. Das ge
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Bescheid**: Ein Brief von einer Behoerde. Darin steht, was die Behoerde entschieden hat.
-- **Widerspruch**: Ihr Einspruch gegen einen Bescheid. Der Widerspruch geht zuerst zur Behoerde, nicht zum Gericht.
+- **Bescheid**: Ein Brief von einer Behörde. Darin steht, was die Behörde entschieden hat.
+- **Widerspruch**: Ihr Einspruch gegen einen Bescheid. Der Widerspruch geht zuerst zur Behörde, nicht zum Gericht.
 - **Klage**: Ihr Antrag an das Sozialgericht, wenn der Widerspruch nicht hilft.
 - **Eilantrag**: Ein schneller Antrag, wenn es brennt. Zum Beispiel, wenn Ihr Geld gestoppt wurde.
-- **Sozialgericht (SG)**: Das Gericht fuer Streit um Sozialleistungen.
+- **Sozialgericht (SG)**: Das Gericht für Streit um Sozialleistungen.
 
 ## Rechtsgrundlagen
 
 - **§ 73 SGG** — Sie brauchen keinen Anwalt vor dem SG und dem Landessozialgericht (LSG). Nur vor dem Bundessozialgericht (BSG) brauchen Sie einen Anwalt.
-- **§ 183 SGG** — Kein Geld fuer das Gericht, wenn Sie Versicherter, Leistungsempfaenger oder Behinderter sind.
+- **§ 183 SGG** — Kein Geld für das Gericht, wenn Sie Versicherter, Leistungsempfaenger oder Behinderter sind.
 - **§ 103 SGG** — Das Gericht ermittelt von Amts wegen. Es muss selbst pruefen, was wahr ist.
 - **§ 78 SGG** — Vor der Klage muessen Sie Widerspruch einlegen.
-- **§ 84 SGG** — Frist fuer den Widerspruch: ein Monat.
-- **§ 87 SGG** — Frist fuer die Klage: ein Monat nach Widerspruchsbescheid.
+- **§ 84 SGG** — Frist für den Widerspruch: ein Monat.
+- **§ 87 SGG** — Frist für die Klage: ein Monat nach Widerspruchsbescheid.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ruhe bewahren und Datum notieren
 
-Schreiben Sie sich das Datum auf den Bescheid. Wann haben Sie ihn bekommen? Das ist wichtig fuer die Frist.
+Schreiben Sie sich das Datum auf den Bescheid. Wann haben Sie ihn bekommen? Das ist wichtig für die Frist.
 
 ### Schritt 2 — Den ersten Weg waehlen
 
@@ -340,7 +340,7 @@ Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch,
 
 - Frist nicht beachtet → sofort Posteingang notieren
 - Nur muendlich beschwert → schriftlich machen
-- Falsche Behoerde angeschrieben → Adressat aus dem Bescheid uebernehmen
+- Falsche Behörde angeschrieben → Adressat aus dem Bescheid uebernehmen
 - Den Bescheid wegwerfen → immer aufheben
 
 ## Querverweise
@@ -358,7 +358,7 @@ Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch,
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 fuer Buerger. Bei Unsicherheit pruefen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.
+Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. Bei Unsicherheit pruefen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.
 
 ## Qualitäts-Hardening
 
@@ -368,7 +368,7 @@ Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 fuer Buerger. B
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 5. `persoenliches-budget-29-sgb-ix`
+## 5. `persönliches-budget-29-sgb-ix`
 
 **Fokus:** Persoenliches Budget nach § 29 SGB IX. Skill klaert die Voraussetzungen das trager-uebergreifende Budget Verwaltung Beratungsanspruch und typische Anwendungsfaelle (Assistenz Mobilitaet Wohnen). Liefert Antragsvorlage.
 
@@ -384,7 +384,7 @@ Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 fuer Buerger. B
 
 ## Anspruch
 
-§ 29 SGB IX: Leistungen zur Teilhabe koennen auf Antrag als persoenliches Budget ausgefuehrt werden.
+§ 29 SGB IX: Leistungen zur Teilhabe koennen auf Antrag als persönliches Budget ausgefuehrt werden.
 
 ## Vorteile
 
@@ -414,7 +414,7 @@ Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 fuer Buerger. B
 
 ## Anwendungsfaelle
 
-- Persoenliche Assistenz fuer Schwerbehinderte.
+- Persoenliche Assistenz für Schwerbehinderte.
 - Familienunterstuetzende Dienste.
 - Mobilitaet (Fahrtkosten).
 

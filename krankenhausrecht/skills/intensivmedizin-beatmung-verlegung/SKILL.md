@@ -23,7 +23,7 @@ Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaeh
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), Strukturmerkmale fuer Beatmungs-OPS, Verlegung gemaess Intensivkapazitaeten, ausserklinische Beatmung nach IPReG (Intensivpflege- und Rehabilitationsstaerkungsgesetz). Fehleinordnung gefaehrdet Verguetung und Patientensicherheit.
+Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), Strukturmerkmale für Beatmungs-OPS, Verlegung gemaess Intensivkapazitaeten, ausserklinische Beatmung nach IPReG (Intensivpflege- und Rehabilitationsstaerkungsgesetz). Fehleinordnung gefaehrdet Verguetung und Patientensicherheit.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche Intensivstation (Erwachsene, Kinder, Neonatologie, Spezial)?
@@ -40,7 +40,7 @@ Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), St
 - **SGB V § 37c** Spezialisierte Ambulante Palliativversorgung (SAPV) als angrenzendes Feld.
 - **G-DRG-Katalog** Beatmungs- und Sepsis-DRGs mit Strukturmerkmal.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Stationskategorisierung pruefen:** Erwachsenen-, Kinder-, Neonatologie-Intensiv; Bettenzahl, Beatmungsplaetze.
 2. **PpUGV-Quote rechnen:** Pflege je Schicht, examinierte Quote, Helferanrechnung.
 3. **Beatmungsstunden korrekt erfassen:** Beginn (Intubation/Tracheostoma) bis Ende (Extubation), MD-konforme Doku.

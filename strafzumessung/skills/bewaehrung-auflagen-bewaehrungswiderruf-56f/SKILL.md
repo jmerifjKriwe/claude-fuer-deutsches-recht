@@ -19,7 +19,7 @@ Auflagen § 56b StGB und Weisungen § 56c StGB im Bewaehrungsbeschluss. Auflagen
 
 ## Worum geht es?
 
-Bei Aussetzung zur Bewaehrung kann das Gericht **Auflagen** (§ 56b StGB) und **Weisungen** (§ 56c StGB) erteilen. **Auflagen** dienen der Genugtuung fuer das begangene Unrecht. **Weisungen** dienen der Lebensfuehrung und Resozialisierung. Sinnvoll vorbereitete Auflagenangebote des Verteidigers helfen oft, die Bewaehrungsschwelle zu nehmen.
+Bei Aussetzung zur Bewaehrung kann das Gericht **Auflagen** (§ 56b StGB) und **Weisungen** (§ 56c StGB) erteilen. **Auflagen** dienen der Genugtuung für das begangene Unrecht. **Weisungen** dienen der Lebensfuehrung und Resozialisierung. Sinnvoll vorbereitete Auflagenangebote des Verteidigers helfen oft, die Bewaehrungsschwelle zu nehmen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -61,12 +61,12 @@ Das Gericht **kann** einen Bewaehrungshelfer bestellen. Bei Strafe ueber 9 Monat
 - Therapieweisungen nur mit **Einwilligung** des Verurteilten (§ 56c Abs. 3 Nr. 1, 2 StGB) — Therapie ist nicht erzwingbar.
 - Geldauflagen muessen wirtschaftlich tragbar sein.
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Vor der Hauptverhandlung**: Auflagenpaket mit dem Mandanten abstimmen — was kann er tragen?
  - Schadenswiedergutmachung an den Geschaedigten (auch Ratenangebot).
  - Geldbetrag an eine konkrete gemeinnuetzige Einrichtung in einer wirtschaftlich tragbaren Hoehe.
- - Stundenangebot fuer gemeinnuetzige Arbeit (z.B. 60 oder 100 Stunden).
+ - Stundenangebot für gemeinnuetzige Arbeit (z.B. 60 oder 100 Stunden).
 2. **Im Plaedoyer** ausdruecklich anbieten:
  - "Mein Mandant ist bereit, zur Genugtuung [...] zu zahlen."
  - "Mein Mandant ist bereit, [X] Stunden gemeinnuetzige Arbeit zu leisten."

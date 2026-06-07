@@ -147,7 +147,7 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 1. **Auslands-Versicherungs-Verlauf vergessen**
 2. **Antrag in falschem Wohnsitz-Land**
 3. **Sprachkenntnis nicht beachtet** Auslands-Bescheid
-4. **Verjaehrung Renten-Antrag** unbeachtet
+4. **Verjährung Renten-Antrag** unbeachtet
 
 ## 9) BSG-Linien und aktuelle Rechtsprechung
 
@@ -157,7 +157,7 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 
 - `fachanwalt-sozialrecht-orientierung` — Triage
 - `fachanwalt-sozialrecht-krankengeld-aussteuerung` — bei vorgelagertem KG
-- `fachanwalt-iwr-brussels-ia-zustaendigkeit` — bei Gerichts-Frage Ausland
+- `fachanwalt-iwr-brussels-ia-zuständigkeit` — bei Gerichts-Frage Ausland
 
 ## 2. `fachanwalt-sozialrecht-krankengeld-aussteuerung`
 
@@ -294,7 +294,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 8. Liegt Berufsunfähigkeit vor — und wurde ein GdB-Antrag (§ 69 SGB IX) bereits gestellt?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

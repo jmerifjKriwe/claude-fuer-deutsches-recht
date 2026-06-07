@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-doppelhaus-reihenhaus
-description: "Bauueberwachung nach HOAI LPH 8 fuer Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Doppelhaus und Reihenhaus (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -61,7 +61,7 @@ Jede Einheit wird separat abgenommen, da Kaeufermangelansprueche sich auf die je
 - PlanRadar einheitenbezogen: separate Projekte je Einheit oder getrennte Layer, eigene Maengelliste je Einheit
 - Drohnenflug DJI Mavic 3 nach Dachdeckung: Daemmung unter Ziegeln, Gratabschluss, Kehlwasserrinne dokumentiert
 - Lieferscheine Schallschutzelemente: Herstellerbescheinigung Trittschalldaemmplatten EN 13162, Pruefzeugnis Estrich
-- Videodokumentation Schlusskontrolle: 360-Grad-Kamera Ricoh Theta V je Einheit fuer Gewaehrleistungsansprueche
+- Videodokumentation Schlusskontrolle: 360-Grad-Kamera Ricoh Theta V je Einheit für Gewaehrleistungsansprueche
 - Fotodokumentation Haustrennwand vor Verputz: Bewehrung, Wanddicke, Anschluesse mit Massstab
 
 ## Meldungserstellung im ERP / SAP
@@ -70,7 +70,7 @@ Jede Einheit wird separat abgenommen, da Kaeufermangelansprueche sich auf die je
 - Nevaris Build: Bautagebuch je Einheit, Kostenkontrolle Gewerk-Abschnitte, Soll-Ist Abrechnungsstand
 - SAP PS Netzplan: je Reihenhauseinheit ein Vorgang, Meilenstein-Abnahme je Einheit als Zieldatum
 - RIB iTWO: Massenabgleich Ausschreibung vs. Aufmass je Einheit, Nachtragsmanagement Beton-Mehrmengen
-- Schlusskostenfeststellung je Einheit separat fuer individuelle Schlussrechnungspruefung
+- Schlusskostenfeststellung je Einheit separat für individuelle Schlussrechnungspruefung
 
 ## Typische Fallstricke
 
@@ -83,7 +83,7 @@ Jede Einheit wird separat abgenommen, da Kaeufermangelansprueche sich auf die je
 
 Einheitenbezogene Bautagebuecher. Schallschutz- und Brandschutzpruefprotokolle.
 Maengelreport je Einheit mit Fristen. Individuelle Abnahmeprotokolle je Kaeufer.
-Schlusskostenfeststellung je Einheit fuer Schlussrechnung des Bautraeger-Controllers.
+Schlusskostenfeststellung je Einheit für Schlussrechnung des Bautraeger-Controllers.
 
 ## Quellen
 

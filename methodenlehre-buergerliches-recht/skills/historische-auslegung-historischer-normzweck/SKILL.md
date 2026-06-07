@@ -74,8 +74,8 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 
 1. **Bundestags-Drucksachen** (BT-Drs.) — Regierungsentwurf, Stellungnahme Bundesrat, Gegenaeusserung Bundesregierung, Beschlussempfehlung des federfuehrenden Ausschusses.
 2. **Plenarprotokolle** des Bundestages (BT-Prot.) — Reden, Anfragen, Abstimmungsverhalten.
-3. **Ausschussberichte** und **Anhoerungen** — sachverstaendige Stellungnahmen, oft mit dogmatischem Tiefgang.
-4. **Vorarbeiten externer Kommissionen** — z. B. Schuldrechtskommission fuer die Schuldrechtsmodernisierung 2002.
+3. **Ausschussberichte** und **Anhörungen** — sachverstaendige Stellungnahmen, oft mit dogmatischem Tiefgang.
+4. **Vorarbeiten externer Kommissionen** — z. B. Schuldrechtskommission für die Schuldrechtsmodernisierung 2002.
 5. **Reichstags-Materialien** beim Stamm-BGB von 1900 — Mugdan und Jakobs/Schubert haben sie aufbereitet.
 
 **Beispiel Schuldrechtsmodernisierung 2002:** Die Materialien (BT-Drs. 14/6040; vgl. dipbt.bundestag.de) erklaeren detailliert die Neuregelung der Pflichtverletzungs-Dogmatik in § 280 BGB, die Kodifizierung der c.i.c. in § 311 Abs. 2 BGB und die Verzahnung des Schadensersatzes mit der Unmoeglichkeitsdogmatik (§§ 275 ff. BGB). Wer eine dieser Normen auslegt, sollte BT-Drs. 14/6040 zur Hand haben.
@@ -84,24 +84,24 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 
 **Beispiel EU-Umsetzungsgesetze:** Die Umsetzung der Verbraucherrechte-Richtlinie 2011/83/EU in §§ 312 ff. BGB ist dokumentiert in BT-Drs. 17/12637. Hier ist die historische Auslegung zugleich richtlinienkonforme Auslegung (siehe Skill `verfassungs-und-unionsrechtskonforme-auslegung`).
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Norm-Genese ermitteln.** Wann ist die Norm gefasst worden? Welche Reform? Welche EU-Richtlinie?
-2. **Materialien beschaffen.** Bundestags-Drucksachen ueber `dipbt.bundestag.de`; ueber das Dokumentations- und Informationssystem fuer Parlamentarische Vorgaenge.
+2. **Materialien beschaffen.** Bundestags-Drucksachen ueber `dipbt.bundestag.de`; ueber das Dokumentations- und Informationssystem für Parlamentarische Vorgaenge.
 3. **Massgebliche Drucksachen identifizieren.** Regierungsentwurf, Beschlussempfehlung, Plenardebatte.
 4. **Relevante Passagen extrahieren.** Wortgenaue Zitate, mit Drucksachen-Nummer und Seite.
 5. **Subjektive Position formulieren.** Was wollte der Gesetzgeber?
-6. **Objektive Position formulieren.** Was tragen die Materialien fuer den heutigen Anwendungsfall?
+6. **Objektive Position formulieren.** Was tragen die Materialien für den heutigen Anwendungsfall?
 7. **Bindungsstaerke pruefen.** Junge Reform, klarer Gesetzgeberwillen, dokumentierte Debatte: stark. Alte Norm, abweichende Gesellschaft, lueckenhafte Quellen: schwach.
 8. **Ergebnis dokumentieren** mit Beleg. Bei jedem Materialien-Zitat genaue BT-Drs. mit Seite.
 
 ## Typische Fehler / Kritik
 
 - **Materialien-Behauptungen ohne Beleg.** Wer "der Gesetzgeber wollte" schreibt, muss die Drucksache nennen. Behauptungen ohne BT-Drs.-Beleg sind unverwertbar.
-- **Einzelmeinung aus der Anhoerung verallgemeinern.** Eine Sachverstaendigen-Aussage in einer Bundestags-Anhoerung ist nicht der Wille des Gesetzgebers; sie ist ein Argument im Gesetzgebungsprozess.
+- **Einzelmeinung aus der Anhörung verallgemeinern.** Eine Sachverstaendigen-Aussage in einer Bundestags-Anhörung ist nicht der Wille des Gesetzgebers; sie ist ein Argument im Gesetzgebungsprozess.
 - **Subjektive Theorie verabsolutieren.** Der historische Gesetzgeberwille kann von der heutigen Wirklichkeit ueberholt sein. Reine Subjektivitaet versperrt die Anpassung des Rechts an neue Lebensverhaeltnisse.
 - **Objektive Theorie ohne Bezug.** Wer rein "objektiv" auslegt, ohne die Historie zu pruefen, verliert die Bindung an den demokratisch legitimierten Gesetzgeber.
-- **Historie bei sehr alten Normen ueberstrapazieren.** § 242 BGB existiert seit 1900; die Reichstagskommission hatte ihn als Programmsatz fuer Treu und Glauben; die Anwendung im Arbeitsrecht oder im Verbrauchsschutz ist heute weit ueber die historische Vorstellung hinausgewachsen.
+- **Historie bei sehr alten Normen ueberstrapazieren.** § 242 BGB existiert seit 1900; die Reichstagskommission hatte ihn als Programmsatz für Treu und Glauben; die Anwendung im Arbeitsrecht oder im Verbrauchsschutz ist heute weit ueber die historische Vorstellung hinausgewachsen.
 
 ## Querverweise
 
@@ -361,22 +361,22 @@ Heck schreibt: Gesetz ist Resultat eines Interessenkonflikts. Wer es anwendet, m
 
 **Beispiel § 437 BGB (Maengelrechte):** Interessenkonflikt zwischen Kaeufer (Erhaltung des Aequivalenzverhaeltnisses) und Verkaeufer (Beendigung des Vertrags ohne Wirtschaftsverlust). Der Gesetzgeber stuft: Nacherfuellung vor Ruecktritt, Minderung vor Schadensersatz statt der Leistung. Die Stufung ist Ergebnis einer Interessenabwaegung.
 
-**Beispiel § 280 BGB (Schadensersatz wegen Pflichtverletzung):** Interessenkonflikt zwischen Glaeubigerschutz (Erhalt der Leistung oder Kompensation) und Schuldnerschutz (kein Schaden ohne Vertretenmuessen). § 280 Abs. 1 S. 2 BGB ist Interessenabwaegung: Beweislastumkehr fuer das Vertretenmuessen, weil der Schuldner naeher an den Tatsachen ist.
+**Beispiel § 280 BGB (Schadensersatz wegen Pflichtverletzung):** Interessenkonflikt zwischen Glaeubigerschutz (Erhalt der Leistung oder Kompensation) und Schuldnerschutz (kein Schaden ohne Vertretenmuessen). § 280 Abs. 1 S. 2 BGB ist Interessenabwaegung: Beweislastumkehr für das Vertretenmuessen, weil der Schuldner naeher an den Tatsachen ist.
 
-**Beispiel § 138 BGB (Sittenwidrigkeit):** Interessenkonflikt Privatautonomie (Vertragsfreiheit) vs. Schutz vor uebermaessiger Benachteiligung. Die Konkretisierung erfolgt durch Interessenabwaegung im Einzelfall (vgl. Buergschaftsentscheidung BVerfGE 89, 214).
+**Beispiel § 138 BGB (Sittenwidrigkeit):** Interessenkonflikt Privatautonomie (Vertragsfreiheit) vs. Schutz vor uebermäßiger Benachteiligung. Die Konkretisierung erfolgt durch Interessenabwaegung im Einzelfall (vgl. Buergschaftsentscheidung BVerfGE 89, 214).
 
 **Beispiel § 242 BGB:** Treu und Glauben als Interessenmediator. Der Richter muss die Interessen der Parteien abwaegen und im Lichte der Verkehrssitte konkretisieren.
 
 **Beispiel Schadensrecht §§ 249 ff. BGB:** Interessenabwaegung zwischen Schaedigerentlastung und Geschaedigtenkompensation. Vorteilsausgleichung, Mitverschulden (§ 254 BGB), normativer Schadensbegriff sind interessenjuristisch durchgepraegt.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Interessen identifizieren.** Welche Interessen stehen sich im konkreten Fall gegenueber?
 2. **Gesetzgeberliche Wertung ermitteln.** Wie hat der Gesetzgeber den Interessenkonflikt grundsaetzlich geloest?
 3. **Norm-Architektur lesen.** Welche Tatbestandsmerkmale dienen welchen Interessen?
 4. **Wertungsabwaegung im konkreten Fall durchfuehren.** Welche Wertung passt zum Sachverhalt?
 5. **Ergebnis** in Form einer Interessenabwaegung im Schriftsatz darstellen.
-6. **Anbindung an Verfassungsrecht** pruefen (siehe Skill `wertungsjurisprudenz-larenz-canaris` fuer die moderne Verfeinerung).
+6. **Anbindung an Verfassungsrecht** pruefen (siehe Skill `wertungsjurisprudenz-larenz-canaris` für die moderne Verfeinerung).
 
 ## Typische Fehler / Kritik
 

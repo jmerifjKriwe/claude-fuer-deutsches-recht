@@ -1,13 +1,13 @@
 ---
 name: auslaenderrecht-warnwoerter-barrierefreie
-description: "Hilft bei Auslaenderrecht Warnwoerter fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Auslaenderrecht Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslaenderrecht Warnwoerter
 
 ## Arbeitsbereich
 
-Hilft bei Auslaenderrecht Warnwoerter fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Auslaenderrecht Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -24,10 +24,10 @@ Dieser Skill markiert **Warnwoerter im Auslaenderrecht** (Aufenthaltsrecht, Asyl
 ## Warnwoerter mit hoher Tragweite
 - **Ausreiseaufforderung**: Pflicht zum Verlassen Deutschlands binnen Frist.
 - **Abschiebungsandrohung (§ 59 AufenthG)**: nach Frist droht zwangsweise Rueckfuehrung.
-- **Duldung (§ 60a AufenthG)**: vorlaeufige Aussetzung der Abschiebung -- kein Aufenthaltstitel.
+- **Duldung (§ 60a AufenthG)**: vorläufige Aussetzung der Abschiebung -- kein Aufenthaltstitel.
 - **Bestandskraft / Unanfechtbarkeit**: Bescheid kann nicht mehr angefochten werden, wenn Frist versaeumt.
-- **Widerruf / Ruecknahme des Aufenthaltstitels (§§ 51, 52 AufenthG)**.
-- **Verzicht auf Anhoerungsrecht** im Asylverfahren: Nie verzichten -- Anhoerung ist Kernstueck (§ 25 AsylG).
+- **Widerruf / Rücknahme des Aufenthaltstitels (§§ 51, 52 AufenthG)**.
+- **Verzicht auf Anhörungsrecht** im Asylverfahren: Nie verzichten -- Anhörung ist Kernstueck (§ 25 AsylG).
 - **Folgeantrag**: nur unter engen Voraussetzungen (§ 71 AsylG); Beratung nutzen.
 - **Mitwirkungspflicht (§ 15 AsylG / § 82 AufenthG)**: aktive Mitwirkung an Identitaetsklaerung, Reisepass besorgen.
 - **"freiwillige Ausreise"**: zaehlt im Verfahren als Verzicht auf Aufenthalt; Folgen pruefen.
@@ -42,15 +42,15 @@ Dieser Skill markiert **Warnwoerter im Auslaenderrecht** (Aufenthaltsrecht, Asyl
 ## Start
 
 - Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
 - Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Arbeitsweise
 
 1. Schwierige Woerter markieren und kurz erklaeren.
 2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
-3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
+3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Rücknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
 4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
 5. Bei Unsicherheit genau eine Rueckfrage stellen.
 

@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-aeo-bewilligung-monitoring
-description: "AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmaessige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmäßige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten
 
 ## Arbeitsbereich
 
-AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmaessige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmäßige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Secu
 ## Erste Schritte
 
 1. Bewilligungstext und erteilte AEO-Kategorie (AEOC/AEOS/AEOF) sichten; Auflagen und Bedingungen identifizieren.
-2. Ereignis-/Aenderungslog fuer die letzten 12 Monate erstellen: Personalwechsel, IT-Systeme, Sicherheitskonzept, Eigentuemerstruktur.
+2. Ereignis-/Aenderungslog für die letzten 12 Monate erstellen: Personalwechsel, IT-Systeme, Sicherheitskonzept, Eigentuemerstruktur.
 3. Meldepflicht nach Art. 23 Abs. 2 UZK-IA und Hauptzollamt-Merkblatt bewerten; Meldefrist kalkulieren.
 4. Selbstevaluationsformular des Hauptzollamts aufrufen und aktuellen Erfuellungsgrad feststellen.
 5. Etwaige Versaumnisse dokumentieren und Nachbesserungsplan mit Terminen festlegen.
@@ -35,7 +35,7 @@ AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Secu
 ## Rechtsrahmen
 
 - **Art. 38-39 UZK (VO (EU) 952/2013)**: Grundvoraussetzungen und Kategorien der AEO-Zulassung.
-- **Art. 24-35 UZK-DA (VO (EU) 2015/2446)**: Beurteilungskriterien fuer Compliance, Buchfuehrung, Solvenz, Sicherheit.
+- **Art. 24-35 UZK-DA (VO (EU) 2015/2446)**: Beurteilungskriterien für Compliance, Buchfuehrung, Solvenz, Sicherheit.
 - **Art. 23 Abs. 2 UZK-IA (VO (EU) 2015/2447)**: Meldepflicht bei aenderungsrelevanten Ereignissen.
 - **§ 10 ZollVG**: Nationale Kontrollbefugnisse des Hauptzollamts.
 - **Art. 27-28 UZK-DA**: Aussetzung und Widerruf der AEO-Bewilligung.
@@ -53,14 +53,14 @@ AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Secu
 
 - Meldepflicht nach Art. 23 Abs. 2 UZK-IA wird bei Unternehmensumstrukturierungen oft uebersehen.
 - AEO-Status wird nicht automatisch auf Tochtergesellschaften uebertragen; neuer Antrag noetig.
-- Versaumnisse bei regelmaessiger Selbstevaluation fuehren zu Aussetzungsverfahren.
+- Versaumnisse bei regelmäßiger Selbstevaluation fuehren zu Aussetzungsverfahren.
 - Compliance-Luecken bei Subunternehmern im Sicherheitskonzept werden unterschaetzt.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

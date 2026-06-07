@@ -13,7 +13,7 @@ description: "eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Anwendungsf
 
 ## Kernsachverhalt
 
-Seit 01.01.2025 sind alle inlaendischen B2B-Unternehmer verpflichtet, **eRechnungen empfangen zu koennen** (§ 14 Abs. 1 i.V.m. Abs. 2 UStG n.F., Wachstumschancengesetz vom 27.03.2024, BMF-Schreiben vom 15.10.2024). Die **Versandpflicht** ist demgegenueber gestaffelt: Bis 31.12.2026 duerfen Rechnungen weiterhin als PDF/sonstige elektronische Form mit Empfaengerzustimmung versendet werden; bis 31.12.2027 bleibt dies fuer Kleinunternehmen mit Vorjahresumsatz bis 800.000 EUR moeglich. Ab 01.01.2028 ist der eRechnungs-Versand zwischen inlaendischen Unternehmern verbindlich. Akzeptierte Formate: XRechnung (CIUS-konform, reines XML) und ZUGFeRD ab Version 2.0.1 (Hybridformat). Der Steuerberater muss Mandanten ueber die Pflicht informieren und insbesondere die Empfangsbereitschaft sicherstellen.
+Seit 01.01.2025 sind alle inlaendischen B2B-Unternehmer verpflichtet, **eRechnungen empfangen zu koennen** (§ 14 Abs. 1 i.V.m. Abs. 2 UStG n.F., Wachstumschancengesetz vom 27.03.2024, BMF-Schreiben vom 15.10.2024). Die **Versandpflicht** ist demgegenueber gestaffelt: Bis 31.12.2026 duerfen Rechnungen weiterhin als PDF/sonstige elektronische Form mit Empfaengerzustimmung versendet werden; bis 31.12.2027 bleibt dies für Kleinunternehmen mit Vorjahresumsatz bis 800.000 EUR moeglich. Ab 01.01.2028 ist der eRechnungs-Versand zwischen inlaendischen Unternehmern verbindlich. Akzeptierte Formate: XRechnung (CIUS-konform, reines XML) und ZUGFeRD ab Version 2.0.1 (Hybridformat). Der Steuerberater muss Mandanten ueber die Pflicht informieren und insbesondere die Empfangsbereitschaft sicherstellen.
 
 ## Kaltstart-Rueckfragen
 
@@ -34,7 +34,7 @@ Seit 01.01.2025 sind alle inlaendischen B2B-Unternehmer verpflichtet, **eRechnun
 
 **§ 14 Abs. 2 UStG n.F.** — Ausstellungspflicht in eRechnungsform zwischen inlaendischen Unternehmern (mit Uebergangsregeln § 27 Abs. 38 UStG).
 
-**§ 27 Abs. 38 UStG n.F.** — Uebergangsregeln (sonstige Rechnungsform bis 31.12.2026 / 31.12.2027 fuer Kleinunternehmer mit Umsatz <= 800.000 EUR).
+**§ 27 Abs. 38 UStG n.F.** — Uebergangsregeln (sonstige Rechnungsform bis 31.12.2026 / 31.12.2027 für Kleinunternehmer mit Umsatz <= 800.000 EUR).
 
 **§ 33 UStDV, § 34 UStDV** — Ausnahmen (Kleinbetrag, Fahrausweis).
 
@@ -56,7 +56,7 @@ Seit 01.01.2025 sind alle inlaendischen B2B-Unternehmer verpflichtet, **eRechnun
 |---|---|---|
 | Empfang | Ab 01.01.2025 | Alle inlaendischen B2B-Unternehmer (zwingende Empfangsbereitschaft, ohne Schwellenwert) |
 | Versand sonstige elektr. Rechnungen | 01.01.2025 - 31.12.2026 | Versand als PDF / sonstige elektronische Form weiter zulaessig, sofern Empfaengerzustimmung |
-| Versand sonstige elektr. Rechnungen, Kleinunternehmer | 01.01.2025 - 31.12.2027 | Verlaengert fuer Rechnungsausstellung durch Unternehmer mit Vorjahresumsatz <= 800.000 EUR |
+| Versand sonstige elektr. Rechnungen, Kleinunternehmer | 01.01.2025 - 31.12.2027 | Verlaengert für Rechnungsausstellung durch Unternehmer mit Vorjahresumsatz <= 800.000 EUR |
 | eRechnung-Versand vollumfaenglich | Ab 01.01.2028 | Verbindlich; PDF/Papier zwischen inlaendischen Unternehmern nicht mehr ausreichend |
 | Ausgenommen | dauerhaft | Kleinbetragsrechnungen § 33 UStDV (bis 250 EUR), Fahrausweise § 34 UStDV, B2C-Rechnungen |
 
@@ -66,7 +66,7 @@ Stand BMF-Schreiben vom 15.10.2024 (IV D 2 - S 7287-a/23/10001:007); Aktualisier
 
 | Format | Eigenschaften |
 |---|---|
-| XRechnung | Reines XML nach CIUS der KoSIT; Standard fuer oeffentliche Auftraggeber (E-Rech-VO Bund seit 27.11.2020) |
+| XRechnung | Reines XML nach CIUS der KoSIT; Standard für öffentliche Auftraggeber (E-Rech-VO Bund seit 27.11.2020) |
 | ZUGFeRD ab Version 2.0.1 | Hybridformat PDF/A-3 mit eingebettetem XML; menschen- und maschinenlesbar; ab Profil EN-16931 eRechnung-konform |
 | Sonstige (z.B. EDIFACT) | Nur zulaessig, wenn EN-16931-konforme strukturierte Rechnungsdaten enthalten / extrahierbar sind |
 
@@ -74,7 +74,7 @@ Hinweis: Das ZUGFeRD-Profil MINIMUM und BASIC-WL sind **nicht** eRechnung-konfor
 
 ### Phase 3 — Empfangs-Setup
 
-- Mailpostfach fuer eRechnung definieren.
+- Mailpostfach für eRechnung definieren.
 - Peppol-Anschluss (selten in DACH; wachsend).
 - DATEV Empfang ueber DUO oder externes Tool (z.B. Inposia, Coupa).
 
@@ -82,7 +82,7 @@ Hinweis: Das ZUGFeRD-Profil MINIMUM und BASIC-WL sind **nicht** eRechnung-konfor
 
 - Faktura-Software mit eRechnungs-Ausgabe in XRechnung (XML) und/oder ZUGFeRD (PDF/A-3 + XML).
 - Datenmapping: Konten- und Stammdaten zu den Pflichtfeldern nach EN-16931 (BT-Felder); insbesondere Leitweg-ID bei B2G-Rechnungen.
-- Test-Rechnungen mit Lieferanten / Kunden vor Echtbetrieb (Validierung ueber KoSIT-Validator fuer XRechnung).
+- Test-Rechnungen mit Lieferanten / Kunden vor Echtbetrieb (Validierung ueber KoSIT-Validator für XRechnung).
 
 ### Phase 5 — Archivierung
 
@@ -92,7 +92,7 @@ Hinweis: Das ZUGFeRD-Profil MINIMUM und BASIC-WL sind **nicht** eRechnung-konfor
 
 ### Phase 6 — Mandanten-Information
 
-Mustertext fuer den Mandantenrundbrief (anzupassen an Mandantenstruktur):
+Mustertext für den Mandantenrundbrief (anzupassen an Mandantenstruktur):
 
 ```
 Sehr geehrte Damen und Herren,
@@ -103,12 +103,12 @@ Eine reine PDF-Rechnung erfuellt nicht mehr die Anforderungen an eine eRechnung;
 ein Vorsteuerabzug kann gefaehrdet sein.
 
 Wir bitten Sie, folgende Schritte zu pruefen:
-1. Empfangs-E-Mail-Adresse fuer eRechnungen festlegen
+1. Empfangs-E-Mail-Adresse für eRechnungen festlegen
  (z.B. rechnungen@ihre-firma.de) und Lieferanten mitteilen.
 2. Buchhaltungssoftware auf eRechnungs-Empfang konfigurieren
  (XRechnung XML / ZUGFeRD ab Profil EN-16931).
 3. GoBD-konforme Archivierung im Originalformat XML sicherstellen.
-4. Bis 31.12.2026 (bzw. 31.12.2027 fuer Mandanten mit Umsatz <= 800.000 EUR)
+4. Bis 31.12.2026 (bzw. 31.12.2027 für Mandanten mit Umsatz <= 800.000 EUR)
  kann der Versand weiterhin als PDF mit Empfaengerzustimmung erfolgen;
  ab 01.01.2028 ist der eRechnungs-Versand zwingend.
 
@@ -131,7 +131,7 @@ Mit freundlichen Gruessen
 
 - Die wichtigste Stufe ist seit 01.01.2025 die **Empfangsbereitschaft** — ohne sie kann ein eRechnungs-pflichtiger Lieferant nicht ordnungsgemaess abrechnen, der Mandant verliert ggf. den Vorsteuerabzug.
 - Mindest-Empfangsweg ist ein E-Mail-Postfach, das XML-/PDF-Anhaenge bis ueblicher Groesse annimmt; ein dediziertes eRechnungs-Postfach erleichtert und GoBD-Archivierung.
-- ZUGFeRD eignet sich als Einstiegsformat fuer Mittelstand und Kleinunternehmer (PDF bleibt fuer den Anwender lesbar). XRechnung ist Pflichtformat im B2G-Verkehr mit Bundesstellen (E-Rech-VO seit 27.11.2020) und in einigen Laendern.
+- ZUGFeRD eignet sich als Einstiegsformat für Mittelstand und Kleinunternehmer (PDF bleibt für den Anwender lesbar). XRechnung ist Pflichtformat im B2G-Verkehr mit Bundesstellen (E-Rech-VO seit 27.11.2020) und in einigen Ländern.
 - DATEV-Hinweis: In DATEV Unternehmen Online laesst sich der eRechnungs-Empfang ueber das Postfach "Eingangsrechnungen" und das ZUGFeRD-Auswertungsmodul konfigurieren; konkrete Programmpfade in DATEV-Onlinehilfe und Versionshinweisen nachschlagen.
 - StBVV: Konfigurationsberatung als Beratungsleistung gem. § 21 StBVV oder Pauschalvereinbarung gem. § 14 StBVV (Mandanten frueh per Rundschreiben informieren — Mustertext im Skill `stb-mandantenanfrage-reaktion-frist-laufend`).
 
@@ -152,7 +152,7 @@ Stand: 05/2026.
 - EU-RL 2014/55/EU; Norm EN-16931.
 - KoSIT XRechnung-Spezifikation Version 3.0.2 (Stand: Winter 2025/26, gueltig ab 31.01.2026; jeweils aktuelle Fassung unter xeinkauf.de abrufbar).
 - ZUGFeRD-Spezifikation (FeRD), aktuelle Profile pruefen.
-- ViDA (VAT in the Digital Age) — Beschluss Rat der EU v. 11.03.2025; ABl. EU v. 25.03.2025; in Kraft getreten 14.04.2025; stufenweise Umsetzung bis 2035; Digital Reporting Requirements (DRR) ab 01.07.2030 fuer grenzueberschreitende B2B-Lieferungen.
+- ViDA (VAT in the Digital Age) — Beschluss Rat der EU v. 11.03.2025; ABl. EU v. 25.03.2025; in Kraft getreten 14.04.2025; stufenweise Umsetzung bis 2035; Digital Reporting Requirements (DRR) ab 01.07.2030 für grenzueberschreitende B2B-Lieferungen.
 - Hinweis: alle Werte und Fristen laufend gegen BMF-Newsletter und bzst.de abgleichen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BMF-Schreiben 15.10.2024 bestaetigt), 3 ersetzt (DATEV-Programmpfad auf Onlinehilfe verwiesen; KoSIT XRechnung-Spezifikation 3.0.2 Winter 2025/26 bestaetigt; ViDA Ratsbeschluss 11.03.2025 bestaetigt) -->

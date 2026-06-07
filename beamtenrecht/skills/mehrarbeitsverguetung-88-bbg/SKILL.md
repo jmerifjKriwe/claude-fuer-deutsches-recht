@@ -1,13 +1,13 @@
 ---
 name: mehrarbeitsverguetung-88-bbg
-description: "Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjaehrung der Mehrarbeitsansprueche und das Verhaeltnis zur unionsrechtlichen Arbeitszeitrichtlinie. Behandelt Sonderfaelle wie Bereitschaftsdienst Rufbereitschaft Verwendung im polizeilichen Sondereinsatz und im Justizvollzug. Liefert Antragsmuster und Schriftsatz fuer Verguetungsklage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjährung der Mehrarbeitsansprueche und das Verhaeltnis zur unionsrechtlichen Arbeitszeitrichtlinie. Behandelt Sonderfaelle wie Bereitschaftsdienst Rufbereitschaft Verwendung im polizeilichen Sondereinsatz und im Justizvollzug. Liefert Antragsmuster und Schriftsatz für Verguetungsklage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mehrarbeitsverguetung nach § 88 BBG
 
 ## Arbeitsbereich
 
-Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjaehrung der Mehrarbeitsansprueche und das Verhaeltnis zur unionsrechtlichen Arbeitszeitrichtlinie. Behandelt Sonderfaelle wie Bereitschaftsdienst Rufbereitschaft Verwendung im polizeilichen Sondereinsatz und im Justizvollzug. Liefert Antragsmuster und Schriftsatz fuer Verguetungsklage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjährung der Mehrarbeitsansprueche und das Verhaeltnis zur unionsrechtlichen Arbeitszeitrichtlinie. Behandelt Sonderfaelle wie Bereitschaftsdienst Rufbereitschaft Verwendung im polizeilichen Sondereinsatz und im Justizvollzug. Liefert Antragsmuster und Schriftsatz für Verguetungsklage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, die Mehrarbeit geleistet haben und entweder Freizeitausgleich oder Mehrarbeitsverguetung verlangen. Anwendung bei Bereitschaftsdienst, Rufbereitschaft, Sondereinsaetzen und langfristigen Ueberhaengen.
+Skill für Beamte, die Mehrarbeit geleistet haben und entweder Freizeitausgleich oder Mehrarbeitsverguetung verlangen. Anwendung bei Bereitschaftsdienst, Rufbereitschaft, Sondereinsaetzen und langfristigen Ueberhaengen.
 
 ## 2. Eingaben
 
@@ -33,14 +33,14 @@ Skill fuer Beamte, die Mehrarbeit geleistet haben und entweder Freizeitausgleich
 
 ### a) Voraussetzungen
 - Schriftliche oder muendliche Anordnung der Mehrarbeit durch den Dienstvorgesetzten.
-- Dienstliche Notwendigkeit; Mehrarbeit fuer den einzelnen Beamten in zwingenden Faellen.
+- Dienstliche Notwendigkeit; Mehrarbeit für den einzelnen Beamten in zwingenden Faellen.
 
 ### b) Ausgleich
 - Vorrangig Freizeitausgleich innerhalb von zwoelf Monaten (§ 88 BBG).
 - Nur wenn Freizeitausgleich aus zwingenden dienstlichen Gruenden nicht moeglich, kommt Verguetung in Geld nach der MArbVergV in Betracht.
 
 ### c) Bereitschaftsdienst
-- Bereitschaftsdienst ist nach EuGH-Rechtsprechung (Arbeitszeitrichtlinie 2003/88/EG) als Arbeitszeit zu werten, soweit der Beamte sich an einem vom Dienstherrn bestimmten Ort aufhalten muss. Folgen fuer Mehrarbeitsberechnung.
+- Bereitschaftsdienst ist nach EuGH-Rechtsprechung (Arbeitszeitrichtlinie 2003/88/EG) als Arbeitszeit zu werten, soweit der Beamte sich an einem vom Dienstherrn bestimmten Ort aufhalten muss. Folgen für Mehrarbeitsberechnung.
 - Rufbereitschaft regelmaessig keine Arbeitszeit.
 
 ### d) Hoechstarbeitszeit
@@ -48,7 +48,7 @@ Skill fuer Beamte, die Mehrarbeit geleistet haben und entweder Freizeitausgleich
 
 ### e) Antrag und Frist
 - Antrag auf Geldausgleich nach Ablauf der zwoelfmonatigen Ausgleichsfrist.
-- Allgemeine Verjaehrungsfristen pruefen.
+- Allgemeine Verjährungsfristen pruefen.
 
 ## 4. Quellenpflicht
 

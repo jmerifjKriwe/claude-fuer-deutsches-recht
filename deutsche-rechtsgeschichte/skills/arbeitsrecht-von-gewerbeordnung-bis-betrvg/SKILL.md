@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 186
 
 Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -23,7 +40,7 @@ Das moderne Arbeitsrecht entstand schrittweise aus dem Gewerberecht. Die Gewerbe
 
 ## Kernnormen / Kernquellen
 
-- **GewO § 152** (1869): Koalitionsfreiheit fuer Arbeitnehmer
+- **GewO § 152** (1869): Koalitionsfreiheit für Arbeitnehmer
 - **Arbeiterschutznovelle 1891 (RGBl. 1891, 261)**: Sonntagsruhe, Kinderarbeit, Frauenschutz
 - **Tarifvertragsordnung 1918 (RGBl. 1918, 1456)**: Erste gesetzliche Anerkennung des Tarifvertrags
 - **Betriebsraetegesetz 1920 (RGBl. 1920, 147)**: Betriebsrat in der Weimarer Republik
@@ -33,7 +50,7 @@ Das moderne Arbeitsrecht entstand schrittweise aus dem Gewerberecht. Die Gewerbe
 
 - **Carl Legien** (1861-1920): Fuehrer des allgemeinen deutschen Gewerkschaftsbundes
 - **Hugo Sinzheimer** (1875-1945): Vater des deutschen Arbeitsrechts (Tarifvertrag, Betriebsrat)
-- **Deutsche Arbeitsfront** (DAF, 1933-1945): NS-Ersatz fuer Gewerkschaften
+- **Deutsche Arbeitsfront** (DAF, 1933-1945): NS-Ersatz für Gewerkschaften
 - **Bundesarbeitsgericht (BAG)**: Leitinstanz seit 1954
 
 ## Typische Streitfragen / Forschungsfragen
@@ -55,8 +72,8 @@ Das moderne Arbeitsrecht entstand schrittweise aus dem Gewerberecht. Die Gewerbe
 
 - Zeitleiste Arbeitsrecht: 1839-1972
 - Tarifvertrag: Entwicklung von 1918 bis heute
-- BetrVG 1952 vs. 1972: Rechtsvergleich der Betriebsratszustaendigkeiten
+- BetrVG 1952 vs. 1972: Rechtsvergleich der Betriebsratszuständigkeiten
 
 ## Quellenregel
 
-GewO 1869: RGBl. NDB 1869 via ALEX/OeNB. BetrVG 1972: gesetze-im-internet.de. Tarifvertragsgesetz 1949: BGBl. 1949, 55. BAG: bundesarbeitsgericht.de oder JURIS fuer BAG-Rspr.
+GewO 1869: RGBl. NDB 1869 via ALEX/OeNB. BetrVG 1972: gesetze-im-internet.de. Tarifvertragsgesetz 1949: BGBl. 1949, 55. BAG: bundesarbeitsgericht.de oder JURIS für BAG-Rspr.

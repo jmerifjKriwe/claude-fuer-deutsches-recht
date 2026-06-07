@@ -24,7 +24,7 @@ Beachte: Mandantendaten unterliegen § 43a Abs. 2 BRAO, § 203 StGB. Mandatsisol
 ### `neu` – Neues Mandat anlegen
 
 1. Mandat-ID vergeben (Kürzel, z.B. `mand-2024-04-mueller-dsfa`).
-2. Verzeichnis anlegen: `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/mandate/[mandat-id]/`
+2. Verzeichnis anlegen: `~/.claude/plugins/config/claude-für-deutsches-recht/datenschutzrecht/mandate/[mandat-id]/`
 3. Leere `mandat.md` mit Pflichtfeldern anlegen (s. Struktur unten).
 4. Aktives Mandat in Praxisprofil auf neue ID setzen.
 5. Bestätigung ausgeben: "Mandat [ID] angelegt. Alle folgenden Skill-Aufrufe arbeiten in diesem Mandatskontext."

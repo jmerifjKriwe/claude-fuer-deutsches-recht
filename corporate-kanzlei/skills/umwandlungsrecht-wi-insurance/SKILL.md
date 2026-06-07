@@ -34,14 +34,14 @@ Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensu
 5. Minderheitsgesellschafter: Ausstiegsrecht, Abfindung, Andienungspflicht?
 6. Arbeitnehmer: § 613a BGB analog; Information und Beratung Betriebsrat (§§ 5, 21 UmwG)?
 7. Insolvenzfall: Umwandlung in der Krise nach StaRUG oder InsO?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
 - **§§ 2-122 UmwG** — Verschmelzung (Aufnahme und Neugründung); Verschmelzungsvertrag, Verschmelzungsbericht, HV/GV-Beschluss 3/4-Mehrheit
 - **§§ 123-173 UmwG** — Spaltung (Aufspaltung, Abspaltung, Ausgliederung); partieller Vermoegensuebertrag
 - **§§ 190-304 UmwG** — Formwechsel; Identitaet der Gesellschaft bleibt erhalten; Anteilsneubegründung
-- **§§ 174-189 UmwG** — Vermoegensuebertragung auf oeffentliche Hand
+- **§§ 174-189 UmwG** — Vermoegensuebertragung auf öffentliche Hand
 - **§§ 11-25 UmwStG** — Steuerneutrale Umwandlung; Ansatz von Buchwerten; Sperrfrist 5 Jahre
 - **§ 613a BGB** — Betriebsuebertragung bei Spaltung/Ausgliederung; Arbeitnehmeruebertritt
 - **§§ 5, 21, 29 UmwG** — Pflichten gegenueber Arbeitnehmern; Auskunftsrechte; Widerspruchsrecht
@@ -76,7 +76,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Abspaltung (§ 123 II UmwG) | Uebertragende Gesellschaft besteht fort; Teil des Vermoegens geht auf aufnehmende ueber | Ausgliederung einer Geschaeftssparte |
 | Ausgliederung (§ 123 III UmwG) | Wie Abspaltung, aber Gegenleistung sind Anteile an der aufnehmenden Gesellschaft — kommen der uebertragenden Gesellschaft, nicht den Gesellschaftern zu | Holdingstruktur aufbauen; Tochtergesellschaft gruenden |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -126,7 +126,7 @@ PRAEMBEL
  im Wege der Verschmelzung durch Aufnahme auf die aufnehmende Gesellschaft.
 
 3. GEWAEHRUNG VON ANTEILEN (§ 5 UmwG)
- Umtauschverhaeltnis: [X Anteile an aufnehmender Gesellschaft fuer Y Anteile an uebertragender]
+ Umtauschverhaeltnis: [X Anteile an aufnehmender Gesellschaft für Y Anteile an uebertragender]
  Zuzahlung: [keine / [Betrag EUR]]
 
 4. BEWERTUNGSSTICHTAG UND BUCHWERT

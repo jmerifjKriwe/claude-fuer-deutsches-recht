@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-wasserwerk-rohrleitung
-description: "Bauueberwachung HOAI LPH 8 fuer Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen fuer Wasserversorger mit GIS-As-Built-Abgabe im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen für Wasserversorger mit GIS-As-Built-Abgabe im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Wasserwerk und Trinkwasserrohrleitung
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen fuer Wasserversorger mit GIS-As-Built-Abgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen für Wasserversorger mit GIS-As-Built-Abgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -23,7 +23,7 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 
 ## Bauwerk und Auftrag
 
-- Wasserwerk Hannover, Zubringleitung DN 400 Duktilguss: 3.200 m Leitungsneubau im oeffentlichen Strassenraum, Bausumme 4.1 Mio. EUR, Auftraggeber Stadtwerke Hannover
+- Wasserwerk Hannover, Zubringleitung DN 400 Duktilguss: 3.200 m Leitungsneubau im öffentlichen Strassenraum, Bausumme 4.1 Mio. EUR, Auftraggeber Stadtwerke Hannover
 - Wasserwerk Augsburg Filtergebaeude: Neue Zulaufleitung DN 300 PE-HD SDR 11, Brusttrommel-Sandfiltererweiterung, Bausumme 2.8 Mio. EUR
 - Trinkwasserversorgung laendliche Region Bayern: 18 km Hauptleitung DN 150 PE-HD, 8 Drucksteigerungsanlagen, Foerderantrag BayWasser, Bausumme 12 Mio. EUR
 
@@ -38,7 +38,7 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 
 ## Normen und Rechtsrahmen
 
-- § 650p BGB, § 650q BGB: Ingenieurvertrag oeffentlicher Wasserversorger, Gewaehrleistung Ausfuehrungsqualitaet
+- § 650p BGB, § 650q BGB: Ingenieurvertrag öffentlicher Wasserversorger, Gewaehrleistung Ausfuehrungsqualitaet
 - HOAI 2021 § 34 Anlage 10 LPH 8: Bauueberwachung Leitungsanlagen und Ingenieurbauwerke
 - VOB/C DIN 18306 Entwaesserungskanalarbeiten und DIN 18307 Druckrohrleitungsarbeiten ausserhalb Gebaeude
 - DVGW W 400-2 Ausgabe 2004: Technische Regeln Wasserverteilungsanlagen, Einbau, Druck- und Dichtheitspruefung
@@ -59,14 +59,14 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 - Fotoprotokoll Einbau: Jede Rohrverbindung mit Fotos Vorbereitung-Schweissung-Ergebnis, GPS-Tag und Zeitstempel, Ablage PlanRadar nach Leitungs-km
 - Kanalfernsehen nach Verfuellung: Kamerafahrt DN 200 aufwaerts, Inspektionssoftware WinCan, Klassifizierung Schaeden nach DIN EN 13508-2
 - Pruefung Lieferscheine: CE-Zeichen und DVGW-Zertifikat GW 335, Zementmoertelauskleidung-Bescheinigung, UV-Schutz-Lagerungsnachweis
-- Drohne UAV laendliche Trassen: Photogrammetrie Trassenverlauf vor Verfuellung, Orthofoto 3 cm/px fuer As-Built
+- Drohne UAV laendliche Trassen: Photogrammetrie Trassenverlauf vor Verfuellung, Orthofoto 3 cm/px für As-Built
 - SAP PM Fotodokumentation: Pflichtfoto je Meldung, Equipment-Nummer gescannt, Meldungsstatus-Historie vollstaendig
 
 ## Meldungserstellung im ERP / SAP
 
 - SAP PM Meldungsart M2 bei Undichtigkeit waehrend Druckpruefung: Equipment-Nr Leitungsabschnitt-ID z.B. LG-HANNOVER-KM2.4, Schadenscode A001 Undichtigkeit
 - SAP PS Netzplan: GRAB-010 Grabenaushub, ROHR-020 Rohreinbau, DRCK-030 Druckpruefung, DESIF-040 Desinfektion, ABNAHME-050 Inbetriebnahme
-- ISYBAU-kompatibles Zustandsdokumentationssystem: Mangelcodes nach ATV-DVWK M 149, Export XML fuer kommunale GIS-Systeme
+- ISYBAU-kompatibles Zustandsdokumentationssystem: Mangelcodes nach ATV-DVWK M 149, Export XML für kommunale GIS-Systeme
 - Nevaris Aufmass-Modul: Leitungs-km und Verbindungsstueck-Stuckliste, Vergleich Plan-Ist Mengen, Rechnungspruefung automatisch
 - Workflow: Mangel Druckpruefung, Leckortung Geohon-Horchstab, Reparatur-Auftrag, Nachpruefung, SAP PM Abschluss, Freigabe Desinfektion
 
@@ -79,7 +79,7 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 
 ## Output
 
-Einbauprotokoll Rohrleitung mit Schweiss- und Verbindungsprotokollen. Druckpruefungsprotokoll nach DVGW W 400-2 mit Unterschriften. Desinfektionsprotokoll und Wasseruntersuchungsbefund Gesundheitsamt. As-Built GIS-Shapefile Leitungsachse. Bautagebuch chronologisch. SAP-PM-Anlagenstruktur Leitungsabschnitte fuer Betriebsphase.
+Einbauprotokoll Rohrleitung mit Schweiss- und Verbindungsprotokollen. Druckpruefungsprotokoll nach DVGW W 400-2 mit Unterschriften. Desinfektionsprotokoll und Wasseruntersuchungsbefund Gesundheitsamt. As-Built GIS-Shapefile Leitungsachse. Bautagebuch chronologisch. SAP-PM-Anlagenstruktur Leitungsabschnitte für Betriebsphase.
 
 ## Hinweise zur Qualitaetssicherung
 

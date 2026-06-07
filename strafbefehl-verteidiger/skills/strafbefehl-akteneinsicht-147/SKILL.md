@@ -27,31 +27,31 @@ Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwalt
 
 ## Zentrale Normen
 
-- **§ 147 Abs. 1 StPO** — Recht auf Akteneinsicht fuer den Verteidiger
+- **§ 147 Abs. 1 StPO** — Recht auf Akteneinsicht für den Verteidiger
 - **§ 147 Abs. 2 StPO** — Versagungsrecht der Staatsanwaltschaft bei Gefaehrdung des Untersuchungszwecks (nur im laufenden Ermittlungsverfahren vor Abschluss)
-- **§ 147 Abs. 4 StPO** — Akteneinsicht fuer nicht verteidigten Beschuldigten in entsprechender Anwendung
+- **§ 147 Abs. 4 StPO** — Akteneinsicht für nicht verteidigten Beschuldigten in entsprechender Anwendung
 - **§ 147 Abs. 5 StPO** — Rechtsbehelf gegen Versagung: Antrag auf gerichtliche Entscheidung
-- **§ 406e StPO** — Akteneinsicht fuer Verletzte und Nebenklaeger
+- **§ 406e StPO** — Akteneinsicht für Verletzte und Nebenklaeger
 - **§ 32f StPO** — elektronische Akteneinsicht (eAkte)
 - **§ 49 OWiG i.V.m. § 147 StPO** — entsprechende Geltung im Bussgeldbescheid-Verfahren
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
 - BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Daten als Beweisgrundlage im Strafbefehl): Akteneinsicht muss die Auswertungs- und Authentifizierungsprotokolle der ANOM-Daten umfassen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
-- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Akteneinsicht insbesondere in Mengenermittlung und Auswertung; sanktionsfreie Eigenkonsummenge fuer Tatverdachtspruefung herauszupraeparieren. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Akteneinsicht insbesondere in Mengenermittlung und Auswertung; sanktionsfreie Eigenkonsummenge für Tatverdachtspruefung herauszupraeparieren. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zu § 147 StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 147 StPO Strafbefehl" durchführen.
 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Vollmacht sichern** — ohne Vollmacht kein Anspruch.
 2. **Akteneinsichtsgesuch stellen** bei der Staatsanwaltschaft (Ermittlungsverfahren) oder Amtsgericht (nach Anklage/Strafbefehl-Erlass); Inhalt: Aktenzeichen, Mandantenname, Vollmacht, Bitte um Uebersendung aller Aktenbestandteile einschliesslich Beiakten.
 3. **Vollstaendigkeit pruefen bei Eingang:** Inhaltsverzeichnis vorhanden? Fehlende Teile sofort ruegen.
 4. **Bei Verkehrsdelikten:** Messakte, Eichschein, Bedienungsanleitung, Schulungsnachweis, Rohmessdaten gesondert anfordern.
 5. **Bei Versagung:** Rechtsbehelf nach § 147 Abs. 5 StPO beim Ermittlungsrichter (§ 162 StPO).
-6. **Aktenexzerpt und Beweismittelverzeichnis anlegen** — Grundlage fuer Einlassung und Beweisantraege.
+6. **Aktenexzerpt und Beweismittelverzeichnis anlegen** — Grundlage für Einlassung und Beweisantraege.
 
 ## Output-Template Akteneinsichtsgesuch
 

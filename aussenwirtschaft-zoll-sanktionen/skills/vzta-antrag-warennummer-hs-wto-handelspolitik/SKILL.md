@@ -3,7 +3,7 @@ name: vzta-antrag-warennummer-hs-wto-handelspolitik
 description: "Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet Warenbezeichnung technische Unterlagen Muster und Lieferfrist. Behoerdliche Bindungswirkung und Rechtschutz gegen ablehnenden Bescheid oder abweichende Einreihung. Qualitaetsgate vor Antragsstellung. Output: vZTA-Antragsmappe mit Sachverhaltsbeschreibung und Einreihungsbegruendung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# vZTA-Antrag: Qualitaetsgate fuer verbindliche Zolltarifauskuenfte
+# vZTA-Antrag: Qualitaetsgate für verbindliche Zolltarifauskuenfte
 
 ## Arbeitsbereich
 
@@ -19,9 +19,9 @@ Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet War
 
 ## Mandantenfall
 
-- Importeur moechte vZTA fuer komplexes Elektrobauteil beantragen; Antrag unvollstaendig zurueckgegeben.
+- Importeur moechte vZTA für komplexes Elektrobauteil beantragen; Antrag unvollstaendig zurueckgegeben.
 - Unternehmen hat vZTA mit falschem HS-Code; abweichende Zollanmeldung und Nacherhebung.
-- Exporteur benoetigt vZTA fuer Serienprodukt zur Planungssicherheit; Antrag vorbereiten.
+- Exporteur benoetigt vZTA für Serienprodukt zur Planungssicherheit; Antrag vorbereiten.
 
 ## Erste Schritte
 
@@ -35,7 +35,7 @@ Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet War
 ## Rechtsrahmen
 
 - **UZK Art. 33-37**: Verbindliche Zolltarifauskuenfte und Bindungswirkung.
-- **UZK-DA Art. 19-22**: Verfahren und Anforderungen fuer vZTA-Antrag.
+- **UZK-DA Art. 19-22**: Verfahren und Anforderungen für vZTA-Antrag.
 - **Kombinierte Nomenklatur (KN)**: Systematische Einreihungsgrundlage.
 - **Allgemeine Vorschriften AV 1-6**: Regeln zur Wareneinreihung.
 - **UZK Art. 44**: Rechtsschutz gegen Zollentscheidungen einschliesslich vZTA.
@@ -52,7 +52,7 @@ Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet War
 ## Typische Fallstricke
 
 - Unvollstaendige technische Beschreibung fuehrt zur Rueckgabe ohne Bearbeitung.
-- vZTA bindet nur fuer die beschriebene Ware; Varianten benoetigen separate vZTA.
+- vZTA bindet nur für die beschriebene Ware; Varianten benoetigen separate vZTA.
 - Ruelckgezogene oder widerrufene vZTA ohne Uebergangsfrist problematisch.
 - Abweichende Einreihung in vZTA und Zollanmeldung loest Strafzoll-Risiko aus.
 
@@ -60,7 +60,7 @@ Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet War
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

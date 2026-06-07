@@ -23,7 +23,7 @@ Dieser Skill liest und aktualisiert den Gap-Tracker. Er zeigt alle offenen, in B
 
 ## Eingaben
 
-- Gap-Tracker-Datei: `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/gap-tracker.yaml`
+- Gap-Tracker-Datei: `~/.claude/plugins/config/claude-für-deutsches-recht/regulatorisches-recht/gap-tracker.yaml`
 - Optional: Filter (nach Schweregrad, Frist, Eigentümer, Status)
 - Optional: Gap-ID zum gezielten Aktualisieren
 

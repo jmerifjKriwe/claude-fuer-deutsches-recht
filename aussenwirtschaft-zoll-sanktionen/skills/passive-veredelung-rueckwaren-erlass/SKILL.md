@@ -1,13 +1,13 @@
 ---
 name: passive-veredelung-rueckwaren-erlass
-description: "Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg fuer Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnungsvorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg für Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnungsvorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Passive Veredelung: Bewilligung, Warenidentitaet und Zollwertberechnung
 
 ## Arbeitsbereich
 
-Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg fuer Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnungsvorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg für Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnungsvorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -29,16 +29,16 @@ Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Be
 2. Warenidentitaet sicherstellen: Identifizierungsmassnahmen (Seriennummern, Markierungen, Analysemethoden).
 3. Bewilligungsfrist festlegen: Veredelungsfrist realistisch kalkulieren.
 4. Zollwertberechnungsmethode waehlen: Abzugsmethode (Standard) oder Kostenmethode.
-5. Handelswerttabelle fuer Ausgleichserzeugnisse erstellen.
+5. Handelswerttabelle für Ausgleichserzeugnisse erstellen.
 6. Rueckeinfuhr im Verfahren 6121 in ATLAS anmelden; Bewilligungsnummer angeben.
 
 ## Rechtsrahmen
 
 - **UZK Art. 259-262**: Passive Veredelung, Bedingungen und Verfahren.
 - **UZK-DA Art. 240-244**: Ausfuehrungsbestimmungen und Bewilligung.
-- **UZK Art. 101**: Zollwertberechnungsmethoden fuer Veredelungserzeugnisse.
-- **UZK-IA Art. 256**: Abzugsmethode fuer Zollwert.
-- **UZK Art. 33**: Abgabenbefreiung fuer Rueckwaren (Abgrenzung).
+- **UZK Art. 101**: Zollwertberechnungsmethoden für Veredelungserzeugnisse.
+- **UZK-IA Art. 256**: Abzugsmethode für Zollwert.
+- **UZK Art. 33**: Abgabenbefreiung für Rueckwaren (Abgrenzung).
 
 ## Pruef-Raster
 
@@ -51,7 +51,7 @@ Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Be
 
 ## Typische Fallstricke
 
-- Veredelungsfrist laeuft ab ohne Rueckeinfuhr; Zollschuld fuer volle Ware.
+- Veredelungsfrist laeuft ab ohne Rueckeinfuhr; Zollschuld für volle Ware.
 - Warenidentitaet nicht ausreichend dokumentiert; Hauptzollamt akzeptiert Identifizierungsmassnahme nicht.
 - Abzugsmethode falsch angewendet; Nachzoll-Risiko bei Zollpruefung.
 - Passive Veredelung und Rueckwaren (Art. 203 UZK) werden verwechselt; falsche Anmeldung.
@@ -60,7 +60,7 @@ Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Be
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

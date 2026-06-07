@@ -19,7 +19,7 @@ Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skil
 
 ## Aufgabe
 
-Skill fuer pignus und hypotheca als dingliche Sicherungsrechte.
+Skill für pignus und hypotheca als dingliche Sicherungsrechte.
 
 ## Pignus
 

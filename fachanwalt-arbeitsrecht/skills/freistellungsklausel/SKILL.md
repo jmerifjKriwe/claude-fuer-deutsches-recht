@@ -49,13 +49,13 @@ description: "Freistellungsklausel im Plugin Fachanwalt Arbeitsrecht: prüft kon
 6. **Ist Annahmeverzug bereits eingetreten?** — Ab welchem Datum hat AG die tatsächliche Beschäftigung verweigert?
 7. **Plant die Mandantin eine Wettbewerbs-Tätigkeit?** — Konkurrenzschutz-Vereinbarung im AV? Post-kontraktuelles Wettbewerbsverbot?
 8. **Wurde ein Aufhebungsvertrag angeboten?** — Freistellungsklausel in Aufhebungsvertrag im Einzelfall konkret formulieren.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Kernaussage des Urteils
 
 Leitentscheidung: BAG, Urteil vom 25.03.2026 - 5 AZR 108/25 (Wirksamkeit einer Freistellungsklausel; Widerruf der Dienstwagennutzung).
 
-Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmaessige) Klausel, die diesen ohne weitere Voraussetzungen berechtigt, den Arbeitnehmer nach Ausspruch einer Kuendigung bis zum Ablauf der Kuendigungsfrist von der Arbeitsleistung unter Fortzahlung der Verguetung freizustellen, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam. Der verfassungsrechtlich geschuetzte Beschaeftigungsanspruch des Arbeitnehmers ueberwiegt das pauschale Freistellungsinteresse. Eine Freistellung verlangt einen konkreten Anlasstatbestand (z.B. Geheimhaltungs-, Konkurrenz- oder Vertrauensschutz) und Interessenabwaegung im Einzelfall.
+Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmäßige) Klausel, die diesen ohne weitere Voraussetzungen berechtigt, den Arbeitnehmer nach Ausspruch einer Kuendigung bis zum Ablauf der Kuendigungsfrist von der Arbeitsleistung unter Fortzahlung der Verguetung freizustellen, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam. Der verfassungsrechtlich geschuetzte Beschaeftigungsanspruch des Arbeitnehmers ueberwiegt das pauschale Freistellungsinteresse. Eine Freistellung verlangt einen konkreten Anlasstatbestand (z.B. Geheimhaltungs-, Konkurrenz- oder Vertrauensschutz) und Interessenabwaegung im Einzelfall.
 
 Offene Quelle: dejure.org, Vernetzung BAG 25.03.2026 - 5 AZR 108/25; BAG-Pressemitteilung "Wirksamkeit einer Freistellungsklausel - Widerruf der Dienstwagennutzung". Status: Volltext zum Stand der Bearbeitung noch nicht voll veroeffentlicht - vor Schriftsatzverwendung Volltext pruefen.
 
@@ -132,7 +132,7 @@ Die Beklagte hat das Arbeitsverhältnis am [Datum] gekündigt
 und die Klägerin gleichzeitig unter Hinweis auf § [X] des
 Arbeitsvertrags von der Arbeitsleistung freigestellt.
 
-Die in § [X] enthaltene Klausel ist eine formularmaessige
+Die in § [X] enthaltene Klausel ist eine formularmäßige
 Standardklausel, die den Arbeitgeber pauschal und ohne
 weitere Voraussetzung zur einseitigen Freistellung
 berechtigen soll. Diese Klausel ist nach der Rechtsprechung
@@ -140,7 +140,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 unwirksam, weil sie die Klägerin unangemessen benachteiligt
 im Sinne des § 307 Abs. 1 BGB.
 
-Konkrete tragfaehige Gründe fuer eine Freistellung legt die
+Konkrete tragfaehige Gründe für eine Freistellung legt die
 Beklagte nicht dar. Pauschale Hinweise genuegen nicht.
 
 Der Beschaeftigungsanspruch der Klaegerin (BAG GS,

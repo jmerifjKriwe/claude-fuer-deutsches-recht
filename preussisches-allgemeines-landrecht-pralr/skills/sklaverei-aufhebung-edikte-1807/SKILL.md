@@ -8,7 +8,7 @@ description: "Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen —
 ## Begriffliche Trennung
 
 - **Sklaverei**: Person ist als res Eigentum eines anderen.
-- **Erbuntertaenigkeit / Gutsuntertaenigkeit / Leibeigenschaft**: persoenliche Bindung der baeuerlichen Bevoelkerung an einen Grundherrn mit Bewegungs-, Heirats- und Berufsbeschraenkungen, aber ohne Eigentumsstellung des Herrn am Menschen.
+- **Erbuntertaenigkeit / Gutsuntertaenigkeit / Leibeigenschaft**: persönliche Bindung der baeuerlichen Bevoelkerung an einen Grundherrn mit Bewegungs-, Heirats- und Berufsbeschraenkungen, aber ohne Eigentumsstellung des Herrn am Menschen.
 
 Beide Institute werden umgangssprachlich vermengt, sind rechtshistorisch aber zu trennen.
 
@@ -19,7 +19,7 @@ Beide Institute werden umgangssprachlich vermengt, sind rechtshistorisch aber zu
 
 ## Oktoberedikt 09.10.1807
 
-- "Edikt den erleichterten Besitz und den freien Gebrauch des Grundeigenthums sowie die persoenlichen Verhaeltnisse der Land-Bewohner betreffend" — bekannt als **Stein-Hardenbergsches Oktoberedikt**.
+- "Edikt den erleichterten Besitz und den freien Gebrauch des Grundeigenthums sowie die persönlichen Verhaeltnisse der Land-Bewohner betreffend" — bekannt als **Stein-Hardenbergsches Oktoberedikt**.
 - Inhalt: Aufhebung der Erbuntertaenigkeit der Bauern in Preussen mit Wirkung **St. Martini 1810**.
 - Wirkung: Bauern werden persoenlich frei; Berufswahl und Eheschliessung frei; Mobilitaet hergestellt.
 - Inhaltlich: Frondienste und Reallasten bleiben zunaechst, werden in Folge-Edikten abgeloest.

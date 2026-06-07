@@ -289,7 +289,7 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 - Hacks Becker Schmerzensgeld-Tabelle
 - Vergleichs-Fälle
 
-## 7) Verjaehrung
+## 7) Verjährung
 
 - 3 Jahre § 195 BGB
 - Ab Kenntnis von Schaden und Schaedger

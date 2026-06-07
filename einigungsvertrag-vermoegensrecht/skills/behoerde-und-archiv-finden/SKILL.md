@@ -3,7 +3,7 @@ name: behoerde-und-archiv-finden
 description: "Einigungsvertrag und Vermögensrecht: Behörde und Archiv finden. Behörde und Archiv finden im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Behoerde Und Archiv Finden
+# Behörde Und Archiv Finden
 
 ## Arbeitsbereich
 
@@ -19,7 +19,7 @@ Einigungsvertrag und Vermögensrecht: Behörde und Archiv finden. Behörde und A
 
 ## Arbeitsauftrag
 
-Behoerde Und Archiv Finden wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Behörde Und Archiv Finden wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 

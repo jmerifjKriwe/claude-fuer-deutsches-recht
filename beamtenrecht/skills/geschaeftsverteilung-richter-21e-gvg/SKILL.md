@@ -19,7 +19,7 @@ Skill zur richterlichen Geschaeftsverteilung nach § 21e GVG und zum verfassungs
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Richterinnen und Richter, die ihre Spruchkoerperzuteilung pruefen oder eine Aenderung des Geschaeftsverteilungsplans angreifen wollen, und fuer Verteidiger, die in einem konkreten Verfahren die Verletzung des gesetzlichen Richters geltend machen wollen.
+Skill für Richterinnen und Richter, die ihre Spruchkoerperzuteilung pruefen oder eine Aenderung des Geschaeftsverteilungsplans angreifen wollen, und für Verteidiger, die in einem konkreten Verfahren die Verletzung des gesetzlichen Richters geltend machen wollen.
 
 ## 2. Eingaben
 

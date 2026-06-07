@@ -1,13 +1,13 @@
 ---
 name: schiffshypothek-local-counsel-instruie
-description: "Schiffshypothek: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei hypothekenbelastetes Seeschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffshypothek: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei hypothekenbelastetes Seeschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffshypothek – Local Counsel instruieren
 
 ## Arbeitsbereich
 
-Schiffshypothek: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei hypothekenbelastetes Seeschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffshypothek: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei hypothekenbelastetes Seeschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -36,7 +36,7 @@ Ein hypothekenbelastetes Seeschiff liegt in einem ausländischen Hafen; lokaler 
 - Sind deutsche Urteile im Hafenstaat anerkennungsfaehig?
 - Hat Local Counsel Erfahrung mit Seerecht und Schiffshypothek?
 - Liegt ein LOU des P&I-Clubs vor?
-- Ist der Kostenrahmen fuer das Auslandsverfahren freigegeben?
+- Ist der Kostenrahmen für das Auslandsverfahren freigegeben?
 
 ## Typische Fallstricke
 - Lokale Seepfandrechte koennen deutsche Hypothek im Rang ueberbieten.

@@ -165,7 +165,7 @@ den vorbereiteten Urkundentext zu.
 ## Querverweise
 
 - → `formerfordernisse-im-bgb-ueberblick`
-- → `notarielle-beurkundung-und-oeffentliche-beglaubigung`
+- → `notarielle-beurkundung-und-öffentliche-beglaubigung`
 - → `verteidigungsstrategie-bei-formangriff` (Heilung, § 242 BGB)
 - → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
 

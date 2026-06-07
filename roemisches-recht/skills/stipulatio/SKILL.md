@@ -66,7 +66,7 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 - Bei Wegfall der causa: condictio sine causa (D. 12.7).
 
 ### Subsumtionsbeispiel: Stipulationsschuld trotz Wegfall des Grundgeschaefts
-Sachverhalt: A stipuliert 100 fuer einen Sklaven; vor Uebergabe stirbt der Sklave; A hat noch nicht gezahlt.
+Sachverhalt: A stipuliert 100 für einen Sklaven; vor Uebergabe stirbt der Sklave; A hat noch nicht gezahlt.
 - **Roemisch**: Stipulationspflicht bleibt formal (abstrakt); A kann aber condictio sine causa gegen das Stipulationsversprechen einlegen, weil causa weggefallen.
 - **BGB**: § 311 BGB Vertrag; § 313 BGB Stoerung der Geschaeftsgrundlage; § 326 BGB Befreiung bei Unmoeglichkeit.
 

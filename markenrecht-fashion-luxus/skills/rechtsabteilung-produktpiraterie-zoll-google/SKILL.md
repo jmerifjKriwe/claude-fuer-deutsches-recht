@@ -152,9 +152,9 @@ beantragt. Der Importeur wurde von uns unterrichtet.
 ## Triage-Fragen bei Produktpiraterie
 
 Bevor der AWA-Antrag oder die Vernichtung veranlasst wird, klaere:
-1. Ist ein aktueller AWA-Antrag fuer alle eingetragenen Marken (DE und EU) beim Zoll hinterlegt?
+1. Ist ein aktueller AWA-Antrag für alle eingetragenen Marken (DE und EU) beim Zoll hinterlegt?
 2. Hat der Zoll bereits Sendungen beschlagnahmt — wenn ja, laeuft die 3-Werktage-Frist zur Einwilligung?
-3. Ist der Importeur / Anmelder bekannt und inlaendisch greifbar (fuer Vernichtungsklage)?
+3. Ist der Importeur / Anmelder bekannt und inlaendisch greifbar (für Vernichtungsklage)?
 4. Kommt das vereinfachte Vernichtungsverfahren (Art. 23 VO 608/2013) in Betracht?
 
 ## Aktuelle Rechtsprechung
@@ -185,5 +185,5 @@ Zoll-Kooperationspartner:
 
 ---
 <!-- AUDIT 27.05.2026 | bundle_037 | task 2/5
-Behaupteter Inhalt war falsch: Erschoepfungsprinzip galt laut SKILL angeblich NICHT fuer digitale Fälschungen — das Gegenteil des Urteilsinhalts.
+Behaupteter Inhalt war falsch: Erschoepfungsprinzip galt laut SKILL angeblich NICHT für digitale Fälschungen — das Gegenteil des Urteilsinhalts.
 -->

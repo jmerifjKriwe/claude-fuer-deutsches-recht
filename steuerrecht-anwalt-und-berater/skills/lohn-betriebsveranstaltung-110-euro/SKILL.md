@@ -13,7 +13,7 @@ description: "Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. A
 
 ## Kernsachverhalt
 
-Betriebsveranstaltungen (Sommerfest, Weihnachtsfeier, Betriebsausflug) sind Sachzuwendungen, fuer die ein Freibetrag von 110 EUR pro AN und pro Veranstaltung gilt (§ 19 Abs. 1 Nr. 1a EStG). Bei Ueberschreitung des Freibetrags ist nur der ueberschiessende Teil steuerpflichtig (Freibetrag, nicht Freigrenze!). Maximal 2 Veranstaltungen pro Jahr begunstigt. Begleitpersonen (Partner) werden dem AN zugerechnet.
+Betriebsveranstaltungen (Sommerfest, Weihnachtsfeier, Betriebsausflug) sind Sachzuwendungen, für die ein Freibetrag von 110 EUR pro AN und pro Veranstaltung gilt (§ 19 Abs. 1 Nr. 1a EStG). Bei Ueberschreitung des Freibetrags ist nur der ueberschiessende Teil steuerpflichtig (Freibetrag, nicht Freigrenze!). Maximal 2 Veranstaltungen pro Jahr begunstigt. Begleitpersonen (Partner) werden dem AN zugerechnet.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,7 +24,7 @@ Betriebsveranstaltungen (Sommerfest, Weihnachtsfeier, Betriebsausflug) sind Sach
 5. Erfolgt die Teilnahme freiwillig?
 6. Steht die Veranstaltung allen AN offen (sonst keine Begunstigung)?
 7. Welche Belege liegen vor?
-8. Pauschalierung § 40 Abs. 2 EStG fuer ueberschiessenden Teil gewuenscht?
+8. Pauschalierung § 40 Abs. 2 EStG für ueberschiessenden Teil gewuenscht?
 
 ## Rechtlicher Rahmen
 
@@ -44,7 +44,7 @@ Betriebsveranstaltungen (Sommerfest, Weihnachtsfeier, Betriebsausflug) sind Sach
 ### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
 
 - **BFH, Urteil vom 27.03.2024 — VI R 5/22**: Eine Betriebsveranstaltung i.S.d. § 19 Abs. 1 S. 1 Nr. 1a S. 1 EStG kann auch dann vorliegen, wenn sie nicht allen Angehoerigen eines Betriebs oder Betriebsteils offensteht (Begriff der Betriebsveranstaltung weit). Der Begriff in § 40 Abs. 2 S. 1 Nr. 2 EStG entspricht der Legaldefinition § 19 Abs. 1 S. 1 Nr. 1a S. 1 EStG. Volltext ueber BFH-Datenbank (STRE202410082).
-- **Reaktion des Gesetzgebers — Steueraenderungsgesetz 2025** (verkuendet 23.12.2025, in Kraft 01.01.2026): Klarstellung, dass die **Offenheit fuer alle Beschaeftigten** des Betriebs / Betriebsteils Voraussetzung der **Pauschalbesteuerung nach § 40 Abs. 2 S. 1 Nr. 2 EStG** ist (Reaktion auf BFH VI R 5/22). Der 110-EUR-Freibetrag bleibt unveraendert; ebenso die Begrenzung auf zwei Veranstaltungen pro Jahr.
+- **Reaktion des Gesetzgebers — Steueraenderungsgesetz 2025** (verkuendet 23.12.2025, in Kraft 01.01.2026): Klarstellung, dass die **Offenheit für alle Beschaeftigten** des Betriebs / Betriebsteils Voraussetzung der **Pauschalbesteuerung nach § 40 Abs. 2 S. 1 Nr. 2 EStG** ist (Reaktion auf BFH VI R 5/22). Der 110-EUR-Freibetrag bleibt unveraendert; ebenso die Begrenzung auf zwei Veranstaltungen pro Jahr.
 - BFH-Linie zur Aufteilung der Gesamtkosten auf alle teilnehmenden Personen (statt nur AN-Anzahl); aktuelle Entscheidungen vor Mandantengespraech in BFH-Datenbank / dejure.org pruefen.
 
 ## Workflow
@@ -54,7 +54,7 @@ Betriebsveranstaltungen (Sommerfest, Weihnachtsfeier, Betriebsausflug) sind Sach
 | Voraussetzung | Pruefung |
 |---|---|
 | Geselliger Charakter | Sommerfest, Weihnachtsfeier ja; Schulung nein |
-| Offen fuer alle AN (oder Teilgruppe wie Abteilung) | Ja |
+| Offen für alle AN (oder Teilgruppe wie Abteilung) | Ja |
 | Freiwillige Teilnahme | Ja |
 | Max. 2 Veranstaltungen pro Jahr begunstigt | Pruefung |
 

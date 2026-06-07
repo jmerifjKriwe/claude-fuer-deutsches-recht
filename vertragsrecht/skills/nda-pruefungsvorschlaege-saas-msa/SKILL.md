@@ -25,7 +25,7 @@ Eingehende Geheimhaltungsvereinbarungen (NDA, GHV, Verschwiegenheitserklärung) 
 
 - Geheimhaltungsvereinbarung (Datei-Upload oder Direkteingabe)
 - Kontext: Wer ist Offenlegender, wer ist Empfänger? Evaluierungsrichtung?
-- Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`
+- Praxisprofil aus `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md`
 
 ## Ziel-Bestimmung
 
@@ -41,7 +41,7 @@ Vor der Ausgabe prüfen, wohin das Dokument geht. Wenn ein Ziel genannt wurde (K
 - Gegenseitige NDA: Wessen Muster? In welche Richtung läuft die Hauptoffenlegung?
 - Falls nicht klar: fragen.
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Playbook` → zutreffende Seite → `NDA-Triage-Positionen` lesen. Diese Positionen sind die Quelle der GRÜN/GELB/ROT-Entscheidung für dieses Team.
+`~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Playbook` → zutreffende Seite → `NDA-Triage-Positionen` lesen. Diese Positionen sind die Quelle der GRÜN/GELB/ROT-Entscheidung für dieses Team.
 
 Falls keine NDA-Triage-Positionen konfiguriert: Nutzer fragen und Antwort in der CLAUDE.md festhalten.
 
@@ -223,7 +223,7 @@ Falls Vertragsstrafe vereinbart: Höhe auf Angemessenheit prüfen (§ 307 BGB, �
 
 **Sauber-NDA-Regel:** Wenn die NDA alle Punkte ohne Beanstandungen besteht, soll die Kurzübersicht nur lauten: "Keine Beanstandungen. Weiterleitung zur Unterzeichnung im Standardprozess." Keinen langen Bericht für eine saubere NDA erstellen.
 
-**Abschluss-Handlung:** `closing_action` aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## NDA-Triage-Einstellungen` lesen und wortgetreu am Ende jeder Ausgabe anhängen. Falls nicht konfiguriert: "NDA im Standardgenehmigungsverfahren weiterleiten."
+**Abschluss-Handlung:** `closing_action` aus `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md` → `## NDA-Triage-Einstellungen` lesen und wortgetreu am Ende jeder Ausgabe anhängen. Falls nicht konfiguriert: "NDA im Standardgenehmigungsverfahren weiterleiten."
 
 ## Quellen und Zitierweise
 
@@ -233,7 +233,7 @@ Relevante Normen und Rspr.:
 - GeschGehG (in Kraft seit 26.04.2019; Umsetzung Richtlinie (EU) 2016/943): https://www.gesetze-im-internet.de/geschgehg/
 - § 2 Nr. 1 GeschGehG – Definition Geschaeftsgeheimnis; Angemessenheitsprinzip (Schutzmassnahmen-Erfordernis)
 - §§ 16-20 GeschGehG (prozessualer Geheimnisschutz)
-- **§ 273a ZPO** (Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): Erstreckung des prozessualen Geheimnisschutzes ueber den GeschGehG-Streit hinaus auf alle Zivilverfahren; Antrag jeder Partei moeglich; Ordnungsgeld bis 100.000 EUR bei Verstoss; § 6a ArbGG fuer Arbeitsgerichtsverfahren. https://www.gesetze-im-internet.de/zpo/__273a.html — Praxisfolge: NDA-Mechanik kann durch das prozessuale Schutzregime ergaenzt werden.
+- **§ 273a ZPO** (Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): Erstreckung des prozessualen Geheimnisschutzes ueber den GeschGehG-Streit hinaus auf alle Zivilverfahren; Antrag jeder Partei moeglich; Ordnungsgeld bis 100.000 EUR bei Verstoss; § 6a ArbGG für Arbeitsgerichtsverfahren. https://www.gesetze-im-internet.de/zpo/__273a.html — Praxisfolge: NDA-Mechanik kann durch das prozessuale Schutzregime ergaenzt werden.
 - § 241 Abs. 2 BGB – Schutzpflichten im Schuldverhaeltnis
 - § 307 BGB – AGB-Inhaltskontrolle (bei vorformulierten Klauseln)
 - § 339 BGB – Vertragsstrafe; § 343 BGB – richterliche Herabsetzung

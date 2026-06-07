@@ -18,12 +18,12 @@ description: "Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfer
 3. Greift Selbstanzeige nach § 378 Abs. 3 AO (Wirksamkeit wenn keine Sperrgruende)?
 4. Welche Bussgeldhoehe droht nach § 17 OWiG iVm § 378 AO?
 5. Verfolgungsverjaehrung fuenf Jahre § 384 AO eingehalten?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
 - **§ 378 AO** — leichtfertige Steuerverkuerzung.
-- **§ 384 AO** — Verjaehrung der OWi-Verfolgung.
+- **§ 384 AO** — Verjährung der OWi-Verfolgung.
 - **§ 17 OWiG** — Bemessung der Geldbusse.
 - **§ 47 OWiG** — Verfolgung im Ermessen.
 - **§ 153 AO** — Berichtigungspflicht.
@@ -35,7 +35,7 @@ description: "Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfer
 
 ## Zentrale Normen
 
-§ 153 AO · § 378 AO · § 384 AO · § 17 OWiG · § 47 OWiG · § 371 Abs. 4 AO (Sperre fuer Beteiligte)
+§ 153 AO · § 378 AO · § 384 AO · § 17 OWiG · § 47 OWiG · § 371 Abs. 4 AO (Sperre für Beteiligte)
 
 ## Quellenregel
 

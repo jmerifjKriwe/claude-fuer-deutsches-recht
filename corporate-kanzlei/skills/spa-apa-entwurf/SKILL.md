@@ -63,7 +63,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 |---|---|---|
 | Corporate | Gruendung, Anteilsstruktur, Satzung, Vollmachten | Disclosure Letter |
 | Financial | Jahresabschluss ordnungsgemaess, kein Material Adverse Change | Wesentlichkeitsschwelle |
-| Business | Vertraege, IP, Kunden, Lizenzen, Behoerdenerlaubnisse | Knowledge qualifier |
+| Business | Vertraege, IP, Kunden, Lizenzen, Behördenerlaubnisse | Knowledge qualifier |
 | Employment | Arbeitsvertraege, BR, Pensionen, Change-of-Control | Kollektivarbeitsrecht |
 | Tax | Steuern vollstaendig bezahlt, keine offenen Betriebspruefungen | Tax Disclosure |
 | Legal | Keine wesentlichen Rechtsstreitigkeiten | Pending/Threatened |
@@ -71,11 +71,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Indemnification vs. Warranty-Breach
 
-- **Indemnity (Freistellung):** Dollar-for-dollar, unabhaengig von Kausalitaet; fuer bekannte Risiken (steuerliche Nachzahlungen, Altlasten, Prozessrisiken)
+- **Indemnity (Freistellung):** Dollar-for-dollar, unabhaengig von Kausalitaet; für bekannte Risiken (steuerliche Nachzahlungen, Altlasten, Prozessrisiken)
 - **Warranty Breach:** Schadensersatz nach § 311 I BGB oder vertragl. Schadensliquidation; Kaeufer muss Schaden an Unternehmenswert nachweisen
 - **Anti-Sandbagging:** Seller haftet auch bei Kaeufer-Kenntnis, wenn vertraglich so vereinbart; ohne Klausel ggf. § 442 BGB
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Term Sheet analysieren** — Kaufpreis, Struktur, Closing Conditions, Exklusivitaet
 2. **DD-Findings mapping** — jedes Material Finding einem Vertragsmechanismus zuordnen (Garantie, Indemnity, Kosten-Anpassung, Deal-Breaker)
@@ -95,7 +95,7 @@ Gegenstand: GmbH-Anteile?
  → Nein: AG-Aktien?
  → vinkulierte Namensaktien: Zustimmungsvorbehalt pruefen (§ 68 II AktG)
  → Inhaberaktien: kein Notar noetig; Depot-Uebertragung
- → Asset Deal: kein Notar fuer Vertragstext, aber Grundstuecke -> notarielle Auflassung (§ 925 BGB)
+ → Asset Deal: kein Notar für Vertragstext, aber Grundstuecke -> notarielle Auflassung (§ 925 BGB)
 ```
 
 ## Output-Template Key Issues Memo

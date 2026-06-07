@@ -37,7 +37,7 @@ Sie brauchen ihn besonders bei mehrbaendigen Werken, Loseblattwerken (Ergaenzung
 - Bearbeiterverzeichnis.
 - Bei Reihen: frueher erschienene Baende zum Vergleich.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Begriffsinventar aufbauen.** Liste der zentralen Termini aus dem Text. Bei Buch-Manuskript: 20-60 Begriffe.
 2. **Definitionssichtung.** Wird jeder Begriff gleich verwendet? Eindeutige Definition vorhanden?
@@ -108,7 +108,7 @@ Lemma "Plattformbetreiber"
 
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Duden, Universalwoerterbuch, 9. Aufl. 2023.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-- Plachta, Editionswissenschaft, 4. Aufl. 2020 (fuer Werkkonsistenz).
+- Plachta, Editionswissenschaft, 4. Aufl. 2020 (für Werkkonsistenz).
 - Larenz / Canaris, Methodenlehre der Rechtswissenschaft, 4. Aufl. 2019 (zu juristischer Begriffsbildung).

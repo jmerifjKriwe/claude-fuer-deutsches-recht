@@ -1,13 +1,13 @@
 ---
 name: zolllager-freilager-aussenwirtschaft
-description: "Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied oeffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantrag und Lagerbuch-Vorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied öffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantrag und Lagerbuch-Vorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zolllager und Freilager: Bewilligung Lagerhalterpflichten und Bestandskontrolle
 
 ## Arbeitsbereich
 
-Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied oeffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantrag und Lagerbuch-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied öffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantrag und Lagerbuch-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lager
 
 ## Mandantenfall
 
-- Spediteur moechte Zolllager fuer Nicht-Unionsware beantragen; Voraussetzungen und Antrag.
+- Spediteur moechte Zolllager für Nicht-Unionsware beantragen; Voraussetzungen und Antrag.
 - Lagerhalter hat Fehlmenge im Zolllager festgestellt; Nacherhebungsrisiko und Meldepflicht.
 - Unternehmen prueft ob Freilager als Alternative zum Zolllager sinnvoll ist.
 
@@ -30,7 +30,7 @@ Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lager
 3. Antrag beim Hauptzollamt mit Lagerbeschreibung und Lagerbuchkonzept stellen.
 4. Lagerbuch einrichten: Wareneingaenge Ausgaenge Bestandskontrolle und Fehlmengenmeldung.
 5. Sicherheitsleistung kalkulieren: Zollwert der gelagerten Ware x Zollsatz x Sicherheitsfaktor.
-6. Freilager-Option pruefen: Freilager nach Art. 243 UZK fuer Nicht-Unionsware mit Zollfreiheit.
+6. Freilager-Option pruefen: Freilager nach Art. 243 UZK für Nicht-Unionsware mit Zollfreiheit.
 
 ## Rechtsrahmen
 
@@ -60,7 +60,7 @@ Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lager
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Bewilligungsantrag-Vorlage fuer Hauptzollamt, Lagerbuch-Vorlage mit Pflichtfeldern, Sicherheitsleistungs-Kalkulator und Fehlmengen-Meldeverfahren-Anleitung.
+Bewilligungsantrag-Vorlage für Hauptzollamt, Lagerbuch-Vorlage mit Pflichtfeldern, Sicherheitsleistungs-Kalkulator und Fehlmengen-Meldeverfahren-Anleitung.
 
 ## Quellen
 

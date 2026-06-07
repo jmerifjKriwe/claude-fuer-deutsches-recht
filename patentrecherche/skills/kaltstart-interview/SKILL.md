@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentassessor Patentingenieur Recherchekraft) welche Kanzlei und welche Technikgebiete (Mechanik Elektrotechnik Chemie Biotech Informatik Verfahrenstechnik) welcher Mandant und welcher Recherchezweck (Stand der Technik vor Anmeldung Einspruch Nichtigkeit Freedom to Operate Konkurrenten-Monitoring Prüfungsbescheid-Antwort) welcher Rechtsraum (DPMA EPA WIPO USPTO weltweit) und mit welchen Datenbankzugaengen (kostenfrei Espacenet Google Patents oder Bezahl-Zugaenge wie PatBase STN Orbit Questel). Schreibt das Profil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md. Disclaimer Vorrecherche ersetzt keine amtliche Recherche und keine Eigenprüfung der Patentanwaeltin."
+description: "Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentassessor Patentingenieur Recherchekraft) welche Kanzlei und welche Technikgebiete (Mechanik Elektrotechnik Chemie Biotech Informatik Verfahrenstechnik) welcher Mandant und welcher Recherchezweck (Stand der Technik vor Anmeldung Einspruch Nichtigkeit Freedom to Operate Konkurrenten-Monitoring Prüfungsbescheid-Antwort) welcher Rechtsraum (DPMA EPA WIPO USPTO weltweit) und mit welchen Datenbankzugaengen (kostenfrei Espacenet Google Patents oder Bezahl-Zugaenge wie PatBase STN Orbit Questel). Schreibt das Profil unter ~/.claude/plugins/config/claude-für-deutsches-recht/patentrecherche/CLAUDE.md. Disclaimer Vorrecherche ersetzt keine amtliche Recherche und keine Eigenprüfung der Patentanwaeltin."
 ---
 
 # kaltstart-interview
@@ -97,7 +97,7 @@ Deutsch (Default) oder Englisch (bei internationalen Mandanten).
 Profil schreiben nach:
 
 ```
-~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md
+~/.claude/plugins/config/claude-für-deutsches-recht/patentrecherche/CLAUDE.md
 ```
 
 Format:
@@ -132,7 +132,7 @@ Bevor das Interview begonnen wird, klaere:
 1. Welchen Recherchezweck verfolgt der Mandant — Neuheitspruefung, FTO, Stand der Technik, Wettbewerber-Monitoring?
 2. Ist die technische Beschreibung oder der Erfindungsgegenstand hinreichend konkret (Patent, Produktbeschreibung, Skizze)?
 3. Welche Zielmärkte/Validierungsstaaten sind zu beruecksichtigen?
-4. Stehen Fachleute fuer Rueckfragen zur Verfuegung, wenn technische Unklarheiten auftreten?
+4. Stehen Fachleute für Rueckfragen zur Verfuegung, wenn technische Unklarheiten auftreten?
 
 ## Aktuelle Rechtsprechung
 
@@ -140,4 +140,4 @@ Bevor das Interview begonnen wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **DPMA, Richtlinien fuer die Pruefung 2023 (Teil 5 — Rechercheberichte):** Amtliche Rechercheberichte des DPMA umfassen in der Regel eine Suche nach allen in Klassen eingetragenen Patentdokumenten des relevanten Technikgebiets; agentische private Vorrecherchen koennen die amtliche Recherche nicht ersetzen, aber als qualifizierte Vorbereitung dienen.
+> **DPMA, Richtlinien für die Pruefung 2023 (Teil 5 — Rechercheberichte):** Amtliche Rechercheberichte des DPMA umfassen in der Regel eine Suche nach allen in Klassen eingetragenen Patentdokumenten des relevanten Technikgebiets; agentische private Vorrecherchen koennen die amtliche Recherche nicht ersetzen, aber als qualifizierte Vorbereitung dienen.

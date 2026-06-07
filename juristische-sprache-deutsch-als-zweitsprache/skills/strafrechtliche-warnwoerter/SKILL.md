@@ -1,13 +1,13 @@
 ---
 name: strafrechtliche-warnwoerter
-description: "Hilft bei Strafrechtliche Warnwoerter fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Strafrechtliche Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafrechtliche Warnwoerter
 
 ## Arbeitsbereich
 
-Hilft bei Strafrechtliche Warnwoerter fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Strafrechtliche Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -24,10 +24,10 @@ Dieser Skill markiert typische **Warnwoerter im Strafverfahren** und hilft Mensc
 ## Warnwoerter mit hoher Tragweite
 - **Beschuldigter**: gegen Sie wird ermittelt. Sie haben das Recht zu schweigen (§ 136 Abs. 1 StPO) und einen Anwalt hinzuzuziehen.
 - **Vernehmung als Beschuldigter**: vor jeder Vernehmung muss die Belehrung nach § 136 StPO erfolgen. Sie muessen NICHT aussagen.
-- **Anhoerung Bussgeldverfahren**: § 55 OWiG; Schweigen ist erlaubt.
+- **Anhörung Bussgeldverfahren**: § 55 OWiG; Schweigen ist erlaubt.
 - **Gestaendnis**: ist im Verfahren bindend, kann zu Verurteilung fuehren.
 - **Einlassung**: jede Aussage zur Sache ist eine Einlassung.
-- **Anhoerungsbogen**: keine Pflicht, ihn ausgefuellt zurueckzuschicken.
+- **Anhörungsbogen**: keine Pflicht, ihn ausgefuellt zurueckzuschicken.
 - **Verwarnung mit Strafvorbehalt (§ 59 StGB)**: keine Strafe sofort, aber kann nachgeholt werden.
 - **Strafbefehl (§§ 407 ff. StPO)**: Frist zum Einspruch **2 Wochen** ab Zustellung! Versaeumt wird Strafbefehl rechtskraeftig wie Urteil.
 - **Anklageschrift**: Hauptverfahren ist eroeffnet; sehr ernst.
@@ -43,15 +43,15 @@ Dieser Skill markiert typische **Warnwoerter im Strafverfahren** und hilft Mensc
 ## Start
 
 - Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
 - Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Arbeitsweise
 
 1. Schwierige Woerter markieren und kurz erklaeren.
 2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
-3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
+3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Rücknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
 4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
 5. Bei Unsicherheit genau eine Rueckfrage stellen.
 

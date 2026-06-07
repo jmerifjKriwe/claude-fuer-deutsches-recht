@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-financial-institutions
-description: "Sanktions-Compliance fuer Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanktions-Compliance für Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Korrespondenzbankgeschaeft: Sanktions-Compliance und Transaktionsscreening
 
 ## Arbeitsbereich
 
-Sanktions-Compliance fuer Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanktions-Compliance für Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,7 +20,7 @@ Sanktions-Compliance fuer Banken und Finanzinstitute im Korrespondenzbankgeschae
 ## Mandantenfall
 
 - Deutsche Korrespondenzbank erhaelt USD-Zahlung ueber US-Korrespondenten aus Russland; OFAC-Exposure.
-- Bank soll Akkreditiv fuer iranischen Importeur eroeffnen; Gegenpartei nicht in SDN-Liste, aber enge Verbindungen zum Staat.
+- Bank soll Akkreditiv für iranischen Importeur eroeffnen; Gegenpartei nicht in SDN-Liste, aber enge Verbindungen zum Staat.
 - Finanzinstitut prueft neue Korrespondenzbankbeziehung mit Tuerkei; Sanktionsumgehungsrisiko Russland.
 
 ## Erste Schritte
@@ -43,7 +43,7 @@ Sanktions-Compliance fuer Banken und Finanzinstitute im Korrespondenzbankgeschae
 ## Pruef-Raster
 
 - [ ] Alle Transaktionsparteien inkl. Intermediare gescreent?
-- [ ] 50-%-Eigentums-/Kontrollregel fuer alle juristischen Personen geprueft?
+- [ ] 50-%-Eigentums-/Kontrollregel für alle juristischen Personen geprueft?
 - [ ] OFAC-Exposure bei USD-Transaktionen beachtet?
 - [ ] Korrespondenzbank-CDD-Dokumentation vollstaendig?
 - [ ] Sektorspezifische Verbote (Finanzierung, Anleihen) geprueft?
@@ -53,14 +53,14 @@ Sanktions-Compliance fuer Banken und Finanzinstitute im Korrespondenzbankgeschae
 
 - Indirekte Sanktionsexponierung durch Korrespondenzbank-Kette wird unterschaetzt.
 - OFAC-Jurisdiktion bei USD-Transaktionen gilt unabhaengig von EU-Sanktionsstatus.
-- 50-%-Regel fuer Eigentum und Kontrolle wird bei komplexen Holdingstrukturen nicht vollstaendig angewendet.
+- 50-%-Regel für Eigentum und Kontrolle wird bei komplexen Holdingstrukturen nicht vollstaendig angewendet.
 - SWIFT-Ausschluss russischer Banken schliesst nicht alle Transfermoeglichkeiten aus.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

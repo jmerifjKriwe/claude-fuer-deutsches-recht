@@ -22,7 +22,7 @@ Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll
 Dieser Skill erkennt die Sprache der eingehenden Mandantenanfrage und schaltet die Erstantwort in die entsprechende Sprache um. Die Sprachauswahl folgt der Sprache der Anfrage — nicht der Sprache der Kanzlei-Oberfläche.
 
 ## Triage zu Beginn
-1. Welche Sprache wurde in der Anfrage verwendet und welche Sprache soll fuer die Antwort verwendet werden?
+1. Welche Sprache wurde in der Anfrage verwendet und welche Sprache soll für die Antwort verwendet werden?
 2. Gibt es landesspezifische Anredekonventionen (EN, FR, IT) die abweichen von deutschen Regeln?
 3. Muss der Datenschutzhinweis (Art. 13 DSGVO) und der Kein-Mandat-Disclaimer ebenfalls in der Fremdsprache formuliert werden?
 4. Ist die Anfrage moeglicherweise automatisch uebersetzt worden (Qualitaet der Sprache pruefen)?
@@ -33,7 +33,7 @@ Dieser Skill erkennt die Sprache der eingehenden Mandantenanfrage und schaltet d
 ## Zentrale Normen
 - Art. 13 DSGVO — Informationspflicht in verstaendlicher Sprache: gilt bei Fremdsprachler uneingeschraenkt
 - Art. 12 DSGVO — Transparenz: klar und in einfacher Sprache; Fremdsprachler haben Anspruch auf verstaendliche Information
-- § 49b Abs. 5 BRAO — Kostenbelehrung: muss fuer Mandanten verstaendlich sein (Sprache relevant)
+- § 49b Abs. 5 BRAO — Kostenbelehrung: muss für Mandanten verstaendlich sein (Sprache relevant)
 - § 43 BRAO — Sorgfaltspflicht: Sprachbarriere als organisatorisches Risiko in der Kanzlei
 
 ## Quellenregel

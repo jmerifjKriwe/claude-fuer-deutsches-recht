@@ -95,7 +95,7 @@ DIENSTLEISTER-DUE-DILIGENCE
 
 SITZ: [LAND]
 EU-Datenzentrum: [JA / NEIN — Standort: BESCHREIBUNG]
-Training auf Eingaben: [NEIN (Enterprise-Tier) / JA — UNZULAESSIG fuer Mandatsdaten]
+Training auf Eingaben: [NEIN (Enterprise-Tier) / JA — UNZULAESSIG für Mandatsdaten]
 CLOUD Act-Risiko: [NIEDRIG / HOCH — Begruendung]
 
 Zertifizierungen:

@@ -19,7 +19,7 @@ Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pf
 
 ## Aufgabe
 
-Skill fuer vorvertragliche Aufklaerungspflichten im Franchise.
+Skill für vorvertragliche Aufklaerungspflichten im Franchise.
 
 ## Norm
 

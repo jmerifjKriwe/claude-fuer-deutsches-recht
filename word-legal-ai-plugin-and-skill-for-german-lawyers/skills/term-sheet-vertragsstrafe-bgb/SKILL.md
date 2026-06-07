@@ -75,7 +75,7 @@ Diese Punkte fehlen in fast jedem Term Sheet und muessen aktiv ergaenzt werden:
 7. **Salvatorische Klausel** — Was passiert bei Teilnichtigkeit.
 8. **Abtretungsverbot oder Zustimmungsvorbehalt** — § 399 BGB.
 9. **Aufrechnungsverbot oder -beschraenkung** — Wirksamkeitsgrenzen § 309 Nr. 3 BGB.
-10. **Mitteilung und Zustellung** — Adresse fuer rechtlich relevante Mitteilungen.
+10. **Mitteilung und Zustellung** — Adresse für rechtlich relevante Mitteilungen.
 11. **Geheimhaltung nach Vertragsende** — Nachlaufzeit drei bis fuenf Jahre.
 12. **Sprachklausel** — Welche Sprachfassung ist verbindlich.
 
@@ -117,7 +117,7 @@ Diese Punkte fehlen in fast jedem Term Sheet und muessen aktiv ergaenzt werden:
 ## Ausgabeformat
 
 - **Ausgearbeiteter Vertragsentwurf** als .docx mit Formatvorlagen.
-- **Mapping-Tabelle** als Anhang fuer interne Doku.
+- **Mapping-Tabelle** als Anhang für interne Doku.
 - **Mandantenmemo** zu offenen Punkten.
 - **Markup-Modus aus**, da Erstentwurf.
 
@@ -131,7 +131,7 @@ Diese Punkte fehlen in fast jedem Term Sheet und muessen aktiv ergaenzt werden:
 
 > ### § 4 Verguetung
 >
-> (1) Die Verguetung fuer die Erbringung der in § 2 beschriebenen Leistungen betraegt insgesamt EUR 500.000 zuzueglich der jeweils gesetzlichen Umsatzsteuer.
+> (1) Die Verguetung für die Erbringung der in § 2 beschriebenen Leistungen betraegt insgesamt EUR 500.000 zuzueglich der jeweils gesetzlichen Umsatzsteuer.
 >
 > (2) Die Verguetung ist in drei Tranchen zu zahlen:
 >
@@ -150,10 +150,10 @@ Der ausgearbeitete Vertrag hat den Term-Sheet-Punkt nicht veraendert (EUR 500.00
 ## Querverweise
 
 - `dokumentarchitektur-vertrag-und-schriftsatz` für das Vertragsskelett
-- `definitionen-klauseln-stringent` fuer den Definitionsapparat
-- `boilerplate-klauseln-katalog` fuer Schlussbestimmungen
-- `klausel-bibliothek-katalog` fuer fertige Klauselbausteine
-- `defensive-drafting-fallen-erkennen` fuer Review der Gegenfassung
+- `definitionen-klauseln-stringent` für den Definitionsapparat
+- `boilerplate-klauseln-katalog` für Schlussbestimmungen
+- `klausel-bibliothek-katalog` für fertige Klauselbausteine
+- `defensive-drafting-fallen-erkennen` für Review der Gegenfassung
 
 ## Quellen (Stand 05/2026)
 

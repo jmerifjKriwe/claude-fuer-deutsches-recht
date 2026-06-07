@@ -16,7 +16,7 @@ description: "Anwaltszwang SGG Arbeitslosengeld I im Selbstvertretung am Sozialg
 | `arbeitslosengeld-i-sgb-iii` | Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt. |
 | `arbeitsunfall-bg-anerkennung-anzeige` | Arbeitsunfall: Anerkennung durch Berufsgenossenschaft. Skill klaert den Unfallbegriff Wegeunfall meldepflichtige Unfaelle Frist der Unfallanzeige durch Arbeitgeber innerhalb 3 Tagen und das Verfahren der Anerkennung. Liefert Vorlage. |
 | `arztberichte-vorlegen-laien-leitfaden` | Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext. |
-| `aufrechnung-laufende-leistungen-51-sgb-i` | Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhoerung. Liefert Verteidigungsbausteine. |
+| `aufrechnung-laufende-leistungen-51-sgb-i` | Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhörung. Liefert Verteidigungsbausteine. |
 
 ## Arbeitsweg
 
@@ -43,7 +43,7 @@ description: "Anwaltszwang SGG Arbeitslosengeld I im Selbstvertretung am Sozialg
 
 ## Worum geht es?
 
-Viele denken: ohne Anwalt geht es nicht. Beim Sozialgericht ist das anders. Sie duerfen sich selbst vertreten — als Versicherter, als Leistungsempfaenger, als Behoerde. Erst beim Bundessozialgericht ist ein Anwalt Pflicht.
+Viele denken: ohne Anwalt geht es nicht. Beim Sozialgericht ist das anders. Sie duerfen sich selbst vertreten — als Versicherter, als Leistungsempfaenger, als Behörde. Erst beim Bundessozialgericht ist ein Anwalt Pflicht.
 
 ## In einfacher Sprache
 
@@ -59,7 +59,7 @@ Sie brauchen am Sozialgericht keinen Anwalt. Auch nicht am Landessozialgericht. 
 
 - **Anwaltszwang**: Pflicht, sich von einem Anwalt vertreten zu lassen. Gibt es in vielen Gerichts-Arten, aber nicht beim SG/LSG.
 - **Postulationsfaehigkeit**: Wer vor Gericht auftreten darf. Beim SG sind Sie selbst postulationsfaehig.
-- **Bevollmaechtigter**: Eine Person, die fuer Sie auftritt. Kann ein Anwalt sein, muss aber nicht.
+- **Bevollmaechtigter**: Eine Person, die für Sie auftritt. Kann ein Anwalt sein, muss aber nicht.
 
 ## Rechtsgrundlagen
 
@@ -67,7 +67,7 @@ Sie brauchen am Sozialgericht keinen Anwalt. Auch nicht am Landessozialgericht. 
 - **§ 73 Abs. 2 SGG** — Sie duerfen einen Bevollmaechtigten waehlen. Erlaubt sind: Anwalt, Rechtsbeistand, Mitglieder von Gewerkschaft / Sozialverband, andere Personen mit Befaehigung zum Richteramt.
 - **§ 73 Abs. 4 SGG** — Vor dem BSG ist ein Anwalt oder Hochschullehrer zwingend.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, in welcher Instanz Sie sind
 
@@ -90,7 +90,7 @@ Anwalt nehmen, wenn:
 
 - der Fall medizinisch komplex ist
 - mehrere Bescheide zusammenhaengen
-- die Behoerde ein juristisch schwieriges Argument bringt
+- die Behörde ein juristisch schwieriges Argument bringt
 - der Streitwert hoch ist
 - es um Existenz geht (laufende Leistung gestoppt)
 
@@ -98,7 +98,7 @@ Selbst vertreten ist gut, wenn:
 
 - der Fall einfach ist (Rechenfehler, klarer Sachverhalt)
 - Sie Zeit haben, sich einzulesen
-- Sie schon Erfahrung mit Behoerden haben
+- Sie schon Erfahrung mit Behörden haben
 
 ### Schritt 4 — Bei Berufung zum LSG nachdenken
 
@@ -177,7 +177,7 @@ Arbeitslosengeld I bekommen Sie, wenn Sie eine Zeit lang gearbeitet haben und je
 - **ALG I**: Arbeitslosengeld bei Arbeitslosigkeit (12 bis 24 Monate je nach Lebensalter).
 - **Sperrzeit**: Kuerzung wegen versicherungswidrigem Verhalten (z.B. selbst gekuendigt).
 - **Anwartschaftszeit**: 12 Monate sozialversicherungspflichtige Beschaeftigung in den letzten 30 Monaten.
-- **Bemessungsentgelt**: Berechnungsgrundlage fuer Hoehe.
+- **Bemessungsentgelt**: Berechnungsgrundlage für Hoehe.
 
 ## Rechtsgrundlagen
 
@@ -187,7 +187,7 @@ Arbeitslosengeld I bekommen Sie, wenn Sie eine Zeit lang gearbeitet haben und je
 - **§ 149 SGB III** — Hoehe.
 - **§ 159 SGB III** — Sperrzeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anspruch pruefen
 
@@ -212,12 +212,12 @@ Bei Eigenkuendigung "wichtiger Grund":
 - Schwerwiegende Vertragsverletzungen des Arbeitgebers
 - Familiaere Gruende (Pflege von Angehoerigen)
 - Wegfall der Zumutbarkeit des Arbeitswegs (z.B. bei Umzug zu pflegebeduerftigem Angehoerigen) — BSG-Linie pruefen
-- Aufhebungsvertrag fuer Abfindung — meist KEIN wichtiger Grund, ausser drohende betriebliche Kuendigung
+- Aufhebungsvertrag für Abfindung — meist KEIN wichtiger Grund, ausser drohende betriebliche Kuendigung
 
 ### Schritt 4 — Widerspruch
 
 ```
-Agentur fuer Arbeit [Ort] [Ort, Datum]
+Agentur für Arbeit [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -229,7 +229,7 @@ gegen den o.g. Bescheid mit Sperrzeit von 12 Wochen lege ich Widerspruch ein.
 
 Begruendung:
 
-1. Wichtiger Grund fuer Eigenkuendigung lag vor:
+1. Wichtiger Grund für Eigenkuendigung lag vor:
  - Mobbing durch Vorgesetzten (siehe Aufzeichnungen Anlage 1)
  - Aerztliches Attest zur psychischen Belastung (Anlage 2)
  - Beschwerde beim Betriebsrat (Anlage 3)
@@ -350,7 +350,7 @@ Plotzlich von aussen einwirkendes Ereignis das zu einem Gesundheitsschaden oder 
 
 ## Worum geht es?
 
-Die meisten SG-Verfahren entscheiden sich an der medizinischen Frage. Ob Sie Pflegegrad 3 bekommen, EM-Rente, GdB 50 — alles haengt von Aerzten ab. Diese Skill zeigt, wie Sie aerztliche Belege gezielt fuer Ihre Sache nutzen.
+Die meisten SG-Verfahren entscheiden sich an der medizinischen Frage. Ob Sie Pflegegrad 3 bekommen, EM-Rente, GdB 50 — alles haengt von Aerzten ab. Diese Skill zeigt, wie Sie aerztliche Belege gezielt für Ihre Sache nutzen.
 
 ## In einfacher Sprache
 
@@ -366,7 +366,7 @@ In vielen Verfahren entscheidet, was die Aerzte sagen. Sie brauchen gute Atteste
 
 - **Befundbericht**: Aerztlicher Bericht ueber Untersuchung und Ergebnis.
 - **Attest**: Schriftliche aerztliche Bescheinigung.
-- **ICD-Code**: Diagnose-Code (z.B. F33.2 fuer Depression).
+- **ICD-Code**: Diagnose-Code (z.B. F33.2 für Depression).
 - **AU-Bescheinigung**: Arbeitsunfaehigkeits-Bescheinigung.
 - **Reha-Entlassungsbericht**: Bericht nach Reha-Aufenthalt.
 
@@ -376,12 +376,12 @@ In vielen Verfahren entscheidet, was die Aerzte sagen. Sie brauchen gute Atteste
 - **§ 60 SGB I** — Mitwirkungspflicht (Belege beibringen).
 - **§ 25 SGB X** — Akteneinsicht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Aerzte brauchen Sie?
 
 - **Hausarzt** als Generalist
-- **Facharzt** fuer Ihre Hauptdiagnose (Orthopaedie, Psychiatrie, Innere etc.)
+- **Facharzt** für Ihre Hauptdiagnose (Orthopaedie, Psychiatrie, Innere etc.)
 - **Krankenhaus / Klinik**: Entlassungsberichte
 - **Reha-Klinik**: Entlassungsbericht
 - **Spezialambulanzen** (z.B. Schmerzklinik)
@@ -426,7 +426,7 @@ Im Pflegestreit zusaetzlich:
 ### Schritt 4 — Atteste einreichen
 
 - Original aufheben.
-- Kopie an Behoerde / Gericht.
+- Kopie an Behörde / Gericht.
 - Bei Klage: als Anlage K[n] mit klarer Bezeichnung.
 
 ### Schritt 5 — Mehrere Atteste sind besser
@@ -453,7 +453,7 @@ Bitten Sie um Befundkopie (gratis oder geringe Kopiergebuehr).
 
 - Beim Hausarzt freundlich bleiben, kurze Bitte.
 - Wenn keine Reaktion: das Gericht kann den Arzt zur Befundauskunft auffordern (§ 103 SGG).
-- Sie geben dafuer Adresse und Schweigepflichtsentbindung.
+- Sie geben dafür Adresse und Schweigepflichtsentbindung.
 
 ## Worauf Sie besonders achten muessen
 
@@ -493,7 +493,7 @@ Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern,
 
 ## 5. `aufrechnung-laufende-leistungen-51-sgb-i`
 
-**Fokus:** Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhoerung. Liefert Verteidigungsbausteine.
+**Fokus:** Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhörung. Liefert Verteidigungsbausteine.
 
 # Aufrechnung Laufende Leistungen 51 Sgb I
 
@@ -511,10 +511,10 @@ Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern,
 
 ## Voraussetzungen
 
-- Gegenforderung der Behoerde aus Erstattung oder Schadensersatz.
+- Gegenforderung der Behörde aus Erstattung oder Schadensersatz.
 - Hoehe und Faelligkeit feststellbar.
 
-## Anhoerungspflicht
+## Anhörungspflicht
 
 - § 24 SGB X — vor Aufrechnung anhoeren.
 - Aenderung des bewilligten Leistungsbetrags = belastender VA.
@@ -533,7 +533,7 @@ Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern,
 
 1. Bestehende Rueckforderung?
 2. Laufende Leistung des selben Traegers?
-3. Anhoerung erfolgt?
+3. Anhörung erfolgt?
 4. Hilfebeduerftigkeit durch Aufrechnung?
 5. Pfaendungsfreigrenze gewahrt?
 

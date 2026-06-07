@@ -127,7 +127,7 @@ Bei älterer Marke mit > 5 Jahren Eintragung verlangt der Markeninhaber Benutzun
 
 ## Anschluss-Skills
 
-- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Verfahren
+- `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Verfahren
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
 - `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
 - `markenrecherche` – Kollisionsrecherche vor Anmeldung

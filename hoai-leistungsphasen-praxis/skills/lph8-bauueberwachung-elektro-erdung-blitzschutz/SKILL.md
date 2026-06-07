@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-elektro-erdung-blitzschutz
-description: "Bauueberwachung HOAI LPH 8 fuer elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Elektro Erdung und Blitzschutz
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -32,7 +32,7 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 1. Fundamenterder Einbaukontrolle: Bandstahl 30 mm x 3.5 mm oder Runddraht 10 mm Cu, Verlegung nach DIN 18014 Abschnitt 5, 50 mm Betondeckung allseitig, Foto vor Betonage
 2. Trennungsabstand-Berechnung: Berechnung nach DIN EN 62305-3 Abschnitt 6.3, ki km und kc Parameter, Abstand Ableiterbahn zu Metallinstallation
 3. Ableiter-Befestigung: Rohrdubel oder Schellen alle 1 m an senkrechtem Ableiter, Rohrleitung Korrosionsschutz Klasse 2 nach DIN EN 62305-3
-4. Dachfangeinrichtung-Kontrolle: Maschenweite nach Schutzklasse I-IV, 10 x 10 m fuer LPL I, Fangstange Hoehe nach Schutzwinkel-Methode
+4. Dachfangeinrichtung-Kontrolle: Maschenweite nach Schutzklasse I-IV, 10 x 10 m für LPL I, Fangstange Hoehe nach Schutzwinkel-Methode
 5. Potentialausgleich Innenschutz: PA-Schiene Hauptgebaeude, Anbindung alle metallischen Installationen, Querschnitt Cu 6 mm2 mindestens nach DIN VDE 0100-540
 6. SPD-Einbau Ueberspannungsschutz: Typ 1 Haupteinspeisung, Typ 2 Unterverteilungen, Koordination nach DIN EN 61643-11 Iimp und Uc
 
@@ -48,7 +48,7 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 ## Prueferaster und Kontrollpunkte
 
 1. Fundamenterder-Sichtpruefung: Vor Betonage Foto Verlegung, Kreuzverbindungen geschweisst und abgenommen, Anschlussfahnen an Potentialausgleich sichtbar
-2. Messung Erdungswiderstand: Dreipolmethode nach DIN VDE 0100-610, Grenzwert kleiner 10 Ohm fuer TN-System, Protokoll Messgeraet Megger DET2/3
+2. Messung Erdungswiderstand: Dreipolmethode nach DIN VDE 0100-610, Grenzwert kleiner 10 Ohm für TN-System, Protokoll Messgeraet Megger DET2/3
 3. Ableiterwiderstand-Messung: Leitungswiderstands-Messung je Ableiter kleiner 0.2 Ohm, Zaehlmessprotokoll alle Verbindungsstellen
 4. Trennungsabstand-Pruefung vor Ort: Bandmass zur naechsten metallischen Unterinstallation, Protokoll Mess-Ergebnis vs. Berechnung
 5. SPD-Pruefung: Fabrikat und Typ auf Lieferschein konform mit Planung, Anschlussquerschnitt nach Herstellervorschrift, Sicherungsschutz installiert

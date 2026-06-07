@@ -68,7 +68,7 @@ Dieser Skill ist für akute Baufälle: Nachbar hebt aus, Mauer reißt, Boden sac
 
 - Streitstrang mit Anspruchsrichtung.
 - Benötigte Beweise.
-- Risiko fuer Mandant und Gegenseite.
+- Risiko für Mandant und Gegenseite.
 - Deeskalierender naechster Schritt.
 - Gerichtlicher naechster Schritt, falls Vergleich scheitert.
 

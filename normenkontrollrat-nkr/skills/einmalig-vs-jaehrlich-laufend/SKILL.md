@@ -1,6 +1,6 @@
 ---
 name: einmalig-vs-jaehrlich-laufend
-description: "Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen fuer Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen."
+description: "Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen."
 ---
 
 # NKR-Einmalig vs. jaehrlich laufend
@@ -24,7 +24,7 @@ Keine Rueckfrage noetig, wenn Zahlen vorliegen.
 - **§ 45 GGO** — Darstellung in der Begruendung
 - **One-in-one-out-Regel** der Bundesregierung 2015 (Stand zu pruefen)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Einmaliger Umstellungsaufwand
 
@@ -74,7 +74,7 @@ Tabelle:
 
 Bausteine:
 
-- "Das Vorhaben verursacht einen einmaligen Umstellungsaufwand fuer die Wirtschaft in Hoehe von [X] Mio EUR und einen jaehrlich laufenden Aufwand von [Y] Mio EUR."
+- "Das Vorhaben verursacht einen einmaligen Umstellungsaufwand für die Wirtschaft in Hoehe von [X] Mio EUR und einen jaehrlich laufenden Aufwand von [Y] Mio EUR."
 - "Der NKR weist darauf hin, dass die ressortseitige Darstellung den jaehrlichen Aufwand und den einmaligen Aufwand nicht trennt; eine getrennte Ausweisung ist methodisch erforderlich."
 - "Der mehrjaehrige Re-Zertifizierungsaufwand wurde mit [Wert / Jahre] annualisiert."
 

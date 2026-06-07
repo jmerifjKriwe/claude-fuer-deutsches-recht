@@ -1,13 +1,13 @@
 ---
 name: subject-matter-102-scope
-description: "Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen fuer Title 17 im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen für Title 17 im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Subject Matter und § 102 Scope
 
 ## Arbeitsbereich
 
-Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen fuer Title 17. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen für Title 17. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -24,7 +24,7 @@ Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixati
 
 ## Zweck
 
-Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug fuer Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
+Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug für Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
 
 Dieser Skill macht aus dem Thema **Subject Matter und § 102 Scope** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 

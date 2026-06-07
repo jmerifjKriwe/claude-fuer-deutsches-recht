@@ -156,7 +156,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zypern**. Er ist 
 8. Besteht Haftgefahr oder Unterbringung im Grenz-Aufnahmezentrum aktuell?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -439,7 +439,7 @@ Weitere Rechtsprechung im Schriftsatz live verifizieren; keine Aktenzeichen aus 
 
 ## Output-Template: Eilantrag GEAS-Grenzverfahren (§ 36 AsylG / Art. GVO 2024/1349)
 
-**Adressat:** Verwaltungsgericht [ORT] (zustaendig fuer Grenzverfahren)
+**Adressat:** Verwaltungsgericht [ORT] (zuständig für Grenzverfahren)
 **Tonfall:** Hochdringend; 7-Tage-Frist betonend
 
 ```

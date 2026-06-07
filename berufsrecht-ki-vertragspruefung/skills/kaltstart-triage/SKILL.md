@@ -132,10 +132,10 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie prufen erstmals einen Vertrag mit einem KI-Anbieter und benoetigen einen strukturierten Pruefrahmen fuer Ihren Berufsstand.
+- Sie prufen erstmals einen Vertrag mit einem KI-Anbieter und benoetigen einen strukturierten Pruefrahmen für Ihren Berufsstand.
 - Ein KI-Dienstleister hat seinen Server in den USA und Sie wollen pruefen, ob der US CLOUD Act oder FISA ein Risiko darstellt.
 - Sie moechten einen Rueckfragebrief an den Anbieter schreiben, um fehlende Vertragsklauseln zu Verschwiegenheit, Subunternehmern und Datenloeschung nachzufordern.
-- Sie sollen ein zusammenfassendes Gutachten fuer die Kanzleifuehrung erstellen, bevor ein KI-Tool eingefuehrt wird.
+- Sie sollen ein zusammenfassendes Gutachten für die Kanzleifuehrung erstellen, bevor ein KI-Tool eingefuehrt wird.
 - Ihr Kanzleiteam nutzt bereits ein KI-Tool und Sie wollen rueckwirkend pruefen, ob alle berufsrechtlichen Anforderungen erfuellt sind.
 
 ## Fachbegriffe (kurz erklaert)
@@ -144,9 +144,9 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 - **Dienstleister-Regelung** — Berufsgruppenspezifische Norm (z. B. § 43e BRAO), die Kanzleien verpflichtet, KI-Anbieter auf Verschwiegenheit zu verpflichten und zu belehren.
 - **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; laeuft parallel zur berufsrechtlichen Pruefung, ersetzt diese aber nicht.
 - **No-Training-Klausel** — Vertragliche Zusage des Anbieters, Mandatsdaten nicht zum Trainieren von KI-Modellen zu verwenden.
-- **Zero-Retention** — Zusage, Daten nicht dauerhaft zu speichern; relevant fuer Loeschkonzept und Audit-Rechte.
-- **Cloud Act** — US-amerikanisches Gesetz, das US-Behoerden Zugriff auf bei US-Unternehmen gespeicherte Daten ermoeglichen kann, auch wenn Server in der EU stehen.
-- **BSI C5** — Cloud Computing Compliance Criteria Catalogue des Bundesamts fuer Sicherheit in der Informationstechnik; anerkannter Pruefstandard.
+- **Zero-Retention** — Zusage, Daten nicht dauerhaft zu speichern; relevant für Loeschkonzept und Audit-Rechte.
+- **Cloud Act** — US-amerikanisches Gesetz, das US-Behörden Zugriff auf bei US-Unternehmen gespeicherte Daten ermoeglichen kann, auch wenn Server in der EU stehen.
+- **BSI C5** — Cloud Computing Compliance Criteria Catalogue des Bundesamts für Sicherheit in der Informationstechnik; anerkannter Pruefstandard.
 - **Norm-Adapter** — Mechanismus im Plugin, der je nach Berufsstand (BRAO, StBerG, WPO, PAO, BNotO) die einschlaegige Dienstleisterregelung auswaehlt.
 
 ## Rechtsgrundlagen
@@ -162,7 +162,7 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 - Art. 32 DSGVO — Technisch-organisatorische Massnahmen
 - §§ 53a 97 StPO — Zeugnisverweigerungsrecht und Beschlagnahmeverbot
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Berufsstand und Anbieter im Kaltstart-Interview erfassen; Norm-Adapter bestimmen.
 2. Erforderlichkeit der Offenlegung von Mandatsdaten pruefen und dokumentieren.
@@ -177,8 +177,8 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 - `cloud-act-und-drittstaat-pruefen` — Auslandsbezug und Drittstaatrisiko (US CLOUD Act, FISA) pruefen; Professional Secrecy Addendum empfehlen.
 - `erforderlichkeit-dokumentieren` — Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenueber dem KI-Dienstleister pruefen und dokumentieren.
 - `gutachten-erstellen` — Zusammenfassendes Berufsrechts-Gutachten zum KI-Anbietervertrag erstellen.
-- `klauselvorschlaege` — Mustertexte fuer Vertragsklauseln zu Verschwiegenheit, No-Training, Zero-Retention und Subunternehmern liefern.
-- `parallelnormen-andere-berufe` — Norm-Adapter-Referenz fuer alle fuenf Berufsgeheimnistraeger mit Mapping der Dienstleisterregelungen.
+- `klauselvorschlaege` — Mustertexte für Vertragsklauseln zu Verschwiegenheit, No-Training, Zero-Retention und Subunternehmern liefern.
+- `parallelnormen-andere-berufe` — Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger mit Mapping der Dienstleisterregelungen.
 - `rueckfragebrief-an-anbieter` — Strukturierten Rueckfragebrief an den KI-Anbieter zu offenen berufsrechtlichen Punkten erstellen.
 - `strafprozessuale-regelung-pruefen` — Strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO pruefen.
 - `strafrechtliche-belehrung-pruefen` — Belehrung des Dienstleisters ueber § 203 StGB im Vertrag pruefen.
@@ -206,7 +206,7 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 
 - `ki-richtlinie-kanzleien` — KI-Nutzungsrichtlinie als Rahmen, der die Ergebnisse der Vertragspruefung umsetzt.
 - `kanzlei-builder-hub` — Verwaltet und installiert Skills, die ihrerseits KI-Dienste nutzen koennen.
-- `kanzlei-allgemein` — Kanzlei-Workflow-Plugin, fuer das KI-Dienste berufsrechtskonform eingebunden werden muessen.
+- `kanzlei-allgemein` — Kanzlei-Workflow-Plugin, für das KI-Dienste berufsrechtskonform eingebunden werden muessen.
 
 ## Quellen und Aktualitaet
 

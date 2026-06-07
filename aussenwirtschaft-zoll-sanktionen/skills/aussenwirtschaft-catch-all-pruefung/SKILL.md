@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-catch-all-pruefung
-description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht fuer nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meldepflicht. Output: Catch-All-Pruefungsvermerk und Eskalationsentscheidung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meldepflicht. Output: Catch-All-Pruefungsvermerk und Eskalationsentscheidung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Catch-All-Pruefung: Genehmigungspflicht fuer nicht-gelistete Gueter
+# Catch-All-Pruefung: Genehmigungspflicht für nicht-gelistete Gueter
 
 ## Arbeitsbereich
 
-Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht fuer nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meldepflicht. Output: Catch-All-Pruefungsvermerk und Eskalationsentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meldepflicht. Output: Catch-All-Pruefungsvermerk und Eskalationsentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht fuer nicht-
 
 ## Mandantenfall
 
-- Maschinenhersteller bekommt Hinweis, dass sein Industriekunde in Iran Gueter fuer Raketenprogramm einsetzt.
+- Maschinenhersteller bekommt Hinweis, dass sein Industriekunde in Iran Gueter für Raketenprogramm einsetzt.
 - Exporteur empfaengt E-Mail mit ungewoehnlichen Anforderungen nach bestimmten technischen Spezifikationen.
 - Bank verweigert Akkreditiv und teilt mit, ein Regierungsbehorde habe Embargobezug signalisiert.
 
@@ -28,9 +28,9 @@ Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht fuer nicht-
 1. Catch-All-Ausloeser bestimmen: positive Kenntnis (Art. 4 Abs. 1 VO 2021/821) oder Information durch BAFA (Art. 4 Abs. 2).
 2. Gueter und Technologie beschreiben; auch nicht-gelistete Gueter koennen betroffen sein.
 3. Endverwendungszweck und Endverwender ermitteln: militaer, WMD, Raketenprogramm, Embargoland?
-4. BAFA unverzueglich informieren falls Anhaltspunkte fuer kontrollpflichtige Endverwendung vorliegen.
+4. BAFA unverzueglich informieren falls Anhaltspunkte für kontrollpflichtige Endverwendung vorliegen.
 5. Lieferstopp (Stop-Ship) anordnen bis BAFA-Klaerung.
-6. Interne Dokumentation und Legal Hold fuer alle relevanten Unterlagen.
+6. Interne Dokumentation und Legal Hold für alle relevanten Unterlagen.
 
 ## Rechtsrahmen
 
@@ -52,7 +52,7 @@ Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht fuer nicht-
 ## Typische Fallstricke
 
 - Catch-All greift auch ohne Listenpflichtigkeit; 'keine ECCN' heisst nicht automatisch keine Pflicht.
-- Positive Kenntnis reicht aus; keine Notwendigkeit bewussten Vorsatzes fuer Strafbarkeit.
+- Positive Kenntnis reicht aus; keine Notwendigkeit bewussten Vorsatzes für Strafbarkeit.
 - BAFA-Hinweis per Schreiben oder Telefongespraech kann Genehmigungspflicht ausloesen.
 - Unterlassung der BAFA-Meldung bei Verdacht ist eigenstaendiger Straftatbestand.
 
@@ -60,7 +60,7 @@ Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht fuer nicht-
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

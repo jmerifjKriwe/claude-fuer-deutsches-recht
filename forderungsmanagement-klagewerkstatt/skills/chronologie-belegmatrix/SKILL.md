@@ -1,6 +1,6 @@
 ---
 name: chronologie-belegmatrix
-description: "Erstellt eine zeitliche Belegmatrix fuer eine Forderung von Vertragsschluss bis Klageeingang. Verknuepft Datum Ereignis Beleg Anlage und Beweismittel. Pinpoints ZPO 138 substantiierter Vortrag ZPO 373 ff Beweismittel ZPO 416 Privaturkunde. Liefert Matrix-Template und Anlagenkonvention K und B."
+description: "Erstellt eine zeitliche Belegmatrix für eine Forderung von Vertragsschluss bis Klageeingang. Verknuepft Datum Ereignis Beleg Anlage und Beweismittel. Pinpoints ZPO 138 substantiierter Vortrag ZPO 373 ff Beweismittel ZPO 416 Privaturkunde. Liefert Matrix-Template und Anlagenkonvention K und B."
 ---
 
 # Chronologie und Belegmatrix
@@ -36,12 +36,12 @@ Jeder Schriftsatz steht und faellt mit der Belegkette. Diese Matrix verbindet Er
 | Augenschein | ZPO 371 | Ort Sache |
 | Parteivernehmung | ZPO 445 | nur subsidiaer |
 
-## Privat- oeffentliche Urkunde
+## Privat- öffentliche Urkunde
 
 | Typ | Beweiswirkung |
 |---|---|
-| oeffentliche Urkunde ZPO 415 | voller Beweis fuer beurkundeten Vorgang |
-| Privaturkunde ZPO 416 | voller Beweis fuer Abgabe der enthaltenen Erklaerung |
+| öffentliche Urkunde ZPO 415 | voller Beweis für beurkundeten Vorgang |
+| Privaturkunde ZPO 416 | voller Beweis für Abgabe der enthaltenen Erklaerung |
 
 ## Norm-Pinpoints
 

@@ -101,8 +101,8 @@ Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt f
 
 ## Paragrafenkette
 
-- Sachliche Zustaendigkeit: § 23 Nr. 2a GVG (Wohnraum), § 71 GVG (LG)
-- Oertliche Zustaendigkeit: § 29a ZPO
+- Sachliche Zuständigkeit: § 23 Nr. 2a GVG (Wohnraum), § 71 GVG (LG)
+- Oertliche Zuständigkeit: § 29a ZPO
 - Streitwert: §§ 41, 48 GKG, § 3 ZPO
 - Vollstreckbarkeit: §§ 708 ff. ZPO
 

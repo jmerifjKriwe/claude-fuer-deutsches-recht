@@ -42,7 +42,7 @@ Prüfe formale Vollständigkeit und weise klar aus, was nicht materiell geprüft
 - Schriftlich oder elektronisch (DPMAdirektPro).
 - Sprache: Deutsch (oder mit Uebersetzung binnen 3 Monaten).
 
-### Gebuehren (DPMA-Gebuehrentarif live verifizieren)
+### Gebühren (DPMA-Gebührentarif live verifizieren)
 - Anmeldegebuehr.
 - Aufrechterhaltungsgebuehren mit ansteigender Hoehe (3., 6., 8. Jahr).
 
@@ -52,12 +52,12 @@ Prüfe formale Vollständigkeit und weise klar aus, was nicht materiell geprüft
 - Veroeffentlichung im Patentblatt.
 
 ### Anmeldetag
-- Wesentlich fuer Prioritaet und Neuheit.
+- Wesentlich für Prioritaet und Neuheit.
 - § 5 GebrMG: Anmeldetag = Eingang aller Unterlagen.
 
 ### Pruefraster
 1. Vollstaendige Unterlagen?
-2. Gebuehrenzahlung fristgerecht?
+2. Gebührenzahlung fristgerecht?
 3. Ggf. Inanspruchnahme der Prioritaet (innere oder aussere)?
 
 ## Output

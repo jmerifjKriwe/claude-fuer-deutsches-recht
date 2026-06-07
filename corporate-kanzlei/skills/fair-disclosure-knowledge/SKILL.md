@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -160,7 +160,7 @@ Bei widersprechenden Mandaten in derselben Kanzlei:
 - Keine Kommunikation ueber mandatsrelevante Informationen
 - Schriftlicher Firewall-Beschluss
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Insider-Status bestimmen** — borsennotierte Gesellschaft; Kursrelevanz-Pruefung
 2. **Insider-Liste anlegen** — alle Teammitglieder; Datum des Zugangs; Belehrung
@@ -179,7 +179,7 @@ Zielgesellschaft: [NAME] / ISIN [NR.]
 
 Sie haben heute Zugang zu Insiderinformationen erhalten.
 
-Insiderinformation ist jede nicht oeffentliche kursrelevante Information ueber [FIRMA].
+Insiderinformation ist jede nicht öffentliche kursrelevante Information ueber [FIRMA].
 
 VERBOTEN:
 - Kauf oder Verkauf von Wertpapieren der [FIRMA] oder verbundener Gesellschaften
@@ -187,7 +187,7 @@ VERBOTEN:
 - Empfehlung an andere, auf Basis dieser Information zu handeln
 
 GENEHMIGT:
-- Verwendung der Information nur fuer den Zweck dieser Transaktion
+- Verwendung der Information nur für den Zweck dieser Transaktion
 - Weitergabe nur an Personen auf der Insider-Liste (Need-to-know)
 
 MELDUNG: Bei Verdacht auf Insider-Verletzung sofort an [COMPLIANCE-BEAUFTRAGTEN NAME].

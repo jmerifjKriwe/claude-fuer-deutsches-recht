@@ -140,5 +140,5 @@ Mandatsbezug: Startup möchte Produktname schützen; etabliertes Unternehmen wil
 
 - `markenrecherche` – Vertiefung der Kollisionsrecherche
 - `markenanmeldung-dpma` – DPMA-Anmeldung im Detail
-- `spezial-dpma-fristen-form-und-zustaendigkeit` – Fristen und Formalien
+- `spezial-dpma-fristen-form-und-zuständigkeit` – Fristen und Formalien
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren

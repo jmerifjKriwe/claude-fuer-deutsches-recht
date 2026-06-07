@@ -40,11 +40,11 @@ Klaere vor Ausarbeitung der Beiratsstruktur:
 
 - **§ 52 GmbHG** — Verweis auf AktG-Vorschriften bei freiwilligem Aufsichtsrat / Beirat mit Kontrollbefugnissen
 - **§ 95 AktG** — Pflicht-Aufsichtsrat bei AG; Zusammensetzung und Amtszeit
-- **§ 111 AktG** — Aufgaben des Aufsichtsrats; analog fuer Beirat mit echter Kontrolle
+- **§ 111 AktG** — Aufgaben des Aufsichtsrats; analog für Beirat mit echter Kontrolle
 - **§ 116 AktG** — Sorgfaltspflicht und Verschwiegenheit der AR-Mitglieder; analog Beirat
 - **§§ 1, 4 DrittelbG / §§ 1, 7 MitbestG** — Pflicht-Aufsichtsrat bei GmbH ab 500 / 2.000 Arbeitnehmern
 - **§§ 133, 157 BGB** — Auslegung der Beiratsordnung und -klauseln in der Satzung
-- **§ 43 GmbHG** — Haftungsstandard; gilt analog fuer Beirat mit Zustimmungsrechten
+- **§ 43 GmbHG** — Haftungsstandard; gilt analog für Beirat mit Zustimmungsrechten
 
 ## Aktuelle Rechtsprechung
 
@@ -105,7 +105,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Externe Wahrnehmung (PR-Wert)
 - Reputations-Traeger (z.B. Branchen-Promis)
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Triage:** Aufgabe und Rechtsform klaeren; Pflicht-AR pruefen (DrittelbG/MitbestG)
 2. **Konzept:** Aufgabenprofil, Besetzungswunsch, Verguetungsmodell festlegen
@@ -127,7 +127,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 hoechstens 7 Mitgliedern.
 
 (2) Die Mitglieder des Beirats werden von der Gesellschafterversammlung
-mit einfacher Mehrheit fuer eine Amtszeit von 3 Jahren bestellt.
+mit einfacher Mehrheit für eine Amtszeit von 3 Jahren bestellt.
 Wiederbestellung ist zulaessig.
 
 (3) Der Beirat hat folgende Aufgaben:
@@ -175,8 +175,8 @@ Stand: [DATUM]
 (4) Beschluesse mit einfacher Mehrheit.
 
 § 4 Verguetung
-(1) Jahresfestbetrag: [BETRAG] EUR fuer Mitglieder,
- [BETRAG] EUR fuer Vorsitzenden.
+(1) Jahresfestbetrag: [BETRAG] EUR für Mitglieder,
+ [BETRAG] EUR für Vorsitzenden.
 (2) Sitzungsgeld: [BETRAG] EUR pro Sitzung.
 (3) Reisekosten gegen Beleg.
 
@@ -186,7 +186,7 @@ Stand: [DATUM]
 § 6 Schlichtungsfunktion
 (1) Bei Konflikten zwischen Gesellschaftern ist der Beirat
  vor Klageerhebung anzurufen.
-(2) Beirat hat 4 Wochen fuer Schlichtungsvorschlag.
+(2) Beirat hat 4 Wochen für Schlichtungsvorschlag.
 (3) Schlichtungsempfehlung ist nicht bindend.
 ```
 

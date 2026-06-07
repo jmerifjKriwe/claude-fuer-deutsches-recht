@@ -18,7 +18,7 @@ Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen und Stundenhonor
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Wird nach RVG (Gegenstandswert + Gebuehrentabelle) oder nach Stundenhonorarat (§ 3a RVG) abgerechnet?
+1. Wird nach RVG (Gegenstandswert + Gebührentabelle) oder nach Stundenhonorarat (§ 3a RVG) abgerechnet?
 2. Gibt es einen Vorschuss, der angerechnet werden muss?
 3. Ist eine Rechtsschutzversicherung involviert (Direktabrechnung oder Erstattungsanspruch des Mandanten)?
 4. Soll die Rechnung als E-Rechnung (XRechnung, ZUGFeRD) erstellt werden?
@@ -29,8 +29,8 @@ Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen und Stundenhonor
 ## Zentrale Normen
 - § 10 RVG — Pflichtangaben auf der Honorarrechnung; Faelligkeit bei ordnungsgemaesser Berechnung
 - § 3a RVG — Honorarvereinbarung: Schriftform und Mindestbetrag
-- Anlage 2 RVG — Gebuehrentabelle: Grundlage der RVG-Abrechnung
-- § 14b UStG — Aufbewahrungspflicht fuer Ausgangsrechnungen (10 Jahre)
+- Anlage 2 RVG — Gebührentabelle: Grundlage der RVG-Abrechnung
+- § 14b UStG — Aufbewahrungspflicht für Ausgangsrechnungen (10 Jahre)
 
 ## Quellenregel
 

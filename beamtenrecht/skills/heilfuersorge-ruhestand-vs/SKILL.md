@@ -3,7 +3,7 @@ name: heilfuersorge-ruhestand-vs
 description: "Heilfürsorge, Ruhestand und PKV-Anwartschaft: Polizei, Feuerwehr, Justizvollzug, Soldatenschnittstellen, Übergang in Beihilfe und Versicherungslücken im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# heilfuersorge-ruhestand-pkv-anwartschaft
+# heilfürsorge-ruhestand-pkv-anwartschaft
 
 ## Arbeitsbereich
 

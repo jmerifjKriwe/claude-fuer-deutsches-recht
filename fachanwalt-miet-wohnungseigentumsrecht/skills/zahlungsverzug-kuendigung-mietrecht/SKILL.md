@@ -13,7 +13,7 @@ description: "Zahlungsverzug Kuendigung Mietrecht im Miet- und Wohnungseigentums
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-zahlungsverzug-kuendigung-schonfrist` | Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Rückstandshöhe, Fälligkeit, Tilgung, Schonfristzahlung, hilfsweise ordentliche Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `mietrecht-einfuehrung-vertragstypen` | Einfuehrung Vertragstypen Mietrecht: Wohnraum-, Gewerbe-, Pacht-, Untermiete, Staffel-, Index-, Zeitmiete. Pro Typ: Anwendungsbereich, Schutzvorschriften, Kuendigungsregime, typische Klauselrisiken. Entscheidungstabelle fuer Mandanten und Verweis auf passende Detail-Skills. |
+| `mietrecht-einfuehrung-vertragstypen` | Einfuehrung Vertragstypen Mietrecht: Wohnraum-, Gewerbe-, Pacht-, Untermiete, Staffel-, Index-, Zeitmiete. Pro Typ: Anwendungsbereich, Schutzvorschriften, Kuendigungsregime, typische Klauselrisiken. Entscheidungstabelle für Mandanten und Verweis auf passende Detail-Skills. |
 | `spezial-haustiere-mietvertrag` | Haustiere im Mietverhältnis: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-kleinreparaturklausel` | Kleinreparaturklausel: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gegenstandsbereich, Einzelobergrenze, Jahresobergrenze und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-mietvertrag-agb-klauseln` | Mietvertrag AGB-Klauseln: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -73,7 +73,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 ## 2. `mietrecht-einfuehrung-vertragstypen`
 
-**Fokus:** Einfuehrung Vertragstypen Mietrecht: Wohnraum-, Gewerbe-, Pacht-, Untermiete, Staffel-, Index-, Zeitmiete. Pro Typ: Anwendungsbereich, Schutzvorschriften, Kuendigungsregime, typische Klauselrisiken. Entscheidungstabelle fuer Mandanten und Verweis auf passende Detail-Skills.
+**Fokus:** Einfuehrung Vertragstypen Mietrecht: Wohnraum-, Gewerbe-, Pacht-, Untermiete, Staffel-, Index-, Zeitmiete. Pro Typ: Anwendungsbereich, Schutzvorschriften, Kuendigungsregime, typische Klauselrisiken. Entscheidungstabelle für Mandanten und Verweis auf passende Detail-Skills.
 
 # Mietrecht: Vertragstypen
 
@@ -89,20 +89,20 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -119,10 +119,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

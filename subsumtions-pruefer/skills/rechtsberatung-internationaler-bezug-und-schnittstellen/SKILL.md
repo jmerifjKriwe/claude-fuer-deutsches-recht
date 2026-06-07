@@ -93,7 +93,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. **Rechtsrahmen setzen:** Kollisionsrecht, Zust채ndigkeit, Fristen, Formfragen pr체fen.
 3. **Pr체fpunkte abarbeiten:** Anwendbares Recht, Gerichtsstand, Vollstreckung, Drittstaatenproblematik trennen.
 4. **Risiko bewerten:** Gr체n/Gelb/Rot mit Begr체ndung, Annahmen, fehlenden Belegen und Alternativwegen.
-5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. eu-vorabentscheidung-pruefen, spezial-europarecht-fristen-form-und-zustaendigkeit).
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. eu-vorabentscheidung-pruefen, spezial-europarecht-fristen-form-und-zust채ndigkeit).
 
 ## Output-Standard
 

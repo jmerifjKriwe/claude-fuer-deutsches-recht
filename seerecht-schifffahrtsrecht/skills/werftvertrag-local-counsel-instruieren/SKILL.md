@@ -1,13 +1,13 @@
 ---
 name: werftvertrag-local-counsel-instruieren
-description: "Werftvertrag: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Neubauprojekt unter Werftvertrag im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Neubauprojekt unter Werftvertrag im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werftvertrag – Local Counsel instruieren
 
 ## Arbeitsbereich
 
-Werftvertrag: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Neubauprojekt unter Werftvertrag im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Neubauprojekt unter Werftvertrag im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -36,7 +36,7 @@ Ein Neubauprojekt unter Werftvertrag liegt in einem ausländischen Hafen; lokale
 - Sind deutsche Urteile im Hafenstaat anerkennungsfaehig?
 - Hat Local Counsel Erfahrung mit Seerecht und Werftvertrag?
 - Liegt ein LOU des P&I-Clubs vor?
-- Ist der Kostenrahmen fuer das Auslandsverfahren freigegeben?
+- Ist der Kostenrahmen für das Auslandsverfahren freigegeben?
 
 ## Typische Fallstricke
 - Lokale Seepfandrechte koennen deutsche Hypothek im Rang ueberbieten.

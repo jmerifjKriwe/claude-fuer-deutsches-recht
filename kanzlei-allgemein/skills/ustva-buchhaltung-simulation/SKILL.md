@@ -29,7 +29,7 @@ Sammelt Rechnungsdaten und Belege für die monatliche Umsatzsteuervoranmeldung. 
 ## Zentrale Normen
 - § 18 UStG — Voranmeldungspflicht; Abgabefrist 10. des Folgemonats
 - § 14 UStG — Pflichtangaben auf Rechnungen; Vorsteuerabzug
-- § 147 AO — Aufbewahrungspflicht 10 Jahre fuer Buchungsbelege
+- § 147 AO — Aufbewahrungspflicht 10 Jahre für Buchungsbelege
 - § 152 AO — Verspaetungszuschlag bei verspaeteter Abgabe
 
 ## Quellenregel

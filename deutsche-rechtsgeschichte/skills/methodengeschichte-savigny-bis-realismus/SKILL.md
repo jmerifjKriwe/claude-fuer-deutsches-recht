@@ -1,13 +1,30 @@
 ---
 name: methodengeschichte-savigny-bis-realismus
-description: "Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen fuer heutige Auslegungsmethoden im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen für heutige Auslegungsmethoden im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Methodengeschichte: Savigny bis Rechtsrealismus
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen fuer heutige Auslegungsmethoden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen für heutige Auslegungsmethoden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -40,7 +57,7 @@ Die juristische Methode ist selbst historisch. Savignys vier Auslegungskanons (g
 ## Typische Streitfragen / Forschungsfragen
 
 1. Savignys Kanons: Sind sie gleichrangig oder hat einer Vorrang?
-2. Freirechtsschule: Ist richterliche Freiheit eine Gefahr fuer den Rechtsstaat?
+2. Freirechtsschule: Ist richterliche Freiheit eine Gefahr für den Rechtsstaat?
 3. Teleologische Reduktion und Extension: Grenzen richterlicher Rechtsfortbildung
 4. Jhering-Wende: Ist Interessenjurisprudenz mit Rechtspositivismus vereinbar?
 5. Ehrlichs lebendes Recht: Ist Gewohnheitsrecht wirklich Recht oder nur Sozialregel?

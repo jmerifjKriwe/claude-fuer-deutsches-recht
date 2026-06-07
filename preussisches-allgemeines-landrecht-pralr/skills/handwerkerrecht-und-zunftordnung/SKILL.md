@@ -9,7 +9,7 @@ description: "Handwerkerrecht und Zunftordnung im preussischen Recht. Skill beha
 
 - Bestimmung der Berufsausuebung durch Zunftzwang.
 - Hierarchie Lehrling Geselle Meister.
-- Wanderschaft als Voraussetzung fuer den Meistertitel.
+- Wanderschaft als Voraussetzung für den Meistertitel.
 
 ## Stein-Hardenbergsche Reformen
 
@@ -30,13 +30,28 @@ description: "Handwerkerrecht und Zunftordnung im preussischen Recht. Skill beha
 
 - Handwerksordnung (HwO) 1953.
 - Eintragungspflicht in Handwerksrolle.
-- Meisterpruefung als Voraussetzung fuer selbststaendige Ausuebung.
+- Meisterpruefung als Voraussetzung für selbststaendige Ausübung.
 
 ## Pruefraster
 
 1. Welche Periode?
 2. Welche Berufsausuebung?
 3. Rechtsquelle?
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

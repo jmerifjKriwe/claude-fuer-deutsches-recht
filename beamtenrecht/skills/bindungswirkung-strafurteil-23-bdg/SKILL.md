@@ -1,13 +1,13 @@
 ---
 name: bindungswirkung-strafurteil-23-bdg
-description: "Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten fuer Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellung nach §§ 153 153a StPO. Behandelt die Konstellation Aussagewert eines Freispruchs und die Bindungswirkung in der Bemessungsfrage. Liefert Schriftsatzbausteine fuer die disziplinarrechtliche Verteidigung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten für Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellung nach §§ 153 153a StPO. Behandelt die Konstellation Aussagewert eines Freispruchs und die Bindungswirkung in der Bemessungsfrage. Liefert Schriftsatzbausteine für die disziplinarrechtliche Verteidigung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bindungswirkung Strafurteil im Disziplinarverfahren § 23 BDG
 
 ## Arbeitsbereich
 
-Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten fuer Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellung nach §§ 153 153a StPO. Behandelt die Konstellation Aussagewert eines Freispruchs und die Bindungswirkung in der Bemessungsfrage. Liefert Schriftsatzbausteine fuer die disziplinarrechtliche Verteidigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten für Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellung nach §§ 153 153a StPO. Behandelt die Konstellation Aussagewert eines Freispruchs und die Bindungswirkung in der Bemessungsfrage. Liefert Schriftsatzbausteine für die disziplinarrechtliche Verteidigung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -45,10 +45,10 @@ Skill zur Frage, in welchem Umfang ein Strafurteil oder ein Strafbefehl in das D
 - Keine Bindungswirkung; selbststaendige Feststellung im Disziplinarverfahren.
 
 ### e) Freispruch
-- Freispruch begruendet keine Bindung fuer die Disziplinarseite, weil die Massstaebe (Strafzumessung vs. Vertrauensbeeintraechtigung) abweichen.
+- Freispruch begruendet keine Bindung für die Disziplinarseite, weil die Massstaebe (Strafzumessung vs. Vertrauensbeeintraechtigung) abweichen.
 
-### f) Bedeutung fuer die Bemessung
-- Bei Bindungswirkung sind die festgestellten Tatsachen Grundlage fuer die Bemessung nach § 13 BDG. Argumentationsraum besteht bei Persoenlichkeitsbild und Vertrauensbeeintraechtigung.
+### f) Bedeutung für die Bemessung
+- Bei Bindungswirkung sind die festgestellten Tatsachen Grundlage für die Bemessung nach § 13 BDG. Argumentationsraum besteht bei Persoenlichkeitsbild und Vertrauensbeeintraechtigung.
 
 ## 4. Quellenpflicht
 

@@ -38,7 +38,7 @@ Das Gutachten sagt: Sie haben kein Recht. Sie wissen aber, dass das Gutachten fa
 - **§ 411 ZPO analog (i.V.m. § 118 SGG)** — Erlaeuterung des Gutachtens.
 - **§ 60 SGG i.V.m. § 42 ZPO** — Ablehnung wegen Befangenheit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Gutachten gruendlich lesen
 

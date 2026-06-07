@@ -3,11 +3,11 @@ name: pferdestall-behoerdenantrag-schreiben
 description: "Pferdestall: Behördenantrag schreiben im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Pferdestall Behoerdenantrag Schreiben
+# Pferdestall Behördenantrag Schreiben
 
 ## Arbeitsbereich
 
-Spezialthema **Pferdestall Behoerdenantrag Schreiben** im Tierschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Pferdestall Behördenantrag Schreiben** im Tierschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Pferdestall Behoerdenantrag Schreiben** im Tierschutzrecht. Der S
 
 ## Arbeitsauftrag
 
-Pferdestall Behoerdenantrag Schreiben wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Tierschutzrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Pferdestall Behördenantrag Schreiben wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Tierschutzrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 
@@ -27,8 +27,22 @@ Pferdestall Behoerdenantrag Schreiben wird nicht als abstraktes Schema beantwort
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 TierSchG` — Schutzzweck und Mitgeschoepflichkeit.
+- `§ 2 TierSchG` — Haltung, Pflege, verhaltensgerechte Unterbringung.
+- `§ 3 TierSchG` — Verbote.
+- `§ 4 TierSchG` — Toeten von Tieren.
+- `§ 6 TierSchG` — Amputation/Gewebeentnahme.
+- `§ 11 TierSchG` — erlaubnispflichtige Taetigkeiten.
+- `§ 16 TierSchG` — Behördenaufsicht.
+- `§ 17 TierSchG` — Straftaten.
+- `§ 18 TierSchG` — Ordnungswidrigkeiten.
+- `§ 90a BGB` — Tiere sind keine Sachen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - TierSchG, Tierschutz-Nutztierhaltungsverordnung, EU-Tiertransport
 - § 90a BGB, Sachenrecht nur entsprechend und mit Schutzlogik
 - Veterinärbehörden, Anordnung, Fortnahme, Haltungserlaubnis

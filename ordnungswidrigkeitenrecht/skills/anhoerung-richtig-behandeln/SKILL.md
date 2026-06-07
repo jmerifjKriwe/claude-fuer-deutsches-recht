@@ -3,7 +3,7 @@ name: anhoerung-richtig-behandeln
 description: "Ordnungswidrigkeitenrecht: Anhörung richtig behandeln. Anhörung richtig behandeln im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Anhoerung Richtig Behandeln
+# Anhörung Richtig Behandeln
 
 ## Arbeitsbereich
 
@@ -19,7 +19,7 @@ Ordnungswidrigkeitenrecht: Anhörung richtig behandeln. Anhörung richtig behand
 
 ## Arbeitsauftrag
 
-Anhoerung Richtig Behandeln wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Ordnungswidrigkeitenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Anhörung Richtig Behandeln wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Ordnungswidrigkeitenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 
@@ -28,8 +28,22 @@ Anhoerung Richtig Behandeln wird nicht als abstraktes Schema beantwortet, sonder
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Hoehe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
 - Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
 - Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde

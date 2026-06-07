@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-abfallverbringung
-description: "Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren fuer Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schluessel-Pruefung, Kontrolle von Empfaengerlandzustimmungen. Output: Verbringungsantrag mit Begleitdokumenten und Behordenschreiben im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren für Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schluessel-Pruefung, Kontrolle von Empfaengerlandzustimmungen. Output: Verbringungsantrag mit Begleitdokumenten und Behordenschreiben im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abfallverbringung: Grenzueberschreitende Entsorgung und Notifizierungsverfahren
 
 ## Arbeitsbereich
 
-Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren fuer Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schluessel-Pruefung, Kontrolle von Empfaengerlandzustimmungen. Output: Verbringungsantrag mit Begleitdokumenten und Behordenschreiben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren für Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schluessel-Pruefung, Kontrolle von Empfaengerlandzustimmungen. Output: Verbringungsantrag mit Begleitdokumenten und Behordenschreiben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -29,15 +29,15 @@ Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 
 2. Bestimmungsland identifizieren: OECD-Mitglied, Nicht-OECD, Basler-Konvention-Vertragspartei oder Verbot?
 3. Notifizierungspflicht feststellen (Art. 3 ff. VO 1013/2006); bei gruener Liste vereinfachtes Verfahren?
 4. Begleitformular (Anhang VII) oder Notifizierungsdokument (Anhang IA/IB) aufbereiten.
-5. Zustaendige Behoerden benennen: Bundesumweltamt als zust. Behoerde am Versandort, Hauptzollamt fuer Ausfuhranmeldung.
+5. Zustaendige Behörden benennen: Bundesumweltamt als zust. Behörde am Versandort, Hauptzollamt für Ausfuhranmeldung.
 6. Sicherheitsleistung (Art. 6 VO 1013/2006) kalkulieren und beantragen.
 
 ## Rechtsrahmen
 
-- **VO (EG) 1013/2006** (Verbringungsverordnung): Kernrechtsrahmen fuer Notifizierung und Begleitdokumente.
-- **VO (EG) 1418/2007**: Verbote und Einschraenkungen fuer Ausfuhr von gruenen Abfaellen in Nicht-OECD-Laender.
+- **VO (EG) 1013/2006** (Verbringungsverordnung): Kernrechtsrahmen für Notifizierung und Begleitdokumente.
+- **VO (EG) 1418/2007**: Verbote und Einschraenkungen für Ausfuhr von gruenen Abfaellen in Nicht-OECD-Länder.
 - **§§ 54-55 KrWG**: Genehmigungspflichten und Bussgeldbewehrung bei unerlaubter Verbringung.
-- **Art. 36 VO 1013/2006**: Ausfuhrverbote fuer Abfaelle in Nicht-OECD-Staaten.
+- **Art. 36 VO 1013/2006**: Ausfuhrverbote für Abfaelle in Nicht-OECD-Staaten.
 - **§ 18 AWG**: Aussenwirtschaftsrechtliche Ordnungswidrigkeit bei Umgehungsversuchen.
 
 ## Pruef-Raster
@@ -54,7 +54,7 @@ Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 
 
 - Fehlklassifizierung als Produkt statt Abfall: Zollamt und Umweltamt pruefen unabhaengig voneinander.
 - Fehlende oder verspaetete Empfaengerbestaetigung fuehrt zu Vollzugsdefizit und Bussgelddruck.
-- Kein Notifizierungsverfahren fuer gemischte Fraktionen ohne separate AVV-Einstufung jeder Fraktion.
+- Kein Notifizierungsverfahren für gemischte Fraktionen ohne separate AVV-Einstufung jeder Fraktion.
 - Gruene-Liste-Ausfuhr in Nicht-OECD ohne Zustimmung ist formell verboten (VO 1418/2007 Anlage).
 - Sicherheitsleistung unterschaetzt: Muss Verbringungs- und Entsorgungskosten abdecken.
 
@@ -62,7 +62,7 @@ Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -86,12 +86,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Verbringungsantrag mit ausgefuelltem Notifizierungsdokument (Anhang IA/IB), Begleitformular (Anhang VII), Checkliste offener Behoerdenbestaedigungen, Kurzvermerkt fuer Zollabfertigung.
+Verbringungsantrag mit ausgefuelltem Notifizierungsdokument (Anhang IA/IB), Begleitformular (Anhang VII), Checkliste offener Behördenbestaedigungen, Kurzvermerkt für Zollabfertigung.
 
 ## Quellen
 

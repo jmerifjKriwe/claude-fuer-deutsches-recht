@@ -67,7 +67,7 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 ### Subsumtionsbeispiel: Pferd erschossen beim Jagen
 Sachverhalt: A schiesst beim Wildschwein-Jagen; verfehlt; Kugel trifft Pferd des B.
 - **Roemisch**: Lex Aquilia Kapitel 1 (Tier); culpa-Haftung; Frage ob noch im Beschossenen Wildbahnbereich; Schaden auf hoechsten Pferdewert im letzten Jahr.
-- **ALR I 6 § 8**: Generalklausel fuer Fahrlaessigkeit; Pferdewert ersetzen.
+- **ALR I 6 § 8**: Generalklausel für Fahrlaessigkeit; Pferdewert ersetzen.
 - **BGB**: § 823 Abs. 1 BGB Eigentumsverletzung; § 249 BGB Naturalherstellung oder Schadensersatz.
 
 ### Subsumtionsbeispiel: Schiff im Hafen rammt Boote
@@ -75,6 +75,6 @@ Sachverhalt: Schiffer schiebt sein Schiff in den Hafen; rammt andere Boote.
 - **Roemisch**: Lex Aquilia Kapitel 3; culpa-Pruefung; volle Wertersatz.
 - **BGB**: § 823 Abs. 1 BGB; ggf. § 833 BGB nicht anwendbar (kein Tier); volle Wertersatzpflicht.
 
-### Bedeutung fuer modernes Recht
+### Bedeutung für modernes Recht
 - Lex Aquilia ist die Wurzel des deutschen Deliktsrechts.
 - BGB § 823 Abs. 1 ist im Kern lex-Aquilia-Modell.

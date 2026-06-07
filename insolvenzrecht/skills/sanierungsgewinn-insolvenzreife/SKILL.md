@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-insolvenzreife
-description: "Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk fuer die Bilanz im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk für die Bilanz im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Massehaftungsbefreiung und Bilanzbuchung
 
 ## Arbeitsbereich
 
-Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk fuer die Bilanz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk für die Bilanz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -32,13 +32,13 @@ Wenn der Insolvenzplan Forderungsverzichte vorsieht und der bestaetigte Plan rec
 - die Hoehe des Sanierungsertrags,
 - die latenten Steuern,
 - die Behandlung stiller Reserven,
-- die Haftung des Verwalters fuer die korrekte Buchung (Paragraph 60 InsO).
+- die Haftung des Verwalters für die korrekte Buchung (Paragraph 60 InsO).
 
-Dieser Skill arbeitet die Buchung Schritt fuer Schritt und liefert Pruefvermerke. Adressat: StB des Schuldners, IV/Sachwalter und ggf. Wirtschaftspruefer.
+Dieser Skill arbeitet die Buchung Schritt für Schritt und liefert Pruefvermerke. Adressat: StB des Schuldners, IV/Sachwalter und ggf. Wirtschaftspruefer.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Plan ist bestaetigt; Bilanz fuer das Sanierungsjahr aufzustellen.
+- Plan ist bestaetigt; Bilanz für das Sanierungsjahr aufzustellen.
 - Wirtschaftspruefer fragt im Vorfeld der Pruefung an, welche Buchungen anstehen.
 - IV will sich gegen den Vorwurf einer Massehaftungsverletzung absichern.
 
@@ -59,13 +59,13 @@ Kaltstart-Fragen:
 - Paragraph 60 InsO — Haftung IV.
 - Paragraph 55 InsO — Masseverbindlichkeiten.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Bestandsaufnahme** aller im Plan adressierten Verbindlichkeiten.
 2. **Buchungssystematik festlegen** je Verzichtsart (siehe `insol-sanierungsgewinn-verzicht-bilanz-im-plan`).
 3. **Stille Reserven**: separat dokumentieren; keine Vermengung mit Sanierungsertrag.
 4. **Latente Steuern**: pruefen, ob durch den Verzicht und die Nutzung der Verlustvortraege ein latenter Steuereffekt entsteht.
-5. **Belege fuer Massehaftungsbefreiung sammeln.** Plan, Bestaetigungsbeschluss, Werthaltigkeitsgutachten, StB-Schreiben, Glaeubigerausschuss-Beschluss.
+5. **Belege für Massehaftungsbefreiung sammeln.** Plan, Bestaetigungsbeschluss, Werthaltigkeitsgutachten, StB-Schreiben, Glaeubigerausschuss-Beschluss.
 6. **Bilanz-Pruefvermerk** mit ausweisbarem Sanierungsertrag.
 7. **Steuererklaerung** mit Paragraph 3a EStG-Antrag und Paragraph 7b GewStG-Antrag.
 
@@ -162,7 +162,7 @@ Im Plugin `insolvenzrecht`:
 - `insol-sanierungsgewinn-verzicht-bilanz-im-plan` — Verzichtsmechanik.
 - `insol-sanierungsgewinn-debt-equity-swap-im-plan` — DES.
 - `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan` — Rangruecktritt.
-- `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` — Haftung.
+- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftung.
 
 In anderen Plugins:
 

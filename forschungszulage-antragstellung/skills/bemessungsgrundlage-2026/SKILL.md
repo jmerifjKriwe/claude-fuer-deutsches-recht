@@ -151,6 +151,23 @@ FuE-Anteil ist der dokumentierte Zeitanteil aus der Stundenaufzeichnung. Pauscha
 - 20-Prozent-Pauschale auf nicht-zulässige Posten angewendet.
 - 12-Mio-Cap übersehen bei verbundenen Unternehmen.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 FZulG` — Anspruchsberechtigung.
+- `§ 2 Abs. 1 FZulG` — begünstigte Forschungs- und Entwicklungsvorhaben.
+- `§ 3 FZulG` — förderfähige Aufwendungen und Bemessungsgrundlage.
+- `§ 4 FZulG` — Hoehe der Forschungszulage.
+- `§ 5 FZulG` — Antrag auf Forschungszulage.
+- `§ 6 FZulG` — Bescheinigung.
+- `§ 7 FZulG` — Kumulierung mit anderen Förderungen/Beihilfen.
+- `§ 10 FZulG` — Festsetzung und Leistung.
+- `§ 12 FZulG` — Anwendung der Abgabenordnung.
+- `§ 90 Abs. 1 AO` — Mitwirkung und Belegordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 - Berechnungstabelle pro Wirtschaftsjahr.

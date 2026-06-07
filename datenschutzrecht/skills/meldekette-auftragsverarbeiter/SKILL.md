@@ -58,4 +58,4 @@ Eskalationsschreiben bei Schweigen: Fristsetzung 24 h; danach Vertragsstrafe und
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
-- `dsv-meldung-art-33-pflichtangaben` deckt die Behoerdenmeldung des Verantwortlichen ab.
+- `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung des Verantwortlichen ab.

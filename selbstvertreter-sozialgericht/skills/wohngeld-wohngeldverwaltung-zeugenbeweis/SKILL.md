@@ -44,8 +44,8 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 
 § 3 WoGG:
 
-- Mietzuschuss fuer Mieter.
-- Lastenzuschuss fuer Eigentuemer.
+- Mietzuschuss für Mieter.
+- Lastenzuschuss für Eigentuemer.
 
 ## Voraussetzungen
 
@@ -99,7 +99,7 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 
 ## Worum geht es?
 
-Manchmal weiss eine andere Person etwas Wichtiges fuer Ihre Sache. Diese Person kann als Zeuge / Zeugin auftreten. Diese Skill zeigt, wann das Sinn macht und wie Sie das beantragen.
+Manchmal weiss eine andere Person etwas Wichtiges für Ihre Sache. Diese Person kann als Zeuge / Zeugin auftreten. Diese Skill zeigt, wann das Sinn macht und wie Sie das beantragen.
 
 ## In einfacher Sprache
 
@@ -107,7 +107,7 @@ Andere Menschen koennen erzaehlen, was sie gesehen haben. Das nennt man Zeugen. 
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie haben Personen, die etwas Wichtiges fuer Sie wissen.
+- Sie haben Personen, die etwas Wichtiges für Sie wissen.
 - Sie wollen wissen, wie Sie diese benennen.
 - Sie ueberlegen, ob ein Zeuge die Sache klaeren kann.
 
@@ -124,7 +124,7 @@ Andere Menschen koennen erzaehlen, was sie gesehen haben. Das nennt man Zeugen. 
 - **§ 376 ZPO analog** — Auslagen / Verdienstausfall.
 - **§§ 383, 384 ZPO analog** — Zeugnisverweigerungsrecht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann lohnt sich Zeugenbeweis?
 
@@ -168,10 +168,10 @@ Sie koennen mehrere Zeugen benennen. Jeder mit klarem Beweisthema.
 - Belehrt ueber Wahrheitspflicht.
 - Stellt Fragen zum Beweisthema.
 - Sie koennen erlaeutern, was Sie noch wissen wollen.
-- Behoerde kann fragen.
+- Behörde kann fragen.
 - Protokoll wird angefertigt.
 
-### Schritt 7 — Auslagen-Erstattung fuer den Zeugen
+### Schritt 7 — Auslagen-Erstattung für den Zeugen
 
 Zeuge bekommt aus der Staatskasse (JVEG):
 
@@ -204,7 +204,7 @@ Auch bei Sozialgericht (§ 1 JVEG i.V.m. § 197a SGG analog). Sagen Sie das dem 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze fuer Zeugenentschaedigung pruefen.
+Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze für Zeugenentschaedigung pruefen.
 
 ## Qualitäts-Hardening
 
@@ -249,7 +249,7 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 
 ## Verhaeltnis zum Widerspruch
 
-- Widerspruch ist die regelmaessige Korrekturschiene.
+- Widerspruch ist die regelmäßige Korrekturschiene.
 - Zugunstenantrag tritt erst nach Bestandskraft.
 
 ## Vorlage

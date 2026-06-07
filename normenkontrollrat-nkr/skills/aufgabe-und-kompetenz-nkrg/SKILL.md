@@ -1,6 +1,6 @@
 ---
 name: aufgabe-und-kompetenz-nkrg
-description: "Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung beim BMJ § 2 Erfuellungsaufwand § 3 Zusammensetzung § 4 Pruefung § 6 Stellungnahme und die institutionelle Stellung als Beratungs- und Kontrollgremium der Bundesregierung. Liefert Bausteine fuer interne Vermerke und Mandatsbrief sowie eine Kompetenz-Checkliste zur Abgrenzung."
+description: "Zeigt Aufgabe Zuständigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung beim BMJ § 2 Erfuellungsaufwand § 3 Zusammensetzung § 4 Pruefung § 6 Stellungnahme und die institutionelle Stellung als Beratungs- und Kontrollgremium der Bundesregierung. Liefert Bausteine für interne Vermerke und Mandatsbrief sowie eine Kompetenz-Checkliste zur Abgrenzung."
 ---
 
 # NKR-Aufgabe und Kompetenz nach NKRG
@@ -23,7 +23,7 @@ Eine Rueckfrage nur dann, wenn der konkrete Bezug unklar ist: *"Welcher Vorgang 
 **Gesetz ueber die Einsetzung eines Nationalen Normenkontrollrats (NKRG) vom 14.08.2006, BGBl. I S. 1866** in der jeweils geltenden Fassung. Kernregelungen:
 
 - **§ 1 NKRG** — Einsetzung beim **Bundesministerium der Justiz (BMJ)** mit Dienstsitz in Berlin (§ 1 Abs. 1 Satz 1); nur an den durch das NKRG begruendeten Auftrag gebunden und in seiner Taetigkeit unabhaengig (§ 1 Abs. 1 Satz 2); Aufgabe ist die Unterstuetzung der Bundesregierung bei Buerokratieabbau und besserer Rechtsetzung (§ 1 Abs. 2); Pruefung der Darstellung des Erfuellungsaufwands auf Nachvollziehbarkeit und Methodengerechtigkeit (§ 1 Abs. 3)
-- **§ 2 NKRG** — Erfuellungsaufwand: gesamter messbarer Zeitaufwand und Kosten fuer Buerger, Wirtschaft und Verwaltung; Buerokratiekosten als Teilmenge; methodische Grundlage Standardkostenmodell (SKM)
+- **§ 2 NKRG** — Erfuellungsaufwand: gesamter messbarer Zeitaufwand und Kosten für Buerger, Wirtschaft und Verwaltung; Buerokratiekosten als Teilmenge; methodische Grundlage Standardkostenmodell (SKM)
 - **§ 3 NKRG** — Zusammensetzung: 10 ehrenamtliche Mitglieder; Vorschlag durch den Bundesminister der Justiz im Einvernehmen mit den uebrigen Mitgliedern der Bundesregierung, Berufung durch den Bundespraesidenten; Amtszeit 5 Jahre, eine erneute Berufung ist zulaessig (§ 3 Abs. 1 NKRG, ohne Begrenzung auf eine einmalige Wiederberufung); das den Vorsitz fuehrende Mitglied wird vom BMJ bestimmt, eine erneute Bestimmung dieses Vorsitzmitglieds ist nur einmal zulaessig (§ 3 Abs. 4 NKRG); Rechtsaufsicht beim BMJ (§ 3 Abs. 8); Sekretariat beim BMJ (§ 3 Abs. 9); Bund traegt die Kosten (§ 3 Abs. 12)
 - **§ 4 NKRG** — Pruefungsgegenstand: Darstellung des Erfuellungsaufwands neuer Regelungsvorhaben; **§ 4 Abs. 3 NKRG** — Digitalcheck (Pruefung der Moeglichkeiten digitaler Ausfuehrung)
 - **§ 5 NKRG** — Auskunfts- und Akteneinsichtsrecht gegenueber den Ressorts
@@ -33,17 +33,17 @@ Eine Rueckfrage nur dann, wenn der konkrete Bezug unklar ist: *"Welcher Vorgang 
 
 Ergaenzend: **§ 44 GGO** (Pruefung der Gesetzesfolgen), **§ 45 GGO** (Erfuellungsaufwand-Darstellung), **§ 62 Abs. 1 GGO** (NKR-Befassungspflicht vor Kabinettsbefassung).
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Befassungspflicht** (§ 4 NKRG i.V.m. § 62 GGO):
  - Gesetzentwuerfe der Bundesregierung -> ja
  - Verordnungen der Bundesregierung / eines Bundesministeriums -> ja
  - Allgemeine Verwaltungsvorschriften der Bundesregierung -> ja
- - Formulierungshilfen fuer Koalitionsfraktionen -> faktisch ja
+ - Formulierungshilfen für Koalitionsfraktionen -> faktisch ja
  - Initiativen aus der Mitte des Bundestages -> nur auf Anforderung
- - Laenderrecht -> nein
+ - Länderrecht -> nein
 2. **Pruefungsgegenstand** (§ 4 NKRG):
- - Erfuellungsaufwand fuer Buerger, Wirtschaft, Verwaltung
+ - Erfuellungsaufwand für Buerger, Wirtschaft, Verwaltung
  - Methodische Darstellung und Nachvollziehbarkeit
  - **Nicht** Zielwahl / politische Bewertung
 3. **Pruefungstiefe**:
@@ -81,9 +81,9 @@ Hier dient die NKR-Sicht der Selbstvergewisserung der Institution:
 
 ## Typische Fehler in Ressort-Entwuerfen
 
-- Fehlhinweise auf "vorlaeufige NKR-Befassung" (es gibt nur die foermliche)
+- Fehlhinweise auf "vorläufige NKR-Befassung" (es gibt nur die foermliche)
 - Annahme, NKR pruefe Verfassungsmaessigkeit (das pruefen BMJ-Rechtsabteilung und ggf. BVerfG)
-- Annahme, NKR pruefe Kosten fuer den Bundeshaushalt (das ist BMF und Bundesrechnungshof)
+- Annahme, NKR pruefe Kosten für den Bundeshaushalt (das ist BMF und Bundesrechnungshof)
 - Veraltete Angabe "NKR sitzt beim Bundeskanzleramt" — NKR ist nach § 1 Abs. 1 Satz 1 NKRG **beim BMJ** eingerichtet, Geschaeftsstelle beim BMJ (§ 3 Abs. 9 NKRG); Unabhaengigkeit nach § 1 Abs. 1 Satz 2 NKRG bleibt davon unberuehrt
 
 ## Querverweise

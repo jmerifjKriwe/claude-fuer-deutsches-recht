@@ -232,7 +232,7 @@ Klaere vor Anmeldung beim HR:
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: Einzahlungs-Protokoll fuer Anwaltsakte
+## Output-Template: Einzahlungs-Protokoll für Anwaltsakte
 
 **Adressat:** Interne Dokumentation — Tonfall sachlich
 

@@ -11,10 +11,10 @@ Strukturiertes Vorgehen vor dem gerichtlichen Mahnverfahren. Die aussergerichtli
 
 | Konstellation | Mahnung noetig? | Norm |
 |---|---|---|
-| Kalendermaessige Faelligkeit ("Zahlung bis 15.04.") | NEIN | § 286 Abs. 2 Nr. 1 BGB |
+| Kalendermäßige Faelligkeit ("Zahlung bis 15.04.") | NEIN | § 286 Abs. 2 Nr. 1 BGB |
 | Kalendermaessig berechenbar ("30 Tage nach Lieferung") | NEIN | § 286 Abs. 2 Nr. 2 BGB |
 | Ernsthafte Erfuellungsverweigerung | NEIN | § 286 Abs. 2 Nr. 3 BGB |
-| Besondere Gruende fuer sofortigen Verzug | NEIN | § 286 Abs. 2 Nr. 4 BGB |
+| Besondere Gruende für sofortigen Verzug | NEIN | § 286 Abs. 2 Nr. 4 BGB |
 | B2B-Rechnung, 30 Tage nach Faelligkeit/Zugang | NEIN | § 286 Abs. 3 BGB |
 | Verbraucher-Rechnung mit Hinweis auf 30-Tage-Frist | NEIN | § 286 Abs. 3 BGB |
 | Schadensersatz aus unerlaubter Handlung | NEIN | § 849 BGB Sofortzinsen |
@@ -27,7 +27,7 @@ In allen anderen Faellen: **Mahnung erforderlich**.
 
 - Charakter: hoeflicher Hinweis, **noch keine Mahnung** im Rechtssinne.
 - Kein Verzugseintritt, keine Verzugszinsen aus dieser Erinnerung.
-- Eignet sich fuer Stammkundschaft, Servicequalitaet.
+- Eignet sich für Stammkundschaft, Servicequalitaet.
 
 **Muster:**
 > Sehr geehrte/r ..., unsere Rechnung Nr. ... vom ... ueber EUR ... ist faellig zum ... . Bitte ueberweisen Sie bis zum [Datum +7 Tage]. Eventuelle Ueberschneidungen bitten wir zu entschuldigen.
@@ -78,9 +78,9 @@ Bei B2B: § 132 BGB Zugang an Geschaeftsraeumen, Briefkasten ueblich.
 
 Bei Entgeltforderungen tritt Verzug **spaetestens 30 Tage nach Faelligkeit und Zugang der Rechnung** ein **auch ohne Mahnung**. Bei Verbraucher: zusaetzlich Hinweis in der Rechnung erforderlich.
 
-## Verjaehrungsstop NICHT durch Mahnung
+## Verjährungsstop NICHT durch Mahnung
 
-Die aussergerichtliche Mahnung **hemmt die Verjaehrung nicht** (§ 203 BGB nur bei Verhandlungen). Verjaehrung wird erst gehemmt durch Klage, Mahnbescheid, Streitverkuendung etc. (§ 204 BGB).
+Die aussergerichtliche Mahnung **hemmt die Verjährung nicht** (§ 203 BGB nur bei Verhandlungen). Verjährung wird erst gehemmt durch Klage, Mahnbescheid, Streitverkuendung etc. (§ 204 BGB).
 
 ## Typische Fehler
 

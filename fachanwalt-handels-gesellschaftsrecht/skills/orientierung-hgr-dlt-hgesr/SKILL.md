@@ -14,7 +14,7 @@ description: "Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellscha
 | --- | --- |
 | `fachanwalt-handels-gesellschaftsrecht-orientierung` | Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gründung Satzungsaenderung Geschäftsführerhaftung M&A Beschlussanfechtung Umwandlung. verifizierbare Quellen; Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung. |
 | `fachanwalt-hgr-dlt-pilotregime-token` | EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für DLT-basierte Wertpapierinfrastruktur. Tokenisierte Aktien und elektronische Wertpapiere (eWpG). Plattformtypen DLT-MTF (500 Mio. EUR) / DLT-TSS (6 Mrd. EUR) / DLT-SS. BaFin-Lizenzverfahren. Krypto-Wertpapierregister § 16 eWpG. Schwellenwerte, Compliance-Workflow, Risikomatrix, DORA-Schnittstelle, MiCA-Abgrenzung. Schriftsatzvorlagen BaFin-Antrag, Smart-Contract-Checkliste. |
-| `hgesr-grenzueberschreitende-formwechsel` | Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer. Mustertexte und Roadmap fuer typischen Wechsel DE nach AT oder NL. Praxis nach EuGH-Polbud. |
+| `hgesr-grenzueberschreitende-formwechsel` | Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer. Mustertexte und Roadmap für typischen Wechsel DE nach AT oder NL. Praxis nach EuGH-Polbud. |
 
 ## Arbeitsweg
 
@@ -56,7 +56,7 @@ description: "Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellscha
 
 ## Maßgebliche Normen
 
-- **HGB:** Kaufmannsbegriff §§ 1 ff.; Firmenrecht §§ 17 ff.; Prokura §§ 48 ff.; Handelsregister § 8 ff. iVm FamFG; Handelsgeschaefte §§ 343 ff.; Handelsvertreterrecht §§ 84 ff.; Bilanzrecht §§ 238 ff. Seit MoPeG (01.01.2024) gilt fuer OHG/KG das neue Beschlussmaengelrecht §§ 110-115 HGB (Anfechtungsmodell, Frist drei Monate, Klage gegen die Gesellschaft).
+- **HGB:** Kaufmannsbegriff §§ 1 ff.; Firmenrecht §§ 17 ff.; Prokura §§ 48 ff.; Handelsregister § 8 ff. iVm FamFG; Handelsgeschaefte §§ 343 ff.; Handelsvertreterrecht §§ 84 ff.; Bilanzrecht §§ 238 ff. Seit MoPeG (01.01.2024) gilt für OHG/KG das neue Beschlussmaengelrecht §§ 110-115 HGB (Anfechtungsmodell, Frist drei Monate, Klage gegen die Gesellschaft).
 - **GmbHG:** Gruendung §§ 1 ff., Stammkapital § 5, Geschaeftsfuehrerpflichten §§ 35 ff., Geschaeftsfuehrerhaftung § 43, Gesellschafterversammlung §§ 47 ff., Anteilsabtretung § 15. Online-Beurkundung Gruendung seit DiRUG (01.08.2022), erweitert auf Kapitalerhoehung und Satzungsaenderungen seit DiREG (01.08.2023; nur bei einstimmigem Beschluss). § 16a BeurkG.
 - **AktG:** Gruendung §§ 1 ff., Hauptversammlung §§ 118 ff. (virtuelle HV § 118a AktG nach G v. 20.07.2022), Beschlussanfechtung §§ 241 ff., Vorstandshaftung § 93 AktG, Aufsichtsrat §§ 95 ff.
 - **PartGG** und **MoPeG-GbR-Recht** (Gesetz zur Modernisierung des Personengesellschaftsrechts; BGBl. I 2021, 3436; in Kraft 01.01.2024) mit eGbR-Registereintragung (§§ 707 ff. BGB); Voreintragungspflicht bei Grundstuecksgeschaeften nach § 707b BGB bestaetigt durch BGH, Beschl. v. 03.07.2025 — V ZB 17/24.
@@ -365,7 +365,7 @@ Pflicht-Felder im Krypto-Wertpapierregister:
 
 ## 3. `hgesr-grenzueberschreitende-formwechsel`
 
-**Fokus:** Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer. Mustertexte und Roadmap fuer typischen Wechsel DE nach AT oder NL. Praxis nach EuGH-Polbud.
+**Fokus:** Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer. Mustertexte und Roadmap für typischen Wechsel DE nach AT oder NL. Praxis nach EuGH-Polbud.
 
 # Grenzueberschreitender Formwechsel
 
@@ -381,20 +381,20 @@ Pflicht-Felder im Krypto-Wertpapierregister:
 - **Normen-/Quellenanker:** EU, UmwG, DE, AT, NL.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -411,10 +411,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

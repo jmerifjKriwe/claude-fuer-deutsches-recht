@@ -15,16 +15,33 @@ Dieser Einstieg routet **Methodenlehre Buergerliches Recht** vom ersten Sachverh
 - `abwaegung-material-abwaegungslast-non-argumentum-figuren` — Abwaegung Material Abwaegungslast Non Argumentum Figuren
 - `abwaegung-material-auswahl` — Abwaegung Material Auswahl
 - `abwaegungslast-non-liquet` — Abwaegungslast Non Liquet
-- `abwaegungszustaendigkeit-institutionen` — Abwaegungszustaendigkeit Institutionen
-- `abwaegungszustaendigkeit-institutionen-buergerlichen-verjaehrung` — Abwaegungszustaendigkeit Institutionen Buergerlichen Verjaehrung
+- `abwaegungszuständigkeit-institutionen` — Abwaegungszuständigkeit Institutionen
+- `abwaegungszuständigkeit-institutionen-buergerlichen-verjaehrung` — Abwaegungszuständigkeit Institutionen Buergerlichen Verjährung
 - `analogie-und-teleologische-reduktion` — Analogie Und Teleologische Reduktion
 - `anspruchsgrundlagen-anwaltsperspektive-auslegung-buergerliches` — Anspruchsgrundlagen Anwaltsperspektive Auslegung Buergerliches
 - `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — Argumentum Figuren E Contrario A Maiore A Fortiori
 - `auslegung-rechtsfortbildung-grenzprotokoll` — Auslegung Rechtsfortbildung Grenzprotokoll
-- `begruendung-anhoerung-und-adressatenfaehigkeit` — Begruendung Anhoerung Und Adressatenfaehigkeit
+- `begruendung-anhoerung-und-adressatenfaehigkeit` — Begruendung Anhörung Und Adressatenfaehigkeit
 - `bverfg-grenzen-diskurstheorie-habermas-dworkin-prinzipien` — Bverfg Grenzen Diskurstheorie Habermas Dworkin Prinzipien
 - `bverfg-grenzen-richterlicher-rechtsfortbildung` — Bverfg Grenzen Richterlicher Rechtsfortbildung
 - `diskurstheorie-habermas-alexy` — Diskurstheorie Habermas Alexy
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 

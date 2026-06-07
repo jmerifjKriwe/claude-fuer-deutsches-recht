@@ -1,13 +1,13 @@
 ---
 name: reasonable-efforts-reps-warranties
-description: "Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie fuer deutsches Recht im Gesellschaftsrecht Legal English: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie für deutsches Recht im Gesellschaftsrecht Legal English: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Efforts und Covenants
 
 ## Arbeitsbereich
 
-Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie fuer deutsches Recht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie für deutsches Recht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -58,7 +58,7 @@ Bemühensklauseln nicht als unbestimmte Floskeln stehen lassen.
 
 - Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
 - Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung fuer die Partnerin oder den Mandanten.
+- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
 - Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
 
 ## Ausgabeformat

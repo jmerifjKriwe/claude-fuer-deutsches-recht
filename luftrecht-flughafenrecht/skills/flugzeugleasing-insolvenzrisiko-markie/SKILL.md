@@ -1,13 +1,13 @@
 ---
 name: flugzeugleasing-insolvenzrisiko-markie
-description: "Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 47 103 108 Leasingvertrag in Insolvenz Cape-Town-Convention Art. XI Aircraft Protocol Alternative A und IDERA und liefert Risikoampel-Bewertung und Gegenstrategien fuer Leasinggeber im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 47 103 108 Leasingvertrag in Insolvenz Cape-Town-Convention Art. XI Aircraft Protocol Alternative A und IDERA und liefert Risikoampel-Bewertung und Gegenstrategien für Leasinggeber im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flugzeugleasing – Insolvenzrisiko markieren
 
 ## Arbeitsbereich
 
-Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 47 103 108 Leasingvertrag in Insolvenz Cape-Town-Convention Art. XI Aircraft Protocol Alternative A und IDERA und liefert Risikoampel-Bewertung und Gegenstrategien fuer Leasinggeber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 47 103 108 Leasingvertrag in Insolvenz Cape-Town-Convention Art. XI Aircraft Protocol Alternative A und IDERA und liefert Risikoampel-Bewertung und Gegenstrategien für Leasinggeber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

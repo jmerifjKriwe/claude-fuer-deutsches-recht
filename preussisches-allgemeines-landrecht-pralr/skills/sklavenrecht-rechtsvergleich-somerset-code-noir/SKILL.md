@@ -9,6 +9,21 @@ description: "Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset
 
 Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet die drei wichtigsten europaeischen Linien aus den Wirkungsmechanismus (sofortige Befreiung vs. Fristenkonstrukt) und die rechtsgeschichtliche Linie zur Abolition. Liefert Synopse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,12 +52,12 @@ Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Fran
 ## Frankreich — Code Noir und freie-Luft-Klausel
 
 ### Code Noir 1685 (Louis XIV)
-- Kolonialordnung fuer die franzoesischen Kolonien (Karibik, La Reunion, Louisiana).
+- Kolonialordnung für die franzoesischen Kolonien (Karibik, La Reunion, Louisiana).
 - Sklaverei in den Kolonien gesetzlich geregelt.
 - Im Mutterland Frankreich grundsaetzlich keine Sklaverei (Tradition "Le sol de France affranchit l'esclave qui le touche").
 
 ### Edit du Roi de Juin 1716
-- Erlaubt die zeitweilige Mitnahme von Sklaven aus den Kolonien nach Frankreich zwecks Erziehung in Religion oder Beruf — Sklavenstatus bleibt **fuer maximal drei Jahre** erhalten.
+- Erlaubt die zeitweilige Mitnahme von Sklaven aus den Kolonien nach Frankreich zwecks Erziehung in Religion oder Beruf — Sklavenstatus bleibt **für maximal drei Jahre** erhalten.
 - Im Anschluss Befreiung.
 
 ### Declaration du Roi 1738
@@ -68,7 +83,7 @@ Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Fran
 | Niederlande (uebersee) | Verschieden je Provinz | — |
 | Spanien (Kolonien) | Spaet, Las Siete Partidas | Lange Sklaverei |
 
-## Bedeutung fuer das ALR
+## Bedeutung für das ALR
 
 - ALR steht in **eindeutig befreiender Tradition** zusammen mit England.
 - Frankreich-Modell (Edit 1716) mit Aufschub kennen die deutschen Staaten **nicht**.

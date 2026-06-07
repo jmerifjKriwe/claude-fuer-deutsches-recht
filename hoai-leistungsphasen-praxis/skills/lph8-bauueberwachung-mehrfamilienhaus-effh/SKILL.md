@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-mehrfamilienhaus-effh
-description: "Bauueberwachung nach HOAI LPH 8 fuer Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Mehrfamilienhaus Energieeffizienzgebaeude (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -42,9 +42,9 @@ Der akkreditierte Energieeffizienz-Experte (EE-Experte) begleitet Ausfuehrung un
 
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen Bauueberwachung
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
-- GEG 2023 Energieeffizienzgebaeude EH 40: Nachweispflichten, KfW-Foerderung BEG WG
+- GEG 2023 Energieeffizienzgebaeude EH 40: Nachweispflichten, KfW-Förderung BEG WG
 - DIN EN 13670 Ausfuehrung von Tragwerken aus Beton, Ueberwachungsklassen
-- DIN EN 81-20 Sicherheitsregeln fuer Herstellung und Einbau von Aufzuegen
+- DIN EN 81-20 Sicherheitsregeln für Herstellung und Einbau von Aufzuegen
 - DIN 4109-1 Schallschutz im Hochbau: Mindestanforderungen Mehrfamilienhaus
 
 ## Prueferaster und Kontrollpunkte
@@ -74,7 +74,7 @@ Der akkreditierte Energieeffizienz-Experte (EE-Experte) begleitet Ausfuehrung un
 
 ## Typische Fallstricke
 
-- KfW-Anforderung verfehlt: Bauteil-U-Wert abweichend, weil Daemmdicke geringer als geplant - Foerderung rueckforderbar
+- KfW-Anforderung verfehlt: Bauteil-U-Wert abweichend, weil Daemmdicke geringer als geplant - Förderung rueckforderbar
 - Schallschutz MFH unterschaetzt: Estrich ohne Randstreifen, Schallzeugnis schlechter als Klasse II
 - WDVS-Duebel vergessen: Unterputz ohne Duebel loest sich von der Fassade
 - Aufzugsschacht zu kurz: Grubentiefe unterschritten, Pruefingenieur verweigert Abnahme

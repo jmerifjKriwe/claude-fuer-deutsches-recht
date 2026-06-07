@@ -9,6 +9,23 @@ description: "Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen:
 
 Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-bilingual-contract-review (Vergleich). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,14 +97,14 @@ Kläre vor dem Qualitaets-Gate-Durchlauf:
 ## Normen und Quellen — Quality-Gate-Checkliste
 
 **UK**
-- UCTA 1977 ss 2, 3, 11 — reasonableness test fuer Haftungsausschlüsse
+- UCTA 1977 ss 2, 3, 11 — reasonableness test für Haftungsausschlüsse
 - Misrepresentation Act 1967 s 3 — Wirksamkeit von Rep-Ausschlussklauseln
 - Law Commission, "Unfair Terms in Contracts" (Law Com No 292, 2005) — Reform-Hintergrund
 
 **US**
 - UCC § 2-316 — exclusion of implied warranties (Formvorschriften!)
 - Restatement (Second) of Contracts § 211 — standardized agreements
-- ABA Model Rules of Professional Conduct Rule 1.1 — competence standard fuer Drafting
+- ABA Model Rules of Professional Conduct Rule 1.1 — competence standard für Drafting
 
 **Kommentar**
 - Lewison/Hughes, *The Interpretation of Contracts*, 7th ed. 2022 — massgebliches englisches Werk
@@ -132,7 +149,7 @@ OFFENE ANNAHMEN
 - [...]
 
 LOCAL-COUNSEL-BEDARF
-- [Ja/Nein; wenn ja: fuer welche Punkte]
+- [Ja/Nein; wenn ja: für welche Punkte]
 
 NAECHSTE SCHRITTE
 - [Schritt mit Frist und Verantwortlichem]

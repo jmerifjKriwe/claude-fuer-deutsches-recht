@@ -17,10 +17,10 @@ Dieses Fachmodul vor jeder Herausgabe.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 11 BGG — Pruefpflicht der oeffentlichen Hand fuer barrierefreie Kommunikation
+- § 11 BGG — Pruefpflicht der öffentlichen Hand für barrierefreie Kommunikation
 - § 58 VwGO — Fehlerhafte Rechtsbehelfsbelehrung fuehrt zur Fristverlaengerung
-- BITV 2.0 Anhang 1 — Pruefanforderungen fuer digitale Barrierefreiheit
-- DIN 33430 — Qualitaetsanforderungen an Testverfahren (analog heranziehbar fuer Verstaendlichkeitspruefungen)
+- BITV 2.0 Anhang 1 — Pruefanforderungen für digitale Barrierefreiheit
+- DIN 33430 — Qualitaetsanforderungen an Testverfahren (analog heranziehbar für Verstaendlichkeitspruefungen)
 
 ## Quellenregel
 

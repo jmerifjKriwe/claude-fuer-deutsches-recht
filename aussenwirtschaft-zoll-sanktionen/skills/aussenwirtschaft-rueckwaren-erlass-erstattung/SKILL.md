@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-rueckwaren-erlass-erstattung
-description: "Zollerlass und -erstattung fuer Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zollerlass und -erstattung für Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rueckwaren: Zollerlass und Identitaetsnachweis nach UZK Art. 203
 
 ## Arbeitsbereich
 
-Zollerlass und -erstattung fuer Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zollerlass und -erstattung für Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -35,9 +35,9 @@ Zollerlass und -erstattung fuer Rueckwaren nach UZK Art. 203 und Verfahren 6321:
 ## Rechtsrahmen
 
 - **UZK Art. 203**: Rueckwaren, Abgabenfreiheit bei Wiedereinfuhr.
-- **UZK-DA Art. 158**: Voraussetzungen fuer Rueckwaren-Status.
+- **UZK-DA Art. 158**: Voraussetzungen für Rueckwaren-Status.
 - **UZK Art. 204**: Verstaerkte Rueckwaren nach Bearbeitung (passive Veredelung Abgrenzung).
-- **UZK-IA Art. 255**: Verfahren fuer Rueckwaren in ATLAS.
+- **UZK-IA Art. 255**: Verfahren für Rueckwaren in ATLAS.
 - **VO (EU) 952/2013 Art. 33**: Abgrenzung Rueckwaren von Wiedereinfuhr nach Veredelung.**
 
 ## Pruef-Raster
@@ -60,7 +60,7 @@ Zollerlass und -erstattung fuer Rueckwaren nach UZK Art. 203 und Verfahren 6321:
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

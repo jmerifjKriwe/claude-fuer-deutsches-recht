@@ -19,7 +19,7 @@ Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitf
 
 ## Mandantenfall
 
-- Mittelstaendischer Exporteur muss ICP als Voraussetzung fuer Globalausfuhrgenehmigung nachweisen.
+- Mittelstaendischer Exporteur muss ICP als Voraussetzung für Globalausfuhrgenehmigung nachweisen.
 - BAFA-Aussenpruefung beanstandet fehlendes ICP; Unternehmen hat 6 Monate zur Abhilfe.
 - Konzern integriert neue Akquisition; ICP-Standards muessen harmonisiert und ausgerollt werden.
 
@@ -30,11 +30,11 @@ Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitf
 3. Gap-Analyse durchfuehren: welche Pflicht-Elemente fehlen oder sind unvollstaendig?
 4. ICP-Handbuch-Gliederung erstellen mit allen 8 BAFA-Kernelementen.
 5. Ausfuhrverantwortlichen benennen und Stellvertreterregelung schaffen.
-6. Zeitplan fuer ICP-Implementierung und erste interne Revision festlegen.
+6. Zeitplan für ICP-Implementierung und erste interne Revision festlegen.
 
 ## Rechtsrahmen
 
-- **Art. 12 VO (EU) 2021/821**: ICP als Bedingung fuer globale Ausfuhrgenehmigungen.
+- **Art. 12 VO (EU) 2021/821**: ICP als Bedingung für globale Ausfuhrgenehmigungen.
 - **BAFA-Merkblatt ICP**: 8 Kernelement-Anforderungen des BAFA.
 - **§ 14 AWG**: Auskunftspflicht gegenueber BAFA (Pruefrelevanz ICP).
 - **AWV §§ 68 ff.**: Aufzeichnungspflichten im Ausfuhrverfahren.
@@ -44,8 +44,8 @@ Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitf
 
 - [ ] Ausfuhrverantwortlicher schriftlich benannt und Stellvertreter geregelt?
 - [ ] Risikoanalyse dokumentiert und aktuell?
-- [ ] Screening-Prozess fuer Kunden und Endverwender beschrieben?
-- [ ] Schulungen fuer exportkontrollrelevante Mitarbeiter nachgewiesen?
+- [ ] Screening-Prozess für Kunden und Endverwender beschrieben?
+- [ ] Schulungen für exportkontrollrelevante Mitarbeiter nachgewiesen?
 - [ ] Dokumentation und Archivierung nach AWV sichergestellt?
 - [ ] Internes Audit-Verfahren und Korrekturmassnahmenprozess etabliert?
 - [ ] Red-Flag-Eskalationsprozess definiert?
@@ -61,7 +61,7 @@ Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitf
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -85,12 +85,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-ICP-Handbuch-Gliederung nach BAFA-Standard, Gap-Analyse mit Priorisierung, Umsetzungsplan und Dokumentationsvorlagen fuer Screening und Entscheidungen.
+ICP-Handbuch-Gliederung nach BAFA-Standard, Gap-Analyse mit Priorisierung, Umsetzungsplan und Dokumentationsvorlagen für Screening und Entscheidungen.
 
 ## Quellen
 

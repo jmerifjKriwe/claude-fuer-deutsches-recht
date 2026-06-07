@@ -19,17 +19,17 @@ Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage
 
 ## Triage zu Beginn
 
-1. **Wie schwer ist das Delikt?** — § 153 StPO nur bei geringer Schuld und fehlendem oeffentlichen Interesse; § 153a StPO bei schwereren Faellen mit Auflagen.
-2. **Ersttatverdaechtiger oder Vorstrafe?** — § 153 StPO bei fehlendem oeffentlichen Interesse; § 153a bei Vorstrafe nur ausnahmsweise.
+1. **Wie schwer ist das Delikt?** — § 153 StPO nur bei geringer Schuld und fehlendem öffentlichen Interesse; § 153a StPO bei schwereren Faellen mit Auflagen.
+2. **Ersttatverdaechtiger oder Vorstrafe?** — § 153 StPO bei fehlendem öffentlichen Interesse; § 153a bei Vorstrafe nur ausnahmsweise.
 3. **Was ist das Ziel?** — Kein BZR-Eintrag (§ 153 optimalst), kein Verfahren (§ 153a mit Geldauflage), oder Freispruch nach vollstaendiger Verteidigung.
 4. **Ist Zustimmung der Staatsanwaltschaft realistisch?** — Informelle Sondierung vor foermlichem Antrag.
 5. **Liegt hinreichender Tatverdacht vor?** — Falls Beweislage duenn: § 170 Abs. 2 StPO beantragen.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-- **§ 153 StPO** — Einstellung bei Geringfuegigkeit: geringe Schuld, kein oeffentliches Interesse; ohne Auflage; kein BZR-Eintrag
-- **§ 153a StPO** — Einstellung mit Auflage (Geldzahlung, Sozialstunden, Therapie, Wiedergutmachung); vorlaeufige Einstellung bis Auflage erfuellt; endgueltige Einstellung nach Erfuellung
+- **§ 153 StPO** — Einstellung bei Geringfuegigkeit: geringe Schuld, kein öffentliches Interesse; ohne Auflage; kein BZR-Eintrag
+- **§ 153a StPO** — Einstellung mit Auflage (Geldzahlung, Sozialstunden, Therapie, Wiedergutmachung); vorläufige Einstellung bis Auflage erfuellt; endgueltige Einstellung nach Erfuellung
 - **§ 153a Abs. 1 Satz 8 StPO** — Sperrwirkung: Tat kann nach vollstaendiger Auflage-Erfuellung nicht mehr verfolgt werden (kein Prozesshindernis aber strafrechtlich erledigend)
 - **§ 170 Abs. 2 StPO** — Einstellung mangels hinreichenden Tatverdachts (Einstellungsverfuegung der Staatsanwaltschaft)
 - **§ 172 StPO** — Klageerzwingungsverfahren bei Einstellungsverweigerung
@@ -38,7 +38,7 @@ Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
 - BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Bei Cannabisvorwurf ist die sanktionsfreie Eigenkonsummenge (§ 3 KCanG) tatbestandlich auszuklammern; greift sie, fehlt es am Tatverdacht und es ist § 170 Abs. 2 StPO statt § 153a StPO einschlägig. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
-- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die gesetzliche Wertung des KCanG ist als bestimmender Strafzumessungsgrund zu beruecksichtigen — relevant fuer die Bemessung von Geldauflagen nach § 153a StPO im Cannabisbereich. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
+- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die gesetzliche Wertung des KCanG ist als bestimmender Strafzumessungsgrund zu beruecksichtigen — relevant für die Bemessung von Geldauflagen nach § 153a StPO im Cannabisbereich. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
 - Hinweis: Eine BGH-Leitentscheidung speziell zur Anwendung des § 153a StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 153a StPO Strafbefehl" durchführen.
 
 ## Quellenregel
@@ -53,7 +53,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | § 170 Abs. 2 StPO | Kein hinreichender Tatverdacht | Keine | Kein Eintrag |
 | § 46a StGB | Geschaedigter vorhanden, TOA | Keine (Milderung) | Nur bei Verurteilung |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -85,7 +85,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 In der Strafsache gegen [NAME]
 Az.: [AKTENZEICHEN]
 
-Antrag auf vorlaeufige Einstellung nach § 153a StPO
+Antrag auf vorläufige Einstellung nach § 153a StPO
 
 Ich rege an das Verfahren gegen [NAME] gegen [Auflage-Art:
 Geldzahlung / Sozialstunden / Wiedergutmachung] einzustellen.
@@ -109,7 +109,7 @@ Mit freundlichen Gruessen [KANZLEI]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

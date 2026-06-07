@@ -20,7 +20,7 @@ Prüfungslinie für verkehrsowi akteneinsicht messakte: prüft Normtext, Nutzera
 ## Triage zu Beginn
 
 1. **Ist ein Verteidiger bestellt?** — Akteneinsicht steht nach § 49 OWiG i.V.m. § 147 StPO dem Verteidiger zu; aber auch der Betroffene selbst hat eingeschraenktes Recht (§ 49 Abs. 1 OWiG).
-2. **Welche Behoerde fuehrt das Verfahren?** — Im Vorverfahren: Verwaltungsbehoerde (Bussgeldstelle); nach Einspruch: Staatsanwaltschaft oder direkt Amtsgericht.
+2. **Welche Behörde fuehrt das Verfahren?** — Im Vorverfahren: Verwaltungsbehoerde (Bussgeldstelle); nach Einspruch: Staatsanwaltschaft oder direkt Amtsgericht.
 3. **Welches Messgeraet wurde eingesetzt?** — Beeinflusst welche Unterlagen kritisch sind.
 4. **Liegt die Akte bereits beim Amtsgericht?** — Nach Einspruch leitet die Bussgeldstelle ab; Akteneinsicht dann beim Gericht.
 5. **Digitale oder Papierakte?** — Zunehmend elektronische Akten (eAkte); Messunterlagen koennen als PDF oder separat vorliegen.
@@ -31,7 +31,7 @@ Prüfungslinie für verkehrsowi akteneinsicht messakte: prüft Normtext, Nutzera
 - **§ 147 StPO** — Recht des Verteidigers auf Akteneinsicht
 - **§ 147 Abs. 5 StPO i.V.m. § 49 Abs. 2 OWiG** — Rechtsbehelf bei Versagung
 - **Art. 103 Abs. 1 GG** — Rechtliches Gehoer; Rohmessdaten-Recht
-- **§ 6 MessEG** — Eichpflicht fuer Verkehrsueberwachungsgeraete
+- **§ 6 MessEG** — Eichpflicht für Verkehrsueberwachungsgeraete
 - **§ 77 OWiG** — Beweisaufnahme in der Hauptverhandlung des Amtsgerichts
 
 ## Aktuelle Rechtsprechung
@@ -47,7 +47,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 TECHNISCHE UNTERLAGEN:
 □ Eichschein (original oder beglaubigte Kopie) mit Eihdatum
 □ Bedienungsanleitung des Messgeraets (Kurzanleitung oder Vollversion)
-□ Schulungsnachweis des Messbeamten fuer dieses Geraet
+□ Schulungsnachweis des Messbeamten für dieses Geraet
 □ Zulassungsbescheinigung der PTB (physikalisch-technische Bundesanstalt)
 
 MESSDATEN:
@@ -62,11 +62,11 @@ ORTSBEZOGEN:
 □ Eventuell: Sichtweiten-Protokoll
 
 VERWALTUNG:
-□ Anhoerungsbogen (Anschreiben an Betroffenen)
+□ Anhörungsbogen (Anschreiben an Betroffenen)
 □ Ggf. Zeugenaussagen der Messbeamten
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Vollmacht des Betroffenen sichern.**
 2. **Akteneinsichtsgesuch stellen** bei der Bussgeldstelle (vor Einspruch) oder dem Amtsgericht (nach Einspruch); explizit alle Messunterlagen aufzaehlen.

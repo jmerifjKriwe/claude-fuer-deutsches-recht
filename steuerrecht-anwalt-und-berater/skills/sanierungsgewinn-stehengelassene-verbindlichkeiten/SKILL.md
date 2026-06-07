@@ -81,7 +81,7 @@ Solange (i) ein wirksamer schuldrechtlicher Verpflichtungsinhalt besteht, (ii) d
 
 #### 3.5 Bewertungsmaszstab
 
-- Hoehe: **Nennwert** fuer Darlehensschulden (**§ 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG**).
+- Hoehe: **Nennwert** für Darlehensschulden (**§ 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG**).
 - Bei nachrangigen Darlehen erfolgt **keine** Abzinsung wegen Nachrang oder Rangruecktritt — die nachrangige Verbindlichkeit wird grundsaetzlich mit dem Nennwert ausgewiesen.
 - Eine Abwertung („Teilwert" der Verbindlichkeit unter Nennwert) kommt steuerlich nicht in Betracht — der Steuerpflichtige soll die Verbindlichkeit nicht durch die Hintertuer ausbuchen.
 
@@ -99,15 +99,15 @@ Die zentrale Streitfrage in der Literatur und vor den Finanzgerichten lautet: **
 - **Micker**, in: Herrmann/Heuer/Raupach, EStG/KStG, § 11 KStG Rn. 44.
 - **Stalbold**, in: Gosch, KStG, § 11 Rn. 72.
 
-##### „Gegenposition" (fuer gewinnerhoehende Ausbuchung)
+##### „Gegenposition" (für gewinnerhoehende Ausbuchung)
 
 - **S. Neumann**, in: Blumenberg/Neumann, Ubg 2016, 256, 257 f.: bei aussichtsloser Erfuellung Ausbuchung schon im Liquidationszeitraum geboten.
-- **Brinkmann**, StBp 2021, 246, 250: insbesondere abweichend zur OFD-NRW-Auffassung bei Insolvenz, fuer fruehzeitige Ausbuchung.
+- **Brinkmann**, StBp 2021, 246, 250: insbesondere abweichend zur OFD-NRW-Auffassung bei Insolvenz, für fruehzeitige Ausbuchung.
 
 ##### Verwaltungsauffassung
 
 - **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**, Tz. 1.2 bis 1.4: Verbindlichkeit grundsaetzlich passiviert bis Erloeschen; Einzelfallpruefung, ob ausnahmsweise gewinnwirksame Ausbuchung vor Loeschung geboten ist. Vorgaengerverfuegung in **DStR 2019, 560**.
-- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014 (aktualisiert 22.09.2017), DB 2017, 2580**: differenzierende Sichtweise insbesondere fuer Insolvenz.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014 (aktualisiert 22.09.2017), DB 2017, 2580**: differenzierende Sichtweise insbesondere für Insolvenz.
 
 ##### Rechtsprechung
 
@@ -121,7 +121,7 @@ Die zentrale Streitfrage in der Literatur und vor den Finanzgerichten lautet: **
 - Solange wirtschaftliche Belastung mehr als nur theoretisch besteht, bleibt die Verbindlichkeit **mit dem Nennwert** passiviert.
 - Eine vorzeitige Ausbuchung ist nur in **eng begrenzten Ausnahmefaellen** geboten (Erfuellung mit an Sicherheit grenzender Wahrscheinlichkeit ausgeschlossen).
 - Die OFD-Frankfurt-Linie und die FG-Koeln-Linie tragen die Passivierung bis Loeschung; das BFH-Beschluss-Az. I R 34/12 sichert sie immerhin als „nicht evident rechtsfehlerhaft" ab.
-- **Praxisempfehlung:** Verbindliche Auskunft nach § 89 Abs. 2 AO einholen, um die Auffassung des zustaendigen Finanzamts schriftlich abzusichern. Die Gebuehr lohnt sich angesichts des moeglichen Steuerrisikos.
+- **Praxisempfehlung:** Verbindliche Auskunft nach § 89 Abs. 2 AO einholen, um die Auffassung des zuständigen Finanzamts schriftlich abzusichern. Die Gebuehr lohnt sich angesichts des moeglichen Steuerrisikos.
 
 ### Phase 3: Wegfall **beim Erloeschen der GmbH**
 
@@ -143,7 +143,7 @@ Die Kernaussage der FG-Koeln-Linie:
 
 **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977**, Os. 7 (woertlich).
 
-Dies ist die **Schluesselargumentationsfigur** fuer die Liquidationspraxis: Wenn die Verbindlichkeit bis zur Loeschung passiviert bleibt und erst mit Loeschung entfaellt, gibt es zum Zeitpunkt des Wegfalls kein Steuersubjekt mehr, dem der Ertrag zugerechnet werden koennte.
+Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn die Verbindlichkeit bis zur Loeschung passiviert bleibt und erst mit Loeschung entfaellt, gibt es zum Zeitpunkt des Wegfalls kein Steuersubjekt mehr, dem der Ertrag zugerechnet werden koennte.
 
 #### 3.11 Zivilrechtliche Untermauerung
 
@@ -204,7 +204,7 @@ Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa
 
 ### 6.2 Insolvenz (auch Eigenverwaltung § 270 InsO)
 
-- In der Insolvenz ist der Forderungsverzicht durch Insolvenzplan regelmaessig der ausloesende Tatbestand fuer den Sanierungsertrag — dann greift § 3a EStG voll (sofern Sanierungseignung gegeben).
+- In der Insolvenz ist der Forderungsverzicht durch Insolvenzplan regelmaessig der ausloesende Tatbestand für den Sanierungsertrag — dann greift § 3a EStG voll (sofern Sanierungseignung gegeben).
 - Eigenverwaltung erlaubt strukturierten Forderungsverzicht ohne Insolvenzverwalterhaftung.
 
 ### 6.3 Verschmelzung mit Konfusion
@@ -321,7 +321,7 @@ Anlagen:
 
 - Gesellschafterin verschmilzt mit Tochter — Konfusion.
 - Verlustvortrag geht **nicht** ueber; § 8c KStG-Risiko zu pruefen.
-- § 42 AO grundsaetzlich nicht einschlaegig (BFH I R 2/18) — aber § 2 Abs. 4 UmwStG fuer Umwandlungen ab 06.06.2013 beachten.
+- § 42 AO grundsaetzlich nicht einschlaegig (BFH I R 2/18) — aber § 2 Abs. 4 UmwStG für Umwandlungen ab 06.06.2013 beachten.
 
 ## 10. Typische Fehler
 

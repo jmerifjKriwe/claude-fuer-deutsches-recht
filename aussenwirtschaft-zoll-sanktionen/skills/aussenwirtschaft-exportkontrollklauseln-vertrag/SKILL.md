@@ -30,11 +30,11 @@ Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, Lizenz- und Ko
 3. Bestehenden Vertrag auf exportkontrollrechtliche Klauseln pruefen.
 4. Erforderliche Klauseln identifizieren: No-Russia, Endverwendung, Re-Export-Verbot, Ruecktrittsrecht.
 5. Klauselbausteine formulieren oder US-Musterklauseln adaptieren.
-6. Vertragsstrafenregime fuer Verstoss gegen Exportkontrollklauseln einbauen.
+6. Vertragsstrafenregime für Verstoss gegen Exportkontrollklauseln einbauen.
 
 ## Rechtsrahmen
 
-- **Art. 12g VO (EU) 833/2014**: Pflicht zur No-Russia-Clause fuer Anhaenge-XI/XX/XXXV-Gueter.
+- **Art. 12g VO (EU) 833/2014**: Pflicht zur No-Russia-Clause für Anhaenge-XI/XX/XXXV-Gueter.
 - **Art. 9 VO (EU) 833/2014**: Bereitstellungsverbot und vertragliche Absicherung.
 - **§ 18 AWG**: Strafbarkeit; vertragliche Mitverantwortung.
 - **§ 280 BGB**: Schadensersatz bei Verletzung vertraglicher Exportkontrollpflichten.
@@ -60,7 +60,7 @@ Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, Lizenz- und Ko
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Klauselbausteine fuer No-Russia, Endverwendung, Re-Export-Verbot, Ruecktrittsrecht und Vertragsstrafe; Vertragspruefbericht mit Lueckenanalyse.
+Klauselbausteine für No-Russia, Endverwendung, Re-Export-Verbot, Ruecktrittsrecht und Vertragsstrafe; Vertragspruefbericht mit Lueckenanalyse.
 
 ## Quellen
 

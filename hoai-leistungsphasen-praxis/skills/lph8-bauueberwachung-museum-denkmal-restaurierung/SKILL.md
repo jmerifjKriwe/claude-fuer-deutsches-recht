@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-museum-denkmal-restaurierung
-description: "Bauueberwachung nach HOAI LPH 8 fuer Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Museum und Denkmal Restaurierung (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Bauueberwachung nach HOAI LPH 8 fuer Museumsbauten und denkmalgeschuetzte Restau
 
 ## Spezialwissen
 
-Denkmalgeschuetzte Gebaeude und Museumsbauten erfordern bei der Restaurierung besondere Materialkenntnis und Behoerdenkommunikation.
+Denkmalgeschuetzte Gebaeude und Museumsbauten erfordern bei der Restaurierung besondere Materialkenntnis und Behördenkommunikation.
 Die Bauueberwachung nach HOAI LPH 8 koordiniert Denkmalschutzbehoerden, Restauratoren und Fachhandwerker.
 Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spezifische Pruefmethoden.
 
@@ -32,19 +32,19 @@ Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spe
 ## Erste Schritte auf der Baustelle
 
 1. Bestandsaufnahme und Schadensmapping: Risse, Feuchte, Ausbluesungen, Bewuchs fotografisch erfassen
-2. Moertelanalyse: Probenahme historischer Moertel, Laboranalyse DIN EN 998-1 fuer Repromoertel
+2. Moertelanalyse: Probenahme historischer Moertel, Laboranalyse DIN EN 998-1 für Repromoertel
 3. Rissmonitoring einrichten: Gipsmarken oder Rissmassstab-Messgeraete an tragenden Rissen anbringen
 4. Naturstein-Reinigung: Testflaechen je Reinigungsverfahren (Laser, Microabrasion, Dampf) anlegen
-5. Gewoelbesicherung: Injektionsmoertel fuer Fugen, Verpressprotokoll, Druckluftreinigung Hohlraeume
+5. Gewoelbesicherung: Injektionsmoertel für Fugen, Verpressprotokoll, Druckluftreinigung Hohlraeume
 6. Denkmalschutzbehoerden-Abstimmung: Baubegleitende Begehung alle 4 Wochen, Zustimmungsprotokoll
 
 ## Normen und Rechtsrahmen
 
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
-- DIN EN 998-1 Moertel fuer Mauerwerk: Putz- und Fugmoertel, Druckfestigkeit, Wasseraufnahme
+- DIN EN 998-1 Moertel für Mauerwerk: Putz- und Fugmoertel, Druckfestigkeit, Wasseraufnahme
 - DIN EN 16085 Erhaltung des baulichen Erbes: Methodik, Probenahme, Analyse, Berichterstattung
-- DSchG des jeweiligen Bundeslandes: Denkmalschutzbehorden-Genehmigung fuer Eingriffe
+- DSchG des jeweiligen Bundeslandes: Denkmalschutzbehorden-Genehmigung für Eingriffe
 - VOB/C DIN 18350 Putze und Stuckarbeiten: Instandsetzung historischer Putzflaechen
 
 ## Prueferaster und Kontrollpunkte
@@ -53,7 +53,7 @@ Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spe
 2. Rissmonitoring: Gipsmarken oder Glasstaebe mit Datum anbringen, woechentliche Ablesung, Protokoll
 3. Naturstein-Reinigungsergebnis: pH-Wert nach Behandlung, Farbabgleich mit Fotodokumentation
 4. Gewoelbe-Injektionsprotokoll: Einpressdruck, Menge je Bohrloch, Verarbeitungsszeit
-5. Reversibilitaet der Massnahmen: Keine dauerhaften Verklebungen ohne Behoerdenzustimmung
+5. Reversibilitaet der Massnahmen: Keine dauerhaften Verklebungen ohne Behördenzustimmung
 6. Foerdermittel-Dokumentation: Ausgaben-Nachweise je Baumassnahme, Fotos Vorher-Nachher je Bauteil
 
 ## Foto-, Video- und Dokumentenanalyse
@@ -66,7 +66,7 @@ Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spe
 
 ## Meldungserstellung im ERP / SAP
 
-- Dalux ERP-Export: Schadensdokumentation als PDF-Sammelreport fuer Kirchenbauamt oder Denkmalbehoerde
+- Dalux ERP-Export: Schadensdokumentation als PDF-Sammelreport für Kirchenbauamt oder Denkmalbehoerde
 - PlanRadar Restaurierungs-Projekt: Status je Bauteil (Aufnahme/Behandlung/Abgeschlossen)
 - SAP PM Meldung M1 Denkmal: Equipment historisches Gebaeude, Schadenscode Feuchte/Riss/Bewuchs
 - Foerdermittel-Kostennachweise: Deutsche Stiftung Denkmalschutz, Landesfoerderprogramm, Eigenanteil

@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-rohbau-betongueteklasse
-description: "Bauueberwachung HOAI LPH 8 fuer den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Rohbau und Betongueteklassen
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Bauueberwachung HOAI LPH 8 fuer den Rohbau mit Schwerpunkt Betongueteklassen —
 
 ## Spezialwissen
 
-Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungslage und Schalungspraezision bestimmen die langfristige Tragfaehigkeit und Dauerhaftigkeit des Bauwerkes. Die Bauueberwachung in LPH 8 stellt sicher, dass kein Beton vergossen wird, ohne zuvor Bewehrung und Schalung abgenommen zu haben, und dass die Pruefkoerper lueckenlos fuer die 28-Tage-Drueckfestigkeit eingelagert werden.
+Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungslage und Schalungspraezision bestimmen die langfristige Tragfaehigkeit und Dauerhaftigkeit des Bauwerkes. Die Bauueberwachung in LPH 8 stellt sicher, dass kein Beton vergossen wird, ohne zuvor Bewehrung und Schalung abgenommen zu haben, und dass die Pruefkoerper lueckenlos für die 28-Tage-Drueckfestigkeit eingelagert werden.
 
 ## Bauwerk und Auftrag
 
@@ -58,7 +58,7 @@ Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungsla
 
 - BIM360 Photo Tracking: Fotos getaggt an IFC-Bauteil-ID, Schalung und Bewehrung vor Betonage, After-Casting nach Ausschalen
 - Drohnenbefliegung DJI Mavic 3 Enterprise nach jedem Stockwerk: Grundrissorthofoto 2 cm/px, Massen-Soll/Ist, Stuetzen-Rastelab gleich mit CAD
-- Lieferschein-Scan: Mobile Scan-App oder PlanRadar Dokumenten-Upload, Verknuepfung mit Bauteil-ID, Archivierung fuer 10 Jahre
+- Lieferschein-Scan: Mobile Scan-App oder PlanRadar Dokumenten-Upload, Verknuepfung mit Bauteil-ID, Archivierung für 10 Jahre
 - Pruefwuerfel-Fotoprotokoll: Foto je Wuerfelgruppe mit Chargen-Nr auf Schild, Einlagerungs-Foto Prueflabor, Ergebnis-Scan Pruefbericht
 - Schadensdokumentation Ausschalen: Lochfrass, Kiesnest, Risse in Rissbild-Zeichnung, Foto und GPS, PlanRadar-Meldung an Polier
 

@@ -31,8 +31,8 @@ Dieser Skill formuliert die datenschutzrechtlich erforderliche Einwilligungsklau
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- Art. 6 Abs. 1 lit. a DSGVO — Einwilligung als Rechtsgrundlage fuer Sprachdaten-Verarbeitung vor Mandatsannahme
-- Art. 9 Abs. 2 lit. a DSGVO — Ausdrückliche Einwilligung fuer besondere Kategorien (Gesundheit, Strafrecht)
+- Art. 6 Abs. 1 lit. a DSGVO — Einwilligung als Rechtsgrundlage für Sprachdaten-Verarbeitung vor Mandatsannahme
+- Art. 9 Abs. 2 lit. a DSGVO — Ausdrückliche Einwilligung für besondere Kategorien (Gesundheit, Strafrecht)
 - Art. 13 DSGVO — Informationspflicht bei Ersterhebung: vollstaendige Transparenzpflicht
 - Art. 7 Abs. 3 DSGVO — Widerrufsrecht: jederzeit ohne Nachteile
 

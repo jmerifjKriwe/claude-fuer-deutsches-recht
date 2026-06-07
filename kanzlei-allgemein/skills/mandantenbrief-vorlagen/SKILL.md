@@ -29,7 +29,7 @@ Standardvorlagen für den Mandantenbrief der Kanzlei. Aufbau Anrede Bezug Sachst
 ## Zentrale Normen
 - § 49b Abs. 5 BRAO — Pflicht zur Kostenbelehrung bei Auftragsannahme
 - Art. 13 DSGVO — Informationspflicht bei Ersterhebung personenbezogener Daten (Mandantenaufnahme)
-- § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch fuer Inhalte im Mandantenbrief
+- § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch für Inhalte im Mandantenbrief
 - § 2 BORA — Gewissenhaftigkeit: verstaendliche und klare Kommunikation mit dem Mandanten
 
 ## Quellenregel

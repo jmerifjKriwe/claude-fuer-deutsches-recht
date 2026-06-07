@@ -93,8 +93,8 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 ## Strategie und Praxis-Tipps
 
 - 8-12 Wochen Vorlauf sind Standard.
-- Bei Pruefungspflicht: zusaetzliche 4-6 Wochen fuer WP.
-- Inventur-Beobachtung beim Mandanten ist wertvoll fuer Bewertung.
+- Bei Pruefungspflicht: zusaetzliche 4-6 Wochen für WP.
+- Inventur-Beobachtung beim Mandanten ist wertvoll für Bewertung.
 - Mandantenfragebogen ist Effizienz-Hebel.
 - StBVV § 35: Honorar nach Gegenstandswert; ggf. Pauschal mit Mandant.
 

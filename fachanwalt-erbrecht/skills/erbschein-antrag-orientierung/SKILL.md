@@ -101,7 +101,7 @@ dass der Mandant Alleinerbe des Erblassers geworden ist.
 
 Begruendung
 1. Der Erblasser hatte seinen letzten gewoehnlichen Aufenthalt in
- [Anschrift] — Zustaendigkeit § 343 FamFG.
+ [Anschrift] — Zuständigkeit § 343 FamFG.
 2. Eine letztwillige Verfuegung liegt nicht vor — gesetzliche
  Erbfolge § 1922 BGB.
 3. Der Mandant ist der einzige Abkoemmling — gesetzlicher Erbe
@@ -233,7 +233,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 6. Haben die Erben die Auskunft verweigert, unvollständig erteilt oder die Bewertung blockiert?
 7. Ist Verjährung drohend — Erbfall + 3 Jahre Jahresende § 2332 BGB?
 8. Bestehen Anzeichen für verschleierte Schenkungen (Übertragungen unter Nießbrauch, Schenkungen an Lebensgefährten)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

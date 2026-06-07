@@ -13,7 +13,7 @@ description: "SGB SG im Plugin Fachanwalt Sozialrecht: prüft konkrete Prüfungs
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-sozialrecht-sgb-ii-bescheid` | Prüfungslinie für fachanwalt sozialrecht sgb ii bescheid: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` | Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht. |
+| `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` | Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behörde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhörung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behörde Klagebegründung Vergleichsbereitschaft Gericht. |
 | `fachanwalt-sozialrecht-widerspruch-sozialleistung` | Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch. § 84 SGG Widerspruchsfrist ein Monat. Prüfraster: Frist (Bekanntgabe Vier-Tage-Fiktion § 37 Abs. 2 SGB X seit 1.1.2025 PostModG) aufschiebende Wirkung § 86a SGG Antrag § 86b SGG Tatsachen und Rechtsgrundlagen Beweisangebote. Output: Widerspruchsschriftsatz mit Begründung. Abgrenzung zu bescheid-frist-quick-check (Fristkontrolle vorab) und klage-sozialgericht (nach Widerspruchsbescheid). |
 | `hilfsmittelantrag-pruefen` | Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zuständig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Prüfraster: Zuständigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgründe. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad). |
 
@@ -72,7 +72,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 8. Ist der Mandant im Karenzjahr (§ 12 Abs. 3 SGB II — erste zwölf Monate SGB-II-Bezug, Vermögen nur bei Erheblichkeit)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -366,7 +366,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung`
 
-**Fokus:** Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht.
+**Fokus:** Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behörde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhörung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behörde Klagebegründung Vergleichsbereitschaft Gericht.
 
 # Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung
 
@@ -404,7 +404,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 8. Gibt es Beizuladdende (§ 75 SGG) — z.B. Krankenversicherung bei Rentenstreit?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -714,7 +714,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 8. Hat die Behörde einen Aufhebungs-/Erstattungsbescheid erlassen — auf welche Rechtsgrundlage (§ 45 oder § 48 SGB X)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -781,8 +781,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Widerspruch gegen Sozialleistungsbescheid | Widerspruchsschreiben mit Begruendungsankuendigung; Template unten |
 | Variante A — Mandant will sofortige Zahlung (kein langer Widerspruch) | Eilantrag § 86b SGG statt oder neben Widerspruch |
-| Variante B — Bestandskraeftiger Bescheid | § 44 SGB X Ruecknahmeantrag statt Widerspruch |
-| Variante C — Verfahrensmangel (Anhoerung fehlte) | Formeller Widerspruch wegen § 24 SGB X; materiell pruefen |
+| Variante B — Bestandskraeftiger Bescheid | § 44 SGB X Rücknahmeantrag statt Widerspruch |
+| Variante C — Verfahrensmangel (Anhörung fehlte) | Formeller Widerspruch wegen § 24 SGB X; materiell pruefen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

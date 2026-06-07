@@ -27,10 +27,10 @@ Sie haben einen Anwalt und Sie haben gewonnen. Die Beklagte muss die Anwaltskost
 ## Fachbegriffe (kurz erklaert)
 
 - **RVG**: Rechtsanwaltsverguetungsgesetz.
-- **Streitwert**: Wertfestsetzung; Grundlage der Gebuehren.
-- **Geschaeftsgebuehr**: Anwaltsgebuehr fuer aussergerichtliche Taetigkeit.
-- **Verfahrensgebuehr**: Gebuehr fuer das Verfahren.
-- **Terminsgebuehr**: Gebuehr fuer Termin.
+- **Streitwert**: Wertfestsetzung; Grundlage der Gebühren.
+- **Geschaeftsgebuehr**: Anwaltsgebuehr für aussergerichtliche Taetigkeit.
+- **Verfahrensgebuehr**: Gebuehr für das Verfahren.
+- **Terminsgebuehr**: Gebuehr für Termin.
 
 ## Rechtsgrundlagen
 
@@ -39,7 +39,7 @@ Sie haben einen Anwalt und Sie haben gewonnen. Die Beklagte muss die Anwaltskost
 - **§§ 1 ff. RVG** — Rechtsanwalts-Verguetung.
 - **VV RVG** — Verguetungs-Verzeichnis.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wer rechnet ab?
 
@@ -111,7 +111,7 @@ Festsetzungsbeschluss ist Vollstreckungstitel. Beklagte zahlt meist binnen Woche
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. RVG aktuell. Konkrete Gebuehren-Saetze online pruefen.
+Stand: 05/2026. RVG aktuell. Konkrete Gebühren-Saetze online pruefen.
 
 ## Qualitäts-Hardening
 

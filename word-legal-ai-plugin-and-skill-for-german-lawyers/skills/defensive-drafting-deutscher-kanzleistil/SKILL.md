@@ -1,13 +1,13 @@
 ---
 name: defensive-drafting-deutscher-kanzleistil
-description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjaehrungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjährungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Defensive Drafting und Fallen-Erkennung
 
 ## Arbeitsbereich
 
-Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjaehrungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjährungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigste
 
 ## Zweck
 
-Beim Review fremder Vertragsentwuerfe verlieren Mandanten regelmaessig viel Geld nicht durch boese Absicht, sondern durch routinierte Standardklauseln, die einseitig zu ihrem Nachteil wirken. Dieser Skill ist eine Pruefcheckliste fuer die zwoelf haeufigsten Fallen: woran Sie sie erkennen (Rote-Flaggen-Wortliste), warum sie problematisch sind (rechtliche Wirkung) und wie Sie sie chirurgisch entschaerfen (Verteidigungsklauseln).
+Beim Review fremder Vertragsentwuerfe verlieren Mandanten regelmaessig viel Geld nicht durch boese Absicht, sondern durch routinierte Standardklauseln, die einseitig zu ihrem Nachteil wirken. Dieser Skill ist eine Pruefcheckliste für die zwoelf haeufigsten Fallen: woran Sie sie erkennen (Rote-Flaggen-Wortliste), warum sie problematisch sind (rechtliche Wirkung) und wie Sie sie chirurgisch entschaerfen (Verteidigungsklauseln).
 
 Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haftungsausschluss-und-haftungsbegrenzung` (Haftungsklauseln), schaut aber breiter auf das Vertragswerk.
 
@@ -47,7 +47,7 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 
 **Verteidigung:**
 - Pruefen, ob Klausel in AGB: dann oft § 309 Nr. 7 BGB einschlaegig.
-- Ausnahmen einfuegen: "Die Haftungsbegrenzung gilt nicht fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit, fuer Schaeden aus vorsaetzlicher oder grob fahrlaessiger Pflichtverletzung und fuer Schaeden aus der Verletzung wesentlicher Vertragspflichten (Kardinalpflichten)."
+- Ausnahmen einfuegen: "Die Haftungsbegrenzung gilt nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit, für Schaeden aus vorsaetzlicher oder grob fahrlaessiger Pflichtverletzung und für Schaeden aus der Verletzung wesentlicher Vertragspflichten (Kardinalpflichten)."
 - Hoehe an Versicherungssumme koppeln statt an Auftragswert.
 
 ### Falle 2: Verschobene Beweislast
@@ -56,11 +56,11 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 
 **Wirkung:** Kehrt die gesetzliche Beweislast um. In AGB oft Verstoss gegen § 309 Nr. 12 BGB.
 
-**Verteidigung:** Klausel streichen und die gesetzliche Beweislastverteilung herstellen. Wenn nicht durchsetzbar, Beweislast spiegeln (gilt fuer beide Seiten).
+**Verteidigung:** Klausel streichen und die gesetzliche Beweislastverteilung herstellen. Wenn nicht durchsetzbar, Beweislast spiegeln (gilt für beide Seiten).
 
 ### Falle 3: Einseitiger Gerichtsstand
 
-**Rote-Flaggen-Wortliste:** "Ausschliesslicher Gerichtsstand ist Muenchen", "Der Auftragnehmer kann auch am Sitz des Auftraggebers klagen", "Gerichtsstand fuer alle Streitigkeiten ist Hamburg".
+**Rote-Flaggen-Wortliste:** "Ausschliesslicher Gerichtsstand ist Muenchen", "Der Auftragnehmer kann auch am Sitz des Auftraggebers klagen", "Gerichtsstand für alle Streitigkeiten ist Hamburg".
 
 **Wirkung:** Belastet den Mandanten mit hohen Reisekosten und unbekannter Gerichtsbarkeit. Im B2C oft unwirksam nach § 38 ZPO, im B2B regelmaessig wirksam.
 
@@ -78,13 +78,13 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 - Schweigen ist keine Annahme: explizite Zustimmung.
 - Sonderkuendigungsrecht bei jeder einseitigen Aenderung.
 
-### Falle 5: Kurze Verjaehrungsverkuerzung
+### Falle 5: Kurze Verjährungsverkuerzung
 
 **Rote-Flaggen-Wortliste:** "Maengelansprueche verjaehren in zwoelf Monaten ab Lieferung", "Ansprueche verjaehren spaetestens nach einem Jahr".
 
-**Wirkung:** Verkuerzt die regulaere Verjaehrung von zwei Jahren (§ 438 BGB) oder fuenf Jahren (Bauwerk). In B2C nichtig bei Neuware (§ 476 II BGB neu); in B2B grundsaetzlich zulaessig, in AGB Pruefung nach § 307 BGB.
+**Wirkung:** Verkuerzt die regulaere Verjährung von zwei Jahren (§ 438 BGB) oder fuenf Jahren (Bauwerk). In B2C nichtig bei Neuware (§ 476 II BGB neu); in B2B grundsaetzlich zulaessig, in AGB Pruefung nach § 307 BGB.
 
-**Verteidigung:** Verjaehrungsregelung auf gesetzliches Mass zurueckfuehren. Bei Software und IT-Werken auf zwei Jahre. Bei Bauwerken auf fuenf Jahre.
+**Verteidigung:** Verjährungsregelung auf gesetzliches Mass zurueckfuehren. Bei Software und IT-Werken auf zwei Jahre. Bei Bauwerken auf fuenf Jahre.
 
 ### Falle 6: Nachhaftung der Geschaeftsfuehrung
 
@@ -92,7 +92,7 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 
 **Wirkung:** Durchgriffshaftung der Organe. Wirksam, aber regelmaessig nicht gewollt. Steuerlich problematisch.
 
-**Verteidigung:** Geschaeftsfuehrerhaftung streichen oder durch D&O-Versicherung deckeln. Garantien nur fuer Sachverhalte, nicht fuer Rechtsfolgen.
+**Verteidigung:** Geschaeftsfuehrerhaftung streichen oder durch D&O-Versicherung deckeln. Garantien nur für Sachverhalte, nicht für Rechtsfolgen.
 
 ### Falle 7: Lock-in durch Auto-Renewal
 
@@ -112,7 +112,7 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 **Wirkung:** Hohes Kostenrisiko (Schiedskosten teilweise sechsstellig) und Ausschluss der staatlichen Gerichte. Wirksam.
 
 **Verteidigung:**
-- Wertgrenze fuer Schiedsklausel: erst ab Streitwert X.
+- Wertgrenze für Schiedsklausel: erst ab Streitwert X.
 - Mediationsstufe vorgeschaltet.
 - DIS Sport-Schiedsordnung statt ICC bei kleineren Werten.
 - Schiedsort am Sitz des Mandanten.
@@ -174,19 +174,19 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 ## Ausgabeformat
 
 - Tabelle: Klausel-Nummer | Klausel-Auszug | Falle-Nr | Risiko (rot/gelb/gruen) | Verteidigungsformulierung | Fallback.
-- Markup-Vorlage fuer Track-Changes im Word-Dokument.
+- Markup-Vorlage für Track-Changes im Word-Dokument.
 - Mandantenbrief mit Top-3-Risiken in Klartext.
 
 ## Querverweise
 
-- `agb-konforme-klauseln-305-310-bgb` fuer AGB-Inhaltskontrolle
-- `haftungsausschluss-und-haftungsbegrenzung` fuer Haftungsdrafting
-- `klausel-bibliothek-katalog` fuer fertige Verteidigungsformulierungen
-- `revisions-prozess-redlines-comparison` fuer den Markup-Workflow
+- `agb-konforme-klauseln-305-310-bgb` für AGB-Inhaltskontrolle
+- `haftungsausschluss-und-haftungsbegrenzung` für Haftungsdrafting
+- `klausel-bibliothek-katalog` für fertige Verteidigungsformulierungen
+- `revisions-prozess-redlines-comparison` für den Markup-Workflow
 
 ## Quellen (Stand 05/2026)
 
 - §§ 305, 305c, 306, 307, 308, 309, 310 BGB; §§ 38, 293 ZPO; § 138, § 242 BGB; § 43a BRAO.
-- DSGVO Art. 28 fuer Audit-Reziprozitaet.
+- DSGVO Art. 28 für Audit-Reziprozitaet.
 - BGH-Rechtsprechung zur AGB-Inhaltskontrolle und MAC-Klauseln vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.

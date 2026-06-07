@@ -41,7 +41,7 @@ Kaltstart-Fragen:
 
 1. Asset Deal im Regelverfahren oder kombiniert mit Plan?
 2. Kaufpreis und stille Reserven der zu uebertragenden Aktiva?
-3. Wird der Kaufpreis fuer Forderungsbefriedigung verwendet oder zur Schuldentilgung?
+3. Wird der Kaufpreis für Forderungsbefriedigung verwendet oder zur Schuldentilgung?
 4. Welche Verbindlichkeiten bleiben bei der Schuldnerin (Restmasse)?
 5. Erwerber: Auffanggesellschaft, strategischer Investor, Schuldner-Geschaeftsleitung?
 
@@ -56,21 +56,21 @@ Kaltstart-Fragen:
 - Paragraph 16 EStG / Paragraph 8b KStG — Veraeusserungsgewinn.
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
-1. **Asset Deal vs. Plan-Sanierung trennen.** Beim reinen Asset Deal: kein Forderungsverzicht, kein Sanierungsertrag, dafuer Veraeusserungsgewinn.
-2. **Stille Reserven identifizieren.** Aktiva fuer Aktiva.
+1. **Asset Deal vs. Plan-Sanierung trennen.** Beim reinen Asset Deal: kein Forderungsverzicht, kein Sanierungsertrag, dafür Veraeusserungsgewinn.
+2. **Stille Reserven identifizieren.** Aktiva für Aktiva.
 3. **Veraeusserungsgewinn berechnen** (Kaufpreis abzgl. Buchwert).
 4. **Verlustvortraege zur Verrechnung pruefen.** Paragraph 10d EStG / Paragraph 10a GewStG; **nicht** Paragraph 3a EStG.
-5. **Uebernehmerhaftung Paragraph 75 AO klaeren.** Erwerber haftet fuer Betriebssteuern eines Jahres vor und nach Uebergang; bei Insolvenzkauf modifiziert.
-6. **Insolvenzplan-Kombination pruefen.** Wenn das Asset-Deal-Erloes durch den Plan an Glaeubiger ausgekehrt wird und ein Restverzicht entsteht, kann doch ein klassischer Sanierungsertrag entstehen — fuer den verbleibenden Glaeubiger-Verzicht.
+5. **Uebernehmerhaftung Paragraph 75 AO klaeren.** Erwerber haftet für Betriebssteuern eines Jahres vor und nach Uebergang; bei Insolvenzkauf modifiziert.
+6. **Insolvenzplan-Kombination pruefen.** Wenn das Asset-Deal-Erloes durch den Plan an Glaeubiger ausgekehrt wird und ein Restverzicht entsteht, kann doch ein klassischer Sanierungsertrag entstehen — für den verbleibenden Glaeubiger-Verzicht.
 
 ## Trade-off-Matrix
 
 | Variante | Wirkung Schuldner | Wirkung Erwerber | Sanierungsertrag |
 |---|---|---|---|
 | Reiner Asset Deal (Regelverfahren) | Veraeusserungsgewinn, normale Versteuerung | Anschaffungskosten + Step-up | typischerweise kein Paragraph 3a EStG |
-| Asset Deal im Plan + Forderungsverzicht | Veraeusserungsgewinn + Sanierungsertrag (auf Restmasse-Verzichte) | Anschaffungskosten + Step-up | Sanierungsertrag fuer Forderungsverzichte; Paragraph 3a EStG-Pruefung |
+| Asset Deal im Plan + Forderungsverzicht | Veraeusserungsgewinn + Sanierungsertrag (auf Restmasse-Verzichte) | Anschaffungskosten + Step-up | Sanierungsertrag für Forderungsverzichte; Paragraph 3a EStG-Pruefung |
 | Asset Deal an Schuldner-GF (besonders Interessierte) | besondere Zustimmungserfordernisse Paragraph 162 InsO | Anschaffungskosten | dito |
 | Asset Deal mit Schuldueberlassung | i.d.R. Sanierungsertrag bei der Schuldnerin, weil Erwerber Verbindlichkeiten uebernimmt | siehe Konstellation | je nach Klausel |
 | Liquidation der Schuldnerin nach Asset Deal | spaetere Loeschung, Verbindlichkeiten bleiben (BFH II R 19/01) | abgewickelt | kein Sanierungsertrag, weil kein Verzicht |
@@ -80,7 +80,7 @@ Kaltstart-Fragen:
 1. **Asset Deal ist nicht Sanierungsertrag-Ersatz.** Die Vorstellung, ein Asset Deal "produziere" einen steuerfreien Sanierungsertrag, ist falsch — er produziert einen Veraeusserungsgewinn.
 2. **Stille-Reserven-Erfassung wichtig.** Bei niedrigen Buchwerten und hohem Kaufpreis kann der Veraeusserungsgewinn die Verlustvortraege ueberschreiten und Steuern auf die Masse ausloesen.
 3. **Paragraph 75 AO modifiziert.** Im Insolvenzverfahren ist die Uebernehmerhaftung nach Paragraph 75 AO unterschiedlich zu beurteilen; pruefen, ob der Erwerb "aus der Insolvenzmasse" privilegiert ist.
-4. **Kombination mit Plan-Restverzicht.** Wenn der Asset-Deal-Erloes ueber den Plan ausgekehrt wird und Restquoten erlassen werden, entsteht doch ein Sanierungsertrag fuer den Verzichtsteil — Paragraph 3a EStG dann anwendbar.
+4. **Kombination mit Plan-Restverzicht.** Wenn der Asset-Deal-Erloes ueber den Plan ausgekehrt wird und Restquoten erlassen werden, entsteht doch ein Sanierungsertrag für den Verzichtsteil — Paragraph 3a EStG dann anwendbar.
 5. **Mehrwertsteuer** beim Asset Deal: Geschaeftsveraeusserung im Ganzen Paragraph 1 Absatz 1a UStG; Masseverbindlichkeit Paragraph 55 InsO bei Abweichung.
 
 ## Mustertexte / Berechnungsbeispiele
@@ -109,7 +109,7 @@ Sanierungsertrag aufgezehrt; Veraeusserungsgewinn bleibt davon getrennt.
  Verlustvortrag ueber Paragraph 10d EStG verfuegbar.
 ```
 
-**Vertragstext-Geruest fuer den Asset-Deal-Vertrag (Paragraph 75 AO-Klausel):**
+**Vertragstext-Geruest für den Asset-Deal-Vertrag (Paragraph 75 AO-Klausel):**
 
 ```
 § X Uebernehmerhaftung Paragraph 75 AO

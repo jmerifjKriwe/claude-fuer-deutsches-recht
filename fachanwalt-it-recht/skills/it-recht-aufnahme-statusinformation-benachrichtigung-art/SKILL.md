@@ -147,7 +147,7 @@ Beweislast: liegt beim Verantwortlichen — schriftlich dokumentieren mit Datum 
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
-- `dsv-pressemitteilung-krisenkommunikation` deckt die oeffentliche Bekanntmachung ab.
+- `dsv-pressemitteilung-krisenkommunikation` deckt die öffentliche Bekanntmachung ab.
 
 ## 3. `dsv-benachrichtigung-art-34-betroffene`
 

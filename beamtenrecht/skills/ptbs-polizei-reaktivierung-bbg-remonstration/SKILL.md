@@ -19,7 +19,7 @@ Skill zur Anerkennung der posttraumatischen Belastungsstoerung als Dienstunfall 
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Polizei- und Justizvollzugsbeamte, Feuerwehrleute und Soldaten, die wegen einer posttraumatischen Belastungsstoerung Dienstunfallfuersorge beanspruchen. Anwendung neben dem Schwester-Skill `dienstunfall-anerkennung-45-beamtvg`.
+Skill für Polizei- und Justizvollzugsbeamte, Feuerwehrleute und Soldaten, die wegen einer posttraumatischen Belastungsstoerung Dienstunfallfürsorge beanspruchen. Anwendung neben dem Schwester-Skill `dienstunfall-anerkennung-45-beamtvg`.
 
 ## 2. Eingaben
 
@@ -46,7 +46,7 @@ Skill fuer Polizei- und Justizvollzugsbeamte, Feuerwehrleute und Soldaten, die w
 - Wiederkehrende Belastungen ohne identifizierbares Einzelereignis werden moeglicherweise nur als Berufskrankheit (§ 31 Abs. 3 BeamtVG) anerkannt, sofern in der BKV gelistet.
 
 ### e) Folgen
-- Anerkennung fuehrt zu Heilverfahrenskosten, Unfallfuersorge, ggf. Unfallruhegehalt; siehe `unfallruhegehalt-36-beamtvg`.
+- Anerkennung fuehrt zu Heilverfahrenskosten, Unfallfürsorge, ggf. Unfallruhegehalt; siehe `unfallruhegehalt-36-beamtvg`.
 
 ## 4. Quellenpflicht
 
@@ -61,7 +61,7 @@ Skill fuer Polizei- und Justizvollzugsbeamte, Feuerwehrleute und Soldaten, die w
 
 ## 6. Verifizierte Quellenanker
 
-- §§ 30, 31, 45 BeamtVG; § 31 Abs. 3 BeamtVG i.V.m. der Berufskrankheitenverordnung (BKV) fuer den Hilfsantrag Berufskrankheit.
+- §§ 30, 31, 45 BeamtVG; § 31 Abs. 3 BeamtVG i.V.m. der Berufskrankheitenverordnung (BKV) für den Hilfsantrag Berufskrankheit.
 - ICD-10 F43.1 als Diagnosegrundlage; DSM-5 als ergaenzendes Diagnosesystem.
 - Anforderung an psychiatrisches Gutachten: Diagnose, Symptomverlauf, Verbindung zum auslosenden Ereignis, Differentialdiagnose.
 - BVerwG zur Anerkennung psychischer Erkrankungen als Dienstunfall und zur Abgrenzung Berufskrankheit — Datum und Az vor Zitat live verifizieren.

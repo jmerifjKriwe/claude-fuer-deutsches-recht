@@ -258,7 +258,7 @@ Alle Klassifikationen und Pflichtaussagen müssen belegbar sein:
 ## Triage-Fragen vor Open-Source-Pruefung
 
 Bevor die Lizenz-Compliance-Analyse beginnt, klaere:
-1. Handelt es sich um statische oder dynamische Verlinkung (entscheidend fuer GPL vs. LGPL-Frage)?
+1. Handelt es sich um statische oder dynamische Verlinkung (entscheidend für GPL vs. LGPL-Frage)?
 2. Wird die Software als SaaS-Dienst betrieben (AGPL: Netzwerk-Austauschklausel — Quellcode-Pflicht auch ohne Distribution)?
 3. Sind alle Abhaengigkeiten in der Dependency-Liste erfasst (transitive Dependencies often missed)?
 4. Ist ein SBOM (Software Bill of Materials) erstellt (Compliance-Dokumentation, EU Cyber Resilience Act)?

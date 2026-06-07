@@ -12,9 +12,9 @@ description: "Mietkaution Genossenschaftsanteil Muster im Plugin Verbraucherinso
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `mietkaution-und-genossenschaftsanteil` | Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.; Normanker: InsO § 109; BGB Mietkaution; Genossenschaftsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `muster-schuldenbereinigungsplan` | Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `musterbrief-glaeubiger` | Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.; Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `mietkaution-und-genossenschaftsanteil` | Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.; Normanker: InsO § 109; BGB Mietkaution; Genossenschaftsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `muster-schuldenbereinigungsplan` | Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `musterbrief-glaeubiger` | Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.; Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Mietkaution Genossenschaftsanteil Muster im Plugin Verbraucherinso
 
 ## 1. `mietkaution-und-genossenschaftsanteil`
 
-**Fokus:** Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.; Normanker: InsO § 109; BGB Mietkaution; Genossenschaftsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.; Normanker: InsO § 109; BGB Mietkaution; Genossenschaftsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.
 
@@ -66,7 +66,7 @@ InsO § 109; BGB Mietkaution; Genossenschaftsrecht. Entscheidend ist immer der a
 
 ## 2. `muster-schuldenbereinigungsplan`
 
-**Fokus:** Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.
 
@@ -105,7 +105,7 @@ InsO §§ 305, 307-309. Entscheidend ist immer der aktuelle Normstand der InsO, 
 
 ## 3. `musterbrief-glaeubiger`
 
-**Fokus:** Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.; Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.; Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.
 

@@ -1,13 +1,13 @@
 ---
 name: verwaltungsakte-historisch-lesen
-description: "Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behoerdendokumenten im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verwaltungsakte historisch lesen
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behoerdendokumenten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) si
 
 - **VwVfG 1976 (BGBl. I 1976, 1253) § 35**: Verwaltungsakt-Definition (moderner Massstab)
 - **VwVfG § 39**: Begruendungspflicht (im historischen Verwaltungsakt oft fehlend)
-- **Preussische Behoerdenordnung** (19. Jh.): Historischer Rahmen fuer preussische Verwaltungsakte
+- **Preussische Behördenordnung** (19. Jh.): Historischer Rahmen für preussische Verwaltungsakte
 - **Reichsgewerbeordnung § 35** (19. Jh.): Gewerbegenehmigung als historischer Verwaltungsakt
 
 ## Akteure und Institutionen
@@ -45,10 +45,10 @@ Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) si
 
 ## Methodik
 
-- VwVfG: gesetze-im-internet.de fuer modernen Massstab
+- VwVfG: gesetze-im-internet.de für modernen Massstab
 - Historische Verwaltungsakte: Bundesarchiv und Landesarchive
 - Kanzleisprache: Woerterbucher und Lexika der historischen Amtssprache
-- Epochenspezifische Rechtsgrundlage: GewO, preussische Behoerdenordnungen
+- Epochenspezifische Rechtsgrundlage: GewO, preussische Behördenordnungen
 
 ## Output
 

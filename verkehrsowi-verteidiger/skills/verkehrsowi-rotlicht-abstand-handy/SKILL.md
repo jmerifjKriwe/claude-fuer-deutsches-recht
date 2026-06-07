@@ -30,7 +30,7 @@ Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat Bußgeldbeschei
 - **§ 37 StVO** — Wechsellichtzeichen; Rotlicht-Verstos
 - **§ 4 StVO** — Abstandspflicht; Sicherheitsabstand
 - **§ 23 Abs. 1a StVO** — Verbot des Festhaltens elektronischer Geraete beim Fahren
-- **§ 24 StVG i.V.m. Anlage BKatV** — Geldbusse und Punkte fuer die genannten Delikte
+- **§ 24 StVG i.V.m. Anlage BKatV** — Geldbusse und Punkte für die genannten Delikte
 - **§ 49 StVO** — Bussgeldbewehrung der StVO-Verstösse
 
 ## Aktuelle Rechtsprechung

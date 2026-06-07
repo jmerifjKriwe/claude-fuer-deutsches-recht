@@ -41,7 +41,7 @@ Das BGB 1900 sicherte Frauen keine Gleichberechtigung: Maennliches Entscheidungs
 1. BGB 1900 und Frauenrechte: War das ein bewusstes Programm oder Zeitgeist?
 2. GG Art. 3 Abs. 2 und § 1354 BGB: Warum dauerte die Aufhebung bis 1957?
 3. AGG 2006: Geht es weit genug oder ist es zu schwach?
-4. Equality vs. Equity: Formale Gleichheit oder Gleichstellung durch Foerderung?
+4. Equality vs. Equity: Formale Gleichheit oder Gleichstellung durch Förderung?
 5. Quote und GG Art. 3: Ist positive Diskriminierung verfassungskonform?
 
 ## Methodik

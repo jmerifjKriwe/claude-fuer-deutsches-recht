@@ -31,7 +31,7 @@ Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschu
 - **§ 14 BNatSchG** — Eingriffsbegriff (Veraenderung Gestalt/Nutzung Grundflaeche)
 - **§ 15 BNatSchG** — Eingriffs-Ausgleichs-Regelung (Vermeidung, Ausgleich, Ersatz, Ausnahme)
 - **§ 34 BNatSchG** — FFH-Vertraeglichkeitspruefung (erhebliche Beeintraechtigung Schutzzweck)
-- **§ 36 BNatSchG** — Ausnahme FFH (zwingende Gruende oeffentliches Interesse, Ausgleichsmasnnahmen)
+- **§ 36 BNatSchG** — Ausnahme FFH (zwingende Gruende öffentliches Interesse, Ausgleichsmasnnahmen)
 - **§ 44 Abs. 1 BNatSchG** — Verbotstatbestaende Artenschutz (Toeten, Stoeren, Entnahme, Zerstoerung Fortpflanzungsstaetten)
 - **§ 45 BNatSchG** — Befreiung und Ausnahme Artenschutz
 - **§ 69 BNatSchG** — Ordnungswidrigkeiten (Bussgeld bis 50.000 EUR)
@@ -46,7 +46,7 @@ Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschu
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ### A) Vorhabentraeger: Artenschutzpruefung und FFH-VS
 
@@ -71,7 +71,7 @@ Ist streng geschuetzte Art betroffen (§ 44 Abs. 1 BNatSchG)?
  JA → Vermeidung technisch moeglich?
  JA → Vermeidungsmafsnahme festlegen und dokumentieren
  NEIN → Ausnahme § 45 BNatSchG:
- Oeffentliches Interesse? JA → CEF-Mafsnahmen + Behoerdenentscheidung
+ Oeffentliches Interesse? JA → CEF-Mafsnahmen + Behördenentscheidung
  NEIN → Vorhaben in dieser Form nicht genehmigungsfaehig
  NEIN → Eingriffs-Ausgleichs-Regelung § 15 BNatSchG genuegt
 ```
@@ -95,7 +95,7 @@ I. Grundlage
 II. Artenschutz § 44 BNatSchG
 Die saP vom [DATUM] genuegt nicht den Anforderungen:
 1. Kartierung Fledermaeuse: Nur [X] Begehungen, keine Auswertung Horchboxen.
-2. Brutvoegel: Brutvogel-Kartierung fehlt fuer Bereich [X] vollstaendig.
+2. Brutvoegel: Brutvogel-Kartierung fehlt für Bereich [X] vollstaendig.
 3. Stoerungsverbot § 44 Abs. 1 Nr. 2 BNatSchG: Laermimmission waehrend Brutzeit
  nicht bewertet.
 
@@ -113,7 +113,7 @@ vorgelegt und ausgelegt werden.
 
 - CEF = Continuous Ecological Functionality; muessen vor Eingriff wirksam sein.
 - Typische CEF: Nisthilfen, alternative Bruthabitate, Amphibien-Leitwaende.
-- Monitoring-Pflicht: Regelmaessige Kontrolle Wirksamkeit; bei Versagen: Anordnung Nachbesserung.
+- Monitoring-Pflicht: Regelmäßige Kontrolle Wirksamkeit; bei Versagen: Anordnung Nachbesserung.
 
 ## Anschluss-Skills
 

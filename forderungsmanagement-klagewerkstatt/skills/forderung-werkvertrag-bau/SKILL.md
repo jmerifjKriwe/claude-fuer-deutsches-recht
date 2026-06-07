@@ -47,7 +47,7 @@ Abnahmevarianten:
 | Pruefungsfrist Auftraggeber | Regel 30 Tage |
 | Keine Schlussrechnung | Klage nur eingeschraenkt zulaessig |
 
-§ 14 VOB/B (bei vereinbarter VOB/B): pruefbare Schlussrechnung mit Pruefungsfrist 30 Tage / 60 Tage bei oeffentlichem Auftraggeber.
+§ 14 VOB/B (bei vereinbarter VOB/B): pruefbare Schlussrechnung mit Pruefungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber.
 
 ## Klageantrag-Muster
 
@@ -72,13 +72,13 @@ Klagegrund-Schluessel:
 
 | Sicherungsmittel | Norm | Wirkung |
 |---|---|---|
-| Sicherheit Bauhandwerker | § 650f BGB | Sicherheit fuer Werklohn |
+| Sicherheit Bauhandwerker | § 650f BGB | Sicherheit für Werklohn |
 | Bauhandwerker-Sicherungshypothek | § 650e BGB | Eintragung Grundbuch |
 | Werkunternehmerpfandrecht | § 647 BGB | bewegliche Sache |
 
 ## Maengelrechte des Bestellers vs. Faelligkeit
 
-| Sachverhalt | Folge fuer Werklohn |
+| Sachverhalt | Folge für Werklohn |
 |---|---|
 | Werk maengelfrei | Voller Werklohn faellig |
 | Unwesentliche Maengel | Abnahme nicht verweigerbar (§ 640 Abs. 1 S. 2 BGB), Werklohn faellig |

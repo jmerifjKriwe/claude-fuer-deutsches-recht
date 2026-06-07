@@ -13,7 +13,7 @@ description: "INS Incident im Insiderrecht und Compliance im Insiderrecht Compli
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `ins-055-incident-drill` | Fuehrt einen Tabletop-Drill fuer Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck. |
+| `ins-055-incident-drill` | Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ description: "INS Incident im Insiderrecht und Compliance im Insiderrecht Compli
 
 ## 1. `ins-055-incident-drill`
 
-**Fokus:** Fuehrt einen Tabletop-Drill fuer Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck.
+**Fokus:** Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck.
 
 # Incident Drill – Insiderrecht-Krisenübung (Tabletop Exercise)
 

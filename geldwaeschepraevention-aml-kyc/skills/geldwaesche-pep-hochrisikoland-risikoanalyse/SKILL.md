@@ -23,14 +23,14 @@ Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaende
 3. Ist ein Hochrisikoland nach FATF-Liste oder EU-Delegierter Verordnung betroffen?
 4. Welche verstaerkte Due Diligence wurde bereits durchgefuehrt und was fehlt noch?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 15 GwG — Verstaerkte Sorgfaltspflichten: PEP, nahestehende Personen, Hochrisikotransaktionen
 - § 1 Abs. 12 GwG — Definition PEP
 - §§ 14-16 GwG — Vereinfachte und normale Sorgfalt: Abgrenzung
-- EU-Delegierte VO (EU) 2022/229 — Hochrisikodritt-Laenderliste
+- EU-Delegierte VO (EU) 2022/229 — Hochrisikodritt-Länderliste
 
 ## Normfokus und Praxis (PEP/EDD)
 - PEP-Definition § 1 Abs. 12 GwG: politische Funktionen (Staatsoberhaupt, Minister, Parlamentarier, Verfassungsrichter, Botschafter, Generäle, Vorstandsmitglieder staatlicher Unternehmen) plus Familienangehörige (§ 1 Abs. 13 GwG) und nahestehende Personen (§ 1 Abs. 14 GwG). 12-Monats-Nachlauf nach Ende der Funktion (§ 15 Abs. 5 GwG).

@@ -23,10 +23,10 @@ Ein rechtshistorisches Seminar oder Referat braucht andere Kompetenzen als ein d
 
 ## Kernnormen / Kernquellen
 
-- **Sachsenspiegel Ldr. I 1-5**: Typische Textstellen fuer Seminareinstieg
-- **Mugdan, Die gesamten Materialien zum BGB** (1899): Pflichtlektuere fuer BGB-Entstehungsseminar
-- **WRV Art. 48 und Art. 76**: Zentrale Streitartikel fuer WRV-Seminar
-- **Ermächtigungsgesetz 1933 (RGBl. I 1933, 141)**: Kernquelle fuer NS-Rechtsseminar
+- **Sachsenspiegel Ldr. I 1-5**: Typische Textstellen für Seminareinstieg
+- **Mugdan, Die gesamten Materialien zum BGB** (1899): Pflichtlektuere für BGB-Entstehungsseminar
+- **WRV Art. 48 und Art. 76**: Zentrale Streitartikel für WRV-Seminar
+- **Ermächtigungsgesetz 1933 (RGBl. I 1933, 141)**: Kernquelle für NS-Rechtsseminar
 - **GG Art. 1, 20 Abs. 4**: Wuerdegarantie und Widerstandsrecht als GG-Reaktion auf NS
 
 ## Akteure und Institutionen
@@ -40,7 +40,7 @@ Ein rechtshistorisches Seminar oder Referat braucht andere Kompetenzen als ein d
 
 1. Wie zitiert man Handschriften des Sachsenspiegels im Seminar korrekt?
 2. Muendliche vs. schriftliche Kultur im mittelalterlichen Recht: Wie erklaere ich das im Vortrag?
-3. BGB-Entstehung: Welche Stelle in Mugdan fuer welche These?
+3. BGB-Entstehung: Welche Stelle in Mugdan für welche These?
 4. Art. 48 WRV: War Bruenings Notverordnungspolitik verfassungsmaessig?
 5. NS-Recht: Kann man das als Recht bezeichnen? (Radbruch-Formel und ihre Grenzen)
 
@@ -50,12 +50,12 @@ Ein rechtshistorisches Seminar oder Referat braucht andere Kompetenzen als ein d
 - Sachsenspiegel-Handschriften: MGH-Digitalisate, Landesbibliotheken
 - Mugdan-Belegkette: Motiv → Protokoll → Text
 - WRV-Dokumente: documentArchiv.de, Reichsgesetzblatt-ALEX
-- NS-Quellen: ALEX/ÖNB fuer RGBl. I
+- NS-Quellen: ALEX/ÖNB für RGBl. I
 
 ## Output
 
-- Gliedrungsvorlage fuer rechtshistorisches Seminarreferat
-- Quellenmatrix fuer 3 klassische Seminarthemen (Sachsenspiegel, BGB, WRV)
+- Gliedrungsvorlage für rechtshistorisches Seminarreferat
+- Quellenmatrix für 3 klassische Seminarthemen (Sachsenspiegel, BGB, WRV)
 - Tipps zur Visualisierung: Zeitleiste, Quellendiagramm, Vergleichstabelle
 
 ## Quellenregel

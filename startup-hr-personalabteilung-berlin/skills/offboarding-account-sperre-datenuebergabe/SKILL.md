@@ -1,13 +1,13 @@
 ---
 name: offboarding-account-sperre-datenuebergabe
-description: "Berliner Start-up-HR Offboarding-Spezialskill: Reihenfolge und Rechtsgrundlagen fuer Account-Sperre und Datenuebergabe bei E-Mail, Slack, GitHub, CRM, Cloud-Drives und Endgeraeten. Trennt dienstliche und private Daten, regelt Litigation Hold bei drohender Kuendigungsschutzklage oder Strafanzeige, bedient Geheimnisschutz nach GeschGehG und erfasst BAG-Linie zur Auswertung dienstlicher E-Mail-Postfaecher. Liefert priorisierte Schritt-fuer-Schritt-Checkliste mit Verantwortlichen, Fristen, Norm-Pinpoints und Risikoampel."
+description: "Berliner Start-up-HR Offboarding-Spezialskill: Reihenfolge und Rechtsgrundlagen für Account-Sperre und Datenuebergabe bei E-Mail, Slack, GitHub, CRM, Cloud-Drives und Endgeraeten. Trennt dienstliche und private Daten, regelt Litigation Hold bei drohender Kuendigungsschutzklage oder Strafanzeige, bedient Geheimnisschutz nach GeschGehG und erfasst BAG-Linie zur Auswertung dienstlicher E-Mail-Postfaecher. Liefert priorisierte Schritt-für-Schritt-Checkliste mit Verantwortlichen, Fristen, Norm-Pinpoints und Risikoampel."
 ---
 
 # Offboarding — Account-Sperre und Datenuebergabe
 
 ## Arbeitsbereich
 
-Spezialskill fuer die operative Stunde-Null beim Offboarding eines Berliner Start-ups (etwa 100 Beschaeftigte): Welcher Account wird wann mit welcher Rechtsgrundlage gesperrt, welche Daten werden vor Sperre gesichert, was darf der Arbeitgeber im dienstlichen Postfach lesen, wann greift Litigation Hold, wie wird der Geheimnisschutz nach GeschGehG aktiv abgesichert. Abgrenzung: Die allgemeine Offboarding-Checkliste mit Kuendigung, Zeugnis, Resturlaub, Equipment und Alumni-Kommunikation liegt im Schwester-Skill [offboarding-checkliste-it-payroll](../offboarding-checkliste-it-payroll/SKILL.md).
+Spezialskill für die operative Stunde-Null beim Offboarding eines Berliner Start-ups (etwa 100 Beschaeftigte): Welcher Account wird wann mit welcher Rechtsgrundlage gesperrt, welche Daten werden vor Sperre gesichert, was darf der Arbeitgeber im dienstlichen Postfach lesen, wann greift Litigation Hold, wie wird der Geheimnisschutz nach GeschGehG aktiv abgesichert. Abgrenzung: Die allgemeine Offboarding-Checkliste mit Kuendigung, Zeugnis, Resturlaub, Equipment und Alumni-Kommunikation liegt im Schwester-Skill [offboarding-checkliste-it-payroll](../offboarding-checkliste-it-payroll/SKILL.md).
 
 **Cluster:** Offboarding
 **Fokus:** Account-Sperre, Datenuebergabe, Litigation Hold, Geheimnisschutz.
@@ -74,7 +74,7 @@ Vor jeder Sperre: kurzer schriftlicher Vermerk durch HR mit Anlass, Zeitpunkt, b
 ### Variante B — Private Nutzung erlaubt oder geduldet
 
 - Der Arbeitgeber wird streitig nach Teilen der Literatur als Telekommunikations-Diensteanbieter behandelt; die strengere Linie verneint dies (BAG-Linie, siehe unten).
-- Konsequenz fuer die Praxis: nicht in das Postfach hineinlesen, solange keine Einwilligung oder dokumentierte Vereinbarung vorliegt. Postfach archivieren und versiegeln (verschluesselter Container, Zugang nur nach Eskalation).
+- Konsequenz für die Praxis: nicht in das Postfach hineinlesen, solange keine Einwilligung oder dokumentierte Vereinbarung vorliegt. Postfach archivieren und versiegeln (verschluesselter Container, Zugang nur nach Eskalation).
 - Trennung privater und dienstlicher E-Mails moeglichst durch betroffene Person selbst in einem dokumentierten Sortier-Termin.
 
 ### Rechtsprechungs-Anker (BAG-Linie)
@@ -84,7 +84,7 @@ Vor jeder Sperre: kurzer schriftlicher Vermerk durch HR mit Anlass, Zeitpunkt, b
 - **EuGH, Urt. v. 17.10.2019 — C-324/17** (Lopez Ribalda II): Heimliche Videoueberwachung am Arbeitsplatz nur bei konkretem Verdacht und Verhaeltnismaessigkeit — uebertragbar auf E-Mail-Auswertung.
 - **LAG Hamm, Urt. v. 10.07.2012 — 14 Sa 1711/10**: Arbeitgeber bei erlaubter Privatnutzung wie Diensteanbieter behandelt; Zugriff auf Postfach ohne Einwilligung problematisch.
 
-Quellen fuer Live-Check: bundesarbeitsgericht.de, dejure.org, openjur.de, eur-lex.europa.eu, curia.europa.eu. Keine Modellwissen-Zitate ohne Verifikation.
+Quellen für Live-Check: bundesarbeitsgericht.de, dejure.org, openjur.de, eur-lex.europa.eu, curia.europa.eu. Keine Modellwissen-Zitate ohne Verifikation.
 
 ## Litigation Hold — wann, wie, wie lange
 
@@ -94,12 +94,12 @@ Quellen fuer Live-Check: bundesarbeitsgericht.de, dejure.org, openjur.de, eur-le
 - Drohende Klage auf Annahmeverzugslohn nach unwirksamer Kuendigung.
 - AGG-Beschwerde nach § 13 AGG oder drohende Entschaedigungsklage § 15 AGG (2-Monats-Frist § 15 Abs. 4 AGG).
 - Hinweisgebermeldung nach HinSchG mit Anti-Repressalien-Schutz.
-- Strafanzeige gegen oder durch den Beschaeftigten (Untreue, Verrat von Geschaeftsgeheimnissen § 23 GeschGehG, § 17 UWG-alt).
+- Strafanzeige gegen oder durch den Beschaeftigten (Untreue, Verrat von Geschäftsgeheimnissen § 23 GeschGehG, § 17 UWG-alt).
 - Drohender Wettbewerbsverbot- oder Geheimnisstreit.
 
 ### Umsetzung
 
-- Schriftliche Hold-Notice an IT, HR, Vorgesetzte und DSB: Was wird angehalten (E-Mail, Slack, CRM, Backups, Logs), ab wann, fuer welchen Zeitraum, mit welcher Begruendung.
+- Schriftliche Hold-Notice an IT, HR, Vorgesetzte und DSB: Was wird angehalten (E-Mail, Slack, CRM, Backups, Logs), ab wann, für welchen Zeitraum, mit welcher Begruendung.
 - Loeschroutinen pausieren: Backup-Rotation, Slack-Retention, E-Mail-Archivierung, GitHub-Branch-Cleanup, CRM-Loeschungen.
 - Beweismittel-Kette dokumentieren: Hash-Werte der Snapshots, Zugriffsprotokolle, Vier-Augen-Bestaetigungen.
 - Begrenzung: Hold nur auf relevante Datentoepfe, nicht repo-weit. Datenminimierung bleibt Pflicht.
@@ -124,7 +124,7 @@ Quellen fuer Live-Check: bundesarbeitsgericht.de, dejure.org, openjur.de, eur-le
 3. **Trennlinie privat/dienstlich klaeren:** Nutzungsrichtlinie pruefen, Variante A oder B zuordnen, Datenschutzfilter setzen.
 4. **Litigation Hold pruefen:** Risiko-Ampel Klage/Strafanzeige; falls gelb oder rot, Hold-Notice ausloesen.
 5. **Geheimnisschutz aktiv stellen:** Rueckgabe- und Loeschbestaetigung, BYOD-Wipe, Wettbewerbsverbot.
-6. **Output liefern:** Schritt-fuer-Schritt-Checkliste mit Verantwortlichen, Uhrzeiten, Norm-Pinpoints und Risikoampel.
+6. **Output liefern:** Schritt-für-Schritt-Checkliste mit Verantwortlichen, Uhrzeiten, Norm-Pinpoints und Risikoampel.
 
 ## Output
 

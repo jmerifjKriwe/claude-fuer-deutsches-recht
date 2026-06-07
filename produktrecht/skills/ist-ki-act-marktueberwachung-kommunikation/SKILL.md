@@ -19,7 +19,7 @@ Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster
 
 ## Spezialwissen
 
-1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` → Risikokalibrierung laden.
+1. `~/.claude/plugins/config/claude-für-deutsches-recht/produktrecht/CLAUDE.md` → Risikokalibrierung laden.
 2. Triage-Ablauf unten anwenden.
 3. Muster-erkennen. Auf häufige Fallen prüfen.
 4. In fünf Minuten antworten: ✅ In Ordnung / ⚠️ Braucht einen Blick / 🛑 Stop. Ein Satz warum.
@@ -49,7 +49,7 @@ Das Ziel ist Geschwindigkeit. Der PM fragte um 16:47 Uhr. Er will eine Antwort, 
 
 ## Kalibrierung laden
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` → `## Risikokalibrierung` lesen. Der ganze Sinn dieses Skills ist Muster-Erkennung gegen diese Tabelle.
+`~/.claude/plugins/config/claude-für-deutsches-recht/produktrecht/CLAUDE.md` → `## Risikokalibrierung` lesen. Der ganze Sinn dieses Skills ist Muster-Erkennung gegen diese Tabelle.
 
 ## Die Triage
 
@@ -163,4 +163,4 @@ Typische Schnellzitate für häufige Konstellationen:
 - Dark Patterns: § 3 UWG; Köhler, in: Köhler/Bornkamm/Feddersen UWG, 42. Aufl. 2024, § 3 Rn. 1 ff.
 
 <!-- AUDIT 27.05.2026 -->
-<!-- BGH VI ZR 405/18 (claimed: Nutzungsrechte fuer AI-Training, Zweckbindung): WRONG_TOPIC. Urteil existiert (dejure.org/2020,20251, 27.07.2020, NJW 2020, 3436), behandelt aber Delisting-Ansprueche gegen Suchmaschinenbetreiber (Recht auf Vergessenwerden, Art. 17 DSGVO). Kein Bezug zu AI-Training. BGH-Zitat aus Tabellenzeile entfernt; DSGVO Art. 5 Abs. 1 lit. b Verweis beibehalten. -->
+<!-- BGH VI ZR 405/18 (claimed: Nutzungsrechte für AI-Training, Zweckbindung): WRONG_TOPIC. Urteil existiert (dejure.org/2020,20251, 27.07.2020, NJW 2020, 3436), behandelt aber Delisting-Ansprueche gegen Suchmaschinenbetreiber (Recht auf Vergessenwerden, Art. 17 DSGVO). Kein Bezug zu AI-Training. BGH-Zitat aus Tabellenzeile entfernt; DSGVO Art. 5 Abs. 1 lit. b Verweis beibehalten. -->

@@ -19,7 +19,7 @@ Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor
 
 ## Zweck
 
-Einstiegspunkt fuer alle OWi-Mandate im Verkehrsrecht. Erfasst Kontext, bewertet Dringlichkeit und routet zur richtigen Subskill-Anleitung.
+Einstiegspunkt für alle OWi-Mandate im Verkehrsrecht. Erfasst Kontext, bewertet Dringlichkeit und routet zur richtigen Subskill-Anleitung.
 
 ## Sofort-Triage bei Mandatsaufnahme
 
@@ -53,14 +53,14 @@ Einstiegspunkt fuer alle OWi-Mandate im Verkehrsrecht. Erfasst Kontext, bewertet
 | Beweisverwertung standardisiert | `verkehrsowi-beweisverwertung-standardisiert` |
 | Alkohol / Drogen § 24a StVG | `verkehrsowi-alkohol-drogen-24a` |
 | Fahreridentifizierung | `verkehrsowi-fahreridentifizierung` |
-| Anhoerung / Bussgeldbescheid-Pruefung | `verkehrsowi-anhoerung-bussgeldbescheid` |
+| Anhörung / Bussgeldbescheid-Pruefung | `verkehrsowi-anhoerung-bussgeldbescheid` |
 | Haertefall Fahrverbot | `verkehrsowi-haertefall-fahrverbot` |
 | Punkte in Flensburg | `verkehrsowi-punkte-fahrverbot-flensburg` |
 | Hauptverhandlung Amtsgericht | `verkehrsowi-hauptverhandlung-amtsgericht` |
 | Rechtsbeschwerde | `verkehrsowi-rechtsbeschwerde` |
 | Zeugen Polizei Strategie | `verkehrsowi-zeugen-polizei-strategie` |
 | Rotlicht Abstand Handy | `verkehrsowi-rotlicht-abstand-handy` |
-| Verjaehrung Zustellung | `verkehrsowi-verjaehrung-zustellung` |
+| Verjährung Zustellung | `verkehrsowi-verjaehrung-zustellung` |
 | Mandantenkommunikation | `verkehrsowi-mandantenkommunikation` |
 | Quality Gate | `verkehrsowi-quality-gate` |
 
@@ -69,7 +69,7 @@ Einstiegspunkt fuer alle OWi-Mandate im Verkehrsrecht. Erfasst Kontext, bewertet
 - **§ 24 StVG** — Ordnungswidrigkeiten im Strassenverkehr allgemein
 - **§ 24a StVG** — Alkohol (0,5 Promille) und Drogen
 - **§ 25 StVG** — Fahrverbot 1-3 Monate
-- **§ 26 StVG** — Zustaendigkeit Bussgeldbehoerde
+- **§ 26 StVG** — Zuständigkeit Bussgeldbehoerde
 - **§ 67 OWiG** — Einspruch 2-Wochen-Frist
 - **§ 77 OWiG** — Beweisaufnahme, Sachverstaendige
 - **§ 79 OWiG** — Rechtsbeschwerde

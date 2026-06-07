@@ -29,7 +29,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - 13-Wochen-Liquiditätsplanung, Insolvenzreife-Check und Fortbestehensprognose.
@@ -107,7 +107,7 @@ Unterstuetzt Restrukturierungsfaelle mit Planoptionen, Glaeubigerkl assen, Liqui
 
 ## Triage — klaere vor Strukturentscheidung
 
-1. Welcher Insolvenztatbestand liegt vor — drohende Zahlungsunfaehigkeit (§ 18 InsO, Voraussetzung fuer StaRUG) oder bereits Zahlungsunfaehigkeit/Ueberschuldung (§§ 17, 19 InsO, Antragspflicht)?
+1. Welcher Insolvenztatbestand liegt vor — drohende Zahlungsunfaehigkeit (§ 18 InsO, Voraussetzung für StaRUG) oder bereits Zahlungsunfaehigkeit/Ueberschuldung (§§ 17, 19 InsO, Antragspflicht)?
 2. Sind die wesentlichen Glaeubiger (Finanzglaeubiger, Lieferanten, Anleiheglaeubieger) identifiziert und kategorisiert?
 3. Gibt es Plan-Optionen — StaRUG-Restrukturierungsplan, Insolvenzplan, uebertragende Sanierung oder Sale-and-Leaseback?
 4. Liegt ein aktueller Liquiditaetsplan (13-Wochen-Cash-Flow) vor? Ist der Runway bis zur Planbestaetig ung ausreichend?
@@ -116,11 +116,11 @@ Unterstuetzt Restrukturierungsfaelle mit Planoptionen, Glaeubigerkl assen, Liqui
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: Voraussetzung drohende Zahlungsunfaehigkeit (§ 18 InsO); kein oeffentliches Insolvenzverfahren; Planabstimmung mit Glaeubigern
+- §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: Voraussetzung drohende Zahlungsunfaehigkeit (§ 18 InsO); kein öffentliches Insolvenzverfahren; Planabstimmung mit Glaeubigern
 - §§ 217-269 InsO — Insolvenzplan: Sanierungs- oder Liquidationsplan; Glaeubigerzustimmung nach Klassen; Debt-Equity-Swap moeglich
 - §§ 304-337 InsO — Insolvenzverwalter-gesteuerte Planvorbereitung; Abstimmung im Berichts- und Pruefungstermin
 - § 15a InsO — Antragspflicht: 3 Wochen bei Zahlungsunfaehigkeit, 6 Wochen bei Ueberschuldung; Verletzung: Strafbarkeit
-- § 15b InsO — Haftung fuer Zahlungen nach Insolvenzreife; Direktanspruch des Insolvenzverwalters
+- § 15b InsO — Haftung für Zahlungen nach Insolvenzreife; Direktanspruch des Insolvenzverwalters
 - §§ 225a Abs. 2, 3 InsO — Debt-Equity-Swap: Umwandlung von Glaeubigerforderungen in Eigenkapital; Zustimmung Anteilseigner nicht erforderlich bei Ueberschuldung
 - § 8c KStG — steuerlicher Verlustuntergang bei schaedlichem Anteilserwerb; Ausnahme: Sanierungsklausel § 8c Abs. 1a KStG
 
@@ -131,7 +131,7 @@ Unterstuetzt Restrukturierungsfaelle mit Planoptionen, Glaeubigerkl assen, Liqui
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Insolvenztatbestand feststellen:** §§ 17-19 InsO prufen; 13-Wochen-Liquiditaetsplan erstellen; Antragspflicht-Frist notieren
 2. **Verfahrenswahl:** StaRUG (nur bei drohender Zahlungsunfaehigkeit, § 18 InsO) vs. Insolvenzplan (bei Zahlungsunfaehigkeit oder auf Antrag) vs. uebertragende Sanierung
@@ -144,7 +144,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Entscheidungsbaum
 
-- Nur drohende Zahlungsunfaehigkeit → StaRUG moeglich → kein oeffentliches Verfahren; Vertraulichkeit
+- Nur drohende Zahlungsunfaehigkeit → StaRUG moeglich → kein öffentliches Verfahren; Vertraulichkeit
 - Zahlungsunfaehigkeit bereits eingetreten → Antragspflicht § 15a InsO → Insolvenzantrag; ggf. InsO-Plan
 - Mehrheit der Glaeubiger zustimmt, einzelne blockieren → cramdown § 245 InsO → Gericht kann zustimmung ersetzen
 - Debt-Equity-Swap → § 225a InsO → Anteilseigner-Zustimmung nicht erforderlich bei Ueberschuldung
@@ -204,9 +204,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

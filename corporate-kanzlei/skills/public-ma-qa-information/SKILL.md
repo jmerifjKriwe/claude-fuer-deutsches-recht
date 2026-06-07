@@ -33,8 +33,8 @@ Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtang
 4. Aktuelle Beteiligungsquote des Bieters / beabsichtigte Ziel-Quote?
 5. Insiderhandels-/Ad-hoc-Analyse: Kursrelevante Information vorhanden?
 6. BaFin-Voranmeldung und Angebotsdokument: Timeline?
-7. Fairness Opinion / Unabhaengiger Gutachter fuer Angemessenheits-Pruefung erforderlich?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+7. Fairness Opinion / Unabhaengiger Gutachter für Angemessenheits-Pruefung erforderlich?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -95,7 +95,7 @@ Im Public M&A ist jede kursrelevante Information potenzielle Ad-hoc. Kursrelevan
 
 Beim Signing des SPA: Pflicht zur sofortigen Ad-hoc-Meldung (kein Aufschub mehr moeglich).
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -116,7 +116,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — oeffentliches Uebernahmeangebot nach WpUeG | Prozessablauf und Ad-hoc-Meldung nach Template unten |
+| Standard — öffentliches Uebernahmeangebot nach WpUeG | Prozessablauf und Ad-hoc-Meldung nach Template unten |
 | Variante A — Pflichtangebot ausgeloest (30-Prozent-Schwelle) | Mindestpreisberechnung § 31 WpUeG priorisieren |
 | Variante B — feindliche Uebernahme | Abwehrmassnahmen (Poison Pill etc.) evaluieren |
 | Variante C — MAR-Insiderkontrolle vorrangig | Ad-hoc-Pflicht zeitlich sichern; Insiderlisten anlegen |
@@ -140,7 +140,7 @@ gemaess Art. 17 MAR
 [FIRMA] hat heute einen Share Purchase Agreement ueber den Erwerb von [X] % der Anteile
 an [ZIELGESELLSCHAFT] unterzeichnet. Das Transaktionsvolumen betraegt ca. [EUR].
 Die Transaktion steht unter dem Vorbehalt der fusionskontrollrechtlichen Freigabe und
-weiterer ueblicher Vollzugsbedingungen. Der Vollzug wird fuer [QUARTAL] erwartet.
+weiterer ueblicher Vollzugsbedingungen. Der Vollzug wird für [QUARTAL] erwartet.
 
 [FIRMA]
 [KONTAKT]

@@ -63,16 +63,16 @@ Das Modell benötigt folgende Informationen:
 
 ### Aenderungen ab 01.01.2026
 
-Mit dem Gesetz zur Aenderung des Zustaendigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) gelten ab 01.01.2026:
+Mit dem Gesetz zur Aenderung des Zuständigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) gelten ab 01.01.2026:
 
-- Sachliche Zustaendigkeit Amtsgericht (§ 23 Nr. 1 GVG): bis 10.000 EUR (vorher 5.000 EUR).
+- Sachliche Zuständigkeit Amtsgericht (§ 23 Nr. 1 GVG): bis 10.000 EUR (vorher 5.000 EUR).
 - Berufungssumme (§ 511 Abs. 2 Nr. 1 ZPO): 1.000 EUR (vorher 600 EUR).
 - Wertgrenze Nichtzulassungsbeschwerde (§ 26 EGZPO bzw. § 544 Abs. 2 Nr. 1 ZPO): 25.000 EUR (vorher 20.000 EUR).
 - Uebergangsvorschrift: § 47 EGZPO. Massgeblich ist, ob die angegriffene Entscheidung bis 31.12.2025 verkuendet/zugestellt war oder die muendliche Verhandlung vorher geschlossen war.
 
 Quellen:
-- BRAK Mitteilung zur Wertgrenzenreform: https://www.brak.de/newsroom/news/zivilgerichtsbarkeit-hoehere-wertgrenzen-fuer-zustaendigkeit-und-rechtsmittel-ab-112026/
-- Anwaltsblatt zur Praxis: https://anwaltsblatt.anwaltverein.de/de/themen/recht-gesetz/zustaendigkeitsstreitwert-2026
+- BRAK Mitteilung zur Wertgrenzenreform: https://www.brak.de/newsroom/news/zivilgerichtsbarkeit-hoehere-wertgrenzen-für-zuständigkeit-und-rechtsmittel-ab-112026/
+- Anwaltsblatt zur Praxis: https://anwaltsblatt.anwaltverein.de/de/themen/recht-gesetz/zuständigkeitsstreitwert-2026
 - § 47 EGZPO bei dejure: https://dejure.org/gesetze/EGZPO/47.html
 - § 511 ZPO bei dejure: https://dejure.org/gesetze/ZPO/511.html
 

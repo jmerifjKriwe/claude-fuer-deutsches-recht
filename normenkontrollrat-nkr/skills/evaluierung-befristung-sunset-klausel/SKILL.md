@@ -25,7 +25,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 - **NKRG** § 4, § 7 — methodische und berichtende Funktion
 - **Konzept zur Evaluierung neuer Regelungsvorhaben** der Bundesregierung
 - **Leitfaden BMI / NKR** — Evaluierungsmodul
-- **HdR** Teil C — Klauseltechnik fuer Inkrafttreten / Befristung
+- **HdR** Teil C — Klauseltechnik für Inkrafttreten / Befristung
 
 ## Drei Instrumente im Vergleich
 
@@ -35,7 +35,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 | Befristung | Gesetz laeuft aus, soweit nicht verlaengert | 5-10 Jahre |
 | Sunset | Gesetz tritt automatisch ausser Kraft, ohne Verlaengerung neu | 5 Jahre |
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Wann Evaluierungsklausel
 
@@ -92,7 +92,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 >
 > *(1) Das Bundesministerium [Federfuehrer] berichtet dem Bundestag bis zum [TT.MM.JJJJ] ueber die Anwendung und Wirksamkeit dieses Gesetzes. Der Bericht enthaelt insbesondere Aussagen zu*
 > *1. der tatsaechlichen Fallzahl der nach diesem Gesetz Verpflichteten,*
-> *2. dem tatsaechlichen Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung,*
+> *2. dem tatsaechlichen Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung,*
 > *3. der Zielereichung im Sinne von [Konkretisierung],*
 > *4. unbeabsichtigten Folgen sowie Vorschlaegen zur Anpassung.*
 

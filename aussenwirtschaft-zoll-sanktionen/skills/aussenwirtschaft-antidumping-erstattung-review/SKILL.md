@@ -29,7 +29,7 @@ Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfa
 2. Antrag auf Erstattung beim Hauptzollamt (DE) und koordiniert mit EU-Kommission einreichen.
 3. Interim-Review-Antrag (Art. 11 Abs. 3) bei geaenderter Dumping-Situation des Exporteurs.
 4. Sunset-Review-Antrag (Art. 11 Abs. 2) bei Auslauf der Massnahme vorbereiten.
-5. Preisvergleich und Dumping-Margin-Dokumentation fuer Review aufbereiten.
+5. Preisvergleich und Dumping-Margin-Dokumentation für Review aufbereiten.
 6. Fristen beachten: Erstattungsantrag innerhalb 6 Monate nach Zollzahlung.
 
 ## Rechtsrahmen
@@ -37,7 +37,7 @@ Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfa
 - **Art. 11 VO (EU) 2016/1036**: Erstattung, Interim-Review, Sunset-Review und Neuzulassung.
 - **Art. 11 Abs. 8 VO 2016/1036**: Erstattungsantragsverfahren bei gesunkenem Exportpreis.
 - **UZK Art. 116-123**: Allgemeines Zollerstattungsrecht.
-- **Art. 21 UZK-IA**: Antragstellung und Fristen fuer Zollerstattung.
+- **Art. 21 UZK-IA**: Antragstellung und Fristen für Zollerstattung.
 - **§ 21 ZollVG**: Nationale Kontrollbefugnisse.
 
 ## Pruef-Raster
@@ -53,14 +53,14 @@ Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfa
 
 - Erstattungsantrag muss koordiniert mit Hauptzollamt und Kommission gestellt werden.
 - Sunset-Review-Antrag hat strenge Fristen; bei Versaeumnis bleiben Massnahmen automatisch in Kraft.
-- Beweislast fuer gesunkenem Exportpreis liegt beim Importeur; unzureichende Dokumentation fuehrt zu Ablehnung.
+- Beweislast für gesunkenem Exportpreis liegt beim Importeur; unzureichende Dokumentation fuehrt zu Ablehnung.
 - Preisverpflichtungsbruch des Exporteurs kann Erstattungsantrag gefaehrden.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

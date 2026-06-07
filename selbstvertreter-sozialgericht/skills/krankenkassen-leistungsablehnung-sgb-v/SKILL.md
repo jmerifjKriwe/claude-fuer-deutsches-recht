@@ -44,7 +44,7 @@ Die Krankenkasse sagt Nein. Sie wollen die Hilfe trotzdem. Wir zeigen Ihnen, wie
 - **§ 48 SGB V** — Hoechstdauer Krankengeld.
 - **§ 13 Abs. 3a SGB V** — Genehmigungsfiktion.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid pruefen
 

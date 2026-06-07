@@ -21,7 +21,7 @@ Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weitergabe-Beschraen
 
 - Exporteur liefert Dual-Use-Gueter an UAE-Haendler, der weiterliefert nach Russland; No-Russia-Clause verletzt.
 - Zwischenhaendler in Tuerkei kauft Dual-Use-Software; Endverwender unbekannt; Catch-All-Risiko.
-- Lizenzgeber verbietet Re-Export in bestimmte Laender; Lieferant hat Vertrag nicht geprueft.
+- Lizenzgeber verbietet Re-Export in bestimmte Länder; Lieferant hat Vertrag nicht geprueft.
 
 ## Erste Schritte
 
@@ -37,16 +37,16 @@ Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weitergabe-Beschraen
 - **Art. 12g VO (EU) 833/2014**: No-Russia-Clause-Pflicht im Vertrag mit Drittlaender-Kaeufer.
 - **Art. 4 VO (EU) 2021/821**: Catch-All bei Kenntnislage, auch bei indirektem Weitergeben.
 - **AWG § 18**: Strafbarkeit auch bei mittelbarer Beteiligung an unerlaubter Ausfuhr.
-- **§ 9 AWG**: Genehmigungen gelten fuer den Genehmigungsinhaber; keine automatische Weitergabe.
-- **VO (EU) 269/2014 Art. 2**: Bereitstellungsverbot gilt auch fuer mittelbare Weitergabe.**
+- **§ 9 AWG**: Genehmigungen gelten für den Genehmigungsinhaber; keine automatische Weitergabe.
+- **VO (EU) 269/2014 Art. 2**: Bereitstellungsverbot gilt auch für mittelbare Weitergabe.**
 
 ## Pruef-Raster
 
 - [ ] Gesamte Lieferkette bis zum Endverwender abgebildet?
 - [ ] BAFA-Genehmigungsbedingungen auf Weitergabeverbote geprueft?
 - [ ] No-Russia-Clause bei relevanten Gueterkategorien im Vertrag enthalten?
-- [ ] Catch-All-Tatbestand fuer alle identifizierten Zwischenhaendler geprueft?
-- [ ] Red Flags fuer Umgehungsstruktur (UAE, Tuerkei, Armenien) identifiziert?
+- [ ] Catch-All-Tatbestand für alle identifizierten Zwischenhaendler geprueft?
+- [ ] Red Flags für Umgehungsstruktur (UAE, Tuerkei, Armenien) identifiziert?
 - [ ] Entscheidung und Quellenstand dokumentiert?
 
 ## Typische Fallstricke
@@ -54,13 +54,13 @@ Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weitergabe-Beschraen
 - Kenntnis von offensichtlichem Re-Export-Risiko loest Catch-All aus; 'Nichtwissen wollen' genuegt nicht.
 - No-Russia-Clause fehlend bei Anhaenge-XI-Gueter-Export in Drittland ist eigenstaendiger Verstoss.
 - BAFA-Genehmigungsbedingungen schliessen Re-Export oft aus; Kaeufer muss informiert werden.
-- Kettenlieferung ueber mehrere EU-Laender aendert nichts an Auslosung der Genehmigungspflicht.
+- Kettenlieferung ueber mehrere EU-Länder aendert nichts an Auslosung der Genehmigungspflicht.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Re-Export-Pruefmatrix, Lieferketten-Diagramm, No-Russia-Clause-Muster fuer Vertrag und Catch-All-Ausloeser-Bewertung.
+Re-Export-Pruefmatrix, Lieferketten-Diagramm, No-Russia-Clause-Muster für Vertrag und Catch-All-Ausloeser-Bewertung.
 
 ## Quellen
 

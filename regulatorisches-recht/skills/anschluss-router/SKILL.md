@@ -129,7 +129,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `luecken-aufzeiger` | Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG Art. 12 80 AEUV Art. 107. Prüfraster: Normtext Regelungsziele Luecken unbeabsichtigte Folgen… |
 | `regulatorisches-recht-anpassen` | Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Prüfraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf.… |
 | `regulatorisches-recht-kaltstart-interview` | Neues regulatorisches Mandat durch strukturiertes Erstgespraech aufnehmen. KWG WpHG DORA VAG GwG. Prüfraster: Branche Regulierungsrahmen Sachverhalt Fristen Pflichten Risiko. Output: Mandatssteckbrief Normenkarte… |
-| `regulatorisches-recht-mandat-arbeitsbereich` | Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe beteiligte Behoerden. Output: Mandatssteckbrief Arbeitsplan… |
+| `regulatorisches-recht-mandat-arbeitsbereich` | Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe beteiligte Behörden. Output: Mandatssteckbrief Arbeitsplan… |
 | `richtlinien-neufassung` | Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Prüfraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg.… |
 | `richtlinien-vergleich` | Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der… |
 | `stellungnahmen` | Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prüfraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege… |
@@ -137,9 +137,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin deckt das Aufsichtsrecht fuer regulierte Unternehmen ab — Banken, Zahlungsdienstleister, Wertpapierdienstleister, Energieversorger, Telekommunikationsunternehmen, Inkassodienstleister und weitere Sektoren. Es unterstuetzt bei Mandatsaufnahme, Richtlinienpflege, Regulierungsluecken-Analyse, Compliance-Dokumentation und Stellungnahmen gegenueber Behoerden.
+Dieses Plugin deckt das Aufsichtsrecht für regulierte Unternehmen ab — Banken, Zahlungsdienstleister, Wertpapierdienstleister, Energieversorger, Telekommunikationsunternehmen, Inkassodienstleister und weitere Sektoren. Es unterstuetzt bei Mandatsaufnahme, Richtlinienpflege, Regulierungsluecken-Analyse, Compliance-Dokumentation und Stellungnahmen gegenueber Behörden.
 
-Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsgesetz (ZAG), das Wertpapierhandelsgesetz (WpHG), das Geldwaeschegesetz (GwG), die DORA-Verordnung, das EnWG und das TKG. Das Plugin eignet sich fuer Rechtsanwaelte, Compliance-Beauftragte und Unternehmensjuristen, die in regulierten Branchen beraten.
+Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsgesetz (ZAG), das Wertpapierhandelsgesetz (WpHG), das Geldwaeschegesetz (GwG), die DORA-Verordnung, das EnWG und das TKG. Das Plugin eignet sich für Rechtsanwaelte, Compliance-Beauftragte und Unternehmensjuristen, die in regulierten Branchen beraten.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -154,11 +154,11 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 - **KWG** — Kreditwesengesetz; regelt die Zulassung und Beaufsichtigung von Kreditinstituten und Finanzdienstleistungsinstituten.
 - **ZAG** — Zahlungsdiensteaufsichtsgesetz; setzt die PSD2-Richtlinie um und regelt Zahlungsinstitute.
 - **WpHG** — Wertpapierhandelsgesetz; regelt Wohlverhaltenspflichten, Maerkte und Produktueberwachung.
-- **DORA** — Digital Operational Resilience Act (EU-VO 2022/2554); Anforderungen an digitale Betriebsstabilitaet und IKT-Drittanbietervertraege fuer Finanzunternehmen.
+- **DORA** — Digital Operational Resilience Act (EU-VO 2022/2554); Anforderungen an digitale Betriebsstabilitaet und IKT-Drittanbietervertraege für Finanzunternehmen.
 - **MaRisk** — Mindestanforderungen an das Risikomanagement der BaFin; konkretisiert § 25a KWG.
 - **RDG** — Rechtsdienstleistungsgesetz; regelt, wer aussergerichtliche Rechtsdienstleistungen erbringen darf, insbesondere Inkasso.
-- **GwG** — Geldwaeschegesetz; Pflichten fuer Verpflichtete (Banken, Rechtsanwaelte, Immobilienmakler u. a.) zur Geldwaeschepraeventition.
-- **BaFin** — Bundesanstalt fuer Finanzdienstleistungsaufsicht; zustaendige Behoerde fuer KWG, ZAG und WpHG.
+- **GwG** — Geldwaeschegesetz; Pflichten für Verpflichtete (Banken, Rechtsanwaelte, Immobilienmakler u. a.) zur Geldwaeschepraeventition.
+- **BaFin** — Bundesanstalt für Finanzdienstleistungsaufsicht; zuständige Behörde für KWG, ZAG und WpHG.
 
 ## Rechtsgrundlagen
 
@@ -170,7 +170,7 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 - §§ 2 ff. RDG (Zulaessige Rechtsdienstleistungen)
 - § 25a KWG i. V. m. MaRisk (Risikomanagement)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Branche, Regulierungsrahmen und konkretes Rechtsproblem bestimmen.
 2. Mandat strukturieren und Arbeitsbereich abgrenzen (Skill `regulatorisches-recht-kaltstart-interview` oder `regulatorisches-recht-mandat-arbeitsbereich`).
@@ -180,8 +180,8 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 
 ## Skill-Tour (was gibt es hier?)
 
-- `aufsichts-feed-monitor` — Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen fuer Mandanten identifizieren.
-- `dora-ikt-vertragspruefung` — IKT-Drittanbietervertraege auf DORA-Konformitaet pruefen fuer Finanzunternehmen, die digitale Dienstleistungen einkaufen.
+- `aufsichts-feed-monitor` — Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren.
+- `dora-ikt-vertragspruefung` — IKT-Drittanbietervertraege auf DORA-Konformitaet pruefen für Finanzunternehmen, die digitale Dienstleistungen einkaufen.
 - `inkasso-rdg` — Inkasso- und Rechtsdienstleistungserlaubnis nach RDG pruefen, wenn gewerbliche Forderungseinziehung betrieben wird.
 - `luecken` — Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren (KWG, WpHG, DORA, VAG, GwG).
 - `luecken-aufzeiger` — Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen.
@@ -191,13 +191,13 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 - `richtlinien-neufassung` — Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen.
 - `richtlinien-vergleich` — Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen.
 - `stellungnahmen` — Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen.
-- `ustva` — Umsatzsteuervoranmeldung im regulatorischen Kontext pruefen fuer Finanzunternehmen oder regulierte Entitaeten mit USt-Fragen.
+- `ustva` — Umsatzsteuervoranmeldung im regulatorischen Kontext pruefen für Finanzunternehmen oder regulierte Entitaeten mit USt-Fragen.
 
 ## Worauf besonders achten
 
 - Regulatorische Pflichten aendern sich haeufig: EBA-Guidelines, BaFin-Rundschreiben und neue EU-Verordnungen koennen Bestandsregelungen kurzfristig ueberlagern.
 - KWG und ZAG-Erlaubnisse sind vorgelagert — kein Geschaeft ohne Erlaubnis starten.
-- DORA gilt ab 17.01.2025 fuer alle in Art. 2 DORA genannten Finanzentitaeten; IKT-Drittanbietervertraege muessen nachgeruestet werden.
+- DORA gilt ab 17.01.2025 für alle in Art. 2 DORA genannten Finanzentitaeten; IKT-Drittanbietervertraege muessen nachgeruestet werden.
 - Inkasso-Taetigkeiten ohne RDG-Registrierung sind strafbewehrt (§ 20 RDG).
 - Sektorspezifische Normen (EnWG, TKG) haben eigene Aufsichtsstrukturen (BNetzA) neben BaFin — Zustaeindigkeit immer klaeren.
 
@@ -206,7 +206,7 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 - Erlaubnispflicht nach KWG oder ZAG uebersehen: Neue Geschaeftsmodelle (z. B. Krypto, Buy-now-pay-later) werden ohne Vorab-Pruefung gestartet.
 - DORA nur als IT-Thema behandelt: Vertragliche Anforderungen an IKT-Drittanbieter werden von der Rechtsabteilung nicht koordiniert.
 - Luecken in Compliance-Richtlinien nach Gesetzesaenderungen nicht nachgepflegt: Alte MaRisk-Version oder veraltete GwG-Interna bleiben im Einsatz.
-- Fristen fuer Stellungnahmen zu Konsultationsverfahren verpasst: Europ. Behoerden (EBA, ESMA) setzen kurze Fristen.
+- Fristen für Stellungnahmen zu Konsultationsverfahren verpasst: Europ. Behörden (EBA, ESMA) setzen kurze Fristen.
 - Inkasso und Rechtsberatung nicht sauber getrennt: RDG-Grenze wird ueberschritten.
 
 ## Querverweise
@@ -214,7 +214,7 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 - `geldwaeschepraevention-aml-kyc` — GwG-Pflichten werden im spezialisierten AML/KYC-Plugin vertieft.
 - `datenschutzrecht` — DSGVO-Anforderungen begleiten fast alle regulierten Sektoren.
 - `energierecht` — EnWG-spezifische Regulierung bei Versorgern und Netzunternehmen.
-- `vertragsrecht` — Vertragliche Grundlagen fuer IKT-Vertraege und Dienstleisterverhaeltnisse.
+- `vertragsrecht` — Vertragliche Grundlagen für IKT-Vertraege und Dienstleisterverhaeltnisse.
 
 ## Quellen und Aktualitaet
 

@@ -1,13 +1,13 @@
 ---
 name: werftvertrag-hypothek-bestellen
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Neubauprojekt unter Werftvertrag. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bestellt Schiffshypothek als Sicherheit für Finanzierung eines Neubauprojekt unter Werftvertrag. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werftvertrag – Schiffshypothek bestellen
 
 ## Arbeitsbereich
 
-Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Neubauprojekt unter Werftvertrag. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bestellt Schiffshypothek als Sicherheit für Finanzierung eines Neubauprojekt unter Werftvertrag. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel be
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine Bank bestellt eine Hypothek auf ein Neubauprojekt unter Werftvertrag als Sicherheit fuer einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Neubauprojekt unter Werftvertrag als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
+Eine Bank bestellt eine Hypothek auf ein Neubauprojekt unter Werftvertrag als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Neubauprojekt unter Werftvertrag als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
 ## Erste Schritte
 1. Eintragungsfaehigkeit des Neubauprojekt unter Werftvertrags pruefen; Eintragung im Schiffbauwerksregister ab Kiellegung bestaetigen.

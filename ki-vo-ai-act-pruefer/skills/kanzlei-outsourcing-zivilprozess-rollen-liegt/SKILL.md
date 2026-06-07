@@ -1,13 +1,13 @@
 ---
 name: kanzlei-outsourcing-zivilprozess-rollen-liegt
-description: "KI-Outsourcing fuer Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-Outsourcing für Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kanzlei-KI-Outsourcing und Berufsgeheimnis
 
 ## Arbeitsbereich
 
-KI-Outsourcing fuer Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI-Outsourcing für Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ KI-Outsourcing fuer Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsv
 
 ## Zweck
 
-Der Skill erzeugt eine belastbare Prüfung, ob eine Kanzlei oder Rechtsabteilung ein KI-System fuer Aktenanalyse, Recherche, Dokumentenentwurf, Übersetzung oder Review einsetzen darf.
+Der Skill erzeugt eine belastbare Prüfung, ob eine Kanzlei oder Rechtsabteilung ein KI-System für Aktenanalyse, Recherche, Dokumentenentwurf, Übersetzung oder Review einsetzen darf.
 
 ## Norm- und Berufsrechtsanker
 

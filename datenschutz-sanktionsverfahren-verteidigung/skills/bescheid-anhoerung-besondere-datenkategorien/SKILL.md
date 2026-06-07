@@ -1,13 +1,13 @@
 ---
 name: bescheid-anhoerung-besondere-datenkategorien
-description: "Bescheid Anhoerung Besondere Datenkategorien im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Behördenpost richtig lesen, Besondere Datenkategorien Art, Bestimmtheit und Ermessen Art, Beweisrecht im Datenschutz-OWiG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bescheid Anhörung Besondere Datenkategorien im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Behördenpost richtig lesen, Besondere Datenkategorien Art, Bestimmtheit und Ermessen Art, Beweisrecht im Datenschutz-OWiG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Bescheid Anhoerung Besondere Datenkategorien
+# Bescheid Anhörung Besondere Datenkategorien
 
 ## Arbeitsbereich
 
-**Bescheid Anhoerung Besondere Datenkategorien** ordnet den Fall über die tragenden Prüfungslinien: Behördenpost richtig lesen, Besondere Datenkategorien Art, Bestimmtheit und Ermessen Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Bescheid Anhörung Besondere Datenkategorien** ordnet den Fall über die tragenden Prüfungslinien: Behördenpost richtig lesen, Besondere Datenkategorien Art, Bestimmtheit und Ermessen Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

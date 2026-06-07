@@ -23,7 +23,7 @@ Dieser Einstieg routet **Subsumtions Prüfer** vom ersten Sachverhalt zu Rollen,
 - `output-antrag-beschwerde-klageschrift` — Output Antrag Beschwerde Klageschrift
 - `output-fremdsprachig-en-fr` — Output Fremdsprachig En Fr
 - `output-juristisch-gestochen-de` — Output Juristisch Gestochen De
-- `output-waehlen-rechtsprechung-recherche-europarecht` — Output Waehlen Rechtsprechung Recherche Europarecht
+- `output-waehlen-rechtsprechung-recherche-europarecht` — Output Wählen Rechtsprechung Recherche Europarecht
 - `rechtsfolge-bestimmen-einreden-interaktiver` — Rechtsfolge Bestimmen Einreden Interaktiver
 
 ## Arbeitsweg

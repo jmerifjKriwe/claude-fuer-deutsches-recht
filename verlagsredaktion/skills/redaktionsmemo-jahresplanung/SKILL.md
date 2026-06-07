@@ -19,11 +19,11 @@ Erstellt das Jahresheft-Planungsmemo einer juristischen Fachzeitschrift mit Them
 
 ## Worum geht es konkret
 
-Einmal jaehrlich plant die Schriftleitung einer juristischen Fachzeitschrift das kommende Jahr: Welche Schwerpunktthemen werden gesetzt? Welche Aufmacher sind quartalsweise geplant? Welche Autorinnen werden adressiert? Welche Reserve fuer ueberraschende Rspr.? Das Redaktionsmemo Jahresplanung ist das Dokument, das diese Architektur sichtbar macht.
+Einmal jaehrlich plant die Schriftleitung einer juristischen Fachzeitschrift das kommende Jahr: Welche Schwerpunktthemen werden gesetzt? Welche Aufmacher sind quartalsweise geplant? Welche Autorinnen werden adressiert? Welche Reserve für ueberraschende Rspr.? Das Redaktionsmemo Jahresplanung ist das Dokument, das diese Architektur sichtbar macht.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn jaehrlich (typisch September/Oktober fuer das Folgejahr) oder bei Strategiewechseln. Klaeren Sie:
+Sie brauchen ihn jaehrlich (typisch September/Oktober für das Folgejahr) oder bei Strategiewechseln. Klaeren Sie:
 
 1. Welche Zeitschrift, welche Zielgruppe, welcher Heftumfang pro Ausgabe?
 2. Welcher Heftrhythmus (woechentlich NJW, monatlich JuS, vierteljaehrlich)?
@@ -38,16 +38,16 @@ Sie brauchen ihn jaehrlich (typisch September/Oktober fuer das Folgejahr) oder b
 - Vertriebs-/Marketing-Hinweise (welche Themen verkaufen Abos?).
 - Eigene Reihenuebersichten (z. B. "Aktuelle Rspr. zum BGB AT").
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Strategiekern definieren.** Was ist die Identitaet des Heftes im kommenden Jahr (3-5 Saetze)?
 2. **Themen-Architektur in 3 Ebenen:**
  - **Ebene 1 (Konstanten):** Reihen, die jedes Heft fortsetzen.
  - **Ebene 2 (Quartalsschwerpunkte):** Eine fokussierte Reihe pro Quartal.
- - **Ebene 3 (Ad hoc):** Reserve fuer Rspr.-Hits.
-3. **Aufmacherliste fuer das Jahr.** Pro Heft (oder Quartal) ein Aufmacher mit Arbeitstitel, vorgesehener Autorin und Frist. 30 % Reserve.
+ - **Ebene 3 (Ad hoc):** Reserve für Rspr.-Hits.
+3. **Aufmacherliste für das Jahr.** Pro Heft (oder Quartal) ein Aufmacher mit Arbeitstitel, vorgesehener Autorin und Frist. 30 % Reserve.
 4. **Autorenmatrix.** Wer wird wann angefragt, wann kommt Manuskript, wann Druck.
-5. **Rspr.-Reserve.** 15-20 % der Heftflaeche pro Jahr fuer ueberraschende BGH-/EuGH-/BVerfG-Entscheidungen freihalten.
+5. **Rspr.-Reserve.** 15-20 % der Heftflaeche pro Jahr für ueberraschende BGH-/EuGH-/BVerfG-Entscheidungen freihalten.
 6. **Heft-Sondernummern.** Festschriften, Jubilaeen, Konferenz-Sondernummern fest einplanen.
 7. **Memo schreiben.** 6-10 Seiten, mit Tabellen, an Schriftleitung und Verlag.
 8. **Freigaberunde.** Schriftleitung, Beirat, Verlagsleitung. Nach Freigabe: Verbindlichmachung.
@@ -58,7 +58,7 @@ Sie brauchen ihn jaehrlich (typisch September/Oktober fuer das Folgejahr) oder b
 |------|--------------------------------|----------------------------|------------|
 | Planbarkeit | hoch | gering | A bei Quartalsschwerpunkten |
 | Aktualitaet | mittel | hoch | B bei wochenweisem Heft |
-| Autorenakquise | leicht | schwer | A fuer Anfrageplanung |
+| Autorenakquise | leicht | schwer | A für Anfrageplanung |
 | Hybridform | 70 % geplante Aufmacher + 30 % Reserve - Standard |
 
 ## Praxistipps der alten Redaktion
@@ -113,7 +113,7 @@ Festlegung Schriftleitung: 15.10.2026
 ## Quellen Stand 06/2026
 
 - Verlagsgesetz, [https://www.gesetze-im-internet.de/verlg/](https://www.gesetze-im-internet.de/verlg/).
-- UrhG fuer Nutzungsrechte an geplanten Beitraegen.
+- UrhG für Nutzungsrechte an geplanten Beitraegen.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

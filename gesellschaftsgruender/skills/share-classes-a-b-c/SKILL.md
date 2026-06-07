@@ -76,7 +76,7 @@ die Inhaber der Class-A-Anteile nicht weiter am Resterlös teil
 (non-participating).
 
 (3) Class-A-Inhaber koennen anstelle der Liquidation Preference waehlen,
-an der Verteilung anteilig nach Nominalanteil teilzunehmen, wenn dies fuer
+an der Verteilung anteilig nach Nominalanteil teilzunehmen, wenn dies für
 sie rechnerisch vorteilhafter ist.
 ```
 
@@ -99,7 +99,7 @@ B = Gegenwert der neuen Anteile zum bisherigen CP1 in EUR
 C = Anzahl tatsaechlich ausgegebener neuer Anteile
 
 Die Anpassung erfolgt durch Ausgabe zusaetzlicher Class-A-Anteile oder
-durch Aendrung des Ausgabepreises fuer ausstehende Class-A-Anteile.
+durch Aendrung des Ausgabepreises für ausstehende Class-A-Anteile.
 ```
 
 ## Schritt-für-Schritt-Workflow

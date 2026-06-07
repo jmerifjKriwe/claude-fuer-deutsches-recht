@@ -13,7 +13,7 @@ description: "Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG. Anwendungsf
 
 ## Kernsachverhalt
 
-Zuschlaege fuer tatsaechlich geleistete Sonntags-, Feiertags- und Nachtarbeit sind nach § 3 b EStG steuerfrei in bestimmten Grenzen — und mit der entsprechenden Regelung in der SvEV auch SV-frei. Voraussetzungen: tatsaechliche Sonn-/Feiertag-/Nachtarbeit, schriftliche Vereinbarung, Begrenzung auf Hoechstsaetze, Beschraenkung auf Grundlohn bis 50 EUR/Stunde.
+Zuschlaege für tatsaechlich geleistete Sonntags-, Feiertags- und Nachtarbeit sind nach § 3 b EStG steuerfrei in bestimmten Grenzen — und mit der entsprechenden Regelung in der SvEV auch SV-frei. Voraussetzungen: tatsaechliche Sonn-/Feiertag-/Nachtarbeit, schriftliche Vereinbarung, Begrenzung auf Hoechstsaetze, Beschraenkung auf Grundlohn bis 50 EUR/Stunde.
 
 ## Kaltstart-Rueckfragen
 
@@ -106,7 +106,7 @@ Wenn tariflich oder einzelvertraglich hoehere Zuschlaege vereinbart sind, bleibt
 - § 3b EStG ist generoes — bis zu 50 Prozent Sonntagszuschlag steuer- und SV-frei.
 - Bei tarifgebundenen Branchen hoehere Saetze moeglich, aber nur bis Hoechstsatz steuerfrei.
 - Bei Nachtarbeit zusaetzlich ArbZG-Pflichten (Pausen, Gesundheitsuntersuchung).
-- Grundlohn-Grenze 50 EUR/Stunde fuer Topverdiener relevant.
+- Grundlohn-Grenze 50 EUR/Stunde für Topverdiener relevant.
 - StBVV: in Lohnpauschale; komplexe Schichten Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Schichtkonfiguration sorgfaeltig — Zeitgrenzen automatisch.
 

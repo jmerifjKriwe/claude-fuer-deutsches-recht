@@ -50,7 +50,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Sofort-Aufklaerung Mandant:**
  - Schweigerecht des Betroffenen § 55 OWiG.
  - Halterauskunftspflicht § 31a StVZO bleibt (sonst Fahrtenbuchauflage moeglich).
- - Anhoerungsbogen kein Bescheid - keine Einspruchsfrist; trotzdem Reaktion entscheidet ueber weiteres Verfahren.
+ - Anhörungsbogen kein Bescheid - keine Einspruchsfrist; trotzdem Reaktion entscheidet ueber weiteres Verfahren.
  - Bussgeldbescheid: 2 Wochen § 67 OWiG.
 - **Entscheidungsfragen pro Konstellation:**
  - **Geldbusse moderat, keine Punkte:** Akzeptanz oft sinnvoller als Einspruch (Kostenrisiko Verfahren).
@@ -58,6 +58,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
  - **Fahrverbot 1-3 Monate:** Bei Berufskraftfahrer/-Fahrerin oft existenzbedrohend; Antrag auf Wegfall Fahrverbot wegen unzumutbarer Haerte (regelmaessig restriktiv); ggf. Erhoehung Geldbusse als Kompensation moeglich (BGH-Linie).
  - **MPU-Risiko:** ab 1,6 Promille (§ 13 FeV), bei wiederholten Verstoessen, bei Drogen einmalig.
 - **Berufliche Auswirkungen:** Berufskraftfahrer, Aussendienst, Aerzte/Beamte (Pflichtmeldung Disziplinarrecht), Polizei, Lehrer.
-- **Kostenhinweis:** RVG VV 5100 ff. fuer OWi; Rechtsschutzversicherung-Deckung pruefen (Selbstbeteiligung; Wartezeit 3 Monate ueblich; Strafrechtsschutz nur bei nicht vorsaetzlichem Vorwurf).
+- **Kostenhinweis:** RVG VV 5100 ff. für OWi; Rechtsschutzversicherung-Deckung pruefen (Selbstbeteiligung; Wartezeit 3 Monate ueblich; Strafrechtsschutz nur bei nicht vorsaetzlichem Vorwurf).
 - **Mandantenfreigabe schriftlich:** Einspruch / Einspruchsruecknahme / Beschraenkung / Antrag auf Hauptverhandlung statt schriftliches Verfahren § 72 OWiG.
-- **Praxis-Tipp:** Bei sehr hohem Risiko (Fahrverbot bei Berufskraftfahrer) Hauptverhandlung statt schriftlicher Entscheidung; persoenlicher Eindruck Betroffener oft entscheidend.
+- **Praxis-Tipp:** Bei sehr hohem Risiko (Fahrverbot bei Berufskraftfahrer) Hauptverhandlung statt schriftlicher Entscheidung; persönlicher Eindruck Betroffener oft entscheidend.

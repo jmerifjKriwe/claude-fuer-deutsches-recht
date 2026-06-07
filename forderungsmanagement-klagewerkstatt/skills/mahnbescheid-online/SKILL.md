@@ -15,7 +15,7 @@ Strategische und technische Anleitung zum gerichtlichen Mahnverfahren §§ 688-7
 | Schuldner hat angekuendigt Widerspruch zu erheben | NEIN (direkt Klage) |
 | Beweislage komplex, viele Einwendungen erwartet | NEIN |
 | Verbraucher, Bestreiten wahrscheinlich | NEIN |
-| Hauptzweck Verjaehrungshemmung | JA (§ 204 Abs. 1 Nr. 3 BGB) |
+| Hauptzweck Verjährungshemmung | JA (§ 204 Abs. 1 Nr. 3 BGB) |
 | Forderung > 5.000 EUR mit niedrigem Streitwert-Risiko | JA |
 | Unbestimmter Anspruch (Schadensersatz dem Grunde nach) | NICHT zulaessig § 688 Abs. 2 Nr. 1 ZPO |
 | Gegenseitige Vertraege mit Gegenleistungseinrede | nicht ueber MB (§ 688 Abs. 2 Nr. 2 ZPO) |
@@ -25,14 +25,14 @@ Strategische und technische Anleitung zum gerichtlichen Mahnverfahren §§ 688-7
 - Anspruch auf Zahlung **bestimmten Geldbetrages in Euro**.
 - Forderung ist **nicht** von Gegenleistung abhaengig oder Gegenleistung erbracht.
 - Bei Verbrauchergeschaeft: Zinssatz max. 12 % uebersteigt den Basiszinssatz nicht.
-- Zustellung im Inland moeglich (Ausnahme EuMVVO fuer EU-Auslandsfaelle).
+- Zustellung im Inland moeglich (Ausnahme EuMVVO für EU-Auslandsfaelle).
 
 Ausgeschlossen § 688 Abs. 2 ZPO:
 - Nr. 1: unbestimmte Forderungen.
 - Nr. 2: gegenseitige Vertraege mit offener Gegenleistung.
-- Nr. 3: oeffentliche Zustellung notwendig.
+- Nr. 3: öffentliche Zustellung notwendig.
 
-## Zustaendigkeit § 689 ZPO
+## Zuständigkeit § 689 ZPO
 
 **Ausschliesslich** das zentrale Mahngericht des Landes, in dem der Glaeubiger seinen allgemeinen Gerichtsstand hat:
 
@@ -48,13 +48,13 @@ Ausgeschlossen § 688 Abs. 2 ZPO:
 | Sachsen, Sachsen-Anhalt, Thueringen | AG Aschersleben |
 | Saarland, Rheinland-Pfalz | AG Mayen |
 
-Bei Glaeubiger im Ausland: Wahl unter den Mahngerichten (§ 689 Abs. 2 ZPO), AG Wedding (Berlin) fuer ausl. Glaeubiger gegen Bekl. mit Wohnsitz in DE.
+Bei Glaeubiger im Ausland: Wahl unter den Mahngerichten (§ 689 Abs. 2 ZPO), AG Wedding (Berlin) für ausl. Glaeubiger gegen Bekl. mit Wohnsitz in DE.
 
 ## Online-Antragstellung
 
-- Portal: [online-mahnantrag.de](https://www.online-mahnantrag.de) (Bund-Laender-Kooperation)
+- Portal: [online-mahnantrag.de](https://www.online-mahnantrag.de) (Bund-Länder-Kooperation)
 - Format: Barcode-Antrag, professioneller XJustiz-Datensatz oder Online-Formular
-- Anwaltspflicht: nein (auch fuer Privatpersonen moeglich, § 78 Abs. 3 ZPO)
+- Anwaltspflicht: nein (auch für Privatpersonen moeglich, § 78 Abs. 3 ZPO)
 - Bei beruflichem Antrag durch Anwalt: ueber beA EDA-Schnittstelle (§ 690 Abs. 3 ZPO)
 
 ## Inhalt des Antrags § 690 ZPO
@@ -107,7 +107,7 @@ Antrag (online) -> Pruefung Mahngericht -> Erlass MB
 
 - Antrag nach Ablauf 2-Wochen-Frist, spaetestens 6 Monate (§ 701 ZPO).
 - Wirkung: Vollstreckungstitel (§ 794 Abs. 1 Nr. 4 ZPO).
-- Verjaehrung: 30 Jahre (§ 197 Abs. 1 Nr. 4 BGB).
+- Verjährung: 30 Jahre (§ 197 Abs. 1 Nr. 4 BGB).
 - Einspruch: 2 Wochen ab Zustellung (§ 700 Abs. 1 ZPO i.V.m. §§ 338 ff. ZPO).
 - Vorlaeufige Vollstreckbarkeit ohne Sicherheit (§ 700 Abs. 1 ZPO i.V.m. § 708 Nr. 2 ZPO).
 

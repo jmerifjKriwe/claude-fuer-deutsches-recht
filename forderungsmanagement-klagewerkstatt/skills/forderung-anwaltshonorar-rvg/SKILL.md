@@ -1,11 +1,11 @@
 ---
 name: forderung-anwaltshonorar-rvg
-description: "Anwaltshonorar nach RVG einklagen: Vergueetungsvereinbarung § 3a RVG schriftlich, gesetzliche Gebuehren §§ 13 ff. RVG, Vorschuss § 9 RVG. Faelligkeit § 8 RVG mit Erledigung Auftrag oder Beendigung Mandat. Berechnungsschritte: Gegenstandswert via Gebuehrentabelle Anlage 2 RVG via Gebuehrentatbestand VV via Auslagen Nr. 7000 ff. VV."
+description: "Anwaltshonorar nach RVG einklagen: Vergueetungsvereinbarung § 3a RVG schriftlich, gesetzliche Gebühren §§ 13 ff. RVG, Vorschuss § 9 RVG. Faelligkeit § 8 RVG mit Erledigung Auftrag oder Beendigung Mandat. Berechnungsschritte: Gegenstandswert via Gebührentabelle Anlage 2 RVG via Gebührentatbestand VV via Auslagen Nr. 7000 ff. VV."
 ---
 
 # Anwaltshonorar nach RVG
 
-Geltendmachung des Vergueetungsanspruchs des Rechtsanwalts gegen den Mandanten. RVG ist Rahmengesetz, VV-RVG enthaelt die Gebuehrentatbestaende.
+Geltendmachung des Vergueetungsanspruchs des Rechtsanwalts gegen den Mandanten. RVG ist Rahmengesetz, VV-RVG enthaelt die Gebührentatbestaende.
 
 ## Anspruchsgrundlage und Faelligkeit
 
@@ -44,13 +44,13 @@ Folge bei Formverstoss: Mandant schuldet **nur die gesetzliche Vergueetung**, ka
 | Vollstreckung | Forderungswert |
 | Beratung | nach Vereinbarung, Hilfsweise Gegenstandswert |
 
-### Schritt 2: Gebuehrentabelle Anlage 2 RVG
+### Schritt 2: Gebührentabelle Anlage 2 RVG
 
-Gebuehrensaetze gestaffelt nach Gegenstandswert; 0,5 / 1,0 / 1,3 / 1,6 etc.
+Gebührensaetze gestaffelt nach Gegenstandswert; 0,5 / 1,0 / 1,3 / 1,6 etc.
 
 **Beispiel Gegenstandswert 5.000 EUR**: Eine 1,0 Gebuehr ist 334,00 EUR (Stand 2026 nach KostRAEG 2021).
 
-### Schritt 3: Gebuehrentatbestand im VV
+### Schritt 3: Gebührentatbestand im VV
 
 | Nr. VV | Tatbestand | Hoehe |
 |---|---|---|
@@ -63,7 +63,7 @@ Gebuehrensaetze gestaffelt nach Gegenstandswert; 0,5 / 1,0 / 1,3 / 1,6 etc.
 | 1003 | Einigungsgebuehr | 1,0 / 1,5 |
 | 1008 | Mehrvertretungsgebuehr | + 0,3 pro weiteren Auftraggeber |
 
-**Anrechnung Geschaeftsgebuehr auf Verfahrensgebuehr** (Vorbem. 3 Abs. 4 VV): 0,75 (max. 0,75), wenn fuer denselben Gegenstand zusaetzlich Klage betrieben wird.
+**Anrechnung Geschaeftsgebuehr auf Verfahrensgebuehr** (Vorbem. 3 Abs. 4 VV): 0,75 (max. 0,75), wenn für denselben Gegenstand zusaetzlich Klage betrieben wird.
 
 ### Schritt 4: Auslagen
 
@@ -94,7 +94,7 @@ Anwalt kann jederzeit Vorschuss verlangen. Mandant schuldet, sobald gesetzlich o
 
 1. **Berechnung-Anlage** der Klage muss enthalten:
    - Gegenstandswert mit Begruendung.
-   - Gebuehrenposition mit VV-Nr. und Hoehe.
+   - Gebührenposition mit VV-Nr. und Hoehe.
    - Auslagen einzeln.
    - USt-Berechnung.
 2. **Belehrung Mandant** beim Erstkontakt ueber voraussichtliche Vergueetung (§ 49b Abs. 5 BRAO).
@@ -109,7 +109,7 @@ Anwalt kann jederzeit Vorschuss verlangen. Mandant schuldet, sobald gesetzlich o
 | Schaetzung uebersteigt | § 49b Abs. 5 BRAO Belehrung erfolgt? |
 | Vereinbarung formunwirksam | § 3a RVG → nur gesetzliche Gebuehr |
 | Doppel-Geschaeftsgebuehr | Anrechnung Vorbem. 3 (4) VV |
-| Verjaehrung | § 195 BGB 3 Jahre ab Schluss Mandat |
+| Verjährung | § 195 BGB 3 Jahre ab Schluss Mandat |
 
 ## Honorarklage – Streitwertbestimmung
 

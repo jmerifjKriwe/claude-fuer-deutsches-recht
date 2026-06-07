@@ -19,7 +19,7 @@ Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert An
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, die infolge eines Dienstunfalls dienstunfaehig in den Ruhestand versetzt werden und Unfallruhegehalt nach § 36 BeamtVG geltend machen.
+Skill für Beamte, die infolge eines Dienstunfalls dienstunfaehig in den Ruhestand versetzt werden und Unfallruhegehalt nach § 36 BeamtVG geltend machen.
 
 ## 2. Eingaben
 
@@ -36,8 +36,8 @@ Skill fuer Beamte, die infolge eines Dienstunfalls dienstunfaehig in den Ruhesta
 - Ruhestandsversetzung wegen Dienstunfaehigkeit.
 
 ### b) Bemessungsgrundlage
-- Unfallruhegehalt mindestens 66 v. H. der ruhegehaltfaehigen Dienstbezuege; Sonderbestimmungen fuer qualifizierte Dienstunfaelle.
-- Erhoehte Versorgung fuer Einsatzunfaelle bei Auslandsverwendung und im polizeilichen Einsatz.
+- Unfallruhegehalt mindestens 66 v. H. der ruhegehaltfaehigen Dienstbezuege; Sonderbestimmungen für qualifizierte Dienstunfaelle.
+- Erhoehte Versorgung für Einsatzunfaelle bei Auslandsverwendung und im polizeilichen Einsatz.
 
 ### c) Verhaeltnis zum regulaeren Ruhegehalt
 - Hoehere Versorgung als die normale Berechnung; Versorgungsabschlag bei vorzeitigem Ruhestand entfaellt.

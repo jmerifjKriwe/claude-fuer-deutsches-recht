@@ -23,8 +23,8 @@ Ein Hypothekengläubiger will ein Containerlinienfrachtschiff arrestieren; Kredi
 ## Erste Schritte
 1. Seeforderung nach ISAC 1952 Art. 1 gegenueber Eigentuemer des Containerlinienfrachtschiff konkretisieren.
 2. Arrestgrund glaublhaft machen: {vessel} wird Hafen verlassen; Reeder insolvent.
-3. LG am Liegeplatz (ZPO § 919) als zustaendiges Gericht bestimmen.
-4. Arrestbeschluss beantragen; ohne Anhoerung des Gegners moeglich.
+3. LG am Liegeplatz (ZPO § 919) als zuständiges Gericht bestimmen.
+4. Arrestbeschluss beantragen; ohne Anhörung des Gegners moeglich.
 5. Vollziehung: Eintragung im Register (SchRegO § 67) binnen einem Monat.
 6. Freigabestrategie: LOU des P&I-Clubs oder Barzahlung als Alternative vorbereiten.
 

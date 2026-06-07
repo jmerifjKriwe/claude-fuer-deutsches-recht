@@ -30,7 +30,7 @@ Skills in den beobachteten Registries finden. Suchen, Vorschau anzeigen, entsche
 ## Eingaben
 
 - Suchbegriff (optional — ohne Argument werden alle Skills aller Registries aufgelistet)
-- Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → beobachtete Registries
+- Kanzleiprofil: `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → beobachtete Registries
 - Optional: URL einer neuen Registry, die hinzugefügt werden soll
 
 ## Ablauf
@@ -90,7 +90,7 @@ Wenn der Nutzer eine URL zu einer Registry hat, die nicht in der Watchlist ist:
 
 1. URL abrufen, validieren dass es sich um ein Skills-Repo handelt (hat `skills/` oder `.claude-plugin/`)
 2. Anzeigen, was darin enthalten ist (Vorschau)
-3. Zur Watchlist hinzufügen: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → beobachtete Registries — nur nach Bestätigung
+3. Zur Watchlist hinzufügen: `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → beobachtete Registries — nur nach Bestätigung
 
 **Sicherheitshinweis beim Hinzufügen einer Registry:**
 > "Eine neue Registry hinzuzufügen bedeutet, dass deren Skills für die Installation verfügbar werden. Prüfen Sie, wer die Registry betreibt und welche Skills sie enthält, bevor Sie sie als vertrauenswürdig einstufen. Für Kanzleibetrieb mit Mandantendaten sollten nur Registries vertrauenswürdiger Quellen hinzugefügt werden."

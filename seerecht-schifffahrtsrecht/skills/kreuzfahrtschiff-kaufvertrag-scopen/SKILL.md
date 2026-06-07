@@ -1,13 +1,13 @@
 ---
 name: kreuzfahrtschiff-kaufvertrag-scopen
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag fuer Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag für Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kreuzfahrtschiff – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag fuer Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag für Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,12 +21,12 @@ Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger
 Ein Investor kauft ein Kreuzfahrtschiff oder grosses Fahrgastschiff; Risiken aus Altlasten und Zertifikatsmängeln sind zu identifizieren. Ein Reeder veräußert ein Kreuzfahrtschiff oder grosses Fahrgastschiff unter Zeitdruck; Gewährleistungsausschlüsse sind zu prüfen. Eine Bank finanziert den Kauf und möchte Vertragsrisiken kennen.
 
 ## Erste Schritte
-1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen fuer Kreuzfahrtschiff oder grosses Fahrgastschiff.
+1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Kreuzfahrtschiff oder grosses Fahrgastschiff.
 2. Lastenuebergang pruefen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
 3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan pruefen.
 4. Zertifikatsstatus klaeren: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
 5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
-6. Escrow-Mechanismus fuer simultane Zahlung und Eigentumsuebergang aufsetzen.
+6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 
 ## Rechtsrahmen
 - HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. ISPS-Code Hafen-Sicherheit; SOLAS Kap. II-2 Brandschutz; MLC Passagierschiffe.
@@ -36,15 +36,15 @@ Ein Investor kauft ein Kreuzfahrtschiff oder grosses Fahrgastschiff; Risiken aus
 - Enthaelt der Kaufvertrag eine umfassende Freistellungsklausel?
 - Sind Zertifikate (Klasse/ISM/MLC) als Closing-Bedingungen definiert?
 - Ist der Gewaehrleistungsausschluss rechtswirksam?
-- Ist Escrow-Mechanismus fuer simultane Transaktion vorgesehen?
+- Ist Escrow-Mechanismus für simultane Transaktion vorgesehen?
 
 ## Typische Fallstricke
-- Kaeufer haftet mit Kreuzfahrtschiff oder grosses Fahrgastschiff fuer Altschulden bis zur Loeschung.
+- Kaeufer haftet mit Kreuzfahrtschiff oder grosses Fahrgastschiff für Altschulden bis zur Loeschung.
 - Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
 - Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
 
 ## Output
-Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste fuer Kreuzfahrtschiff oder grosses Fahrgastschiff.
+Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste für Kreuzfahrtschiff oder grosses Fahrgastschiff.
 
 ## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
 International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.

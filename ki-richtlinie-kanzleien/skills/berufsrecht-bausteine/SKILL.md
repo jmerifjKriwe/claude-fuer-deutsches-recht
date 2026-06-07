@@ -42,7 +42,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Berufsrechts-Check KI-Einsatz fuer Kanzlei erstellen | Baustein-Set nach Schema; Template unten |
+| Standard — Berufsrechts-Check KI-Einsatz für Kanzlei erstellen | Baustein-Set nach Schema; Template unten |
 | Variante A — Kanzlei hat bereits BRAO-Richtlinie | Delta-Update statt Neuerstellung; bestehende Richtlinie ergaenzen |
 | Variante B — Internationales Buero mehrere Rechtsordnungen | Separate Bausteine pro Jurisdiction; gemeinsamer Rahmen |
 | Variante C — Mandant ist selbst Kanzlei Beratung nicht Kanzlei intern | Externe Beratungsperspektive; nicht interne Richtlinie |
@@ -66,7 +66,7 @@ Alle von KI-Systemen generierten Fundstellen, Zitate und Rechtsangaben sind ausn
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -91,7 +91,7 @@ Die BRAK und der DAV aktualisieren ihre Hinweise und Stellungnahmen fortlaufend.
 3. Hat der KI-Anbieter seinen Sitz ausserhalb der EU — droht ein CLOUD Act-Zugriff?
 4. Werden KI-Ausgaben ohne menschliche Pruefung verwendet — Haftungsrisiko nach § 280 BGB?
 5. Ist die KI in der Lage, Mandate anderer Mandanten zu verwechseln — Interessenkonflikt-Risiko?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Berufsrechts-Check KI-Einsatz
 **Adressat:** Kanzlei-Management / Senior-Partner — Tonfall: strukturiert, berufsrechtlich

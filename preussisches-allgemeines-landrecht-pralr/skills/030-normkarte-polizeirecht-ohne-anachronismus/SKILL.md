@@ -23,7 +23,7 @@ ALR-Polizeirecht ohne Anachronismus — historische Lektuere statt moderne Proje
 
 ## ALR II 17 § 10
 
-"Die noethigen Anstalten zur Erhaltung der oeffentlichen Ruhe, Sicherheit und Ordnung, und zur Abwendung der dem Publico, oder einzelnen Mitgliedern desselben, bevorstehenden Gefahren, zu treffen, ist das Amt der Polizey."
+"Die noethigen Anstalten zur Erhaltung der öffentlichen Ruhe, Sicherheit und Ordnung, und zur Abwendung der dem Publico, oder einzelnen Mitgliedern desselben, bevorstehenden Gefahren, zu treffen, ist das Amt der Polizey."
 
 ## Kontext
 

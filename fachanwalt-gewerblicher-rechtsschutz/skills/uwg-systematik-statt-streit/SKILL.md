@@ -344,7 +344,7 @@ In Marken-, Patent-, Design- und Wettbewerbsrecht typische Interessen-Cluster:
 - Steuerliche Optimierung (Vergleich vs. Klage: ertragsteuerliche Behandlung)
 - Vertraulichkeit (NDA im Vergleich)
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ```
 Schritt 1: Analyse BATNA und ZOPA

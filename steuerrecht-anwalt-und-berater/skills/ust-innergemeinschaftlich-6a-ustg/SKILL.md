@@ -1,6 +1,6 @@
 ---
 name: ust-innergemeinschaftlich-6a-ustg
-description: "Praxispruefung der Steuerbefreiung fuer innergemeinschaftliche Lieferungen — Tatbestandsvoraussetzungen Quick-Fixes Beleg- und Buchnachweis Gelangensbestaetigung und Verschaerfungen seit 2020. Anwendungsfall Aussenpruefung versagt die Steuerbefreiung wegen fehlender USt-IdNr fehlender Gelangensbestaetigung oder Verdacht auf Reihengeschaeft. Behandelt § 6a UStG iVm § 17a UStDV gueltige USt-IdNr Abgleich VIES Sammelmeldung. Output Pruefraster mit Nachweismatrix. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg."
+description: "Praxispruefung der Steuerbefreiung für innergemeinschaftliche Lieferungen — Tatbestandsvoraussetzungen Quick-Fixes Beleg- und Buchnachweis Gelangensbestaetigung und Verschaerfungen seit 2020. Anwendungsfall Aussenpruefung versagt die Steuerbefreiung wegen fehlender USt-IdNr fehlender Gelangensbestaetigung oder Verdacht auf Reihengeschaeft. Behandelt § 6a UStG iVm § 17a UStDV gueltige USt-IdNr Abgleich VIES Sammelmeldung. Output Pruefraster mit Nachweismatrix. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg."
 ---
 
 # Innergemeinschaftliche Lieferung — § 6a UStG und Beleg- und Buchnachweis
@@ -18,11 +18,11 @@ description: "Praxispruefung der Steuerbefreiung fuer innergemeinschaftliche Lie
 3. Wurde die Lieferung in der Zusammenfassenden Meldung § 18a UStG zutreffend gemeldet?
 4. Reihengeschaeft — wem wird die warenbewegte Lieferung zugeordnet?
 5. Sind die Buchnachweise § 17c UStDV vollstaendig?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **§ 4 Nr. 1b UStG** — Steuerbefreiung fuer innergemeinschaftliche Lieferungen.
+- **§ 4 Nr. 1b UStG** — Steuerbefreiung für innergemeinschaftliche Lieferungen.
 - **§ 6a UStG** — Voraussetzungen.
 - **§ 17a UStDV** — Belegnachweis.
 - **§ 17c UStDV** — Buchnachweis.

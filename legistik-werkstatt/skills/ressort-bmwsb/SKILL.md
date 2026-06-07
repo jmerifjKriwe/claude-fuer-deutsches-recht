@@ -1,16 +1,16 @@
 ---
 name: ressort-bmwsb
-description: "Heranfuehrung Ressort BMWSB (Bundesministerium fuer Wohnen; Stadtentwicklung und Bauwesen). Schwerpunkt: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung. Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG. Fuenf Spezialfelder: bau-und-planungsrecht-baugb-baunvo; mietrecht-und-wohnungspolitik; stadtentwicklung-und-foerderprogramme; bauproduktenrecht-und-technische-normen; energetische-sanierung-und-geg. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmwsb und legw-bmwsb-Themenslug."
+description: "Heranfuehrung Ressort BMWSB (Bundesministerium für Wohnen; Stadtentwicklung und Bauwesen). Schwerpunkt: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung. Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG. Fuenf Spezialfelder: bau-und-planungsrecht-baugb-baunvo; mietrecht-und-wohnungspolitik; stadtentwicklung-und-foerderprogramme; bauproduktenrecht-und-technische-normen; energetische-sanierung-und-geg. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmwsb und legw-bmwsb-Themenslug."
 ---
 
 # Ressort-Heranfuehrung BMWSB
 
 > Heranfuehrungs-Skill nach `legw-ressort-router`. Politikwissenschaftliche Legistinnen und Legisten
-> bekommen hier das Sachfeld-Verstaendnis fuer das Ressort, bevor sie an Normtext und Begruendung gehen.
+> bekommen hier das Sachfeld-Verstaendnis für das Ressort, bevor sie an Normtext und Begruendung gehen.
 
 ## Ressort-Stammdaten
 
-- **Volltitel:** Bundesministerium fuer Wohnen; Stadtentwicklung und Bauwesen
+- **Volltitel:** Bundesministerium für Wohnen; Stadtentwicklung und Bauwesen
 - **Kuerzel:** BMWSB
 - **Hausleitung Stand 2026:** Verena Hubertz (SPD)
 - **Dienstsitz:** Krausenstr. 17-18; 10117 Berlin; Zweitsitz Deichmanns Aue 31-37; 53179 Bonn
@@ -22,13 +22,13 @@ description: "Heranfuehrung Ressort BMWSB (Bundesministerium fuer Wohnen; Stadte
 ### Worum geht es sachlich
 
 Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung. Dieses Ressort ist nicht primaer Politik; es ist sachverstaendige Verwaltung
-einer Lebenswelt - Behoerden; Verbaende; technische Regeln; europaeische Rechtsakte und
+einer Lebenswelt - Behörden; Verbaende; technische Regeln; europaeische Rechtsakte und
 Vollzugspraxis greifen ineinander.
 
 ### Wer spielt mit
 
 - **Federfuehrendes Referat** (im BMWSB)
-- **Nachgeordnete Behoerden und Aufsichten** des Geschaeftsbereichs
+- **Nachgeordnete Behörden und Aufsichten** des Geschaeftsbereichs
 - **Bundesrat-Ausschuss** (bei zustimmungs- oder einspruchspflichtigen Vorhaben)
 - **Bundestags-Fachausschuss** (BMWSB-Spiegel)
 - **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
@@ -45,7 +45,7 @@ gerichts-Linie und BVerwG-Linie.
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
  konsistent halten (siehe `terminologie-konsistenz`).
-- **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
+- **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Ländern oder nachgeordneten Behörden;
  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
  (siehe `goldplating-vermeiden`).
@@ -85,7 +85,7 @@ in das Auftragsblatt einpflegen.
 ### Schritt 2 - Spezialfeld waehlen
 
 Aus den fuenf Spezialfeldern (siehe oben) das passende waehlen. Bei Mehrfachbezug: das
-schwerpunktmaessige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
+schwerpunktmäßige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
 
 ### Schritt 3 - Ressortaufgaben-Skill rufen
 
@@ -102,12 +102,29 @@ Verbaendeanhoerung; Bundestagsweg; Aufsicht).
 
 Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einstieg in die 10 RuleMapping-Skills (Abschluss mit `legw-rmap-anschluss-an-legw`).
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort: BMWSB - Bundesministerium fuer Wohnen; Stadtentwicklung und Bauwesen
+Ressort: BMWSB - Bundesministerium für Wohnen; Stadtentwicklung und Bauwesen
 Hausleitung: Verena Hubertz (SPD)
 Materie: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung.
 Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG.
@@ -121,7 +138,7 @@ Naechster Skill: legw-ressortaufgaben-bmwsb
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

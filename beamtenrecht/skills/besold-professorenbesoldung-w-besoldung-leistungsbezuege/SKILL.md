@@ -19,7 +19,7 @@ Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge. Die Prüfung ko
 
 ## Aufgabe
 
-Skill fuer Professorenbesoldung — W-Besoldung und Leistungsbezuege.
+Skill für Professorenbesoldung — W-Besoldung und Leistungsbezuege.
 
 ## Norm
 
@@ -37,7 +37,7 @@ Skill fuer Professorenbesoldung — W-Besoldung und Leistungsbezuege.
 ## BVerfG-Linie
 
 - BVerfG 2 BvL 4/10 vom 14.02.2012 ("W2-Hessen-Urteil"): W2-Grundgehalt zu niedrig.
-- Reform W-Besoldung in mehreren Laendern.
+- Reform W-Besoldung in mehreren Ländern.
 
 ## Pruefraster
 

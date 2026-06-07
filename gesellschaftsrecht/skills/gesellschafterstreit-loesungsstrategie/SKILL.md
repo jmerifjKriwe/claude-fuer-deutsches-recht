@@ -70,7 +70,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 11 | BATNA / ZOPA | BATNA beider Seiten; ZOPA ermitteln; wirtschaftliche Folgen ohne Einigung | Verhandlungsrahmen abstecken |
 | 12 | Buy-Sell-Klauseln | Russian Roulette / Texas Shootout vorhanden? Aktivierung sinnvoll? | Klausel analysieren und Ablauf simulieren |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Sachverhalt aufnehmen:** Satzung, Gesellschafterliste, Beschlussprotokoll, Anstellungsvertrag GF, Wirtschaftsstatus.
 2. **Schiedsklausel prüfen:** DIS/ICC/Ad-hoc; bei wirksamer Klausel Schiedsgericht statt ordentliches Gericht.

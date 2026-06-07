@@ -123,7 +123,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `buyout-im-ma-deal-asset-vs-share` | Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung,… |
-| `country-by-country-benefits-matrix-konzern` | Laenderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards,… |
+| `country-by-country-benefits-matrix-konzern` | Länderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards,… |
 | `cta-contractual-trust-arrangement-strukturierung` | CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output:… |
 | `drei-stufen-theorie-eingriffsanalyse` | Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung,… |
 | `expatriate-pensionsplanung-und-totalization` | Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht,… |
@@ -159,7 +159,7 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 - **Durchfuehrungsweg** — Eine der fuenf gesetzlich anerkannten Formen der bAV: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds (§§ 1 1b BetrAVG).
 - **CTA** — Contractual Trust Arrangement; Treuhandkonstruktion zur Auslagerung von Pensionsverpflichtungen mit IFRS-Saldierungswirkung.
 - **Drei-Stufen-Theorie** — BAG-Rechtsprechung zum Schutz erdienter Anwartschaften: Je groesser der Eingriff, desto hoeher die Anforderungen an die Rechtfertigung.
-- **PSV** — Pensionssicherungsverein; gesetzlicher Insolvenzschutzmechanismus fuer bestimmte bAV-Durchfuehrungswege.
+- **PSV** — Pensionssicherungsverein; gesetzlicher Insolvenzschutzmechanismus für bestimmte bAV-Durchfuehrungswege.
 - **Pension Buyout** — Uebertragung von Pensionsverpflichtungen auf einen Versicherer oder ein CTA zur Bilanzbereinigung (De-Risking).
 - **IORP-II** — EU-Richtlinie ueber Taetigkeiten und Beaufsichtigung von Einrichtungen der betrieblichen Altersversorgung.
 - **Unverfallbarkeit** — Gesetzlicher Schutz erdienter Anwartschaften: Nach Ablauf der Unverfallbarkeitsfrist bleiben Ansprueche auch bei Arbeitgeberwechsel erhalten (§ 1b BetrAVG).
@@ -184,9 +184,9 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 - DSGVO Art. 44 ff. — Drittlandtransfer bei internationalen bAV-Daten
 - EG-VO 883/2004 — Koordinierung der Sozialversicherungssysteme in der EU
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Konzernstruktur und bAV-Ist-Stand erfassen (Durchfuehrungswege, Laender, Beschaeftigtenzahl).
+1. Konzernstruktur und bAV-Ist-Stand erfassen (Durchfuehrungswege, Länder, Beschaeftigtenzahl).
 2. Handlungsanlass bestimmen (Neueinfuehrung, Harmonisierung nach M-und-A, Eingriff in Anwartschaften, Buyout).
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
 4. Mitbestimmungsrechtliche Anforderungen pruefen (Betriebsrat, Einigungsstelle).
@@ -195,17 +195,17 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 ## Skill-Tour (was gibt es hier?)
 
 - `buyout-im-ma-deal-asset-vs-share` — bAV-Haftungsuebergang im M-und-A-Deal bei Asset-Deal vs. Share-Deal strukturieren.
-- `country-by-country-benefits-matrix-konzern` — Laenderuebergreifende Benefits-Matrix fuer internationalen Konzern: Versorgungsniveaus im Vergleich.
-- `cta-contractual-trust-arrangement-strukturierung` — CTA-Struktur fuer Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell und IFRS-Saldierung.
+- `country-by-country-benefits-matrix-konzern` — Länderuebergreifende Benefits-Matrix für internationalen Konzern: Versorgungsniveaus im Vergleich.
+- `cta-contractual-trust-arrangement-strukturierung` — CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell und IFRS-Saldierung.
 - `drei-stufen-theorie-eingriffsanalyse` — Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden und Eingriff rechtfertigen.
-- `expatriate-pensionsplanung-und-totalization` — Pensionsplanung fuer Expatriates: Totalisierungsabkommen und Pensionslueckenanalyse.
-- `governance-und-anpassungsmechanismen` — Governance-Strukturen und Anpassungsmechanismen fuer die Versorgungsordnung im Konzern entwerfen.
+- `expatriate-pensionsplanung-und-totalization` — Pensionsplanung für Expatriates: Totalisierungsabkommen und Pensionslueckenanalyse.
+- `governance-und-anpassungsmechanismen` — Governance-Strukturen und Anpassungsmechanismen für die Versorgungsordnung im Konzern entwerfen.
 - `harmonisierung-und-migration-rechtssicher` — bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren.
 - `historisch-gewachsene-altsysteme-due-diligence` — Due Diligence historisch gewachsener bAV-Altsysteme: Bestandsanalyse und Haftungsrisiken.
 - `internationale-buyout-datenflows-und-datenschutz` — Datenfluesse bei internationalem bAV-Buyout nach DSGVO und Drittlandtransfer absichern.
 - `internationale-harmonisierung-konzern-bav` — Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance.
-- `japan-bav-und-corporate-pension-iorp` — Japanisches Pensionssystem und IORP-Vergleich fuer europaeische Konzerne analysieren.
-- `kollektivrechtliche-loesungen-und-sozialplan` — Kollektivrechtliche Loesungen fuer bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle.
+- `japan-bav-und-corporate-pension-iorp` — Japanisches Pensionssystem und IORP-Vergleich für europaeische Konzerne analysieren.
+- `kollektivrechtliche-loesungen-und-sozialplan` — Kollektivrechtliche Loesungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle.
 - `mitbestimmung-betriebsrat-einigungsstelle-bav` — Betriebsratsbeteiligung bei bAV-Einfuehrung und -Aenderung rechtssicher sicherstellen.
 - `pension-buyout-strukturierung-und-de-risking` — Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung und Bilanzbereinigung.
 - `pensionsmodelle-fuenf-durchfuehrungswege` — Alle fuenf Durchfuehrungswege vergleichen und den passenden Weg empfehlen.
@@ -231,7 +231,7 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 ## Querverweise
 
 - `insolvenzverwaltung` — Bei Insolvenz des Arbeitgebers greift PSV-Schutz; Schnittstelle zur Masseverbindlichkeit.
-- `kanzlei-allgemein` — Allgemeines Kanzlei-Workflow-Plugin fuer Fristen und Schriftsaetze in bAV-Mandaten.
+- `kanzlei-allgemein` — Allgemeines Kanzlei-Workflow-Plugin für Fristen und Schriftsaetze in bAV-Mandaten.
 - `tabellenreview-3d` — Massenpruefung von bAV-Vertragsstapeln im 3D-Review.
 
 ## Quellen und Aktualitaet

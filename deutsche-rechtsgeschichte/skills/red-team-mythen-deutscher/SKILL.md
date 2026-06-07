@@ -1,13 +1,13 @@
 ---
 name: red-team-mythen-deutscher
-description: "Deutsche Rechtsgeschichte: Red-Team gegen verbreitete Mythen. BGB als burgerliches Recht nur fuer Reiche, Weimarer Republik scheiterte zwangslaeufig, NS-Recht war kein Recht und DDR-Recht war nur Befehlsrecht."
+description: "Deutsche Rechtsgeschichte: Red-Team gegen verbreitete Mythen. BGB als burgerliches Recht nur für Reiche, Weimarer Republik scheiterte zwangslaeufig, NS-Recht war kein Recht und DDR-Recht war nur Befehlsrecht."
 ---
 
 # Red-Team Mythen deutscher Rechtsgeschichte
 
 ## Worum es geht
 
-In der Rechtswissenschaft und im oeffentlichen Diskurs existieren hartnäckige Mythen zur deutschen Rechtsgeschichte. Das Red-Team-Verfahren prüft diese systematisch: (1) Mythos formulieren, (2) Belegbasis prüfen, (3) Gegenbelege suchen, (4) nuancierte These entwickeln. Klassische Mythen: Das BGB war ein Gesetz fuer die Bourgeoisie gegen die Arbeiter (widerlegbar durch § 618 BGB Fürsorgepflicht, §§ 611-630 BGB Dienstvertragsrecht); die Weimarer Republik musste scheitern (widerlegbar durch Kontrafaktik); NS-Recht war kein Recht (Radbruch-Formel-Debatte); das DDR-Recht war willkuerlich und ohne System (widerlegbar durch ZGB 1975, AGO).
+In der Rechtswissenschaft und im öffentlichen Diskurs existieren hartnäckige Mythen zur deutschen Rechtsgeschichte. Das Red-Team-Verfahren prüft diese systematisch: (1) Mythos formulieren, (2) Belegbasis prüfen, (3) Gegenbelege suchen, (4) nuancierte These entwickeln. Klassische Mythen: Das BGB war ein Gesetz für die Bourgeoisie gegen die Arbeiter (widerlegbar durch § 618 BGB Fürsorgepflicht, §§ 611-630 BGB Dienstvertragsrecht); die Weimarer Republik musste scheitern (widerlegbar durch Kontrafaktik); NS-Recht war kein Recht (Radbruch-Formel-Debatte); das DDR-Recht war willkuerlich und ohne System (widerlegbar durch ZGB 1975, AGO).
 
 ## Kernnormen / Kernquellen
 
@@ -30,7 +30,7 @@ In der Rechtswissenschaft und im oeffentlichen Diskurs existieren hartnäckige M
 2. Haette die WRV ohne Wirtschaftskrise ueberlebt? Strukturelle vs. kontingente Erklaerungen
 3. BGB und soziale Frage: Was fehlte wirklich? (Arbeiterschutz, Mieterschutz, Verbraucherschutz)
 4. DDR-Recht als eigenstaendige Rechtsordnung oder permanente Ausnahmeherrschaft?
-5. NS-Richter nach 1945: Kontinuitaet als Institutionen-Argument oder persoenliche Schuld?
+5. NS-Richter nach 1945: Kontinuitaet als Institutionen-Argument oder persönliche Schuld?
 
 ## Methodik
 
@@ -39,9 +39,26 @@ In der Rechtswissenschaft und im oeffentlichen Diskurs existieren hartnäckige M
 - Anton Mengers BGB-Kritik: Das buergerliche Recht (1890) als historische Gegenquelle
 - DDR-ZGB: GBl. I DDR 1975, 465; BVerfGE 94, 12 als Orientierung
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
-- Red-Team-Analyse fuer 5 klassische Rechtsgeschichts-Mythen
+- Red-Team-Analyse für 5 klassische Rechtsgeschichts-Mythen
 - Fuer jeden Mythos: Belege, Gegenbelege, nuancierte These
 - Methodennotiz: Wie man Mythos von historischer Faktenlage trennt
 

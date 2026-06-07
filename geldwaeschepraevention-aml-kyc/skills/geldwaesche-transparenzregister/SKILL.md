@@ -23,14 +23,14 @@ Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwend
 3. Soll eine Unstimmigkeitsmeldung nach § 23a GwG erstattet werden?
 4. Handelt es sich um eine initiale Eintragung, eine Aenderung oder eine Loeschung?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 18-26 GwG — Transparenzregister: Eintragungspflicht, Inhalt, Aktualisierung
 - § 23a GwG — Unstimmigkeitsmeldung bei Abweichungen
 - § 19 GwG — Wirtschaftlich Berechtigte: 25-Prozent-Schwelle und fiktiver Eigentuemer
-- Art. 30 AMLD5 — EU-Vorgaben fuer Transparenzregister
+- Art. 30 AMLD5 — EU-Vorgaben für Transparenzregister
 
 ## Quellenregel
 

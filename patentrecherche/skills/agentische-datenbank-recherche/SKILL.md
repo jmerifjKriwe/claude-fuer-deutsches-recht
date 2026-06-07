@@ -173,7 +173,7 @@ Bevor die Datenbankrecherche gestartet wird, klaere:
 1. Was ist das prioritaere Rechercheziel — Neuheitspruefung, FTO oder Stand-der-Technik?
 2. Sind alle relevanten Datenbanken zugaenglich (Espacenet, USPTO, Patentscope, J-PlatPat)?
 3. Wurden die Schluesselbegriffe und Klassifikationen (CPC/IPC) bereits identifiziert?
-4. Gibt es einen Anmeldetag — der bestimmt den massgeblichen Prioritaetszeitpunkt fuer die Neuheit?
+4. Gibt es einen Anmeldetag — der bestimmt den massgeblichen Prioritaetszeitpunkt für die Neuheit?
 
 ## Aktuelle Rechtsprechung
 

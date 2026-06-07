@@ -19,7 +19,7 @@ Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29 BBG bzw. § 29 BeamtS
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer ehemals wegen Dienstunfaehigkeit in den Ruhestand versetzte Beamte, die ihre Dienstfaehigkeit wiedererlangt haben und Reaktivierung anstreben — oder die gegen eine Reaktivierung durch den Dienstherrn Rechtsschutz suchen.
+Skill für ehemals wegen Dienstunfaehigkeit in den Ruhestand versetzte Beamte, die ihre Dienstfaehigkeit wiedererlangt haben und Reaktivierung anstreben — oder die gegen eine Reaktivierung durch den Dienstherrn Rechtsschutz suchen.
 
 ## 2. Eingaben
 

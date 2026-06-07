@@ -81,7 +81,7 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 | Verfuegbarkeit | Backup, Redundanz |
 | Belastbarkeit | Disaster Recovery |
 | Wiederherstellbarkeit | Backup-Restore |
-| Pruefverfahren | Regelmaessige Audits |
+| Pruefverfahren | Regelmäßige Audits |
 | Pseudonymisierung | wo moeglich |
 
 ### Phase 5 — Mandantenkommunikation
@@ -108,7 +108,7 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - DSGVO-Bussgelder bis 20 Mio. EUR oder 4 % des weltweiten Jahresumsatzes (Art. 83 Abs. 5 DSGVO) — Compliance unverzichtbar.
 - Jaehrliche DSGVO-Pruefung im Kanzleiteam (Verzeichnis Verarbeitungstaetigkeiten, AVV-Mappe, TOM-Liste aktualisieren).
-- StBVV: DSGVO-Compliance-Beratung fuer Mandanten als separater Auftrag nach § 13 StBVV (Beratung) oder als Bestandteil der Buchfuehrungspauschale.
+- StBVV: DSGVO-Compliance-Beratung für Mandanten als separater Auftrag nach § 13 StBVV (Beratung) oder als Bestandteil der Buchfuehrungspauschale.
 
 ## Querverweise
 

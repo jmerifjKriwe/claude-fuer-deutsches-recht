@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-bafa-genehmigungen-cbam-co2
-description: "BAFA-Exportgenehmigungsverfahren fuer Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren. Output: Antrags- und Widerspruchsdokumentation im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BAFA-Exportgenehmigungsverfahren für Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren. Output: Antrags- und Widerspruchsdokumentation im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # BAFA-Genehmigungsverfahren: Einzel- Sammel- und Globalgenehmigung
 
 ## Arbeitsbereich
 
-BAFA-Exportgenehmigungsverfahren fuer Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren. Output: Antrags- und Widerspruchsdokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+BAFA-Exportgenehmigungsverfahren für Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren. Output: Antrags- und Widerspruchsdokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,8 +19,8 @@ BAFA-Exportgenehmigungsverfahren fuer Dual-Use-Gueter und kontrollierte Technolo
 
 ## Mandantenfall
 
-- Exporteur beantragt Einzelgenehmigung fuer Lieferung von Laseranlagen nach China; Bearbeitung laeuft seit 3 Monaten.
-- Unternehmen mit laufenden Lieferbeziehungen in Laender der Partnerliste moechte auf Sammelgenehmigung umstellen.
+- Exporteur beantragt Einzelgenehmigung für Lieferung von Laseranlagen nach China; Bearbeitung laeuft seit 3 Monaten.
+- Unternehmen mit laufenden Lieferbeziehungen in Länder der Partnerliste moechte auf Sammelgenehmigung umstellen.
 - BAFA verweigert Genehmigung; Widerspruchsmoeglichkeit und Erfolgschancen pruefen.
 
 ## Erste Schritte
@@ -53,14 +53,14 @@ BAFA-Exportgenehmigungsverfahren fuer Dual-Use-Gueter und kontrollierte Technolo
 
 - Keine aufschiebende Wirkung des Widerspruchs bei Versagung; Lieferung darf nicht stattfinden.
 - Auflagen in der Genehmigung werden nicht vollstaendig umgesetzt; Genehmigungswiderruf droht.
-- Sammelgenehmigung ist an engere Laenderliste gebunden als Einzelgenehmigung.
+- Sammelgenehmigung ist an engere Länderliste gebunden als Einzelgenehmigung.
 - BAFA-Nachfragen oft zeitkritisch; verspaetete Antwort verlaengert Verfahren signifikant.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

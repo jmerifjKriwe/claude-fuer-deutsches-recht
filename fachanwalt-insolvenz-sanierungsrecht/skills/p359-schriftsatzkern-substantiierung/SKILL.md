@@ -105,7 +105,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -167,7 +167,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -175,7 +175,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Insolvenz- und Restrukturierungsrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Insolvenz- und Restrukturierungsrecht.
 - InsO, StaRUG, AnfG, EuInsVO, COVInsAG-Nachwirkungen sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -211,7 +211,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Insolvenz- und Restrukturierungsrecht (Insolvenzantrag, Anfechtungsklage, StaRUG-Restrukturierungsantrag):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -243,7 +243,7 @@ Typische Antraege in Insolvenz- und Restrukturierungsrecht (Insolvenzantrag, Anf
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -278,10 +278,10 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
-## Aktuelle Leitentscheidungen fuer Schriftsaetze im Insolvenzrecht (Stand Mai 2026)
+## Aktuelle Leitentscheidungen für Schriftsaetze im Insolvenzrecht (Stand Mai 2026)
 
 - **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit § 142 Abs. 1 Hs. 2 InsO (Bargeschäft). Pflichtzitat bei jeder Bargeschäfts-Verteidigung.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
@@ -293,11 +293,11 @@ Vor Versand:
 
 ## Paragrafenkette Schriftsatz-Grundgeruest Insolvenz
 
-§ 129 InsO (Grundtatbestand) → §§ 130-133 InsO (konkrete Tatbestaende) → § 143 InsO (Rechtsfolge Rueckgewaehr) → § 146 InsO (Verjaehrung) → § 240 ZPO (Unterbrechung durch Insolvenz) → §§ 261 263 ZPO (Klagezustaendigkeit, Klagaenderung) → § 294 ZPO (Glaubhaftmachung Insolvenzgericht)
+§ 129 InsO (Grundtatbestand) → §§ 130-133 InsO (konkrete Tatbestaende) → § 143 InsO (Rechtsfolge Rueckgewaehr) → § 146 InsO (Verjährung) → § 240 ZPO (Unterbrechung durch Insolvenz) → §§ 261 263 ZPO (Klagezuständigkeit, Klagaenderung) → § 294 ZPO (Glaubhaftmachung Insolvenzgericht)
 
 ## Triage — Schriftsatz-Typ bestimmen
 
-1. **Anfechtungsklage Verwalter?** → Tatbestand § 130/131/133 InsO; ZU-Datum; Gegner-Kenntnis-Indizien; § 146 InsO Verjaehrung check.
+1. **Anfechtungsklage Verwalter?** → Tatbestand § 130/131/133 InsO; ZU-Datum; Gegner-Kenntnis-Indizien; § 146 InsO Verjährung check.
 2. **Insolvenzantrag Glaeubigerseite?** → § 14 InsO; Forderungs-Glaubhaftmachung; ZU-Indizien.
 3. **Forderungsanmeldung?** → § 174 InsO; Tabellen-Eintrag; Rang; Belege.
 4. **Tabellenklage nach Bestreiten?** → § 180 InsO; ZPO-Klage; Beweismittel.

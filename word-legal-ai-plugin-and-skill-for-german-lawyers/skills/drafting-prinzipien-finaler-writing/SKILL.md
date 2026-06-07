@@ -46,7 +46,7 @@ Dieser Skill operationalisiert die drei Werte als pruefbare Anforderungen. Sie l
 5. **Aktiv vor Passiv.** "Der Verkaeufer liefert" statt "es wird vom Verkaeufer geliefert".
 6. **Defined Terms anwenden.** Ein Begriff einmal definieren, dann konsistent verwenden. Siehe `definitionen-klauseln-stringent`.
 7. **Doppelte Negation streichen.** "Nicht ausgeschlossen ist" wird zu "moeglich ist".
-8. **Konjunktiv vermeiden.** Operative Klauseln im Indikativ. Konjunktiv nur fuer Bedingungssaetze.
+8. **Konjunktiv vermeiden.** Operative Klauseln im Indikativ. Konjunktiv nur für Bedingungssaetze.
 
 ### Anti-Beispiele und Umformulierung
 
@@ -101,11 +101,11 @@ Jeder operative Satz traegt Antwort auf vier Fragen:
 
 - `definitionen-klauseln-stringent`
 - `anspruchsgrundlage-und-rechtsfolgen-klauseln`
-- `transparenzgebot-307-bgb` (Fachmodul fuer AGB-Transparenz)
+- `transparenzgebot-307-bgb` (Fachmodul für AGB-Transparenz)
 - `stil-und-ton-juristische-texte`
 
 ## Quellen (Stand 05/2026)
 
 - § 253 Abs. 2 Nr. 2 ZPO; § 305c Abs. 2 BGB; § 307 Abs. 1 Satz 2 BGB; § 138 Abs. 2 ZPO; siehe gesetze-im-internet.de.
 - Rechtsprechung zum AGB-Transparenzgebot: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
-- `references/zitierweise.md` fuer Belegpflicht.
+- `references/zitierweise.md` für Belegpflicht.

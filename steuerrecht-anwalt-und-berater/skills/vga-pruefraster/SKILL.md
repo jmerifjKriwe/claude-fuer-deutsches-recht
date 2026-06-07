@@ -18,7 +18,7 @@ description: "Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminde
 3. Bei beherrschenden Gesellschaftern: war die Vereinbarung im Voraus klar und tatsaechlich durchgefuehrt?
 4. Auswirkungen auf das Einkommen — Hinzurechnung und auf Ebene des Gesellschafters § 20 Abs. 1 Nr. 1 S. 2 EStG?
 5. Kapitalertragsteuer 25 Prozent und Erstattungsanspruch bei Anteilseigner im Ausland (DBA)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

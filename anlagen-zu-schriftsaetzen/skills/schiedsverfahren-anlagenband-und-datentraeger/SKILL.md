@@ -5,6 +5,23 @@ description: "Plant Anlagenbände im Schiedsverfahren: mehrere Originale, USB-St
 
 # Schiedsverfahren: Anlagenband und Datenträger
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 131 Abs. 1 ZPO` — Abschriften/Anlagen.
+- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
+- `§ 138 Abs. 1 ZPO` — vollstaendiger und wahrer Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Klageinhalt.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+- `§ 371 Abs. 1 ZPO` — Augenscheinsbeweis.
+- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Zweck
 
 Schiedsverfahren sind oft logistischer als staatliche Verfahren. Dieser Skill baut eine Struktur, die für Tribunal, Parteien und Sekretariat gleichermaßen funktioniert.

@@ -57,14 +57,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Antrag auf Bewaehrungserlass § 56g StGB** nach Bewaehrungszeit-Ende.
 - **Sachverstaendigengutachten beantragen:**
  - **Schuldfaehigkeitsgutachten §§ 20, 21 StGB:** Antrag in Hauptverhandlung; Pflicht bei Anhaltspunkten Schuldminderung.
- - **Therapieprognose-Gutachten § 56 StGB:** fuer Sozialprognose.
+ - **Therapieprognose-Gutachten § 56 StGB:** für Sozialprognose.
  - **§ 109 SGG-Gutachten** ist Sozialgerichts-Spezialitaet, nicht im Strafverfahren - statt dessen § 73 StPO Sachverstaendiger.
 - **Eingaben Vollstreckungsverfahren:**
  - **Antrag bei StA als Vollstreckungsbehoerde § 451 StPO:** Stundung, Ratenzahlung § 42 StGB, gemeinnuetzige Arbeit § 43 StGB.
  - **Strafaussetzungsverfahren §§ 57, 57a StGB** beim Strafvollstreckungsgericht (StVG-Kammer).
  - **Massregelvollzug-Antraege §§ 67d ff. StGB** beim StVG.
 - **Gerichts-Portale:**
- - **beA / EGVP** fuer Anwaltskommunikation (im Strafrecht § 32a StPO freiwillig).
+ - **beA / EGVP** für Anwaltskommunikation (im Strafrecht § 32a StPO freiwillig).
  - **Vollstreckungsstelle StA:** Schriftverkehr per Post / Fax / E-Mail.
  - **BZRG-Auszug** ueber Bundeszentralregister, online beantragbar.
 - **Standardvorlage Strafmass-Antrag (Pladoyer-Schluss):**
@@ -82,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Wiedergutmachung des Schadens an Geschaedigte (§ 56b II Nr. 1 StGB).
  - Therapeutische Betreuung (§ 56c II Nr. 5 StGB).
  ```
-- **Praxis-Tipp:** Antraege schriftlich formulieren; bei Hauptverhandlung kopieren fuer Gericht und Mandant; Belege Strafmilderung in Hauptverhandlung vorlegen.
+- **Praxis-Tipp:** Antraege schriftlich formulieren; bei Hauptverhandlung kopieren für Gericht und Mandant; Belege Strafmilderung in Hauptverhandlung vorlegen.
 
 ## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe
 

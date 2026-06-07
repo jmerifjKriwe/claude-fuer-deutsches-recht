@@ -43,14 +43,14 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle` | GOÄ § 5 Bemessung Gebührenrahmen 2,3 1,8 1,15 Schwelle |
 | `goae-5a-bemessung-im-basistarif` | GOÄ § 5a Bemessung im Basistarif |
 | `goae-5b-standardtarif-pkv` | GOÄ § 5b Standardtarif PKV |
-| `goae-6-gebuehren-fuer-andere-leistungen-analogbewertung` | GOÄ § 6 Gebühren für andere Leistungen Analogbewertung |
+| `goae-6-gebuehren-für-andere-leistungen-analogbewertung` | GOÄ § 6 Gebühren für andere Leistungen Analogbewertung |
 | `goae-6a-stationaere-minderung-25-prozent-15-prozent` | GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent |
 | `goae-7-entschaedigungen` | GOÄ § 7 Entschädigungen |
 | `goae-8-wegegeld` | GOÄ § 8 Wegegeld |
 | `goae-9-reiseentschaedigung` | GOÄ § 9 Reiseentschädigung |
 | `goae-10-ersatz-von-auslagen` | GOÄ § 10 Ersatz von Auslagen |
 | `goae-12-faelligkeit-und-rechnungspflicht` | GOÄ § 12 Fälligkeit und Rechnungspflicht |
-| `goae-14-zahlung-durch-oeffentliche-leistungstraeger` | GOÄ § 14 Zahlung durch öffentliche Leistungsträger |
+| `goae-14-zahlung-durch-öffentliche-leistungstraeger` | GOÄ § 14 Zahlung durch öffentliche Leistungsträger |
 | `abschnitt-a-beratungen-und-untersuchungen` | Abschnitt A Beratungen und Untersuchungen |
 | `abschnitt-b-grundleistungen-zuschlaege` | Abschnitt B Grundleistungen Zuschläge |
 | `abschnitt-c-nichtgebietsbezogene-sonderleistungen` | Abschnitt C nichtgebietsbezogene Sonderleistungen |
@@ -104,14 +104,14 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `goae-1-anwendungsbereich-berufliche-leistungen` | GOÄ § 1 Anwendungsbereich berufliche Leistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag... |
 | `goae-10-ersatz-von-auslagen` | GOÄ § 10 Ersatz von Auslagen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/B... |
 | `goae-12-faelligkeit-und-rechnungspflicht` | GOÄ § 12 Fälligkeit und Rechnungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630... |
-| `goae-14-zahlung-durch-oeffentliche-leistungstraeger` | GOÄ § 14 Zahlung durch öffentliche Leistungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvert... |
+| `goae-14-zahlung-durch-öffentliche-leistungstraeger` | GOÄ § 14 Zahlung durch öffentliche Leistungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvert... |
 | `goae-2-abweichende-vereinbarung-honorarvereinbarung` | GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsve... |
 | `goae-3-verguetungen-gebuehren-entschaedigungen-auslagen` | GOÄ § 3 Vergütungen Gebühren Entschädigungen Auslagen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsv... |
 | `goae-4-selbstaendige-aerztliche-leistung-zielleistungsprinzip` | GOÄ § 4 selbständige ärztliche Leistung Zielleistungsprinzip: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behan... |
 | `goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle` | GOÄ § 5 Bemessung Gebührenrahmen 2 und 3 1 und 8 1 und 15 Schwelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB... |
 | `goae-5a-bemessung-im-basistarif` | GOÄ § 5a Bemessung im Basistarif: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., P... |
 | `goae-5b-standardtarif-pkv` | GOÄ § 5b Standardtarif PKV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Bei... |
-| `goae-6-gebuehren-fuer-andere-leistungen-analogbewertung` | GOÄ § 6 Gebühren für andere Leistungen Analogbewertung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungs... |
+| `goae-6-gebuehren-für-andere-leistungen-analogbewertung` | GOÄ § 6 Gebühren für andere Leistungen Analogbewertung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungs... |
 | `goae-6a-stationaere-minderung-25-prozent-15-prozent` | GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsver... |
 | `goae-7-entschaedigungen` | GOÄ § 7 Entschädigungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihil... |
 | `goae-8-wegegeld` | GOÄ § 8 Wegegeld: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Rege... |

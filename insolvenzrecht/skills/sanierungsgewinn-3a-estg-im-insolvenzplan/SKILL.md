@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-3a-estg-im-insolvenzplan
-description: "Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG. Mustertext fuer darstellenden Teil des Plans und fuer den Erlassantrag im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG. Mustertext für darstellenden Teil des Plans und für den Erlassantrag im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Paragraph 3a EStG im Insolvenzplan
 
 ## Arbeitsbereich
 
-Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG. Mustertext fuer darstellenden Teil des Plans und fuer den Erlassantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG. Mustertext für darstellenden Teil des Plans und für den Erlassantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Vora
 
 ## Worum geht es
 
-Der Insolvenzplan (Paragraphen 217 ff. InsO) ist das in der Praxis wichtigste Instrument fuer Forderungsverzichte und damit zugleich der typische Ausloeser eines Sanierungsertrags. Mit der Wiederaufnahme von Paragraph 3a EStG ist die fruehere Streitfrage, ob der Sanierungserlass per Verwaltungsanweisung oder per Gesetz gelte, erledigt: die Steuerbefreiung steht im Gesetz.
+Der Insolvenzplan (Paragraphen 217 ff. InsO) ist das in der Praxis wichtigste Instrument für Forderungsverzichte und damit zugleich der typische Ausloeser eines Sanierungsertrags. Mit der Wiederaufnahme von Paragraph 3a EStG ist die fruehere Streitfrage, ob der Sanierungserlass per Verwaltungsanweisung oder per Gesetz gelte, erledigt: die Steuerbefreiung steht im Gesetz.
 
 Dieser Skill arbeitet die Pruefung des Sanierungsertrags im Plan-Kontext durch: vier materielle Voraussetzungen, Verrechnungsreihenfolge, Antrag, Plan-Texte. Adressat ist der Plan-Anwalt, der Insolvenzverwalter und der StB.
 
@@ -55,7 +55,7 @@ Kaltstart-Fragen:
 - Paragraph 251 AO — Steuern im Insolvenzverfahren.
 - BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich ueber die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung — zur Abgrenzung Sanierungsertrag vs. Ausbuchung mangels Schuldner.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Forderungsverzicht erfassen.** Welche Forderungen entfallen im Plan in welcher Hoehe? Trennung Drittglaeubiger vs. Gesellschafter (Gesellschafter-Verzicht kann verdeckte Einlage sein).
 2. **Werthaltigkeit der Forderungen pruefen.** Nur werthaltige Forderungen erzeugen einen vollwertigen Sanierungsertrag; nicht werthaltige Forderungen erhoehen den Sanierungsertrag rechnerisch, fuehren aber zugleich zu einer abweichenden bilanziellen Behandlung.
@@ -95,7 +95,7 @@ Kaltstart-Fragen:
 
 ## Mustertexte / Berechnungsbeispiele
 
-**Plan-Text fuer den darstellenden Teil (Auszug):**
+**Plan-Text für den darstellenden Teil (Auszug):**
 
 ```
 III. Steuerliche Folgen des Forderungsverzichts
@@ -109,7 +109,7 @@ liegen vor:
 
 1. Sanierungsbeduerftigkeit
 Die Schuldnerin ist ohne den Verzicht nicht ueberlebensfaehig. Dies ist
-durch den Eroeffnungsantrag, den vorlaeufigen Bericht des Verwalters vom
+durch den Eroeffnungsantrag, den vorläufigen Bericht des Verwalters vom
 [Datum] und die diesem Plan als Anlage beigefuegte Liquiditaetsplanung
 belegt.
 
@@ -140,7 +140,7 @@ nicht moeglich waere. Dies ist im Glaeubigerausschuss-Beschluss vom
 An das Finanzamt [Ort]
 Steuernummer [...]
 
-Antrag auf Behandlung des Sanierungsertrags nach Paragraph 3a EStG fuer
+Antrag auf Behandlung des Sanierungsertrags nach Paragraph 3a EStG für
 das Sanierungsjahr [Jahr]
 
 1. Sachverhalt
@@ -201,7 +201,7 @@ In anderen Plugins:
 - Paragraph 7b GewStG, `gesetze-im-internet.de/gewstg/__7b.html`.
 - Paragraphen 217 ff. InsO, `gesetze-im-internet.de/inso/`.
 - Paragraph 251 AO, `gesetze-im-internet.de/ao_1977/__251.html`.
-- Paragraph 11 KStG (Liquidationsbesteuerung — fuer Plan-B-Pfade).
+- Paragraph 11 KStG (Liquidationsbesteuerung — für Plan-B-Pfade).
 
 ### Rechtsprechung (verifiziert)
 

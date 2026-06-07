@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-trade-finance-lc-guarantees
-description: "Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster fuer Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster für Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote
 
 ## Arbeitsbereich
 
-Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster fuer Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster für Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,15 +19,15 @@ Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv
 
 ## Mandantenfall
 
-- Bank erhalt Anfrage zur Eroeffffnung eines Akkreditivs fuer Lieferung nach Russland; Sanktionspruefung.
-- Exporteur beantragt Ausfuhrgarantie fuer Lieferung an iranischen Staatskonzern; EUC und Sanktionscheck.
-- Dokumenteninkasso fuer Textillieferung nach Belarus; Korrespondenzbank-Kette pruefen.
+- Bank erhalt Anfrage zur Eroeffffnung eines Akkreditivs für Lieferung nach Russland; Sanktionspruefung.
+- Exporteur beantragt Ausfuhrgarantie für Lieferung an iranischen Staatskonzern; EUC und Sanktionscheck.
+- Dokumenteninkasso für Textillieferung nach Belarus; Korrespondenzbank-Kette pruefen.
 
 ## Erste Schritte
 
 1. Transaktionsstruktur aufnehmen: Akkreditivbeteiligter Importeur Exporteur eroeffnende und bestaetigende Bank.
 2. Alle Beteiligten gegen EU-Konsolidierte-Liste OFAC-SDN und BAFA-Embargo pruefen.
-3. Verbote fuer Finanzhilfe (Art. 5a VO 833/2014 fuer Russland) und Bereitstellungsverbote pruefen.
+3. Verbote für Finanzhilfe (Art. 5a VO 833/2014 für Russland) und Bereitstellungsverbote pruefen.
 4. Bestimmungsland und Waren-HS-Codes auf Gueter-Embargo pruefen.
 5. Korrespondenzbank-Kette auf sanktionierte Institute pruefen.
 6. Freigabeentscheidung mit Quellennachweis dokumentieren.
@@ -35,7 +35,7 @@ Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv
 ## Rechtsrahmen
 
 - **Art. 5a VO (EU) 833/2014**: Verbot von Transaktionen mit bestimmten russischen Staatsbanken.
-- **Art. 2 Abs. 1 VO (EU) 269/2014**: Bereitstellungsverbot fuer Gelder an gelistete Personen.
+- **Art. 2 Abs. 1 VO (EU) 269/2014**: Bereitstellungsverbot für Gelder an gelistete Personen.
 - **Art. 26 VO (EU) 267/2012 (Iran)**: Finanzhilfeverbot gegenueber iranischen Banken.
 - **§ 18 AWG**: Strafbarkeit bei verbotener Finanzhilfe an sanktionierte Entitaeten.
 - **UZK Art. 87**: Zollwertbescheinigung und Dokumentationspflicht bei Trade-Finance.
@@ -43,7 +43,7 @@ Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv
 ## Pruef-Raster
 
 - [ ] Alle Trade-Finance-Beteiligten gegen Sanktionslisten geprueft?
-- [ ] Finanzhilfe-Verbote fuer Bestimmungsland relevant?
+- [ ] Finanzhilfe-Verbote für Bestimmungsland relevant?
 - [ ] Warenklassifizierung und Embargo-Relevanz der Lieferung geprueft?
 - [ ] Korrespondenzbank-Kette auf sanktionierte Banken durchsucht?
 - [ ] Quellenstand der Sanktionsliste dokumentiert?
@@ -51,7 +51,7 @@ Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv
 
 ## Typische Fallstricke
 
-- Zweitbeguenstigte hinter Akkreditiv kann gelistete Person/Entitaet sein.
+- Zweitbegünstigte hinter Akkreditiv kann gelistete Person/Entitaet sein.
 - Finanzhilfe-Verbote greifen auch bei mittelbarer Unterstuetzung durch nicht-sanktionierte Partei.
 - Korrespondenzbanken in Drittlaendern haben eigene Listenpflichten; Konflikte moeglich.
 - Alte Akkreditive bleiben gueltig bis Ablauf; Sanktionsaenderungen erfordern Re-Pruefung.
@@ -60,7 +60,7 @@ Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

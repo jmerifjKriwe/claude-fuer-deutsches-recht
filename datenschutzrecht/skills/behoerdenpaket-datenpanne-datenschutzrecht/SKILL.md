@@ -1,18 +1,18 @@
 ---
 name: behoerdenpaket-datenpanne-datenschutzrecht
-description: "Behoerdenpaket Datenpanne Datenschutzrecht im Datenschutzrecht: prüft konkret Behoerdenpaket, Datenpanne, Datenschutzrecht, Dpia. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Behördenpaket Datenpanne Datenschutzrecht im Datenschutzrecht: prüft konkret Behördenpaket, Datenpanne, Datenschutzrecht, Dpia. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Behoerdenpaket Datenpanne Datenschutzrecht
+# Behördenpaket Datenpanne Datenschutzrecht
 
 ## Arbeitsbereich
 
-**Behoerdenpaket Datenpanne Datenschutzrecht** ordnet den Fall über die tragenden Prüfungslinien: Behoerdenpaket, Datenpanne, Datenschutzrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Behördenpaket Datenpanne Datenschutzrecht** ordnet den Fall über die tragenden Prüfungslinien: Behördenpaket, Datenpanne, Datenschutzrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-behoerdenpaket-zahlen-schwellen-und-berechnung` | Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-behoerdenpaket-zahlen-schwellen-und-berechnung` | Behördenpaket: Zahlen, Schwellenwerte und Berechnung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-datenpanne-schriftsatz-brief-und-memo-bausteine` | Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-datenschutzrecht-compliance-dokumentation-und-akte` | Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-dpia-dokumentenmatrix-und-lueckenliste` | Dpia: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -29,11 +29,11 @@ description: "Behoerdenpaket Datenpanne Datenschutzrecht im Datenschutzrecht: pr
 
 ## 1. `spezial-behoerdenpaket-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Behördenpaket: Zahlen, Schwellenwerte und Berechnung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung
+# Behördenpaket: Zahlen, Schwellenwerte und Berechnung
 
-## Spezialwissen: Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung
+## Spezialwissen: Behördenpaket: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 
 ## Fallweichen
@@ -47,7 +47,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Behoerdenpaket** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Behördenpaket** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR
 
 Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR) von 1794. Entstehung unter Friedrich dem Grossen und Svarez, kasuistische Kodifikationstechnik, Inhalt und Scheitern als gesamtdeutsches Zivilrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR) von 1794. En
 
 ## Worum es geht
 
-Das Allgemeine Landrecht fuer die Preussischen Staaten (ALR) trat am 1. Juni 1794 in Kraft (Preussisches Gesetzblatt 1794). Es umfasste ca. 17000 Paragraphen und war die umfassendste Rechtskodifikation vor dem Code Civil. Grundlage war Vernunftrecht (Svarez, Cocceji). Die Kodifikationstechnik war kasuistisch: Einzelfaelle loesen statt Generalklauseln. Das ALR regelte alle Rechtsgebiete: Privatrecht, Familienrecht, Erbrecht, Grundbesitz, Staendeverhaeltnisse und oeffentliches Recht. Es galt in Preussen bis 1900 (Ablosung durch BGB) und hatte erheblichen Einfluss auf ostmitteleuropaeische Rechtsordnungen.
+Das Allgemeine Landrecht für die Preussischen Staaten (ALR) trat am 1. Juni 1794 in Kraft (Preussisches Gesetzblatt 1794). Es umfasste ca. 17000 Paragraphen und war die umfassendste Rechtskodifikation vor dem Code Civil. Grundlage war Vernunftrecht (Svarez, Cocceji). Die Kodifikationstechnik war kasuistisch: Einzelfaelle loesen statt Generalklauseln. Das ALR regelte alle Rechtsgebiete: Privatrecht, Familienrecht, Erbrecht, Grundbesitz, Staendeverhaeltnisse und öffentliches Recht. Es galt in Preussen bis 1900 (Ablosung durch BGB) und hatte erheblichen Einfluss auf ostmitteleuropaeische Rechtsordnungen.
 
 ## Kernnormen / Kernquellen
 
@@ -40,7 +57,7 @@ Das Allgemeine Landrecht fuer die Preussischen Staaten (ALR) trat am 1. Juni 179
 ## Typische Streitfragen / Forschungsfragen
 
 1. ALR als Vernunftrechtskodifikation oder Staatsabsolutismusinstrument?
-2. Kasuistik des ALR: War sie Schwaeche oder bewusste Entscheidung fuer Rechtssicherheit?
+2. Kasuistik des ALR: War sie Schwaeche oder bewusste Entscheidung für Rechtssicherheit?
 3. Warum scheiterte das ALR als gesamtdeutsches Zivilrecht?
 4. Staendischer Aufbau des ALR: Modernisierung oder Konservierung von Feudalstrukturen?
 5. ALR und BGB 1900: Was blieb als Einfluss? Was wurde aufgegeben?
@@ -48,7 +65,7 @@ Das Allgemeine Landrecht fuer die Preussischen Staaten (ALR) trat am 1. Juni 179
 ## Methodik
 
 - ALR: historische Druckausgaben Svarez' (1794) oder Faksimile; ALEX/OeNB
-- BGB-Vergleich: Mugdan Bd. I-VI fuer fachliche Einordnung
+- BGB-Vergleich: Mugdan Bd. I-VI für fachliche Einordnung
 - Sekundaerliteratur: Reinhart Koselleck, Preussen zwischen Reform und Revolution (1967)
 - Keine Anwendung heutiger BGB-Kategeorien auf ALR ohne expliziten Vergleich
 

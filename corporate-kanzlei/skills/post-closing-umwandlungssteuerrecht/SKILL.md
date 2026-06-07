@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -124,7 +124,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. § 613a BGB: Wurden Arbeitnehmer ordnungsgemaess informiert? Widerspruchsfristen beachtet?
 4. Change-of-Control-Vertraege: Wurden alle Consents fristgemaess eingeholt?
 5. Transition Services Agreement (TSA): Welche Dienstleistungen werden weiter bezogen/geliefert?
-6. D&O und andere Versicherungen: Runoff-Policy fuer altes Management; neue Police fuer neue Eigentuemerstruktur?
+6. D&O und andere Versicherungen: Runoff-Policy für altes Management; neue Police für neue Eigentuemerstruktur?
 7. Brandkarte: Umfirmierung, neues CI, IT-Systeme migrieren — Zeitplan?
 
 ## Zentrale Normen
@@ -175,11 +175,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Unternehmensvertrag (§§ 291-310 AktG)
 - Fuer AG/KGaA: Beherrschungsvertrag (Weisungsrecht der Mutter); Gewinnabfuehrungsvertrag (Gewinnabfuehrung an Mutter)
 - HV-Beschluss mit 3/4-Mehrheit beider Gesellschaften; Minderheitsschutz: Ausgleich und Abfindung (§§ 304-305 AktG)
-- Fuer GmbH: kein gesetzliches Erfordernis fuer HV-Beschluss, aber Notarpflicht und Eintragung empfohlen
+- Fuer GmbH: kein gesetzliches Erfordernis für HV-Beschluss, aber Notarpflicht und Eintragung empfohlen
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
-1. **Post-Closing Checklist abarbeiten** — tagesgenau; Owner fuer jede Massnahme
+1. **Post-Closing Checklist abarbeiten** — tagesgenau; Owner für jede Massnahme
 2. **HR-Anmeldungen** — Notar beauftragen; Begleitunterlagen vorbereiten (Gesellschafterbeschluesse)
 3. **§ 613a-Information** — Unterrichtungsschreiben ausfertigen; individuell an jeden Arbeitnehmer; Datum beweissicher dokumentieren
 4. **CoC-Consents bestaetigend dokumentieren** — Schriftbestaetigung der Vertragspartner einholen
@@ -204,7 +204,7 @@ hiermit informieren wir Sie gemass § 613a Abs. 5 BGB ueber den Uebergang Ihres 
 3. RECHTLICHE, WIRTSCHAFTLICHE UND SOZIALE FOLGEN:
  - Ihr Arbeitsverhaeltnis geht mit allen Rechten und Pflichten auf [KAEUFER/NEUE GESELLSCHAFT] ueber.
  - Ihr Gehalt, Ihre Taetigkeit und Ihre Arbeitsbedingungen bleiben unveraendert.
- - Bestehende Betriebsvereinbarungen gelten fuer ein Jahr fort (§ 613a I 2 BGB), sofern keine abweichende Regelung getroffen wird.
+ - Bestehende Betriebsvereinbarungen gelten für ein Jahr fort (§ 613a I 2 BGB), sofern keine abweichende Regelung getroffen wird.
 
 4. GEPLANTE MASSNAHMEN: [Kurzbeschreibung der Integrationsplane, soweit bekannt]
 
@@ -225,7 +225,7 @@ Mit freundlichen Gruessen
 - Organschaft-GAV unter 5 Jahre → rueckwirkende Steuerpflicht; erhebliche Nachzahlungen
 - CoC-Consents nicht dokumentiert → Vertragskuendigungen post-Closing unbemerkt
 - TSA ohne Exit-Plan → dauerhafte Abhaengigkeit von altem Konzern
-- Runoff-Policy altes Management vergessen → D&O-Luecke fuer Althandlungen
+- Runoff-Policy altes Management vergessen → D&O-Luecke für Althandlungen
 
 ## Quellen
 

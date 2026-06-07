@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - Mandatsanfrage, Konfliktcheck, Rollenmatrix, Budget und Deal-Timeline.
@@ -157,13 +157,13 @@ Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für g
 1. Was ist die Deal-Komplexitaet — Gross-Transaktion (Cross-border, Multi-Jurisdiktion) oder Standard-M&A?
 2. Welche Workstreams sind zu besetzen — Corporate, Steuer, Arbeitsrecht, IP, Real Estate, Regulatory, Finance?
 3. Welche Kapazitaeten sind intern verfuegbar — Senior Associate, Associate, Partner?
-4. Sind externe Co-Counsel oder lokale Kanzleien fuer andere Jurisdiktionen erforderlich?
+4. Sind externe Co-Counsel oder lokale Kanzleien für andere Jurisdiktionen erforderlich?
 5. Was ist das Honorarbudget und die Abrechnungsstruktur — Time-Based, Capped Fee, Success Fee?
 
 ## Zentrale Rechtsgrundlagen
 
 - § 43a BRAO — Interessenkonflikt innerhalb des Deal-Teams: jeder Teamanwalt muss conflicts-geprueft sein
-- §§ 10, 11 GwG — GwG-Pflichten gelten fuer alle eingebundenen Berufsträger; Teamleiter traegt Gesamtverantwortung
+- §§ 10, 11 GwG — GwG-Pflichten gelten für alle eingebundenen Berufsträger; Teamleiter traegt Gesamtverantwortung
 - § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten vertragliche Vereinbarung ueber Abrechnungsmodalitaeten; schriftliche Basis empfohlen
 
 ## Aktuelle Rechtsprechung
@@ -173,15 +173,15 @@ Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für g
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Matrix erstellen:** je Workstream: Leader, Reviewer, Associate, Deadline
 2. **Kapazitaetspruefung:** interne Verfuegbarkeit pruefen; bei Engpass: Co-Counsel-Einbindung
-3. **Conflicts-Check fuer gesamtes Team:** § 43a BRAO; alle Teamanwaltseintragungen im Conflicts-System
+3. **Conflicts-Check für gesamtes Team:** § 43a BRAO; alle Teamanwaltseintragungen im Conflicts-System
 4. **Eskalationswege definieren:** wer entscheidet bei Red Flag, Deal-Breaker, Media-Anfragen?
 5. **Honorarstruktur abstimmen:** Budget-Tracking, weekly Status, Kunden-Reporting
 
 ## Rote Schwellen
 
 - Workstream ohne qualifizierten Spezialisten: Haftungsrisiko
-- Kein Conflicts-Check fuer Team-Mitglieder: § 43a BRAO-Verstoß
+- Kein Conflicts-Check für Team-Mitglieder: § 43a BRAO-Verstoß

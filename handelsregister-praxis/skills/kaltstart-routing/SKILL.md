@@ -5,6 +5,24 @@ description: "Führt durch das erste Registerproblem: Wer meldet was an, welche 
 
 # Kaltstart-Interview und Registerfahrplan
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 8 HGB` — Handelsregister.
+- `§ 12 HGB` — Anmeldungen und Einreichungen.
+- `§ 15 HGB` — Publizitaet des Handelsregisters.
+- `§ 29 HGB` — Anmeldung des Kaufmanns.
+- `§ 106 HGB` — Eintragung der OHG.
+- `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
+- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 40 GmbHG` — Gesellschafterliste.
+- `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
+- `§ 395 FamFG` — Loeschungsverfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachlicher Zuschnitt
 
 Führt durch das erste Registerproblem: Wer meldet was an, welche Gesellschaft, welches Registerblatt, welches Ziel, welcher Fristdruck, welche Urkunden, welche Entscheidungsperson und welches Eskalationsniveau.

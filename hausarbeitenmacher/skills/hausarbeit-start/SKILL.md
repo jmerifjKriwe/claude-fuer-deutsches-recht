@@ -133,28 +133,28 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `hausarbeit-workflow-start` | Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüfungslinie: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach… |
 | `meinungsstreit-darstellen` | Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog… |
 | `methodenlehre-auslegung` | Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion.… |
-| `oeffentliches-recht-statthaft-zulaessig-begruendet` | Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs-… |
+| `öffentliches-recht-statthaft-zulaessig-begruendet` | Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs-… |
 | `professor-erkennen-und-strategie` | Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5… |
 | `quellenrecherche-rechtsprechung-literatur` | Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Prüfraster Quellen-Vollständigkeit… |
 | `rechtstheorie-rechtsphilosophie-anbindung` | Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip.… |
 | `selbstkontrolle-vor-abgabe` | Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen.… |
-| `seminararbeit-modus` | Student schreibt Seminararbeit mit persoenlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe… |
+| `seminararbeit-modus` | Student schreibt Seminararbeit mit persönlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe… |
 | `strafrecht-tatbestand-rechtswidrigkeit-schuld` | Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB… |
-| `subsumtion-schritt-fuer-schritt` | Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§… |
+| `subsumtion-schritt-für-schritt` | Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§… |
 | `verfassungsrecht-grundrechtspruefung` | Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14.… |
 | `zitierweise-jura-fundstellen` | Student muss in der Hausarbeit richtig zitieren: Rechtsprechung Kommentare Aufsaetze Lehrbuecher amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang. Reihenfolge Rechtsprechung vor Literatur neueste zuerst Bearbeiter-Name. Normen Zitierstandards… |
 | `zivilrecht-anspruchsgrundlagen-pruefung` | Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Prüfungsschemata je Anspruchsgrundlage §§ 433 280 823 812 BGB.… |
 
 ## Worum geht es?
 
-Der Hausarbeitenmacher ist ein didaktisches Plugin fuer Jurastudierende, die juristische Haus- und Seminararbeiten schreiben. Es fuehrt sokratisch durch Zivilrecht, oeffentliches Recht und Strafrecht mit Abstechen in Europarecht und Rechtstheorie. Das Plugin liefert keine fertigen Loesungen — es stellt Fragen, die zur eigenen Subsumtion fuehren, und gibt strukturierte Hilfestellung bei Methodik, Gliederung, Zitierstil und Fehleranalyse.
+Der Hausarbeitenmacher ist ein didaktisches Plugin für Jurastudierende, die juristische Haus- und Seminararbeiten schreiben. Es fuehrt sokratisch durch Zivilrecht, öffentliches Recht und Strafrecht mit Abstechen in Europarecht und Rechtstheorie. Das Plugin liefert keine fertigen Loesungen — es stellt Fragen, die zur eigenen Subsumtion fuehren, und gibt strukturierte Hilfestellung bei Methodik, Gliederung, Zitierstil und Fehleranalyse.
 
 Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in welchem Fachgebiet die Arbeit liegt, scannt implizit die Lehrmeinung des Professors und hilft, eine eigenstaendige Argumentation zu entwickeln, ohne schmeichelhaft oder herablassend zu sein.
 
 ## Wann brauchen Sie diese Skill?
 
-- Student erhaelt eine Hausarbeit-Aufgabenstellung und weiss nicht, in welchem Fachgebiet (Zivilrecht, oeffentliches Recht, Strafrecht) der Schwerpunkt liegt.
-- Student muss eine Gliederung fuer eine zivilrechtliche, strafrechtliche oder verwaltungsrechtliche Hausarbeit erstellen.
+- Student erhaelt eine Hausarbeit-Aufgabenstellung und weiss nicht, in welchem Fachgebiet (Zivilrecht, öffentliches Recht, Strafrecht) der Schwerpunkt liegt.
+- Student muss eine Gliederung für eine zivilrechtliche, strafrechtliche oder verwaltungsrechtliche Hausarbeit erstellen.
 - Student ist unsicher, ob Gutachtenstil oder Urteilsstil anzuwenden ist und wann gewechselt werden soll.
 - Student will einen Meinungsstreit mit eigenem Standpunkt methodisch korrekt darstellen.
 - Student prueft Hausarbeit kurz vor Abgabe auf inhaltliche und formale Vollstaendigkeit.
@@ -178,10 +178,10 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - Art. 1-19 GG (Grundrechte — Grundlage verfassungsrechtlicher Pruefungen)
 - Art. 267 AEUV (Vorabentscheidungsverfahren EuGH — bei Europarecht-Bezug)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Aufgabenstellung erfassen und Sachverhalt mit Drei-Lese-Methode erschliessen (`aufgabenstellung-erfassen`).
-2. Fachgebiet bestimmen: Zivil-, Strafrecht oder oeffentliches Recht? (`fachgebiet-routing-zivil-oeffentlich-straf`)
+2. Fachgebiet bestimmen: Zivil-, Strafrecht oder öffentliches Recht? (`fachgebiet-routing-zivil-oeffentlich-straf`)
 3. Bearbeitungsplan und Zeitplan erstellen (`bearbeitungsplan-erstellen`).
 4. Gliederung mit korrekter Tiefenstruktur erstellen (`gliederung-mit-tiefenstruktur`).
 5. Selbstkontrolle vor Abgabe durchfuehren (`selbstkontrolle-vor-abgabe`).
@@ -190,16 +190,16 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 
 - `hausarbeit-workflow-start` — Master-Prüfungslinie: Begleitung von Anfang bis Abgabe durch sokratischen Dialog.
 - `aufgabenstellung-erfassen` — Sachverhalt strukturiert erfassen mit Drei-Lese-Methode.
-- `bearbeitungsplan-erstellen` — Zeitplan und Arbeitsplan fuer Recherche, Gliederung, Rohfassung, Endfassung und Korrektur erstellen.
-- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet der Hausarbeit bestimmen: Zivilrecht, oeffentliches Recht, Strafrecht oder Mix.
+- `bearbeitungsplan-erstellen` — Zeitplan und Arbeitsplan für Recherche, Gliederung, Rohfassung, Endfassung und Korrektur erstellen.
+- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet der Hausarbeit bestimmen: Zivilrecht, öffentliches Recht, Strafrecht oder Mix.
 - `gliederung-mit-tiefenstruktur` — Gliederung mit korrekter Tiefenstruktur (A, Roemisch, Arabisch, Kleinbuchstabe) erstellen.
 - `gutachtenstil-vs-urteilsstil` — Klaeren, wann Gutachtenstil und wann Urteilsstil anzuwenden ist.
-- `subsumtion-schritt-fuer-schritt` — Subsumtion Schritt fuer Schritt ueben: Tatbestandsmerkmal, Definition, Sachverhalt, Ergebnis.
+- `subsumtion-schritt-für-schritt` — Subsumtion Schritt für Schritt ueben: Tatbestandsmerkmal, Definition, Sachverhalt, Ergebnis.
 - `meinungsstreit-darstellen` — Meinungsstreit mit herrschender Meinung, Mindermeinungen und eigenem Standpunkt darstellen.
 - `methodenlehre-auslegung` — Vier Auslegungsmethoden erlaeutern: grammatikalisch, systematisch, historisch, teleologisch.
 - `zivilrecht-anspruchsgrundlagen-pruefung` — Zivilrechtliche Ansprueche pruefen: V-C-G-D-D-B-Reihenfolge (Vertrag, culpa in contrahendo, GoA, Delikt, Bereicherung).
 - `strafrecht-tatbestand-rechtswidrigkeit-schuld` — Drei-Stufen-Schema Strafrecht: Tatbestand, Rechtswidrigkeit, Schuld.
-- `oeffentliches-recht-statthaft-zulaessig-begruendet` — Verwaltungsrechtliche Klagen pruefen: Statthaftigkeit, Zulaessigkeit, Begruendetheit.
+- `öffentliches-recht-statthaft-zulaessig-begruendet` — Verwaltungsrechtliche Klagen pruefen: Statthaftigkeit, Zulaessigkeit, Begruendetheit.
 - `verfassungsrecht-grundrechtspruefung` — Grundrechte pruefen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung, Verhaeltnismaessigkeit.
 - `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — Europarecht-Bezug klaeren: Anwendungsvorrang, direkte Wirkung, Vorlagepflicht EuGH.
 - `rechtstheorie-rechtsphilosophie-anbindung` — Rechtstheoretische Bezuege einbauen: Positivismus, Naturrecht, Kelsen, Hart, Dworkin.
@@ -207,7 +207,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - `zitierweise-jura-fundstellen` — Richtig zitieren in Hausarbeiten: Rechtsprechung, Kommentare, Aufsaetze, Lehrbuecher.
 - `haeufige-fehler-vermeiden` — Typische methodische, stilistische und formale Fehler in Hausarbeiten vermeiden.
 - `professor-erkennen-und-strategie` — Lehrmeinung des betreuenden Professors erkennen und Argumentationsstrategie ableiten.
-- `behutsame-frech-wertschaetzende-rueckfragen` — Stil-Anleitung fuer den Dialogton des Plugins.
+- `behutsame-frech-wertschaetzende-rueckfragen` — Stil-Anleitung für den Dialogton des Plugins.
 - `selbstkontrolle-vor-abgabe` — Hausarbeit vor Abgabe auf inhaltliche und formale Vollstaendigkeit pruefen.
 - `seminararbeit-modus` — Seminararbeit mit Forschungsfrage, Literaturschau und eigener These verfassen.
 

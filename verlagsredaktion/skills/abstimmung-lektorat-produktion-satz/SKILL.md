@@ -1,13 +1,13 @@
 ---
 name: abstimmung-lektorat-produktion-satz
-description: "Klaert Lektorats- und Redaktionsstandards: wer ist fuer welchen Pruefschritt zustaendig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klaert Lektorats- und Redaktionsstandards: wer ist für welchen Pruefschritt zuständig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abstimmung Lektorat / Redaktion (Format-Klaerung)
 
 ## Arbeitsbereich
 
-Klaert Lektorats- und Redaktionsstandards: wer ist fuer welchen Pruefschritt zustaendig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klaert Lektorats- und Redaktionsstandards: wer ist für welchen Pruefschritt zuständig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Klaert Lektorats- und Redaktionsstandards: wer ist fuer welchen Pruefschritt zus
 
 ## Worum geht es konkret
 
-Lektorat und Redaktion arbeiten am selben Manuskript, oft parallel. Ohne klare Schnittstelle entstehen Doppelarbeit, widerspruechliche Eingriffe und Versionschaos. Dieser Skill klaert die Schnittstelle: Zustaendigkeiten, Versionierungsregeln, Track-Changes-Konventionen, Eskalationswege.
+Lektorat und Redaktion arbeiten am selben Manuskript, oft parallel. Ohne klare Schnittstelle entstehen Doppelarbeit, widerspruechliche Eingriffe und Versionschaos. Dieser Skill klaert die Schnittstelle: Zuständigkeiten, Versionierungsregeln, Track-Changes-Konventionen, Eskalationswege.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -36,7 +36,7 @@ Sie brauchen ihn, wenn Lektorat und Redaktion neu aufgestellt sind, ein neues Ma
 - Workflow-Diagramm (falls vorhanden).
 - Liste der typischen Reibungspunkte.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Schnittstelle festlegen.**
  - **Redaktion:** inhaltliche Beurteilung, Annahme/Ablehnung, Heftslot, Beitragsformat.
@@ -50,7 +50,7 @@ Sie brauchen ihn, wenn Lektorat und Redaktion neu aufgestellt sind, ein neues Ma
 
 ## Trade-off-Matrix
 
-| Pfad | A: Strikte Zustaendigkeitstrennung | B: Hybride Arbeitsweise | Empfehlung |
+| Pfad | A: Strikte Zuständigkeitstrennung | B: Hybride Arbeitsweise | Empfehlung |
 |------|-------------------------------------|--------------------------|------------|
 | Klarheit | hoch | mittel | A bei groesserem Verlag |
 | Flexibilitaet | gering | hoch | B bei kleinem Team |
@@ -82,7 +82,7 @@ Geleistet:
 - 7 inhaltliche Vorschlaege als Kommentare markiert (INH:)
 Offen:
 - Aussagensicherheits-Pruefung (Mandantenfrage S. 12) - bei Redaktion
-- Bildrechte fuer 2 Schaubilder
+- Bildrechte für 2 Schaubilder
 ```
 
 **Eskalations-Notiz:**
@@ -127,6 +127,6 @@ Mueller-Plattform_v7_druck.docx (an Produktion)
 
 - Allgemeine Workflow- und Kollaborationsstandards: keine spezifische juristische Quelle.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Plachta, Editionswissenschaft, 4. Aufl. 2020 (zu Versionierungsdisziplin).

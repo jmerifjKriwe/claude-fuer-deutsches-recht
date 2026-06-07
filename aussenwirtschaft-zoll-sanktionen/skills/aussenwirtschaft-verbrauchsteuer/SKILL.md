@@ -28,13 +28,13 @@ Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer Tabaksteuer un
 1. Ware auf Verbrauchsteuerpflicht pruefen: Energieerzeugnisse Alkohol Tabak Strom?
 2. Steueraussetzungsverfahren: Ist Ware in zugelassenem Lager (Steuerlager) und EMCS aktiviert?
 3. Befoerderungsdokument (elektronisches Verwaltungsdokument e-VD) in EMCS anlegen.
-4. Ausfuhrerstattungsantrag: Ausfuhrnachweise (ATLAS-Ausgangsvermerk) fuer Verbrauchsteuer-Erstattung.
+4. Ausfuhrerstattungsantrag: Ausfuhrnachweise (ATLAS-Ausgangsvermerk) für Verbrauchsteuer-Erstattung.
 5. Steuerterritorium pruefen: Sondergebiete (Kanalinsel Buesingen) und Ueberschneidung mit Zollgebiet.
 6. Nationale Verbrauchsteuerbehoerde (Hauptzollamt) und EMCS-Zugangsberechtigung pruefen.
 
 ## Rechtsrahmen
 
-- **RL 2008/118/EG (Systemrichtlinie)**: Allgemeine Regelung fuer verbrauchsteuerpflichtige Waren.
+- **RL 2008/118/EG (Systemrichtlinie)**: Allgemeine Regelung für verbrauchsteuerpflichtige Waren.
 - **EnergieStG**: Energiesteuer bei Mineral- und Biokraftstoffen.
 - **BierStG AlkStG TabStG**: Warenbezogene Verbrauchsteuern.
 - **§ 38 EnergieStG**: Steuerbefreiung bei Ausfuhr von Energieerzeugnissen.
@@ -45,9 +45,9 @@ Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer Tabaksteuer un
 - [ ] Ware korrekt als verbrauchsteuerpflichtig identifiziert?
 - [ ] Steueraussetzungsverfahren und EMCS korrekt eroeffnet?
 - [ ] e-VD vollstaendig und korrekt ausgefuellt?
-- [ ] Ausfuhrnachweise fuer Erstattungsantrag vorhanden?
+- [ ] Ausfuhrnachweise für Erstattungsantrag vorhanden?
 - [ ] Steuerterritorium-Sonderregelungen beachtet?
-- [ ] Zustaendiges Hauptzollamt fuer Verbrauchsteuer korrekt bestimmt?
+- [ ] Zustaendiges Hauptzollamt für Verbrauchsteuer korrekt bestimmt?
 
 ## Typische Fallstricke
 
@@ -60,7 +60,7 @@ Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer Tabaksteuer un
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

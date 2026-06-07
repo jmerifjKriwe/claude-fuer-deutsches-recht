@@ -19,7 +19,7 @@ Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB
 
 ## Zweck
 
-SaaS-Verträge haben ein anderes Risikoprofil als einmalige Lieferantenverträge. Die Kosten akkumulieren über Verlängerungen, die Daten häufen sich an, und die Wechselkosten wachsen monatlich. Dieser Skill prüft unter Berücksichtigung dieser Besonderheiten. Er führt die Standard-Playbook-Prüfung aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` durch und ergänzt sie um einen SaaS-spezifischen Prüfaufschlag für die Punkte, die bei Abonnementverträgen besonders gefährlich sind.
+SaaS-Verträge haben ein anderes Risikoprofil als einmalige Lieferantenverträge. Die Kosten akkumulieren über Verlängerungen, die Daten häufen sich an, und die Wechselkosten wachsen monatlich. Dieser Skill prüft unter Berücksichtigung dieser Besonderheiten. Er führt die Standard-Playbook-Prüfung aus `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md` durch und ergänzt sie um einen SaaS-spezifischen Prüfaufschlag für die Punkte, die bei Abonnementverträgen besonders gefährlich sind.
 
 ## Eingaben
 
@@ -27,7 +27,7 @@ SaaS-Verträge haben ein anderes Risikoprofil als einmalige Lieferantenverträge
 - Ggf. Auftragsformular (Order Form) separat
 - AVV/DPA (falls als separates Dokument)
 - Kontext: Auftraggeber oder Auftragnehmer?
-- Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`
+- Praxisprofil aus `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md`
 
 ## Akten-Kontext
 
@@ -42,7 +42,7 @@ Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen. Falls keine aktive A
 - Das Unternehmen ist SaaS-Anbieter, Gegenpartei ist Kunde → Verkäuferseite
 - Reseller/White-Label? → Fragen: "Auf welcher Seite steht [Unternehmen] – Anbieter oder Kunde?"
 
-Aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` den zutreffenden Playbook-Abschnitt lesen. Falls nicht konfiguriert: Setup-Befehl nennen.
+Aus `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md` den zutreffenden Playbook-Abschnitt lesen. Falls nicht konfiguriert: Setup-Befehl nennen.
 
 AGB-Kontrolle nach §§ 305–310 BGB:
 - Einbeziehungsvoraussetzungen (§ 305 Abs. 2 BGB) prüfen

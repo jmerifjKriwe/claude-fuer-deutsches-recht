@@ -56,7 +56,7 @@ Bei vorformulierten Vertragsbedingungen gegenueber Verbraucher gilt erhoehte Kon
 | Konstellation | Verzugseintritt |
 |---|---|
 | Mahnung nach Faelligkeit | mit Zugang Mahnung (§ 286 Abs. 1 BGB) |
-| Kalendermaessige Faelligkeit | mit Faelligkeit (§ 286 Abs. 2 Nr. 1 BGB) |
+| Kalendermäßige Faelligkeit | mit Faelligkeit (§ 286 Abs. 2 Nr. 1 BGB) |
 | 30 Tage nach Rechnungszugang | **nur mit Hinweis** in Rechnung (§ 286 Abs. 3 BGB) |
 
 **Achtung:** Ohne Hinweis-Klausel "Bei Nichtzahlung binnen 30 Tagen treten Sie in Verzug" gilt 30-Tage-Regel nicht.
@@ -133,7 +133,7 @@ Es wird beantragt:
 
 - Vereinbarter Gerichtsstand bei Verbraucher → § 38 Abs. 2 ZPO unwirksam.
 - Pauschale 40 EUR gegen Verbraucher beantragt – nicht zulaessig.
-- AGB-Pauschalen ueber 2,50 EUR fuer Mahnungen – § 309 Nr. 5 BGB.
+- AGB-Pauschalen ueber 2,50 EUR für Mahnungen – § 309 Nr. 5 BGB.
 - Widerrufsbelehrung fehlt / fehlerhaft → Widerruf noch moeglich nach Klageerhebung.
 - 30-Tage-Verzug ohne Hinweis in Rechnung angenommen.
 

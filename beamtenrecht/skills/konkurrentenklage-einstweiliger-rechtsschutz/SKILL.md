@@ -1,13 +1,13 @@
 ---
 name: konkurrentenklage-einstweiliger-rechtsschutz
-description: "Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrentenstreit. Skill liefert Schriftsatzgeruest fuer Antrag auf einstweilige Anordnung mit dem Begehren die Ernennung des ausgewaehlten Konkurrenten zu untersagen bis ueber die Bewerbung des Antragstellers rechtsfehlerfrei entschieden ist. Behandelt Anordnungsanspruch Bestenauslese Anordnungsgrund Aemterstabilitaet sowie Konkurrenz zu § 80 V VwGO. Klaert Fristenlage nach Mitteilung der Auswahlentscheidung und das Zusammenspiel mit dem Schwester-Skill konkurrentenschutz-bestenauslese-art-33-ii-gg im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrentenstreit. Skill liefert Schriftsatzgeruest für Antrag auf einstweilige Anordnung mit dem Begehren die Ernennung des ausgewaehlten Konkurrenten zu untersagen bis ueber die Bewerbung des Antragstellers rechtsfehlerfrei entschieden ist. Behandelt Anordnungsanspruch Bestenauslese Anordnungsgrund Aemterstabilitaet sowie Konkurrenz zu § 80 V VwGO. Klaert Fristenlage nach Mitteilung der Auswahlentscheidung und das Zusammenspiel mit dem Schwester-Skill konkurrentenschutz-bestenauslese-art-33-ii-gg im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konkurrentenklage — einstweiliger Rechtsschutz nach § 123 VwGO
 
 ## Arbeitsbereich
 
-Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrentenstreit. Skill liefert Schriftsatzgeruest fuer Antrag auf einstweilige Anordnung mit dem Begehren die Ernennung des ausgewaehlten Konkurrenten zu untersagen bis ueber die Bewerbung des Antragstellers rechtsfehlerfrei entschieden ist. Behandelt Anordnungsanspruch Bestenauslese Anordnungsgrund Aemterstabilitaet sowie Konkurrenz zu § 80 V VwGO. Klaert Fristenlage nach Mitteilung der Auswahlentscheidung und das Zusammenspiel mit dem Schwester-Skill konkurrentenschutz-bestenauslese-art-33-ii-gg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrentenstreit. Skill liefert Schriftsatzgeruest für Antrag auf einstweilige Anordnung mit dem Begehren die Ernennung des ausgewaehlten Konkurrenten zu untersagen bis ueber die Bewerbung des Antragstellers rechtsfehlerfrei entschieden ist. Behandelt Anordnungsanspruch Bestenauslese Anordnungsgrund Aemterstabilitaet sowie Konkurrenz zu § 80 V VwGO. Klaert Fristenlage nach Mitteilung der Auswahlentscheidung und das Zusammenspiel mit dem Schwester-Skill konkurrentenschutz-bestenauslese-art-33-ii-gg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrentenstreit. Skill
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Bewerber im oeffentlichen Dienst, die nach Mitteilung einer Auswahlentscheidung verhindern muessen, dass der Konkurrent ernannt wird. Sobald die Ernennung erfolgt ist, ist sie nach dem Grundsatz der Aemterstabilitaet in der Regel unangreifbar; daraus folgt die zentrale Bedeutung des einstweiligen Rechtsschutzes.
+Skill für Bewerber im öffentlichen Dienst, die nach Mitteilung einer Auswahlentscheidung verhindern muessen, dass der Konkurrent ernannt wird. Sobald die Ernennung erfolgt ist, ist sie nach dem Grundsatz der Aemterstabilitaet in der Regel unangreifbar; daraus folgt die zentrale Bedeutung des einstweiligen Rechtsschutzes.
 
 ## 2. Eingaben
 
@@ -32,7 +32,7 @@ Skill fuer Bewerber im oeffentlichen Dienst, die nach Mitteilung einer Auswahlen
 ## 3. Ablauf / Checkliste
 
 ### a) Form und Fristen
-- Form: Schriftsatz an das zustaendige Verwaltungsgericht; Vertretung durch Rechtsanwalt nicht zwingend, aber im OVG zwingend (§ 67 IV VwGO).
+- Form: Schriftsatz an das zuständige Verwaltungsgericht; Vertretung durch Rechtsanwalt nicht zwingend, aber im OVG zwingend (§ 67 IV VwGO).
 - Antragsfrist: Eingang vor Ablauf der Mitteilungsfrist; in der Praxis sofort nach Erhalt der Konkurrentenmitteilung.
 
 ### b) Antrag

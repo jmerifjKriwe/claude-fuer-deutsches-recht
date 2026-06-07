@@ -1,20 +1,20 @@
 ---
 name: waehrend-insolvenz-verjaehrung-alttitel
-description: "Waehrend Insolvenz Verjaehrung Alttitel im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Vergleich während Insolvenz/Wohlverhalten, Verjährung und Alttitel, Versagungsgründe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Waehrend Insolvenz Verjährung Alttitel im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Vergleich während Insolvenz/Wohlverhalten, Verjährung und Alttitel, Versagungsgründe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Waehrend Insolvenz Verjaehrung Alttitel
+# Waehrend Insolvenz Verjährung Alttitel
 
 ## Arbeitsbereich
 
-**Waehrend Insolvenz Verjaehrung Alttitel** ordnet den Fall über die tragenden Prüfungslinien: Vergleich während Insolvenz/Wohlverhalten, Verjährung und Alttitel, Versagungsgründe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Waehrend Insolvenz Verjährung Alttitel** ordnet den Fall über die tragenden Prüfungslinien: Vergleich während Insolvenz/Wohlverhalten, Verjährung und Alttitel, Versagungsgründe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `vergleich-waehrend-insolvenz` | Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.; Normanker: InsO §§ 300 und 213 und 299; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `verjaehrung-und-alttitel` | Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.; Normanker: BGB §§ 195 und 197 und 199 und 212; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `versagung-restschuldbefreiung` | Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.; Normanker: InsO §§ 290 und 296 und 297 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `vergleich-waehrend-insolvenz` | Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.; Normanker: InsO §§ 300 und 213 und 299; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `verjaehrung-und-alttitel` | Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.; Normanker: BGB §§ 195 und 197 und 199 und 212; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `versagung-restschuldbefreiung` | Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.; Normanker: InsO §§ 290 und 296 und 297 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Waehrend Insolvenz Verjaehrung Alttitel im Plugin Verbraucherinsol
 
 ## 1. `vergleich-waehrend-insolvenz`
 
-**Fokus:** Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.; Normanker: InsO §§ 300 und 213 und 299; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.; Normanker: InsO §§ 300 und 213 und 299; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.
 
@@ -66,7 +66,7 @@ InsO §§ 300, 213, 299. Entscheidend ist immer der aktuelle Normstand der InsO,
 
 ## 2. `verjaehrung-und-alttitel`
 
-**Fokus:** Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.; Normanker: BGB §§ 195 und 197 und 199 und 212; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.; Normanker: BGB §§ 195 und 197 und 199 und 212; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.
 
@@ -105,7 +105,7 @@ BGB §§ 195, 197, 199, 212. Entscheidend ist immer der aktuelle Normstand der I
 
 ## 3. `versagung-restschuldbefreiung`
 
-**Fokus:** Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.; Normanker: InsO §§ 290 und 296 und 297 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.; Normanker: InsO §§ 290 und 296 und 297 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.
 

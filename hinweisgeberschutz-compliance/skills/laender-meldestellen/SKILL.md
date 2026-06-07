@@ -3,7 +3,7 @@ name: laender-meldestellen
 description: "Prüft länderspezifische externe Meldestellen und Spezialzuständigkeiten im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Laender Meldestellen
+# Länder Meldestellen
 
 ## Arbeitsbereich
 

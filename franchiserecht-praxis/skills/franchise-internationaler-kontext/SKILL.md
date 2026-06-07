@@ -1,13 +1,13 @@
 ---
 name: franchise-internationaler-kontext
-description: "Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster fuer Cross-Border-Franchise im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster für Cross-Border-Franchise im Franchiserecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Franchise Internationaler Kontext
 
 ## Arbeitsbereich
 
-Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster fuer Cross-Border-Franchise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster für Cross-Border-Franchise. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Franchise im internationalen Kontext. Skill behandelt international taetige Fran
 
 ## Aufgabe
 
-Skill fuer internationale Franchise-Mandate.
+Skill für internationale Franchise-Mandate.
 
 ## Anwendbares Recht
 
@@ -35,7 +35,7 @@ Skill fuer internationale Franchise-Mandate.
 
 - Verbraucherschutz (Art. 6 Rom-I).
 - Kartellrecht (Art. 9 Rom-I als Eingriffsnorm).
-- Pflichtige Sprache fuer wichtige Klauseln in einigen Laendern (Frankreich Loi Toubon).
+- Pflichtige Sprache für wichtige Klauseln in einigen Ländern (Frankreich Loi Toubon).
 
 ## Schiedsabrede
 

@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-einkaufszentrum-mall
-description: "Bauueberwachung nach HOAI LPH 8 fuer Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme fuer verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM fuer Betreibergesellschaft im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme für verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM für Betreibergesellschaft im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Einkaufszentrum Mall (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme fuer verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM fuer Betreibergesellschaft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme für verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM für Betreibergesellschaft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -68,13 +68,13 @@ Mieteinheiten-bezogene Abnahmepruefung sichert die Uebergabe an jeden Mieter mit
 
 - SAP PM Shopping Center: Equipment Sprinkler-Anlage, RWA-Klappen, Aufzuege, Wartungsplaene
 - SAP PM Meldung M2 Schadensmeldung: Sprinkler-Undichtheit, Kostenstelle Mall-Betrieb
-- PlanRadar Mieteinheiten-Abnahme: Checkliste je Mieteinheit Export als PDF fuer Mieter
+- PlanRadar Mieteinheiten-Abnahme: Checkliste je Mieteinheit Export als PDF für Mieter
 - RIB iTWO: Schlusskostenfeststellung Kerngebaeude und Mieterausbau getrennt nach Kostengruppen
-- BIM360 Docs: Bestandspluene je Mieteinheit, As-Built-Dokumentation fuer Betreibergesellschaft
+- BIM360 Docs: Bestandspluene je Mieteinheit, As-Built-Dokumentation für Betreibergesellschaft
 
 ## Typische Fallstricke
 
-- Sprinkler-Zone ohne Abnahme eroeffnet: VdS verweigert Versicherungsschutz, Behoerde schliesst Mall
+- Sprinkler-Zone ohne Abnahme eroeffnet: VdS verweigert Versicherungsschutz, Behörde schliesst Mall
 - RWA-Anlage defekt: Rauchabzug bei Brand nicht ausgeloest, Raeumungszeit unterschritten
 - Mieteinheiten-Abnahme vergessen: Mieter nimmt ohne Protokoll in Besitz, Maengel nicht festgestellt
 - Fettabscheider zu klein: Abwasserrueckstau bei Vollbetrieb Foodcourt, Betriebsstilllegung

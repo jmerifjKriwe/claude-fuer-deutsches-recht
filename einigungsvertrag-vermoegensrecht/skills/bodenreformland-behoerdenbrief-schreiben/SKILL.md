@@ -3,11 +3,11 @@ name: bodenreformland-behoerdenbrief-schreiben
 description: "Einigungsvertrag und Vermögensrecht: Bodenreformland: Behördenbrief schreiben im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Bodenreformland Behoerdenbrief Schreib
+# Bodenreformland Behördenbrief Schreib
 
 ## Arbeitsbereich
 
-Spezialthema **Bodenreformland Behoerdenbrief Schreib** im Einigungsvertrag/Vermögensrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Bodenreformland Behördenbrief Schreib** im Einigungsvertrag/Vermögensrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Bodenreformland Behoerdenbrief Schreib** im Einigungsvertrag/Verm
 
 ## Arbeitsauftrag
 
-Bodenreformland Behoerdenbrief Schreib wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Bodenreformland Behördenbrief Schreib wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 

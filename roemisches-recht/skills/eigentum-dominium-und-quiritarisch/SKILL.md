@@ -5,6 +5,24 @@ description: "Römisches Recht: Eigentum Dominium Und Quiritarisch. Geführter F
 
 # Eigentum Dominium Und Quiritarisch
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Arbeitsauftrag
 
 Dieser Skill bearbeitet **Eigentum Dominium Und Quiritarisch** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
@@ -57,13 +75,13 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 - **Gaius II.40-41**: Trennung dominium ex iure Quiritium (zivil) vs. dominium in bonis (praetorisch bonitarisch).
 
 ### Eigentumstypen
-- **Dominium ex iure Quiritium**: vollwertiges roemisches Eigentum; nur fuer roemische Buerger, nur res mancipi und nec mancipi.
+- **Dominium ex iure Quiritium**: vollwertiges roemisches Eigentum; nur für roemische Buerger, nur res mancipi und nec mancipi.
 - **In bonis habere**: bonitarisches Eigentum nach praetorischem Schutz; bei fehlender mancipatio-Form.
 - **Provinzialeigentum**: nicht volles Quiritareigentum an Provinzialgrundstuecken.
 
 ### Subsumtionsbeispiel: Sklave verkauft per traditio statt mancipatio
 Sachverhalt: A verkauft seinen Sklaven Marcus durch blosse traditio (Uebergabe) statt durch mancipatio.
-- **Roemisch klassisch**: Sklave ist res mancipi; ohne mancipatio kein dominium ex iure Quiritium fuer den Kaeufer. ABER praetor schuetzt den Kaeufer durch actio Publiciana und exceptio rei venditae et traditae — bonitarisches Eigentum. Nach Ablauf der Usucapio-Frist (1 Jahr fuer res mobiles, 2 Jahre fuer res soli) wird der Kaeufer Volleigentuemer.
+- **Roemisch klassisch**: Sklave ist res mancipi; ohne mancipatio kein dominium ex iure Quiritium für den Kaeufer. ABER praetor schuetzt den Kaeufer durch actio Publiciana und exceptio rei venditae et traditae — bonitarisches Eigentum. Nach Ablauf der Usucapio-Frist (1 Jahr für res mobiles, 2 Jahre für res soli) wird der Kaeufer Volleigentuemer.
 - **BGB**: § 929 BGB Einigung und Uebergabe — kein Unterschied zwischen mancipatio und traditio mehr; sofortiger Eigentumserwerb.
 
 ### Subsumtionsbeispiel: Doppelverkauf

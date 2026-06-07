@@ -51,7 +51,7 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 8. Hinweise / Vorbehalte / Auftragsbestaetigung
 ```
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Abschnitt 1 — Briefkopf
 

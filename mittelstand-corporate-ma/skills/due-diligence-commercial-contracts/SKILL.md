@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -161,7 +161,7 @@ Prüft Kunden-, Lieferanten-, Händler-, SaaS-, Lizenz- und Materialverträge au
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 305-310 BGB — AGB-Kontrolle: ungewoehnliche Klauseln in Standardvertraegen koennen unwirksam sein; relevant fuer Haftungsobergrenzen, Kuendigungsklauseln
+- §§ 305-310 BGB — AGB-Kontrolle: ungewoehnliche Klauseln in Standardvertraegen koennen unwirksam sein; relevant für Haftungsobergrenzen, Kuendigungsklauseln
 - §§ 433 ff. BGB — Kaufvertragsrecht: Gewaehrleistung bei mangelhafter Vertragsuebertragung
 - § 613a BGB — Betriebsuebergang: bei Asset Deal gehen Arbeitsverhaeltnisse kraft Gesetzes ueber; Change-of-Control in Arbeitsvertraegen unwirksam, soweit sie § 613a BGB umgehen
 - §§ 15 ff. MarkenG / §§ 58 ff. PatG — IP-Lizenzvertraege: Einschrankung der Rechte bei Inhaberwechsel; Zustimmungsvorbehalte
@@ -173,12 +173,12 @@ Prüft Kunden-, Lieferanten-, Händler-, SaaS-, Lizenz- und Materialverträge au
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Vertragsmatrix erstellen:** alle materiellen Vertraege auflisten; je Vertrag: Parteien, Laufzeit, Kuendigungsrechte, Wert, Change-of-Control-Klausel
 2. **Change-of-Control-Screening:** jeder Vertrag auf Kuendigungsrecht oder Zustimmungspflicht bei Anteilsuebertragung pruefen
 3. **Exklusivitaets-Mapping:** Exklusivitaeten, Wettbewerbsverbote, Alleinvertriebsrechte, die nach Closing problematisch sind
-4. **Haftungs- und Garantieklauseln:** Haftungsobergrenzen, Gewichtung Vertragsrisiken fuer SPA-Garantien
+4. **Haftungs- und Garantieklauseln:** Haftungsobergrenzen, Gewichtung Vertragsrisiken für SPA-Garantien
 5. **IP-Lizenz-Check:** Marken, Patente, Software-Lizenzen; Change-of-Control und Zustimmungserfordernisse
 6. **Findings in SPA-Garantien ubersetzen:** Change-of-Control-Klauseln → Disclosure; Kuendigungsrechte → Freistellung oder Preisanpassung
 

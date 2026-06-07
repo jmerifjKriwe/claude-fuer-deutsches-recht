@@ -45,7 +45,7 @@ description: "Schriftsatzkern Substantiierung im Migrationsrecht: prüft konkret
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -107,7 +107,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -115,7 +115,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Auslaender-, Asyl- und Staatsangehoerigkeitsrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht.
 - AufenthG, AsylG, StAG, FreizuegigG/EU, BeschV, EU-RL 2008/115/EG sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -151,7 +151,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht (Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -183,7 +183,7 @@ Typische Antraege in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht (Klage VG
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -218,8 +218,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Vertiefung: Rechtsprechung und Normen (Migrationsrecht Schriftsatz)
 
@@ -247,7 +247,7 @@ Bevor losgelegt wird, klaere:
 3. PKH-Antrag — Voraussetzungen darlegen (Beiordnung Anwalt nach §§ 166 VwGO, 114 ZPO)?
 4. Welche Beweismittel: Atteste, Identitaetsdokumente, Familienstandsnachweise?
 5. Besteht Sofort-Eilbeduerftigkeit (Abschiebung angekuendigt, Frist heute)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -282,7 +282,7 @@ Prozessbevollmaechtigte: [KANZLEI, ADRESSE]
 
 gegen
 
-Bundesrepublik Deutschland, vertreten durch das Bundesamt fuer
+Bundesrepublik Deutschland, vertreten durch das Bundesamt für
 Migration und Fluechtlinge (BAMF), [ANSCHRIFT AUSSENSTELLE]
 — Beklagte —
 
@@ -298,7 +298,7 @@ zuzuerkennen.
 
 II. SACHVERHALT
 [Chronologische Darstellung Verfolgungsgeschichte mit Daten und Belegen]
-[Anlage K1: Identitaetsdokument; K2: Attest; K3: Laenderkunde-Bericht]
+[Anlage K1: Identitaetsdokument; K2: Attest; K3: Länderkunde-Bericht]
 
 III. RECHTLICHE WUERDIGUNG
 [Subsumtion unter § 3 AsylG / § 4 AsylG / § 60 AufenthG]

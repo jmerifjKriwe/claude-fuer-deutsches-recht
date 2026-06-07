@@ -19,14 +19,14 @@ Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Pla
 
 ## Zweck
 
-Einen Lieferanten- oder Dienstleistervertrag gegen das tatsächlich verwendete Playbook der Rechtsabteilung prüfen (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), jede abweichende Klausel identifizieren und dem Juristen mitteilen, was zu tun ist – mit konkreten Redline-Formulierungen, keinen vagen "Überarbeitung erwägen"-Empfehlungen. Maßgeblich: §§ 611, 631 BGB (Dienst-/Werkvertrag), §§ 434 ff. BGB (Kauf), §§ 305–310 BGB (AGB-Recht), LkSG, ggf. CISG.
+Einen Lieferanten- oder Dienstleistervertrag gegen das tatsächlich verwendete Playbook der Rechtsabteilung prüfen (in `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md`), jede abweichende Klausel identifizieren und dem Juristen mitteilen, was zu tun ist – mit konkreten Redline-Formulierungen, keinen vagen "Überarbeitung erwägen"-Empfehlungen. Maßgeblich: §§ 611, 631 BGB (Dienst-/Werkvertrag), §§ 434 ff. BGB (Kauf), §§ 305–310 BGB (AGB-Recht), LkSG, ggf. CISG.
 
 ## Eingaben
 
 - Lieferanten- oder Dienstleistervertrag (Datei-Upload oder Direkteingabe)
 - Ggf. Auftragsformular oder Leistungsbeschreibung separat
 - Jahreswert/Gesamtvertragswert (für Eskalations-Routing erforderlich)
-- Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`
+- Praxisprofil aus `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md`
 
 ## Akten-Kontext
 
@@ -36,7 +36,7 @@ Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen und Ausgaben dort spe
 
 ### Schritt 1: Playbook laden
 
-**Vor dem Vertragslesen** `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` lesen. Falls fehlend oder Platzhalter:
+**Vor dem Vertragslesen** `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md` lesen. Falls fehlend oder Platzhalter:
 
 > Praxisprofil noch nicht konfiguriert.
 >

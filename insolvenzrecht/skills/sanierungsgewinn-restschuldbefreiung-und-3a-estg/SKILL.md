@@ -39,7 +39,7 @@ Dieser Skill ordnet die Konstellationen und liefert Pruefraster. Adressat: IV, S
 
 - Mandant ist natuerliche Person (Einzelunternehmer, Freiberufler).
 - Restschuldbefreiung wurde angekuendigt oder ist anhaengig.
-- Plan-Sanierung wird fuer den Einzelunternehmer geprueft.
+- Plan-Sanierung wird für den Einzelunternehmer geprueft.
 
 Kaltstart-Fragen:
 
@@ -60,7 +60,7 @@ Kaltstart-Fragen:
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 - Paragraph 251 AO.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Verbindlichkeiten klassifizieren:** geschaeftlich vs. privat. Nur geschaeftlich loest Sanierungsertrag aus.
 2. **Sanierungs-Modus:**
@@ -106,7 +106,7 @@ Die Restschuldbefreiung erlischt die Verbindlichkeit (Paragraph 301 Absatz 1 Ins
 
 1. **Verbindlichkeiten klassifizieren.** Eine Excel-Tabelle mit "geschaeftlich/privat/gemischt" pro Forderung ist die Basis.
 2. **Bei Einzelunternehmer immer pruefen, ob Plan oder Restschuldbefreiung das richtige Werkzeug ist.** Plan ist steuerlich tendenziell besser, weil Paragraph 3a EStG greifen kann.
-3. **Erlassantrag Paragraph 227 AO** fuer den unternehmerbezogenen Anteil vorbereiten.
+3. **Erlassantrag Paragraph 227 AO** für den unternehmerbezogenen Anteil vorbereiten.
 4. **Verbraucherinsolvenz-Mandat:** Steueranfall pruefen, aber selten relevant.
 5. **Wohlverhaltensphase laeuft drei Jahre.** Plan im Vorfeld kann die Wohlverhaltensphase umgehen.
 6. **Versagungsgruende Paragraph 290 InsO** im Auge behalten — die Restschuldbefreiung ist nicht selbstverstaendlich.
@@ -141,7 +141,7 @@ sind aus steuerlicher Sicht zwei Schichten zu trennen:
 
 1. Geschaeftsschulden, die im Plan teilweise erlassen werden:
 Forderungsverzicht in Hoehe EUR [Betrag] loest einen Sanierungsertrag
-aus. Wir werden hierfuer den Antrag nach Paragraph 3a EStG stellen.
+aus. Wir werden hierfür den Antrag nach Paragraph 3a EStG stellen.
 
 2. Privatschulden, die mit Erteilung der Restschuldbefreiung erloeschen:
 Keine steuerlichen Folgen.

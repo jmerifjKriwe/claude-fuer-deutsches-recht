@@ -191,6 +191,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Verkehrsstrafrecht:**
  - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor Feststellung + Vorsatz; Verzeihung BVerfG durch hoehere Strafe nicht moeglich.
  - **§ 316 StGB Trunkenheit:** absolute Fahruntuechtigkeit ab 1,1 Promille BAK (PKW); relative ab 0,3 mit Ausfallerscheinungen.
- - **§ 315c StGB Gefaehrdung StraVerkehr:** konkrete Gefahr fuer Leib / Leben / fremde Sachen erheblichen Wertes.
+ - **§ 315c StGB Gefaehrdung StraVerkehr:** konkrete Gefahr für Leib / Leben / fremde Sachen erheblichen Wertes.
  - **§ 315d StGB Verbotene Kraftfahrzeugrennen:** seit 2017 Vergehen mit Freiheitsstrafe bis 2 Jahre, qualifiziert bis 10 Jahre.
 - **Beweiserhebung Verkehrsstrafrecht:** Blutalkoholgutachten (Blutprobe § 81a StPO Voraussetzungen, Richtervorbehalt grundsaetzlich); Drogengutachten (Anlage zu § 24a StVG Wirkstoffliste); Ringversuch Massbericht.

@@ -5,7 +5,7 @@ description: "Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschaeftsber
 
 # Voelkerrecht und Vertragsgesetzgebung (AA)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Voelkerrecht und Vertragsgesetzgebung im Geschaeftsbereich AA. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Voelkerrecht und Vertragsgesetzgebung im Geschaeftsbereich AA. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -24,7 +24,7 @@ Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verw
 
 AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -36,7 +36,7 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 Vertragsentwurf in deutschen Rechtsrahmen einpassen; Zustimmungsgesetz nach Art. 59 Abs. 2 GG; Ratifikation; Inkrafttreten; voelkerrechtliche Vorbehalte und Erklaerungen.
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -75,7 +75,7 @@ Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

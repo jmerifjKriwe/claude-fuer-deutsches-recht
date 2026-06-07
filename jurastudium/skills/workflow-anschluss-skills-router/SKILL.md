@@ -22,7 +22,7 @@ Diese Prüfungslinie leitet nach der ersten Prüfung in die passenden Fachmodule
 
 ## Routing-Heuristik
 - **Zivilrechtsklausur, Sachverhalt mit Anspruch:** -> `loesungsschemata`, `subsumtionslehre`, `gutachten-uebung`, `methodenlehre-zivilrecht`.
-- **Öffentliches Recht (Verfassung/Verwaltung):** -> `methodenlehre-oeffentliches-recht`, `loesungsschemata` (Verfahren: Zulässigkeit, Begründetheit).
+- **Öffentliches Recht (Verfassung/Verwaltung):** -> `methodenlehre-öffentliches-recht`, `loesungsschemata` (Verfahren: Zulässigkeit, Begründetheit).
 - **Strafrecht (Klausur oder AG):** -> `methodenlehre-strafrecht` (Aufbau: TB, RW, Schuld, ggf. Strafe).
 - **Lernplanung/Karteikarten:** -> `lernplan`, `karteikarten`, `lernstrategien`, `examens-prognose`.
 - **Hausarbeit:** -> `juristisches-schreiben`, Verweis auf Plugin `hausarbeitenmacher`.

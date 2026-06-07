@@ -13,7 +13,7 @@ description: "Mandantenrechnung Honorar StBVV. Anwendungsfall Honorarabrechnung 
 
 ## Kernsachverhalt
 
-Der Steuerberater rechnet sein Honorar nach der StBVV (Steuerberatervergutungsverordnung) ab. Drei Hauptformen: Pauschalverguetung (in Mandatsvereinbarung), Zeithonorar (bei nicht-routinemaessigen Auftraegen), Gegenstandswert-Gebuehr (bei Jahresabschluss, Steuererklaerungen). Der Steuerberater muss die StBVV strikt einhalten — Abweichungen ohne Mandantenvereinbarung sind rechtswidrig.
+Der Steuerberater rechnet sein Honorar nach der StBVV (Steuerberatervergutungsverordnung) ab. Drei Hauptformen: Pauschalverguetung (in Mandatsvereinbarung), Zeithonorar (bei nicht-routinemäßigen Auftraegen), Gegenstandswert-Gebuehr (bei Jahresabschluss, Steuererklaerungen). Der Steuerberater muss die StBVV strikt einhalten — Abweichungen ohne Mandantenvereinbarung sind rechtswidrig.
 
 ## Kaltstart-Rueckfragen
 
@@ -72,7 +72,7 @@ Der Steuerberater rechnet sein Honorar nach der StBVV (Steuerberatervergutungsve
 | USt-Voranmeldung | Brutto-Umsatz |
 | Pruefungsbegleitung | Pruefungsergebnis |
 
-### Phase 3 — Gebuehrensatz waehlen
+### Phase 3 — Gebührensatz waehlen
 
 - 10/10 = Mittelgebuehr (Standardfall).
 - 4/10 bis 18/10 = Bandbreite je nach Schwierigkeit, Bedeutung, Umfang.
@@ -93,14 +93,14 @@ Rechnungsdatum: ...
 Leistungsbeschreibung:
 1. Jahresabschluss [Jahr]
  Gegenstandswert: [X]
- Gebuehrensatz nach § 35 StBVV: 25/10
+ Gebührensatz nach § 35 StBVV: 25/10
  Mittelgebuehr: [Y]
  Faktor: ...
  Honorar netto: [Z]
 
 2. Buchfuehrung Monate [von - bis]
  Gegenstandswert: [X]
- Gebuehrensatz nach § 33 StBVV: 5/10
+ Gebührensatz nach § 33 StBVV: 5/10
  Honorar netto: [Z]
 
 3. Auslagen
@@ -137,7 +137,7 @@ Bankverbindung: ...
 ## Strategie und Praxis-Tipps
 
 - Die StBVV definiert den Mindestrahmen — eine Unterschreitung der Mindestgebuehr ist nur in begruendeten Ausnahmefaellen und unter Beachtung von § 4 StBVV (Hoehe der Verguetung) zulaessig.
-- Pauschalvereinbarung ist Standard bei laufender Mandatsbetreuung — Planungssicherheit fuer beide Seiten; Schriftform nach § 14 StBVV beachten.
+- Pauschalvereinbarung ist Standard bei laufender Mandatsbetreuung — Planungssicherheit für beide Seiten; Schriftform nach § 14 StBVV beachten.
 - Bei Beratungstaetigkeiten ist ein Zeithonorar oft sachgerecht (genaue Erfassung mit Stundenzettel, ggf. Stundensatz nach § 13 StBVV).
 - Bei Mandatsende StBVV-Abrechnung konsequent durchsetzen; Transparenz vorab vermeidet Konflikte (Hinweis im Onboarding und Pauschalvertrag).
 - USt-Pflicht beachten — StB-Leistungen sind grundsaetzlich USt-pflichtig (Regelsteuersatz 19 %).

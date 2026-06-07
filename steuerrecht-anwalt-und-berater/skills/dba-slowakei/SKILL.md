@@ -31,7 +31,7 @@ Das DBA Deutschland-CSSR vom 19.12.1980 (BGBl. 1982 II S. 1023) gilt nach Notenw
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-CSSR vom 19.12.1980** (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung fuer Slowakei per Bekanntmachung (BGBl. 1993 II S. 762).
+- **DBA Deutschland-CSSR vom 19.12.1980** (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung für Slowakei per Bekanntmachung (BGBl. 1993 II S. 762).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
@@ -91,7 +91,7 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 - **Erstattungsverfahren SK → DE-Mandant**: Antrag bei Finančné riaditeľstvo SR (Finanzdirektion); Online-Portal "Portál FS" (vom Anwender mit aktuellem Stand des slowakischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der slowakischen Finanzverwaltung als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Slowakisch; das urspruengliche DBA war Deutsch und Tschechoslowakisch — bei Auslegung gilt die slowakische Nachfolgeversion. Konsolidierter Text in beiden Sprachen beim BMF und beim slowakischen Finanzministerium.
 - **Lokaler Berater**: Bei slowakischer s.r.o. mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines slowakischen "daňový poradca" (Steuerberater); SK kennt strenge Verrechnungspreis-Dokumentation und elektronische Rechnungsstellung (e-Invoicing ab 2025 ausgebaut, vom Anwender zu verifizieren).
-- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten fuer Standard-Steuerdokumente; bei Notarurkunden zwischen DE und SK ueblicherweise Apostille.
+- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten für Standard-Steuerdokumente; bei Notarurkunden zwischen DE und SK ueblicherweise Apostille.
 
 ## Edge Cases und Was-Pruefer-Triggert
 
@@ -126,9 +126,9 @@ Bei aktivem operativen Geschaeft (Aktivitaetskatalog § 8 Abs. 1 AStG erfuellt) 
 4. **Laufende Compliance**: SK-Buchfuehrungspflichten und Verrechnungspreis-Dokumentation; DE-Erklaerung mit Anrechnung.
 5. **Audit-Vorbereitung**: SK-Pruefer akribisch bei Verrechnungspreisen; DE-FA bei Substanz und CFC-Pruefung.
 
-## Ausgabeformat fuer Mandanten-Memo Slowakei
+## Ausgabeformat für Mandanten-Memo Slowakei
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Automotive-Werkvertrag, Beteiligung, Holding), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, Quellensteuer, CFC-Pruefung wegen SK-KSt-Staffel.
@@ -153,6 +153,6 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-CSSR
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-CSSR 19.12.1980 (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung fuer Slowakei per BGBl. 1993 II S. 762. MLI ab 01.01.2025. Dividenden 5/15 Prozent, Zinsen 0 Prozent, Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
+Stand: 05/2026. DBA-CSSR 19.12.1980 (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung für Slowakei per BGBl. 1993 II S. 762. MLI ab 01.01.2025. Dividenden 5/15 Prozent, Zinsen 0 Prozent, Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 8 geprueft und bestaetigt (BGBl-Fundstelle korrigiert; Fortgeltung Bekanntmachung; MLI 01.01.2025; Quellensteuer-Saetze; Slowakei-KSt Staffel 2025; Bauausfuehrung), 0 gestrichen -->

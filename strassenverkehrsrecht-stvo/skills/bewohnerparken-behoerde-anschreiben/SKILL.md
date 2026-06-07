@@ -3,11 +3,11 @@ name: bewohnerparken-behoerde-anschreiben
 description: "StVO: Bewohnerparken: Behörde anschreiben im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Bewohnerparken Behoerde Anschreiben
+# Bewohnerparken Behörde Anschreiben
 
 ## Arbeitsbereich
 
-Spezialthema **Bewohnerparken Behoerde Anschreiben** im Straßenverkehrsrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Bewohnerparken Behörde Anschreiben** im Straßenverkehrsrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Bewohnerparken Behoerde Anschreiben** im Straßenverkehrsrecht. D
 
 ## Arbeitsauftrag
 
-Bewohnerparken Behoerde Anschreiben wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Bewohnerparken Behörde Anschreiben wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Straßenverkehrsrecht und StVO: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 
@@ -27,8 +27,21 @@ Bewohnerparken Behoerde Anschreiben wird nicht als abstraktes Schema beantwortet
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 StVO` — gegenseitige Rücksichtnahme.
+- `§ 3 StVO` — Geschwindigkeit.
+- `§ 5 StVO` — Ueberholen.
+- `§ 24 StVG` — Verkehrsordnungswidrigkeiten.
+- `§ 25 StVG` — Fahrverbot.
+- `§ 28 StVG` — Fahreignungsregister.
+- `§ 49 StVO` — Ordnungswidrigkeiten.
+- `§ 69 StVZO` — Ordnungswidrigkeiten StVZO.
+- `§ 4 BKatV` — Regelfahrverbot.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - StVO, StVG, FeV, VwV-StVO, BKatV
 - Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
 - Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung

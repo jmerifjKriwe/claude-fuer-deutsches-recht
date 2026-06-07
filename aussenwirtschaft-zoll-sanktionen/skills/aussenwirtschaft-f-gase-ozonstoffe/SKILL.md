@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-f-gase-ozonstoffe
-description: "Ein- und Ausfuhrkontrolle fuer fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement
 
 ## Arbeitsbereich
 
-Ein- und Ausfuhrkontrolle fuer fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -28,14 +28,14 @@ Ein- und Ausfuhrkontrolle fuer fluorierte Treibhausgase (F-Gase) nach VO (EU) 51
 1. Stoff identifizieren: F-Gas (HFK/HFKW/PFK/SF6) nach Anhang I VO (EU) 517/2014 oder ODS nach VO (EG) 1005/2009.
 2. Quotenpflicht pruefen: F-Gas-Quotenregister der EU-Kommission (HFKW-Einfuhrquoten).
 3. Importeur-Zertifizierungspflicht und F-Gas-Zertifikat nach VO (EU) 2015/2067 pruefen.
-4. TARIC-Massnahmen fuer F-Gas-Einfuhren abrufen.
+4. TARIC-Massnahmen für F-Gas-Einfuhren abrufen.
 5. Genehmigungsantrag beim Umweltbundesamt stellen (ODS) oder Quotenzuteilung beantragen.
 6. Kuehlmittelprotokoll und Aufzeichnungspflichten sicherstellen.
 
 ## Rechtsrahmen
 
-- **VO (EU) 517/2014**: F-Gas-Verordnung, Quotensystem fuer HFK-Importe.
-- **VO (EG) 1005/2009**: Ozonschutzverordnung, Verbote und Genehmigungen fuer ODS.
+- **VO (EU) 517/2014**: F-Gas-Verordnung, Quotensystem für HFK-Importe.
+- **VO (EG) 1005/2009**: Ozonschutzverordnung, Verbote und Genehmigungen für ODS.
 - **§§ 14 ff. ChemOzonSchichtV**: Nationale Umsetzung Ozonschutz.
 - **UZK Art. 56**: Verbote und Beschraenkungen bei Einfuhr.
 - **§ 69 KrWG**: Bussgeldbewehrung bei Verstoss gegen Einfuhrverbote.
@@ -43,24 +43,24 @@ Ein- und Ausfuhrkontrolle fuer fluorierte Treibhausgase (F-Gase) nach VO (EU) 51
 ## Pruef-Raster
 
 - [ ] Stoff korrekt nach VO (EU) 517/2014 Anhang I oder VO (EG) 1005/2009 eingeordnet?
-- [ ] Quotenzuteilung fuer F-Gas-Importe vorhanden und ausreichend?
+- [ ] Quotenzuteilung für F-Gas-Importe vorhanden und ausreichend?
 - [ ] F-Gas-Zertifizierung des Importeurs aktuell?
 - [ ] TARIC-Massnahmen abgerufen und beachtet?
 - [ ] Aufzeichnungspflichten (Logbuch, Mengennachweis) erfuellt?
-- [ ] Genehmigung Umweltbundesamt fuer ODS vorhanden?
+- [ ] Genehmigung Umweltbundesamt für ODS vorhanden?
 
 ## Typische Fallstricke
 
 - F-Gas-Quoten werden jaehrlich zugeteilt; Ueberschreitung fuehrt zu Beschlagnahme.
 - Vorgeladene Klimaanlagen mit F-Gas werden wie Direktimport des Kaeltemittels behandelt.
 - Kaelteanlagentechniker ohne F-Gas-Zertifikat machen Unternehmen bussgeldpflichtig.
-- Ozonabbauende Stoffe in kleinen Mengen fuer Laboranalysen koennen Sonderausnahmen haben.
+- Ozonabbauende Stoffe in kleinen Mengen für Laboranalysen koennen Sonderausnahmen haben.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

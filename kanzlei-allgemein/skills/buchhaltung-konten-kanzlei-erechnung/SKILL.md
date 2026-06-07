@@ -28,8 +28,8 @@ Kanzlei-Buchhaltung mit Geschäftskonto offenen Posten Debitoren Kreditoren und 
 
 ## Zentrale Normen
 - § 43a Abs. 5 BRAO — Pflicht zur Trennung von Fremdgeld und eigenem Vermoegen
-- §§ 238-241 HGB — Buchfuehrungspflicht: Grundsaetze ordnungsmaessiger Buchfuehrung
-- § 147 AO — Aufbewahrungspflichten fuer Buchungsbelege (10 Jahre)
+- §§ 238-241 HGB — Buchfuehrungspflicht: Grundsaetze ordnungsmäßiger Buchfuehrung
+- § 147 AO — Aufbewahrungspflichten für Buchungsbelege (10 Jahre)
 - § 286 BGB — Verzug: Voraussetzungen und Verzugszinsen bei offenen Posten
 
 ## Quellenregel

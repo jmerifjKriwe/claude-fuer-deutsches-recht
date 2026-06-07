@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -121,7 +121,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche Warranties im SPA erfordern Disclosure Schedules (Specific vs. General Disclosures)?
 2. Ist ein General Disclosure Letter (GDL) vorgesehen oder nur Specific Disclosures?
 3. Was ist die Kenntnis-Definition (Seller's Knowledge: Best Knowledge, Actual Knowledge, Constructive Knowledge)?
-4. Gibt es eine Materiality-Schwelle fuer Disclosure-Eintrage (z.B. > 50 TEUR)?
+4. Gibt es eine Materiality-Schwelle für Disclosure-Eintrage (z.B. > 50 TEUR)?
 5. Anti-Sandbagging-Regelung: haftet Verkaefer auch bei Kaeufer-Kenntnis?
 6. Disclosure Letter als Schedule zum SPA oder separates Dokument?
 7. Zeitpunkt der Disclosure: nur bei Signing, oder auch Bring-Down-Disclosure bei Closing?
@@ -167,10 +167,10 @@ Allgemeine Offenlegung aller Datenraum-Dokumente als Disclosure — nur wirksam 
 | Compliance | Laufende Ermittlungen, GwG/AML-Vorwuerfe, Sanktionen | Regulatory-Risiko; Closing-Blockade |
 | Real Estate | Altlasten, Baulasten, Sondernutzungsrechte | Umwelthaftung; Wertverlust |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Warranty-Katalog analysieren** — jede Warranty des SPA einer Disclosure-Kategorie zuordnen
-2. **Disclosure-Koordinator benennen** — Ansprechpartner auf Verkaefer-Seite fuer jede Kategorie
+2. **Disclosure-Koordinator benennen** — Ansprechpartner auf Verkaefer-Seite für jede Kategorie
 3. **Faktensammlung** — Datenraum-Dokumente systematisch auf disclosure-relevante Informationen pruefen
 4. **Interne Anhörung** — Management, Finance, Legal, HR, Compliance abfragen
 5. **Entwurf Disclosure Letter** — konkrete Beschreibungen; keine allgemeinen Verweise auf Datenraum
@@ -218,7 +218,7 @@ ZU SCHEDULE 5.9 (EMPLOYMENT):
 2. Betriebliche Altersversorgung: Rueckdeckungsversicherung [Versicherungsgesellschaft]; Volumen [EUR]
 
 ZU SCHEDULE 5.11 (TAX):
-1. Offene Betriebspruefung fuer Zeitraum [Jahr-Jahr]; Finanzamt [Name]; Sachstand: [Beschreibung]
+1. Offene Betriebspruefung für Zeitraum [Jahr-Jahr]; Finanzamt [Name]; Sachstand: [Beschreibung]
 
 [Weiterer Abschnitt je Warranty-Kategorie]
 
@@ -231,7 +231,7 @@ nach vernaenftiger Nachforschung.
 
 - Bekannte Arglist-Risiken nicht offenbart → § 444 BGB; keine Haftungsfreizeichnung
 - Allgemeiner Verweis auf Datenraum statt konkreter Disclosure → OLG Frankfurt: keine wirksame Disclosure
-- Bring-Down-Disclosure bei Closing vergessen → Warranty-Verletzung fuer Ereignisse zwischen Signing und Closing
+- Bring-Down-Disclosure bei Closing vergessen → Warranty-Verletzung für Ereignisse zwischen Signing und Closing
 - Materiality-Schwelle zu hoch gesetzt → kleinere Risiken nicht offenbart; spaeter Streit
 - Anti-Sandbagging falsch ausgelegt → Kaeufer-Kenntnis schliesst Ansprueche nicht aus wenn vertraglich so vereinbart
 

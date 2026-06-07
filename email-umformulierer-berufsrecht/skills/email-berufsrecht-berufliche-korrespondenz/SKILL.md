@@ -21,9 +21,9 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 242 BGB — Treu und Glauben als Massstab fuer sachliche Korrespondenz
+- § 242 BGB — Treu und Glauben als Massstab für sachliche Korrespondenz
 - §§ 823, 824 BGB — Deliktsrecht: persoenlichkeitsrechtsverletzende oder rufschaedigende Aeusserungen
-- § 241 Abs. 2 BGB — Ruecksichtnahmepflichten im Schuldverhaeltnis (auch bei Kommunikation)
+- § 241 Abs. 2 BGB — Rücksichtnahmepflichten im Schuldverhaeltnis (auch bei Kommunikation)
 - § 5 UWG — Irrefuehrung durch unwahre Angaben in geschaeftlicher Kommunikation
 
 ## Quellenregel

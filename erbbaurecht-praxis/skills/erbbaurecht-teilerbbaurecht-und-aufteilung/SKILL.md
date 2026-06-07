@@ -9,6 +9,23 @@ description: "Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sonder
 
 Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
+- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
+- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
+- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
+- `§ 10 ErbbauRG` — Rang und Belastung.
+- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
+- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
+- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
+- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
+- `§ 29 Abs. 1 GBO` — Formnachweis.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

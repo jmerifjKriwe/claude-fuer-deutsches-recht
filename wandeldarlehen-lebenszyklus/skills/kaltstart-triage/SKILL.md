@@ -145,7 +145,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin begleitet den vollstaendigen Lebenszyklus eines Wandeldarlehens (Convertible Note oder SAFE) fuer GmbH und UG: von der Ersterfassung der Parteien und der Konditionenverhandlung ueber die Vertragserstellung (bilingual oder einsprachig) und Beurkundungspruefung bis hin zur Wandlungsberechnung, dem Cap-Table-Update und der notar- und handelsregistergerechten Dokumentation der Kapitalerhoehung.
+Das Plugin begleitet den vollstaendigen Lebenszyklus eines Wandeldarlehens (Convertible Note oder SAFE) für GmbH und UG: von der Ersterfassung der Parteien und der Konditionenverhandlung ueber die Vertragserstellung (bilingual oder einsprachig) und Beurkundungspruefung bis hin zur Wandlungsberechnung, dem Cap-Table-Update und der notar- und handelsregistergerechten Dokumentation der Kapitalerhoehung.
 
 Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Bereich sowie Inhouse-Juristen, die Wandeldarlehen als Finanzierungsinstrument einsetzen. Das Plugin begleitet sowohl die Darlehensgeber- als auch die Gesellschaftsseite.
 
@@ -166,7 +166,7 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 - **Qualified Financing** — Qualifiziertes Finanzierungsereignis; haeufigster Wandlungs-Trigger; meist definiert als neue Finanzierungsrunde ab einer Mindestbetrag-Schwelle.
 - **Rangruecktritt** — Nachrangabrede nach § 39 InsO; stellt Wandeldarlehen insolvenzrechtlich nachrangig, um Ueberschuldungsausweis zu verhindern.
 - **Beurkundungserfordernis** — Kapitalerhoehungen bei GmbH beduerften notarieller Beurkundung nach § 55 GmbHG; Formmangel fuehrt zu Nichtigkeit.
-- **SAFE-Y-Combinator** — US-Standardvorlage fuer Seed-Investitionen; in Deutschland-Transaktionen oft angepasst oder ersetzt.
+- **SAFE-Y-Combinator** — US-Standardvorlage für Seed-Investitionen; in Deutschland-Transaktionen oft angepasst oder ersetzt.
 
 ## Rechtsgrundlagen
 
@@ -179,7 +179,7 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 - GwG §§ 10 11 — KYC/AML-Pflichten bei Investoren
 - eIDAS-VO (EU) 910/2014 — Elektronische Signatur
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Neue Vertragserstellung oder laufendes Mandat mit Wandelereignis?
 2. Parteien und Konditionen erfassen: Darlehenshoehe, Zinssatz, Laufzeit, Wandlungspreis-Mechanik.
@@ -193,13 +193,13 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 - `parteien-erfassen` — Vertragsparteien vollstaendig identifizieren und dokumentieren; KYC-Vorab-Check.
 - `darlehenshoehe-konditionen` — Darlehenshoehe, Zinsen, Laufzeit und Konditionen verhandeln und dokumentieren.
 - `einsprachige-vertragsfassung-de` — Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten.
-- `bilinguale-vertragserstellung` — Wandeldarlehensvertrag zweisprachig deutsch/englisch fuer internationale Transaktionen erstellen.
-- `textform-vs-schriftform-vs-notariell` — Formerfordernis fuer einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen.
+- `bilinguale-vertragserstellung` — Wandeldarlehensvertrag zweisprachig deutsch/englisch für internationale Transaktionen erstellen.
+- `textform-vs-schriftform-vs-notariell` — Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen.
 - `beurkundungserfordernis-pruefung` — Beurkundungserfordernis pruefen; ob Notartermin erforderlich ist klaeren.
 - `vertraulichkeit-und-sprachklausel` — Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag pruefen oder formulieren.
 - `unterzeichnung-elektronisch-docusign` — Elektronische Unterzeichnung organisieren; eIDAS-Konformitaet pruefen.
 - `kyc-aml-geldwaesche` — KYC- und AML-Anforderungen bei Investor-Onboarding pruefen.
-- `rangruecktritt-formulieren` — Rangruecktrittserklaerung fuer insolvenzrechtlichen Nachrang formulieren.
+- `rangruecktritt-formulieren` — Rangruecktrittserklaerung für insolvenzrechtlichen Nachrang formulieren.
 - `wandlungsmechanik-konzipieren` — Wandlungsmechanik konzipieren: Preis, Verwasserungsschutz, Sonderrechte.
 - `wandlungspreis-berechnung` — Wandlungspreis auf Basis der vertraglich vereinbarten Parameter berechnen.
 - `wandelereignis-trigger-dispatcher` — Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten.
@@ -210,11 +210,11 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 - `wandlungsausschluss-pruefung` — Pruefen, ob Wandlung gesperrt oder ausgeschlossen ist.
 - `mehrere-wandeldarlehen-parallel` — Mehrere parallele Wandeldarlehen von verschiedenen Investoren koordinieren; Konflikte erkennen.
 - `cap-table-update-pre-post` — Cap-Table vor und nach Wandlung aktualisieren; Verwasserungseffekte berechnen.
-- `gesellschafterbeschluss-vorbereiten` — Gesellschafterbeschluss fuer Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten.
-- `gesellschafterbeschluss-kapitalerhoehung` — Gesellschafterbeschluss fuer Kapitalerhoehung nach Wandlung vorbereiten.
+- `gesellschafterbeschluss-vorbereiten` — Gesellschafterbeschluss für Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten.
+- `gesellschafterbeschluss-kapitalerhoehung` — Gesellschafterbeschluss für Kapitalerhoehung nach Wandlung vorbereiten.
 - `gesellschafterversammlung-einberufen` — Gesellschafterversammlung einberufen und Tagesordnung aufstellen.
 - `sacheinlagebericht-werthaltigkeit` — Sacheinlagebericht erstellen und Werthaltigkeit pruefen.
-- `notar-paket-uebermittlung` — Notarpaket fuer Beurkundungstermin zusammenstellen und uebermitteln.
+- `notar-paket-uebermittlung` — Notarpaket für Beurkundungstermin zusammenstellen und uebermitteln.
 - `handelsregisteranmeldung-kapitalerhoehung` — Handelsregisteranmeldung nach Kapitalerhoehung durch Wandlung vorbereiten.
 - `gesellschafterliste-aktualisieren` — Gesellschafterliste nach Kapitalerhoehung aktualisieren und einreichen.
 - `post-eintragung-checkliste` — Nacharbeiten nach Handelsregistereintragung abschliessen.
@@ -224,7 +224,7 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 
 ## Worauf besonders achten
 
-- Beurkundungserfordernis nach § 55 GmbHG ist zwingend fuer Kapitalerhoehungen; formlose Wandlung fuehrt zur Nichtigkeit des Kapitalerhoehungsbeschlusses.
+- Beurkundungserfordernis nach § 55 GmbHG ist zwingend für Kapitalerhoehungen; formlose Wandlung fuehrt zur Nichtigkeit des Kapitalerhoehungsbeschlusses.
 - Verwasserungsschutzklauseln (Anti-Dilution) muessen praesize formuliert sein; Broad-Based vs. Narrow-Based-Methode kann erhebliche Unterschiede im Wandlungspreis bewirken.
 - Rangruecktritt muss vor Wandlung vorliegen, wenn Ueberschuldung droht; ex-post-Rangruecktritt schuetzt nicht rueckwirkend.
 - KYC/AML-Pflichten des GwG gelten ab bestimmten Beteiligungsschwellen; fehlende Pruefung des Investors kann Haftung ausloesen.
@@ -236,7 +236,7 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 - Notartermin zu spaet eingeplant: Notariatliche Termine bei DNOTA und Notaren brauchen Vorlaufzeit; Last-Minute-Beurkundung ist haeufig nicht moeglich.
 - Gesellschafterliste nicht aktualisiert: Nach Wandlung und Eintragung muss Gesellschafterliste innerhalb eines Monats eingereicht werden (§ 40 GmbHG).
 - Sacheinlagebericht fehlt: Bei Sachkapitalerhoehung durch Wandlung ist Sacheinlagebericht Pflicht (§ 56 GmbHG); fehlender Bericht blockiert Eintragung.
-- SAFE als Darlehen klassifiziert: Falsches Bilanzierungsurteil fuer SAFE (kein Darlehen, sondern Eigenkapital-Instrument unter US-GAAP; unter HGB haeufig als Verbindlichkeit zu bilanzieren) kann steuerliche Folgen haben.
+- SAFE als Darlehen klassifiziert: Falsches Bilanzierungsurteil für SAFE (kein Darlehen, sondern Eigenkapital-Instrument unter US-GAAP; unter HGB haeufig als Verbindlichkeit zu bilanzieren) kann steuerliche Folgen haben.
 
 ## Querverweise
 

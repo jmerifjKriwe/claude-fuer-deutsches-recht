@@ -78,9 +78,9 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 Bevor losgelegt wird, klaere:
 1. Hat die Kommission bereits ein Vorverfahren (Mahnschreiben, Stellungnahme Art. 258 AEUV) eroeeffnet?
 2. Welches Umsetzungsdefizit liegt vor — formelle Nichtumsetzung oder materielle Unvereinbarkeit?
-3. Kann der Mandant Beschwerde an die Kommission einlegen (kein Klagerecht fuer Private)?
+3. Kann der Mandant Beschwerde an die Kommission einlegen (kein Klagerecht für Private)?
 4. Alternativ: Staatshaftungsklage vor nationalem Gericht (Francovich) als direkter Rechtsbehelf?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
@@ -91,7 +91,7 @@ Bevor losgelegt wird, klaere:
 - **Art. 258 AEUV** — Vertragsverletzungsverfahren durch Kommission; Vorverfahren; EuGH-Klage
 - **Art. 259 AEUV** — Mitgliedstaat-Klage gegen Mitgliedstaat (sehr selten)
 - **Art. 260 AEUV** — Zwangsgeld und Pauschalstrafe bei Nichtbefolgung des ersten Urteils
-- **§ 839 BGB / Art. 34 GG** iVm Staatshaftungsgrundsaetzen — nationales Instrument fuer Private
+- **§ 839 BGB / Art. 34 GG** iVm Staatshaftungsgrundsaetzen — nationales Instrument für Private
 
 ## Quellenregel
 

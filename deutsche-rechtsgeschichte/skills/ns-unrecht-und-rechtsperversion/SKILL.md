@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rasseg
 
 Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernberger Gesetze 1935, Enteignungsrecht im NS, Radbruch-Formel und Aufarbeitung nach 1945. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,11 +36,11 @@ Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernb
 
 ## Worum es geht
 
-Das NS-Regime (1933-1945) pervertierte das Recht zur Verfolgung politischer Gegner und rassistisch definierter Gruppen. Die Nuernberger Gesetze 1935 (Reichsbuergergesetz, RGBl. I 1935, 1146 und Blutschutzgesetz, RGBl. I 1935, 1146) stellten Juden ausserhalb der Rechtsgemeinschaft. Das Reichskriminalpolizeiamt setzte Verwaltungsakt-Legitimation fuer Willkuerinhaftierung ein. Ernst Fraenkel analysierte in Der Doppelstaat (1941) den Dualismus von Normen- und Massnahmenstaat. Gustav Radbruch formulierte nach 1945 seine Formel: Gesetzliches Unrecht und uebergesetzliches Recht sind moeglich (Radbruch-Formel, SJZ 1946, 105).
+Das NS-Regime (1933-1945) pervertierte das Recht zur Verfolgung politischer Gegner und rassistisch definierter Gruppen. Die Nuernberger Gesetze 1935 (Reichsbuergergesetz, RGBl. I 1935, 1146 und Blutschutzgesetz, RGBl. I 1935, 1146) stellten Juden ausserhalb der Rechtsgemeinschaft. Das Reichskriminalpolizeiamt setzte Verwaltungsakt-Legitimation für Willkuerinhaftierung ein. Ernst Fraenkel analysierte in Der Doppelstaat (1941) den Dualismus von Normen- und Massnahmenstaat. Gustav Radbruch formulierte nach 1945 seine Formel: Gesetzliches Unrecht und uebergesetzliches Recht sind moeglich (Radbruch-Formel, SJZ 1946, 105).
 
 ## Kernnormen / Kernquellen
 
-- **Reichsbuergergesetz 1935 (RGBl. I 1935, 1146)**: Staatsbuergerschaft nur fuer Arier
+- **Reichsbuergergesetz 1935 (RGBl. I 1935, 1146)**: Staatsbuergerschaft nur für Arier
 - **Blutschutzgesetz 1935 (RGBl. I 1935, 1146)**: Verbot Ehe und Geschlechtsverkehr zwischen Juden und Nichtjuden
 - **Ermächtigungsgesetz 1933 (RGBl. I 1933, 141)**: Grundlage der NS-Gesetzgebung
 - **Radbruch-Formel, SJZ 1946, 105**: Aufarbeitung NS-Unrecht als gesetzliches Unrecht

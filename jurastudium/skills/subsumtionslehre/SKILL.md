@@ -19,7 +19,7 @@ description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur —
 
 ## Triage zu Beginn
 1. Welches Tatbestandsmerkmal wird gerade subsumiert und liegt eine Definition vor?
-2. Gibt es einen Sachverhaltsbezug fuer die Subsumtion oder wird abstrakt geuebt?
+2. Gibt es einen Sachverhaltsbezug für die Subsumtion oder wird abstrakt geuebt?
 3. Liegt ein Subsumtionssprung vor (Ergebnis wird vorweggenommen ohne Pruefungsweg)?
 4. Ist das Tatbestandsmerkmal streitig (mehrere Definitionen moeglich)?
 
@@ -29,7 +29,7 @@ description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur —
 ## Zentrale Normen
 - §§ 133, 157 BGB — Auslegung als Grundlage der Tatbestandsmerkmal-Bestimmung
 - § 276 Abs. 2 BGB — Fahrlässigkeitsdefinition als Muster-Tatbestandsmerkmal
-- § 242 StGB — Diebstahl: Klassiker-Tatbestand fuer Subsumtionsuebungen
+- § 242 StGB — Diebstahl: Klassiker-Tatbestand für Subsumtionsuebungen
 - § 280 Abs. 1 BGB — Vier-Voraussetzungen-Anspruch als Subsumtions-Drillkern
 
 ## Quellenregel

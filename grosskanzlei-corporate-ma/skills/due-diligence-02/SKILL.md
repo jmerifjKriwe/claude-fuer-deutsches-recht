@@ -29,7 +29,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -149,7 +149,7 @@ Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und
 
 - § 675 BGB — Auftrag und anwaltlicher Beratungsvertrag: Berater schuldet vollstaendigen Bericht; Luecken koennen Haftung ausloesen
 - §§ 280, 241 Abs. 2 BGB — Beraterpflichten: Anwalt muss saemtliche wesentlichen Risiken benennen und einordnen; Unterlassen ist Pflichtverletzung
-- §§ 307-309 BGB — AGB-Haftungsbeschraenkungen im Beratungsvertrag: Haftungsausschluss oder Cap fuer Reports oft vereinbart; Grenze: grobe Fahrlaessigkeit nicht ausschließbar
+- §§ 307-309 BGB — AGB-Haftungsbeschraenkungen im Beratungsvertrag: Haftungsausschluss oder Cap für Reports oft vereinbart; Grenze: grobe Fahrlaessigkeit nicht ausschließbar
 
 ## Aktuelle Rechtsprechung
 
@@ -158,18 +158,18 @@ Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Findings zusammenfuehren:** Legal, Commercial, Tax, HR, IP, IT, Real Estate, Litigation
 2. **Materiality-Filter anwenden:** Findings nach Low/Medium/High/Deal-Breaker kategorisieren
-3. **Issues-to-SPA-Mapping:** je High-Finding: Empfehlung fuer SPA-Klausel (Garantie, Freistellung, Preisanpassung)
+3. **Issues-to-SPA-Mapping:** je High-Finding: Empfehlung für SPA-Klausel (Garantie, Freistellung, Preisanpassung)
 4. **Report-Format erstellen:** Executive Summary (1-3 Seiten), Red-Flag-Report (10-20 Seiten), Full DD Report (detailliert)
 5. **Human-in-the-loop:** alle Deal-Breaker-Findings → Partner-Review vor Uebersendung
 
 ## Rote Schwellen
 
 - Wesentliche Findings nicht adressiert: Anwaltshaftung § 280 BGB
-- Issues-to-SPA-Mapping fehlt: Kaeufer hat keine Entscheidungsgrundlage fuer SPA-Verhandlung
+- Issues-to-SPA-Mapping fehlt: Kaeufer hat keine Entscheidungsgrundlage für SPA-Verhandlung
 - Executive Summary ohne klare Risikoampel: Management kann nicht priorisieren
 
 ## V61 Deal-OS Boost
@@ -178,9 +178,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

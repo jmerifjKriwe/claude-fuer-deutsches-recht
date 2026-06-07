@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-deich-hochwasserschutz
-description: "Bauueberwachung HOAI LPH 8 fuer Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Deich und Hochwasserschutzanlage
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -30,8 +30,8 @@ Deichbauvorhaben verbinden Wasserbau, Geotechnik und Tiefbau unter dem besondere
 ## Erste Schritte auf der Baustelle
 
 1. Materialpruefung Kleibodenkern: Koernung, Konsistenzgrenzen Atterberg und Proctordichte nach DIN 18127 im akkreditierten Labor, Eignungspruefung vor Masseneinbau
-2. Schuettlagendicke Kontrolle: Einbaudicke je Lage max. 30 cm Lockerdicke, nach Verdichtung max. 20 cm, Schnurlinie fuer Lagehoehe, Protokollierung je 50 m
-3. Verdichtungspruefung Proctor: Plattendruckversuch Evd nach DIN 18134 je 500 qm, Grenzwert Evd mindestens 45 MN/m2 fuer Dammschuettung
+2. Schuettlagendicke Kontrolle: Einbaudicke je Lage max. 30 cm Lockerdicke, nach Verdichtung max. 20 cm, Schnurlinie für Lagehoehe, Protokollierung je 50 m
+3. Verdichtungspruefung Proctor: Plattendruckversuch Evd nach DIN 18134 je 500 qm, Grenzwert Evd mindestens 45 MN/m2 für Dammschuettung
 4. Bodenfeuchte vor Einbau: Zielbereich 0.95-1.05 Optimum Wassergehalt, Messung gravimetrisch oder Speedy-Geraet
 5. Sickerwasserbeobachtung: Piezometer-Ablesungen 2 x taeglich bei Hochwassergefahr, Qualmwasseraustritte dokumentieren
 6. Einbau Deichfuss-Drainage: Kieskoerper 0-32 mm, Laengsdrainagerohr PE DN 150, Filtervlies F-Trennvlies, Laengsneigung mindestens 0.2 Prozent
@@ -79,7 +79,7 @@ Deichbauvorhaben verbinden Wasserbau, Geotechnik und Tiefbau unter dem besondere
 
 ## Output
 
-Verdichtungsprotokolle je Schuettlage mit Evd-Werten und GPS. Setzungsmonitoring-Bericht monatlich. Piezometer-Auswertung Hochwasserereignis. Deich-Bautagebuch chronologisch. Abnahmeprotokoll Wasserbehoerde nach Planfeststellung. Drohnen-Orthofoto je Bauphase als As-Built. SAP-PM-Anlagenstruktur Deichabschnitte fuer Unterhaltsverwaltung.
+Verdichtungsprotokolle je Schuettlage mit Evd-Werten und GPS. Setzungsmonitoring-Bericht monatlich. Piezometer-Auswertung Hochwasserereignis. Deich-Bautagebuch chronologisch. Abnahmeprotokoll Wasserbehoerde nach Planfeststellung. Drohnen-Orthofoto je Bauphase als As-Built. SAP-PM-Anlagenstruktur Deichabschnitte für Unterhaltsverwaltung.
 
 ## Hinweise zur Qualitaetssicherung
 

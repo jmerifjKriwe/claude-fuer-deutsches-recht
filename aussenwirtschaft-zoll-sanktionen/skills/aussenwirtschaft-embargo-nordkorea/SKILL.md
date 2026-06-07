@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-embargo-nordkorea
-description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All fuer Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Pruefvermerk und Transshipment-Risikoanalyse im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All für Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Pruefvermerk und Transshipment-Risikoanalyse im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Embargo Nordkorea: Umfassendes Sanktionsregime und Proliferationskontrolle
 
 ## Arbeitsbereich
 
-EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All fuer Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Pruefvermerk und Transshipment-Risikoanalyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All für Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Pruefvermerk und Transshipment-Risikoanalyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutione
 1. EU-Sanktionsliste Nordkorea (VO 2017/1509) und UN-Konsolidierte Sanktionsliste pruefen.
 2. Umfassenden Guetersanktionskatalog pruefen: kein Export von Luxusgutern, Ruestung, Dual-Use und weiteren.
 3. Transshipment-Risiko bewertet: Drittland-Intermediary mit NK-Verbindung?
-4. Catch-All fuer Proliferations- und WMD-Verdacht bewertet.
+4. Catch-All für Proliferations- und WMD-Verdacht bewertet.
 5. Finanzsanktionen und Zahlungsrouting-Verbot geprueft.
 6. Sofortiger Stopp und Meldung falls Hinweise auf NK-Endverwendung.
 
@@ -45,21 +45,21 @@ EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutione
 - [ ] Partei auf EU-Sanktionsliste NK und UN-Liste geprueft?
 - [ ] Guetersanktionskatalog auf Vollstaendigkeit geprueft?
 - [ ] Transshipment-Risiko via Drittland untersucht?
-- [ ] Catch-All fuer Proliferationsverdacht bewertet?
+- [ ] Catch-All für Proliferationsverdacht bewertet?
 - [ ] Zahlungsrouting auf NK-Verbindung geprueft?
 - [ ] Sofortiger Stopp bei NK-Indizien eingeleitet?
 
 ## Typische Fallstricke
 
 - NK-Sanktionsumgehung laeuft fast immer ueber Drittlaender; nur direkte Pruefung reicht nicht.
-- Catch-All fuer NK-Proliferation ist extraterritorial wirksam.
+- Catch-All für NK-Proliferation ist extraterritorial wirksam.
 - UN-Sanktionen gehen ueber EU-Sanktionen hinaus und binden auch Nicht-EU-Tochtergesellschaften.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -83,7 +83,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

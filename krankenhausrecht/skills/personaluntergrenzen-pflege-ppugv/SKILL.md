@@ -33,14 +33,14 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 - Gibt es Ausnahme- oder Uebergangsregelungen (Notfall, Ueberhang)?
 
 ## Rechtlicher Rahmen
-- **SGB V § 137i** Rechtsgrundlage fuer PpUGV.
+- **SGB V § 137i** Rechtsgrundlage für PpUGV.
 - **PpUGV** in der jeweils aktuellen Fassung; jaehrlich angepasst.
 - **KHEntgG § 8 Abs. 4** Sanktionen bei Verstoss.
 - **InEK-Vorgaben** zur Datenmeldung (Quartalsmeldung).
 - **Pflegepersonalbemessung (PPR 2.0)** ergaenzt PpUGV, ueber § 137k SGB V derzeit in Konkretisierung.
 - **TVoeD/Tarifrecht** Personalplanung und Ueberlastungsanzeigen.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Pflegesensitive Bereiche identifizieren:** PpUGV-Anlage, Stationsschluessel.
 2. **Quote berechnen:** Pflegekraefte (examiniert + Helfer mit Anrechnung) gegen Patienten je Schicht.
 3. **Meldungen pruefen:** Quartalsweise InEK-Meldung; Korrekturmoeglichkeiten beachten.

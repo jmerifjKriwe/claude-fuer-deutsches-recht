@@ -20,7 +20,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 1. Schwangerschaftsbescheinigung mit Geburtstermin?
 2. Wann beginnt der Mutterschutz?
 3. Welcher Bruttolohn der letzten 3 Monate (Bemessungsbasis)?
-4. Welche Krankenkasse zustaendig?
+4. Welche Krankenkasse zuständig?
 5. Plant AN Elternzeit — wie lange?
 6. Plant Vater/Partner ebenfalls Elternzeit?
 7. Wird Elterngeld Basis oder Plus gewaehlt?
@@ -44,7 +44,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 
 **§§ 15-22 BEEG** — Elternzeit (Anspruch, Anmeldung, Teilzeit).
 
-**§ 32b EStG** — Progressionsvorbehalt fuer Mutterschaftsgeld und Elterngeld.
+**§ 32b EStG** — Progressionsvorbehalt für Mutterschaftsgeld und Elterngeld.
 
 ### Verwaltungsanweisungen
 
@@ -57,7 +57,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 
 - 6 Wochen vor Geburt: Beschaeftigungsverbot ohne Antrag (kann AN auf eigenen Wunsch arbeiten).
 - 8 Wochen nach Geburt (12 bei Mehrlingen/Behinderung): absolutes Beschaeftigungsverbot.
-- AG zahlt Mutterschutzlohn 100 Prozent fortgesetzt (basis fuer Mutterschaftsgeld + AG-Zuschuss).
+- AG zahlt Mutterschutzlohn 100 Prozent fortgesetzt (basis für Mutterschaftsgeld + AG-Zuschuss).
 
 ### Phase 2 — Mutterschaftsgeld
 
@@ -71,7 +71,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 - Elternzeit: bis zu 3 Jahre Anspruch, bis 8. Geburtstag.
 - Anmeldung: spaetestens 7 Wochen vor Beginn.
 - Waehrend Elternzeit: kein Anspruch auf Lohn vom AG.
-- Elterngeld vom Staat: 65 Prozent vom durchschnittlichen Nettolohn vor Geburt (max. 1.800 EUR/Monat; Einkommensgrenze fuer Ehepartner-Gesamteinkommen ab 01.04.2024 abgesenkt auf 175.000 EUR, § 1 Abs. 8 BEEG; bei Gesetzesaenderung BMFSFJ pruefen).
+- Elterngeld vom Staat: 65 Prozent vom durchschnittlichen Nettolohn vor Geburt (max. 1.800 EUR/Monat; Einkommensgrenze für Ehepartner-Gesamteinkommen ab 01.04.2024 abgesenkt auf 175.000 EUR, § 1 Abs. 8 BEEG; bei Gesetzesaenderung BMFSFJ pruefen).
 - Elterngeld Basis: 12 Monate; 14 Monate bei Partnermonaten.
 - Elterngeld Plus: doppelte Laufzeit bei halber monatlicher Hoehe (kombiniert mit Teilzeit, bis 32 Wochenstunden).
 
@@ -99,7 +99,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 
 - Mutterschutz-Lohnabrechnung mit AG-Zuschuss.
 - Elternzeit-Status in DATEV LODAS.
-- Bescheinigung fuer Elterngeld-Antrag.
+- Bescheinigung für Elterngeld-Antrag.
 
 ## Strategie und Praxis-Tipps
 

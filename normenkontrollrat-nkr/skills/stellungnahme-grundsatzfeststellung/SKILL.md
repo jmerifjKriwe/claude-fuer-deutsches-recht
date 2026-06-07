@@ -30,7 +30,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 1. **Vorhabens-Charakterisierung** — knapp und ressortneutral
 2. **NKR-Position zur Erforderlichkeit** — positiv, ambivalent oder kritisch
 3. **NKR-Position zur Ausgestaltung** — positiv, ambivalent oder kritisch
-4. (optional) **Spezialhinweis** — fuer politisch sensible Vorhaben
+4. (optional) **Spezialhinweis** — für politisch sensible Vorhaben
 
 ### Drei typische Konstellationen
 
@@ -46,7 +46,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 
 > Das Vorhaben sieht [Kurz-Inhalt] vor. Der NKR hat Zweifel an der Erforderlichkeit in der vorliegenden Form, da [Sachgrund]. Auch die konkrete Ausgestaltung wirft erhebliche Bedenken auf, insbesondere [Hauptbedenken].
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Inhaltliche Charakterisierung des Vorhabens** in einem Satz
 2. **Erforderlichkeit** beurteilen — positiv / ambivalent / kritisch
@@ -91,7 +91,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 
 ### Vollbeispiel (Beispiel-Vorhaben elektronische Erreichbarkeit Handelsregister)
 
-> Das Vorhaben sieht vor, alle im Handelsregister eingetragenen Gesellschaften zu verpflichten, einen elektronischen Zustellungs-Kanal vorzuhalten und dessen Erreichbarkeit zu bestaetigen. Der NKR begruesst grundsaetzlich die Zielsetzung, da die elektronische Erreichbarkeit Verfahren beschleunigt und Justizkosten reduziert. Der NKR hat jedoch erhebliche Bedenken zur konkreten Ausgestaltung, insbesondere zur Frequenz der vorgesehenen Lebensbescheid-Pflicht, zur dezentralen Architektur und zum daraus resultierenden Erfuellungsaufwand fuer die Wirtschaft.
+> Das Vorhaben sieht vor, alle im Handelsregister eingetragenen Gesellschaften zu verpflichten, einen elektronischen Zustellungs-Kanal vorzuhalten und dessen Erreichbarkeit zu bestaetigen. Der NKR begruesst grundsaetzlich die Zielsetzung, da die elektronische Erreichbarkeit Verfahren beschleunigt und Justizkosten reduziert. Der NKR hat jedoch erhebliche Bedenken zur konkreten Ausgestaltung, insbesondere zur Frequenz der vorgesehenen Lebensbescheid-Pflicht, zur dezentralen Architektur und zum daraus resultierenden Erfuellungsaufwand für die Wirtschaft.
 
 ## Typische Fehler in Stellungnahme-Entwuerfen
 

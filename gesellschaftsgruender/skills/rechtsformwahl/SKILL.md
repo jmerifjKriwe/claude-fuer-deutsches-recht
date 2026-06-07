@@ -43,7 +43,7 @@ Vor der Rechtsformempfehlung sind folgende Angaben erforderlich:
 6. **Branche / Berufsrecht:** Freier Beruf (Anwalt, Arzt, Steuerberater, Architekt → PartG/PartG mbB)? Gemeinnützige Tätigkeit (→ gGmbH)? Immobiliengeschäfte (→ eGbR vs. GbR durch MoPeG 2024)?
 7. **Geschäftsführer-Sozialversicherung:** Soll der Gründer selbst Geschäftsführer werden? Welche Anteilsquote? (Relevant für SV-Status nach BSG-Linie)
 8. **Holding-Struktur:** Plant ein Gründer, seine Anteile über eine persönliche Holding-GmbH zu halten (steuerlicher Vorteil nach § 8b KStG bei Anteilsveräußerung)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -261,10 +261,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Rechtsformwahl fuer Gruender empfehlen | Rechtsformvergleich nach Pruefschema; Empfehlungstemplate unten |
+| Standard — Rechtsformwahl für Gruender empfehlen | Rechtsformvergleich nach Pruefschema; Empfehlungstemplate unten |
 | Variante A — Mandant will sofort gruenden ohne viel Kapital | UG als kostenguenstige Variante bevor GmbH |
 | Variante B — Auslaendische Gruender internationaler Kontext | SE oder Limited als Alternative; Steuerrecht beachten |
-| Variante C — Nur fuer ein Projekt keine Dauerhaftigkeit | GbR oder GmbH Co KG fuer Zweckgesellschaft |
+| Variante C — Nur für ein Projekt keine Dauerhaftigkeit | GbR oder GmbH Co KG für Zweckgesellschaft |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -362,7 +362,7 @@ Die Gründer erstatten gemäß § 5 Abs. 4 GmbHG den folgenden Sachgründungsber
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -427,7 +427,7 @@ EMPFEHLUNG: [RECHTSFORM]
 BEGRUENDUNG:
  Haftung: [Beschraenkt / Unbeschraenkt]
  Mindestkapital:[BETRAG] EUR (vorhanden: Ja/Nein)
- Investoren: [Geeignet / Nicht geeignet fuer]
+ Investoren: [Geeignet / Nicht geeignet für]
  SV-Status GF: [Pflichtig / Frei bei [%] Anteil + Sperrminoritaet]
  Steuer: [KSt-Regime / Transparent]
  Notar: [Erforderlich / Nicht erforderlich]

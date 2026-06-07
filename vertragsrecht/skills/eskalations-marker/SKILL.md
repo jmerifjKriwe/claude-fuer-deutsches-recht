@@ -42,12 +42,12 @@ Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus de
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Jede Rechtsabteilung hat eine Eskalationsmatrix – geschrieben oder ungeschrieben. Dieser Skill liest die geschriebene (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), ordnet ein Vertragsproblem darin ein, nennt den Genehmiger beim Namen und entwirft die Anfrage – damit der Jurist nicht abends schnell eine "hast du kurz?"-E-Mail schreibt.
+Jede Rechtsabteilung hat eine Eskalationsmatrix – geschrieben oder ungeschrieben. Dieser Skill liest die geschriebene (in `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md`), ordnet ein Vertragsproblem darin ein, nennt den Genehmiger beim Namen und entwirft die Anfrage – damit der Jurist nicht abends schnell eine "hast du kurz?"-E-Mail schreibt.
 
 ## Eingaben
 
 - Beschreibung des Problems (direkt oder Verweis auf Prüfvermerk)
-- Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Eskalation`
+- Praxisprofil aus `~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Eskalation`
 - Jahreswert/ACV des Vertrags (für Betrags-Schwellenwerte)
 
 ## Akten-Kontext
@@ -58,7 +58,7 @@ Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen. Ausgaben im Akten-Or
 
 ### Schritt 1: Matrix laden
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Eskalation` lesen. Falls fehlend oder vage: Hinweis, dass das Praxisprofil ergänzt werden muss.
+`~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Eskalation` lesen. Falls fehlend oder vage: Hinweis, dass das Praxisprofil ergänzt werden muss.
 
 **Welche Seite?** Käufer- oder Verkäufer-Playbook bestimmt, ob ein Begriff innerhalb der Fallback-Positionen liegt oder eine automatische Eskalation auslöst. Seite im Entwurf vermerken.
 

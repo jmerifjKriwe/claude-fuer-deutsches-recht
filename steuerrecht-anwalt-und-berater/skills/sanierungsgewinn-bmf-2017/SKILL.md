@@ -142,7 +142,7 @@ herangezogen werden.
 - `stb-sanierungsgewinn-3a-estg-grundtatbestand`
 - `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
 - `stb-sanierungsgewinn-vorbereitungs-checkliste`
-- `stb-sanierungsgewinn-zustaendigkeiten-fa-betriebspruefung`
+- `stb-sanierungsgewinn-zuständigkeiten-fa-betriebspruefung`
 - `anw-verbindliche-auskunft`
 
 ## Quellen Stand 06/2026

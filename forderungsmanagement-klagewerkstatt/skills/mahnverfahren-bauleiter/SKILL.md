@@ -1,6 +1,6 @@
 ---
 name: mahnverfahren-bauleiter
-description: "Spezielles Mahnverfahren bei Werklohnanspruechen aus Bauvertraegen. Beruecksichtigt Faelligkeit nach Abnahme BGB 641 Maengelrechte BGB 634 Bauhandwerkersicherung BGB 650f. Pinpoints ZPO 688 ZPO 690 BGB 641 BGB 650f. Liefert Pruefliste fuer MB-Antrag und typische Stolpersteine."
+description: "Spezielles Mahnverfahren bei Werklohnanspruechen aus Bauvertraegen. Beruecksichtigt Faelligkeit nach Abnahme BGB 641 Maengelrechte BGB 634 Bauhandwerkersicherung BGB 650f. Pinpoints ZPO 688 ZPO 690 BGB 641 BGB 650f. Liefert Pruefliste für MB-Antrag und typische Stolpersteine."
 ---
 
 # Mahnverfahren bei Bauforderungen

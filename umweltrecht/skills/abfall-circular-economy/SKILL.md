@@ -35,7 +35,7 @@ Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgung
 - **§ 14 KrWG** — Verpflichtung zur Getrenntsammlung
 - **§ 17 KrWG** — Ueberlassungspflichten Haushaltsabfaelle / gewerbliche Abfaelle
 - **§ 49 KrWG i.V.m. NachwV** — Nachweispflichten gefaehrliche Abfaelle
-- **§ 62 KrWG** — Anordnungsrecht der Behoerde
+- **§ 62 KrWG** — Anordnungsrecht der Behörde
 - **Art. 6 Richtlinie 2008/98/EG** — Ende der Abfalleigenschaft EU-Recht
 
 ## Leitentscheidungen
@@ -45,13 +45,13 @@ Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgung
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Stoff-Klassifikation**: Ist Stoff Abfall, Nebenprodukt oder nicht-Abfall nach §§ 3-5 KrWG + Europaeischem Abfallverzeichnis (AVV)?
 2. **Entsorgungsweg bestimmen**: Verwertung (§ 8 KrWG — energetisch, werkstofflich, biologisch) oder Beseitigung (§ 15 KrWG)?
 3. **Genehmigung pruefen**: Entsorgungsanlage §§ 4 ff. BImSchG, Planfeststellung (Deponie §§ 35 ff. KrWG)?
 4. **Nachweise**: Gefaehrliche Abfaelle — Begleitschein/Entsorgernachweis (NachwV); elektronisches Nachweisverfahren.
-5. **Ueberlassungspflicht**: § 17 KrWG — Ausnahmen fuer Eigenkompostierung, gemeinnuetzige Sammlung, gewerbliche Drittbeauftragung.
+5. **Ueberlassungspflicht**: § 17 KrWG — Ausnahmen für Eigenkompostierung, gemeinnuetzige Sammlung, gewerbliche Drittbeauftragung.
 6. **Grenzueberschreitend**: EG-AbfVerbrV Nr. 1013/2006 — Notifizierungspflicht bei gruenen / orangenen / roten Listen; Basel-Genehmigung bei gefaehrlichen Abfaellen in Drittstaaten.
 7. **Circular-Economy**: EU-Kreislaufwirtschaftspaket — Oekodesign-VO 2024/1781, EU End-of-Waste-Kriterien-VO (Stahl, Kupfer, Papier); CSRD-Berichtspflicht.
 
@@ -65,7 +65,7 @@ Entledigt sich der Erzeuger des Stoffes?
  NEIN → Verwendung weiterhin beabsichtigt → kein Abfall
 ```
 
-## Output-Template: Begleitschreiben Behoerdenanfrage Nebenprodukt
+## Output-Template: Begleitschreiben Behördenanfrage Nebenprodukt
 
 **Adressat:** Zustaendige Abfallbehoerde — Tonfall: sachlich-juristisch
 

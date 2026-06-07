@@ -1,6 +1,6 @@
 ---
 name: onboarding-festsetzungsverjaehrung
-description: "Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaere und verlaengerte Fristen Anlaufhemmung Ablaufhemmung und besondere Verjaehrungsregeln bei Aussenpruefung Steuerhinterziehung Erbfaellen und ausstehender Steuererklaerung. Anwendungsfall Berater muss pruefen ob ein Steueranspruch noch festgesetzt werden kann oder ob die Finanzbehoerde verspaetet handelt. Behandelt Beginn der Frist nach Abgabe der Erklaerung Anlaufhemmung drei Jahre Ablaufhemmung durch Pruefungsbeginn § 171 Abs. 4 AO und durch laufendes Strafverfahren § 171 Abs. 5 AO. Output Pruefraster und Verjaehrungsrechner. Abgrenzung zu fa-stu-onboarding-verzinsung."
+description: "Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaere und verlaengerte Fristen Anlaufhemmung Ablaufhemmung und besondere Verjährungsregeln bei Aussenpruefung Steuerhinterziehung Erbfaellen und ausstehender Steuererklaerung. Anwendungsfall Berater muss pruefen ob ein Steueranspruch noch festgesetzt werden kann oder ob die Finanzbehoerde verspaetet handelt. Behandelt Beginn der Frist nach Abgabe der Erklaerung Anlaufhemmung drei Jahre Ablaufhemmung durch Pruefungsbeginn § 171 Abs. 4 AO und durch laufendes Strafverfahren § 171 Abs. 5 AO. Output Pruefraster und Verjährungsrechner. Abgrenzung zu fa-stu-onboarding-verzinsung."
 ---
 
 # Festsetzungsverjaehrung — §§ 169 bis 171 AO in der Praxis
@@ -18,7 +18,7 @@ description: "Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaer
 3. Gilt die regulaere vier Jahres Frist § 169 Abs. 2 Nr. 2 AO oder verlaengerte zehn Jahre bei Hinterziehung § 169 Abs. 2 S. 2 AO?
 4. Liegt Ablaufhemmung wegen Aussenpruefung § 171 Abs. 4 AO oder Steuerstrafverfahren § 171 Abs. 5 AO vor?
 5. Bei Schenkungen und Erbfaellen besondere Anlaufhemmung § 170 Abs. 5 AO beachten.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

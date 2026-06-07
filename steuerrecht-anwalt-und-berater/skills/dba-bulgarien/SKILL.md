@@ -86,7 +86,7 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 ## Strategie und Praxis-Tipps
 
 - Niedrigste EU-KSt 10 Prozent: CFC-Hinzurechnung praktisch immer pruefen.
-- Pillar Two: Top-Up-Tax fuer bulgarische Subholdings.
+- Pillar Two: Top-Up-Tax für bulgarische Subholdings.
 - IT-Outsourcing: Substanztest § 50d Abs. 3 EStG.
 - Pflege-Arbeitnehmer: A1 und 183-Tage-Regel.
 - EU-MTRL Schachtel vorrangig.
@@ -95,13 +95,13 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 
 - **Erstattungsverfahren BG → DE-Mandant**: Antrag bei der NRA (Natsionalna agentsiya za prihodite, Nationale Steueragentur); Online-Portal der NRA (vom Anwender mit aktuellem Stand des bulgarischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der NRA als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch, Bulgarisch und Englisch (DBA-Bulgarien 2010 als modernes DBA trilingual; bei strittiger Auslegung Englisch als praktische Pivot-Sprache).
-- **Lokaler Berater**: Bei bulgarischer EOOD (GmbH-Aequivalent) oder OOD mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines bulgarischen "danachen konsultant" wegen niedriger KSt 10 Prozent und einfacherer Pruefungspraxis; aber: Substanznachweis fuer DE-Erstattung wird streng geprueft.
+- **Lokaler Berater**: Bei bulgarischer EOOD (GmbH-Aequivalent) oder OOD mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines bulgarischen "danachen konsultant" wegen niedriger KSt 10 Prozent und einfacherer Pruefungspraxis; aber: Substanznachweis für DE-Erstattung wird streng geprueft.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (BG seit 2007 EU).
 
 ## Edge Cases und Was-Pruefer-Triggert
 
 - **BG-KSt 10 Prozent — niedrigste EU-Rate**: zwingend unter AStG-Niedrigsteuerschwelle 15 Prozent — CFC-Hinzurechnung bei passiven Einkuenften.
-- **Pillar Two Top-Up**: BG hat EU-Pillar-Two-RL umgesetzt; multinational ueber 750 Mio EUR Umsatz unterliegen Top-Up auf 15 Prozent — fuer KMU bleibt 10-Prozent-Vorteil.
+- **Pillar Two Top-Up**: BG hat EU-Pillar-Two-RL umgesetzt; multinational ueber 750 Mio EUR Umsatz unterliegen Top-Up auf 15 Prozent — für KMU bleibt 10-Prozent-Vorteil.
 - **Aenderungsprotokoll 2022/2023**: zum 13.12.2023 in Kraft getreten — Neuerungen pruefen, insbesondere Anti-Missbrauch und Schiedsverfahren.
 - **Pflege-Arbeitnehmer aus Bulgarien in DE**: oft Konstruktion ueber bulgarische Service-Gesellschaft mit Entsendung nach DE; Lohnsteuer-Pruefung nach 183-Tage-Regel; A1-Bescheinigung nach EU-VO 883/2004.
 - **IT-Outsourcing-Substanz**: Pruefer hinterfragt bei reinen Off-the-Shelf-Holdings ohne Personal in BG.
@@ -133,9 +133,9 @@ DE-Mutter haelt 100 Prozent an bulgarischer EOOD; BG-Gewinn 150.000 EUR, BG-KSt 
 4. **Laufende Compliance**: BG-Erklaerung jaehrlich; DE-Erklaerung mit Anrechnung und ggf. CFC-Hinzurechnung.
 5. **Audit-Vorbereitung**: BG-Pruefer formal; DE-FA-Pruefung CFC und Substanz; ab Aenderungsprotokoll 2022/2023 weitere Anti-Missbrauch.
 
-## Ausgabeformat fuer Mandanten-Memo Bulgarien
+## Ausgabeformat für Mandanten-Memo Bulgarien
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (IT-Outsourcing, Holding, Pflege-Arbeitnehmer), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, niedrige BG-KSt 10 Prozent, CFC, Pillar Two.

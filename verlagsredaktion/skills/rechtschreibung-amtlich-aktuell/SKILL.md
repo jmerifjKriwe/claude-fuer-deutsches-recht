@@ -19,7 +19,7 @@ Prueft die amtliche deutsche Rechtschreibung in Verlagsmanuskripten nach dem akt
 
 ## Worum geht es konkret
 
-Die amtliche deutsche Rechtschreibung wird vom Rat fuer deutsche Rechtschreibung gepflegt; der Duden bildet sie ab. Juristische Texte enthalten daneben Eigennamen (BGH, BVerfG, FG, OVG), Sondereinrichtungen (Paragraphenzeichen mit geschuetztem Leerzeichen), historische Schreibungen und Latinismen, die korrekt zu behandeln sind. Dieser Skill ist die saubere Rechtschreibpruefung fuer juristische Verlagstexte.
+Die amtliche deutsche Rechtschreibung wird vom Rat für deutsche Rechtschreibung gepflegt; der Duden bildet sie ab. Juristische Texte enthalten daneben Eigennamen (BGH, BVerfG, FG, OVG), Sondereinrichtungen (Paragraphenzeichen mit geschuetztem Leerzeichen), historische Schreibungen und Latinismen, die korrekt zu behandeln sind. Dieser Skill ist die saubere Rechtschreibpruefung für juristische Verlagstexte.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -36,7 +36,7 @@ Sie brauchen ihn als Endkorrekturlauf vor dem Druck und als Grundsatzlauf nach i
 - Hauseigener Stilkatalog oder Verlagsschreibung.
 - Aktueller Duden / amtliches Regelwerk.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Tool-gestuetzte Vorpruefung.** Word-Rechtschreibung oder LanguageTool (lokal, datenschutzkonform). Tool-Vorschlaege niemals stillschweigend annehmen.
 2. **Manuelle Durchsicht** auf typische Stolperfallen:
@@ -114,7 +114,7 @@ DSGVO-konform (Bindestrich)
 ## Quellen Stand 06/2026
 
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024 (Hauptquelle).
-- Rat fuer deutsche Rechtschreibung, Amtliches Regelwerk, [https://www.rechtschreibrat.com](https://www.rechtschreibrat.com).
+- Rat für deutsche Rechtschreibung, Amtliches Regelwerk, [https://www.rechtschreibrat.com](https://www.rechtschreibrat.com).
 - LanguageTool (Open Source), [https://languagetool.org](https://languagetool.org).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016 (fuer Sonderzeichen-Disziplin).
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Sonderzeichen-Disziplin).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

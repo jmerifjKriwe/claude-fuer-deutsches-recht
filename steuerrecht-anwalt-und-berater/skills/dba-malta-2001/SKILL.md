@@ -15,7 +15,7 @@ description: "DBA Deutschland Malta 2001 mit Protokollen. Anwendungsfall Holding
 
 ## Kernsachverhalt
 
-Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Aenderungsprotokoll vom 19.05.2011 (BGBl. 2011 II S. 275) regelt das Verhaeltnis zum EU-Mitglied Malta (Beitritt 2004, Euro 2008). Malta ist Schwerpunkt fuer Holding-Konstruktionen (6/7-Refund-System), REIT-aehnliche Strukturen, Schifffahrt (Maltesisches Schiffsregister) und Online-Glueckspiel-Lizenzen.
+Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Aenderungsprotokoll vom 19.05.2011 (BGBl. 2011 II S. 275) regelt das Verhaeltnis zum EU-Mitglied Malta (Beitritt 2004, Euro 2008). Malta ist Schwerpunkt für Holding-Konstruktionen (6/7-Refund-System), REIT-aehnliche Strukturen, Schifffahrt (Maltesisches Schiffsregister) und Online-Glueckspiel-Lizenzen.
 
 ## Kaltstart-Rueckfragen
 
@@ -99,8 +99,8 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 
 ### Erstattungsverfahren maltesische Quellensteuer
 
-- **Zustaendigkeit**: maltesische **Office of the Commissioner for Revenue (CFR)** (frueher Inland Revenue Department/Maltese Tax Authorities). Aktuelle Zustaendigkeit auf **cfr.gov.mt** pruefen.
-- **Antragsformulare**: maltesische DBA-Formulare; insbesondere fuer das Refund-System speziell mit Refund Application Forms — **konkrete Formularnummern vom Anwender mit aktuellem Stand auf cfr.gov.mt zu verifizieren**.
+- **Zuständigkeit**: maltesische **Office of the Commissioner for Revenue (CFR)** (frueher Inland Revenue Department/Maltese Tax Authorities). Aktuelle Zuständigkeit auf **cfr.gov.mt** pruefen.
+- **Antragsformulare**: maltesische DBA-Formulare; insbesondere für das Refund-System speziell mit Refund Application Forms — **konkrete Formularnummern vom Anwender mit aktuellem Stand auf cfr.gov.mt zu verifizieren**.
 - **Frist**: nach maltesischem Income Tax Management Act regelmaessig **fuenf Jahre**.
 - **Bearbeitungsdauer CFR**: 6-18 Monate.
 - **Online-Portal**: **cfr.gov.mt** mit eID-Zugang.

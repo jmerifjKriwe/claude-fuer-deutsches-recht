@@ -80,7 +80,7 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 - Pauschalierung Aushilfen (§ 40a EStG): 2 Prozent (Minijob) oder 25 Prozent (kurzfristig).
 - Pauschalierung Sachzuwendungen (§ 37b EStG): 30 Prozent (mit Zuschlag).
 - KiSt nach AN-Konfession.
-- SolZ (Stand 2025): entfaellt fuer den Grossteil der AN seit 01.01.2021 (Freigrenze § 3 SolZG; ab 2025 18.130 EUR ESt Einzel); Milderungszone bis Voll-SolZ; aktuelle Grenzen ueber SolZG-Fassung pruefen.
+- SolZ (Stand 2025): entfaellt für den Grossteil der AN seit 01.01.2021 (Freigrenze § 3 SolZG; ab 2025 18.130 EUR ESt Einzel); Milderungszone bis Voll-SolZ; aktuelle Grenzen ueber SolZG-Fassung pruefen.
 
 ### Phase 4 — SV-Beitraege
 
@@ -115,11 +115,11 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 - Lohnabrechnungen aller AN.
 - LSt-Anmeldung an FA.
 - SV-Beitragsabrechnung an Krankenkassen.
-- Buchungssatz fuer Hauptbuch.
+- Buchungssatz für Hauptbuch.
 
 ## Strategie und Praxis-Tipps
 
-- Frist 10. des Folgemonats fuer LSt-Anmeldung — bei Verspaetung Verspaetungszuschlag.
+- Frist 10. des Folgemonats für LSt-Anmeldung — bei Verspaetung Verspaetungszuschlag.
 - BBG und Beitragssaetze: Stand 2025 (RV-BBG 96.600 EUR, KV-BBG 66.150 EUR; Beitragssaetze RV 18,6%, AV 2,6%, KV 14,6%+Zusatz, PV 3,6%+Kinderlos); Sozialversicherungs-Rechengroessenverordnung 2026 jaehrlich pruefen.
 - Bei pauschal versteuerten Loehnen (Minijob 2 Prozent): Buchung separat.
 - Sonn-/Feiertag-/Nacht-Zuschlaege § 3b EStG nur LSt- und SV-frei in bestimmten Grenzen; ueber die Grenze normal versteuert/verbeitragt.

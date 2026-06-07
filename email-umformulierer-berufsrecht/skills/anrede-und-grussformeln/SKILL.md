@@ -13,7 +13,7 @@ Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in berufliche
 
 ## Triage zu Beginn
 1. Ist der Name des Empfaengers bekannt oder unbekannt?
-2. Welche Funktion hat der Empfaenger: Richter, Staatsanwalt, Kollegin, Mandant, Behoerde?
+2. Welche Funktion hat der Empfaenger: Richter, Staatsanwalt, Kollegin, Mandant, Behörde?
 3. Traeigt der Empfaenger akademische Grade (Dr., Prof.) oder Amtsbezeichnungen?
 4. Wie eng ist die Beziehung: erstmalig, laufend, langjahrig bekannt?
 

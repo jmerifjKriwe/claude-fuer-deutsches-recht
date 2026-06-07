@@ -35,7 +35,7 @@ description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret 
 
 ## Zweck / Purpose
 
-English-language DPA template under Article 28 GDPR for cross-border deals where the working language is English (UK/IE counterparties, US providers, EU multinationals). Purpose (DE): Englischsprachige Mustervorlage fuer einen Auftragsverarbeitungsvertrag nach Art. 28 DSGVO.
+English-language DPA template under Article 28 GDPR for cross-border deals where the working language is English (UK/IE counterparties, US providers, EU multinationals). Purpose (DE): Englischsprachige Mustervorlage für einen Auftragsverarbeitungsvertrag nach Art. 28 DSGVO.
 
 ## Wann dieses Modul hilft
 
@@ -460,8 +460,8 @@ DPO: ____________________ Date: ____________________
 - `datenschutzrecht/skills/dpia-en-template-full-version/SKILL.md` — Full English DPIA template
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — German full template
 - `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Art. 36 procedure
-- `datenschutzrecht/skills/dsfa-fuer-internationale-datentransfers/SKILL.md` — Transfers
-- `datenschutzrecht/skills/dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — AI interface
+- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — Transfers
+- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — AI interface
 - `references/zitierweise.md` — Citation rules
 
 ## Sources as of 06/2026
@@ -668,7 +668,7 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — German full template
 - `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risk methodology
 - `datenschutzrecht/skills/dpia-en-summary-for-management/SKILL.md` — English management summary
-- `datenschutzrecht/skills/dsfa-fuer-internationale-datentransfers/SKILL.md` — International transfers
+- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — International transfers
 - `references/zitierweise.md` — Citation rules
 
 ## Sources as of 06/2026
@@ -871,8 +871,8 @@ Datenkategorien: [Auflistung]
  [Zweck, Umfang, Haeufigkeit]
 
 2. Rechtslage im Empfaengerland
- [Relevante Gesetze, Massengesetze, Behoerdenzugriffsrechte]
- Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Laenderanalysen]
+ [Relevante Gesetze, Massengesetze, Behördenzugriffsrechte]
+ Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Länderanalysen]
 
 3. Schutzlueckenanalyse
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -911,7 +911,7 @@ Wer ist Exporteur?
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` – Drittlandtransfer-Prüfung im AVV-Kontext (Schritt 5)
 - `datenschutzrecht/skills/us-transfer-tia-dokumentation/SKILL.md` – US-Transfers mit DPF-Listing, SCC/BCR-Ausweichpfad, Schrems-Historie und TIA vertiefen
 - `datenschutzrecht/skills/standardvertragsklauseln-scc-paket/SKILL.md` – SCC-Modulwahl und Annex I-III konkret erstellen
-- `datenschutzrecht/skills/drittlandtransfer-behoerdenpaket-output/SKILL.md` – Deckvermerk, Anlagenverzeichnis und Antwortpaket fuer Aufsichtsbehoerden ausgeben
+- `datenschutzrecht/skills/drittlandtransfer-behoerdenpaket-output/SKILL.md` – Deckvermerk, Anlagenverzeichnis und Antwortpaket für Aufsichtsbehoerden ausgeben
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` – DSFA bei Hochrisiko-Drittlandtransfers
 - `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` – Drittlandtransfer bei KI-Diensten für Berufsgeheimnisträger
 - `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` – Datenpannen bei Drittlandempfaengern
@@ -941,7 +941,7 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
 ## Faktische Updates (Stand 05/2026)
 
-- **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10.07.2023 (C(2023) 4745 final) ist weiterhin in Kraft. Erstmalige periodische Ueberpruefung durch die Kommission war fuer 07/2024 vorgesehen; weitere Reviews alle vier Jahre. **Achtung:** politische Risiken (Schrems-III-Vorlage, US-Executive-Order-Modifikationen) machen Monitoring zwingend. Quelle: eur-lex.europa.eu, commission.europa.eu/law/law-topic/data-protection.
+- **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10.07.2023 (C(2023) 4745 final) ist weiterhin in Kraft. Erstmalige periodische Ueberpruefung durch die Kommission war für 07/2024 vorgesehen; weitere Reviews alle vier Jahre. **Achtung:** politische Risiken (Schrems-III-Vorlage, US-Executive-Order-Modifikationen) machen Monitoring zwingend. Quelle: eur-lex.europa.eu, commission.europa.eu/law/law-topic/data-protection.
 - **DPF-Listing:** Empfaenger-Status muss vor jeder Uebermittlung ueber dataprivacyframework.gov (offizielle US-Website) verifiziert werden; Selbst-Zertifizierungs-Status kann jederzeit verloren gehen.
 - **UK-Angemessenheitsbeschluss (2021/1772):** Gilt nach urspruenglichen vier Jahren Befristung; Verlaengerung war erforderlich — aktuellen Status der Verlaengerung / Ueberpruefung live pruefen.
 - **EDSA-Guidelines:** Empfehlungen 01/2020 (Sechs-Stufen-TIA), Guidelines 05/2021 (Wechselwirkung Art. 3 und Kapitel V) sowie aktuelle EDSA-Stellungnahmen 2025 zu Drittlandtransfer-Risiken (insb. China PIPL, US-Executive-Orders) live ueber edpb.europa.eu pruefen.

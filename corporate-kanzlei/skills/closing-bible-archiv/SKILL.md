@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -144,7 +144,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 12 | Handelsregisterauszug post-Closing | [Datum] | — | HR-Gericht | Tab 12 |
 | 13 | W&I-Versicherungspolice | [Datum] | — | Versicherer | Tab 13 |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Deliverables-Liste finalisieren** — alle CP-Checklisten-Punkte sind Basis der Closing Bible
 2. **Pre-Closing-Review** — einen Tag vor Closing alle vorbereiteten Dokumente pruefen; fehlende Signaturen anmahnen
@@ -153,7 +153,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. **Closing Bible zusammenstellen** — digitale und physische Version; Index und Tabs; versioniert
 6. **Intern verteilen** — Mandant (Leitung/GF), Kanzlei-Akte, Steuerberater (relevante Teile), Notar (seine Stuecke)
 7. **Archivierungskonzept umsetzen** — GoBD-konforme elektronische Archivierung; Zugriffsschutz; Backup
-8. **Fristeninformation** — Verjährungsfristen fuer Warranties (Closing + Laufzeit); im Kalender eintragen
+8. **Fristeninformation** — Verjährungsfristen für Warranties (Closing + Laufzeit); im Kalender eintragen
 
 ## Output-Template Closing-Bestaetigungs-Protokoll
 

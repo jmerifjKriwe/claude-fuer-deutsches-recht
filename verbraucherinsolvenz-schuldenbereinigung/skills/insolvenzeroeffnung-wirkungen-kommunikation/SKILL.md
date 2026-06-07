@@ -12,9 +12,9 @@ description: "Insolvenzeroeffnung Wirkungen Kommunikation im Plugin Verbraucheri
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `insolvenzeroeffnung-wirkungen` | Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.; Normanker: InsO §§ 27 und 35 und 36 und 80 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `kommunikation-mit-glaeubigern` | Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.; Normanker: InsO §§ 305 und 307; BGB Anerkenntnisrisiken; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `konto-sperre-und-sozialleistungen` | Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.; Normanker: ZPO §§ 850k ff.; SGB I, II, XII Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `insolvenzeroeffnung-wirkungen` | Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.; Normanker: InsO §§ 27 und 35 und 36 und 80 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `kommunikation-mit-glaeubigern` | Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.; Normanker: InsO §§ 305 und 307; BGB Anerkenntnisrisiken; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `konto-sperre-und-sozialleistungen` | Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.; Normanker: ZPO §§ 850k ff.; SGB I, II, XII Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Insolvenzeroeffnung Wirkungen Kommunikation im Plugin Verbraucheri
 
 ## 1. `insolvenzeroeffnung-wirkungen`
 
-**Fokus:** Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.; Normanker: InsO §§ 27 und 35 und 36 und 80 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.; Normanker: InsO §§ 27 und 35 und 36 und 80 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.
 
@@ -66,7 +66,7 @@ InsO §§ 27, 35, 36, 80, 89. Entscheidend ist immer der aktuelle Normstand der 
 
 ## 2. `kommunikation-mit-glaeubigern`
 
-**Fokus:** Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.; Normanker: InsO §§ 305 und 307; BGB Anerkenntnisrisiken; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.; Normanker: InsO §§ 305 und 307; BGB Anerkenntnisrisiken; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.
 
@@ -105,7 +105,7 @@ InsO §§ 305, 307; BGB Anerkenntnisrisiken. Entscheidend ist immer der aktuelle
 
 ## 3. `konto-sperre-und-sozialleistungen`
 
-**Fokus:** Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.; Normanker: ZPO §§ 850k ff.; SGB I, II, XII Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.; Normanker: ZPO §§ 850k ff.; SGB I, II, XII Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.
 

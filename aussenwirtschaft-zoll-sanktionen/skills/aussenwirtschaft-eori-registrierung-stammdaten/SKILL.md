@@ -34,10 +34,10 @@ EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Beantragung beim
 
 ## Rechtsrahmen
 
-- **UZK Art. 9**: EORI-Registrierungspflicht fuer Wirtschaftsbeteiligte.
-- **UZK-DA Art. 3**: Informationspflichten fuer EORI-Registrierung.
+- **UZK Art. 9**: EORI-Registrierungspflicht für Wirtschaftsbeteiligte.
+- **UZK-DA Art. 3**: Informationspflichten für EORI-Registrierung.
 - **UZK-IA Art. 7**: Elektronische Systeme und EORI-Datenbank.
-- **§ 10 ZollVG**: Nationale Erweiterung fuer EORI-Verfahren.
+- **§ 10 ZollVG**: Nationale Erweiterung für EORI-Verfahren.
 - **UZK Art. 5 Nr. 27**: Definition des Wirtschaftsbeteiligten mit EORI-Pflicht.
 
 ## Pruef-Raster
@@ -46,7 +46,7 @@ EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Beantragung beim
 - [ ] Stammdaten nach jeder relevanten Aenderung aktualisiert?
 - [ ] EORI in ATLAS und Zollsystemen korrekt hinterlegt?
 - [ ] UK-Tochtergesellschaft separat mit UK-EORI ausgestattet?
-- [ ] Vertretungsbefugnis fuer EORI-Nutzung durch Bevollmaechtigte geregelt?
+- [ ] Vertretungsbefugnis für EORI-Nutzung durch Bevollmaechtigte geregelt?
 - [ ] EORI-Nummer in Shipping-Dokumenten korrekt angegeben?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Beantragung beim
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-EORI-Antragsformular, Stammdaten-Pruefcheckliste, Update-Protokoll fuer Aenderungen und UK-EORI-Antragshilfe.
+EORI-Antragsformular, Stammdaten-Pruefcheckliste, Update-Protokoll für Aenderungen und UK-EORI-Antragshilfe.
 
 ## Quellen
 

@@ -32,11 +32,11 @@ Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungs
 
 **§ 252 Abs. 1 Nr. 6 HGB** — Bewertungsstetigkeit; zeitlicher Vergleich setzt konsistente Methoden voraus.
 
-**§ 265 Abs. 2 HGB** — Vergleichbarkeit der Vorjahreszahlen im Jahresabschluss; analog fuer unterjaehrige BWA.
+**§ 265 Abs. 2 HGB** — Vergleichbarkeit der Vorjahreszahlen im Jahresabschluss; analog für unterjaehrige BWA.
 
-**§ 238 HGB** — Buchfuehrungspflicht; Grundlage fuer den Datenbestand.
+**§ 238 HGB** — Buchfuehrungspflicht; Grundlage für den Datenbestand.
 
-**§ 5 EStG / § 4 EStG** — Massgeblichkeit fuer Vergleichszeitraeume.
+**§ 5 EStG / § 4 EStG** — Massgeblichkeit für Vergleichszeitraeume.
 
 ### Verwaltungsanweisungen
 
@@ -105,7 +105,7 @@ Vorsicht: Im obigen Beispiel ist `13,6` nur in der Tabelle akzeptabel; in der Fr
 - Saisonale Branchen (Tourismus, Bau, Einzelhandel) immer mit Vorjahres-Monatsvergleich, nicht Vormonatsvergleich.
 - Bei abweichendem Wirtschaftsjahr Mandant darauf hinweisen, dass Standard-BWA-Form ggf. anzupassen ist.
 - DATEV BWA 11 (Bewegungs-BWA) gibt Vormonatsvergleich detailliert aus; DATEV BWA 01 mit Vorjahresvergleich konfigurieren.
-- Honorar fuer aufwendige Sondereffekt-Bereinigung als Zusatzauftrag StBVV § 35 / Zeithonorar.
+- Honorar für aufwendige Sondereffekt-Bereinigung als Zusatzauftrag StBVV § 35 / Zeithonorar.
 
 ## Querverweise
 

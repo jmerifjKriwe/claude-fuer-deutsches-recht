@@ -19,7 +19,7 @@ Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hochwertiger Hilfsmittel die volle Kostenerstattung verweigert hat. Anwendung typischerweise bei Hoergeraeten oberhalb des Festbetrags und bei Cochlea-Implantat-Folgekosten.
+Skill für Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hochwertiger Hilfsmittel die volle Kostenerstattung verweigert hat. Anwendung typischerweise bei Hoergeraeten oberhalb des Festbetrags und bei Cochlea-Implantat-Folgekosten.
 
 ## 2. Eingaben
 
@@ -33,7 +33,7 @@ Skill fuer Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hoch
 
 ### a) Beihilfefaehigkeit dem Grunde nach
 - Hilfsmittel ist beihilfefaehig, wenn medizinisch notwendig und in der Anlage der Beihilfeverordnung gelistet oder gleichgestellt.
-- Anlage 6 BBhV gibt Festbetraege fuer typische Hilfsmittel vor.
+- Anlage 6 BBhV gibt Festbetraege für typische Hilfsmittel vor.
 
 ### b) Festbetrag und Mehrkosten
 - Erstattung bis zum Festbetrag.
@@ -44,10 +44,10 @@ Skill fuer Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hoch
 
 ### d) Verfahren
 - Widerspruch gegen Beihilfebescheid; Klage zum VG; Aussetzungsantrag bei drohender hoher Belastung.
-- Im Eilrechtsschutz vorlaeufige Erstattung nur bei akutem Versorgungsbedarf.
+- Im Eilrechtsschutz vorläufige Erstattung nur bei akutem Versorgungsbedarf.
 
 ### e) Cochlea-Implantat
-- Nachsorge mit Sprachprozessoren und Wartung beihilfefaehig in regelmaessigen Abstaenden; Streit oft um die Generation des Prozessors.
+- Nachsorge mit Sprachprozessoren und Wartung beihilfefaehig in regelmäßigen Abstaenden; Streit oft um die Generation des Prozessors.
 
 ## 4. Quellenpflicht
 
@@ -63,10 +63,10 @@ Skill fuer Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hoch
 ## 6. Verifizierte Quellenanker
 
 - BBhV insbesondere Anlage 6 (Hilfsmittel und Festbetraege); landesrechtliche Beihilfeverordnungen mit eigenen Hilfsmittelverzeichnissen.
-- Festbetragsregelung als Regelgrenze; medizinische Notwendigkeit als Massstab fuer beihilfefaehige Mehrkosten.
+- Festbetragsregelung als Regelgrenze; medizinische Notwendigkeit als Massstab für beihilfefaehige Mehrkosten.
 - BVerwG zur Beihilfefaehigkeit hochwertiger Hilfsmittel und zur Pruefung medizinischer Notwendigkeit — Datum und Az vor Zitat live verifizieren.
 - Hilfsmittelrichtlinie des G-BA und einschlaegige HNO- und audiologische Leitlinien als Begruendungsgrundlage.
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant beidseitige Schwerhoerigkeit; HNO empfiehlt Geraet mit Bluetooth und Spezialakustik fuer Berufstaetigkeit als Richter (Verhandlung in grossen Saelen). Kostenvoranschlag 5.800 Euro, Festbetrag 1.500 Euro. Skill liefert Widerspruch mit Begruendung der Mehrkosten als medizinisch notwendig.
+Mandant beidseitige Schwerhoerigkeit; HNO empfiehlt Geraet mit Bluetooth und Spezialakustik für Berufstaetigkeit als Richter (Verhandlung in grossen Saelen). Kostenvoranschlag 5.800 Euro, Festbetrag 1.500 Euro. Skill liefert Widerspruch mit Begruendung der Mehrkosten als medizinisch notwendig.

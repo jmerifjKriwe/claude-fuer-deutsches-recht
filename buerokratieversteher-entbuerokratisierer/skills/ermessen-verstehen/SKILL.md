@@ -1,13 +1,13 @@
 ---
 name: ermessen-verstehen
-description: "Ermessen der Behoerde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ermessen verstehen
 
 ## Arbeitsbereich
 
-Ermessen der Behoerde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,11 +18,11 @@ Ermessen der Behoerde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Erm
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum geht es konkret
-Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der Norm, sondern im **Ermessen** der Behoerde (Kennzeichen: "kann", "soll", "kann anordnen"). Ermessen erlaubt Spielraum — verlangt aber Pruefung der Belange und Begruendung. Wer Ermessen versteht, kann gezielt argumentieren.
+Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der Norm, sondern im **Ermessen** der Behörde (Kennzeichen: "kann", "soll", "kann anordnen"). Ermessen erlaubt Spielraum — verlangt aber Pruefung der Belange und Begruendung. Wer Ermessen versteht, kann gezielt argumentieren.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Steht im Gesetz "kann" oder "soll" (= Ermessen)?
-- Welche Belange muss die Behoerde abwaegen?
+- Welche Belange muss die Behörde abwaegen?
 - Ist die Begruendung nachvollziehbar?
 - Liegt Ermessensfehler vor (Nichtgebrauch, Ueberschreitung, Fehlgebrauch)?
 - Gibt es Gleichbehandlungs- oder Selbstbindungsgesichtspunkte (Art. 3 GG)?
@@ -34,12 +34,12 @@ Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der N
 - **GG Art. 3 Abs. 1** Gleichbehandlung — Selbstbindung der Verwaltung durch Verwaltungspraxis.
 - **VwGO § 114 S. 2** Nachholung der Ermessensbegruendung im verwaltungsgerichtlichen Verfahren.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Norm pruefen:** "Kann" = Ermessen; "soll" = intendiertes Ermessen (Regelfall Ermessen ausgeuebt); "ist" = gebunden.
-2. **Ermessensspielraum kartieren:** Welche Belange muss die Behoerde abwaegen (privat/oeffentlich, Verhaeltnismaessigkeit)?
+2. **Ermessensspielraum kartieren:** Welche Belange muss die Behörde abwaegen (privat/oeffentlich, Verhaeltnismaessigkeit)?
 3. **Begruendung pruefen:** Sind die abgewogenen Belange erkennbar? § 39 VwVfG.
 4. **Ermessensfehler suchen:**
- - **Ermessensnichtgebrauch** (Behoerde glaubt gebunden zu sein)
+ - **Ermessensnichtgebrauch** (Behörde glaubt gebunden zu sein)
  - **Ermessensueberschreitung** (Ergebnis ausserhalb gesetzlicher Grenze)
  - **Ermessensfehlgebrauch** (sachfremde Erwaegung, fehlende Belange)
 5. **Selbstbindung pruefen:** Gleichbehandlung mit aehnlichen Faellen (Art. 3 GG); Verwaltungsvorschriften.
@@ -52,21 +52,21 @@ Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der N
 | Gebundene Entscheidung | "Muss" | Tatbestand bestreiten/Rechtsfehler |
 | Ermessen "kann" | Spielraum | Belange einbringen, mildere Mittel |
 | Intendiertes Ermessen "soll" | Regel-Ausnahme | Atypische Lage darstellen |
-| Ermessensreduzierung auf Null | nur eine richtige Entscheidung | Beweisen, dass Behoerde keinen Spielraum hatte |
+| Ermessensreduzierung auf Null | nur eine richtige Entscheidung | Beweisen, dass Behörde keinen Spielraum hatte |
 
 ## Praxistipps
 - Bei Ermessensentscheidungen ist Verhaeltnismaessigkeit zentral: Geeignetheit, Erforderlichkeit, Angemessenheit.
-- Selbstbindung der Verwaltung wirkt zugunsten des Buergers (Art. 3 GG): Wenn die Behoerde in aehnlichen Faellen anders entschieden hat, muss sie das begruenden.
-- Ermessensnichtgebrauch ist haeufig: Behoerde meint, sie habe keinen Spielraum — dann ist der Bescheid fehlerhaft.
-- Gericht prueft Ermessen nur eingeschraenkt (§ 114 VwGO) — Sachvortrag bei der Behoerde ist entscheidend.
+- Selbstbindung der Verwaltung wirkt zugunsten des Buergers (Art. 3 GG): Wenn die Behörde in aehnlichen Faellen anders entschieden hat, muss sie das begruenden.
+- Ermessensnichtgebrauch ist haeufig: Behörde meint, sie habe keinen Spielraum — dann ist der Bescheid fehlerhaft.
+- Gericht prueft Ermessen nur eingeschraenkt (§ 114 VwGO) — Sachvortrag bei der Behörde ist entscheidend.
 - Bei intendiertem Ermessen ("soll") substanziieren, warum atypische Lage vorliegt.
 
 ## Mustertexte
 **Argumentation Ermessensfehler:**
-> Die angefochtene Verfuegung beruht auf einem Ermessensfehler. § … erlaubt der Behoerde nach pflichtgemaessem Ermessen [Massnahme]. Die Begruendung des Bescheids laesst nicht erkennen, dass folgende Belange beruecksichtigt wurden: [Liste]. Damit liegt Ermessensnichtgebrauch / Ermessensfehlgebrauch vor.
+> Die angefochtene Verfuegung beruht auf einem Ermessensfehler. § … erlaubt der Behörde nach pflichtgemaessem Ermessen [Massnahme]. Die Begruendung des Bescheids laesst nicht erkennen, dass folgende Belange beruecksichtigt wurden: [Liste]. Damit liegt Ermessensnichtgebrauch / Ermessensfehlgebrauch vor.
 
 **Vortrag atypische Lage:**
-> Die Voraussetzungen fuer ein Abweichen vom Regelfall (intendiertes Ermessen) liegen vor: [Tatsachen]. Die Behoerde hat den Ausnahmecharakter nicht hinreichend gewuerdigt; die Entscheidung ist im Wege der Ermessensreduzierung zu meinen Gunsten zu treffen.
+> Die Voraussetzungen für ein Abweichen vom Regelfall (intendiertes Ermessen) liegen vor: [Tatsachen]. Die Behörde hat den Ausnahmecharakter nicht hinreichend gewuerdigt; die Entscheidung ist im Wege der Ermessensreduzierung zu meinen Gunsten zu treffen.
 
 ## Typische Fehler
 - "Kann" nicht als Ermessen erkannt.

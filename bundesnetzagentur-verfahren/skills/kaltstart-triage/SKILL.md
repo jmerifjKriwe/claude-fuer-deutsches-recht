@@ -5,6 +5,24 @@ description: "Einstieg, Schnelltriage und Fallrouting im Bundesnetzagentur-Verfa
 
 # Bundesnetzagentur-Verfahren — Allgemein
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 29 EnWG` — Festlegung und Genehmigung durch Regulierungsbehoerde.
+- `§ 65 EnWG` — Aufsichtsmassnahmen.
+- `§ 75 EnWG` — Beschwerde gegen Entscheidungen der Regulierungsbehoerde.
+- `§ 80 EnWG` — Rechtsbeschwerde.
+- `§ 67 TKG` — Anordnungen der Bundesnetzagentur.
+- `§ 149 TKG` — Bussgeldvorschriften.
+- `§ 40 PostG` — Aufsicht.
+- `§ 44 VwVfG` — Nichtigkeit Verwaltungsakt.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Sofortstart
 Dieses Allgemein-Skill ist der Empfangstresen und Projektleiter des Plugins **Bundesnetzagentur-Verfahren**. Es soll den Nutzer nicht belehren, sondern schnell arbeitsfähig machen: erst die Lage erfassen, dann den passenden Pfad wählen, dann direkt einen verwertbaren Output erzeugen.
 
@@ -61,7 +79,7 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `energie-energieverbraucher-beschwerde` | Energie: Energieverbraucher Beschwerde |
 | `energie-lieferantenwechsel-energie` | Energie: Lieferantenwechsel Energie |
 | `energie-grundversorgung-ersatzversorgung` | Energie: Grundversorgung Ersatzversorgung |
-| `energie-fernwaerme-schnittstelle-soweit-bnetza-nicht-zustaendig` | Energie: Fernwärme Schnittstelle soweit BNetzA nicht zuständig |
+| `energie-fernwaerme-schnittstelle-soweit-bnetza-nicht-zuständig` | Energie: Fernwärme Schnittstelle soweit BNetzA nicht zuständig |
 | `telekommunikation-frequenzzuteilung` | Telekommunikation: Frequenzzuteilung |
 | `telekommunikation-frequenzauktion` | Telekommunikation: Frequenzauktion |
 | `telekommunikation-nummernverwaltung` | Telekommunikation: Nummernverwaltung |
@@ -117,7 +135,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `energie-bilanzkreis-strom` | Energie / Bilanzkreis Strom: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, Str... |
 | `energie-eeg-netzanschluss-einspeisemanagement` | Energie / EEG Netzanschluss Einspeisemanagement: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenank... |
 | `energie-energieverbraucher-beschwerde` | Energie / Energieverbraucher Beschwerde: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG... |
-| `energie-fernwaerme-schnittstelle-soweit-bnetza-nicht-zustaendig` | Energie / Fernwärme Schnittstelle soweit BNetzA nicht zuständig: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzage... |
+| `energie-fernwaerme-schnittstelle-soweit-bnetza-nicht-zuständig` | Energie / Fernwärme Schnittstelle soweit BNetzA nicht zuständig: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzage... |
 | `energie-grosshandelsdaten-transparenz` | Energie / Großhandelsdaten Transparenz: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG,... |
 | `energie-grundversorgung-ersatzversorgung` | Energie / Grundversorgung Ersatzversorgung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: E... |
 | `energie-kapazitaetsvergabe-gas` | Energie / Kapazitätsvergabe Gas: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV,... |

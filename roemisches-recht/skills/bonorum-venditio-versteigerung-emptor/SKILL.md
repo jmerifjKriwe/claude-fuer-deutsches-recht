@@ -1,13 +1,13 @@
 ---
 name: bonorum-venditio-versteigerung-emptor
-description: "Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung fuer den Schuldner. Liefert Quellenmatrix."
+description: "Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung für den Schuldner. Liefert Quellenmatrix."
 ---
 
 # Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor
 
 ## Aufgabe
 
-Skill fuer die bonorum venditio.
+Skill für die bonorum venditio.
 
 ## Rechtsquelle
 
@@ -45,6 +45,23 @@ Skill fuer die bonorum venditio.
 3. Bonorum emptor identifiziert?
 4. Anteilige Befriedigung?
 5. Infamia-Folge eingetreten?
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

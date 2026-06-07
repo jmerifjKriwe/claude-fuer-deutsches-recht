@@ -13,7 +13,7 @@ description: "DSV Rechtsprechung Saas Vertrag Fristennotiz im Plugin Fachanwalt 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` | Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen; Schmerzensgeldgrößen; Kausalitäts-anforderungen. Output: Rechtsprechungs-Übersicht mit Begründungslinien. Abgrenzung: keine konkrete Verteidigung. |
-| `spezial-saas-fristen-form-und-zustaendigkeit` | Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-saas-fristen-form-und-zuständigkeit` | Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vertrag-fristennotiz-und-naechster-schritt` | Vertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr` | IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen. Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muessen aktuell gestaltet werden. Normen BGB §§ 305 ff. AGB-Kontrolle VSBG Verbraucherstreitbeilegung AI Act Art. 85 Beschwerdebearbeitung DGRI-Mediation. Prüfraster Vertragsklauseln Eskalationsverfahren Schiedsklausel ODR-Plattform nach Abschaltung Juli 2025 Streitbeilegungsoptionen. Output IT-Vertragsklausel-Paket mit Eskalationsverfahren und Streitbeilegungsformulierung. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen. |
 | `fachanwalt-it-recht-saas-vertrag-verhandlung` | SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprüft werden und IT-rechtliche Pflicht-Klauseln muessen geprüft werden. Normen Art. 28 DSGVO AVV § 309 BGB AGB-Kontrolle §§ 327 ff. BGB Digitale Produkte EVB-IT. Prüfraster SLA Verfuegbarkeit Datenschutz-AVV Wartung Sicherheitsupdates Vendor-Lock-in Exit-Klausel Datenmigration Haftung Datenlokation Schrems-II SCC. Output Vertragsmark-up mit kommentierten Klauseln Verhandlungsprioritaeten und Datenschutz-Risikoeinschaetzung. Abgrenzung zu fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr und softwarefehler-mangelhaftung-prüfen. |
@@ -77,7 +77,7 @@ Verifikationsschritt: vor jeder Zitation prüfen — wegen Quellenregel keine Zi
 
 - `dsv-schadensersatz-art-82` deckt die konkrete Verteidigung ab.
 
-## 2. `spezial-saas-fristen-form-und-zustaendigkeit`
+## 2. `spezial-saas-fristen-form-und-zuständigkeit`
 
 **Fokus:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
@@ -322,7 +322,7 @@ Stand: 05/2026. EU-ODR-VO 524/2013. VSBG. AI Act 2024/1689 Art. 85. DGRI-Schieds
 2. Standard-SaaS-AGB oder verhandelter Individualvertrag?
 3. Welche Klauseln sind kritisch? (SLA-Verfügbarkeit / Haftung / Exit / Datenschutz)
 4. Streitbeilegungsklausel: Schiedsverfahren / Schlichtung / ordentliches Gericht?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -380,7 +380,7 @@ Nächster Termin: [DATUM]
 6. Wie lange Vertragslaufzeit und welche Kündigungsfristen? Automatische Verlängerung?
 7. Gibt es Vendor-Lock-in-Risiken — proprietäres Datenformat, keine API-Export-Möglichkeit?
 8. Welcher Ansprechpartner beim Anbieter für Vertragsverhandlung — Legal, Sales, Procurement?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

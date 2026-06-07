@@ -5,6 +5,22 @@ description: "Fristen- und Risikoampel im Zitierweise im deutschen Recht: 1. Wer
 
 # Fristen- und Risikoampel
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 130 Nr. 6 ZPO` — Schriftsatzverantwortung und Signatur.
+- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht.
+- `§ 253 Abs. 2 ZPO` — bestimmter Vortrag und Antrag.
+- `§ 313 Abs. 3 ZPO` — Darstellung der Entscheidungsgruende.
+- `§ 540 Abs. 1 ZPO` — Berufungsurteil und Bezugnahmen.
+- `§ 267 Abs. 1 StPO` — Urteilsgruende im Strafurteil.
+- `§ 117 Abs. 2 VwGO` — Entscheidungsgruende im Verwaltungsprozess.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Aufgabe
 Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin zitierweise-deutsches-recht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
 

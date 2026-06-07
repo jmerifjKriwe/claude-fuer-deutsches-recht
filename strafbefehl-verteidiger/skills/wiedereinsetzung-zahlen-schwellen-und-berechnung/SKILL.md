@@ -60,7 +60,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
  - Konkretisierung Hindernis (Tatsachen darlegen).
  - Glaubhaftmachung (z. B. eidesstattliche Versicherung, Atteste, Postzustellungsdaten).
  - **Versaeumte Handlung in Antragsfrist nachholen** (z. B. Einspruch mit beilegen).
-- **Anerkannte Gruende fuer unverschuldete Versaeumung:**
+- **Anerkannte Gruende fÃ¼r unverschuldete Versaeumung:**
  - Schwere Krankheit / Krankenhausaufenthalt mit Unfaehigkeit zur Wahrnehmung.
  - Postfehler / Zustellungsmaengel (z. B. Zustellung an falsche Adresse, Ersatzzustellung an unbefugte Person).
  - Hoehere Gewalt (Naturkatastrophe).

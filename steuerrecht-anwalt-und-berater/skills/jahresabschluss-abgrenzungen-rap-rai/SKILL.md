@@ -13,7 +13,7 @@ description: "Rechnungsabgrenzungsposten RAP aktiv und passiv. Anwendungsfall Ja
 
 ## Kernsachverhalt
 
-Rechnungsabgrenzungsposten (RAP) sind die bilanzielle Zuordnung von Aufwand und Ertrag zur richtigen Periode. Aktive RAP: Vorauszahlungen, die der Mandant gemacht hat und die in das Folgejahr gehoeren (z.B. Versicherungspraemie fuer 12 Monate, gezahlt im Dezember). Passive RAP: Einzahlungen, die im aktuellen Jahr empfangen wurden, aber Leistungen fuer das Folgejahr betreffen.
+Rechnungsabgrenzungsposten (RAP) sind die bilanzielle Zuordnung von Aufwand und Ertrag zur richtigen Periode. Aktive RAP: Vorauszahlungen, die der Mandant gemacht hat und die in das Folgejahr gehoeren (z.B. Versicherungspraemie für 12 Monate, gezahlt im Dezember). Passive RAP: Einzahlungen, die im aktuellen Jahr empfangen wurden, aber Leistungen für das Folgejahr betreffen.
 
 ## Kaltstart-Rueckfragen
 
@@ -48,9 +48,9 @@ Rechnungsabgrenzungsposten (RAP) sind die bilanzielle Zuordnung von Aufwand und 
 
 | Beispiel | Vorauszahlung | RAP-Berechnung |
 |---|---|---|
-| Versicherungspraemie 12 Monate fuer Folgejahr | 1.200 EUR im Dezember | RAP aktiv 1.200 EUR |
+| Versicherungspraemie 12 Monate für Folgejahr | 1.200 EUR im Dezember | RAP aktiv 1.200 EUR |
 | Miete Januar des Folgejahres in Dezember | 1.000 EUR | RAP aktiv 1.000 EUR |
-| Leasing-Vorauszahlung | 5.000 EUR fuer 24 Monate | RAP aktiv 5.000 EUR (5.000 / 24 x 24 Monate) |
+| Leasing-Vorauszahlung | 5.000 EUR für 24 Monate | RAP aktiv 5.000 EUR (5.000 / 24 x 24 Monate) |
 | Kfz-Steuer Folgejahr | 800 EUR | RAP aktiv 800 EUR |
 | GEZ-Beitrag Folgejahr | 70 EUR | RAP aktiv 70 EUR |
 
@@ -58,8 +58,8 @@ Rechnungsabgrenzungsposten (RAP) sind die bilanzielle Zuordnung von Aufwand und 
 
 | Beispiel | Einzahlung | RAP-Berechnung |
 |---|---|---|
-| Mietvorauszahlung fuer Folgejahr | 5.000 EUR | RAP passiv 5.000 EUR |
-| Service-Vertrag Vorauszahlung | 2.400 EUR fuer 24 Monate | RAP passiv 2.400 EUR x 12/24 = 1.200 EUR |
+| Mietvorauszahlung für Folgejahr | 5.000 EUR | RAP passiv 5.000 EUR |
+| Service-Vertrag Vorauszahlung | 2.400 EUR für 24 Monate | RAP passiv 2.400 EUR x 12/24 = 1.200 EUR |
 | Jahresvorauszahlung Wartungsvertrag | 600 EUR | RAP passiv 600 EUR |
 
 ### Phase 3 — Berechnung

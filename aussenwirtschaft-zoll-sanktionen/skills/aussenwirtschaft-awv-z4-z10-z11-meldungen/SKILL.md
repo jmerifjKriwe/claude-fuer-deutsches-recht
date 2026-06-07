@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-awv-z4-z10-z11-meldungen
-description: "Meldepflichten nach AWV fuer spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuellhilfe im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuellhilfe im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AWV Z4/Z10/Z11: Spezifische Bundesbank-Meldungen im Kapitalverkehr
 
 ## Arbeitsbereich
 
-Meldepflichten nach AWV fuer spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuellhilfe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuellhilfe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -34,8 +34,8 @@ Meldepflichten nach AWV fuer spezifische Formulare Z4 (Direktinvestitionen), Z10
 
 ## Rechtsrahmen
 
-- **AWV §§ 56-71**: Gesamtes Meldewesen fuer Kapitalverkehr und Direktinvestitionen.
-- **§ 57 AWV**: Z4-Meldepflicht fuer Direktinvestitionen.
+- **AWV §§ 56-71**: Gesamtes Meldewesen für Kapitalverkehr und Direktinvestitionen.
+- **§ 57 AWV**: Z4-Meldepflicht für Direktinvestitionen.
 - **§ 68 AWV**: Wertpapiermeldungen (Z10).
 - **§ 69 AWV**: Kreditgeschaefte mit dem Ausland (Z11).
 - **AWG § 13**: Allgemeine Auskunftspflicht.
@@ -60,7 +60,7 @@ Meldepflichten nach AWV fuer spezifische Formulare Z4 (Direktinvestitionen), Z10
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

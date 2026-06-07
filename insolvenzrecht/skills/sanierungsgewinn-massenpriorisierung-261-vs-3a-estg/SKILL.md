@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-massenpriorisierung-261-vs-3a-estg
-description: "Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. zur Modellierung und Mustertexte fuer Glaeubigerausschuss-Brief im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. zur Modellierung und Mustertexte für Glaeubigerausschuss-Brief im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Massenpriorisierung Paragraphen 53/261 InsO vs. Paragraph 3a EStG
 
 ## Arbeitsbereich
 
-Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. zur Modellierung und Mustertexte fuer Glaeubigerausschuss-Brief. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. zur Modellierung und Mustertexte für Glaeubigerausschuss-Brief. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -41,7 +41,7 @@ Kaltstart-Fragen:
 
 1. Restsanierungsertrag nach Verrechnung?
 2. Gibt es Anhaltspunkte, dass Paragraph 3a EStG scheitert?
-3. Wieviel "Polster" hat die Masse fuer eine etwaige Steuer (Liquiditaetspuffer)?
+3. Wieviel "Polster" hat die Masse für eine etwaige Steuer (Liquiditaetspuffer)?
 4. Liegt eine Vorabauskunft Paragraph 89 AO vor?
 5. Wie sind die Plan-Quote und der Vorrang der Masse-Steuer modelliert?
 
@@ -54,12 +54,12 @@ Kaltstart-Fragen:
 - Paragraph 251 AO — Steuern in der Insolvenz.
 - Paragraph 3a EStG.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Sanierungs-Modellrechnung.** Hauptantrag Paragraph 3a EStG: wie hoch der Restbetrag?
 2. **Sensitivitaetsanalyse: was wenn Paragraph 3a EStG scheitert?** Steuerbetrag berechnen (KSt, GewSt).
 3. **Steuer als Masseverbindlichkeit verbuchen** (Paragraph 55 InsO).
-4. **Plan-Quote pruefen.** Reicht die Masse nach Abzug der Steuer fuer die zugesagte Quote?
+4. **Plan-Quote pruefen.** Reicht die Masse nach Abzug der Steuer für die zugesagte Quote?
 5. **Plan-Klausel zur Vermeidung der Massenpriorisierung pruefen.** Hilfsweise Stundung Paragraph 222 AO oder Erlass Paragraph 227 AO als Bedingung im Plan.
 6. **Glaeubigerausschuss informieren** — der Ausschuss muss das Steuerrisiko kennen.
 7. **Bei Masseunzulaenglichkeit (Paragraph 208 InsO) Anzeige beim Gericht.**
@@ -72,7 +72,7 @@ Kaltstart-Fragen:
 | Paragraph 3a EStG greift zum Teil | Steuer auf Restbetrag; Quote ggf. niedriger | Stundung/Erlass-Hilfslinie aktivieren |
 | Paragraph 3a EStG greift nicht | volle Steuer; Quote gefaehrdet | Plan ggf. nicht traegfaehig |
 | Stundung Paragraph 222 AO erfolgreich | Steuer in Raten nach Plan; Quote tragbar | Tilgungsplan dem FA vorlegen |
-| Erlass Paragraph 227 AO erfolgreich | keine Steuer; Quote wie geplant | sachliche/persoenliche Unbilligkeit begruenden |
+| Erlass Paragraph 227 AO erfolgreich | keine Steuer; Quote wie geplant | sachliche/persönliche Unbilligkeit begruenden |
 | Plan-Klausel macht Anwendung Paragraph 3a EStG zur Bedingung des Plan-Vollzugs | Plan haengt von FA-Entscheidung ab | nur bei Vorabauskunft empfehlenswert |
 | Masseunzulaenglichkeit Paragraph 208 InsO | Quote sinkt zwingend | Plan praktisch gescheitert |
 
@@ -109,7 +109,7 @@ Plan-Quote bei 25% verlangt 5.000.000 -> nicht einhaltbar.
 
 SZENARIO C (Stundung Paragraph 222 AO erfolgreich, Tilgung in 36 Monaten):
 Steuer wird ueber 36 Monate aus laufender Geschaeftstaetigkeit getragen.
-Masse bleibt fuer Plan-Quote frei.
+Masse bleibt für Plan-Quote frei.
 => Plan-Quote einhaltbar, aber Tilgungsplan ist Pflicht.
 ```
 
@@ -141,7 +141,7 @@ Risikominderungsstrategie:
 1. Vorabauskunft Paragraph 89 AO wird beantragt (Zeitschiene: [Monate]).
 2. Plan enthaelt Hilfslinie Stundung Paragraph 222 AO; Tilgungsplan in
  Anlage [...].
-3. Plan-Quote enthaelt Polster von EUR [Betrag] fuer Restrisiken.
+3. Plan-Quote enthaelt Polster von EUR [Betrag] für Restrisiken.
 
 Ich bitte um Beratung und ggf. Beschluss zum Vorgehen.
 
@@ -165,7 +165,7 @@ Im Plugin `insolvenzrecht`:
 - `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Hauptlinie.
 - `insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung` — Stundung/Erlass.
 - `insol-sanierungsgewinn-finanzamt-im-insolvenzverfahren` — FA-Position.
-- `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` — Haftung.
+- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftung.
 - `inso-massearmut-massekostenmangel-spezial` — Massearmut.
 
 In anderen Plugins:

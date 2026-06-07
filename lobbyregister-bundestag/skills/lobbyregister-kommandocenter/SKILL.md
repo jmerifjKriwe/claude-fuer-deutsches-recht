@@ -46,7 +46,7 @@ Mandat starten, Ziel klaeren und den passendes Fachmodul auswaehlen.
 | Bestehender Eintrag mit Aenderung | `aktualisierung-unverzueglich` |
 | Jahrespruefung | `geschaeftsjahresaktualisierung` |
 | Regelungsvorhaben oder Stellungnahme | `regelungsvorhaben-erfassen` oder `stellungnahmen-gutachten-upload` |
-| Auftrag fuer Dritte | `auftraggeber-ermitteln` und `unterauftragnehmer-erfassen` |
+| Auftrag für Dritte | `auftraggeber-ermitteln` und `unterauftragnehmer-erfassen` |
 | Finanzdaten | `finanzaufwendungen-berechnen` bis `jahresabschluss-rechenschaftsbericht` |
 | Kontaktverhalten | `verhaltenskodex-integritaet` und `erstkontakt-offenlegung` |
 | Verstoß melden oder verteidigen | `verstoesse-melden` oder `bussgeld-und-pruefverfahren` |
@@ -57,7 +57,7 @@ Mandat starten, Ziel klaeren und den passendes Fachmodul auswaehlen.
 LOBBYREGISTER-MANDATSKARTE
 Stand: [DATUM]
 Organisation/Person: [NAME]
-Rolle: [eigene Interessenvertretung / Auftrag fuer Dritte / Unterauftrag]
+Rolle: [eigene Interessenvertretung / Auftrag für Dritte / Unterauftrag]
 Adressaten: [Bundestag / Bundesregierung / beides / unklar]
 Kontaktstatus: [geplant / laufend / abgeschlossen]
 Pflichtampel: [ROT Registrierung noetig / ORANGE pruefen / GRUEN derzeit keine Pflicht]
@@ -70,7 +70,7 @@ Freigabe durch: [PERSON/FUNKTION]
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 

@@ -21,9 +21,9 @@ Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2
 1. Welche Zielgruppe soll geschult werden: Frontoffice, Compliance, Revisoren oder Geschaeftsfuehrung?
 2. Welche Schulungsform ist gefragt: Praesenzschulung, E-Learning, Quiz, Fallstudie oder Auffrischungserinnerung?
 3. Gibt es aktuelle Red Flags oder Vorfaelle, die in die Schulung eingearbeitet werden sollen?
-4. Muss die Schulung Teilnahme und Pruefung protokollieren (Nachweis fuer Aufsicht)?
+4. Muss die Schulung Teilnahme und Pruefung protokollieren (Nachweis für Aufsicht)?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen

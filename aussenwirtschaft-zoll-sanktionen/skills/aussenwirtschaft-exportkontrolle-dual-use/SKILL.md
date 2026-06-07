@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-exportkontrolle-dual-use
-description: "Dual-Use-Pruefung fuer Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff.: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassifizierungsdossier und Genehmigungspfad im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dual-Use-Pruefung für Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff.: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassifizierungsdossier und Genehmigungspfad im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad
 
 ## Arbeitsbereich
 
-Dual-Use-Pruefung fuer Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff.: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassifizierungsdossier und Genehmigungspfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dual-Use-Pruefung für Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff.: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassifizierungsdossier und Genehmigungspfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -34,7 +34,7 @@ Dual-Use-Pruefung fuer Gueter, Software und Technologie nach VO (EU) 2021/821 An
 
 ## Rechtsrahmen
 
-- **Art. 3 VO (EU) 2021/821**: Genehmigungspflicht fuer Anhang-I-Gueter.
+- **Art. 3 VO (EU) 2021/821**: Genehmigungspflicht für Anhang-I-Gueter.
 - **Art. 4 VO (EU) 2021/821**: Catch-All bei WMD-/Militaer-Endverwendung.
 - **Anhang I VO (EU) 2021/821**: Dual-Use-Gueterliste (Kategorien 0-9).
 - **§ 8 AWV**: Genehmigungsfreie Ausfuhren, Ausnahmen.
@@ -53,14 +53,14 @@ Dual-Use-Pruefung fuer Gueter, Software und Technologie nach VO (EU) 2021/821 An
 
 - Reine Beschreibung des Verwendungszwecks ersetzt keine Listenpruefung nach technischen Parametern.
 - Catch-All wird haufig unterschaetzt; Red Flags des Endverwenders uebersehen.
-- Allgemeine Genehmigungen haben Ausschlusslisten fuer Bestimmungslaender.
+- Allgemeine Genehmigungen haben Ausschlusslisten für Bestimmungslaender.
 - Technologietransfer durch Wissensweitergabe (E-Mail, Schulung) faellt ebenfalls unter Genehmigungspflicht.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

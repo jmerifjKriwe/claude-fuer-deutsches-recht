@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-vergleich-mit-finanzamt-und-stundung
-description: "Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien fuer den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persoenliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien für den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persönliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Vergleich mit Finanzamt und Stundung
 
 ## Arbeitsbereich
 
-Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien fuer den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persoenliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien für den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persönliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -57,7 +57,7 @@ Kaltstart-Fragen:
 - Paragraph 3a EStG — Sanierungsertrag (Hauptlinie).
 - Paragraph 251 AO — Insolvenzverfahren.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Hauptantrag pruefen: Paragraph 3a EStG**. Erst wenn dieser greift, ist alles andere ueberfluessig.
 2. **Hilfslinie Stundung Paragraph 222 AO** vorbereiten:
@@ -65,7 +65,7 @@ Kaltstart-Fragen:
  - Anspruch nicht gefaehrdet (Liquiditaetsplan zeigt Tilgung in Raten).
 3. **Weitere Hilfslinie Erlass Paragraph 227 AO**:
  - sachliche Unbilligkeit (Gesetz zweckverfehlt, hier z. B. wenn Paragraph 3a EStG-Voraussetzung knapp nicht erfuellt).
- - persoenliche Unbilligkeit (Existenz des Unternehmens bei Vollzug bedroht).
+ - persönliche Unbilligkeit (Existenz des Unternehmens bei Vollzug bedroht).
 4. **Tatsaechliche Verstaendigung Paragraph 78 AO** bei strittigen Tatsachen (z. B. Werthaltigkeit einer Gesellschafterforderung).
 5. **Steuerliche Vorabauskunft Paragraph 89 AO** als Praeventions-Werkzeug.
 6. **Verhandlungslinie aufbauen** — schriftliche Begruendung, Liquiditaetsplan, Sanierungskonzept beifuegen.
@@ -76,8 +76,8 @@ Kaltstart-Fragen:
 |---|---|---|---|
 | Paragraph 3a EStG | Steuerbefreiung | vier Voraussetzungen | Pruefung FA |
 | Paragraph 222 AO | Aufschub | erhebliche Haerte + nicht gefaehrdeter Anspruch | Zinsen ggf. |
-| Paragraph 227 AO | endgueltig (oder teilweise) | sachliche/persoenliche Unbilligkeit | hohe Begruendungsanforderung |
-| Paragraph 78 AO | Tatsachen-Fixierung | nur fuer Tatsachen, nicht Recht | nicht bindend bei spaeterer Klage gegen Tatsachen-Verstaendigung |
+| Paragraph 227 AO | endgueltig (oder teilweise) | sachliche/persönliche Unbilligkeit | hohe Begruendungsanforderung |
+| Paragraph 78 AO | Tatsachen-Fixierung | nur für Tatsachen, nicht Recht | nicht bindend bei spaeterer Klage gegen Tatsachen-Verstaendigung |
 | Klage vor FG | richterliche Klaerung | Bescheid liegt vor | langwierig |
 | Kombination Paragraph 3a EStG + hilfsweise Paragraph 227 AO | Standard | parallel zu erklaeren | kein Risiko, wenn klar getrennt |
 
@@ -129,7 +129,7 @@ Anlage [...]. Die Sanierung wuerde damit kontraproduktiv konterkariert.
 
 4. Weiter hilfsweise — Stundung Paragraph 222 AO
 Wir beantragen weiter hilfsweise Stundung der Steuer auf den
-Restsanierungsertrag fuer einen Zeitraum von [X Monaten] mit
+Restsanierungsertrag für einen Zeitraum von [X Monaten] mit
 Ratenzahlung gemaess Anlage [Tilgungsplan]. Die Anspruchsverwirklichung
 ist nicht gefaehrdet (siehe Liquiditaetsplan).
 
@@ -164,7 +164,7 @@ Wir schlagen vor, die Werthaltigkeit einvernehmlich auf [Y %] festzulegen.
 2. Stundungsantrag ohne Liquiditaetsplan.
 3. Persoenliche und sachliche Unbilligkeit nicht getrennt begruendet.
 4. Muendliche Zusagen FA gefolgt — kein Vertrauensschutz.
-5. Tatsaechliche Verstaendigung mit Rechtsfragen vermischt — Paragraph 78 AO nur fuer Tatsachen.
+5. Tatsaechliche Verstaendigung mit Rechtsfragen vermischt — Paragraph 78 AO nur für Tatsachen.
 6. Gemeinde-Schiene (GewSt-Hebebezug) vergessen.
 
 ## Querverweise

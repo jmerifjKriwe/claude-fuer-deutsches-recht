@@ -157,9 +157,9 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 
 - **AGB** — Allgemeine Geschaeftsbedingungen; vorformulierte Vertragsbedingungen unterliegen der Inhaltskontrolle nach §§ 307-309 BGB.
 - **NDA** — Non-Disclosure Agreement (Nichtoffenbarungsvereinbarung); verpflichtet Parteien zur Geheimhaltung vertraulicher Informationen.
-- **MSA** — Master Service Agreement; Rahmenvertrag fuer wiederkehrende Leistungsbeziehungen, ergaenzt durch spezifische Leistungsbeschreibungen.
-- **Playbook** — Internes Regelwerk der Rechtsabteilung mit Mindestanforderungen und Roten Linien fuer Vertragsverhandlungen.
-- **Eskalationsmatrix** — Festgelegte Zustaendigkeiten fuer die Genehmigung von Vertragsabweichungen nach Risikohoehe.
+- **MSA** — Master Service Agreement; Rahmenvertrag für wiederkehrende Leistungsbeziehungen, ergaenzt durch spezifische Leistungsbeschreibungen.
+- **Playbook** — Internes Regelwerk der Rechtsabteilung mit Mindestanforderungen und Roten Linien für Vertragsverhandlungen.
+- **Eskalationsmatrix** — Festgelegte Zuständigkeiten für die Genehmigung von Vertragsabweichungen nach Risikohoehe.
 - **Fernabsatz** — Vertragsschluss ohne gleichzeitige Anwesenheit via Internet, Telefon oder Katalog; loest Widerrufsrecht nach § 312g BGB aus.
 - **UWG** — Gesetz gegen den unlauteren Wettbewerb; regelt Abmahnungen bei wettbewerbswidrigen Handlungen.
 
@@ -170,10 +170,10 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 - §§ 631 ff. BGB (Werkvertrag), §§ 611 ff. BGB (Dienstvertrag)
 - §§ 312g, 355 BGB (Widerrufsrecht im Fernabsatz)
 - § 13 UWG (Abmahnung im Wettbewerbsrecht)
-- §§ 17-18 GeschGehG (Geschaeftsgeheimnisschutz, relevant fuer NDA)
+- §§ 17-18 GeschGehG (Geschaeftsgeheimnisschutz, relevant für NDA)
 - § 307 BGB (Generalklausel Inhaltskontrolle)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Vertragstyp, Vertragspartnerrolle (Lieferant, Auftraggeber, Lizenznehmer) und Rechtsabteilungs-Profil.
 2. Kanzlei-Profil aufnehmen oder aktualisieren (`vertragsrecht-kaltstart-interview` oder `vertragsrecht-anpassen`).
@@ -195,7 +195,7 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 - `abmahnung-uwg` — UWG-Abmahnung verfassen oder pruefen sowie modifizierte Unterlassungserklaerung entwerfen.
 - `widerruf-fernabsatz` — Widerrufsrecht im Fernabsatz nach §§ 312g und 355 BGB pruefen; Belehrungspflichten und Fristberechnungen.
 - `eskalations-marker` — Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix zuordnen und Genehmigungsanfrage erstellen.
-- `stakeholder-zusammenfassung` — Vertragspruefungsmemo in eine Zusammenfassung fuer Geschaeftsfuehrung oder Einkauf uebersetzen.
+- `stakeholder-zusammenfassung` — Vertragspruefungsmemo in eine Zusammenfassung für Geschaeftsfuehrung oder Einkauf uebersetzen.
 - `aenderungs-historie` — Veraenderungen eines Vertrags ueber Basisvertrag und Nachtraege hinweg nachvollziehen.
 - `vertragsverlaengerungs-monitor` — Vertraege mit ablaufenden Kuendigungsfristen anzeigen und rechtzeitig warnen.
 - `pruefungsvorschlaege` — Ausstehende Playbook-Aktualisierungsvorschlaege pruefen und genehmigen oder ablehnen.

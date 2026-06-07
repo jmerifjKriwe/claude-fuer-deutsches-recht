@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Ber
 
 Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Berufsrechts. Reichsanwaltsordnung 1878, BRAO 1959, Anwaltszulassung und freier Beruf als verfassungsrechtlich geschuetztes Gut. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,14 +49,14 @@ Die Rechtsanwaltschaft als eigenstaendiger Beruf entstand mit der Rechtsvereinhe
 ## Akteure und Institutionen
 
 - **Deutscher Anwaltverein (DAV)**: Standesorganisation seit 1871
-- **Bundesrechtsanwaltskammer (BRAK)**: Koerperschaft des oeffentlichen Rechts
+- **Bundesrechtsanwaltskammer (BRAK)**: Koerperschaft des öffentlichen Rechts
 - **BVerfG**: Anwaltliches Berufsrecht zwischen Freiheit und Standesrecht
 - **Reichsanwaltskammer**: Historische Vorgaengerin der BRAK
 
 ## Typische Streitfragen / Forschungsfragen
 
 1. RAO 1878 und Singularzulassung: War sie sachlich begruendet?
-2. Gesellschaftsformen fuer Anwaelte: War das Verbot der GmbH/AG gerechtfertigt?
+2. Gesellschaftsformen für Anwaelte: War das Verbot der GmbH/AG gerechtfertigt?
 3. Berufsrecht und Anwaltsmonopol: Schutzt es den Rechtssuchenden oder den Anwalt?
 4. BVerfGE 76, 171: Endete die Singularzulassung durch BVerfG oder durch Reform?
 5. BRAO 2022 und Legal Tech: Anwaltliches Berufsrecht im Digitalzeitalter

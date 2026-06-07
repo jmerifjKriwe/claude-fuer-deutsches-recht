@@ -21,7 +21,7 @@ Dieser Quellen-Livecheck für **Jurastudium** trennt amtliche Normfassung, frei 
 - `karteikarten-lernplan-lernsitzung` — Karteikarten Lernplan Lernsitzung
 - `lernstrategien-livecheck-sonderfall-loesungsschemata-interessen` — Lernstrategien Livecheck Sonderfall Loesungsschemata Interessen
 - `lernstrategien-loesungsschemata-methodenlehre-grundlagen` — Lernstrategien Loesungsschemata Methodenlehre Grundlagen
-- `methodenlehre-oeffentliches-methodenlehre-strafrecht` — Methodenlehre Oeffentliches Methodenlehre Strafrecht
+- `methodenlehre-öffentliches-methodenlehre-strafrecht` — Methodenlehre Oeffentliches Methodenlehre Strafrecht
 - `methodenlehre-rechtsgeschichte-referendariat` — Methodenlehre Rechtsgeschichte Referendariat
 - `pruefungsgespraech-ag-rechtsgeschichte-gutachtenstil` — Pruefungsgespraech Ag Rechtsgeschichte Gutachtenstil
 - `strafrecht-studium-subsumtionslehre` — Strafrecht Studium Subsumtionslehre

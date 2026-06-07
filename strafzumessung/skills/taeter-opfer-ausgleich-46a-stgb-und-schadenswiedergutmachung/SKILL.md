@@ -22,7 +22,7 @@ Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderu
 § 46a StGB ermoeglicht eine **Strafmilderung** nach § 49 Abs. 1 StGB oder bei Strafe nicht ueber **1 Jahr** Freiheitsstrafe oder Geldstrafe bis 360 Tagessaetzen sogar das **Absehen von Strafe**. Voraussetzung:
 
 - **Nr. 1**: Taeter hat in dem Bemuehen, einen Ausgleich mit dem Verletzten zu erreichen (Taeter-Opfer-Ausgleich), seine Tat ganz oder zum ueberwiegenden Teil wiedergutgemacht oder deren Wiedergutmachung ernsthaft angestrebt, **oder**
-- **Nr. 2**: die Schadenswiedergutmachung von dem Taeter erhebliche persoenliche Leistungen oder persoenlichen Verzicht erfordert hat und er das Opfer ganz oder zum ueberwiegenden Teil entschaedigt.
+- **Nr. 2**: die Schadenswiedergutmachung von dem Taeter erhebliche persönliche Leistungen oder persönlichen Verzicht erfordert hat und er das Opfer ganz oder zum ueberwiegenden Teil entschaedigt.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -53,7 +53,7 @@ Erforderlich sind also:
 
 ### § 46a Nr. 2 StGB — Wesentliche Schadenswiedergutmachung
 
-- Erhebliche persoenliche Leistung des Taeters: hoher Aufwand, finanzielle Anstrengung, Verzicht.
+- Erhebliche persönliche Leistung des Taeters: hoher Aufwand, finanzielle Anstrengung, Verzicht.
 - Opfer ganz oder zum ueberwiegenden Teil entschaedigt.
 - Kommunikativer Prozess ist hier nicht zwingend, die Wiedergutmachung steht im Zentrum.
 
@@ -62,7 +62,7 @@ Erforderlich sind also:
 - Strafmilderung nach § 49 Abs. 1 StGB (zwingend, wenn Tatbestand erfuellt).
 - Bei Strafe nicht ueber 1 Jahr Freiheitsstrafe oder Geldstrafe bis 360 Tagessaetze: **Absehen von Strafe** moeglich (wenn auch nicht zwingend; pflichtgemaesses Ermessen).
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **TOA-Eignung pruefen**:
  - Ist das Opfer ansprechbar?
@@ -72,13 +72,13 @@ Erforderlich sind also:
 4. **Erste Kontaktaufnahme** ueber den Vermittler; **keine** direkte Kontaktaufnahme bei Sexualstraftaten oder Gewaltdelikten ohne Vorbereitung.
 5. **Ausgleichsgespraech** durchfuehren; Protokollieren lassen.
 6. **Wiedergutmachung** vereinbaren: Geldzahlung, Entschuldigung, andere Form der Wiedergutmachung (z.B. Therapie-Vereinbarung, gemeinnuetzige Leistung im Sinne des Opfers).
-7. **Beleg fuer das Gericht**: TOA-Protokoll, Quittung, Bescheinigung der Vermittlungsstelle.
+7. **Beleg für das Gericht**: TOA-Protokoll, Quittung, Bescheinigung der Vermittlungsstelle.
 8. **Antrag in der Hauptverhandlung**: "Wir beantragen die Anwendung von § 46a Nr. 1 StGB. Die Strafe ist nach § 49 Abs. 1 StGB zu mildern; hilfsweise ist von Strafe abzusehen (§ 46a Satz 2 StGB)."
 
 ## Bei Schadenswiedergutmachung (Nr. 2)
 
 - **Erheblicher Aufwand**: nicht jede pflichtgemaesse Zahlung reicht; es muss Verzicht / Anstrengung erkennbar sein.
-- Beleg fuer Hoehe, Form und persoenlicher Aufwand. Mietminderung, Vermoegensverkauf, Kredit fuer Wiedergutmachung.
+- Beleg für Hoehe, Form und persönlicher Aufwand. Mietminderung, Vermoegensverkauf, Kredit für Wiedergutmachung.
 - Zahlung an Versicherung reicht oft **nicht**, weil diese sich an den Taeter wendet (Verzicht-Rueckforderung); st. Rspr.; Aktenzeichen verifizieren.
 
 ## Sondersituationen
@@ -98,7 +98,7 @@ BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht gen
 
 ## Typische Fehler
 
-- **Blosse Zahlung** ohne kommunikativen Prozess — nach BGH 4 StR 232/25 nicht ausreichend fuer § 46a Nr. 1 StGB.
+- **Blosse Zahlung** ohne kommunikativen Prozess — nach BGH 4 StR 232/25 nicht ausreichend für § 46a Nr. 1 StGB.
 - **Direkter Opferkontakt** in sensiblen Faellen — kann re-traumatisieren und das Verfahren erschweren.
 - **TOA-Belege** fehlen oder zu spaet.
 - **§ 46a Nr. 2 StGB** verwechselt mit Nr. 1: bei Nr. 2 muss der Aufwand erheblich sein, nicht nur die Wiedergutmachung.

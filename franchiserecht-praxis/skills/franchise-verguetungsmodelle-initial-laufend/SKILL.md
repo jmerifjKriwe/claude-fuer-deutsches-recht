@@ -36,7 +36,7 @@ Dieser Skill entwirft oder prüft die Geldmechanik eines Franchisevertrags: Eint
 - AGB-rechtlich riskant, wenn die Gebühr wirtschaftlich keine nachvollziehbare Gegenleistung hat oder Rückzahlungsausschlüsse jede Leistungsstörung ausblenden.
 - Erstattungsklauseln bei Nicht-Eröffnung, Widerruf/Anfechtung, behördlichem Scheitern oder fristloser Kündigung als eigene Szenarien formulieren.
 
-## Royalties (Laufende Gebuehren)
+## Royalties (Laufende Gebühren)
 
 - Prozent vom Umsatz.
 - Mindesthoehen.
@@ -46,7 +46,7 @@ Dieser Skill entwirft oder prüft die Geldmechanik eines Franchisevertrags: Eint
 
 ## Marketing Fund
 
-- Beitrag fuer gemeinsame Werbung.
+- Beitrag für gemeinsame Werbung.
 - Zweckbindung, Budgetprozess, Umlageschlüssel, Auskunftsanspruch, Restmittel, lokale Kampagnen und Auditrecht regeln.
 - Keine konkrete Entscheidung aus Modellwissen zitieren. Wenn Rechtsprechung zur Fondsverwendung benötigt wird, nur mit Datum, Aktenzeichen und frei zugänglicher Quelle aufnehmen.
 

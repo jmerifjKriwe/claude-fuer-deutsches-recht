@@ -19,7 +19,7 @@ Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte. Die Prüfung konze
 
 ## Aufgabe
 
-Skill fuer Mehrarbeit nach § 88 BBG / Landesrecht — Freizeitausgleich vs. Verguetung.
+Skill für Mehrarbeit nach § 88 BBG / Landesrecht — Freizeitausgleich vs. Verguetung.
 
 ## Norm
 

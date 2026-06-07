@@ -152,14 +152,14 @@ Schwerpunkte sind das Energiewirtschaftsgesetz (EnWG), das EEG, das KWKG, kartel
 
 ## Fachbegriffe (kurz erklaert)
 
-- **EEG** — Erneuerbare-Energien-Gesetz; regelt Einspeiseverguetung und Marktpraemie fuer Strom aus erneuerbaren Quellen.
-- **KWKG** — Kraft-Waerme-Kopplungsgesetz; regelt KWK-Zuschlaege fuer effiziente Kraftwaermekopplungsanlagen.
-- **EnWG** — Energiewirtschaftsgesetz; Rahmengesetz fuer Strom- und Gasnetzregulierung, Lieferpflichten und Marktregeln.
-- **BNetzA** — Bundesnetzagentur; Regulierungsbehoerde fuer Netze (Strom, Gas, Telekommunikation).
+- **EEG** — Erneuerbare-Energien-Gesetz; regelt Einspeiseverguetung und Marktpraemie für Strom aus erneuerbaren Quellen.
+- **KWKG** — Kraft-Waerme-Kopplungsgesetz; regelt KWK-Zuschlaege für effiziente Kraftwaermekopplungsanlagen.
+- **EnWG** — Energiewirtschaftsgesetz; Rahmengesetz für Strom- und Gasnetzregulierung, Lieferpflichten und Marktregeln.
+- **BNetzA** — Bundesnetzagentur; Regulierungsbehoerde für Netze (Strom, Gas, Telekommunikation).
 - **Marktpraemie** — Foerderinstrument nach EEG: Differenz zwischen Marktpreis und anzulegendem Wert wird vom Netzbetreiber erstattet.
-- **NAV** — Niederspannungsanschlussverordnung; regelt Anschlusspflichten und Bedingungen fuer Stromkunden.
+- **NAV** — Niederspannungsanschlussverordnung; regelt Anschlusspflichten und Bedingungen für Stromkunden.
 - **GEG** — Gebaeude-Energie-Gesetz; verpflichtet Kommunen zur Waermeplanung und regelt Anforderungen an neue Heizungsanlagen.
-- **Planfeststellung** — Behoerdliches Genehmigungsverfahren fuer groessere Leitungsinfrastrukturen nach §§ 43 ff. EnWG.
+- **Planfeststellung** — Behoerdliches Genehmigungsverfahren für groessere Leitungsinfrastrukturen nach §§ 43 ff. EnWG.
 
 ## Rechtsgrundlagen
 
@@ -172,33 +172,33 @@ Schwerpunkte sind das Energiewirtschaftsgesetz (EnWG), das EEG, das KWKG, kartel
 - §§ 18 ff. GWB (Marktmachtmissbrauch im Energiesektor)
 - GEG — Gebaeude-Energie-Gesetz (Waermeplanung, Heizungspflichten)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Erzeuger, Netzbetreiber, Versorger, Industrie oder Investor?
-2. Rechtsgebiet eingrenzen: EEG/KWKG-Foerderung, Netz, Vertrieb, Waerme, Transaktion oder Verfahren?
+2. Rechtsgebiet eingrenzen: EEG/KWKG-Förderung, Netz, Vertrieb, Waerme, Transaktion oder Verfahren?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
 4. Eilfristen pruefen: Widerspruchs- und Klagfristen bei BNetzA-Bescheiden sind kurz.
 5. Anschluss-Skill bestimmen: Genehmigung, Finanzierungsstruktur oder kartellrechtliches Gutachten?
 
 ## Skill-Tour (was gibt es hier?)
 
-- `energierecht-kommandocenter` — Navigationszentrum: Weiterleitung je Rechtsthema und Anfrageart; Schnellstart fuer alle Energierecht-Mandate.
-- `energierecht-eeg-kwkg-erzeugung` — EEG-Einspeiseverguetung und Marktpraemie sowie KWK-Zuschlaege fuer Stromerzeugungsanlagen pruefen.
-- `energierecht-netz-speicher-zugang` — Netzanschluss und Netzzugang fuer Erzeugungsanlagen und Speicher nach EnWG pruefen.
+- `energierecht-kommandocenter` — Navigationszentrum: Weiterleitung je Rechtsthema und Anfrageart; Schnellstart für alle Energierecht-Mandate.
+- `energierecht-eeg-kwkg-erzeugung` — EEG-Einspeiseverguetung und Marktpraemie sowie KWK-Zuschlaege für Stromerzeugungsanlagen pruefen.
+- `energierecht-netz-speicher-zugang` — Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher nach EnWG pruefen.
 - `energierecht-energievertraege` — Strom- und Gasliefervertraege mit Industrie- und Privatkunden pruefen und entwerfen.
-- `energierecht-industriekunden` — Sonderregelungen fuer Industriekunden: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung.
+- `energierecht-industriekunden` — Sonderregelungen für Industriekunden: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung.
 - `energierecht-infrastrukturprojekte` — Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmigungen, Planfeststellung, Enteignung.
 - `energierecht-vertrieb-marktrollen` — Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netzbetreiber, Bilanzkreis.
 - `energierecht-waerme-quartier` — Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende.
-- `energierecht-emobility-wasserstoff` — Rechtliche Rahmenbedingungen fuer Elektromobilitaet und gruenen Wasserstoff pruefen.
+- `energierecht-emobility-wasserstoff` — Rechtliche Rahmenbedingungen für Elektromobilitaet und gruenen Wasserstoff pruefen.
 - `energierecht-wettbewerb` — Wettbewerbs- und Kartellrecht im Energiesektor pruefen: Marktmacht, Diskriminierung, Missbrauch.
 - `energierecht-verfahren` — Regulierungsverfahren und Gerichtsverfahren im Energierecht durchfuehren (BNetzA, Kartellamt).
 - `energierecht-transaktionen-dd` — Due Diligence bei Energierecht-Transaktionen: Kauf von Windparks, Solarprojekten, Netzen.
-- `energierecht-projektfinanzierung` — Projektfinanzierung fuer Energieanlagen strukturieren: Darlehen, Sicherheiten, Ratinganforderungen.
+- `energierecht-projektfinanzierung` — Projektfinanzierung für Energieanlagen strukturieren: Darlehen, Sicherheiten, Ratinganforderungen.
 
 ## Worauf besonders achten
 
-- EEG-Foerderung ist anlagenspezifisch und zeitraumgebunden: Inbetriebnahmedatum und Ausschreibungsergebnis bestimmen den Foerdermechanismus.
+- EEG-Förderung ist anlagenspezifisch und zeitraumgebunden: Inbetriebnahmedatum und Ausschreibungsergebnis bestimmen den Foerdermechanismus.
 - Netzanschluss-Fristen nach NAV und EnWG koennen mit Vertragsrechten kollidieren — Lieferantenwechsel und Anschlussprozesse haben eigene Taktfristen.
 - Kartellrecht im Energiesektor: Marktmachtmissbrauch nach §§ 18 ff. GWB und EnWG-Diskriminierungsverbot sind parallel anwendbar.
 - GEG-Pflichten zur kommunalen Waermeplanung gelten ab 2024/2026 gestaffelt — Uebergangszeitraeume beachten.
@@ -207,15 +207,15 @@ Schwerpunkte sind das Energiewirtschaftsgesetz (EnWG), das EEG, das KWKG, kartel
 ## Typische Fehler
 
 - EEG-Degression und Ausschreibungspflicht-Schwellen nicht aktuell geprueft: Foerderantraege werden zu spaet gestellt oder falsch berechnet.
-- Netzentgeltbefreiungen fuer Industriekunden als selbstverstaendlich angenommen: Voraussetzungen (Benutzungsstunden, Bandlastprofil) werden nicht konkret geprueft.
-- Planfeststellungsverfahren ohne fruehzeitige Einbindung der Raumordnung gestartet: Verzoegerungen durch spaete Beteiligung der Laender.
+- Netzentgeltbefreiungen für Industriekunden als selbstverstaendlich angenommen: Voraussetzungen (Benutzungsstunden, Bandlastprofil) werden nicht konkret geprueft.
+- Planfeststellungsverfahren ohne fruehzeitige Einbindung der Raumordnung gestartet: Verzoegerungen durch spaete Beteiligung der Länder.
 - Wasserrechte und Naturschutzrecht bei Windparks oder Wasserkraftprojekten uebersehen.
 - Waermeversorgungsvertraege ohne Preisanpassungsklausel nach § 24 AVBFernwaermeV abgeschlossen.
 
 ## Querverweise
 
 - `regulatorisches-recht` — Aufsichtsrecht und BNetzA-Verfahren, die energierechtliche Fragen begleiten.
-- `vertragsrecht` — Liefervertraege und Rahmenvertraege fuer Energiekunden.
+- `vertragsrecht` — Liefervertraege und Rahmenvertraege für Energiekunden.
 - `corporate-kanzlei` — M&A-Transaktionen im Energiesektor mit gesellschaftsrechtlichen Aspekten.
 - `geldwaeschepraevention-aml-kyc` — KYC-Anforderungen bei Energiemarkt-Teilnehmern.
 

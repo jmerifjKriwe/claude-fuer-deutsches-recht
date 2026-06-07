@@ -159,7 +159,7 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 - **AGB-Kontrolle** — Pruefung von allgemeinen Geschaeftsbedingungen nach §§ 305 bis 310 BGB; strenger Massstab bei B2C, geringer bei B2B.
 - **Schriftformerfordernis** — § 550 BGB bei Mietvertraegen laenger als ein Jahr; § 125 BGB bei gesetzlicher Schriftform; Fehler macht Vertrag unwirksam.
 - **Redline** — Uberarbeitete Vertragsfassung mit sichtbaren Aenderungen gegenuber dem Ausgangsdokument.
-- **Clean Output** — Bereinigter Vertragsentwurf ohne Platzhalter und Track-Changes fuer Unterzeichnung oder Versand.
+- **Clean Output** — Bereinigter Vertragsentwurf ohne Platzhalter und Track-Changes für Unterzeichnung oder Versand.
 - **Plausibilitaetscheck** — Pruefung von Betragen, Fristen, Querverweisen und interner Konsistenz vor Ausgabe.
 
 ## Rechtsgrundlagen
@@ -172,12 +172,12 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 - § 557b BGB — Indexmiete.
 - § 9 UStG — Umsatzsteueroption bei Immobilienvermietung (Vorsteuerabzug).
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Eingabedokument-Typ bestimmen: Skill `vaf-kommandocenter` erkennt Vorlage, Altvertrag, Term Sheet oder Freitext.
-2. Vorlage analysieren: `vaf-template-erkennung` oder `vaf-docx-stripper` fuer DOCX-Dokumente.
+2. Vorlage analysieren: `vaf-template-erkennung` oder `vaf-docx-stripper` für DOCX-Dokumente.
 3. Feldinventar erstellen: `vaf-feldinventar`.
-4. Ruckfrageninterview fuer offene Felder: `vaf-rueckfrageninterview`.
+4. Ruckfrageninterview für offene Felder: `vaf-rueckfrageninterview`.
 5. Klauselentscheidungen treffen: `vaf-klauselentscheidung`.
 6. Quality Gate und Clean Output: `vaf-quality-gate` dann `vaf-clean-output`.
 
@@ -195,7 +195,7 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 
 **Daten- und Inhaltserfassung**
 
-- `vaf-rueckfrageninterview` — Ruckfrageninterview fuer fehlende Vertragsdaten; mandantenfreundliche Fuehrung.
+- `vaf-rueckfrageninterview` — Ruckfrageninterview für fehlende Vertragsdaten; mandantenfreundliche Fuehrung.
 - `vaf-termsheet-mapping` — Term Sheet auf Vertragsfelder mappen; Lucken und Widersprueche erkennen.
 
 **Klauselentscheidungen**

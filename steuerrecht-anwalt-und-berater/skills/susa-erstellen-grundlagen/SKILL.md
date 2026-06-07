@@ -13,7 +13,7 @@ description: "Summen- und Saldenliste SuSa erstellen Grundlagen. Anwendungsfall 
 
 ## Kernsachverhalt
 
-Die Summen- und Saldenliste (SuSa) ist die periodengerecht aufbereitete Auflistung aller Sachkonten mit Soll- und Habensummen sowie Saldo. Sie ist die unmittelbare Grundlage der BWA, der USt-Voranmeldung und des Jahresabschlusses. Der Steuerberater stellt sie monatlich aus der Finanzbuchhaltung her und nutzt sie fuer Buchungspruefung, Salden-Konsistenz und steuerliche Auswertungen.
+Die Summen- und Saldenliste (SuSa) ist die periodengerecht aufbereitete Auflistung aller Sachkonten mit Soll- und Habensummen sowie Saldo. Sie ist die unmittelbare Grundlage der BWA, der USt-Voranmeldung und des Jahresabschlusses. Der Steuerberater stellt sie monatlich aus der Finanzbuchhaltung her und nutzt sie für Buchungspruefung, Salden-Konsistenz und steuerliche Auswertungen.
 
 ## Kaltstart-Rueckfragen
 
@@ -105,19 +105,19 @@ Konto Bezeichnung Soll-Summe Haben-Summe Saldo Soll Saldo Haben
 ### Phase 6 — Versand und Archivierung
 
 - SuSa als PDF mit Mandantenkopf.
-- Excel-Export fuer Sachbearbeiter (optional).
+- Excel-Export für Sachbearbeiter (optional).
 - Archivierung GoBD-konform 10 Jahre.
 - Versand an Mandant ueber DATEV Unternehmen Online oder verschluesseltes Portal.
 
 ## Output
 
 - SuSa als PDF mit Zeitstempel.
-- Excel-Export fuer interne Auswertung.
+- Excel-Export für interne Auswertung.
 - GoBD-konforme Archivierung.
 
 ## Strategie und Praxis-Tipps
 
-- SuSa ist NICHT direkt fuer den Mandanten — meist interne Auswertung; bei externem Bedarf BWA bevorzugen.
+- SuSa ist NICHT direkt für den Mandanten — meist interne Auswertung; bei externem Bedarf BWA bevorzugen.
 - Externer Pruefer (Wirtschaftspruefer, Aussenprueferin Finanzamt) bekommt SuSa direkt.
 - Pruefsumme Soll = Haben ist Grundpruefung; Abweichung = Fehler im System (selten, aber kommt vor).
 - Bei Mandanten mit grossem Belegvolumen: SuSa kann mehrere Hundert Konten umfassen — Filter und Sortierung wichtig.

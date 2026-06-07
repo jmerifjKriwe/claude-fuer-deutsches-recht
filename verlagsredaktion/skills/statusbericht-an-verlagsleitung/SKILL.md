@@ -1,13 +1,13 @@
 ---
 name: statusbericht-an-verlagsleitung
-description: "Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Projekt, Frist, Kosten, Risiko und Eskalation. Mustertexte fuer monatliches Reporting und Ad-hoc-Alarm im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Projekt, Frist, Kosten, Risiko und Eskalation. Mustertexte für monatliches Reporting und Ad-hoc-Alarm im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Statusbericht an die Verlagsleitung
 
 ## Arbeitsbereich
 
-Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Projekt, Frist, Kosten, Risiko und Eskalation. Mustertexte fuer monatliches Reporting und Ad-hoc-Alarm. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Projekt, Frist, Kosten, Risiko und Eskalation. Mustertexte für monatliches Reporting und Ad-hoc-Alarm. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -37,7 +37,7 @@ Verlagsleitung verlangt einen klaren, kurzen Bericht, der die Ampel zeigt: laeuf
 - Mitbestimmung des Betriebsrats bei personalrelevanten Konsequenzen (§ 87 BetrVG).
 - Datenschutz: Klarnamen von Autorinnen und Autoren nur, wenn dienstlich erforderlich (Art. 6 DSGVO).
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Empfaengerkreis festlegen.** Verteiler so eng wie moeglich. CC bewusst, nicht aus Hoeflichkeit.
 2. **Stichtag fixieren.** Alle Zahlen auf denselben Tag normieren.
@@ -86,7 +86,7 @@ An: [Verlagsleitung] | Verteiler: [Namen]
 - [Projektname] - GELB - Autorin in Vorlesungspause, Anschub [Datum]
 - [Projektname] - ROT - Manuskriptverzug 8 Wochen, Vorschlag siehe Punkt 4
 
-4. Entscheidungspunkte fuer die Leitung
+4. Entscheidungspunkte für die Leitung
 [Konkrete Fragen mit Optionen]
 
 5. Naechster Bericht
@@ -106,7 +106,7 @@ ich melde Ihnen einen Vorgang, bei dem ich eine Entscheidung der Verlagsleitung 
 2. Was bisher geschehen ist: [drei Saetze]
 3. Risiko bei Nichtentscheidung: [konkret, mit Zahl oder Datum]
 4. Meine Empfehlung: [eine Option]
-5. Frist fuer Ihre Rueckmeldung: [Datum, Uhrzeit]
+5. Frist für Ihre Rueckmeldung: [Datum, Uhrzeit]
 
 Fuer Rueckfragen stehe ich heute bis [Uhrzeit] zur Verfuegung.
 

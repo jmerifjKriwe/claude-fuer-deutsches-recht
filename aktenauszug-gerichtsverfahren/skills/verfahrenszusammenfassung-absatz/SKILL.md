@@ -27,7 +27,7 @@ Der Zusammenfassungsabsatz bietet dem Leser nach dem Einleitungssatz eine kompak
 2. Welcher Sachverhalt ist unstreitig, welcher wird bestritten?
 3. Hat das Gericht bereits Hinweise nach § 139 ZPO erteilt?
 4. Steht ein Termin unmittelbar bevor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -70,7 +70,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Zusammenfassung fuer Akte oder Uebergabe | Vorlage unten nach acht bis zehn Saetzen |
+| Standard — Zusammenfassung für Akte oder Uebergabe | Vorlage unten nach acht bis zehn Saetzen |
 | Variante A — Adressat ist Laie (Mandant) | Vereinfachte Sprache; keine Paragrafenverweise |
 | Variante B — sehr fruehes Stadium ohne Entscheidung | Vorlaeufige Zusammenfassung mit Offenhalten des Ausgangs |
 | Variante C — Verfahren laueft noch | Zwischenbericht-Format statt abschliessender Zusammenfassung |

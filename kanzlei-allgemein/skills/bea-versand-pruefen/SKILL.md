@@ -1,13 +1,13 @@
 ---
 name: bea-versand-pruefen
-description: "Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 55a VwGO § 52d FGO sowie § 31a BRAO. Erforderliche Beachtung sicherer Übermittlungsweg (sUW durch persoenliches Versenden des beA-Inhabers) oder qualifizierte elektronische Signatur (qeS). Prüft Versand-Quittung Eingangsbestätigung und Verwertbarkeit für Fristnachweis. Hinweis Wiedereinsetzung bei beA-Stoerung mit Glaubhaftmachung. Pflichtschritt bei elektronischem Versand an Gerichte und Behoerden im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 55a VwGO § 52d FGO sowie § 31a BRAO. Erforderliche Beachtung sicherer Übermittlungsweg (sUW durch persönliches Versenden des beA-Inhabers) oder qualifizierte elektronische Signatur (qeS). Prüft Versand-Quittung Eingangsbestätigung und Verwertbarkeit für Fristnachweis. Hinweis Wiedereinsetzung bei beA-Stoerung mit Glaubhaftmachung. Pflichtschritt bei elektronischem Versand an Gerichte und Behörden im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # beA-Versand prüfen
 
 ## Arbeitsbereich
 
-Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 55a VwGO § 52d FGO sowie § 31a BRAO. Erforderliche Beachtung sicherer Übermittlungsweg (sUW durch persoenliches Versenden des beA-Inhabers) oder qualifizierte elektronische Signatur (qeS). Prüft Versand-Quittung Eingangsbestätigung und Verwertbarkeit für Fristnachweis. Hinweis Wiedereinsetzung bei beA-Stoerung mit Glaubhaftmachung. Pflichtschritt bei elektronischem Versand an Gerichte und Behoerden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 55a VwGO § 52d FGO sowie § 31a BRAO. Erforderliche Beachtung sicherer Übermittlungsweg (sUW durch persönliches Versenden des beA-Inhabers) oder qualifizierte elektronische Signatur (qeS). Prüft Versand-Quittung Eingangsbestätigung und Verwertbarkeit für Fristnachweis. Hinweis Wiedereinsetzung bei beA-Stoerung mit Glaubhaftmachung. Pflichtschritt bei elektronischem Versand an Gerichte und Behörden. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,9 +18,9 @@ Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Ueber welchen Versandweg soll der Schriftsatz eingereicht werden: sUW (persoenliches Versenden des Inhabers) oder qeS (qualifizierte elektronische Signatur)?
+1. Ueber welchen Versandweg soll der Schriftsatz eingereicht werden: sUW (persönliches Versenden des Inhabers) oder qeS (qualifizierte elektronische Signatur)?
 2. Liegt eine beA-Versandquittung oder Eingangsbestaetigung vor, die die Fristwahrung belegt?
-3. Gibt es Anzeichen fuer eine beA-Stoerung oder technische Uebermittlungspanne (§ 130a Abs. 6 ZPO Wiedereinsetzung)?
+3. Gibt es Anzeichen für eine beA-Stoerung oder technische Uebermittlungspanne (§ 130a Abs. 6 ZPO Wiedereinsetzung)?
 4. Muss ein elektronisches Empfangsbekenntnis (EB) erteilt werden?
 
 ## Aktuelle Rechtsprechung
@@ -28,7 +28,7 @@ Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 
 
 ## Zentrale Normen
 - § 130a ZPO — Elektronische Einreichung Zivilprozess; sUW oder qeS als Pflichtalternativen
-- § 31a BRAO — beA-Nutzungspflicht fuer alle zugelassenen Rechtsanwaelte
+- § 31a BRAO — beA-Nutzungspflicht für alle zugelassenen Rechtsanwaelte
 - § 12 ERVV — Technische Anforderungen an den elektronischen Rechtsverkehr
 - § 130a Abs. 6 ZPO — Wiedereinsetzung bei nachgewiesener technischer Stoerung
 

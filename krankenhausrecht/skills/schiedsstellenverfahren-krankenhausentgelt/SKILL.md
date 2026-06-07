@@ -36,11 +36,11 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 - **KHG § 18a** Schiedsstelle, Besetzung, Verfahren.
 - **KHEntgG § 13** Schiedsstellenanrufung Entgeltverhandlung.
 - **BPflV § 18** PEPP-Schiedsstellenverfahren.
-- **Schiedsstellenverordnungen** der Laender (z. B. BSstellV NRW).
+- **Schiedsstellenverordnungen** der Länder (z. B. BSstellV NRW).
 - **VwGO §§ 42 ff.** Rechtsschutz gegen Entscheidung.
-- **VwVfG §§ 28, 35, 39** Anhoerung, VA, Begruendung.
+- **VwVfG §§ 28, 35, 39** Anhörung, VA, Begruendung.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Scheitern dokumentieren:** Schriftliche Erklaerung Kasse oder Klinik, Datum.
 2. **Schiedsantrag einreichen:** An die Schiedsstelle nach § 18a KHG; Form-/Inhaltsvorgaben Schiedsordnung.
 3. **Sachverhalt aufbereiten:** AEB, L-Datensatz, Pflegebudget, Vorhalteanteil, Vergleichsdaten, MD-Beanstandungen.
@@ -67,7 +67,7 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 
 ## Mustertexte
 **Schiedsantrag (Skizze):**
-> An die Schiedsstelle nach § 18a KHG fuer das Land [Name]. Antragstellerin: [Krankenhaus]. Antragsgegnerin: [Kostentraeger]. Antraege: 1. Festsetzung Erloesbudget 2026 auf [EUR]. 2. Vorhalteanteil [%] je LG. 3. Veraenderungsrate gemaess GKV-Spitzenverband. Begruendung … Anlagen: AEB, L-Datensatz, MD-Berichte, Casemix.
+> An die Schiedsstelle nach § 18a KHG für das Land [Name]. Antragstellerin: [Krankenhaus]. Antragsgegnerin: [Kostentraeger]. Antraege: 1. Festsetzung Erloesbudget 2026 auf [EUR]. 2. Vorhalteanteil [%] je LG. 3. Veraenderungsrate gemaess GKV-Spitzenverband. Begruendung … Anlagen: AEB, L-Datensatz, MD-Berichte, Casemix.
 
 **Klage VG nach Schiedsspruch:**
 > Anfechtungsklage gemaess § 18a Abs. 4 KHG. Klageantrag: Entscheidung der Schiedsstelle vom [Datum] aufzuheben; hilfsweise Verpflichtung zur Neufestsetzung. Begruendung: 1. Beurteilungsfehler bei … 2. Verfahrensfehler … 3. Ermessensueberschreitung …
@@ -89,7 +89,7 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 
 ## Quellen Stand 06/2026
 - KHG § 18a; KHEntgG § 13; BPflV § 18.
-- Schiedsstellenverordnungen der Laender (Live-Check Landesministerien).
+- Schiedsstellenverordnungen der Länder (Live-Check Landesministerien).
 - BVerwG, staend. Rspr. zur Schiedsstellenkontrolle (Beurteilungsspielraum).
 - BSG, staend. Rspr. zur Budget- und Verguetungsfestsetzung.
 - VwGO §§ 42, 80, 113.

@@ -13,7 +13,7 @@ description: "DATEV Unternehmen Online Mandantenshop. Anwendungsfall Belegtransf
 
 ## Kernsachverhalt
 
-DATEV Unternehmen Online (DUO) ist die Standardplattform fuer den digitalen Belegtransfer zwischen Mandant und Steuerberater. Mandant erfasst oder scant Belege ueber das Portal; der Steuerberater greift direkt zu. Auch BWA, SuSa, OPOS-Listen werden ueber DUO geteilt. Konfiguration und Schulung des Mandanten sind Erfolgsfaktoren.
+DATEV Unternehmen Online (DUO) ist die Standardplattform für den digitalen Belegtransfer zwischen Mandant und Steuerberater. Mandant erfasst oder scant Belege ueber das Portal; der Steuerberater greift direkt zu. Auch BWA, SuSa, OPOS-Listen werden ueber DUO geteilt. Konfiguration und Schulung des Mandanten sind Erfolgsfaktoren.
 
 ## Kaltstart-Rueckfragen
 
@@ -44,7 +44,7 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform fuer den digitalen Bele
 
 ### Phase 1 — Einrichtung
 
-- DUO-Konto fuer Mandant beantragen (ueber DATEV).
+- DUO-Konto für Mandant beantragen (ueber DATEV).
 - AVV mit DATEV pruefen / unterzeichnen.
 - Module aktivieren (Belegtransfer, Banking).
 - Benutzer und Rollen anlegen.
@@ -90,7 +90,7 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform fuer den digitalen Bele
 
 ## Strategie und Praxis-Tipps
 
-- DUO ist Effizienz-Hebel fuer beide Seiten — Belege landen sofort beim StB.
+- DUO ist Effizienz-Hebel für beide Seiten — Belege landen sofort beim StB.
 - Mandantenakzeptanz ist Erfolgsfaktor — gute Schulung wichtig.
 - Mobile App ist Killer-Feature: Beleg-Scan direkt am Empfangsort.
 - Bei groesseren Mandanten: ERP-Anbindung pruefen (verschiedene Schnittstellen).

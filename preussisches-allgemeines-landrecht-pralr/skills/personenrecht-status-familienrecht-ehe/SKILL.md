@@ -44,7 +44,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ### Schluesselparagraphen
 - **ALR I 1 § 1**: "Der Mensch wird, in so fern er gewisse Rechte in der buergerlichen Gesellschaft geniesst, eine Person genannt."
-- **ALR I 1 §§ 13-14**: Lebendgeburt erforderlich fuer Rechtsfaehigkeit; "Schrei oder ander Lebenszeichen" Anforderung.
+- **ALR I 1 §§ 13-14**: Lebendgeburt erforderlich für Rechtsfaehigkeit; "Schrei oder ander Lebenszeichen" Anforderung.
 - **ALR I 1 §§ 25-30**: Verschollenheit; nach 80. Lebensjahr Todvermutung mit Verschollensregel (vor Zitat verifizieren).
 - **ALR I 1 §§ 50-70**: Stand als rechtlicher Begriff; Verweis auf die staendischen Titel ALR II 7-9.
 - **ALR I 4 §§ 1 ff.**: Geschaeftsfaehigkeit; Minderjaehrige bis 14 voellig geschaeftsunfaehig, bis 25 beschraenkt.

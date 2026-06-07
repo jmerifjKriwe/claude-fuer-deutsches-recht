@@ -1,6 +1,6 @@
 ---
 name: schulweg-unfall-versicherung
-description: "Prüft Schulwegunfall, Unfallanzeige, gesetzliche Unfallversicherung und Aufsicht im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulwegunfall, Unfallanzeige, gesetzliche Unfallversicherung und Aufsicht im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulweg, Unfall und Versicherung

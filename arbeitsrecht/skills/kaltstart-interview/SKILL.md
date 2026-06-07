@@ -19,7 +19,7 @@ Arbeitsrecht ist standort- und betriebsgebunden. Die richtige Antwort in einem t
 
 ## Eingaben
 
-- Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` (Zieldatei)
+- Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` (Zieldatei)
 - Kanzlei-/Unternehmensname, Branche, Mitarbeiterzahl, Standorte
 - Personalhandbuch (optional, verbessert Ausgaben erheblich)
 - Bis zu drei aktuelle Kündigungsunterlagen (optional)
@@ -29,7 +29,7 @@ Arbeitsrecht ist standort- und betriebsgebunden. Die richtige Antwort in einem t
 
 ### Vorabprüfung
 
-1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` prüfen.
+1. `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` prüfen.
  - `--check-integrations`: Nur den Integrationsabschnitt neu ermitteln, Interview überspringen.
  - `--redo`: Vollständiges Interview neu ausführen, auch wenn Konfiguration vorhanden.
  - Kein Flag: Falls Konfiguration vorhanden und vollständig (keine `[PLATZHALTER]`), melden: "Plugin bereits eingerichtet. Änderung mit `--redo` oder gezielt mit `/arbeitsrecht:arbeitsrecht-anpassen`."
@@ -96,7 +96,7 @@ Dokumente lesen und daraus extrahieren:
 
 ### Konfiguration schreiben
 
-Alle gesammelten Informationen in `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` schreiben. Übergeordnete Verzeichnisse anlegen. Company-profile.md erstellen, falls nicht vorhanden.
+Alle gesammelten Informationen in `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` schreiben. Übergeordnete Verzeichnisse anlegen. Company-profile.md erstellen, falls nicht vorhanden.
 
 ## Quellen und Zitierweise
 
@@ -140,7 +140,7 @@ Eskalationstabelle:
 Seed-Dokumente gelesen: [N]
 ⚪ Integrationen: [Liste mit Status]
 
-Konfiguration gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md
+Konfiguration gespeichert: ~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md
 ```
 
 ## Beispiele

@@ -55,7 +55,7 @@ Wenn Sie im Termin nicht erscheinen oder erscheinen und nicht verhandeln, sind S
 - **§ 338 ZPO** — Einspruch.
 - **§ 339 ZPO** — Einspruchsfrist 2 Wochen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was ist Saeumnis?
 
@@ -63,7 +63,7 @@ Wenn Sie im Termin nicht erscheinen oder erscheinen und nicht verhandeln, sind S
 - Erscheinen, aber nicht verhandeln (§ 333 ZPO).
 - Vorzeitiges Verlassen des Termins.
 
-### Schritt 2 — Konsequenz fuer Saeumigen
+### Schritt 2 — Konsequenz für Saeumigen
 
 #### Saeumis des Beklagten (§ 331 ZPO):
 
@@ -145,7 +145,7 @@ Sehr seltener Erfolg — bessere Strategie: rechtzeitig Einspruch.
 ## Worauf Sie besonders achten muessen
 
 - **VU sofort vollstreckbar**: Klaeger kann pfaenden.
-- **2-Wochen-Frist** fuer Einspruch.
+- **2-Wochen-Frist** für Einspruch.
 - **Zweites VU nach Einspruch**: Definitive Niederlage.
 - **Krankheit attestieren**: Bei Termin-Verlegungs-Antrag.
 
@@ -205,7 +205,7 @@ Wenn Sie als Beklagter nicht reagieren oder im Termin nicht erscheinen, kann das
 - **§ 339 ZPO** — Einspruchsfrist: 2 Wochen ab Zustellung VU.
 - **§ 345 ZPO** — Zweites Versaeumnisurteil (Einspruch verworfen).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann droht VU gegen Sie?
 

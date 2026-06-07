@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-bueroneubau-dachdeckung
-description: "Bauueberwachung nach HOAI LPH 8 fuer Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM fuer gewerblichen Vermieter im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM für gewerblichen Vermieter im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Bueroneubau Curtain Wall (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM fuer gewerblichen Vermieter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM für gewerblichen Vermieter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -70,7 +70,7 @@ Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige
 - SAP PS Projektsystem: Netzplan Rohbau/Fassade/Innenausbau, Meilensteine Vorvermietungsstand, Kosten
 - SAP PM Equipment Fassadenanlage: Wartungsintervalle Silikonfugen alle 10 Jahre, Prueflisten
 - RIB iTWO: Massenabgleich Ausschreibung vs. Aufmass Fassadenflaeche, Nachtragsprotokoll Sondermasse
-- Dalux ERP-Export: Maengelreport je Mietereinheit fuer Vermieter und Hauptmieter-Pruefung vor Uebergabe
+- Dalux ERP-Export: Maengelreport je Mietereinheit für Vermieter und Hauptmieter-Pruefung vor Uebergabe
 
 ## Typische Fallstricke
 

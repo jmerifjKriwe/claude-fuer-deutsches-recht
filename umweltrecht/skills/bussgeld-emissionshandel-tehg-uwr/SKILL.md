@@ -1,13 +1,13 @@
 ---
 name: bussgeld-emissionshandel-tehg-uwr
-description: "Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Bussgeld, Sanktionen und Anhoerung im Umweltrecht
+# Bussgeld, Sanktionen und Anhörung im Umweltrecht
 
 ## Arbeitsbereich
 
-Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -17,15 +17,15 @@ Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrig
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Triage — klaere vor Reaktion auf Anhoerung
+## Triage — klaere vor Reaktion auf Anhörung
 
 1. Welches Umweltgesetz ist Grundlage (BImSchG § 62, KrWG § 69, WHG § 103, BNatSchG § 69)?
 2. Welcher Vorwurf genau — vorsaetzlich oder fahrlassig (OWiG § 10)?
-3. Welche Behoerde fuehrt das Verfahren (Gewerbeaufsicht, Umweltbehoerde, Staatsanwaltschaft)?
+3. Welche Behörde fuehrt das Verfahren (Gewerbeaufsicht, Umweltbehoerde, Staatsanwaltschaft)?
 4. Wurde bereits Akteneinsicht beantragt (§ 49 OWiG)?
 5. Ist der Mandant die juristische oder die natuerliche Person (GF-Haftung §§ 9, 30 OWiG)?
 6. Bestehen Verjaehjrungsfristen (§ 31 OWiG: 3 Jahre bei Bussgeld bis 100.000 EUR)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -35,7 +35,7 @@ Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrig
 - **§ 70 KrWG** — Straftatbestaende Abfallrecht (§ 326 StGB Verweis)
 - **§ 103 WHG** — Ordnungswidrigkeiten Wasserrecht
 - **§ 69 BNatSchG** — Ordnungswidrigkeiten Naturschutz
-- **§ 55 OWiG** — Anhoerungsrecht Betroffener
+- **§ 55 OWiG** — Anhörungsrecht Betroffener
 - **§ 67 OWiG** — Einspruch gegen Bussgeld-Bescheid (2 Wochen)
 - **§ 68 OWiG** — Hauptverhandlung beim Amtsgericht
 - **§ 30 OWiG** — Verbandsgeldbuse gegen jur. Person
@@ -48,22 +48,22 @@ Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrig
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-1. **Anhoerungsschreiben analysieren**: Vorwurf, Norm, Tatzeit, Beweismittel, gesetzte Frist.
+1. **Anhörungsschreiben analysieren**: Vorwurf, Norm, Tatzeit, Beweismittel, gesetzte Frist.
 2. **Akteneinsicht beantragen** (§ 49 OWiG): Vollstaendige Akte — Messberichte, Kontrolle-Protokolle, Zeugenaussagen.
 3. **Schuld pruefen**: Vorsatz / Fahrlassigkeit, Zurechnung auf Mandant, Delegationskette.
-4. **Verjaeahrung pruefen**: § 31 OWiG; Unterbrechung durch Anhoerung (§ 33 OWiG).
+4. **Verjaeahrung pruefen**: § 31 OWiG; Unterbrechung durch Anhörung (§ 33 OWiG).
 5. **Verteidigungsschrift einreichen**: Tatsachen und Recht; Antrag auf Einstellung oder Bussgeld-Reduzierung.
 6. **Einspruch bei Bescheid**: § 67 OWiG — 2 Wochen-Frist ab Bekanntgabe; Einspruch hemmt Rechtskraft.
 7. **Amtsgericht**: Hauptverhandlung § 68 OWiG — Zeugenbefragung, Sachverstaendige; Strafverfahren § 70 KrWG / § 326 StGB separat.
 
-### Entscheidungsbaum nach Anhoerungsschreiben
+### Entscheidungsbaum nach Anhörungsschreiben
 
 ```
-Anhoerungsschreiben erhalten
+Anhörungsschreiben erhalten
  → Frist noch offen?
  JA → Akteneinsicht sofort beantragen
  → Schuld-Pruefung: War Pflichtverletzung schuldhaft?
@@ -78,21 +78,21 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Einlassung im Umwelt-Bussgeldbescheid-Anhoerungsverfahren | Einlassung nach Schema; Template unten |
-| Variante A — Behoerde will Besprechung vor Bescheid | Vorgespräch annehmen; Einlassung dann muendlich |
+| Standard — Einlassung im Umwelt-Bussgeldbescheid-Anhörungsverfahren | Einlassung nach Schema; Template unten |
+| Variante A — Behörde will Besprechung vor Bescheid | Vorgespräch annehmen; Einlassung dann muendlich |
 | Variante B — Mandant will Bussgeldbescheid akzeptieren | Keine Einlassung noetig; Bussgeldbescheid abwarten |
 | Variante C — Strafrecht parallel ermittelt | Strafverteidigung-Skill parallel; vorsichtige Einlassung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Output-Template: Einlassung im Anhoerungsverfahren
+## Output-Template: Einlassung im Anhörungsverfahren
 
-**Adressat:** Zustaendige Behoerde — Tonfall: sachlich-juristisch
+**Adressat:** Zustaendige Behörde — Tonfall: sachlich-juristisch
 
 ```
 An die [BEHOERDE]
 
-Stellungnahme im Anhoerungsverfahren gemaess § 55 OWiG
+Stellungnahme im Anhörungsverfahren gemaess § 55 OWiG
 
 Betroffene/r: [NAME MANDANT], [ADRESSE]
 Ihr Zeichen: [AZ BEHOERDE]
@@ -125,14 +125,14 @@ Anlagen: Betriebsprotokoll, Wartungsnachweise, Vollmacht
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
 ## Vertiefung: Verbandsbussgeld § 30 OWiG
 
-- Behoerde kann gegen jur. Person Bussgeld festsetzen, wenn GF/Organ Pflicht verletzt.
+- Behörde kann gegen jur. Person Bussgeld festsetzen, wenn GF/Organ Pflicht verletzt.
 - Bussgeld bis 10 Mio. EUR (§ 30 Abs. 2 OWiG) bei Vorsatz; bei Fahrlassigkeit Haelfte.
 - Selbststaendiges Verfahren gegen jur. Person neben Verfahren gegen natuerliche Person moeglich.
 - Verteidigung: Mangelnde Zurechnung der Handlung, fehlende Aufsichtspflichtverletzung § 130 OWiG.
@@ -142,7 +142,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Verfahrensschritt | Frist | Grundlage |
 |---|---|---|
 | Einspruch gegen Bussgeld-Bescheid | 2 Wochen ab Bekanntgabe | § 67 Abs. 1 OWiG |
-| Akteneinsicht-Antrag | Unverzueglich nach Anhoerung | § 49 OWiG |
+| Akteneinsicht-Antrag | Unverzueglich nach Anhörung | § 49 OWiG |
 | Verjaeahrung OWi (Bussgeld > 1000 EUR) | 3 Jahre | § 31 Abs. 2 Nr. 1 OWiG |
 | Strafverfolgungsverjaehrung (§ 326 StGB) | 5 Jahre | § 78 Abs. 3 Nr. 4 StGB |
 

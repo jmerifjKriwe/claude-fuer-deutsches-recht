@@ -9,6 +9,23 @@ description: "Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Ski
 
 Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Skill behandelt die Klage des uebergangenen oder ungenuegend bedachten naechsten Verwandten Pflichtteilsbruchteil (portio legitima) Voraussetzungen und Beweislast. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Skill behandelt d
 
 ## Aufgabe
 
-Skill fuer roemischen Pflichtteilsschutz.
+Skill für roemischen Pflichtteilsschutz.
 
 ## Rechtsquelle
 
@@ -35,12 +52,12 @@ Skill fuer roemischen Pflichtteilsschutz.
 
 ## Wirkung
 
-- Testament wird vollstaendig fuer ungueltig erklaert ("rescissio testamenti").
+- Testament wird vollstaendig für ungueltig erklaert ("rescissio testamenti").
 - Anschliessend Intestaterbfolge.
 
 ## Voraussetzungen
 
-- Klagebefugnis nur fuer naechste Verwandte.
+- Klagebefugnis nur für naechste Verwandte.
 - Frist (annus utilis ab Kenntnis).
 
 ## Vergleich zu modernem Recht

@@ -28,7 +28,7 @@ Keine Rueckfrage noetig.
 
 ## Standarddefinition
 
-**Erfuellungsaufwand** ist der gesamte messbare zeitliche **und** finanzielle Aufwand, der bei Buergerinnen und Buergern, der Wirtschaft sowie der oeffentlichen Verwaltung durch die **Befolgung** einer bundesrechtlichen Vorschrift entsteht.
+**Erfuellungsaufwand** ist der gesamte messbare zeitliche **und** finanzielle Aufwand, der bei Buergerinnen und Buergern, der Wirtschaft sowie der öffentlichen Verwaltung durch die **Befolgung** einer bundesrechtlichen Vorschrift entsteht.
 
 Erfuellungsaufwand umfasst alle erforderlichen:
 
@@ -37,7 +37,7 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 - Dienstleistungen Dritter (Berater, Pruefer, Sachverstaendige)
 - internen Prozesse (Schulung, Dokumentation, IT-Anpassung)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Pflichtinhalt identifizieren** — welche konkrete Handlung wird angeordnet?
 2. **Adressaten bestimmen** — Buerger / Wirtschaft / Verwaltung
@@ -56,9 +56,9 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 
 | Begriff | Definition | Wer prueft? |
 |---|---|---|
-| Erfuellungsaufwand | Aufwand fuer Befolgung der Norm | NKR |
+| Erfuellungsaufwand | Aufwand für Befolgung der Norm | NKR |
 | Buerokratiekosten | Teilmenge: nur Informationspflichten | NKR (historisch) |
-| Vollzugskosten | Verwaltungsaufwand bei Behoerden | NKR (Teil von Erfuellungsaufwand) |
+| Vollzugskosten | Verwaltungsaufwand bei Behörden | NKR (Teil von Erfuellungsaufwand) |
 | Haushaltskosten | Bundeshaushalt | BMF, BRH |
 | Folgekosten | Wirtschaftliche Sekundaereffekte | Wissenschaft, BMF |
 | Sachkosten | Anschaffungen | Teil von Erfuellungsaufwand |
@@ -82,7 +82,7 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Der Erfuellungsaufwand bezeichnet gemaess Leitfaden BMI/NKR den gesamten messbaren Zeitaufwand und die Kosten, die durch Befolgung einer Vorschrift bei Buergern, Wirtschaft und Verwaltung entstehen."
-- "Das Vorhaben verursacht nach NKR-Schaetzung einen jaehrlichen Erfuellungsaufwand fuer die Wirtschaft in Hoehe von [X] Mio EUR sowie einen einmaligen Umstellungsaufwand von [Y] Mio EUR."
+- "Das Vorhaben verursacht nach NKR-Schaetzung einen jaehrlichen Erfuellungsaufwand für die Wirtschaft in Hoehe von [X] Mio EUR sowie einen einmaligen Umstellungsaufwand von [Y] Mio EUR."
 - "Die Darstellung des Erfuellungsaufwands beschraenkt sich im Ressortentwurf auf Informationspflichten. Der NKR weist darauf hin, dass auch IT-Anpassungs- und Schulungskosten zum Erfuellungsaufwand gehoeren."
 
 ## Typische Fehler in Ressort-Entwuerfen

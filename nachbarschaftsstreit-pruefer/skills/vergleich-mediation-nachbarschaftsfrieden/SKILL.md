@@ -56,7 +56,7 @@ Frieden heißt nicht Nachgeben ohne Akte. Erst Rechte kennen, dann verhandeln.
 
 - Streitstrang mit Anspruchsrichtung.
 - Benötigte Beweise.
-- Risiko fuer Mandant und Gegenseite.
+- Risiko für Mandant und Gegenseite.
 - Deeskalierender naechster Schritt.
 - Gerichtlicher naechster Schritt, falls Vergleich scheitert.
 

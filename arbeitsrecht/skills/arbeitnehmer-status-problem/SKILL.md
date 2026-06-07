@@ -15,7 +15,7 @@ description: "Arbeitnehmer Status Problem im Plugin Arbeitsrecht: prüft konkret
 | `arbeitnehmer-status` | Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten. |
 | `arbeitsrecht-anpassen` | Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen. |
 | `arbeitsrecht-mandat-arbeitsbereich` | Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanwälte deaktiviert. |
-| `arbeitsrecht-problem-sortieren` | Sehr allgemeiner Einstiegsskill fuer unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage. |
+| `arbeitsrecht-problem-sortieren` | Sehr allgemeiner Einstiegsskill für unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage. |
 
 ## Arbeitsweg
 
@@ -58,7 +58,7 @@ Bevor losgelegt wird, kläre:
 - Beschreibung der geplanten Tätigkeit (Art, Umfang, Ort, Dauer)
 - Entwurf des Honorar- oder Werkvertrags (falls vorhanden)
 - Angaben zur Einbindung in betriebliche Abläufe (eigene Betriebsmittel? Weisungsabhängigkeit? Mehrere Auftraggeber?)
-- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Klassifizierungsrisiken
+- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` → Standort, Klassifizierungsrisiken
 
 ## Zentrale Anspruchsgrundlagen & Normen
 
@@ -74,12 +74,12 @@ Bevor losgelegt wird, kläre:
 ## Aktuelle Rechtsprechung
 
 - **BAG, Urteil vom 01.12.2020 - 9 AZR 102/20** (Crowdworker / Plattformarbeit): Auch ein Crowdworker, der ueber eine Smartphone-App Mikroauftraege erfuellt, kann Arbeitnehmer sein, wenn die organisatorische Einbindung (z.B. Anreizsystem mit Stufen / Level / Bewertung) ihn zur staendigen Auftragsannahme veranlasst und faktisch fremdbestimmte Arbeit erzwingt. Eine starre vertragliche Bezeichnung ist unerheblich; entscheidend ist die tatsaechliche Durchfuehrung. Quelle: dejure.org-Vernetzung BAG 01.12.2020 - 9 AZR 102/20.
-- Hinweis: BAG hat den Crowdworker-Status seitdem nicht generell ausgeweitet, jeder Einzelfall ist anhand der typusbildenden Merkmale (Weisungsgebundenheit, persoenliche Abhaengigkeit, Fremdbestimmung) zu pruefen.
+- Hinweis: BAG hat den Crowdworker-Status seitdem nicht generell ausgeweitet, jeder Einzelfall ist anhand der typusbildenden Merkmale (Weisungsgebundenheit, persönliche Abhaengigkeit, Fremdbestimmung) zu pruefen.
 - **EU-Plattformarbeitsrichtlinie (EU) 2024/2831 vom 23.10.2024** (ABl. L vom 11.11.2024; CELEX 32024L2831) - Umsetzungsfrist 02.12.2026:
- - **Widerlegbare gesetzliche Vermutung** eines Arbeitsverhaeltnisses (Art. 5): liegen Tatsachen vor, die auf Steuerung und Kontrolle hindeuten, wird ein Arbeitsverhaeltnis vermutet; **die Beweislast fuer das Nichtbestehen liegt bei der digitalen Arbeitsplattform**; gilt nur fuer Zeitraeume ab 02.12.2026 (keine Rueckwirkung).
+ - **Widerlegbare gesetzliche Vermutung** eines Arbeitsverhaeltnisses (Art. 5): liegen Tatsachen vor, die auf Steuerung und Kontrolle hindeuten, wird ein Arbeitsverhaeltnis vermutet; **die Beweislast für das Nichtbestehen liegt bei der digitalen Arbeitsplattform**; gilt nur für Zeitraeume ab 02.12.2026 (keine Rueckwirkung).
  - **Algorithmisches Management (Kapitel III)**: Verbot der Verarbeitung bestimmter Daten (emotionaler Zustand, Privatgespraeche, Gewerkschaftszugehoerigkeit, sensible Merkmale, biometrische Identifizierung); Pflicht zur Datenschutz-Folgenabschaetzung mit Einbindung der Beschaeftigtenvertreter; Transparenzpflicht ueber Einsatz und Funktionsweise automatisierter Systeme.
  - **Menschliche Aufsicht**: Entscheidungen ueber **Kontosperrung oder Vertragsbeendigung** muessen zwingend von einem Menschen getroffen werden; Recht auf Erklaerung und Ueberpruefung automatisierter Entscheidungen innerhalb von zwei Wochen.
- - **Anwendungsbereich**: gilt fuer Plattformarbeitende mit Arbeitsvertrag/Arbeitsverhaeltnis; Vorschriften zum algorithmischen Management auch fuer Personen ohne Arbeitsvertrag.
+ - **Anwendungsbereich**: gilt für Plattformarbeitende mit Arbeitsvertrag/Arbeitsverhaeltnis; Vorschriften zum algorithmischen Management auch für Personen ohne Arbeitsvertrag.
  - Umsetzung in deutsches Recht (vermutlich Aenderung BGB, BetrVG, NachweisG) steht aus; Praxis sollte im Mandat bereits ab 2026 die Vermutungsregel mitdenken.
  - Quelle: eur-lex.europa.eu - https://eur-lex.europa.eu/eli/dir/2024/2831/oj
 - Aktualisierungen vor Schriftsatzverwendung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de, bundessozialgericht.de) pruefen.
@@ -245,13 +245,13 @@ Der Nutzer möchte etwas im Praxisprofil ändern – eine Jurisdiktion, eine Ris
 ## Eingaben
 
 - Beschreibung der gewünschten Änderung (Freitext oder Abschnittsname)
-- Aktuelle Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md`
+- Aktuelle Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md`
 
 ## Ablauf
 
 ### 1. Konfiguration lesen
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` und `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` einlesen.
+`~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` und `~/.claude/plugins/config/claude-für-deutsches-recht/unternehmens-profil.md` einlesen.
 
 Falls das Plugin noch nicht eingerichtet ist oder `[PLATZHALTER]` enthält:
 > Das Plugin wurde noch nicht eingerichtet. Führen Sie `/arbeitsrecht:arbeitsrecht-kaltstart-interview` aus.
@@ -305,7 +305,7 @@ Vorher:
 Nachher:
  [Neu-Wert]
 
-Gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md
+Gespeichert: ~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md
 ```
 
 ## Beispiele
@@ -362,13 +362,13 @@ Im Arbeitsrecht entspricht eine "Akte" typischerweise einem bestimmten Mandanten
 
 - Befehl: `neu`, `auflisten`, `wechseln`, `schließen` oder `keine`
 - Kürzel der Akte (Slug), z.B. `mueller-ksg-2024`
-- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` – Abschnitt `## Mandantenakten`
+- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` – Abschnitt `## Mandantenakten`
 
 ## Ablauf
 
 ### Vorabprüfung
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` lesen, Abschnitt `## Mandantenakten` prüfen.
+`~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` lesen, Abschnitt `## Mandantenakten` prüfen.
 
 Falls `Aktiviert: ✗` (Syndikus / in-house):
 > Mandantenakten sind deaktiviert – Sie sind als [Kanzlei/in-house] konfiguriert und arbeiten mit einem einzigen Mandantenkontext. Falls Sie tatsächlich mehrere Mandanten betreuen, führen Sie `/arbeitsrecht:arbeitsrecht-kaltstart-interview --redo` aus und wählen Sie Kanzleibetrieb. Andernfalls benötigen Sie `/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich` nicht.
@@ -384,7 +384,7 @@ Falls `Aktiviert: ✗` (Syndikus / in-house):
  > - Aktenstatus: offen / ruhend / geschlossen
  > - Besondere Vertraulichkeitsstufe?
 3. `mandat.md`, `verlauf.md` und `notizen.md` anlegen unter:
- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/akten/<kürzel>/`
+ `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/akten/<kürzel>/`
 
 **`auflisten`** – Alle Akten tabellarisch mit Status und aktive-Akte-Flag anzeigen.
 
@@ -469,7 +469,7 @@ Kündigung wegen betriebsbedingter Restrukturierung, Sozialauswahl streitig.
 
 ## 4. `arbeitsrecht-problem-sortieren`
 
-**Fokus:** Sehr allgemeiner Einstiegsskill fuer unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage.
+**Fokus:** Sehr allgemeiner Einstiegsskill für unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage.
 
 # Arbeitsrecht - Problem Sortieren
 

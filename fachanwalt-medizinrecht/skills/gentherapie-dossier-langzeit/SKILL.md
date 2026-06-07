@@ -133,6 +133,6 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 - EMA Advanced therapy medicinal products overview: https://www.ema.europa.eu/en/human-regulatory-overview/advanced-therapy-medicinal-products-overview
 - EMA legal framework for advanced therapies: https://www.ema.europa.eu/en/human-regulatory-overview/advanced-therapy-medicinal-products-overview/legal-framework-advanced-therapies
 - Paul-Ehrlich-Institut ATMP/Gentherapie: https://www.pei.de/
-- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
+- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-für-alle
 - BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
 - EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/

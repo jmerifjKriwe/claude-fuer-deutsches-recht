@@ -20,8 +20,8 @@ Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und
 ## Triage zu Beginn
 
 1. **Liegt die Vollmacht des Mandanten vor?** — Ohne Vollmacht keine Verfahrenshandlungen.
-2. **Zugangsdatum des Strafbefehls dokumentiert?** — Ausgangspunkt fuer alle Fristen.
-3. **Delikt und Aktenzeichen notiert?** — Grundlage fuer alle Schriftsaetze.
+2. **Zugangsdatum des Strafbefehls dokumentiert?** — Ausgangspunkt für alle Fristen.
+3. **Delikt und Aktenzeichen notiert?** — Grundlage für alle Schriftsaetze.
 4. **Mandantenziel festgehalten?** — Freispruch, Einstellung, Strafmassreduzierung, Fahrverbots-Vermeidung.
 5. **Sofortmassnahmen ausgeloest?** — Einspruch fristgerecht eingelegt? Akteneinsicht beantragt?
 

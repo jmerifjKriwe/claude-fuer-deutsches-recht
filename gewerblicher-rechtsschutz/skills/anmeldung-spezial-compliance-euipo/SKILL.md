@@ -153,6 +153,6 @@ Mandatsbezug: Anwalt fragt: Welches Amt ist für meine Marke zuständig? Wo reic
 ## Anschluss-Skills
 
 - `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
-- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Verfahren im Detail
+- `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Verfahren im Detail
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `markenanmeldung-dpma` – DPMA-Anmeldung Schritt für Schritt

@@ -232,7 +232,7 @@ Die Geschäftsführung beschließt:
 1. **Kennzahlen-Set?** Welche Kennzahlen werden in welchem Rhythmus erhoben? (Liquiditaet, EBIT, Forderungslaufzeit, Eigenkapital-Quote)
 2. **Ampelsystem vorhanden?** Gruene, gelbe, rote Schwellen definiert?
 3. **Eskalationskette?** Wer wird bei roten Ampeln informiert? GF → Aufsichtsrat → Anwalt?
-4. **Historische Daten?** 2 Jahre Ruckschau fuer Trend-Erkennung vorhanden?
+4. **Historische Daten?** 2 Jahre Ruckschau für Trend-Erkennung vorhanden?
 
 ## Quellenregel
 

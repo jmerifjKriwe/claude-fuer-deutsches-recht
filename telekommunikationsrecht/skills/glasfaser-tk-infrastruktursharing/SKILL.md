@@ -45,7 +45,7 @@ Gestattungsmatrix, Eigentümeranschreiben, Bau-/Haftungsplan und Open-Access-Che
 
 ## Anschluss-Skills
 
-- tk-wegerecht-oeffentliche-wege
+- tk-wegerecht-öffentliche-wege
 - tk-infrastruktursharing-open-access
 
 ## Qualitätsregel

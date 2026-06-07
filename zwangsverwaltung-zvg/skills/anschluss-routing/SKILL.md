@@ -14,7 +14,7 @@ Dieses Anschluss-Routing für **Zwangsverwaltung Zvg** wählt nach dem ersten Er
 - `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `berichte-beschlagnahme-mietverwaltung-besitz` — Berichte Beschlagnahme Mietverwaltung Besitz
 - `betriebskosten-hausgeld-bieterangebot-bewertung-glaeubiger` — Betriebskosten Hausgeld Bieterangebot Bewertung Glaeubiger
-- `bieterangebote-mieten-oeffentliche` — Bieterangebote Mieten Oeffentliche
+- `bieterangebote-mieten-öffentliche` — Bieterangebote Mieten Oeffentliche
 - `insolvenz-schnittstelle-instandhaltung-sicherung-zvg` — Insolvenz Schnittstelle Instandhaltung Sicherung Zvg
 - `konten-kassenfuehrung-miet-pachtverwaltung-mieteinzug` — Konten Kassenfuehrung Miet Pachtverwaltung Mieteinzug
 - `quality-recherche-rechnungslegung` — Quality Recherche Rechnungslegung

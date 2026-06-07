@@ -140,17 +140,17 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin begleitet Geschaeftsfuehrer und Vorstande bei der Erstellung einer Fortbestehensprognose nach § 19 Abs. 2 InsO. Es dokumentiert Schritt fuer Schritt: ausloesende Ereignisse, bilanziellen Status, Fortfuehrungsannahmen, Plausibilisierung, rollende Zwoelf-Monats-Liquiditaet, Sensitivitaetsszenarien und Sanierungsbausteine (Patronatserklaerung, Comfortletter, Rangruecktritt, Stundung, Forderungsverzicht). Wenn die Prognose negativ ausfaellt, eskaliert das Plugin zum Pflichtenkatalog des Geschaeftsfuehrers nach §§ 15a, 15b InsO.
+Dieses Plugin begleitet Geschaeftsfuehrer und Vorstande bei der Erstellung einer Fortbestehensprognose nach § 19 Abs. 2 InsO. Es dokumentiert Schritt für Schritt: ausloesende Ereignisse, bilanziellen Status, Fortfuehrungsannahmen, Plausibilisierung, rollende Zwoelf-Monats-Liquiditaet, Sensitivitaetsszenarien und Sanierungsbausteine (Patronatserklaerung, Comfortletter, Rangruecktritt, Stundung, Forderungsverzicht). Wenn die Prognose negativ ausfaellt, eskaliert das Plugin zum Pflichtenkatalog des Geschaeftsfuehrers nach §§ 15a, 15b InsO.
 
-Das Plugin richtet sich an Eigenverantwortliche: Geschaeftsfuehrer, Vorstande und Finanzleiter — nicht als Ersatz fuer die Beauftragung eines Insolvenzrechtsanwalts.
+Das Plugin richtet sich an Eigenverantwortliche: Geschaeftsfuehrer, Vorstande und Finanzleiter — nicht als Ersatz für die Beauftragung eines Insolvenzrechtsanwalts.
 
 ## Wann brauchen Sie diese Skill?
 
 - Der Steuerberater oder Wirtschaftspruefer weist auf negatives Eigenkapital oder bilanziellen Ueberschuldungsverdacht hin (§ 102 StaRUG).
 - Das Unternehmen zeigt Liquiditaetsengpaesse und Sie als Geschaeftsfuehrer muessen dokumentieren, dass Sie aktiv gehandelt haben.
-- Gesellschafter oder Banken verlangen eine Fortbestehensprognose als Voraussetzung fuer Unterstuetzungsmassnahmen.
+- Gesellschafter oder Banken verlangen eine Fortbestehensprognose als Voraussetzung für Unterstuetzungsmassnahmen.
 - Sie pruefe Sanierungsbausteine (Gesellschafterdarlehen, Rangruecktritt, Patronatserklaerung) und wollen die insolvenzrechtliche Wirkung verstehen.
-- Die Prognose ist knapp positiv oder negativ und Sie benoetigen den Pflichtenkatalog fuer die naechsten Schritte.
+- Die Prognose ist knapp positiv oder negativ und Sie benoetigen den Pflichtenkatalog für die naechsten Schritte.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -158,8 +158,8 @@ Das Plugin richtet sich an Eigenverantwortliche: Geschaeftsfuehrer, Vorstande un
 - **Ueberschuldung** — Passiva uebersteigen Aktiva nach bilanzieller Bewertung; bei positiver Fortbestehensprognose kein Insolvenzgrund nach § 19 Abs. 2 InsO.
 - **Rangruecktritt** — Erklaerung des Gesellschafters, seine Darlehensforderung hinter alle anderen Glaeubiger zurueckzustellen; fuehrt zur Nichtpassivierung im insolvenzrechtlichen Status.
 - **Patronatserklaerung (hart)** — Rechtsverbindliche Erklaerung des Gesellschafters oder Mutterunternehmens, die Tochtergesellschaft so auszustatten, dass sie zahlungsfaehig bleibt; beruecksichtigungsfaehig im Status.
-- **Comfortletter** — Weiche Erklaerung des Patrons; nicht rechtsverbindlich; nicht ausreichend fuer insolvenzrechtlichen Status.
-- **IDW S 11** — Institut der Wirtschaftspruefer, Standard 11: Massstab und Methodik fuer die Fortbestehensprognose.
+- **Comfortletter** — Weiche Erklaerung des Patrons; nicht rechtsverbindlich; nicht ausreichend für insolvenzrechtlichen Status.
+- **IDW S 11** — Institut der Wirtschaftspruefer, Standard 11: Massstab und Methodik für die Fortbestehensprognose.
 - **StaRUG** — Gesetz ueber den Stabilisierungs- und Restrukturierungsrahmen; Option vor formeller Insolvenz.
 
 ## Rechtsgrundlagen
@@ -176,7 +176,7 @@ Das Plugin richtet sich an Eigenverantwortliche: Geschaeftsfuehrer, Vorstande un
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen GF. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - § 3a EStG — Steuerliche Behandlung Sanierungsgewinn
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Wer nutzt das Plugin (GF, Vorstand, Finanzleiter), Rechtsform, Geschaeftsjahr, Buchhaltungssystem.
 2. Phase des Mandats bestimmen: Ausloeser erfassen, bilanzieller Status, Annahmen, Plausibilisierung, Liquiditaetsplanung oder Sanierungsbaustein-Erstellung.
@@ -200,7 +200,7 @@ Das Plugin richtet sich an Eigenverantwortliche: Geschaeftsfuehrer, Vorstande un
 
 **Sanierungsbausteine (Dokumente erzeugen)**
 
-- `sanierungsbausteine-vorschlagen` — Empfehlungsmatrix fuer Sanierungsmassnahmen nach Effekt und Umsetzungszeit.
+- `sanierungsbausteine-vorschlagen` — Empfehlungsmatrix für Sanierungsmassnahmen nach Effekt und Umsetzungszeit.
 - `patronatserklaerung-extern-hart-erzeugen` — Harte externe Patronatserklaerung als DOCX zur Unterzeichnung erzeugen.
 - `comfortletter-weich-erzeugen` — Comfortletter (weich, nicht rechtsverbindlich) erstellen mit Warnhinweis zur insolvenzrechtlichen Wirkung.
 - `gesellschafterdarlehen-rangruecktritt` — BGH-konforme Rangruecktrittserklaerung nach § 19 Abs. 2 S. 2 InsO erzeugen.
@@ -228,7 +228,7 @@ Das Plugin richtet sich an Eigenverantwortliche: Geschaeftsfuehrer, Vorstande un
 
 - Prognose wird auf der Basis zu optimistischer Annahmen erstellt ohne Plausibilisierung gegen Vergangenheit und Markt.
 - Bilanzieller Status wird mit insolvenzrechtlichem Status gleichgesetzt; beide koennen abweichen (stille Reserven, Rangruecktritt).
-- Comfortletter wird als ausreichend fuer positiven Status behandelt; fuehrt zu fehlerhafter Prognose.
+- Comfortletter wird als ausreichend für positiven Status behandelt; fuehrt zu fehlerhafter Prognose.
 - Dokumentation erfolgt nach dem Ereignis (nachtraeglich), nicht zum Stichtag; Haftungsschutz entfaellt.
 - Steuerwirkung des Sanierungsgewinns (§ 3a EStG) wird nicht beachtet; unerwartete Steuerlast.
 

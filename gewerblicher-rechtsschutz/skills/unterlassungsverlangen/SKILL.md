@@ -195,7 +195,7 @@ Bevor das Unterlassungsverlangen formuliert wird, klaere:
 1. Liegt Wiederholungsgefahr (tatsaechliche Verletzung) oder nur Erstbegehungsgefahr vor?
 2. Ist die abgemahnte Handlung vollstreckungstauglich beschreibbar (§ 890 ZPO — keine vagen Formulierungen)?
 3. Wurde die Unterlassungserklaerung ausreichend strafbewehrt (Hamburger Brauch vs. feste Vertragsstrafe)?
-4. Ist die Dringlichkeitsfrist fuer eine spaetere einstweilige Verfuegung gewahrt (BGH: max. 4-6 Wochen nach Kenntniserlangung)?
+4. Ist die Dringlichkeitsfrist für eine spaetere einstweilige Verfuegung gewahrt (BGH: max. 4-6 Wochen nach Kenntniserlangung)?
 
 ## Aktuelle Rechtsprechung
 

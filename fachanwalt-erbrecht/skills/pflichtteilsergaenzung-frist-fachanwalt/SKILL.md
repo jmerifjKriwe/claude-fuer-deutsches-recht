@@ -184,7 +184,7 @@ Saemtliche Verfuegungen sind wechselbezueglich § 2270 BGB.
 6. Bestehen Pflichtteilsansprüche Dritter, die den Nachlass weiter belasten?
 7. Ist der Erbe Ehegatte des Erblassers — besondere Regelung § 1371 Abs. 3 BGB bei Ausschlagung und Zugewinnausgleich?
 8. Gibt es Verbindlichkeiten aus Bürgschaften, laufenden Verträgen oder offener Steuer des Erblassers?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

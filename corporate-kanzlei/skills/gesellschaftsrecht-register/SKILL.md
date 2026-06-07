@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Registerauszüge, Gesellschafterliste, Satzung, Geschäftsordnungen und Vollmachten.
@@ -106,7 +106,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. Welche Aenderung soll angemeldet werden: GF-Wechsel, Satzungsaenderung, Kapitalerhoehung, Sitzverlegung, Firmennamensaenderung?
 2. GmbH oder AG? (Verfahren unterschiedlich; AG braucht AR-Beschluss und HV bei Satzungsaenderung)
-3. Notar: Erforderlich fuer notarielle Beurkundung und Anmeldung (§ 8 I GmbHG)?
+3. Notar: Erforderlich für notarielle Beurkundung und Anmeldung (§ 8 I GmbHG)?
 4. Eintragungspflichtige und freiwillige Eintragungen unterscheiden?
 5. Fristen: Manche Aenderungen muessen unverzueglich (§ 39 I GmbHG) angemeldet werden.
 6. Auslaendische Gesellschafter: Apostille, Legalisation, Uebersetzung von Vollmachten?
@@ -146,10 +146,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. Anmeldung durch saemtliche GF
 6. Einreichung beim Registergericht
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Handlungsbedarf identifizieren** — welche Aenderung; welche Organbeschluesse erforderlich
-2. **Notar beauftragen** — fuer Beurkundung Beschluss und Anmeldung
+2. **Notar beauftragen** — für Beurkundung Beschluss und Anmeldung
 3. **Unterlagen vorbereiten** — Beschlussprotokoll; aktueller HR-Auszug; Vollmachten; ggf. Apostille
 4. **Beurkundung / Beglaubigung** — Notartermin; alle Unterschriften
 5. **Handelsregisteranmeldung** — elektronisch durch Notar (ERV; § 12 HGB)
@@ -198,7 +198,7 @@ Notariell beglaubigte Unterschrift des neuen GF (Anlage)
 - Satzungsaenderung ohne notarielle Beurkundung → § 53 II GmbHG; Nichtigkeit des Beschlusses
 - Gesellschafterliste nicht aktualisiert nach Anteilsuebertragung → gutglaeubiger Erwerb durch Dritten moeglich
 - Auslaendische Vollmacht ohne Apostille → Registergericht akzeptiert nicht
-- Frist fuer Anmeldung verpasst → Ordnungswidrigkeitengeld (§ 79 GmbHG); Zwangsgeld
+- Frist für Anmeldung verpasst → Ordnungswidrigkeitengeld (§ 79 GmbHG); Zwangsgeld
 
 ## Quellen
 

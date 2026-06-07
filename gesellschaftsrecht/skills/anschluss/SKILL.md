@@ -154,7 +154,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Dieses Plugin unterstuetzt Anwaelte und Wirtschaftsjuristen bei laufenden gesellschaftsrechtlichen Mandaten: GmbH- und AG-Governance, Personengesellschaften, M&A-Due-Diligence ohne Discovery, Gesellschafterbeschluesse, Handelsregisteranmeldungen, Closing-Checklisten und Compliance-Fristen. Es deckt sowohl die laufende Gesellschaftsverwaltung als auch transaktionsbezogene Mandate ab.
 
-Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es enthaelt einen Kaltstart-fuer die Einrichtung des Praxisprofils sowie Mandats-Workspaces fuer Mehrfachmandatsbetrieb.
+Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es enthaelt einen Kaltstart-für die Einrichtung des Praxisprofils sowie Mandats-Workspaces für Mehrfachmandatsbetrieb.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -166,7 +166,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Business Judgment Rule** — Haftungsprivileg fuer Geschaeftsfuehrer und Vorstande bei unternehmerischen Entscheidungen (analog § 93 Abs. 1 S. 2 AktG, § 43 GmbHG).
+- **Business Judgment Rule** — Haftungsprivileg für Geschaeftsfuehrer und Vorstande bei unternehmerischen Entscheidungen (analog § 93 Abs. 1 S. 2 AktG, § 43 GmbHG).
 - **Drag-Along** — Mitnahmerecht: Mehrheitsgesellschafter kann Minderheitsgesellschafter zum Verkauf zwingen.
 - **Tag-Along** — Mitveraeuserungsrecht: Minderheitsgesellschafter kann beim Verkauf mitziehen.
 - **Closing Checklist** — Checkliste aller bis zum Vollzug einer Transaktion zu erfuellenden Bedingungen und Handlungen.
@@ -187,7 +187,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 - § 613a BGB — Betriebsuebergang bei Post-Merger-Integration
 - §§ 18 ff. GwG — Transparenzregister
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Gesellschaftsform, Mandantenrolle (Gesellschafter, GF, Aufsichtsrat, Kaeufer, Investor), Sachgebiet.
 2. Phase des Mandats bestimmen: Governance, Transaktion (DD, Closing), Streit oder Compliance.
@@ -201,8 +201,8 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 - `gesellschaftsrecht-kaltstart-interview` — Ersteinrichtung des Praxisprofils: Taetigkeitsbereiche, Wesentlichkeitsschwellen, Hausstil, Eskalationsmatrix.
 - `gesellschaftsrecht-anpassen` — Praxisprofil aktualisieren: Risikoprofil, Module, Schwellenwerte, Workspace-Pfade.
-- `gesellschaftsrecht-mandat-arbeitsbereich` — Mandats-Workspaces verwalten fuer Mehrfachmandatsbetrieb.
-- `mandat-triage-gesellschaftsrecht` — Eingangs-Abfrage fuer gesellschaftsrechtliche Mandate mit Fristen-Ampel und Routing.
+- `gesellschaftsrecht-mandat-arbeitsbereich` — Mandats-Workspaces verwalten für Mehrfachmandatsbetrieb.
+- `mandat-triage-gesellschaftsrecht` — Eingangs-Abfrage für gesellschaftsrechtliche Mandate mit Fristen-Ampel und Routing.
 
 **Gesellschafterbeschluesse und Governance**
 
@@ -212,23 +212,23 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 **Haftung und Konflikt**
 
-- `geschaeftsfuehrer-haftung-43-gmbhg` — Prueft persoenliche Haftung des GF nach § 43 GmbHG mit Business Judgment Rule und D&O-Versicherung.
+- `geschaeftsfuehrer-haftung-43-gmbhg` — Prueft persönliche Haftung des GF nach § 43 GmbHG mit Business Judgment Rule und D&O-Versicherung.
 - `gesellschafterstreit-loesungsstrategie` — Konflikt- und Mediationsstrategie bei Gesellschafterstreit, Patt-Situation und Einziehungsverfahren.
 
 **Due Diligence und M&A**
 
 - `dd-findings-extraktion` — Extraktion von DD-Issues aus Datenraum-Dokumenten nach Hauskategorien und Wesentlichkeitsschwellen.
-- `dealteam-zusammenfassung` — Gestaffelte Deal-Briefings fuer GF, Deal-Lead und Arbeitsteam aus DD-Findings.
-- `vollzugs-checkliste` — Vollzugscheckliste fuer M&A-Transaktionen: kritischer Pfad, CPs, Tage bis Closing.
+- `dealteam-zusammenfassung` — Gestaffelte Deal-Briefings für GF, Deal-Lead und Arbeitsteam aus DD-Findings.
+- `vollzugs-checkliste` — Vollzugscheckliste für M&A-Transaktionen: kritischer Pfad, CPs, Tage bis Closing.
 - `wesentliche-vertraege-anlage` — Verzeichnis wesentlicher Vertraege (Material Contracts Schedule) aus DD-Erkenntnissen.
-- `ki-werkzeug-uebergabe` — KI-Tool-Uebergabe fuer Massenvertragsprüfungen an Luminance oder Kira.
+- `ki-werkzeug-uebergabe` — KI-Tool-Uebergabe für Massenvertragsprüfungen an Luminance oder Kira.
 - `tabellenpruefung` — Tabellarisches Vertragsreview als Prompt-Matrix pro Dokument und Datenpunkt.
 
 **Register und Compliance**
 
 - `handelsregisteranmeldung` — Vorbereitung von HRB/HRA/GnR/PartGR-Anmeldungen mit Pflichtanmeldungen und Wirkung nach § 15 HGB.
 - `gmbh-gruendung` — GmbH-Gruendung von der Satzung bis zur Handelsregistereintragung mit UG-Variante.
-- `gesellschafts-compliance` — Compliance-Tracker fuer Einreichungsfristen, Bilanzpublizitaet und Transparenzregister.
+- `gesellschafts-compliance` — Compliance-Tracker für Einreichungsfristen, Bilanzpublizitaet und Transparenzregister.
 
 **Post-Merger-Integration**
 
@@ -236,7 +236,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 ## Worauf besonders achten
 
-- **Anfechtungsfrist beachten.** Die Analogie zu § 246 AktG fuer GmbH-Beschluesse setzt typischerweise eine einmonatige Klagefrist; nach laengerer Zeit droht Verwirkung.
+- **Anfechtungsfrist beachten.** Die Analogie zu § 246 AktG für GmbH-Beschluesse setzt typischerweise eine einmonatige Klagefrist; nach laengerer Zeit droht Verwirkung.
 - **Insolvenzantragspflicht parallel pruefen.** Sobald der GF Insolvenzanzeichen erkennt, laeuft die Antragspflicht nach § 15a InsO; sofort an `fortbestehensprognose`-Plugin verweisen.
 - **Change-of-Control-Klauseln in DD.** Bei M&A-Due-Diligence muessen alle wesentlichen Vertraege auf Change-of-Control-Klauseln durchleuchtet werden; Closing kann sonst scheitern.
 - **Umlaufbeschluss erfordert Einstimmigkeit.** Bei GmbH muss jeder Gesellschafter zustimmen (§ 48 Abs. 2 GmbHG); fehlende Stimmen machen Beschluss unwirksam.

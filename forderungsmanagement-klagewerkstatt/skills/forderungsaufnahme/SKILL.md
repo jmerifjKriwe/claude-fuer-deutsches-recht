@@ -1,11 +1,11 @@
 ---
 name: forderungsaufnahme
-description: "Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten § 280, § 286 BGB, Mahngebuehren), Faelligkeit § 271 BGB, Verjaehrungsbeginn § 199 BGB. Output: vollstaendige Forderungsbeschreibung als Basis fuer Mahnverfahren oder Klage."
+description: "Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten § 280, § 286 BGB, Mahngebuehren), Faelligkeit § 271 BGB, Verjährungsbeginn § 199 BGB. Output: vollstaendige Forderungsbeschreibung als Basis für Mahnverfahren oder Klage."
 ---
 
 # Forderungsaufnahme
 
-Erste systematische Erfassung einer Forderung vor jeder rechtlichen Handlung. Zweck: Vollstaendigkeit der Datenbasis, frueherkennung von Klagehindernissen, Eingangstuer fuer alle anderen Skills.
+Erste systematische Erfassung einer Forderung vor jeder rechtlichen Handlung. Zweck: Vollstaendigkeit der Datenbasis, frueherkennung von Klagehindernissen, Eingangstuer für alle anderen Skills.
 
 ## Aufnahme-Schema
 
@@ -76,9 +76,9 @@ Praezise Subsumtion welcher Anspruch auf welcher Norm beruht:
 - Verbrauchsguterkauf: mit Lieferung.
 - Stundung verschiebt Faelligkeit nach hinten.
 
-### 7. Verjaehrung § 199 BGB
+### 7. Verjährung § 199 BGB
 
-- Berechnung Verjaehrungsbeginn: Schluss des Jahres mit Kenntnis.
+- Berechnung Verjährungsbeginn: Schluss des Jahres mit Kenntnis.
 - Regelverjaehrung 3 Jahre (§ 195 BGB).
 - Hoechstfristen 10 / 30 Jahre (§ 199 Abs. 2-4 BGB).
 
@@ -115,7 +115,7 @@ Gesamtforderung:                             EUR ...
 
 ## Klagehindernisse fruehzeitig erkennen
 
-- Verjaehrung droht (Restlaufzeit < 6 Monate) → MB / Klage sofort.
+- Verjährung droht (Restlaufzeit < 6 Monate) → MB / Klage sofort.
 - Insolvenz Schuldner → § 174 InsO Tabelle, keine Klage.
 - Vergleichsbereitschaft → Stundung dokumentieren (Anerkenntnis § 212 BGB nutzt).
 - AGB-Vereinbarung mit unwirksamen Klauseln → § 305 ff. BGB Kontrolle.
@@ -125,6 +125,6 @@ Gesamtforderung:                             EUR ...
 - BGB § 271 Faelligkeit [gesetze-im-internet.de/bgb/__271.html](https://www.gesetze-im-internet.de/bgb/__271.html)
 - BGB § 286, 288 [gesetze-im-internet.de/bgb/__286.html](https://www.gesetze-im-internet.de/bgb/__286.html)
 - BGB § 366 Tilgungsbestimmung [gesetze-im-internet.de/bgb/__366.html](https://www.gesetze-im-internet.de/bgb/__366.html)
-- BGB § 195, 199 Verjaehrung [gesetze-im-internet.de/bgb/__195.html](https://www.gesetze-im-internet.de/bgb/__195.html)
+- BGB § 195, 199 Verjährung [gesetze-im-internet.de/bgb/__195.html](https://www.gesetze-im-internet.de/bgb/__195.html)
 - RDGEG § 4 Inkassokosten [gesetze-im-internet.de/rdgeg/__4.html](https://www.gesetze-im-internet.de/rdgeg/__4.html)
 - Insolvenzbekanntmachungen [insolvenzbekanntmachungen.de](https://www.insolvenzbekanntmachungen.de)

@@ -37,7 +37,7 @@ Abfindungen aus Anlass der Beendigung des Arbeitsverhaeltnisses sind aussergewoe
 4. Welcher Bruttolohn des AN im Vorjahr und im Jahr der Auszahlung?
 5. Welches Alter des AN, welche Beschaeftigungsdauer (Aufstockungs-Pauschale)?
 6. Erfolgt die Abfindung ausschliesslich oder mit weiteren Komponenten (offene Loehne, Urlaubsabgeltung)?
-7. Wird die Abfindung als Zahlungsersatz fuer entgangene Loehne gestaltet (SV-Pflicht-Risiko)?
+7. Wird die Abfindung als Zahlungsersatz für entgangene Loehne gestaltet (SV-Pflicht-Risiko)?
 8. AG-Wunsch — Auszahlung im Folgejahr (Steueroptimierung)?
 
 ## Rechtlicher Rahmen
@@ -84,7 +84,7 @@ Die Fuenftel-Regelung mindert die Steuerprogression — bei vollstaendiger Wirku
 
 ### Phase 3 — SV-Behandlung
 
-- Echte Abfindung (Schadensersatz fuer Verlust des Arbeitsplatzes): SV-frei.
+- Echte Abfindung (Schadensersatz für Verlust des Arbeitsplatzes): SV-frei.
 - Unechte Abfindung (Lohnnachzahlung): SV-pflichtig.
 - Pruefung Vereinbarung — wenn als "Entschaedigung wegen Verlust des Arbeitsplatzes" formuliert: SV-frei.
 
@@ -104,7 +104,7 @@ Die Fuenftel-Regelung mindert die Steuerprogression — bei vollstaendiger Wirku
 
 - DATEV LODAS: Abfindung mit Lohnart "Sonstige Bezuege ermaessigt" buchen.
 - Achtung Reform: Mit dem Wachstumschancengesetz wurde der Lohnsteuer-Abzug der Fuenftel-Regelung im Lohnsteuer-Verfahren ab 2025 gestrichen (Verifikation 2026 ueber aktuelles BMF-Schreiben zur Lohnsteuer-Ermittlung); seither erfolgt die Fuenftel-Anwendung nur noch in der Veranlagung beim AN. AG sollte AN zur Einkommensteuererklaerung anhalten.
-- LSt-Bescheinigung in Zeile 10 ("Ermaessigt besteuerter Arbeitslohn fuer mehrere Jahre") — gilt fuer die Zuordnung zur Kennzahl; konkretes Feld bei jedem LSt-Update pruefen (Bescheinigungsmuster BMF).
+- LSt-Bescheinigung in Zeile 10 ("Ermaessigt besteuerter Arbeitslohn für mehrere Jahre") — gilt für die Zuordnung zur Kennzahl; konkretes Feld bei jedem LSt-Update pruefen (Bescheinigungsmuster BMF).
 
 ## Output
 

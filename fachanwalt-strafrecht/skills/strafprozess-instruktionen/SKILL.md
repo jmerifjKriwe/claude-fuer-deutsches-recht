@@ -288,7 +288,7 @@ die Sachlage in folgendem Punkt geaendert: [konkrete Aenderung].
 
 Die Vernehmung des Zeugen Y dient nunmehr der Aufklaerung des
 durch Zeuge X aufgeworfenen Widerspruchs zur Tatsache [konkret].
-Eine sachdienliche Foerderung der Aufklaerung ist daher nunmehr gegeben.
+Eine sachdienliche Förderung der Aufklaerung ist daher nunmehr gegeben.
 ```
 
 ## Wenn Gericht Verschleppungsabsicht annimmt

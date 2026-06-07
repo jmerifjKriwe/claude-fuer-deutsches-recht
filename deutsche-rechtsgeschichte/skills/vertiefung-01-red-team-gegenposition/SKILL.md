@@ -22,7 +22,7 @@ Das Red-Team-Verfahren ist die systematische Herausforderung einer rechtshistori
 - **Carl Schmitt** (1888-1985): Red-Team gegen liberalen Rechtspositivismus; aber selbst NS-Belastung
 - **Hans Kelsen** (1881-1973): Reiner Rechtspositivismus als Red-Team-Gegenangriff gegen Naturrecht
 - **Gustav Radbruch** (1878-1949): Position zwischen Positivismus und Naturrecht nach 1945
-- **Michael Stolleis**: Kritische Einordnung von NS-Kontinuitaet in Geschichte des oeffentlichen Rechts
+- **Michael Stolleis**: Kritische Einordnung von NS-Kontinuitaet in Geschichte des öffentlichen Rechts
 
 ## Typische Streitfragen / Forschungsfragen
 
@@ -35,13 +35,30 @@ Das Red-Team-Verfahren ist die systematische Herausforderung einer rechtshistori
 ## Methodik
 
 - Radbruch SJZ 1946: Original lesen, nicht nur paraphrasieren
-- BVerfGE: bverfg.de fuer Solange I, Maastricht, Lissabon als institutionelle Red-Team-Quellen
-- NS-RGBl.: ALEX/ÖNB fuer Originaltext der NS-Gesetze
+- BVerfGE: bverfg.de für Solange I, Maastricht, Lissabon als institutionelle Red-Team-Quellen
+- NS-RGBl.: ALEX/ÖNB für Originaltext der NS-Gesetze
 - Carl Schmitt Werke: Historisch-kritisch einordnen, nicht hagiographisch
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 
-- Red-Team-Analyse fuer eine vom Nutzer vorgegebene rechtshistorische These
+- Red-Team-Analyse für eine vom Nutzer vorgegebene rechtshistorische These
 - Strukturiertes Gegenmemo: Beweislast, Gegenquellen, alternative Interpretation
 - Methodennotiz: Wie man Red-Team-Ergebnis in wissenschaftliche Argumentation integriert
 

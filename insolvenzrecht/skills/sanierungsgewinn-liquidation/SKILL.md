@@ -59,7 +59,7 @@ Kaltstart-Fragen:
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 - OFD Frankfurt a. M.: Liquidationsbeschluss allein ist kein konkludenter Forderungsverzicht (Verlautbarung der OFD — Az/Datum vom Anwender mit aktueller OFD-Veroeffentlichung zu pruefen).
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Entscheidungsmatrix Plan vs. Liquidation** aus betriebs- und steuerwirtschaftlicher Sicht aufstellen.
 2. **Stille Reserven bewerten** — bei Liquidation werden sie aufgedeckt; bei Plan-Buchwertfortfuehrung nicht.
@@ -79,7 +79,7 @@ Kaltstart-Fragen:
 | Unternehmen fortgefuehrt | ja | nein |
 | Restverbindlichkeiten | nach Plan-Bestaetigung erlischt nicht-Plan-Verzichts-Teil ggf. weiter passiviert | bei juristischer Person bleiben bestehen (BFH II R 19/01) |
 | Erloeschen der juristischen Person | nein | mit Loeschung im Handelsregister, aber Verbindlichkeiten bleiben |
-| Bei spaeterer Vermoegenslosigkeit | irrelevant | Verbindlichkeiten erloeschen erst bei expliziter Verzichtserklaerung oder Eintritt der Verjaehrung |
+| Bei spaeterer Vermoegenslosigkeit | irrelevant | Verbindlichkeiten erloeschen erst bei expliziter Verzichtserklaerung oder Eintritt der Verjährung |
 | Steueraufwand | Paragraph 3a EStG-Pruefung | Veraeusserungsgewinne + Liquidations-Phase |
 | Geschwindigkeit | mehrere Monate Plan-Verfahren | je nach Verwertung |
 | Kosten | typisch hoeher | typisch niedriger |

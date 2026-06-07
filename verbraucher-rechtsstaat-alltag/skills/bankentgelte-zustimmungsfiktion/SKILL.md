@@ -9,6 +9,23 @@ description: "Bankentgelte und Zustimmungsfiktion: führt Verbraucher durch Rüc
 
 Bankentgelte und Zustimmungsfiktion: führt Verbraucher durch Rückforderung von Kontoentgelten nach BGH XI ZR 26/20, XI ZR 139/23 und XI ZR 45/24; mit Kontoauszugsmatrix, Verjährungscheck, Anspruchsschreiben und Ombudsmann-/Klagepfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 13 BGB` — Verbraucherbegriff.
+- `§ 14 BGB` — Unternehmerbegriff.
+- `§ 312c BGB` — Fernabsatzvertrag.
+- `§ 312d BGB` — Informationspflichten.
+- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
+- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
+- `§ 434 BGB` — Sachmangel.
+- `§ 475 BGB` — Verbrauchsgüterkauf.
+- `§ 477 BGB` — Beweislastumkehr.
+- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

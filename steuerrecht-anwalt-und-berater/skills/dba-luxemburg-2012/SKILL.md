@@ -15,7 +15,7 @@ description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprot
 
 ## Kernsachverhalt
 
-Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxemburg ist Sitz vieler Investmentfonds, Holdings (SOPARFI) und Finanzgesellschaften, daher praxisrelevant fuer Beteiligungs-, Zins-, Lizenz- und Veraeusserungsfaelle. Zudem ist Luxemburg fuer Grenzgaenger aus dem Saarland und Rheinland-Pfalz von hohem Pendleraufkommen gepraegt.
+Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxemburg ist Sitz vieler Investmentfonds, Holdings (SOPARFI) und Finanzgesellschaften, daher praxisrelevant für Beteiligungs-, Zins-, Lizenz- und Veraeusserungsfaelle. Zudem ist Luxemburg für Grenzgaenger aus dem Saarland und Rheinland-Pfalz von hohem Pendleraufkommen gepraegt.
 
 ## Kaltstart-Rueckfragen
 
@@ -57,7 +57,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 ### Betriebsstaette (Art. 5)
 
 - Bauausfuehrung **12 Monate**.
-- Holdings ohne Geschaeftsbetrieb: keine Betriebsstaette, aber Substanz fuer Treaty-Schutz erforderlich.
+- Holdings ohne Geschaeftsbetrieb: keine Betriebsstaette, aber Substanz für Treaty-Schutz erforderlich.
 
 ### Aktive Einkuenfte
 
@@ -128,11 +128,11 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 
 ### Erstattungsverfahren luxemburgische Quellensteuer
 
-- **Zustaendigkeit**: luxemburgische Erstattung durch **Administration des Contributions Directes (ACD)**, Bureau d'Imposition Societes/Non-Residents. Aktuelle Zustaendigkeit auf **impotsdirects.public.lu** pruefen.
+- **Zuständigkeit**: luxemburgische Erstattung durch **Administration des Contributions Directes (ACD)**, Bureau d'Imposition Societes/Non-Residents. Aktuelle Zuständigkeit auf **impotsdirects.public.lu** pruefen.
 - **Antragsformulare**: luxemburgische Formulare zur Quellensteuererstattung bei Holding-Beteiligungen; bei Ausschuettung an EU-Mutter typischerweise vorab Freistellungs-Antrag — Bezeichnungen vom Anwender mit aktuellem Stand auf impotsdirects.public.lu zu verifizieren.
 - **Frist**: nach luxemburgischem Steuerrecht regelmaessig **fuenf Jahre** ab Steuerentrichtung.
 - **Bearbeitungsdauer ACD**: 6-18 Monate; Substanzpruefung bei Holding-Strukturen verlaengert.
-- **Online-Portal**: **MyGuichet.lu** zentral fuer luxemburgische Behoerdenkommunikation.
+- **Online-Portal**: **MyGuichet.lu** zentral für luxemburgische Behördenkommunikation.
 - **Sprache**: FR/DE/EN; offizielle Bescheide oft FR — bei groesseren Erstattungen luxemburgischen Berater einbinden.
 
 ### Lokaler Steuerberater-Kontakt
@@ -143,7 +143,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 ### Online-Portale
 
 - **impotsdirects.public.lu**: ACD-Verfahren.
-- **bzst.de**: BZSt fuer Erstattung an deutscher Quelle.
+- **bzst.de**: BZSt für Erstattung an deutscher Quelle.
 
 ## Trade-off-Tabelle
 

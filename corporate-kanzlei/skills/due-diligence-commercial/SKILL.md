@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -114,7 +114,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Anspruchsgrundlagen & Normen
 
 - **§ 307 BGB** — AGB-Inhaltskontrolle; Klauseln mit unangemessener Benachteiligung unwirksam
-- **§ 309 Nr. 7 BGB** — Haftungsfreizeichnung fuer Koerperschaeden; verboten in AGB
+- **§ 309 Nr. 7 BGB** — Haftungsfreizeichnung für Koerperschaeden; verboten in AGB
 - **§ 314 BGB** — ausserordentliches Kuendigungsrecht bei wichtigem Grund
 - **§ 613a BGB** — Betriebsuebergang; automatischer Uebergang von Arbeitsvertraegen
 - **§§ 74 ff. HGB** — nachvertragliches Wettbewerbsverbot; Entschaedigungspflicht
@@ -141,7 +141,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Abtretungsverbote | Zustimmungserfordernis bei Abtretung oder Verpfaendung | Finanzierungs-Securitization gehemmt | Consent; vertragliche Liberalisierung |
 | Geheimhaltung | Laufzeit, Ausnahmen, Vertragsstrafe | Post-Closing Know-How-Schutz | Erfuellung sicherstellen |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Material Contracts Liste erstellen** — aus DD-IRL, Jahresabschluss-Anhang, Management-Input; Schwellenwert definieren (z.B. >100 TEUR Jahresvolumen oder strategisch wesentlich)
 2. **Vertraege klassifizieren** — Kunde, Lieferant, Finanzierung, Lizenz, JV, Miet, Arbeitsrecht, Sonstige
@@ -150,14 +150,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. **Haftungslimits abgleichen** — mit Unternehmensrisikoprofil und W&I-Deckungsgrenzen
 6. **Wettbewerbsverbote pruefen** — Gueltigkeit nach §§ 74 ff. HGB und § 138 BGB; GWB-Konformitaet
 7. **Contract Summary erstellen** — pro wesentlichem Vertrag: Parteien, Laufzeit, Volumen, CoC, Kuendigung, Kernrisiken
-8. **Empfehlung fuer SPA** — welche Vertraege brauchen Consents, spezifische Reps, Indemnities oder Closing Conditions?
+8. **Empfehlung für SPA** — welche Vertraege brauchen Consents, spezifische Reps, Indemnities oder Closing Conditions?
 
 ## Entscheidungsbaum: Consent erforderlich?
 
 ```
 Wesentlicher Vertrag mit CoC-Klausel identifiziert?
  → Ja: Klausel loest Kuendigung aus?
- → Ja: Wesentlich fuer Geschaeftsbetrieb?
+ → Ja: Wesentlich für Geschaeftsbetrieb?
  → Ja: Consent vor Signing einholen → ggf. Closing Condition
  → Nein: Disclosure Letter; SPA-Rep "kein wesentlicher Vertrag betroffen"
  → Nein: Klausel loest nur Anpassungsrecht aus?
@@ -198,12 +198,12 @@ EMPFEHLUNG: [Consent einholen bis [Datum] / Disclosure / Indemnity]
 - CoC-Klausel in Top-Kundenvertrag ohne Consent → Kuendigungsrisiko post-Closing gefaehrdet Unternehmenswert
 - Lizenzvertrag mit Abtretungsverbot ohne Consent → IP-Verlust; Deal-Breaker-Potential
 - Wettbewerbsverbot laenger als 2 Jahre nach § 138 BGB → Nichtigkeit; Mitarbeiter nicht gebunden
-- Haftungslimit unter versichertem Schadenspotenzial → Gap-Risiko fuer Kaeufer
+- Haftungslimit unter versichertem Schadenspotenzial → Gap-Risiko für Kaeufer
 - Exklusivitaet kartellrechtlich problematisch → GWB-Bussgeld, Nichtigkeit der Klausel
 
 ## Vertiefung: Open Source Software-Risiken (IP/IT-Workstream)
 
-Lizenzvertraege fuer Software koennen Open-Source-Copyleft-Pflichten enthalten (GPL, LGPL). Im DD pruefen: (a) Welche Open-Source-Bestandteile sind im Produkt; (b) Welche Lizenzpflichten bestehen (Quelltextoffenlegung); (c) Enthaelt Lizenz Termination-Right bei GPL-Verletzung. Risiko: Wichtigstes Produkt muss Open Source veroeffentlicht werden.
+Lizenzvertraege für Software koennen Open-Source-Copyleft-Pflichten enthalten (GPL, LGPL). Im DD pruefen: (a) Welche Open-Source-Bestandteile sind im Produkt; (b) Welche Lizenzpflichten bestehen (Quelltextoffenlegung); (c) Enthaelt Lizenz Termination-Right bei GPL-Verletzung. Risiko: Wichtigstes Produkt muss Open Source veroeffentlicht werden.
 
 ## Quellen
 

@@ -19,7 +19,7 @@ Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandel
 
 ## Aufgabe
 
-Skill fuer Master-Franchise-Strukturen.
+Skill für Master-Franchise-Strukturen.
 
 ## Strukturmodelle
 
@@ -31,7 +31,7 @@ Skill fuer Master-Franchise-Strukturen.
 - Sub-Franchisees als Unter-Vertragspartner.
 
 ### Area Development Agreement
-- Entwicklungsvertrag fuer eine geografische Region.
+- Entwicklungsvertrag für eine geografische Region.
 
 ### Joint Venture
 - Geteiltes Eigentum am Master-Vehikel.

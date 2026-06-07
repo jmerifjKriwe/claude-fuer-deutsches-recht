@@ -17,8 +17,8 @@ description: "Materielle Pruefung und Abwehr von Haftungsbescheiden — Geschaef
 2. Sind die rueckstaendigen Steuern bereits bestandskraeftig festgesetzt oder noch offen?
 3. Liegt zumindest grobe Fahrlaessigkeit oder Vorsatz vor (§ 69 AO setzt grobe Fahrlaessigkeit voraus)?
 4. Wurde der Grundsatz quotaler Befriedigung gegenueber dem Fiskus verletzt?
-5. Ermessensausuebung des FA pruefen — Auswahl- und Entschliessungsermessen § 191 Abs. 1 AO?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+5. Ermessensausübung des FA pruefen — Auswahl- und Entschliessungsermessen § 191 Abs. 1 AO?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

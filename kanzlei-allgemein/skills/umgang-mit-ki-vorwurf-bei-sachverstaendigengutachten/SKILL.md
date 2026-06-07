@@ -19,7 +19,7 @@ Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutach
 
 ## Triage zu Beginn
 1. Wurde der Vorwurf des KI-Einsatzes durch die Gegenseite, das Gericht oder den Mandanten erhoben?
-2. Liegt ein konkreter Anhaltspunkt fuer den Vorwurf vor (auffaellige Formulierungen, fehlende Quellenbelege)?
+2. Liegt ein konkreter Anhaltspunkt für den Vorwurf vor (auffaellige Formulierungen, fehlende Quellenbelege)?
 3. Welches prozessuale Stadium: vor Beauftragung, waehrend Begutachtung, nach Vorlage des Gutachtens?
 4. Wird eine Reduktion der Sachverstaendigenverguetung (§ 8a JVEG) oder die Unverwertbarkeit des Gutachtens angestrebt?
 
@@ -29,8 +29,8 @@ Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutach
 <!-- AUDIT 27.05.2026: BGH VI ZB 59/18 geloescht – AZ existiert (30.07.2019), betrifft aber Musterfeststellungsklage § 606 ff. ZPO, nicht § 407a ZPO Hoechstpersoenlichkeit (WRONG_TOPIC). BGH VI ZR 286/21 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). -->
 
 ## Zentrale Normen
-- § 407a Abs. 1 ZPO — Hoechstpersoenliche Erstellungspflicht des Sachverstaendigen
-- § 407a Abs. 3 ZPO — Benennungspflicht fuer Hilfskraefte und Mitarbeiter
+- § 407a Abs. 1 ZPO — Hoechstpersönliche Erstellungspflicht des Sachverstaendigen
+- § 407a Abs. 3 ZPO — Benennungspflicht für Hilfskraefte und Mitarbeiter
 - § 8a Abs. 2 JVEG — Wegfall der Verguetung bei Unverwertbarkeit oder Identitaetsunklarheit
 - Art. 103 Abs. 1 GG — Anspruch auf rechtliches Gehoer: Partei muss Gutachten-Mangel geltend machen koennen
 

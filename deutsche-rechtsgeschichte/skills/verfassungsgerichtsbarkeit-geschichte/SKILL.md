@@ -19,14 +19,14 @@ Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgeri
 
 ## Worum es geht
 
-Die Verfassungsgerichtsbarkeit hat in Deutschland eine eigentuemliche Geschichte. Die WRV kannte den Staatsgerichtshof (Art. 19, 108 WRV) fuer bestimmte Streitigkeiten, aber keine allgemeine Normenkontrolle. Hans Kelsen hatte in Oesterreich 1920 das erste echte Verfassungsgericht konzipiert. Das GG 1949 schuf das Bundesverfassungsgericht (BVerfG), das am 7. September 1951 errichtet wurde (BGBl. I 1951, 243). Das BVerfG-Gesetz (BVerfGG) regelt Verfahren, Zustaendigkeiten und Richterwahl. Die abstrakte und konkrete Normenkontrolle sowie die Verfassungsbeschwerde sind deutsche Institutionen von internationalem Einfluss.
+Die Verfassungsgerichtsbarkeit hat in Deutschland eine eigentuemliche Geschichte. Die WRV kannte den Staatsgerichtshof (Art. 19, 108 WRV) für bestimmte Streitigkeiten, aber keine allgemeine Normenkontrolle. Hans Kelsen hatte in Oesterreich 1920 das erste echte Verfassungsgericht konzipiert. Das GG 1949 schuf das Bundesverfassungsgericht (BVerfG), das am 7. September 1951 errichtet wurde (BGBl. I 1951, 243). Das BVerfG-Gesetz (BVerfGG) regelt Verfahren, Zuständigkeiten und Richterwahl. Die abstrakte und konkrete Normenkontrolle sowie die Verfassungsbeschwerde sind deutsche Institutionen von internationalem Einfluss.
 
 ## Kernnormen / Kernquellen
 
-- **Art. 93, 94 GG**: Zustaendigkeit und Zusammensetzung des BVerfG
+- **Art. 93, 94 GG**: Zuständigkeit und Zusammensetzung des BVerfG
 - **Art. 100 GG**: Konkrete Normenkontrolle durch Vorlageverfahren
 - **BVerfGG vom 12. März 1951 (BGBl. I 1951, 243)**: Organisation und Verfahren
-- **BVerfGG § 13**: Katalogartige Zustaendigkeiten
+- **BVerfGG § 13**: Katalogartige Zuständigkeiten
 - **BVerfGG §§ 90-95**: Verfassungsbeschwerde
 - **BVerfGE 1, 14**: Erste Entscheidung des BVerfG (1951), zum Wahlrecht
 
@@ -49,13 +49,13 @@ Die Verfassungsgerichtsbarkeit hat in Deutschland eine eigentuemliche Geschichte
 
 - GG und BVerfGG: gesetze-im-internet.de
 - BVerfGE Entscheidungen: bverfg.de (vollstaendige Sammlung online)
-- WRV-Staatsgerichtshof: documentArchiv.de fuer WRV-Text
+- WRV-Staatsgerichtshof: documentArchiv.de für WRV-Text
 - Kelsen-Texte: oesterreichische Rechtszeitschriften und Bucheditionen
 
 ## Output
 
 - Strukturvergleich Staatsgerichtshof WRV vs. BVerfG
-- Zustaendigkeitsuebersicht BVerfG nach Art. 93 GG und BVerfGG § 13
+- Zuständigkeitsuebersicht BVerfG nach Art. 93 GG und BVerfGG § 13
 - Leitsaetze aus BVerfGE 1, 14 und BVerfGE 89, 155 (Maastricht)
 
 ## Quellenregel

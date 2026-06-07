@@ -29,7 +29,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -106,15 +106,15 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Garantien ab. Sichert Verkaeuferhaftungsbegrenzung durch vollstaendige und korrekte Offenlegung; verhindert Haftung fuer Garantieverletzung bei bekannten Umstaenden.
+Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Garantien ab. Sichert Verkaeuferhaftungsbegrenzung durch vollstaendige und korrekte Offenlegung; verhindert Haftung für Garantieverletzung bei bekannten Umstaenden.
 
 ## Triage — klaere vor Erstellung
 
 1. Welches Disclosure-Konzept gilt — General Disclosure (ganzer Datenraum qualifiziert als Disclosure) oder Specific Disclosure (nur namentlich aufgefuehrte Dokumente)?
-2. Gibt es einen Materiality Scrape — entfaellt die Materiality-Schwelle fuer SPA-Garantien, wenn ein Umstand discloset ist?
+2. Gibt es einen Materiality Scrape — entfaellt die Materiality-Schwelle für SPA-Garantien, wenn ein Umstand discloset ist?
 3. Welche SPA-Garantien sind disclosure-relevant — alle Business Warranties, oder nur Tax und Employment?
 4. Liegen alle wesentlichen DD-Findings vor, die der Verkaeufer offenlegen muss? Gibt es "known unknowns"?
-5. Vendor Due Diligence vorhanden — kann VDD-Report als Quelle fuer Disclosures verwendet werden?
+5. Vendor Due Diligence vorhanden — kann VDD-Report als Quelle für Disclosures verwendet werden?
 6. Welche Kategorien-Beschraenkungen gelten — welche Dokumente sind nicht im Datenraum (z.B. Kundenvertraege ohne Einwilligung)?
 
 ## Zentrale Rechtsgrundlagen
@@ -132,14 +132,14 @@ Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Ga
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **SPA-Garantienliste erstellen:** alle Business Warranties mit Disclosure-Vorbehalt identifizieren; je Garantie: Scope, Carve-out, Disclosure-Methode
 2. **Datenraum-Mapping:** Dokumente nach Garantie-Kategorien zuordnen; Index erstellen (Ordner, Dokument, Datenraum-ID, Relevanz)
 3. **DD-Findings einarbeiten:** Red-Flag-Findings als Specific Disclosure formulieren; jedes wesentliche Finding muss disclosure-faehig sein oder als Freistellung behandelt werden
 4. **Vendor DD einbinden:** VDD-Bericht als Anlage zum Disclosure Letter; Kaeufer muss VDD-Report als General Disclosure anerkennen
 5. **Materiality-Scrape pruefen:** Wenn Materiality Scrape vereinbart: sichererstellen, dass alle Disclosures vollstaendig sind, da Scrape alle Materiality-Schwellen entfernt
-6. **Earn-Out-relevante Umstaende:** gesonderte Disclosure-Kategorie fuer Earn-Out-beeinflussende Umstaende erstellen
+6. **Earn-Out-relevante Umstaende:** gesonderte Disclosure-Kategorie für Earn-Out-beeinflussende Umstaende erstellen
 7. **Disclosure Letter finalisieren:** formale Struktur (Intro, General Disclosures, Specific Disclosures je Garantie), Datum, Unterzeichnung; als SPA-Anlage beifuegen
 8. **Fair-Disclosure-Check:** Pruefung, ob alle wesentlichen Risiken klar und verstaendlich dargestellt sind (nicht nur durch Indexverweis)
 
@@ -148,7 +148,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - General Disclosure gewuenscht → alle Datenraum-Dokumente qualifizieren → Kaeufer muss DD komplett durchfuehren
 - Specific Disclosure → je Garantie explizite Aufzaehlung → vollstaendiger als General Disclosure
 - Materiality Scrape vereinbart → alle Disclosures muessen 100 % vollstaendig sein → lueckenhafter Disclosure Letter gefaehrlicher
-- Arglistiges Verschweigen → kein Haftungsausschluss durch Disclosure-Klausel → persoenliche Haftung Geschaeftsfuehrer
+- Arglistiges Verschweigen → kein Haftungsausschluss durch Disclosure-Klausel → persönliche Haftung Geschaeftsfuehrer
 
 ## Output-Template: Disclosure Letter Gliederung
 
@@ -207,9 +207,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

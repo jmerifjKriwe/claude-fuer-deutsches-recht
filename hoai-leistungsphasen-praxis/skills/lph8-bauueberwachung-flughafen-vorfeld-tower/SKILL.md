@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-flughafen-vorfeld-tower
-description: "Bauueberwachung nach HOAI LPH 8 fuer Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte Abnahme mit Luftfahrtbehoerde. Umfasst Drohnendokumentation, SAP-PM-Mangelmanagement und VOB/C-Abnahme in sicherheitskritischer Luftfahrtumgebung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte Abnahme mit Luftfahrtbehoerde. Umfasst Drohnendokumentation, SAP-PM-Mangelmanagement und VOB/C-Abnahme in sicherheitskritischer Luftfahrtumgebung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Flughafen Vorfeld und Tower
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte Abnahme mit Luftfahrtbehoerde. Umfasst Drohnendokumentation, SAP-PM-Mangelmanagement und VOB/C-Abnahme in sicherheitskritischer Luftfahrtumgebung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte Abnahme mit Luftfahrtbehoerde. Umfasst Drohnendokumentation, SAP-PM-Mangelmanagement und VOB/C-Abnahme in sicherheitskritischer Luftfahrtumgebung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -38,12 +38,12 @@ Die Bauueberwachung auf Flughafenvorfeldern und bei Towerneubauten erfordert die
 
 ## Normen und Rechtsrahmen
 
-- § 650p BGB, § 650q BGB: Architekten- und Ingenieurvertrag, Dokumentationspflichten bei oeffentlichen Bauherren
+- § 650p BGB, § 650q BGB: Architekten- und Ingenieurvertrag, Dokumentationspflichten bei öffentlichen Bauherren
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Bauueberwachung und Objektueberwachung Ingenieurbauwerke
-- VOB/C DIN 18316 Verkehrswegebauarbeiten Betonarbeiten und DIN 18299 Allgemeine Regelungen fuer Bauarbeiten
+- VOB/C DIN 18316 Verkehrswegebauarbeiten Betonarbeiten und DIN 18299 Allgemeine Regelungen für Bauarbeiten
 - DIN EN 206:2021-06 i.V.m. DIN 1045-2:2023-08: Beton Expositionsklassen XF4 Frost-Tausalz und XD3 Chlorid Deicingmittel
 - ICAO Annex 14 Volume I Aerodrome Design and Operations: Befeuerung, Hindernisfreiflaechenormen OLS
-- LuftVO § 18a und LuftVZO: Baubeschraenkungen im Bauschutzbereich, Genehmigungspflicht fuer Baukraene im Anflugsektor
+- LuftVO § 18a und LuftVZO: Baubeschraenkungen im Bauschutzbereich, Genehmigungspflicht für Baukraene im Anflugsektor
 
 ## Prueferaster und Kontrollpunkte
 
@@ -58,8 +58,8 @@ Die Bauueberwachung auf Flughafenvorfeldern und bei Towerneubauten erfordert die
 
 - Fotodokumentation Betoneinbau: Stativaufnahmen alle 30 Minuten, Zeitstempel und GPS-Koordinate EPSG 25832 UTM32N, Ablage in BIM360 oder PlanRadar
 - Drohnenbefliegung DJI Mavic 3 Enterprise nach jeder Bauphase: Orthofoto 2 cm/px Risserkennung, 3D-Modell via Pix4Dmapper, Soll/Ist-Vergleich mit Tachymeter-Punktwolke
-- Matterport 360-Grad-Scan Tower-Innenraeume: Bestandsdokumentation Rohbau, Verortung Einbauteile, Export als IFC fuer BIM-Abgleich
-- Pruefung Lieferscheine: Betonguetezertifikat DIN EN 206, Werksbescheinigung 3.1 nach EN 10204 fuer Bewehrungsstahl BSt 500 S
+- Matterport 360-Grad-Scan Tower-Innenraeume: Bestandsdokumentation Rohbau, Verortung Einbauteile, Export als IFC für BIM-Abgleich
+- Pruefung Lieferscheine: Betonguetezertifikat DIN EN 206, Werksbescheinigung 3.1 nach EN 10204 für Bewehrungsstahl BSt 500 S
 - Schweissprotokoll Fugenbander: Warmgasschweissverfahren nach DIN 16726, Protokoll mit WPS und PQR, Kalibrierungsnachweis Schweissgeraet
 
 ## Meldungserstellung im ERP / SAP
@@ -67,7 +67,7 @@ Die Bauueberwachung auf Flughafenvorfeldern und bei Towerneubauten erfordert die
 - SAP PM Meldungsart M2 bei Fugenrissen groesser 0.3 mm: Equipment-Nr Vorfeld-Sektor-ID z.B. VF-WEST-A14, Schadenscode K002 Riss Beton, Ursachencode U018 Nachbehandlungsfehler
 - SAP PS Netzplan: Vorgang BUEW-0810 Betonage-Ueberwachung, Vorgang BUEW-0820 Befeuerungspruefung, Meilenstein M-LBA-ABNAHME mit Pflichtfreigabe
 - PlanRadar Meldung mit GPS-Pin auf Vorfeld-Grundriss: Foto-Anhang Pflicht, Zuordnung Gewerk Betonbau oder Elektro, Faelligkeit T+5 Werktage
-- Dalux BIM-verknuepfte Mangelerfassung: Mangel direkt am 3D-IFC-Modell verortet, Exportformat BCF 2.1 fuer Weitergabe an Fachplaner
+- Dalux BIM-verknuepfte Mangelerfassung: Mangel direkt am 3D-IFC-Modell verortet, Exportformat BCF 2.1 für Weitergabe an Fachplaner
 - Workflow: Meldung erfasst, AN-Stellungnahme T+3 Werktage, Begehung T+7, Mangelbeseitigung mit Foto-Abschluss, SAP PM Status E0004 erledigt
 
 ## Typische Fallstricke

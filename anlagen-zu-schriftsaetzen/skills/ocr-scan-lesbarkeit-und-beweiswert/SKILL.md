@@ -5,6 +5,23 @@ description: "Prüft gescannte Anlagen auf Lesbarkeit, OCR-Durchsuchbarkeit, Sei
 
 # OCR, Scanqualität und Lesbarkeit
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 131 Abs. 1 ZPO` — Abschriften/Anlagen.
+- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
+- `§ 138 Abs. 1 ZPO` — vollstaendiger und wahrer Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Klageinhalt.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+- `§ 371 Abs. 1 ZPO` — Augenscheinsbeweis.
+- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Zweck
 
 Dieser Skill schaut wie eine strenge Geschäftsstelle auf das Paket: Kann man es lesen? Kann man es durchsuchen? Fehlt Seite 2? Ist die Unterschrift abgeschnitten? Sind Fotos zu dunkel?

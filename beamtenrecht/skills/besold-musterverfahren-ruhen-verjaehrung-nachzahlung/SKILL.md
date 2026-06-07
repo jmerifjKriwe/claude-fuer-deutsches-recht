@@ -3,7 +3,7 @@ name: besold-musterverfahren-ruhen-verjaehrung-nachzahlung
 description: "Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Besold Musterverfahren Ruhen Verjaehrung Nachzahlung
+# Besold Musterverfahren Ruhen Verjährung Nachzahlung
 
 ## Arbeitsbereich
 
@@ -19,7 +19,7 @@ Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung. Die Prüfung konzen
 
 ## Aufgabe
 
-Skill fuer Musterverfahren — Ruhen, Verjaehrung, Nachzahlung bei Erfolg.
+Skill für Musterverfahren — Ruhen, Verjährung, Nachzahlung bei Erfolg.
 
 ## Hintergrund
 
@@ -29,9 +29,9 @@ Bei verfassungswidriger Besoldung gibt es Musterverfahren am BVerfG. Andere Beam
 
 - Eigenen Widerspruch einlegen.
 - Antrag auf Ruhen des eigenen Verfahrens bis BVerfG entscheidet.
-- Bei Erfolg: Nachzahlung fuer den Zeitraum, in dem Widerspruch lief.
+- Bei Erfolg: Nachzahlung für den Zeitraum, in dem Widerspruch lief.
 
-## Verjaehrung
+## Verjährung
 
 - 3 Jahre nach Faelligkeit (§ 195 BGB).
 - Hemmung durch Widerspruch / Klage.
@@ -39,14 +39,14 @@ Bei verfassungswidriger Besoldung gibt es Musterverfahren am BVerfG. Andere Beam
 ## Nachzahlung
 
 - Bei BVerfG-Erfolg: Gesetzgeber muss reformieren.
-- Nachzahlung typisch fuer 3-5 Jahre rueckwirkend.
+- Nachzahlung typisch für 3-5 Jahre rueckwirkend.
 - Zinsen nach § 247 BGB.
 
 ## Pruefraster
 
 1. Musterverfahren laufend?
 2. Eigener Widerspruch eingelegt?
-3. Verjaehrung gehemmt?
+3. Verjährung gehemmt?
 4. Bei Erfolg: Nachzahlung berechnen.
 
 ## Output

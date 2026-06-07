@@ -5,6 +5,24 @@ description: "Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswe
 
 # Verbändeanhörung und Ressortabstimmung
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 > Bevor das Kabinett entscheidet, muss man andere haben sprechen lassen.
 
 ## Verbändeanhörung
@@ -74,7 +92,7 @@ Pro Änderungswunsch des Ressorts: Wer wollte was warum, wie wurde damit umgegan
 
 ## Zentrale Normen (Paragrafenkette)
 
-§§ 47-50 GGO (Ressortabstimmung, Verbands-Anhoerung) — § 63 BNatSchG (Verbandsbeteiligung Umwelt-NGOs) — § 47 Abs. 2 GGO (Fristen Ressortbeteiligung) — §§ 28, 29 VwVfG (Anhoerungsrecht Betroffener, Parallele zu Verbands-Beteiligung)
+§§ 47-50 GGO (Ressortabstimmung, Verbands-Anhörung) — § 63 BNatSchG (Verbandsbeteiligung Umwelt-NGOs) — § 47 Abs. 2 GGO (Fristen Ressortbeteiligung) — §§ 28, 29 VwVfG (Anhörungsrecht Betroffener, Parallele zu Verbands-Beteiligung)
 
 ## Quellenregel
 

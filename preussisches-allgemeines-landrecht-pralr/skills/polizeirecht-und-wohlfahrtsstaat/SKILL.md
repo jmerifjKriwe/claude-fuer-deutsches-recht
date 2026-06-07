@@ -31,7 +31,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 ## Meat on the Bone — Konkreter ALR-Stoff
 
 ### Schluesselparagraphen
-- **ALR II 17 § 10**: "Die noethigen Anstalten zur Erhaltung der oeffentlichen Ruhe, Sicherheit und Ordnung, und zur Abwendung der dem Publico, oder einzelnen Mitgliedern desselben, bevorstehenden Gefahren, zu treffen, ist das Amt der Polizey." — DIE polizeirechtliche Generalklausel.
+- **ALR II 17 § 10**: "Die noethigen Anstalten zur Erhaltung der öffentlichen Ruhe, Sicherheit und Ordnung, und zur Abwendung der dem Publico, oder einzelnen Mitgliedern desselben, bevorstehenden Gefahren, zu treffen, ist das Amt der Polizey." — DIE polizeirechtliche Generalklausel.
 - **ALR II 17 §§ 1-50**: Polizeyrecht im aufgeklaerten Absolutismus — wohltaetige Polizei.
 
 ### Subsumtionsbeispiel: PrOVG Kreuzberg-Urteil 14.06.1882

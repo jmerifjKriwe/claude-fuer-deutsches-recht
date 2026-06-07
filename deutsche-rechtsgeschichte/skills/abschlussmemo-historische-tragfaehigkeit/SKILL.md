@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaeh
 
 Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prueft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,21 +36,21 @@ Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer j
 
 ## Worum es geht
 
-Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrument fuer rechtshistorische Argumente in heutigen Texten (Gutachten, Schriftsaetze, Gesetzesbegr√ündungen). Es prueft: (1) Sind die historischen Quellen korrekt identifiziert? (2) Tragt die Quelle die Behauptung tatsaechlich? (3) Liegt ein Anachronismus vor? (4) Gibt es Luecken in der Argumentationskette? (5) Sind Unsicherheiten sichtbar gemacht? Ergebnis ist ein strukturiertes Memo mit Ampelbewertung: Gruen (Quelle traegt), Gelb (Einschraenkung noetig), Rot (Quelle traegt nicht).
+Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrument für rechtshistorische Argumente in heutigen Texten (Gutachten, Schriftsaetze, Gesetzesbegr√ündungen). Es prueft: (1) Sind die historischen Quellen korrekt identifiziert? (2) Tragt die Quelle die Behauptung tatsaechlich? (3) Liegt ein Anachronismus vor? (4) Gibt es Luecken in der Argumentationskette? (5) Sind Unsicherheiten sichtbar gemacht? Ergebnis ist ein strukturiertes Memo mit Ampelbewertung: Gruen (Quelle traegt), Gelb (Einschraenkung noetig), Rot (Quelle traegt nicht).
 
 ## Kernnormen / Kernquellen
 
 - **BVerfGE 62, 1 (1982)**: BVerfG-Methodik der historischen Auslegung
 - **BGB § 133**: Wille des Erklaerenden / Gesetzgebers als Auslegungsziel
-- **Mugdan, Materialien BGB** (1899): Massstab fuer BGB-historische Argumente
-- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Massstab fuer historische Verfassungsargumente
-- **Einigungsvertrag 1990 (BGBl. II 1990, 885)**: Massstab fuer DDR-Rechtsuebergangsargumente
+- **Mugdan, Materialien BGB** (1899): Massstab für BGB-historische Argumente
+- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Massstab für historische Verfassungsargumente
+- **Einigungsvertrag 1990 (BGBl. II 1990, 885)**: Massstab für DDR-Rechtsuebergangsargumente
 
 ## Akteure und Institutionen
 
-- **BVerfG**: Pruefungsmassstab fuer historische Verfassungsargumente
+- **BVerfG**: Pruefungsmassstab für historische Verfassungsargumente
 - **BGH**: Zivilrechtliche historische Auslegung, z. B. BGB-Materialien
-- **Bundesarchiv**: Primaerquellen-Lieferant fuer historische Argumentationsbasis
+- **Bundesarchiv**: Primaerquellen-Lieferant für historische Argumentationsbasis
 - **BReg Rechtsabteilung**: Nutzer von historischer Argumentation in Gesetzesbegr√ündungen
 
 ## Typische Streitfragen / Forschungsfragen
@@ -54,7 +71,7 @@ Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrum
 ## Output
 
 - Abschlussmemo-Vorlage mit Ampelbewertung (Gruen/Gelb/Rot)
-- Checkliste: 10 Qualitaetsfragen fuer historische Argumentation
+- Checkliste: 10 Qualitaetsfragen für historische Argumentation
 - Beispielauswertung: Ein konkretes historisches Argument und seine Bewertung
 
 ## Quellenregel

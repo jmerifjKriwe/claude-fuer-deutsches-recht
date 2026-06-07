@@ -19,7 +19,7 @@ Sachbereich Militaerische Beschaffung und Vergaberecht im Geschaeftsbereich BMVg
 
 ## Spezialwissen
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Militaerische Beschaffung und Vergaberecht im Geschaeftsbereich BMVg. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Militaerische Beschaffung und Vergaberecht im Geschaeftsbereich BMVg. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -38,7 +38,7 @@ Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verw
 
 BAAINBw; BMVg-Abteilungen Ausruestung; BMWE-Vergaberecht; OLG-Vergabesenate.
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -50,7 +50,7 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 Geheimhaltungspflichten; Bietersicherheit; nationale Sicherheitsausnahme; Off-set-Vereinba-rungen; Kooperation mit NATO-Partnern.
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -89,7 +89,7 @@ Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

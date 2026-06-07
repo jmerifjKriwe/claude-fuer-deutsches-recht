@@ -38,7 +38,7 @@ oder
 
 ## Verzeichnisstruktur
 
-Unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/mandate/<az>/`:
+Unter `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-allgemein/mandate/<az>/`:
 
 ```
 01_stammdaten/
@@ -67,7 +67,7 @@ _archiv/
 ```yaml
 mandat-az: 2026/0042
 mandat-eroeffnet: 2026-05-20
-zustaendiger-anwalt: RA Mueller
+zuständiger-anwalt: RA Mueller
 sekretariat: Frau Schmidt
 
 mandant:
@@ -136,7 +136,7 @@ Bei Mandaten die unter GwG fallen (z. B. Immobilientransaktionen Bargeldgeschäf
 
 ## Mandantenstamm-Eintrag
 
-In `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/mandantenstamm.yaml`:
+In `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-allgemein/mandantenstamm.yaml`:
 
 ```yaml
 - mandant-id: M-00874

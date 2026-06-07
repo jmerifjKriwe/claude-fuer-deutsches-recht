@@ -85,7 +85,7 @@ Das DBA-Rumaenien vom 04.07.2001 (BGBl. 2003 II S. 1594) regelt Beziehungen zum 
 - Pflege-Arbeitnehmer Rumaenien: A1-Bescheinigung Sozialversicherung; bei ueber 183 Tagen DE: Lohnsteuer.
 - Niedrige KSt Rumaenien: CFC, Pillar Two.
 - Automotive-Werke in Rumaenien: Betriebsstaette pruefen, Werksvertraege.
-- EU-MTRL vorrangig fuer Schachtel.
+- EU-MTRL vorrangig für Schachtel.
 - BZSt-Erstattung bei Lizenzen.
 
 ## Praktiker-Tipps der alten Hasen
@@ -126,12 +126,12 @@ Pflegekraft mit Wohnsitz und Familie in Rumaenien, Arbeitseinsatz in DE bei priv
 1. **Aufnahme**: Konstellation (Automotive-Werk, IT-Outsourcing, Pflege-Arbeitnehmer, Holding).
 2. **Strukturierung**: Bei Pflege Werkvertrag- vs. AUe-Pruefung; bei Holding Substanz; bei Mikrosteuer-Regime CFC.
 3. **Antraege**: Ansaessigkeitsbescheinigung ANAF; A1-Bescheinigung Sozialversicherung; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
-4. **Laufende Compliance**: RO-Erklaerung jaehrlich; DE-Erklaerung mit Freistellung mit Progressionsvorbehalt fuer aktive Einkuenfte und Anrechnung fuer passive.
+4. **Laufende Compliance**: RO-Erklaerung jaehrlich; DE-Erklaerung mit Freistellung mit Progressionsvorbehalt für aktive Einkuenfte und Anrechnung für passive.
 5. **Audit-Vorbereitung**: RO-Pruefer formalistisch — Dokumentation sorgfaeltig; DE-FA pruefer § 50d Abs. 9 EStG-Subject-to-Tax und MLI-Anwendung.
 
-## Ausgabeformat fuer Mandanten-Memo Rumaenien
+## Ausgabeformat für Mandanten-Memo Rumaenien
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Automotive-Werk, IT-Outsourcing, Pflege, Holding), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, RO-KSt-Niveau, A1-Bescheinigung Sozialversicherung.

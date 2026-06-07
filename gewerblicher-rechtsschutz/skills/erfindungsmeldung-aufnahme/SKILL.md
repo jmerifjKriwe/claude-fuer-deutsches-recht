@@ -253,7 +253,7 @@ Jede Aussage zu Neuheit, erfinderischer Tätigkeit oder Vergütung muss auf konk
 
 Bevor die Erfindung aufgenommen und bewertet wird, klaere:
 1. Liegt eine Diensterfindung (§ 4 ArbnErfG — Arbeitgeber hat Inanspruchnahmerecht) oder eine Freierfindung vor?
-2. Laeuft die 4-Monats-Frist des § 6 I ArbnErfG fuer die Inanspruchnahme bereits?
+2. Laeuft die 4-Monats-Frist des § 6 I ArbnErfG für die Inanspruchnahme bereits?
 3. Gibt es neuheitsschaedliche Vorveröffentlichungen (Veroeffentlichung vor Anmeldedatum)?
 4. Besteht technischer Charakter im Sinne des EPÜ Art. 52 (Software: loest technisches Problem auf technischem Weg)?
 

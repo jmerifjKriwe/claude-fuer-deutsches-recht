@@ -78,11 +78,11 @@ Ueberstunden koennen im Arbeitszeitkonto angesammelt und durch Freizeit oder Aus
 
 - Ausgleich in Lohnform: regulaere LSt und SV.
 - Bei Aufloesung Konto (Beschaeftigungsende): einmalige Auszahlung als sonstiger Bezug; LSt nach § 39b Abs. 3 EStG.
-- Fuenftel-Regelung § 34 EStG fuer reine Ueberstundenauszahlung in der Regel NICHT anwendbar — beschraenkt auf Entschaedigungen (§ 24 Nr. 1 EStG) und Verguetungen fuer mehrjaehrige Taetigkeiten. Bei Ueberstundenauszahlung ueber mehrere Jahre kann § 34 Abs. 2 Nr. 4 EStG ausnahmsweise greifen — Einzelfallpruefung.
+- Fuenftel-Regelung § 34 EStG für reine Ueberstundenauszahlung in der Regel NICHT anwendbar — beschraenkt auf Entschaedigungen (§ 24 Nr. 1 EStG) und Verguetungen für mehrjaehrige Taetigkeiten. Bei Ueberstundenauszahlung ueber mehrere Jahre kann § 34 Abs. 2 Nr. 4 EStG ausnahmsweise greifen — Einzelfallpruefung.
 
 ### Phase 6 — Wertguthaben-Vereinbarung (§ 7c SGB IV)
 
-- Langfristige Vereinbarung zur SV-rechtlich begleiteten Ansparung (z.B. fuer Sabbatical, Vorruhestand).
+- Langfristige Vereinbarung zur SV-rechtlich begleiteten Ansparung (z.B. für Sabbatical, Vorruhestand).
 - Insolvenzsicherung Pflicht.
 - Bei Storno: SV-rechtliche Rueckabwicklung.
 

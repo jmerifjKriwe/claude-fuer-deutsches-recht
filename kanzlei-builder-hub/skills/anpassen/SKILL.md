@@ -50,8 +50,8 @@ Dieser Skill ermöglicht die gezielte Anpassung einzelner Abschnitte des Kanzlei
  - `--updates` — Update-Kadenz und Benachrichtigungseinstellungen
  - `--tom` — TOM-Dokumentation und Datenschutzhinweise
  - Oder frei: "Ich möchte Rechtsanwalt X als neuen Ansprechpartner eintragen"
-- Aktuelles Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md`
-- Geteiltes Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.md`
+- Aktuelles Kanzleiprofil: `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md`
+- Geteiltes Kanzleiprofil: `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-profil.md`
 
 ## Ablauf
 
@@ -114,7 +114,7 @@ Nur nach explizitem `ja` schreiben.
 
 ### Schritt 7: Protokollieren
 
-Änderung in `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/customization-log.md` protokollieren:
+Änderung in `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/customization-log.md` protokollieren:
 
 ```
 [YYYY-MM-DD HH:MM] Abschnitt: [Name] | Geändert durch: [Nutzer] | Grund: [optional]

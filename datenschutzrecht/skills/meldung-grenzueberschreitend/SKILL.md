@@ -45,4 +45,4 @@ Spalte 1: Land; Spalte 2: Behörde; Spalte 3: Pflicht oder freiwillig; Spalte 4:
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
-- `dsv-lead-authority-konzern` deckt die Bestimmung der federfuehrenden Behoerde ab.
+- `dsv-lead-authority-konzern` deckt die Bestimmung der federfuehrenden Behörde ab.

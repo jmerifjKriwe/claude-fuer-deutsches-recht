@@ -1,20 +1,20 @@
 ---
 name: revision-bsg-ruecknahme-sgb-sachstandsanfrage
-description: "Revision BSG Ruecknahme SGB Sachstandsanfrage im Selbstvertretung am Sozialgericht: prüft konkret Revision zum BSG § 160 SGG, Aenderung von Dauerverwaltungsakten bei wesentlicher, Sachstandsanfrage und Untaetigkeitsbeschwerde im, Eigenes Gutachten nach § 109 SGG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Revision BSG Rücknahme SGB Sachstandsanfrage im Selbstvertretung am Sozialgericht: prüft konkret Revision zum BSG § 160 SGG, Aenderung von Dauerverwaltungsakten bei wesentlicher, Sachstandsanfrage und Untaetigkeitsbeschwerde im, Eigenes Gutachten nach § 109 SGG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Revision BSG Ruecknahme SGB Sachstandsanfrage
+# Revision BSG Rücknahme SGB Sachstandsanfrage
 
 ## Arbeitsbereich
 
-**Revision BSG Ruecknahme SGB Sachstandsanfrage** ordnet den Fall über die tragenden Prüfungslinien: Revision zum BSG § 160 SGG, Aenderung von Dauerverwaltungsakten bei wesentlicher, Sachstandsanfrage und Untaetigkeitsbeschwerde im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Revision BSG Rücknahme SGB Sachstandsanfrage** ordnet den Fall über die tragenden Prüfungslinien: Revision zum BSG § 160 SGG, Aenderung von Dauerverwaltungsakten bei wesentlicher, Sachstandsanfrage und Untaetigkeitsbeschwerde im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `revision-bsg-160-sgg` | Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil. |
-| `ruecknahme-48-sgb-x-aenderung` | Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung fuer die Zukunft oder rueckwirkend. Liefert Pruefraster. |
-| `sachstandsanfrage-und-untaetigkeitsbeschwerde` | Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behoerde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage. |
+| `ruecknahme-48-sgb-x-aenderung` | Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung für die Zukunft oder rueckwirkend. Liefert Pruefraster. |
+| `sachstandsanfrage-und-untaetigkeitsbeschwerde` | Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behörde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage. |
 | `sachverstaendigen-wahlrecht-109-sgg` | Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutachter waehlen. Eigenkosten Erstattung Wann sinnvoll. Mustertext Antrag. |
 | `saeumnis-im-termin-sozialgericht` | Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger. |
 
@@ -67,7 +67,7 @@ Die dritte und letzte Instanz ist das Bundessozialgericht in Kassel. Hier brauch
 - **§ 164 SGG** — Revisionsfrist 1 Monat.
 - **§ 73 Abs. 4 SGG** — Anwaltszwang vor BSG.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen: hat das LSG zugelassen?
 
@@ -135,12 +135,12 @@ Stand: 05/2026. § 160 SGG aktuell. BSG-Liste zugelassener Anwaelte auf www.bsg.
 
 ## 2. `ruecknahme-48-sgb-x-aenderung`
 
-**Fokus:** Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung fuer die Zukunft oder rueckwirkend. Liefert Pruefraster.
+**Fokus:** Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung für die Zukunft oder rueckwirkend. Liefert Pruefraster.
 
-# Ruecknahme 48 Sgb X Aenderung
+# Rücknahme 48 Sgb X Aenderung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ruecknahme 48 Sgb X Aenderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rücknahme 48 Sgb X Aenderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -149,14 +149,14 @@ Stand: 05/2026. § 160 SGG aktuell. BSG-Liste zugelassener Anwaelte auf www.bsg.
 
 ## Anwendungsfall
 
-Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Verhaeltnisse aendern sich — Einkommen Bedarfsgemeinschaft Erwerbsfaehigkeit. Behoerde hebt den Dauerverwaltungsakt mit § 48 SGB X auf.
+Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Verhaeltnisse aendern sich — Einkommen Bedarfsgemeinschaft Erwerbsfaehigkeit. Behörde hebt den Dauerverwaltungsakt mit § 48 SGB X auf.
 
 ## Voraussetzungen § 48 Abs. 1 SGB X
 
 - Verwaltungsakt mit Dauerwirkung (laufende Leistung).
 - Wesentliche Aenderung der tatsaechlichen oder rechtlichen Verhaeltnisse.
 
-## Aufhebung fuer Vergangenheit
+## Aufhebung für Vergangenheit
 
 § 48 Abs. 1 Satz 2 SGB X — nur unter engen Voraussetzungen:
 - Vorteil ist gewaehrt worden ohne dass Anspruch bestand und der Beguenstigte hat dies erkannt oder grob fahrlaessig nicht erkannt.
@@ -180,12 +180,12 @@ Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Ver
 1. Welcher Dauerverwaltungsakt?
 2. Welche Aenderung der Verhaeltnisse?
 3. Wesentlich?
-4. Aufhebung fuer Zukunft oder rueckwirkend?
+4. Aufhebung für Zukunft oder rueckwirkend?
 5. Vertrauensschutz greift?
 
 ## 3. `sachstandsanfrage-und-untaetigkeitsbeschwerde`
 
-**Fokus:** Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behoerde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage.
+**Fokus:** Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behörde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage.
 
 # Sachstandsanfrage Und Untaetigkeitsbeschwerde
 
@@ -210,7 +210,7 @@ Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Ver
 ### 3. Dienstaufsichtsbeschwerde
 - An die uebergeordnete Stelle.
 - Bei Krankenkassen: Aufsichtsbehoerde des Landes.
-- Bei Jobcenter: Bundesagentur fuer Arbeit / Geschaeftsfuehrung.
+- Bei Jobcenter: Bundesagentur für Arbeit / Geschaeftsfuehrung.
 - Bei DRV: Bundesversicherungsamt.
 
 ### 4. Untaetigkeitsklage § 88 SGG
@@ -266,7 +266,7 @@ Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie koen
 
 - **§ 109 SGG-Gutachten**: Gutachten eines vom Versicherten gewaehlten Arztes.
 - **Kostenvorschuss**: Sie zahlen vorab oder spaetestens nach Gutachten.
-- **Anhoerungsrecht**: Sie haben einen Anspruch auf Anhoerung (in engen Grenzen).
+- **Anhörungsrecht**: Sie haben einen Anspruch auf Anhörung (in engen Grenzen).
 
 ## Rechtsgrundlagen
 
@@ -274,7 +274,7 @@ Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie koen
 - **§ 109 Abs. 1 S. 2 SGG** — Kosten traegt der Antragsteller.
 - **§ 109 Abs. 1 S. 3 SGG** — Bei Erfolg kann das Gericht die Kosten der Staatskasse auferlegen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob § 109 sinnvoll
 
@@ -345,7 +345,7 @@ Das Gericht setzt einen Vorschuss fest. Diesen ueberweisen Sie an die Gerichtska
 
 - Untersuchung beim Wahl-Gutachter.
 - Gutachten geht ans Gericht.
-- Sie und die beklagte Behoerde erhalten Kopie.
+- Sie und die beklagte Behörde erhalten Kopie.
 
 ### Schritt 7 — Bei Erfolg: Kostenerstattung
 
@@ -434,7 +434,7 @@ Sie koennen zum Termin nicht kommen. Sagen Sie sofort Bescheid. Sonst kann das G
 - **§ 137 SGG** — Saeumnis-Folgen.
 - **§ 124 SGG** — Muendliche Verhandlung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vorab nicht koennen
 
@@ -458,7 +458,7 @@ Verlegungsantrag
 
 Sehr geehrte Damen und Herren,
 
-ich kann den fuer [Datum, Uhrzeit] anberaumten Termin nicht wahrnehmen, weil ich erkrankt bin (AU-Bescheinigung anbei).
+ich kann den für [Datum, Uhrzeit] anberaumten Termin nicht wahrnehmen, weil ich erkrankt bin (AU-Bescheinigung anbei).
 
 Ich bitte um Verlegung.
 
@@ -478,7 +478,7 @@ Das Gericht kann:
 
 - Termin vertagen
 - In Ihrer Abwesenheit verhandeln und entscheiden (§ 110 Abs. 1 S. 2 SGG)
-- Falls persoenliches Erscheinen angeordnet war: Ordnungsgeld moeglich
+- Falls persönliches Erscheinen angeordnet war: Ordnungsgeld moeglich
 
 In der Sozialgerichts-Praxis wird oft vertagt, wenn die Saeumnis erkennbar entschuldbar ist. Aber sicher ist das nicht.
 

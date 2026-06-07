@@ -1,6 +1,6 @@
 ---
 name: red-team-antrag
-description: "Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.; Normanker: InsO §§ 305 und 287 und 290 und 302; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung."
+description: "Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.; Normanker: InsO §§ 305 und 287 und 290 und 302; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung."
 ---
 
 # Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.

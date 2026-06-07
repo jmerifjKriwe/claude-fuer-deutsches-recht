@@ -49,7 +49,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Strafakte-Red-Team-Checks
 - **Halluzinations-Check:** Keine erfundenen BGH-/BVerfG-Az; Fundstellen mit Datum, Gericht und Az pruefen oder als "staendige Rspr."/"BGH-Linie" markieren.
 - **Frist-Re-Check:** Berufung § 314 StPO (1 Woche), Revision §§ 341, 345 StPO (1 Woche / 1 Monat), Strafbefehl-Einspruch § 410 StPO (2 Wochen), Wiedereinsetzung § 44 StPO (1 Woche ab Wegfall); Postzustellungsdatum verifizieren.
-- **Zustaendigkeits-Re-Check:** GVG - Strafrichter § 25 (bis 2 Jahre Freiheitsstrafe), Schoeffengericht § 28 (bis 4 Jahre), Schwurgericht § 74 GVG (Toetungsdelikte), grosse Strafkammer § 76 GVG (ueber 4 Jahre, schwere Wirtschaftskriminalitaet). Verfahrenshandlung Falschadressiert?
+- **Zuständigkeits-Re-Check:** GVG - Strafrichter § 25 (bis 2 Jahre Freiheitsstrafe), Schoeffengericht § 28 (bis 4 Jahre), Schwurgericht § 74 GVG (Toetungsdelikte), grosse Strafkammer § 76 GVG (ueber 4 Jahre, schwere Wirtschaftskriminalitaet). Verfahrenshandlung Falschadressiert?
 - **Belehrungs-Check** § 136 StPO (Beschuldigtenrechte), § 52 StPO (Zeugnisverweigerung Angehoeriger), § 55 StPO (Auskunftsverweigerung wegen Selbstbelastung): in der Akte protokolliert?
 - **Beweisverwertungs-Check:** § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Hauptverhandlung), § 261 StPO Beweiswuerdigungslueckchen, Belehrungsfehler in Beschuldigtenvernehmung.
 - **Ton-/Stil-Check:** keine wertende Vorverurteilung; klare Trennung Fakten / Bewertung; Mandantengeheimnis § 43a Abs. 2 BRAO, § 203 StGB.

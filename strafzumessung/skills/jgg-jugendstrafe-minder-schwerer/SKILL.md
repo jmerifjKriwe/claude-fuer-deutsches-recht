@@ -19,7 +19,7 @@ Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Massnahmen-Trio:
 
 ## Worum geht es?
 
-Das Jugendgerichtsgesetz (JGG) gilt fuer Jugendliche (14 bis unter 18 Jahre) und unter bestimmten Voraussetzungen fuer Heranwachsende (18 bis unter 21 Jahre, § 105 JGG). Tragend ist der **Erziehungsgedanke** (§ 2 JGG). Die Strafzumessung folgt einem dreistufigen System: Erziehungsmassregeln, Zuchtmittel, Jugendstrafe.
+Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und unter bestimmten Voraussetzungen für Heranwachsende (18 bis unter 21 Jahre, § 105 JGG). Tragend ist der **Erziehungsgedanke** (§ 2 JGG). Die Strafzumessung folgt einem dreistufigen System: Erziehungsmassregeln, Zuchtmittel, Jugendstrafe.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -31,7 +31,7 @@ Das Jugendgerichtsgesetz (JGG) gilt fuer Jugendliche (14 bis unter 18 Jahre) und
 
 ### Anwendungsbereich
 
-- **§ 1 Abs. 1 JGG** — Geltung fuer Jugendliche (14 bis unter 18 bei Tatbegehung).
+- **§ 1 Abs. 1 JGG** — Geltung für Jugendliche (14 bis unter 18 bei Tatbegehung).
 - **§ 105 JGG** — Heranwachsende (18 bis unter 21 bei Tatbegehung): Anwendung Jugendrecht, wenn die Persoenlichkeitsentwicklung der eines Jugendlichen gleichsteht **oder** die Tat eine typische Jugendverfehlung ist.
 - **§ 19 StGB** — Schuldunfaehigkeit unter 14 Jahren.
 
@@ -50,7 +50,7 @@ Das Jugendgerichtsgesetz (JGG) gilt fuer Jugendliche (14 bis unter 18 Jahre) und
 #### 2. Zuchtmittel (§§ 13-16 JGG)
 
 - **§ 14 JGG Verwarnung** — formliche Ruege.
-- **§ 15 JGG Auflagen** — Schadenswiedergutmachung, persoenliche Entschuldigung, Arbeitsleistungen, Geldbusse.
+- **§ 15 JGG Auflagen** — Schadenswiedergutmachung, persönliche Entschuldigung, Arbeitsleistungen, Geldbusse.
 - **§ 16 JGG Jugendarrest** — Freizeit-, Kurz-, Dauerarrest bis 4 Wochen.
 
 #### 3. Jugendstrafe (§§ 17, 18 JGG)
@@ -61,7 +61,7 @@ Das Jugendgerichtsgesetz (JGG) gilt fuer Jugendliche (14 bis unter 18 Jahre) und
  - **Schwere der Schuld** bei Straftaten von erheblicher Bedeutung.
 - **§ 18 Abs. 1 JGG** — Mindestmass 6 Monate, Hoechstmass:
  - bei Vergehen: 5 Jahre.
- - bei Verbrechen, fuer die Hoechststrafe ueber 10 Jahre Freiheitsstrafe nach allgemeinem Strafrecht steht: bis 10 Jahre.
+ - bei Verbrechen, für die Hoechststrafe ueber 10 Jahre Freiheitsstrafe nach allgemeinem Strafrecht steht: bis 10 Jahre.
  - bei besonders schweren Mordfaellen bei Heranwachsenden nach § 105 JGG: bis 15 Jahre.
 - **§ 18 Abs. 2 JGG** — Strafzumessungs-Grundsatz: erforderliche erzieherische Einwirkung.
 
@@ -81,7 +81,7 @@ Das Jugendgerichtsgesetz (JGG) gilt fuer Jugendliche (14 bis unter 18 Jahre) und
 - **Jugendstrafe** nur, wenn Erziehungsmassregeln und Zuchtmittel nicht ausreichen oder Schwere der Schuld es gebietet.
 - **§ 18 Abs. 2 JGG** — Strafhoehe der Jugendstrafe nach der erforderlichen erzieherischen Einwirkung; das schliesst weder die Beruecksichtigung der Schuld noch praeventive Erwaegungen aus, aber der Erziehungsgedanke ist tragend.
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Anwendungsbereich** klaeren:
  - Tatbegehungsalter? Jugendlich oder Heranwachsend?

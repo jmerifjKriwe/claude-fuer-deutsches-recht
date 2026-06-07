@@ -66,7 +66,7 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 ### Besonderheiten
 - **Subject-to-Tax-Klausel** im Protokoll — **konkret pruefen**.
 - **Entsendung Bau**: bei Bauausfuehrung ueber 12 Monate Betriebsstaette; sonst Loehne nach Art. 15.
-- **Pensionen** Art. 18: gesetzliche ZUS-Renten i.d.R. Wohnsitzstaat; bei oeffentlichem Dienst Kassenstaat.
+- **Pensionen** Art. 18: gesetzliche ZUS-Renten i.d.R. Wohnsitzstaat; bei öffentlichem Dienst Kassenstaat.
 
 ## Workflow
 
@@ -92,17 +92,17 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 
 ## Praktiker-Tipps der alten Hasen
 
-- **Erstattungsverfahren PL → DE-Mandant**: Antrag bei der polnischen Finanzverwaltung (Krajowa Administracja Skarbowa, KAS); Online-Portal "e-Urzad Skarbowy" (vom Anwender mit aktuellem Stand des polnischen Online-Portals zu verifizieren). Bearbeitungsdauer in der Praxis typischerweise mehrere Monate; Antragsformular CFR-1 fuer Ansaessigkeitsbescheinigung als Anlage.
+- **Erstattungsverfahren PL → DE-Mandant**: Antrag bei der polnischen Finanzverwaltung (Krajowa Administracja Skarbowa, KAS); Online-Portal "e-Urzad Skarbowy" (vom Anwender mit aktuellem Stand des polnischen Online-Portals zu verifizieren). Bearbeitungsdauer in der Praxis typischerweise mehrere Monate; Antragsformular CFR-1 für Ansaessigkeitsbescheinigung als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen sind Deutsch und Polnisch; englische Arbeitsuebersetzungen kursieren, sind aber nicht authentisch. Bei strittiger Auslegung beide authentischen Sprachfassungen vergleichen — historisch waren z.B. die Begriffe "Einkuenfte aus selbstaendiger Arbeit" und "samodzielna dzialalnosc" leicht abweichend gefasst.
 - **Lokaler Berater**: Bei polnischer Sp.z o.o. mit Niederlassung in DE und umgekehrt empfiehlt sich Hinzuziehung eines polnischen "doradca podatkowy" (zertifizierter Steuerberater) wegen polnischer Buchfuehrungspflichten und CIT-8-Erklaerung.
-- **Apostille**: PL-Behoerden akzeptieren EU-Ansaessigkeitsbescheinigungen ohne Apostille; bei Notarurkunden im Schenkungs-/Erbfall ist Apostille (Haager Uebereinkommen) erforderlich.
+- **Apostille**: PL-Behörden akzeptieren EU-Ansaessigkeitsbescheinigungen ohne Apostille; bei Notarurkunden im Schenkungs-/Erbfall ist Apostille (Haager Uebereinkommen) erforderlich.
 
 ## Edge Cases und Was-Pruefer-Triggert
 
 - **Sondersteuer 19 Prozent auf Liquidationen**: Bei Aufloesung einer polnischen Sp.z o.o. mit deutschem Anteilseigner faellt nach polnischem Recht regelmaessig eine Liquidationsteuer von 19 Prozent an, die DBA-rechtlich wie Dividendensubstitut zu behandeln ist (Art. 10) — konkrete Behandlung mit polnischem Berater abstimmen, da die polnische Verwaltung in der Praxis differenziert.
-- **EU-Pendler-Konstellation**: Polen kennt einen Sonderstatus fuer Grenzpendler (Werkbahnen, Wochenendpendler) — keine Grenzgaengerregelung im DBA-Polen, aber polnische Sozialversicherungspflicht oder DE-Sozialversicherungspflicht nach EU-VO 883/2004.
+- **EU-Pendler-Konstellation**: Polen kennt einen Sonderstatus für Grenzpendler (Werkbahnen, Wochenendpendler) — keine Grenzgaengerregelung im DBA-Polen, aber polnische Sozialversicherungspflicht oder DE-Sozialversicherungspflicht nach EU-VO 883/2004.
 - **Subject-to-Tax-Klausel im Protokoll**: § 50d Abs. 9 EStG kann bei Pensionseinkuenften mit Wohnsitz PL zum Rueckfall in die DE-Besteuerung fuehren — Pruefung anhand der polnischen ZUS-Rentenbescheinigung.
-- **Beteiligungsschwelle 10 Prozent**: Schachtel nach DBA bei direkter Beteiligung mindestens 10 Prozent (Art. 10 Abs. 2 Buchst. a); EU-MTRL setzt fuer 0-Prozent-Schachtel ebenfalls 10 Prozent voraus (§ 43b Abs. 2 EStG).
+- **Beteiligungsschwelle 10 Prozent**: Schachtel nach DBA bei direkter Beteiligung mindestens 10 Prozent (Art. 10 Abs. 2 Buchst. a); EU-MTRL setzt für 0-Prozent-Schachtel ebenfalls 10 Prozent voraus (§ 43b Abs. 2 EStG).
 
 ## Trade-offs
 
@@ -122,19 +122,19 @@ Mandant mit Wohnsitz Deutschland erhaelt Dividende 10.000 EUR aus polnischer Sp.
 - DE-Resteuer: 1.137,50 EUR.
 - Gesamtbelastung: 2.637,50 EUR (kein Anrechnungsverlust, da PL-QSt unter DE-Steuer).
 
-Bei Schachtel-Beteiligung 10 Prozent natuerlicher Person waere nach DBA der reduzierte Satz 5 Prozent; fuer Kapitalgesellschaften ist EU-MTRL (§ 43b EStG) mit 0 Prozent vorrangig.
+Bei Schachtel-Beteiligung 10 Prozent natuerlicher Person waere nach DBA der reduzierte Satz 5 Prozent; für Kapitalgesellschaften ist EU-MTRL (§ 43b EStG) mit 0 Prozent vorrangig.
 
 ## Mandatsablauf in der Praxis
 
 1. **Aufnahme**: Konstellation (Bau-Entsendung, Pflege-Arbeitnehmer, IT, Beteiligung, Pension).
 2. **Strukturierung**: Bei Bau-Entsendung 12-Monatsfrist; bei Pflege Werkvertrag-/AUe-Trennung und A1; bei Beteiligung EU-MTRL nutzen.
 3. **Antraege**: Ansaessigkeitsbescheinigung CFR-1 der Krajowa Administracja Skarbowa; A1-Bescheinigung Sozialversicherung; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
-4. **Laufende Compliance**: PL-Erklaerung jaehrlich (z.B. CIT-8 fuer Sp.z o.o.); DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive.
+4. **Laufende Compliance**: PL-Erklaerung jaehrlich (z.B. CIT-8 für Sp.z o.o.); DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive.
 5. **Audit-Vorbereitung**: PL-Pruefer formal und akribisch bei Verrechnungspreisen; DE-FA-Pruefung Subject-to-Tax und MLI-Anwendung ab VZ 2020.
 
-## Ausgabeformat fuer Mandanten-Memo Polen
+## Ausgabeformat für Mandanten-Memo Polen
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt** (knapp): Wohnsitze, Beteiligungs- oder Arbeitskonstellation, Zeitraum.
 2. **Frage(n)**: konkrete Mandantenfragen — Besteuerungsrecht, Quellensteuer, Erstattung.

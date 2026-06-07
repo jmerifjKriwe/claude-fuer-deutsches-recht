@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in De
 
 Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhaeltnis GG-Grundrechte zu EMRK. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -23,7 +40,7 @@ Deutschland ratifizierte die Europaeische Menschenrechtskonvention (EMRK) am 5. 
 
 ## Kernnormen / Kernquellen
 
-- **EMRK (BGBl. II 1952, 685)**: Grundlage der EGMR-Zustaendigkeit
+- **EMRK (BGBl. II 1952, 685)**: Grundlage der EGMR-Zuständigkeit
 - **GG Art. 25**: Voelkergewohnheitsrecht im Rang von Bundesrecht
 - **BVerfGE 74, 358** (1987): EMRK als einfaches Bundesrecht
 - **BVerfGE 111, 307** (2004, Goerguelue): Pflicht zur Beruecksichtigung von EGMR-Entscheidungen
@@ -41,13 +58,13 @@ Deutschland ratifizierte die Europaeische Menschenrechtskonvention (EMRK) am 5. 
 1. Rang der EMRK: Unter dem GG oder integraler Bestandteil des Verfassungsrechts?
 2. BVerfGE 111, 307: Muss jedes deutsche Gericht EGMR-Urteile beruecksichtigen?
 3. Caroline-Urteil EGMR: Hat der EGMR das deutsche Abwaegungsrecht zu Pressefreiheit korrigiert?
-4. EMRK und Asylrecht: Welche Bedeutung hatte die EMRK fuer Abschiebungsschutz?
+4. EMRK und Asylrecht: Welche Bedeutung hatte die EMRK für Abschiebungsschutz?
 5. Verhaeltnis EGMR und EuGH: Zwei europaeische Menschenrechtsinstanzen?
 
 ## Methodik
 
 - EMRK: BGBl. II 1952, 685; Volltext: convention.coe.int
-- EGMR-Urteile: hudoc.echr.coe.int fuer vollstaendige Entscheidungen
+- EGMR-Urteile: hudoc.echr.coe.int für vollstaendige Entscheidungen
 - BVerfGE: bverfg.de
 - GG Art. 25: gesetze-im-internet.de
 

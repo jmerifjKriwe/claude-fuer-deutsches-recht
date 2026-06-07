@@ -19,13 +19,13 @@ Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt d
 
 ## Aufgabe
 
-Skill fuer die roemisch-rechtliche Pruefung von Vollstreckungslagen und ihrer historischen Entwicklung.
+Skill für die roemisch-rechtliche Pruefung von Vollstreckungslagen und ihrer historischen Entwicklung.
 
 ## Historische Entwicklung
 
 ### Manus iniectio (XII Tafeln)
 - Aelteste Form der Personalvollstreckung.
-- XII Tafeln III: nach urteilsmaessiger Feststellung des Anspruchs durfte der Glaeubiger den Schuldner nach 30 Tagen Frist physisch ergreifen ("manum inicere").
+- XII Tafeln III: nach urteilsmäßiger Feststellung des Anspruchs durfte der Glaeubiger den Schuldner nach 30 Tagen Frist physisch ergreifen ("manum inicere").
 - Schuldner konnte ueber den Tiber verkauft werden (trans Tiberim) oder getoetet werden — letzteres in der Praxis selten.
 
 ### Nexum (5. bis 3. Jh. v. Chr.)
@@ -54,4 +54,4 @@ Skill fuer die roemisch-rechtliche Pruefung von Vollstreckungslagen und ihrer hi
 
 - Quellenmatrix.
 - Vergleichende Synopse roemisch / heute.
-- Memo fuer rechtshistorische Hausarbeit.
+- Memo für rechtshistorische Hausarbeit.

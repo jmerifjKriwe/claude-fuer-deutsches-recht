@@ -64,13 +64,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Straftaten (ohne Entziehung) | 5 Jahre |
 | Straftaten (mit Fahrerlaubnis-Entziehung) | 10 Jahre |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **FAER-Auskunft beantragen** (§ 30 StVG) — Mandant beim KBA Flensburg (Kraftfahrtbundesamt).
 2. **Punktestand berechnen** nach neuer Eintragung.
 3. **Tilgungsfristen pruefen:** Laufen alte Eintragungen demnachst aus?
 4. **Kursoption pruefen:** <= 5 Punkte → freiwilliger Kurs nach § 4 Abs. 7 StVG.
-5. **MPU-Risiko pruefen:** Bei Alkohol- oder Drogendelikten koennen Behoerden MPU anordnen.
+5. **MPU-Risiko pruefen:** Bei Alkohol- oder Drogendelikten koennen Behörden MPU anordnen.
 6. **Verwaltungsrechtlichen Weg einschlagen** bei unberechtigter Eintragung (Widerspruch, VG-Klage).
 
 ## Harte Leitplanken

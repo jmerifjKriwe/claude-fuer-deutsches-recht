@@ -37,16 +37,16 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 - **BGB §§ 823, 831, 832** Delikt und Geschaeftsherrenhaftung.
 - **StGB §§ 223 ff., 211 ff.** Strafrechtliche Folgen.
 - **VVG, AHB** Haftpflichtversicherung.
-- **HeilberG der Laender** Aerztekammer-Schiedsstellen.
+- **HeilberG der Länder** Aerztekammer-Schiedsstellen.
 - **ZPO §§ 142, 411a, 412** Beweisrecht.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Akte sichern:** Vollstaendige Patientenakte mit Pflege-, OP-, Anaesthesieprotokoll und Aufklaerung; Versionierung, Manipulationssicherung.
 2. **Versicherung informieren:** Schadensmeldung unverzueglich; Obliegenheiten beachten.
 3. **Interne Aufarbeitung:** Critical Incident Reporting (CIRS), Ursachenanalyse, Lessons Learned (ohne Schuldzuweisung gegen Aufklaerungseffekt).
 4. **Externes Gutachten:** Frueh ueber Versicherung oder unabhaengig anfordern; Gutachterauswahl wichtig.
 5. **Stellungnahme zum Vorwurf:** Sachverhalt, Doku, Begruendung; Gegendarstellung wenn moeglich.
-6. **Aerztekammer-Schiedsstelle:** Vermittlungsverfahren, oft kostenlos; Hemmung Verjaehrung.
+6. **Aerztekammer-Schiedsstelle:** Vermittlungsverfahren, oft kostenlos; Hemmung Verjährung.
 7. **Klage Zivilgericht:** Sachverstaendigenbeweis; Beweislast und § 630h-Risiken pruefen.
 
 ## Trade-off-Matrix
@@ -62,7 +62,7 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 ## Praxistipps
 - BGH (staend. Rspr.) lehnt vorschnelle Anerkennung ab; CIRS-Bericht ist kein Schuldanerkenntnis.
 - § 630h BGB: Dokumentationsluecke vermutet "nicht durchgefuehrt" — Doku-Vollstaendigkeit ist Schluessel.
-- Aerztekammer-Schiedsstelle hemmt Verjaehrung (§ 204 Abs. 1 Nr. 4 BGB).
+- Aerztekammer-Schiedsstelle hemmt Verjährung (§ 204 Abs. 1 Nr. 4 BGB).
 - Eigene Gutachter sorgfaeltig auswaehlen — Reputation und Fachrichtung passend.
 - Strafverfahren parallel zum Zivilverfahren erfordert Koordination; Schweigerechte beachten.
 
@@ -92,6 +92,6 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 - BGB §§ 280, 630a-630h, 823, 831.
 - StGB §§ 211 ff., 223 ff.
 - VVG, AHB.
-- HeilberG Laender (Live-Check Landesaerztekammern).
+- HeilberG Länder (Live-Check Landesaerztekammern).
 - BGH, staend. Rspr. zu Behandlungsfehler, Aufklaerung, Beweislast.
 - ZPO §§ 142, 411a, 412.

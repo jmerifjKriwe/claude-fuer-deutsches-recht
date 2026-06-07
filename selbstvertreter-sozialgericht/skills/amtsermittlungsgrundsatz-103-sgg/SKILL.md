@@ -3,7 +3,7 @@ name: amtsermittlungsgrundsatz-103-sgg
 description: "Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern."
 ---
 
-# Das Gericht ermittelt fuer Sie — § 103 SGG
+# Das Gericht ermittelt für Sie — § 103 SGG
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozia
 
 ## Worum geht es?
 
-Vor dem Sozialgericht muessen Sie nicht alles selbst beweisen. Das Gericht hat die Pflicht, von Amts wegen zu ermitteln. Es zieht Akten bei, holt Gutachten ein, fragt Aerzte. Diese Skill zeigt, was das fuer Sie konkret bedeutet.
+Vor dem Sozialgericht muessen Sie nicht alles selbst beweisen. Das Gericht hat die Pflicht, von Amts wegen zu ermitteln. Es zieht Akten bei, holt Gutachten ein, fragt Aerzte. Diese Skill zeigt, was das für Sie konkret bedeutet.
 
 ## In einfacher Sprache
 
@@ -28,7 +28,7 @@ Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie muessen nicht al
 ## Fachbegriffe (kurz erklaert)
 
 - **Amtsermittlung**: Das Gericht muss von sich aus die Wahrheit erforschen.
-- **Untersuchungsgrundsatz**: Anderer Begriff fuer Amtsermittlung.
+- **Untersuchungsgrundsatz**: Anderer Begriff für Amtsermittlung.
 - **Mitwirkungspflicht**: Sie muessen mitmachen, aber nicht alles alleine beweisen.
 - **Sachverstaendigen-Gutachten**: Bewertung durch einen Experten (Arzt, Gutachter).
 
@@ -39,13 +39,13 @@ Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie muessen nicht al
 - **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klaegers.
 - **§ 60 SGB I** — Mitwirkungspflichten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was das Gericht von Amts wegen tut
 
 Das Gericht:
 
-- **Zieht Verwaltungsakte bei** (alle Unterlagen der beklagten Behoerde).
+- **Zieht Verwaltungsakte bei** (alle Unterlagen der beklagten Behörde).
 - **Holt aerztliche Befundberichte ein** (Hausarzt, Facharzt, Klinik).
 - **Beauftragt Sachverstaendigen-Gutachten** (z.B. Orthopaedie, Psychiatrie).
 - **Befragt Zeugen** (auf Antrag und von Amts wegen).

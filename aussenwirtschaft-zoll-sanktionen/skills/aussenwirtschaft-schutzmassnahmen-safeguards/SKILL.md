@@ -34,9 +34,9 @@ EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/
 
 ## Rechtsrahmen
 
-- **VO (EU) 2015/478 Art. 16**: Safeguard-Massnahmen bei Einfuhren aus WTO-Laendern.
-- **VO (EU) 2015/755 Art. 13**: Safeguards fuer Einfuhren aus Laendern ohne Marktwirtschaft.
-- **GATT Art. XIX**: WTO-Grundlage fuer Schutzmassnahmen.
+- **VO (EU) 2015/478 Art. 16**: Safeguard-Massnahmen bei Einfuhren aus WTO-Ländern.
+- **VO (EU) 2015/755 Art. 13**: Safeguards für Einfuhren aus Ländern ohne Marktwirtschaft.
+- **GATT Art. XIX**: WTO-Grundlage für Schutzmassnahmen.
 - **VO (EU) 2019/159**: Stahlschutzmasnahmen-Verordnung (aktuell in Kraft).
 - **UZK Art. 56**: Anwendung von Safeguard-Zolls aetzen in der Zollanmeldung.
 
@@ -47,7 +47,7 @@ EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/
 - [ ] Antrag auf Kontingent fristgerecht eingereicht?
 - [ ] Status als interessierte Partei in Untersuchung registriert?
 - [ ] Ablauf der Massnahme im Blick und Reaktionsplanung vorbereitet?
-- [ ] Abgrenzung Safeguard/Antidumping fuer kumulierte Belastung analysiert?
+- [ ] Abgrenzung Safeguard/Antidumping für kumulierte Belastung analysiert?
 
 ## Typische Fallstricke
 
@@ -60,7 +60,7 @@ EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Safeguard-Pruefvermerk mit TARIC-Abfrage-Nachweis, Kontingentsantrag-Vorlage, Reaktionsplan fuer laufende Untersuchungen und Monitoring-Kalender.
+Safeguard-Pruefvermerk mit TARIC-Abfrage-Nachweis, Kontingentsantrag-Vorlage, Reaktionsplan für laufende Untersuchungen und Monitoring-Kalender.
 
 ## Quellen
 

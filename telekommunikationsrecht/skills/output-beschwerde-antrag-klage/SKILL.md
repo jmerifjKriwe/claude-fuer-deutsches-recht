@@ -33,7 +33,7 @@ Entwurf im richtigen Format mit Anlagenverzeichnis, Fristenblock und Beweisangeb
 
 ## Anschluss-Skills
 
-- tk-zustaendigkeits-router-bnetza-vg-lg
+- tk-zuständigkeits-router-bnetza-vg-lg
 - tk-beschwerde-dashboard-bnetza
 
 ## Qualitätsregel

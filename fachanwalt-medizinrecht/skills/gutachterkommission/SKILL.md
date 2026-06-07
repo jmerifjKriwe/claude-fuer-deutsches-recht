@@ -15,7 +15,7 @@ description: "Gutachterkommission im Medizinrecht: prüft konkret Gutachterkommi
 | `fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung` | Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung nutzen: Anwendungsfall Patient oder Anwalt erwägt Schlichttungsverfahren vor Aerztekammer als kostenguenstige Alternative zur Klage. § 630a BGB Behandlungsvertrag, Schlichtungsordnung der Aerztekammern, MDK-Prüfung. Prüfraster Schlichttungsverfahren-Zulässigkeit, Korrespondenzstrategie mit Berufshaftpflicht-Versicherer, Gutachten-Strategie, Vergleichsverhandlung foerdern. Output Schlichtungs-Strategie mit Antragsentwurf und Verhandlungs-Memo. Abgrenzung zu Arzthaftungsklage und zu Vergleichsverhandlung-Strategie. |
 | `fachanwalt-medizinrecht-kassenarztrecht` | Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwendungsfall Arzt beantragt Vertragsarztzulassung hat Zulassungsprobleme oder streitet mit KV um Honorar Berechtigung oder Zulassungsstatus. § 95 SGB V Zulassung, § 96 SGB V Zulassungsausschuss, § 103 SGB V Nachbesetzung, EBM-Abrechnung. Prüfraster Zulassungsvoraussetzungen, Bedarfsplanung Sperrgebiete, Facharzt-Standard, Honorarsystem EBM RLV, KV-Prüfungsverfahren. Output Zulassungsantrag oder Widerspruchs-Strategie mit Rechtsschutzsystem. Abgrenzung zu Honorarvertrag-KV für reine Honorarstreitigkeiten und zu Approbations-Widerspruch. |
 | `fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid` | Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung. § 12 SGB V Wirtschaftlichkeitsgebot, BVerfGE 115/25 NZB-Entscheidung Off-Label-Use, SGB V Arzneimittel-Richtlinien. Prüfraster Off-Label-Voraussetzungen medizinische Indikation, Erstattungsantrag und Widerspruch bei GKV, Klage Sozialgericht bei Ablehnung, Long-Covid Sonderregelungen. Output Widerspruchs- oder Klage-Schriftsatz für GKV-Erstattungsstreit. Abgrenzung zu Kassenarztrecht und zu Behandlungsvertrag-630a. |
-| `fachanwalt-medizinrecht-orientierung` | Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin fachanwalt-sozialrecht und kanzlei-allgemein. |
+| `fachanwalt-medizinrecht-orientierung` | Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Länder) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin fachanwalt-sozialrecht und kanzlei-allgemein. |
 | `fertilitaetsmedizin-recht` | Fertilitätsmedizin Recht: moderner Medizinrechts-Skill für IVF, Samenspende, Embryonenschutz, Abstammung, Aufklärung und Haftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `field-safety-corrective-action` | FSCA und Rückrufkommunikation: moderner Medizinrechts-Skill für Field Safety Corrective Action, Sicherheitsmitteilung, Patientennachverfolgung und Klinikpflichten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
@@ -193,7 +193,7 @@ Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus
 - Grober Fehler evident → Nach Schlichtungsgutachten direkter Vergleich anstreben
 - Ungeklärter Sachverhalt → Schlichtungsverfahren für kostenloses SV-Gutachten nutzen
 - Versicherer verweigert Kooperation → LG-Klage; gerichtliches SV-Gutachten
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Schritt-für-Schritt-Workflow
 
@@ -269,7 +269,7 @@ Anlagen: Patientenakte, Privatgutachten (falls vorhanden), Vollmacht
 3. Welcher Bescheid liegt vor (Quartal, Aktenzeichen) und welche Frist läuft (Widerspruch zum Berufungsausschuss § 96 SGB V einen Monat)?
 4. Sind Praxisbesonderheiten oder atypische Patientenstrukturen vorhanden (Behindertenpraxis, Anlaufpraxis, Sondergruppen)?
 5. Welche wirtschaftlichen Auswirkungen drohen — Rückforderung, Honorarkürzung, Zulassungsverlust, Strafverfahren?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen und Verfahren
 
@@ -354,7 +354,7 @@ Patientenklientel mit ueberdurchschnittlichem Behandlungsbedarf
 rechtfertigt Behandlungsmuster. Belege als Anlagen.
 
 IV. Verfahrensruegen
-1. Anhoerung § 24 SGB X unterblieben oder mangelhaft.
+1. Anhörung § 24 SGB X unterblieben oder mangelhaft.
 2. Begruendung § 35 SGB X unzureichend.
 
 V. Aussetzung Vollziehung
@@ -519,7 +519,7 @@ IV. BEWEISANGEBOTE
 8. Wurden Kosten bereits selbst verauslagt? Falls ja: Höhe und Belegnachweis?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -606,7 +606,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Off-Label-Use GKV-Erstattung pruefen | Widerspruchsschreiben; Template unten |
-| Variante A — Zulassung in anderen EU-Laendern | Art. 3 Abs. 4 AMG-Analogie; Importpraeparat-Genehmigung pruefen |
+| Variante A — Zulassung in anderen EU-Ländern | Art. 3 Abs. 4 AMG-Analogie; Importpraeparat-Genehmigung pruefen |
 | Variante B — Genehmigungsfiktion eingetreten | Eigenständige Feststellungsklage § 13 Abs. 3a SGB V; Aktenzeichen-Recherche zur aktuellen BSG-Linie zur Genehmigungsfiktion in dejure.org / bsg.bund.de mit Stichwort "§ 13 Abs. 3a SGB V Genehmigungsfiktion" live prüfen |
 | Variante C — Keine klinische Studie verfuegbar | Einzelfallentscheidung GBA; individuelle Heilversuche |
 
@@ -821,7 +821,7 @@ Mit freundlichen Grüßen
 
 ## 4. `fachanwalt-medizinrecht-orientierung`
 
-**Fokus:** Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin fachanwalt-sozialrecht und kanzlei-allgemein.
+**Fokus:** Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Länder) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin fachanwalt-sozialrecht und kanzlei-allgemein.
 
 # Fachanwalt für Medizinrecht — Orientierung
 

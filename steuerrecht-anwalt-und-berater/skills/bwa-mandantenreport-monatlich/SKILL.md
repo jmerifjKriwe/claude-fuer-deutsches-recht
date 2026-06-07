@@ -117,7 +117,7 @@ SEITE 4: EMPFEHLUNGSBLOCK
 
 - 4-seitiger Mandantenreport als PDF.
 - Versandprotokoll im Mandantenakte.
-- Wiedervorlage fuer Folgemonat.
+- Wiedervorlage für Folgemonat.
 
 ## Strategie und Praxis-Tipps
 

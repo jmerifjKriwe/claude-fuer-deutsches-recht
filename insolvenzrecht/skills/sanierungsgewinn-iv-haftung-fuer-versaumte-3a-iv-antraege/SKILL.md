@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege
-description: "Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext fuer Verteidigungsschriftsatz und fuer praeventive Aktendokumentation im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO für versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext für Verteidigungsschriftsatz und für praeventive Aktendokumentation im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Sanierungsgewinn — IV-Haftung fuer versaeumte Paragraph 3a-Antraege
+# Sanierungsgewinn — IV-Haftung für versaeumte Paragraph 3a-Antraege
 
 ## Arbeitsbereich
 
-Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext fuer Verteidigungsschriftsatz und fuer praeventive Aktendokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO für versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext für Verteidigungsschriftsatz und für praeventive Aktendokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer vers
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn — IV-Haftung fuer versaeumte Paragraph 3a-Antraege` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn — IV-Haftung für versaeumte Paragraph 3a-Antraege` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
@@ -68,10 +68,10 @@ Kaltstart-Fragen:
 | Paragraph 7b GewStG-Parallel | Eigenstaendiger Antrag | Erklaerung GewSt |
 | Plan-Text steuerlich pruefen | Darstellender Teil enthaelt die Vier-Voraussetzungs-Belege | Plan-Entwurf |
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Pflichtverletzung qualifizieren.** Welcher Schritt wurde versaeumt? War er pflichtgemaess geschuldet?
-2. **Verschulden pruefen.** Paragraph 60 InsO verlangt Verschulden. Der Verwalter haftet **nicht** fuer jeden Fehler, sondern fuer schuldhafte Pflichtverletzung. Bei komplexen Steuerthemen ist die Hinzuziehung eines StB regelmaessig pflichtgemaess; die Auslagerung allein entlastet aber nicht.
+2. **Verschulden pruefen.** Paragraph 60 InsO verlangt Verschulden. Der Verwalter haftet **nicht** für jeden Fehler, sondern für schuldhafte Pflichtverletzung. Bei komplexen Steuerthemen ist die Hinzuziehung eines StB regelmaessig pflichtgemaess; die Auslagerung allein entlastet aber nicht.
 3. **Schaden berechnen.** Mehr-Steuer = Schaden. Aber Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG durchspielen: wenn Verlustvortraege ohnehin den Ertrag aufgezehrt haetten, ist der Schaden null oder gering.
 4. **Kausalitaet pruefen.** Auch ohne den versaeumten Antrag haette das FA ggf. anders entschieden — Beweislast und Vermutungs-Regeln.
 5. **Versicherungsdeckung pruefen.** Die IV-Berufshaftpflicht deckt typischerweise auch Steuerthemen, sofern der Verwalter sie nicht grob fahrlaessig versaeumt hat.

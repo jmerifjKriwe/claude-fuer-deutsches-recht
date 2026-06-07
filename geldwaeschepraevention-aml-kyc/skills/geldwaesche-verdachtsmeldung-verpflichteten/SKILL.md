@@ -23,7 +23,7 @@ Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG über goAML-P
 3. Welche Belege (Transaktionsdaten, KYC-Dokumente, Screeningprotokolle) liegen vor?
 4. Ist das Tipping-Off-Verbot (§ 43 Abs. 5 GwG) relevant — darf der Kunde informiert werden?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 
 Stand 05/2026. Rechtsprechung im Mandat live verifizieren.
 

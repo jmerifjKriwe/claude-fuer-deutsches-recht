@@ -42,7 +42,7 @@ Buergermeister einer Mittelstadt erlaesst Verfuegung.
 ## Heutige Fortwirkung
 
 - Art. 28 II GG.
-- Gemeindeordnungen der Laender.
+- Gemeindeordnungen der Länder.
 
 ## Pruefraster
 

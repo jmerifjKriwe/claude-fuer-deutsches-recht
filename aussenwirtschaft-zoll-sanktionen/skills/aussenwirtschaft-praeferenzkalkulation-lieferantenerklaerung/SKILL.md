@@ -19,14 +19,14 @@ Berechnung und Dokumentation des praeferenziellen Ursprungs nach UZK Art. 64 und
 
 ## Mandantenfall
 
-- Exporteur nach Suedkorea (KOREU) muss praeferenziellen EU-Ursprung fuer Tarifvorteil nachweisen.
+- Exporteur nach Suedkorea (KOREU) muss praeferenziellen EU-Ursprung für Tarifvorteil nachweisen.
 - Lieferant gibt Lieferantenerklaerung ab; Nachverifizierungsanfrage des Zollbehorde in Japan.
-- Unternehmen hat Zulieferer in mehreren EU-Laendern; bilaterale Kumulierung nach GSP-Regeln.
+- Unternehmen hat Zulieferer in mehreren EU-Ländern; bilaterale Kumulierung nach GSP-Regeln.
 
 ## Erste Schritte
 
 1. Handelsabkommen mit Bestimmungsland identifizieren (KOREU, CETA, EU-UK, EPA) und Ursprungsprotokoll abrufen.
-2. Listenregel fuer HS-Code der Ware im Ursprungsprotokoll nachschlagen.
+2. Listenregel für HS-Code der Ware im Ursprungsprotokoll nachschlagen.
 3. Stuckliste (BOM) mit Ursprung aller Materialien erstellen.
 4. Listenregel anwenden: HS-Wechsel und/oder Wertschwell-Berechnung.
 5. Kumulierungsmoeglichkeiten pruefen (bilateral, diagonal, vollstaendig).
@@ -35,15 +35,15 @@ Berechnung und Dokumentation des praeferenziellen Ursprungs nach UZK Art. 64 und
 ## Rechtsrahmen
 
 - **UZK Art. 64**: Praeferenzieller Ursprung und Handelsabkommen.
-- **UZK-DA Anhang 22-03**: Ursprungsregeln fuer allgemeines Praeferenzsystem.
+- **UZK-DA Anhang 22-03**: Ursprungsregeln für allgemeines Praeferenzsystem.
 - **VO (EU) 1207/2001**: Lieferantenerklaerungen; Form und Inhalt.
 - **VO (EU) 2015/2447 Art. 57-66**: Ursprungsnachweis und REX-System.
-- **UZK Art. 62**: Ursprungsnachweis fuer zollbefreiten Import.**
+- **UZK Art. 62**: Ursprungsnachweis für zollbefreiten Import.**
 
 ## Pruef-Raster
 
-- [ ] Handelsabkommen und Ursprungsprotokoll fuer Bestimmungsland korrekt identifiziert?
-- [ ] Listenregel fuer HS-Code korrekt angewendet?
+- [ ] Handelsabkommen und Ursprungsprotokoll für Bestimmungsland korrekt identifiziert?
+- [ ] Listenregel für HS-Code korrekt angewendet?
 - [ ] Stuckliste vollstaendig und Ursprung aller Materialien belegt?
 - [ ] Kumulierungsmoeglichkeiten geprueft?
 - [ ] Lieferantenerklaerung form- und fristgerecht erstellt?
@@ -60,7 +60,7 @@ Berechnung und Dokumentation des praeferenziellen Ursprungs nach UZK Art. 64 und
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

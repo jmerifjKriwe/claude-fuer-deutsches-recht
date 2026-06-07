@@ -12,7 +12,7 @@ description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: p
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `kueschk-formfehler-pruefen` | Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhoerung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur. |
+| `kueschk-formfehler-pruefen` | Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhörung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur. |
 | `kueschk-guetetermin-strategie-und-sprechzettel` | Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen. |
 | `kueschk-kammertermin-sprechzettel` | Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkündung; Prozessleitung durch Vorsitzenden. |
 | `kueschk-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begründung nach KSchG-Prüfschema; Beweisangebote; BAG-Zitierstil. |
@@ -28,7 +28,7 @@ description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: p
 
 ## 1. `kueschk-formfehler-pruefen`
 
-**Fokus:** Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhoerung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur.
+**Fokus:** Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhörung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur.
 
 # Formfehler bei der Kündigung prüfen
 
@@ -396,7 +396,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 4. Formfehler vorhanden? (§ 623 BGB; § 174 BGB; § 102 BetrVG)
 5. Welcher Haupt-Angriffspunkt? (Formfehler / KSchG-Anwendbarkeit / materieller Grund)
 6. Weiterbeschäftigungsantrag stellen? (nur wenn Mandant tatsächlich zurück will)
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 

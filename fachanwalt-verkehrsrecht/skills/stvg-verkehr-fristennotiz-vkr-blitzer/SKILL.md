@@ -12,7 +12,7 @@ description: "Stvg Verkehr Fristennotiz VKR Blitzer im Plugin Fachanwalt Verkehr
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-stvg-fristen-form-und-zustaendigkeit` | Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-stvg-fristen-form-und-zuständigkeit` | Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verkehr-fristennotiz-und-naechster-schritt` | Verkehr: Fristennotiz und nächster Schritt im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vkr-blitzer-messverfahren-spezial` | Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 BvR 1167/20), Verwertbarkeit, Beweisantrag Sachverstaendigengutachten. Pruefraster und Schriftsatzbausteine. |
 
@@ -25,7 +25,7 @@ description: "Stvg Verkehr Fristennotiz VKR Blitzer im Plugin Fachanwalt Verkehr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüfungslinien im Detail
 
-## 1. `spezial-stvg-fristen-form-und-zustaendigkeit`
+## 1. `spezial-stvg-fristen-form-und-zuständigkeit`
 
 **Fokus:** Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
@@ -101,10 +101,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verkehrsrechts-Fristennotiz / naechster Schritt Bausteine
 - **Frist-Uebersicht pro Saeule:**
- - **Verkehrszivilrecht:** Verjaehrung Schaden § 195 BGB 3 Jahre ab Kenntnis § 199 BGB; Verzug § 286 BGB; Zinsen § 288 BGB; KH-Versicherer Frist § 14 PflVG 4 Wochen bei klarer Haftung.
- - **OWi:** Einspruch § 67 OWiG 2 Wochen; Verjaehrung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis Urteil 1. Instanz); Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat.
+ - **Verkehrszivilrecht:** Verjährung Schaden § 195 BGB 3 Jahre ab Kenntnis § 199 BGB; Verzug § 286 BGB; Zinsen § 288 BGB; KH-Versicherer Frist § 14 PflVG 4 Wochen bei klarer Haftung.
+ - **OWi:** Einspruch § 67 OWiG 2 Wochen; Verjährung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis Urteil 1. Instanz); Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat.
  - **Verkehrsstrafrecht:** § 410 StPO Strafbefehl-Einspruch 2 Wochen; § 314 StPO Berufung 1 Woche; § 341 / § 345 StPO Revision 1 Woche / 1 Monat.
- - **FeV:** Anhoerungsfrist regelmaessig 1-2 Wochen; MPU-Vorlage 2-3 Monate; Wiedererteilung § 20 FeV.
+ - **FeV:** Anhörungsfrist regelmaessig 1-2 Wochen; MPU-Vorlage 2-3 Monate; Wiedererteilung § 20 FeV.
  - **Versicherung:** § 30 VVG Anzeige unverzueglich; § 28 VVG Leistungsfreiheit; § 86 VVG Forderungsuebergang.
 - **Fristennotiz-Vorlage:**
  ```
@@ -123,7 +123,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Unfall mit Verletzten:** Sofort SV-Gutachten + Krankenakte + Krankenkasse-Anspruch § 116 SGB X; Versicherer in Anspruch nehmen.
  - **Bussgeldbescheid:** Akteneinsicht § 49 OWiG sofort; Einspruchsentscheidung in 2 Wochen.
  - **Vorlaeufige Entziehung Fahrerlaubnis § 111a StPO:** Beschwerde § 304 StPO sofort.
- - **Anhoerung FeV-Behoerde:** Stellungnahme mit anwaltlicher Pruefung Befunde.
+ - **Anhörung FeV-Behörde:** Stellungnahme mit anwaltlicher Pruefung Befunde.
  - **Schadenregulierung Versicherer:** Bei Streit oder Verzoegerung Klage zum AG / LG je Streitwert.
 - **Live-Quellen:**
  - gesetze-im-internet.de (Bundesnormen).
@@ -142,20 +142,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Normen-/Quellenanker:** BVerfG.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -172,10 +172,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

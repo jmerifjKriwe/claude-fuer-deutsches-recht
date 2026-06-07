@@ -54,7 +54,7 @@ Sie koennen nicht einfach sagen "stimmt nicht" zu allem in der Klage. § 138 II 
 - **§ 138 IV ZPO** — Mit Nichtwissen bestreiten bei nicht-eigener Wahrnehmung.
 - **§ 286 ZPO** — Freie Beweiswuerdigung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klaeger-Tatsachen sortieren
 
@@ -210,7 +210,7 @@ Jede Anspruchsnorm hat **Tatbestandsmerkmale** — das sind die Voraussetzungen,
 - **§ 286 BGB** — Verzug.
 - **§ 812 BGB** — Bereicherung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Norm im Gesetzbuch nachschlagen
 
@@ -305,7 +305,7 @@ Bei wirklich fehlendem Beweis: Anspruch scheitert. Skill `kein-beweis-folgen-lai
 ## Worauf Sie besonders achten muessen
 
 - **Jedes Merkmal zaehlt** — auch das "kleinste" Merkmal kann den Prozess kippen.
-- **Beweismittel pro Merkmal** — nicht nur ein Beweis fuer alles.
+- **Beweismittel pro Merkmal** — nicht nur ein Beweis für alles.
 - **Beweislast pruefen**: Wer beweist?
 - **Indizien sammeln**: Bei schlechter Beweis-Lage Hilfstatsachen sammeln.
 
@@ -363,7 +363,7 @@ Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet d
 - **§ 139 ZPO** — Hinweispflicht.
 - **§ 141 ZPO** — Persoenliches Erscheinen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — 2 Wochen vor Termin
 
@@ -389,7 +389,7 @@ Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet d
 - **Klage-Akten** (alle Schriftsaetze).
 - **Originale der Urkunden**.
 - **Stichwort-Notizen** der eigenen Argumente.
-- **Anfangs-Vorschlag fuer Vergleich** (falls eroeffnet).
+- **Anfangs-Vorschlag für Vergleich** (falls eroeffnet).
 - **Schreibmaterial**.
 
 ### Schritt 5 — Schluessel-Argumente vorbereiten
@@ -434,9 +434,9 @@ Vor Termin entscheiden:
 
 Bei Vergleich im Termin: nicht spontan entscheiden, sondern auf vorbereitete Spielraeume zurueckgreifen. Skill `vergleich-richtervorschlag-278-ii-zpo`.
 
-### Schritt 8 — Bei persoenlichem Erscheinen (§ 141 ZPO)
+### Schritt 8 — Bei persönlichem Erscheinen (§ 141 ZPO)
 
-Wenn Gericht persoenliches Erscheinen anordnet:
+Wenn Gericht persönliches Erscheinen anordnet:
 
 - Sie muessen selbst kommen.
 - Sie werden ggf. informatorisch befragt.
@@ -456,7 +456,7 @@ Wenn Gericht persoenliches Erscheinen anordnet:
 
 ## Worauf Sie besonders achten muessen
 
-- **Anwesenheit pflichtschuldig** bei persoenlichem Erscheinen.
+- **Anwesenheit pflichtschuldig** bei persönlichem Erscheinen.
 - **Originale dabei**.
 - **Eigene Schriftsaetze kennen**: Sie muessen wissen, was Sie geschrieben haben.
 - **Vergleichs-Spielraum** vorab definieren.

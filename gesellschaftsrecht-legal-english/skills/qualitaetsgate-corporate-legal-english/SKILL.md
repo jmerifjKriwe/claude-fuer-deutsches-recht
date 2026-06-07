@@ -1,13 +1,13 @@
 ---
 name: qualitaetsgate-corporate-legal-english
-description: "Schlusspruefung fuer Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen im Gesellschaftsrecht Legal English: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schlusspruefung für Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen im Gesellschaftsrecht Legal English: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Qualitätstor Corporate Legal English
 
 ## Arbeitsbereich
 
-Schlusspruefung fuer Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schlusspruefung für Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -62,7 +62,7 @@ Vor Ausgabe prüfen:
 
 - Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
 - Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung fuer die Partnerin oder den Mandanten.
+- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
 - Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
 
 ## Ausgabeformat

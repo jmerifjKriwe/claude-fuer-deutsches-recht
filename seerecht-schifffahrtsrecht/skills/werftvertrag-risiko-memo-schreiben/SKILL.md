@@ -1,13 +1,13 @@
 ---
 name: werftvertrag-risiko-memo-schreiben
-description: "Werftvertrag: Gesamtrisikobewertung fuer Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bei Neubauprojekt unter Werftvertrag: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Gesamtrisikobewertung für Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bei Neubauprojekt unter Werftvertrag: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werftvertrag – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Werftvertrag: Gesamtrisikobewertung fuer Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bei Neubauprojekt unter Werftvertrag: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Gesamtrisikobewertung für Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bei Neubauprojekt unter Werftvertrag: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,20 +26,20 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Werftvert
 3. Hauptrisiken identifizieren: Wertverfall; Reeder-Insolvenz; Vorrangglaeubigerrechte; Wrackpflicht.
 4. Handlungsoptionen mit Kosten-Nutzen-Analyse formulieren.
 5. Zeitkritische Massnahmen priorisieren: Arrest; Versicherungspruefung; ISM-Status.
-6. Empfehlungsmatrix fuer Entscheidungstraeger erstellen.
+6. Empfehlungsmatrix für Entscheidungstraeger erstellen.
 
 ## Rechtsrahmen
 - BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen; InsO §§ 49-51 Absonderung; WSG §§ 1-12 Wrackpflicht; ZPO §§ 864-871 Zwangsversteigerung.
 
 ## Prüfraster
-- Ist aktueller Schiffswert fuer Neubauprojekt unter Werftvertrag dokumentiert?
+- Ist aktueller Schiffswert für Neubauprojekt unter Werftvertrag dokumentiert?
 - Sind alle Vorrangglaeubigerrechte (gesetzliche Schiffsglaeubigerrechte) bekannt?
 - Ist Wrackbeseitigungs-Versicherungsdeckung bestaetigt?
 - Ist Insolvenzwahrscheinlichkeit des Reeders bewertet?
 - Sind Handlungsoptionen mit Zeitplan und Kosten aufgelistet?
 
 ## Typische Fallstricke
-- Schiffswertgutachten fuer Neubauprojekt unter Werftvertrag veraltet; Marktpreise schwanken stark.
+- Schiffswertgutachten für Neubauprojekt unter Werftvertrag veraltet; Marktpreise schwanken stark.
 - Memo ohne Priorisierung zeitkritischer Massnahmen fuehrt zu Untaetigkeit.
 - Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
 

@@ -230,8 +230,8 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 - **Gesetzeslage 05/2026:**
  - EEG 2023 (BGBl. I 2022 S. 1237, mehrfach geaendert)
  - Solarpaket I — BGBl. I 2024 S. 151 (Inkraftsetzung 16.05.2024)
- - WindBG 2022 (BGBl. I S. 1353) — 2-Prozent-Flaechenziel Laender
- - KWKG 2023 — Verlaengerung Foerderung bis 2030 (Wasserstoff-Pflicht ab 10 MW)
+ - WindBG 2022 (BGBl. I S. 1353) — 2-Prozent-Flaechenziel Länder
+ - KWKG 2023 — Verlaengerung Förderung bis 2030 (Wasserstoff-Pflicht ab 10 MW)
  - GEG 2024 (BGBl. I 2023 S. 280) — Heizungsgesetz, 65-Prozent-EE-Pflicht ab 2024 in Neubaugebieten
  - RED III — RL (EU) 2023/2413; Frist Umsetzung 21.05.2025; Beschleunigungsgebiete ab 21.02.2026 verpflichtend
  - BNetzA-Festlegungen Ausschreibungs-Hoechstwerte 2025/2026 ueber bundesnetzagentur.de aktuell pruefen

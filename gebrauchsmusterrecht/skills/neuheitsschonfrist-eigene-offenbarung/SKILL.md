@@ -57,7 +57,7 @@ Erstelle eine Offenbarungschronologie und unterscheide eigene Offenbarung von fr
 
 ### Internationale Folgen
 - Bei Anmeldung im Ausland (z. B. EP-Patent) gilt die deutsche Neuheitsgnade NICHT.
-- 6 Monate genuegen daher nur fuer DE-Gebrauchsmuster.
+- 6 Monate genuegen daher nur für DE-Gebrauchsmuster.
 - Bei US- oder JP-Strategie eigene Regelungen pruefen.
 
 ## Output

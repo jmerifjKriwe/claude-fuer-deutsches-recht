@@ -19,7 +19,7 @@ Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung. Die Prüfung 
 
 ## Aufgabe
 
-Skill fuer dienstliche Beurteilung — Plausibilisierung und Anlassbeurteilung.
+Skill für dienstliche Beurteilung — Plausibilisierung und Anlassbeurteilung.
 
 ## Norm
 

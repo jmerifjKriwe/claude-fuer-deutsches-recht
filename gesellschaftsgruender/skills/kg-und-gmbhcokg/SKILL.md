@@ -31,15 +31,15 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 
 1. **Steuerliche Transparenz gewuenscht?** Personengesellschaft: Gewinne direkt bei Gesellschaftern besteuert; GmbH: Koerperschaftsteuer.
 2. **Haftungsbeschraenkung gewuenscht?** Reine KG: Komplementaer haftet unbeschraenkt; GmbH & Co. KG: Komplementaer-GmbH begrenzt die Haftung.
-3. **Freiberuflertaetigkeit?** KG / GmbH & Co. KG erzielt Gewerbesteuer; fuer Freiberufler PartG mbB besser.
-4. **Nachfolge oder Familienstruktur?** GmbH & Co. KG optimal fuer Uebergaben (steuerliche Vorteile § 6 Abs. 3 EStG).
+3. **Freiberuflertaetigkeit?** KG / GmbH & Co. KG erzielt Gewerbesteuer; für Freiberufler PartG mbB besser.
+4. **Nachfolge oder Familienstruktur?** GmbH & Co. KG optimal für Uebergaben (steuerliche Vorteile § 6 Abs. 3 EStG).
 5. **Nur 1 Gruender?** Ein-Personen GmbH & Co. KG moeglich; einfachere GmbH oft praktikabler.
 6. **Zeitplan?** GmbH & Co. KG erfordert zuerst GmbH-Gruendung (4-8 Wochen) + KG-Eintragung (weitere 2-4 Wochen).
 
 ## Zentrale Normen
 
 - **§§ 161 ff. HGB** — Kommanditgesellschaft; Grundstruktur; Rechte und Pflichten der Gesellschafter
-- **§ 161 I HGB** — Komplementaer: unbeschraenkte persoenliche Haftung
+- **§ 161 I HGB** — Komplementaer: unbeschraenkte persönliche Haftung
 - **§ 170 HGB** — Kommanditist: keine gesetzliche Vertretungsmacht
 - **§ 171 I HGB** — Hafteinlage: Begrenzung der Kommanditisten-Aussenhaftung
 - **§ 172 IV HGB** — Riickgewaehr einlagegelebter Betrage; Wiederaufleben Haftung
@@ -65,7 +65,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Nachfolge | Optimal (§ 6 Abs. 3 EStG) | Anteile abtretbar |
 | Buchfuehrung | Doppelte Buchfuehrung; GmbH + KG-Abschluss | Doppelte Buchfuehrung |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Entscheidung GmbH & Co. KG:** Steuerberater konsultieren; Vergleich GmbH vs. GmbH & Co. KG.
 2. **Komplementaer-GmbH gruenden:** Standard-GmbH, Stammkapital 25.000 EUR; Gegenstand: Komplementaertaetigkeit.
@@ -114,7 +114,7 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 - Reihenfolge nicht beachtet: KG ohne bestehende Komplementaer-GmbH scheitert beim HR
 - Firma ohne "GmbH & Co. KG"-Zusatz: irrefuehrend (§ 18 II HGB; Paragraf 19 II HGB)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Sonderbetriebsvermoegen uebersehen: unerwartete Steuerpflicht fuer Kommanditisten
+- Sonderbetriebsvermoegen uebersehen: unerwartete Steuerpflicht für Kommanditisten
 
 ## Quellen und Vertiefung
 

@@ -13,7 +13,7 @@ description: "HGR DIS Gesellschaftsrecht Token Fristennotiz im Plugin Fachanwalt
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-hgr-dis-schiedsverfahren-streit` | Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen. DIS-Schiedsverfahren Gesellschafterstreit. Prüfraster: DIS-Schiedsordnung ICC HGB GmbH-Streit Squeeze-out-Verhandlung § 327a AktG M&A Earn-Out-Streitigkeiten DIS Expedited Rules. Output: Strategie-Memo Schiedsverfahren und Einleitungskorrespondenz. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Staatsgericht-Klage) und vergleichsverhandlung-strategie. |
-| `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit` | Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gesellschaftsrecht-fristen-form-und-zuständigkeit` | Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-token-fristennotiz-und-naechster-schritt` | Token: Fristennotiz und nächster Schritt im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
@@ -55,8 +55,8 @@ Gesellschafterkonflikte (GmbH, AG, KG) lösen sich oft im Schiedsverfahren — D
 
 - **§§ 1025-1066 ZPO** — Schiedsgerichtsverfahren; siehe Modernisierungsvorhaben (BMJ-Referentenentwurf 01.02.2024, Diskontinuitaet Ende 20. WP, Stand pruefen): https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
 - **DIS-Schiedsgerichtsordnung 2018** (in Kraft seit 01.03.2018; weiterhin geltende Fassung): https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
-- **DIS Ergaenzende Regeln fuer beschleunigte Schiedsverfahren** und DIS-Mediationsordnung 2020: https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
-- **DIS-ERGeS** (Ergaenzende Regeln fuer gesellschaftsrechtliche Streitigkeiten 2018) — wichtig fuer Beschlussmaengelstreite in der Schiedsklausel.
+- **DIS Ergaenzende Regeln für beschleunigte Schiedsverfahren** und DIS-Mediationsordnung 2020: https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
+- **DIS-ERGeS** (Ergaenzende Regeln für gesellschaftsrechtliche Streitigkeiten 2018) — wichtig für Beschlussmaengelstreite in der Schiedsklausel.
 - BGH-Linie zur Schiedsfaehigkeit von Beschlussmaengelstreitigkeiten (vor Verwendung gegen offene Quelle pruefen):
  - "Schiedsfaehigkeit II" — BGH, Urt. v. 06.04.2009 — II ZR 255/08 (GmbH; Mindestanforderungen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.04.2009&Aktenzeichen=II+ZR+255/08
  - "Schiedsfaehigkeit III" — BGH, Beschl. v. 06.04.2017 — I ZB 23/16: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=I+ZB+23/16
@@ -181,7 +181,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. **Verfahrenseinleitung:** Schiedsantrag nach DIS-Ordnung § 3 (Schiedsklage); Schiedsrichterbestellung (3 Schiedsrichter ab 1 Mio. EUR, 1 Einzelschiedsrichter darunter).
 4. **Vollstreckung ausländischer Schiedssprüche:** New Yorker UN-Übereinkommen (UNÜ 1958) — 170 Vertragsstaaten; Vollstreckbarerklärung § 1061 ZPO.
 
-## 2. `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit`
+## 2. `spezial-gesellschaftsrecht-fristen-form-und-zuständigkeit`
 
 **Fokus:** Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 

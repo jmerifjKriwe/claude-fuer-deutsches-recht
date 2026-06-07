@@ -98,7 +98,7 @@ Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenve
 - einsatz-unfall-versorgung-dokumentenplan
 - ptbs-einsatzfolge-beweisfuehrung
 - aerztliche-begutachtung-dienstfaehigkeit
-- sanitaetsdienst-heilfuersorge
+- sanitaetsdienst-heilfürsorge
 - dienstunfaehigkeit-entlassung-zurruhesetzung
 
 ## Quellen Stand 06/2026

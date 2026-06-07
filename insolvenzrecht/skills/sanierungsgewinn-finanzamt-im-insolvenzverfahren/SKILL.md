@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-finanzamt-im-insolvenzverfahren
-description: "Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschutz Paragraph 96 InsO. Schnittstelle zu Sanierungsgewinn. Mustertexte fuer Kommunikation mit dem Finanzamt im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschutz Paragraph 96 InsO. Schnittstelle zu Sanierungsgewinn. Mustertexte für Kommunikation mit dem Finanzamt im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Finanzamt im Insolvenzverfahren
 
 ## Arbeitsbereich
 
-Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschutz Paragraph 96 InsO. Schnittstelle zu Sanierungsgewinn. Mustertexte fuer Kommunikation mit dem Finanzamt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschutz Paragraph 96 InsO. Schnittstelle zu Sanierungsgewinn. Mustertexte für Kommunikation mit dem Finanzamt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -57,7 +57,7 @@ Kaltstart-Fragen:
 - Paragraph 226 AO — Aufrechnung mit Steuerforderungen.
 - Paragraph 3a EStG, Paragraph 7b GewStG.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Steuerforderungen klassifizieren.**
  - Vor Eroeffnung entstanden -> Insolvenzforderung Paragraph 38 InsO, zur Tabelle.
@@ -73,10 +73,10 @@ Kaltstart-Fragen:
 
 | Forderung | Klassifikation | Hinweis |
 |---|---|---|
-| KSt fuer Jahr vor Eroeffnung | Insolvenzforderung Paragraph 38 InsO | Anmeldung zur Tabelle |
-| GewSt fuer Jahr vor Eroeffnung | Insolvenzforderung Paragraph 38 InsO | Gemeinde meldet an |
+| KSt für Jahr vor Eroeffnung | Insolvenzforderung Paragraph 38 InsO | Anmeldung zur Tabelle |
+| GewSt für Jahr vor Eroeffnung | Insolvenzforderung Paragraph 38 InsO | Gemeinde meldet an |
 | USt aus Geschaeftsbetrieb nach Eroeffnung | Masseverbindlichkeit Paragraph 55 Absatz 1 Nr. 1 InsO | Aus Masse zu zahlen |
-| LSt fuer fortgefuehrte Beschaeftigung | Masseverbindlichkeit Paragraph 55 InsO | Lohnzahlung loest LSt aus |
+| LSt für fortgefuehrte Beschaeftigung | Masseverbindlichkeit Paragraph 55 InsO | Lohnzahlung loest LSt aus |
 | KSt/GewSt auf Sanierungsertrag (verbleibender Restbetrag) | Masseverbindlichkeit Paragraph 55 InsO | erst nach Plan-Vollzug entstanden |
 | GrESt auf Verwertung von Grundstuecken | Masseverbindlichkeit | aus Verwertung |
 | Nicht beitreibbar versteuerte alte Schulden | bleibt offen | nach Restschuldbefreiung erlischt |
@@ -89,7 +89,7 @@ Kaltstart-Fragen:
 | Vorabauskunft Paragraph 89 AO | bei hohem Volumen | Gebuehr, Zeitverzug |
 | Stundungsantrag Paragraph 222 AO | wenn Restbetrag verbleibt | nur Aufschub |
 | Erlassantrag Paragraph 227 AO | wenn Steuern unbillig | hohe Begruendungsanforderung |
-| Tatsaechliche Verstaendigung Paragraph 78 AO | bei Beweisproblemen | nur fuer Tatfragen |
+| Tatsaechliche Verstaendigung Paragraph 78 AO | bei Beweisproblemen | nur für Tatfragen |
 | Klage Finanzgericht | bei strittiger Rechtsfrage | langwierig |
 
 ## Praxistipps der alten Hasen

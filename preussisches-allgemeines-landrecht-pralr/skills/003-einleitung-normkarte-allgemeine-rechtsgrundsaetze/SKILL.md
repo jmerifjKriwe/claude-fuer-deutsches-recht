@@ -66,7 +66,7 @@ Die Einleitung des ALR (1794) gilt als das normative Vorzimmer der Kodifikation.
 
 ### Beruehmte Faelle / Personen
 - **Carl Gottlieb Svarez** (Hauptredaktor) und **Ernst Ferdinand Klein**, Theoretiker des aufgeklaerten Polizeirechts.
-- **Mueller-Arnold-Fall** (1779/1789): Friedrich II. setzte Justiz unter Druck im Mueller-Arnold-Streit; war Auslöser fuer die Justizreform, die das ALR vorbereitete.
+- **Mueller-Arnold-Fall** (1779/1789): Friedrich II. setzte Justiz unter Druck im Mueller-Arnold-Streit; war Auslöser für die Justizreform, die das ALR vorbereitete.
 
 ### Pruefraster
 1. Provinzialrecht / Statutarrecht / Gewohnheit vor ALR? — Einl. §§ 1-7 abarbeiten.

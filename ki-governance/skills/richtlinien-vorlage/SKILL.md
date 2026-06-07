@@ -186,18 +186,18 @@ KI-NUTZUNGSRICHTLINIE
 ENTWURF — VOR EINSATZ ANWALTLICHE PRUEFUNG ERFORDERLICH
 
 § 1 Geltungsbereich und Zweck
-Diese Richtlinie gilt fuer alle Mitarbeiterinnen und Mitarbeiter von
+Diese Richtlinie gilt für alle Mitarbeiterinnen und Mitarbeiter von
 [NAME MANDANT] beim Einsatz von KI-Systemen im Rahmen ihrer Taetigkeit.
 Zweck ist die Sicherstellung eines rechtssicheren, transparenten und
 verantwortungsvollen KI-Einsatzes gemaess KI-VO (VO 2024/1689) und DSGVO.
 
 § 2 Freigegebene KI-Systeme
-Folgende KI-Systeme sind fuer den Einsatz freigegeben:
+Folgende KI-Systeme sind für den Einsatz freigegeben:
 - [SYSTEM 1]: zulaessige Verwendungszwecke
 - [SYSTEM 2]: zulaessige Verwendungszwecke
 
 § 3 Verbotene Praktiken (Art. 5 KI-VO)
-Der Einsatz von KI-Systemen fuer folgende Zwecke ist absolut verboten: [...]
+Der Einsatz von KI-Systemen für folgende Zwecke ist absolut verboten: [...]
 
 § 4 Menschliche Aufsicht (Art. 26 KI-VO)
 Bei Hochrisiko-Anwendungen ist eine menschliche Pruefung vor jeder
@@ -206,7 +206,7 @@ Art. 22 DSGVO sind nur nach Freigabe durch [ROLLE] zulaessig.
 
 § 5 Datenschutz und Vertraulichkeit
 Personenbezogene und vertrauliche Daten duerfen nur in KI-Systeme
-eingegeben werden, fuer die ein AVV nach Art. 28 DSGVO besteht.
+eingegeben werden, für die ein AVV nach Art. 28 DSGVO besteht.
 
 § 6 Meldepflichten
 Sicherheitsvorfaelle und Probleme mit KI-Ausgaben sind unverzueglich

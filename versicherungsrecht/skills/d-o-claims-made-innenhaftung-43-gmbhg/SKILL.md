@@ -46,7 +46,7 @@ D&O-Deckungsmemo, Interessenmatrix, Notice-Entwurf und Kostenkontrolle.
 ## Anschluss-Skills
 
 - cyberversicherung-ransomware-sanktionsrecht
-- deckungsprozess-zustaendigkeit-215-vvg
+- deckungsprozess-zuständigkeit-215-vvg
 
 ## Qualitätsregel
 

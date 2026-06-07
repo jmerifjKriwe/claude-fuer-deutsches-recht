@@ -1,13 +1,13 @@
 ---
 name: eskalation-bei-deadline-konflikt
-description: "Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Druck-, Honorar- oder Auslieferungsterminen mit Mustermails fuer Autor, Programmleitung und Geschaeftsfuehrung im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Druck-, Honorar- oder Auslieferungsterminen mit Mustermails für Autor, Programmleitung und Geschaeftsfuehrung im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eskalation bei Deadline-Konflikt
 
 ## Arbeitsbereich
 
-Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Druck-, Honorar- oder Auslieferungsterminen mit Mustermails fuer Autor, Programmleitung und Geschaeftsfuehrung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Druck-, Honorar- oder Auslieferungsterminen mit Mustermails für Autor, Programmleitung und Geschaeftsfuehrung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Dru
 
 ## Worum geht es konkret
 
-Eine Frist droht zu reissen: Manuskripteingang verzoegert sich, Druckereitermin kollidiert mit Imprimatur, Autorenkorrektur kommt nicht zurueck, Vertriebstermin steht. Der Skill liefert ein eskalationsstufenfestes Vorgehen, das nicht zu frueh und nicht zu spaet zur Verlagsleitung greift, und Texte fuer jede Stufe.
+Eine Frist droht zu reissen: Manuskripteingang verzoegert sich, Druckereitermin kollidiert mit Imprimatur, Autorenkorrektur kommt nicht zurueck, Vertriebstermin steht. Der Skill liefert ein eskalationsstufenfestes Vorgehen, das nicht zu frueh und nicht zu spaet zur Verlagsleitung greift, und Texte für jede Stufe.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -28,7 +28,7 @@ Eine Frist droht zu reissen: Manuskripteingang verzoegert sich, Druckereitermin 
 3. Wieviel Puffer ist noch vorhanden (Tage, nicht Stunden)?
 4. Was geschieht bei Fristversaeumnis (Haftung, Kosten, Imageschaden, Vertragsbruch)?
 5. Welche Stufe ist bereits ausgereizt (Reminder, Mahnung, Telefonat, Termin)?
-6. Wer hat Entscheidungsbefugnis fuer einen neuen Termin?
+6. Wer hat Entscheidungsbefugnis für einen neuen Termin?
 
 ## Rechtlicher und sachlicher Rahmen
 
@@ -38,7 +38,7 @@ Eine Frist droht zu reissen: Manuskripteingang verzoegert sich, Druckereitermin 
 - VerlG § 33 - Schadensersatz statt Leistung erst nach angemessener Nachfrist mit Ablehnungsandrohung.
 - Druckereivertrag: AGB der Druckerei, oft mit Stornogebuehren bei Terminverschiebung.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Sachverhalt fixieren.** Wer hat wann was zugesagt, was ist eingegangen, was fehlt? In Schriftform dokumentieren.
 2. **Stufe bestimmen.**
@@ -142,8 +142,8 @@ Entscheidung bitte bis [Datum, Uhrzeit].
 ## Querverweise
 
 - `workflow-kaltstart-und-routing` - erste Einordnung des Konflikts.
-- `workflow-fristen-und-risikoampel` - Ampelmethodik fuer Folgewirkungen.
-- `verl-statusbericht-an-verlagsleitung` - Mantel fuer die Hochstufung.
+- `workflow-fristen-und-risikoampel` - Ampelmethodik für Folgewirkungen.
+- `verl-statusbericht-an-verlagsleitung` - Mantel für die Hochstufung.
 - `verl-mahnung-an-autor-zahlung-frist` - bei Zahlungsverzug parallel zur Lieferung.
 - `verl-abstimmung-mit-rechtsabteilung-pruefung` - vor Ruecktritt und Schadensersatzforderung.
 

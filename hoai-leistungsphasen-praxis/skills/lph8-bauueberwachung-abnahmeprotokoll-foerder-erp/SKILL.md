@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-abnahmeprotokoll-foerder-erp
-description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung fuer oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abnahmeprotokoll und Foerder-ERP in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung fuer oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,15 +19,15 @@ Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung fuer oeffentlich geför
 
 ## Spezialwissen
 
-Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprotokolle: Verwendungsnachweise fuer KfW, EFRE und Bundesfoerderungen muessen lueckenlos nachweisen, dass foerderungsrelevante Baumassnahmen ordnungsgemaess ausgefuehrt wurden. Abnahmeprotokoll und ERP-Buchung sind dabei untrennbar verknuepft. Dieser Skill beschreibt den vollstaendigen von der Abnahmebegehung bis zur SAP-FI-Buchung und Foerderantrag-Konformitaetsnachweis.
+Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprotokolle: Verwendungsnachweise für KfW, EFRE und Bundesfoerderungen muessen lueckenlos nachweisen, dass foerderungsrelevante Baumassnahmen ordnungsgemaess ausgefuehrt wurden. Abnahmeprotokoll und ERP-Buchung sind dabei untrennbar verknuepft. Dieser Skill beschreibt den vollstaendigen von der Abnahmebegehung bis zur SAP-FI-Buchung und Foerderantrag-Konformitaetsnachweis.
 
 ## Bauwerk und Auftrag
 
-- Schule Energetische Sanierung KfW 55 Foerderung: Abnahmeprotokoll mit Energieberater, Pruefzertifikat nach KfW-Merkblatt, Foerderbetrag 1.2 Mio. EUR, Auftraggeber Landkreis Bayern
-- Klaeranlage EFRE-Foerderung: EU-EFRE-Programm Foerderbedingungen, Abnahmeprotokoll auf Deutsch und Englisch, Pruefpfade Foerdermittelgeber, Bausumme 18 Mio. EUR
-- Windpark Neubau Bundesfoerderung: BNetzA-Abnahme und KfW-Foerdernachweis, SAP PS Projektstruktur fuer Foerdermittelcontrolling, Bausumme 22 Mio. EUR
+- Schule Energetische Sanierung KfW 55 Förderung: Abnahmeprotokoll mit Energieberater, Pruefzertifikat nach KfW-Merkblatt, Foerderbetrag 1.2 Mio. EUR, Auftraggeber Landkreis Bayern
+- Klaeranlage EFRE-Förderung: EU-EFRE-Programm Foerderbedingungen, Abnahmeprotokoll auf Deutsch und Englisch, Pruefpfade Foerdermittelgeber, Bausumme 18 Mio. EUR
+- Windpark Neubau Bundesfoerderung: BNetzA-Abnahme und KfW-Foerdernachweis, SAP PS Projektstruktur für Foerdermittelcontrolling, Bausumme 22 Mio. EUR
 
-## Erste Schritte Abnahmeprotokoll oeffentlicher Bau
+## Erste Schritte Abnahmeprotokoll öffentlicher Bau
 
 1. Abnahmetermin vorbereiten: Einladung alle Parteien AN, AG, Sachverstaendiger, Foerdermittelbehoerde, Terminbestaetigung 14 Tage vorher, Checklisten Dalux vorab ausgefuellt
 2. Begehung strukturieren: Rundgang nach Gewerk-Reihenfolge VOB/C, Foto je Mangel, Protokollant und Schriftfuehrer, Massnahmen sofort festhalten, Fristen definieren
@@ -56,10 +56,10 @@ Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprot
 
 ## Foto-, Video- und Dokumentenanalyse
 
-- Dalux Abnahmeprotokoll-Modul: Digitales Formular VOB/B § 12, Mangel-Pin Grundriss, Foto-Pflicht je Mangel, eIDAS-Signatur aller Parteien, Export PDF/A fuer Foerderarchiv
+- Dalux Abnahmeprotokoll-Modul: Digitales Formular VOB/B § 12, Mangel-Pin Grundriss, Foto-Pflicht je Mangel, eIDAS-Signatur aller Parteien, Export PDF/A für Foerderarchiv
 - PlanRadar Abnahme-Workflow: Abnahme-Checkliste freigegeben, Mangelerfassung, Status-Update automatisch, PDF-Abnahmeprotokoll Generierung
 - BIM360 Document Management: Abnahmeprotokoll als versioniertes Dokument, Zugriffsprotokoll, Foerdermittelgeber-Lesezugriff konfiguriert
-- SAP PS Kostenauswertung: Ist-Kosten je Foerderposition, Soll-Foerderbetrag, Budget-Ueberwachung, CSV-Export fuer Foerderantrag-Upload
+- SAP PS Kostenauswertung: Ist-Kosten je Foerderposition, Soll-Foerderbetrag, Budget-Ueberwachung, CSV-Export für Foerderantrag-Upload
 - ELSTER Foerderantrag-Portal: Upload Verwendungsnachweis als PDF, Verknuepfung SAP FI Buchungsbelege, Einreichung elektronisch nach eIDAS
 
 ## Meldungserstellung im ERP / SAP
@@ -79,7 +79,7 @@ Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprot
 
 ## Output
 
-Abnahmeprotokoll vollstaendig nach VOB/B § 12 mit eIDAS-Signatur aller Parteien. Foerderantrag-Konformitaetsnachweis je Foerderposition. Verwendungsnachweis SAP PS Ist-Kosten-Auswertung. Rechnungsbeleg-Archiv BIM360 fuer Foerdermittelpruefer. SAP FI Buchungsprotokoll Foerdermittelzuschuss. Mangelbeseitigungs-Abschlussprotokoll. Bautagebuch-Gesamtarchiv fuer Gewaehrleistungsphase.
+Abnahmeprotokoll vollstaendig nach VOB/B § 12 mit eIDAS-Signatur aller Parteien. Foerderantrag-Konformitaetsnachweis je Foerderposition. Verwendungsnachweis SAP PS Ist-Kosten-Auswertung. Rechnungsbeleg-Archiv BIM360 für Foerdermittelpruefer. SAP FI Buchungsprotokoll Foerdermittelzuschuss. Mangelbeseitigungs-Abschlussprotokoll. Bautagebuch-Gesamtarchiv für Gewaehrleistungsphase.
 
 ## Hinweise zur Qualitaetssicherung
 

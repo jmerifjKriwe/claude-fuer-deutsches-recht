@@ -1,13 +1,13 @@
 ---
 name: kommandocenter
-description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umweltrecht-Kommandocenter
 
 ## Arbeitsbereich
 
-Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -30,19 +30,19 @@ Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechs
 | M&A-Transaktion, Umwelt-DD, Red Flags | `umweltrecht-transaktionen-dd` |
 | UIG/IFG-Informationsantrag, Ablehnung | `umweltrecht-umweltinformation-uig-ifg` |
 | VG-Klage, Eilantrag, Beschwerde OVG | `umweltrecht-verfahren` |
-| Bussgeld-Bescheid, Anhoerung, Sanktionen | `umweltrecht-bussgeld-sanktionen` |
+| Bussgeld-Bescheid, Anhörung, Sanktionen | `umweltrecht-bussgeld-sanktionen` |
 | Compliance, Beauftragte, Schulungsplan | `umweltrecht-compliance-schulung` |
 | ESG, CSRD, Greenwashing | `esg-greenwashing-csrd` |
 | Klimaklage, Verbandsklage UmwRG | `klimaklagen-verbandsklage-umwrg` |
 | Lieferkette, LkSG, CSDDD | `lksg-csddd-lieferkettensorgfalt` |
 
-## Intake-Fragen (fuer jeden Mandat)
+## Intake-Fragen (für jeden Mandat)
 
-1. **Mandantenrolle**: Betreiber, Investor, Betroffener Dritter, Umweltverband, Behoerde?
+1. **Mandantenrolle**: Betreiber, Investor, Betroffener Dritter, Umweltverband, Behörde?
 2. **Rechtsgebiet**: BImSchG, KrWG, WHG, BBodSchG, TEHG, BNatSchG — oder mehrere?
 3. **Verfahrensstand**: Noch kein Verfahren / Antragsverfahren laufend / Bescheid ergangen / Klage anhangig?
 4. **Fristen akut**: Widerspruch 1 Monat, Klage 1 Monat, Eilantrag unverzueglich — Eingang Bescheid?
-5. **Beweismaterial**: Welche Dokumente — Genehmigung, Gutachten, Behoerdenkorrespondenz, Fotos?
+5. **Beweismaterial**: Welche Dokumente — Genehmigung, Gutachten, Behördenkorrespondenz, Fotos?
 6. **Wirtschaftliches Ziel**: Betrieb sichern, Anlage verhindern, Entschaedigung, Informationszugang, Reputationsschutz?
 
 ## Zentrale Querschnitts-Normen Umweltrecht

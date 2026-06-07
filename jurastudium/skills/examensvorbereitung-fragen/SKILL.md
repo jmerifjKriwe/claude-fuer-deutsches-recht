@@ -19,7 +19,7 @@ Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen: Anwendungsfal
 
 ## Triage zu Beginn
 1. Welches Examen und welches Bundesland (1. StEx, 2. StEx; Bayern, NRW, Hamburg)?
-2. Welches Fachgebiet soll geuebt werden (Zivilrecht, Strafrecht, oeffentliches Recht, Verfahrensrecht)?
+2. Welches Fachgebiet soll geuebt werden (Zivilrecht, Strafrecht, öffentliches Recht, Verfahrensrecht)?
 3. Zeitdruck-Simulation oder inhaltliches Verstaendnis-Training?
 4. Welche Schwachpunkte wurden in frueheren Uebungsklausuren identifiziert?
 
@@ -27,10 +27,10 @@ Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen: Anwendungsfal
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 13, 14 JAG NRW — Examensklausuren: Inhaltsanforderungen und Bewertungsmassstab (exemplarisch fuer alle Bundeslaender)
+- §§ 13, 14 JAG NRW — Examensklausuren: Inhaltsanforderungen und Bewertungsmassstab (exemplarisch für alle Bundeslaender)
 - § 195 BGB — Regelverjaehrung: Dauerklassiker in Zivilrecht-Klausuren
 - § 1 Abs. 1 StGB — Bestimmtheitsgebot: Examens-Fundamentalsatz Strafrecht
-- § 42 VwGO — Anfechtungs- und Verpflichtungsklage: Examens-Standard oeffentliches Recht
+- § 42 VwGO — Anfechtungs- und Verpflichtungsklage: Examens-Standard öffentliches Recht
 
 ## Quellenregel
 
@@ -48,7 +48,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Eingaben
 
-1. Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` → Bundesland, JAG, Schwächefächer, Lernstil
+1. Lernprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md` → Bundesland, JAG, Schwächefächer, Lernstil
 2. Optional: `lernplan.yaml` – zeigt, welches Fach heute auf dem Plan steht und welche Teilgebiete noch schwach sind
 3. Rechtsgebiet (Argument oder interaktiv erfragen)
 4. Prüfungstyp: `--schriftlich` (Klausur, 5h) oder `--mündlich` (Aktenvortrag, AG-Fragen)

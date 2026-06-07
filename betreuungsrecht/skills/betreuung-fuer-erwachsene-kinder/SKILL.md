@@ -1,21 +1,41 @@
 ---
 name: betreuung-fuer-erwachsene-kinder
-description: "Betreuung fuer erwachsene Kinder mit Behinderung: Uebergang Vormundschaft zu Betreuung mit 18. Geburtstag, Erfordernis fruehzeitiger Antrag. Vorlage Mandantenkommunikation Eltern."
+description: "Betreuung für erwachsene Kinder mit Behinderung: Uebergang Vormundschaft zu Betreuung mit 18. Geburtstag, Erfordernis fruehzeitiger Antrag. Vorlage Mandantenkommunikation Eltern."
 ---
 
 # Betreuung erwachsener Kinder
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen und Erforderlichkeit.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis, keine Vorratsbetreuung.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung und Selbstbestimmung.
+- `§ 1823 BGB` — Vertretungsmacht des Betreuers.
+- `§ 1831 BGB` — Genehmigung bei freiheitsentziehenden Massnahmen.
+- `§ 1832 BGB` — aerztliche Zwangsmassnahmen.
+- `§ 1848 BGB` — Rechnungslegung und Vermögensübersicht.
+- `§ 274 FamFG` — Beteiligte im Betreuungsverfahren.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverstaendigengutachten.
+- `§ 5 BtOG` — Informations- und Beratungspflichten der Behörde.
+- `§ 8 BtOG` — Unterstützungsangebot zur Betreuungsvermeidung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 
 ## Spezialwissen: Betreuung erwachsener Kinder
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -39,10 +59,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

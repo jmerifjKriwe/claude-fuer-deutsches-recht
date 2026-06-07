@@ -1,13 +1,30 @@
 ---
 name: bmleh-lebensmittelrecht-und-futtermittelrecht
-description: "Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Länder-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lebensmittel- und Futtermittelrecht (BMLEH)
 
 ## Arbeitsbereich
 
-Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Länder-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -19,7 +36,7 @@ Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Norm
 
 ## Spezialwissen
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -36,9 +53,9 @@ Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verw
 
 ## Akteure und Aufsicht
 
-BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).
+BVL; BfR; Länder-Lebensmittelueberwachung; BMLEH; EFSA (EU).
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -50,7 +67,7 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 Sicherheit und Hygiene; Kennzeichnung; Zusatzstoffe; Rueckverfolgbarkeit; Krisenmanagement.
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -74,7 +91,7 @@ Sachfeld-Kompass:
 Sachfeld: Lebensmittel- und Futtermittelrecht
 Ressort: BMLEH
 Kernnormen: LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.
-Akteure/Aufsicht: BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).
+Akteure/Aufsicht: BVL; BfR; Länder-Lebensmittelueberwachung; BMLEH; EFSA (EU).
 EU/Voelkerrecht: VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.
 Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
 Stolpersteine: <Sachfeld-spezifisch>
@@ -89,7 +106,7 @@ Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

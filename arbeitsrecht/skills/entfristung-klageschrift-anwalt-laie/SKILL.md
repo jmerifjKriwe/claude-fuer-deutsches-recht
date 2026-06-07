@@ -1,19 +1,19 @@
 ---
 name: entfristung-klageschrift-anwalt-laie
-description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüft konkret Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-fuer-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage, Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüft konkret Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-für-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage, Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Entfristung Klageschrift Anwalt Laie
 
 ## Arbeitsbereich
 
-**Entfristung Klageschrift Anwalt Laie** ordnet den Fall über die tragenden Prüfungslinien: Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-fuer-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Entfristung Klageschrift Anwalt Laie** ordnet den Fall über die tragenden Prüfungslinien: Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-für-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `entfristung-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach § 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil. |
-| `entfristung-klageschrift-laie-baustein` | Schritt-fuer-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer. |
+| `entfristung-klageschrift-laie-baustein` | Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer. |
 | `entfristung-laie-oder-anwalt-frage` | Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist. |
 | `entfristung-rechtsfolge-16-tzbfg-unbefristet` | Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen; Möglichkeit der fruehesten ordentlichen Kündigung zum vereinbarten Ende nach § 16 Satz 2 TzBfG; Ansprüche Annahmeverzug; Weiterbeschaeftigungsantrag. |
 
@@ -47,7 +47,7 @@ description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüf
 3. Weiterbeschäftigungsantrag (GS BAG 27.02.1985) gewünscht?
 4. Hilfsweise Auflösungsantrag (§§ 9, 10 KSchG i.V.m. § 17 Satz 2 TzBfG)?
 5. Streitwert vorläufig 3 Bruttomonatsgehälter (§ 42 Abs. 2 GKG)
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -176,7 +176,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `entfristung-klageschrift-laie-baustein`
 
-**Fokus:** Schritt-fuer-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer.
+**Fokus:** Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer.
 
 # Klageschrift Entfristungsklage — Laien-Baustein
 
@@ -195,7 +195,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 3. Hast du eine Kopie des Arbeitsvertrags? (als Anlage K 1 beifügen)
 4. Hast du einen Beleg für die Art der Unterzeichnung? (E-Mail, Screenshot Signier-Portal)
 5. Wie hoch ist dein monatliches Bruttogehalt? (Streitwert = 3 × Monatsgehalt)
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 

@@ -28,7 +28,7 @@ description: "Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das
 
 - Rheinische Strafprozessordnung mit Schwurgericht.
 - Oeffentlichkeit Muendlichkeit Anklageprinzip.
-- Vorbild fuer die preussische Strafprozessordnung 1851 und die Reichs-StPO 1877.
+- Vorbild für die preussische Strafprozessordnung 1851 und die Reichs-StPO 1877.
 
 ## Fortwirkung
 
@@ -41,6 +41,22 @@ description: "Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das
 1. Welche Periode?
 2. Welches Verfahrensprinzip?
 3. Welche Beweisregel?
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 StGB` — Keine Strafe ohne Gesetz.
+- `§ 15 StGB` — Vorsatz/Fahrlaessigkeit.
+- `§ 16 Abs. 1 StGB` — Tatbestandsirrtum.
+- `§ 17 StGB` — Verbotsirrtum.
+- `§ 46 Abs. 1 StGB` — Strafzumessung.
+- `§ 152 Abs. 2 StPO` — Legalitaetsprinzip/Anfangsverdacht.
+- `§ 160 Abs. 2 StPO` — Ermittlung auch entlastender Umstaende.
+- `§ 244 Abs. 2 StPO` — Aufklaerungspflicht.
+- `§ 261 StPO` — freie richterliche Beweiswuerdigung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

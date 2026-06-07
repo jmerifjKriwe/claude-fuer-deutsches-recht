@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-cbam-berichtspflichten-uebergang
-description: "CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956: Vierteljährliche Berichte fuer Zement, Aluminium, Duenger, Eisen/Stahl, Elektrizitaet und Wasserstoff. Erfassung eingebetteter Emissionen, Verwendung von CBAM-Standardwerten und Fehlerquellen. Output: CBAM-Quartalsbericht mit Emissionsdaten und Quellendokumentation im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956: Vierteljährliche Berichte für Zement, Aluminium, Duenger, Eisen/Stahl, Elektrizitaet und Wasserstoff. Erfassung eingebetteter Emissionen, Verwendung von CBAM-Standardwerten und Fehlerquellen. Output: CBAM-Quartalsbericht mit Emissionsdaten und Quellendokumentation im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# CBAM-Uebergangspflichten: Quartalsbericht fuer eingebettete Emissionen
+# CBAM-Uebergangspflichten: Quartalsbericht für eingebettete Emissionen
 
 ## Arbeitsbereich
 
-CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956: Vierteljährliche Berichte fuer Zement, Aluminium, Duenger, Eisen/Stahl, Elektrizitaet und Wasserstoff. Erfassung eingebetteter Emissionen, Verwendung von CBAM-Standardwerten und Fehlerquellen. Output: CBAM-Quartalsbericht mit Emissionsdaten und Quellendokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956: Vierteljährliche Berichte für Zement, Aluminium, Duenger, Eisen/Stahl, Elektrizitaet und Wasserstoff. Erfassung eingebetteter Emissionen, Verwendung von CBAM-Standardwerten und Fehlerquellen. Output: CBAM-Quartalsbericht mit Emissionsdaten und Quellendokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,8 +20,8 @@ CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956:
 ## Mandantenfall
 
 - Stahlimporteur hat erste CBAM-Quartalsmeldung versaeumst; Frage zu Nachmeldemoelichkeit und Bussgeld.
-"- Zementhersteller fragt, ob er fuer Importe aus der Tuerkei CBAM-Standardwerte oder Lieferantendaten nutzen muss.
-- Haendler importiert Aluminiumprofile aus mehreren Laendern; unterschiedliche Emissionsfaktoren je Ursprungsland.
+"- Zementhersteller fragt, ob er für Importe aus der Tuerkei CBAM-Standardwerte oder Lieferantendaten nutzen muss.
+- Haendler importiert Aluminiumprofile aus mehreren Ländern; unterschiedliche Emissionsfaktoren je Ursprungsland.
 
 ## Erste Schritte
 
@@ -35,7 +35,7 @@ CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956:
 ## Rechtsrahmen
 
 - **Art. 35-37 VO (EU) 2023/956**: Berichtspflichten in der Uebergangsphase.
-- **VO (EU) 2023/1773**: Durchfuehrungs-VO fuer Uebergangsberichte und Standardwerte.
+- **VO (EU) 2023/1773**: Durchfuehrungs-VO für Uebergangsberichte und Standardwerte.
 - **UZK Art. 162**: Pflichten des Einführers.
 - **§ 11 ZollVG**: Informationspflichten gegenueber Zollbehoerden.
 - **VO (EU) 2023/956 Art. 3**: Definition eingebetteter Emissionen.
@@ -53,14 +53,14 @@ CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956:
 
 - Standardwerte sind hoeher als tatsaechliche Emissionen; Lieferantendaten vermindern CBAM-Pflicht.
 - Quartalsberichte koennen nachgebessert werden, aber Fristversaeumnis loest Bussgeld aus.
-- CBAM gilt nicht fuer alle Laender gleich; EWR und bestimmte Laender ausgenommen.
+- CBAM gilt nicht für alle Länder gleich; EWR und bestimmte Länder ausgenommen.
 - Mischlieferungen erfordern getrennte Emissionsermittlung je Warenart.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

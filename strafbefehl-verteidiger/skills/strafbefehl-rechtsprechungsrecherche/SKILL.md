@@ -20,7 +20,7 @@ Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder A
 ## Triage zu Beginn
 
 1. **Was ist die Rechtsfrage?** — Zulaessigkeit des Strafbefehls? Einspruchsfrist? Tagessatz? Fahrerlaubnis? Rechtsfrage klar formulieren.
-2. **Welches Gericht ist zustaendig?** — BGH fuer grundsaetzliche Fragen; OLG fuer Revisionsentscheidungen vom AG; jeweilige Ober- und Bundesgerichte.
+2. **Welches Gericht ist zuständig?** — BGH für grundsaetzliche Fragen; OLG für Revisionsentscheidungen vom AG; jeweilige Ober- und Bundesgerichte.
 3. **Zeitraum der Recherche?** — Aktuelle Rechtsprechung (letzte 5 Jahre) hat Prioritaet; aeltere BGH-Grundsatzentscheidungen bleiben aber relevant.
 4. **Datenbank verfuegbar?** — amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, OpenJur (kostenlos), LexisNexis, Wolters Kluwer.
 1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -46,7 +46,7 @@ Querschnitt:
 § 44 StGB → Fahrverbot
 ```
 
-## Suchstrategien fuer Datenbanken
+## Suchstrategien für Datenbanken
 
 **amtliche/freie Quellen oder lizenzierte Datenbanken:**
 - Normen-Suche: "§ 410 StPO" + "Einspruch" + "Frist"
@@ -86,7 +86,7 @@ Vorbemerkung: Die unten genannten Fundstellen stammen aus geschlossenen Verlagsp
 - BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG, Cannabisbesitz/Handeltreiben, sanktionsfreie Mengen): Beim KCanG-Strafbefehl ist die sanktionsfreie Eigenkonsummenge sowohl bei der Schuldfrage als auch in der Einziehung zu berücksichtigen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
 - BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die in § 1 Nr. 8 ff. KCanG enthaltene gesetzliche Wertung ist bestimmender Strafzumessungsgrund. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
 
-## Schritt-fuer-Schritt-Recherche-Workflow
+## Schritt-für-Schritt-Recherche-Workflow
 
 1. **Rechtsfrage praezisieren:** "Wann beginnt die Einspruchsfrist bei Einwurf-Einschreiben?" (nicht pauschal: "Frist").
 2. **Normenkette aufbauen:** §§ 410, 37 StPO, 180 ZPO.
@@ -99,10 +99,10 @@ Vorbemerkung: Die unten genannten Fundstellen stammen aus geschlossenen Verlagsp
 
 | Abkuerzung | Zeitschrift |
 |-----------|------------|
-| NStZ | Neue Zeitschrift fuer Strafrecht |
+| NStZ | Neue Zeitschrift für Strafrecht |
 | NStZ-RR | NStZ-Rechtsprechungs-Report |
 | NJW | Neue Juristische Wochenschrift |
-| NZV | Neue Zeitschrift fuer Verkehrsrecht |
+| NZV | Neue Zeitschrift für Verkehrsrecht |
 | JZ | Juristenzeitung |
 | StV | Strafverteidiger |
 | BGHZ | Entscheidungen BGH Zivilsachen |

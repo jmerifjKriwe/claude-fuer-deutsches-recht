@@ -16,7 +16,7 @@ Vor Einreichung ein Pruefgang aus Sicht der Beklagten.
 | Anspruchsgrund | Welche Tatsachen sind unstreitig welche streitig |
 | Faelligkeit | Bestreite ich die Faelligkeit mit Erfolg |
 | Verzug | Wurde die Mahnung tatsaechlich zugestellt |
-| Verjaehrung | Kann ich die Einrede der Verjaehrung erheben |
+| Verjährung | Kann ich die Einrede der Verjährung erheben |
 | Aufrechnung | Habe ich Gegenforderungen |
 | Erfuellung | Kann ich Teilzahlung nachweisen |
 | Form Beleg | Welche Anlage fehlt oder ist unleserlich |

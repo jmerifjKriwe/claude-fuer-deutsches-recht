@@ -20,7 +20,7 @@ Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die St
 ## ALR-Staatshaftungsansatz
 
 - Einl. §§ 74-75 — Aufopferung als zentrale Norm.
-- Eigene Haftung des Staates fuer rechtmaessige Eingriffe.
+- Eigene Haftung des Staates für rechtmäßige Eingriffe.
 - Fuer rechtswidrige Eingriffe nur unzureichende Regelung.
 
 ## Friedrich II. und Justizreform
@@ -36,7 +36,7 @@ Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die St
 
 ## Reichshaftung
 
-- Reichsbeamtenhaftungsgesetz 1910 — eigene Haftung des Staates fuer Beamtenfehlverhalten.
+- Reichsbeamtenhaftungsgesetz 1910 — eigene Haftung des Staates für Beamtenfehlverhalten.
 - Heute Art. 34 GG iVm § 839 BGB Amtshaftung.
 
 ## Pruefraster

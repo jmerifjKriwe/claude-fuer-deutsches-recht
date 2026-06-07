@@ -7,7 +7,7 @@ description: "Neues regulatorisches Mandat durch strukturiertes Erstgespraech au
 
 ## Zweck
 
-Dieser Skill konfiguriert das Plugin einmalig auf Ihre Praxis: Welche Behörden beobachten Sie? Welche Richtlinien haben Sie? Was ist für Sie wesentlich? Das Ergebnis ist ein befülltes Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md`, auf das alle anderen Skills zugreifen.
+Dieser Skill konfiguriert das Plugin einmalig auf Ihre Praxis: Welche Behörden beobachten Sie? Welche Richtlinien haben Sie? Was ist für Sie wesentlich? Das Ergebnis ist ein befülltes Praxisprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/regulatorisches-recht/CLAUDE.md`, auf das alle anderen Skills zugreifen.
 
 **Dieser Skill ist der einzige, der ohne befülltes Praxisprofil ausgeführt werden darf.** Alle anderen Skills stoppen und verweisen hierher, solange `[PLATZHALTER]`-Marker im Profil vorhanden sind.
 
@@ -21,7 +21,7 @@ Dieser Skill konfiguriert das Plugin einmalig auf Ihre Praxis: Welche Behörden 
 ### Schritt 1 – Prüfung des Unternehmensprofils
 
 ```
-Gibt es bereits ein Unternehmensprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md?
+Gibt es bereits ein Unternehmensprofil unter ~/.claude/plugins/config/claude-für-deutsches-recht/unternehmens-profil.md?
 ```
 
 - **Ja:** Profil lesen, Informationen bestätigen lassen.
@@ -124,7 +124,7 @@ Beraten Sie mehrere externe Mandanten (Kanzlei) oder sind Sie für ein Unternehm
 
 ### Schritt 9 – Zusammenfassung und Schreiben
 
-Die erfassten Informationen als befülltes Praxisprofil zusammenfassen, dem Nutzer zur Bestätigung vorlegen und dann in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` schreiben.
+Die erfassten Informationen als befülltes Praxisprofil zusammenfassen, dem Nutzer zur Bestätigung vorlegen und dann in `~/.claude/plugins/config/claude-für-deutsches-recht/regulatorisches-recht/CLAUDE.md` schreiben.
 
 Abschließend melden:
 ```

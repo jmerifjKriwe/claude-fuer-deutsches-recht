@@ -1,11 +1,11 @@
 ---
 name: bmftr-hochschul-und-wissenschaftsrecht
-description: "Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR: Normbestand (HRG; WissZeitVG; LHGs der Laender; WHG (Wissenschaft); ProfBesG.); Akteure (BMFTR; Wissenschaftsrat; DFG; HRK; Laenderministerien.); EU-Bezug (ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung)."
+description: "Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR: Normbestand (HRG; WissZeitVG; LHGs der Länder; WHG (Wissenschaft); ProfBesG.); Akteure (BMFTR; Wissenschaftsrat; DFG; HRK; Länderministerien.); EU-Bezug (ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung)."
 ---
 
 # Hochschulrecht und Wissenschaftsrecht (BMFTR)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -16,15 +16,15 @@ description: "Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschaeftsber
 
 ## Normbestand
 
-Kernbestand des Sachfelds: HRG; WissZeitVG; LHGs der Laender; WHG (Wissenschaft); ProfBesG.
+Kernbestand des Sachfelds: HRG; WissZeitVG; LHGs der Länder; WHG (Wissenschaft); ProfBesG.
 
 Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
-BMFTR; Wissenschaftsrat; DFG; HRK; Laenderministerien.
+BMFTR; Wissenschaftsrat; DFG; HRK; Länderministerien.
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -36,7 +36,7 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 Befristungsrecht; Promotionsrecht; Akkreditierung; Forschungsdaten; Wissenschaftsfreiheit (Art. 5 Abs. 3 GG).
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -52,6 +52,23 @@ Foederale Kompetenzfrage; Tarifrecht; Befristungsketten; Wissenschaftsfreiheit-K
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Sachfeld-Kompass:
@@ -59,8 +76,8 @@ Sachfeld-Kompass:
 ```
 Sachfeld: Hochschulrecht und Wissenschaftsrecht
 Ressort: BMFTR
-Kernnormen: HRG; WissZeitVG; LHGs der Laender; WHG (Wissenschaft); ProfBesG.
-Akteure/Aufsicht: BMFTR; Wissenschaftsrat; DFG; HRK; Laenderministerien.
+Kernnormen: HRG; WissZeitVG; LHGs der Länder; WHG (Wissenschaft); ProfBesG.
+Akteure/Aufsicht: BMFTR; Wissenschaftsrat; DFG; HRK; Länderministerien.
 EU/Voelkerrecht: ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.
 Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
 Stolpersteine: <Sachfeld-spezifisch>
@@ -75,7 +92,7 @@ Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

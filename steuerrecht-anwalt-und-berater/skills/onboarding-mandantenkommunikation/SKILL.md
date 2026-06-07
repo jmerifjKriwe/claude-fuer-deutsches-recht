@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandantenkommunikation
-description: "Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — wann muss aufgeklaert werden wie wird dokumentiert und welche Fallstricke schaffen Haftungsrisiko fuer Anwalt und Steuerberater. Anwendungsfall Berater hat eine Empfehlung zu unterbreiten die Mehrsteuer Nachzahlungszinsen oder strafrechtliche Risiken aufwirft und muss dies dokumentieren. Behandelt Hinweispflicht auf Risiken Steuergefahren Vorteilhaftigkeitsvergleich Aufklaerung ueber Vergleichswege und Dokumentation in der Akte. Output Aufklaerungsbogen und Bestaetigungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme und fa-stu-rvg-steuerstreit."
+description: "Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — wann muss aufgeklaert werden wie wird dokumentiert und welche Fallstricke schaffen Haftungsrisiko für Anwalt und Steuerberater. Anwendungsfall Berater hat eine Empfehlung zu unterbreiten die Mehrsteuer Nachzahlungszinsen oder strafrechtliche Risiken aufwirft und muss dies dokumentieren. Behandelt Hinweispflicht auf Risiken Steuergefahren Vorteilhaftigkeitsvergleich Aufklaerung ueber Vergleichswege und Dokumentation in der Akte. Output Aufklaerungsbogen und Bestaetigungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme und fa-stu-rvg-steuerstreit."
 ---
 
 # Mandantenkommunikation und Aufklaerungspflicht im Steuerrecht
@@ -18,7 +18,7 @@ description: "Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — 
 3. Welche Fristen laufen — hat der Mandant verstanden dass Untaetigkeit zur Bestandskraft fuehrt?
 4. Wurde der Mandant ueber Honorarrahmen und Kostenrisiken aufgeklaert?
 5. Wurde die Empfehlung schriftlich oder mit Aktenvermerk dokumentiert?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -62,7 +62,7 @@ Ausdruecklich hingewiesen wurde auf:
 - Nachzahlungszinsen § 233a AO und Hinterziehungszinsen § 235 AO
 - Frist und Kosten
 
-Der Mandant entscheidet sich fuer Option [...].
+Der Mandant entscheidet sich für Option [...].
 
 [ORT, DATUM] [UNTERSCHRIFT MANDANT] [UNTERSCHRIFT BERATER]
 ```

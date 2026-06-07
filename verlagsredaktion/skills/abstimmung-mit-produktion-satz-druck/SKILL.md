@@ -19,7 +19,7 @@ Klaert die Schnittstelle zur Produktion: Satzdaten Format Bildaufloesung Schrift
 
 ## Worum geht es konkret
 
-Nach der inhaltlichen und sprachlichen Freigabe geht das Manuskript in die Produktion: Satz, Layout, Korrekturfahnen, Druckfreigabe, Druck, Auslieferung. Auch wenn diese Schritte oft an externe Dienstleister gehen, bleibt die Redaktion verantwortlich fuer Termintreue und Endqualitaet. Dieser Skill beschreibt die saubere Produktionsschnittstelle.
+Nach der inhaltlichen und sprachlichen Freigabe geht das Manuskript in die Produktion: Satz, Layout, Korrekturfahnen, Druckfreigabe, Druck, Auslieferung. Auch wenn diese Schritte oft an externe Dienstleister gehen, bleibt die Redaktion verantwortlich für Termintreue und Endqualitaet. Dieser Skill beschreibt die saubere Produktionsschnittstelle.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -27,7 +27,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 
 1. Inhouse-Satz oder externer Setzer?
 2. Welches Druckverfahren (Offset, Digital, Print-on-Demand)?
-3. Welche Bilddaten-Qualitaet (300 dpi+ fuer Print)?
+3. Welche Bilddaten-Qualitaet (300 dpi+ für Print)?
 4. Welche Schriftrechte (Lizenz der Setzschrift, OFL?)?
 
 ## Material- bzw. Sachrahmen
@@ -38,9 +38,9 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 - Druckschrift mit Lizenznachweis.
 - Termine (Druckfreigabe, Druck, Auslieferung).
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
-1. **Uebergabe-Paket fuer Setzer:**
+1. **Uebergabe-Paket für Setzer:**
  - Manuskript als .docx (freigegeben, alle Aenderungen akzeptiert).
  - Bilder als separate Dateien in 300+ dpi.
  - Tabellen ggf. separat als .xlsx.
@@ -66,7 +66,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 ## Praxistipps der alten Redaktion
 
 - "Druckfreigabe ist eine Unterschrift, nicht ein Mailsatz. Wird im Streitfall gebraucht."
-- Bilder im Manuskript eingebunden sind fuer Setzer minderwertig - immer separat in 300+ dpi.
+- Bilder im Manuskript eingebunden sind für Setzer minderwertig - immer separat in 300+ dpi.
 - Tabellen mit komplexer Struktur als .xlsx zusaetzlich liefern, nicht nur als Word-Tabelle.
 - Schriftrechte pruefen - bei kommerziellen Druckereien Standardschriften verfuegbar, bei Sonderschriften Lizenznachweis.
 - Bei Loseblattwerk: Ergaenzungslieferungen brauchen ueberlappende Termine und klare Versionskontrolle.
@@ -90,7 +90,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 
 **Druckfreigabe-Vorlage:**
 
-> Verlag [Name] erteilt fuer das Werk
+> Verlag [Name] erteilt für das Werk
 > Mueller, "Praxiskommentar Plattformhaftung", 1. Auflage 2027
 > Versionsstand: v9_freigabe_2026-12-15.pdf
 > die Druckfreigabe.
@@ -112,7 +112,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 - Bilder im Word, nicht separat - Druckqualitaet schlecht.
 - Druckfreigabe ohne Versionsstand - im Streitfall nicht beweisbar.
 - Schriftrechte uebersehen - Drucker reklamiert.
-- Termine zu eng, kein Puffer fuer zweite Korrekturfahne.
+- Termine zu eng, kein Puffer für zweite Korrekturfahne.
 - Reklamationen ohne Dokumentation - bei nachstehender Auflage gleicher Fehler.
 
 ## Querverweise
@@ -126,8 +126,8 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 ## Quellen Stand 06/2026
 
 - Verlagsgesetz, [https://www.gesetze-im-internet.de/verlg/](https://www.gesetze-im-internet.de/verlg/).
-- UrhG §§ 31 ff. fuer Schriftnutzungsrechte.
+- UrhG §§ 31 ff. für Schriftnutzungsrechte.
 - DIN 16511 (Korrekturzeichen).
 - ISO 12647 (Druckfarbsteuerung Offset).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.

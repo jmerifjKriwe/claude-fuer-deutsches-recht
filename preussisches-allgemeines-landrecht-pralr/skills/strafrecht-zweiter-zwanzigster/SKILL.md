@@ -46,7 +46,7 @@ Sachverhalt: Betrunkener Kutscher rammt anderen Wagen.
 ALR-Loesung: ALR II 20 §§ 19-22 — schuldhaft selbst herbeigefuehrte Trunkenheit schliesst die Schuldfaehigkeit nicht aus; volle Strafbarkeit (Vorlaeufer der actio libera in causa).
 
 ### Heutige Fortwirkung
-- ALR II 20 abgeloest durch das Preussische Strafgesetzbuch 14.04.1851 (Vorbild fuer das Reichsstrafgesetzbuch 1871).
+- ALR II 20 abgeloest durch das Preussische Strafgesetzbuch 14.04.1851 (Vorbild für das Reichsstrafgesetzbuch 1871).
 - Reichsstrafgesetzbuch 1871 — heutige Fassung StGB.
 - § 20 StGB Schuldunfaehigkeit ist Erbe der ALR-Regelung.
 - Actio libera in causa als Doktrin im modernen Strafrecht — Erbe ALR-Tradition.

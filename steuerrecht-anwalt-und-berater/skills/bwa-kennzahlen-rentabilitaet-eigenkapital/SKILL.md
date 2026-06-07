@@ -13,7 +13,7 @@ description: "Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite 
 
 ## Kernsachverhalt
 
-Rentabilitaetskennzahlen zeigen, wie effizient ein Unternehmen Kapital einsetzt. Die wichtigsten: Eigenkapital-Rendite (Return on Equity), Gesamtkapital-Rendite (Return on Investment), Umsatzrentabilitaet (Return on Sales). Der Steuerberater nutzt sie fuer Mandantenbewertung, Investor-Update und Vergleich mit Marktstandards. Bei haftungsbeschraenkten Gesellschaften besonders relevant: ueber 5-Jahres-Durchschnitt nachhaltige Rentabilitaet ist Indikator fuer Going-concern (§ 252 HGB).
+Rentabilitaetskennzahlen zeigen, wie effizient ein Unternehmen Kapital einsetzt. Die wichtigsten: Eigenkapital-Rendite (Return on Equity), Gesamtkapital-Rendite (Return on Investment), Umsatzrentabilitaet (Return on Sales). Der Steuerberater nutzt sie für Mandantenbewertung, Investor-Update und Vergleich mit Marktstandards. Bei haftungsbeschraenkten Gesellschaften besonders relevant: ueber 5-Jahres-Durchschnitt nachhaltige Rentabilitaet ist Indikator für Going-concern (§ 252 HGB).
 
 ## Kaltstart-Rueckfragen
 
@@ -22,7 +22,7 @@ Rentabilitaetskennzahlen zeigen, wie effizient ein Unternehmen Kapital einsetzt.
 3. Sind kalkulatorische Positionen einzubeziehen (kalk. Unternehmerlohn, kalk. Zinsen)?
 4. Welche Branchenvergleichsbasis?
 5. Sondereffekte zu bereinigen (Anlagenverkauf, Sonderabschreibung)?
-6. Welche Bezugsperiode fuer Durchschnitts-EK (Jahresanfang/Ende, Quartals-Mittel)?
+6. Welche Bezugsperiode für Durchschnitts-EK (Jahresanfang/Ende, Quartals-Mittel)?
 7. Welche Steuerquote ist anzusetzen (bei mehrjaehrigen Vergleichen)?
 8. Welcher Verwendungszweck — interne Steuerung, Investor-Update, Konzern-Reporting?
 
@@ -98,7 +98,7 @@ Beispiel: ROI 8 Prozent kann sich aus Umsatzrentabilitaet 4 Prozent x Kapitalums
 
 ### Phase 5 — Mehrjahres-Trend
 
-- 5-Jahres-Trend EK-Rendite ist Indikator fuer Going-concern.
+- 5-Jahres-Trend EK-Rendite ist Indikator für Going-concern.
 - Bei nachhaltig fallender EK-Rendite: Krisenfrueherkennung.
 - Bei stark schwankender Rendite: Volatilitaets-Risiko.
 

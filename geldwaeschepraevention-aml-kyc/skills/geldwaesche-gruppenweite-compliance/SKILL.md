@@ -23,13 +23,13 @@ Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienst
 3. Welche Auslagerungsvertraege bestehen und wie werden die AML-Pflichten dort kontrolliert?
 4. Gibt es einen gruppenweiten Policy-Rahmen oder Einzelregelungen pro Einheit?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 9 GwG — Gruppenweite Pflichten und Kontrollen
 - § 6 Abs. 2 GwG — Pflicht zur Bestellung eines Geldwaeschebeauftragten auf Gruppenebene
-- § 25l KWG — Gruppenweite Sorgfaltspflichten fuer Kreditinstitute
+- § 25l KWG — Gruppenweite Sorgfaltspflichten für Kreditinstitute
 - Art. 45 AMLD4 — Gruppenweite Policies und Verfahren (EU-Recht)
 
 ## Quellenregel

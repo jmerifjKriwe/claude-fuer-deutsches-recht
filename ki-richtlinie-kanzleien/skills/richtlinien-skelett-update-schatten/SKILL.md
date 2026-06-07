@@ -42,10 +42,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — KI-Nutzungsrichtlinie Skelett fuer Kanzlei erstellen | Skelett nach Schema; Template unten |
+| Standard — KI-Nutzungsrichtlinie Skelett für Kanzlei erstellen | Skelett nach Schema; Template unten |
 | Variante A — Kanzlei will nur Kernregeln kein langes Dokument | Kurzrichtlinie 2 bis 3 Seiten statt Vollskelett |
 | Variante B — Richtlinie ist Teil groesserer Kanzlei-Policy | Modul-Richtlinie als Teil des Gesamtpolicys |
-| Variante C — Richtlinie nur fuer bestimmten Fachbereich | Fachbereich-spezifisches Skelett; nicht kanzleiweite Geltung |
+| Variante C — Richtlinie nur für bestimmten Fachbereich | Fachbereich-spezifisches Skelett; nicht kanzleiweite Geltung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -90,7 +90,7 @@ Anlage: Musterklauseln § 43e BRAO
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -115,7 +115,7 @@ Das Skelett ist bei wesentlichen Rechtsänderungen (neue KI-VO-Durchführungsrec
 3. Welche KI-Systeme sollen durch die Richtlinie abgedeckt werden?
 4. Gibt es bereits Teilregelungen — ist das Skelett Ersterfassung oder Konsolidierung?
 5. Wer genehmigt die fertige Richtlinie — Partnerkreis, GF, Betriebsrat?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Richtlinien-Skelett KI-Nutzung
 **Adressat:** Richtlinien-Verantwortlicher — Tonfall: strukturiert, modular

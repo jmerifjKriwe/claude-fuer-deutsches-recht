@@ -45,7 +45,7 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 ### Verwaltungsanweisungen
 
 - Gemeinsame Rundschreiben Spitzenverbaende KK zum Werkstudentenprivileg.
-- Hochschulgesetz der Laender.
+- Hochschulgesetz der Länder.
 
 ## Workflow
 

@@ -174,7 +174,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Die Legistik-Werkstatt ist ein Plugin für Referentinnen und Referenten in Bundesministerien und Landesministerien, für Bundestags- und Landtagsfraktionen, für Oppositionsarbeit, Ausschussarbeit, kommunale und kammerliche Normgeber, Verfassungsrechtlerinnen und Verfassungsrechtler sowie für fachlich zuliefernde Verbände. Sie hilft, Gesetzesentwürfe, Änderungsanträge, Entschließungsanträge, Rechtsverordnungen und Satzungen zu erstellen, zu prüfen und in den jeweils passenden Regierungs- oder Parlamentsprozess einzubringen.
 
-Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsaufnahme ueber den Referentenentwurf, die Ressortabstimmung, Verbandeanhoerungen, die Kabinettsreife, Synopsen und Lesefassungen bis zur XML-Paralleldarstellung. Es enthaelt ausserdem Quercheckmodule fuer Verfassungsmaessigkeit, Europarechtskonformitaet, Erfuellungsaufwand und Goldplating-Vermeidung.
+Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsaufnahme ueber den Referentenentwurf, die Ressortabstimmung, Verbandeanhoerungen, die Kabinettsreife, Synopsen und Lesefassungen bis zur XML-Paralleldarstellung. Es enthaelt ausserdem Quercheckmodule für Verfassungsmaessigkeit, Europarechtskonformitaet, Erfuellungsaufwand und Goldplating-Vermeidung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -189,20 +189,20 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 
 ## Fachbegriffe (kurz erklaert)
 
-- **HdR** — Handbuch der Rechtsfoermlichkeit; Leitfaden des Bundesjustizministeriums fuer die Formulierung von Rechtstexten.
-- **GGO** — Gemeinsame Geschaeftsordnung der Bundesministerien; regelt Verfahren und Fristen fuer die Ressortabstimmung.
+- **HdR** — Handbuch der Rechtsfoermlichkeit; Leitfaden des Bundesjustizministeriums für die Formulierung von Rechtstexten.
+- **GGO** — Gemeinsame Geschaeftsordnung der Bundesministerien; regelt Verfahren und Fristen für die Ressortabstimmung.
 - **NKR** — Nationaler Normenkontrollrat; unabhaengiges Gremium, das Erfuellungsaufwand und buerokratische Belastungen prueft.
 - **Gesetzentwurf aus der Mitte** — Parlamentarische Gesetzesinitiative, die nicht von der Bundesregierung oder Landesregierung, sondern aus dem Parlament kommt; im Bund typischerweise durch eine Fraktion oder Abgeordnete in der erforderlichen Stärke.
 - **Formulierungshilfe** — Fachlicher Zuliefertext, häufig aus einem Ministerium, der formal als parlamentarische Vorlage, Änderungsantrag oder Ausschussfassung weiterverwendet werden kann; formaler Initiator und fachlicher Verfasser sind sauber zu trennen.
 - **Goldplating** — Ueberimplementierung von EU-Richtlinien: nationale Zusatzanforderungen ueber das EU-Mindestmass hinaus.
 - **Synopse** — Gegenueberststellung von bisherigem Recht, neuem Recht und Aenderungsbefehl in einer Dreispalten-Tabelle.
-- **LegalDocML** — Maschinenlesbares XML-Format fuer deutsche Rechtstexte; Standard des Bundesjustizministeriums.
+- **LegalDocML** — Maschinenlesbares XML-Format für deutsche Rechtstexte; Standard des Bundesjustizministeriums.
 - **Normenkartierung** — Systematische Erfassung aller durch ein Vorhaben beruehrten Normen und ihrer Aenderungsbedarfe.
 - **Kabinettsentwurf** — Abgestimmter Regierungsentwurf, der dem Kabinett zur Beschlussfassung vorgelegt wird.
 
 ## Rechtsgrundlagen
 
-- Art. 70-74 GG (Gesetzgebungskompetenzen Bund und Laender)
+- Art. 70-74 GG (Gesetzgebungskompetenzen Bund und Länder)
 - Art. 80 Abs. 1 GG (Verordnungsermaechtigung)
 - Art. 76-78 GG (Gesetzgebungsverfahren im Bund)
 - Geschäftsordnung des Deutschen Bundestages, insbesondere Vorlagen aus der Mitte des Bundestages
@@ -211,7 +211,7 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - Art. 288 AEUV (Wirkung von EU-Verordnungen und Richtlinien)
 - Art. 267 AEUV (Vorabentscheidungsverfahren EuGH)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Startbahn klären: Bundesressort, Bundestag, Landesressort, Landtag oder sonstiger Normgeber.
 2. Legistischen Auftrag aufnehmen und Regelungsziele klaeren (`legistik-auftragsaufnahme`).
@@ -225,7 +225,7 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - `legistik-auftragsaufnahme` — Legistischen Auftrag strukturiert aufnehmen und in Regelungsziele umwandeln.
 - `normhierarchie-routing` — Richtige Startbahn und Normebene bestimmen: Regierung, Parlament, Gesetz, Verordnung, Satzung oder Antrag.
 - `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz nach Art. 70-74 GG pruefen bevor Entwurf aufgesetzt wird.
-- `satzungskompetenz-pruefen` — Satzungskompetenz fuer Koerperschaften und Anstalten des oeffentlichen Rechts pruefen.
+- `satzungskompetenz-pruefen` — Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts pruefen.
 - `verordnungsermaechtigung-art80` — Verordnungsermaechtigung nach Art. 80 Abs. 1 GG pruefen bevor Rechtsverordnung entworfen wird.
 - `referentenentwurf-bauen` — Vollstaendigen Referentenentwurf des Bundes oder Landes aufbauen.
 - `gesetzesentwurf-kabinett` — Kabinettsentwurf nach Ressortabstimmung aus dem Referentenentwurf erstellen.
@@ -234,13 +234,13 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - `verfassungsmaessigkeit-quercheck` — Querschnittspruefung Verfassungsmaessigkeit eines Gesetzesentwurfs oder einer Verordnung.
 - `europarechtskonformitaet` — Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht pruefen.
 - `goldplating-vermeiden` — Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten.
-- `folgenabschaetzung-erfuellungsaufwand` — Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung ermitteln und darstellen.
-- `folgenabschaetzung-nachhaltigkeit` — Weitere Folgen und Nachhaltigkeitspruefung fuer Gesetzesentwurf erstellen.
+- `folgenabschaetzung-erfuellungsaufwand` — Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung ermitteln und darstellen.
+- `folgenabschaetzung-nachhaltigkeit` — Weitere Folgen und Nachhaltigkeitspruefung für Gesetzesentwurf erstellen.
 - `normenkontrollrat-kmu-check` — Vorlage an den NKR vorbereiten und KMU-Check durchfuehren.
 - `normenkartierung` — Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen.
 - `terminologie-konsistenz` — Terminologie-Konsistenz im legistischen Entwurf pruefen und Begriffstabelle aufbauen.
 - `zirkelschluss-pruefen` — Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf aufspueren.
-- `inkrafttreten-uebergangsrecht` — Inkrafttretens- und Uebergangsregelungen fuer Gesetze und Verordnungen formulieren.
+- `inkrafttreten-uebergangsrecht` — Inkrafttretens- und Uebergangsregelungen für Gesetze und Verordnungen formulieren.
 - `verbaendeanhoerung-ressortabstimmung` — Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswerten.
 - `synopse-erstellen` — Synopse als Dreispalten-Tabelle (bisheriges Recht, neues Recht, Aenderungsbefehl) erstellen.
 - `lesefassung-konsolidiert` — Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen.
@@ -255,7 +255,7 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 - Landesmodus ernst nehmen: Ohne Bundesland keine verlässliche Aussage zu Landesverfassung, Landtagsgeschäftsordnung, Kabinettsverfahren und Verkündung.
 - Goldplating ist politisch und juristisch heikel: Nationale Mehrbelastungen ueber EU-Mindestanforderungen hinaus muessen explizit begruendet werden.
 - NKR-Fristen sind verbindlich: Vorlage muss mit vollstaendigen Erfuellungsaufwands-Angaben rechtzeitig erfolgen.
-- Terminologie-Konsistenz ist elementar: Verschiedene Begriffe fuer dasselbe Konzept koennen zu Auslegungsstreitigkeiten fuehren.
+- Terminologie-Konsistenz ist elementar: Verschiedene Begriffe für dasselbe Konzept koennen zu Auslegungsstreitigkeiten fuehren.
 - Uebergangsrecht nicht vergessen: Altfallregelungen und Bestandsschutz sichern Rechtsicherheit und vermeiden Verfassungsruegen.
 
 ## Typische Fehler
@@ -272,7 +272,7 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 
 - `datenschutzrecht` — DSGVO-Umsetzungsgesetze und datenschutzrechtliche Folgenabschaetzungen bei neuen Regelungsvorhaben.
 - `regulatorisches-recht` — Nationale Umsetzung von Finanzmarkt-Richtlinien (KWG, ZAG, DORA) als legistisches Vorhaben.
-- `energierecht` — Gesetzgebungsverfahren fuer EEG-Novellen, EnWG-Aenderungen und GEG-Fortentwicklung.
+- `energierecht` — Gesetzgebungsverfahren für EEG-Novellen, EnWG-Aenderungen und GEG-Fortentwicklung.
 
 ## Quellen und Aktualitaet
 

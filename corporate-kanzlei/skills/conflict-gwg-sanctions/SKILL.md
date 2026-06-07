@@ -1,6 +1,6 @@
 ---
 name: conflict-gwg-sanctions
-description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken."
+description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Länderrisiken."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck
@@ -13,7 +13,7 @@ description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Co
 
 ## Fachkern: Konflikt-, GwG- und Sanktionscheck
 
-- **Corporate-Aufgabe (Konflikt-, GwG- und Sanktionscheck):** Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken.
+- **Corporate-Aufgabe (Konflikt-, GwG- und Sanktionscheck):** Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Länderrisiken.
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Transaktionsstruktur, Umsätze, Erwerberkontrolle, Zielbranche und Jurisdiktionen.
@@ -137,8 +137,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 2. Wirtschaftlich Berechtigter (§ 3 GwG) | Nauerliche Person >25 %; bei Kontrolle auch weniger | Aktionaeersstruktur; UBO-Erklaerung | Standard |
 | 3. PEP-Check | Politisch exponierte Person (Regierung, Parlament, Richter, Diplomaten, Familienangehoerige) | PEP-Datenbank (z.B. Dow Jones, Refinitiv World-Check) | Erhoehte Sorgfalt |
 | 4. Sanktions-Check | EU-Sanktionslisten; US OFAC SDN; UN-Sanktionsliste | Sanktionsdatenbank; OFAC-Match | Hochrisiko: Ablehnen |
-| 5. Mittelherkunft | Woher stammt das Kapital fuer die Transaktion? | Jahresabschluss, Bankbestaetigung, Finanzierungsvertrag | Erhoehte Sorgfalt bei Hochrisikolaendern |
-| 6. Laenderrisiko | Hochrisikolaender nach § 15 GwG; EU-Liste; FATF-Liste | FATF-Laenderliste | Erhoehte Sorgfalt |
+| 5. Mittelherkunft | Woher stammt das Kapital für die Transaktion? | Jahresabschluss, Bankbestaetigung, Finanzierungsvertrag | Erhoehte Sorgfalt bei Hochrisikolaendern |
+| 6. Länderrisiko | Hochrisikolaender nach § 15 GwG; EU-Liste; FATF-Liste | FATF-Länderliste | Erhoehte Sorgfalt |
 | 7. Transaktionsstruktur | Ungewoehnliche Komplexitaet ohne erkennbaren wirtschaftlichen Grund | Geschaeftszweck-Erklaerung | Erhoehte Sorgfalt |
 
 ## Sanktions-Schnellpruefung
@@ -152,14 +152,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Konsequenz bei Treffer
 → Mandatsannahme ablehnen. Bestehendes Mandat: Niederlegung pruefen. Verdachtsmeldung an FIU (§ 43 GwG).
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Parteien-Liste erstellen** — alle Parteien, bekannte Affiliates, UBOs aus Unterlagen zusammenstellen
 2. **Konflikt-System abfragen** — alle Namen im internen Konfliktsystem; unklare Treffer an Senior Partner
 3. **GwG-CDD starten** — Identifizierungsdokumente einholen; UBO-Erklaerung unterschreiben lassen
 4. **Sanktions-Screening** — alle Personen und Gesellschaften gegen EU/OFAC/UN-Listen; Datum dokumentieren
 5. **PEP-Pruefung** — relevante Personen durch PEP-Datenbank; bei Treffer: erhoehte Sorgfalt
-6. **Laender-Risiko bewerten** — Hochrisikolaender nach FATF; verstaerkte Pruefung
+6. **Länder-Risiko bewerten** — Hochrisikolaender nach FATF; verstaerkte Pruefung
 7. **Mittelherkunft klaeren** — Finanzierungsstruktur; keine unerklarlichen Barmittel
 8. **Entscheidung** — Mandatsannahme / Enhanced Due Diligence / Ablehnung
 9. **Dokumentation** — CDD-Bogen abschliessen; Aktennotiz; Freigabe durch Partner

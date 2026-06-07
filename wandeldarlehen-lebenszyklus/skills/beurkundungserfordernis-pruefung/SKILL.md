@@ -65,7 +65,7 @@ Verpflichtungs- und Verfügungsebene sauber getrennt halten. Keine Formulierunge
 
 ### 7. Online-Beurkundung als Option prüfen (DiRUG/DiREG)
 - Seit DiRUG (BGBl. I 2021, 3338; in Kraft 01.08.2022) ist Online-Beurkundung der GmbH-Bargruendung moeglich (§ 2 Abs. 3 GmbHG; § 16a BeurkG).
-- Durch DiREG (Gesetz zur Ergaenzung der Regelungen zur Umsetzung der Digitalisierungsrichtlinie) ist seit 01.08.2023 die Online-Beurkundung erweitert auf: GmbH-Sachgruendung, GmbH-Satzungsaenderungen einschliesslich Kapitalmassnahmen, Uebernahmeerklaerungen bei Kapitalerhoehung, sowie Online-Beglaubigung fuer Vereinsregister-Anmeldungen. Wichtig: nicht-einstimmige Mehrheitsbeschluesse sind weiter physisch zu beurkunden (kein Online-Verfahren).
+- Durch DiREG (Gesetz zur Ergaenzung der Regelungen zur Umsetzung der Digitalisierungsrichtlinie) ist seit 01.08.2023 die Online-Beurkundung erweitert auf: GmbH-Sachgruendung, GmbH-Satzungsaenderungen einschliesslich Kapitalmassnahmen, Uebernahmeerklaerungen bei Kapitalerhoehung, sowie Online-Beglaubigung für Vereinsregister-Anmeldungen. Wichtig: nicht-einstimmige Mehrheitsbeschluesse sind weiter physisch zu beurkunden (kein Online-Verfahren).
 - Mit Lender im Ausland: Online-Beurkundung kann Reise- und Apostille-Aufwand sparen. Voraussetzung: Notar mit Online-Verfahren der Bundesnotarkammer (BNotK); elektronische Identifizierung via eID-Funktion oder Lichtbildausweis-Abgleich.
 - Quelle: BMJ-Pressemitteilung https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html ; § 16a BeurkG https://www.gesetze-im-internet.de/beurkg/__16a.html
 
@@ -112,5 +112,5 @@ Stand: 05/2026.
 - § 16a BeurkG: https://www.gesetze-im-internet.de/beurkg/__16a.html
 - DiRUG (BGBl. I 2021, 3338): https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id=%27bgbl121s3338.pdf%27]
 - DiREG-Inkrafttreten 01.08.2023 (Erweiterung Online-Verfahren auf Sachgruendung, Satzungsaenderungen, Kapitalerhoehung): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html
-- § 19 IV GmbHG (Aufrechnung Stammeinlage gegen Gesellschafterforderung; Hinweis: Erleichterungen durch MoMiG seit 2008, Beleg fuer Wandlung als Sacheinlage wegen Konfusion ueblich): https://www.gesetze-im-internet.de/gmbhg/__19.html
+- § 19 IV GmbHG (Aufrechnung Stammeinlage gegen Gesellschafterforderung; Hinweis: Erleichterungen durch MoMiG seit 2008, Beleg für Wandlung als Sacheinlage wegen Konfusion ueblich): https://www.gesetze-im-internet.de/gmbhg/__19.html
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -24,14 +24,14 @@ Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begl
 3. **Phase des Verfahrens?** — Linienplanung, Planfeststellung, Genehmigung, Oeffentlichkeitsbeteiligung, Eroerrterungstermin, Entscheidung, Klage?
 4. **Einwendungsfristen?** — § 17a FStrG i.V.m. § 73 VwVfG: 6 Wochen nach Bekanntmachung der Auslegung.
 5. **Ausschlusswirkung nicht vergessen!** — § 73 Abs. 4 Satz 3 VwVfG: nicht fristgerecht erhobene Einwendungen sind ausgeschlossen (Praeklusion).
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-- **§ 17 FStrG** — Planfeststellung fuer Bundesfernstrassen
-- **§ 18 AEG** — Planfeststellung fuer Schienenverkehr
-- **§ 28 PBefG** — Planfeststellung fuer Strassenbahnlinien
-- **§ 73 VwVfG** — Verfahren der Planfeststellung; Beteiligung der Behoerden und der Oeffentlichkeit
+- **§ 17 FStrG** — Planfeststellung für Bundesfernstrassen
+- **§ 18 AEG** — Planfeststellung für Schienenverkehr
+- **§ 28 PBefG** — Planfeststellung für Strassenbahnlinien
+- **§ 73 VwVfG** — Verfahren der Planfeststellung; Beteiligung der Behörden und der Oeffentlichkeit
 - **§ 74 VwVfG** — Planfeststellungsbeschluss; Bestandskraft; Nebenbestimmungen
 - **§ 75 VwVfG** — Rechtswirkungen des Planfeststellungsbeschlusses; Konzentrationswirkung
 - **§ 17 Abs. 1 Satz 2 VwVfG** — Abwaegungsgebot
@@ -42,16 +42,16 @@ Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begl
 
 - **BVerwG 23.06.2020, 9 A 22.19** (A 49 Mittelhessen): Klimaschutz und Klimawandelfolgen sind in der Abwaegung zu beruecksichtigen; Planfeststellungsbeschluss aufgehoben. Quelle: bverwg.de — Pressemitteilung 41/2020.
 - **BVerwG 04.05.2022, 9 A 7.21** (A 14): UVP-Anforderungen; sektorale Klimaschutzpruefung. Quelle: bverwg.de.
-- **BVerwG 11.10.2017, 9 A 14.16** (A 33): Planergaenzungsverfahren bei Heilung von Abwaegungsfehlern; Massstab fuer "fehlerhafte Abwaegung". Quelle: bverwg.de.
+- **BVerwG 11.10.2017, 9 A 14.16** (A 33): Planergaenzungsverfahren bei Heilung von Abwaegungsfehlern; Massstab für "fehlerhafte Abwaegung". Quelle: bverwg.de.
 - **BVerwG 09.02.2017, 7 A 2.15** (Elbvertiefung): Anforderungen an FFH-Vertraeglichkeitspruefung. Quelle: bverwg.de.
-- **EuGH 28.05.2020, C-535/18** (IL u.a.): UVP-Richtlinie 2011/92/EU; oeffentliche Beteiligung; sektoraler Schutz. Quelle: curia.europa.eu.
+- **EuGH 28.05.2020, C-535/18** (IL u.a.): UVP-Richtlinie 2011/92/EU; öffentliche Beteiligung; sektoraler Schutz. Quelle: curia.europa.eu.
 
 **Gesetzeslage 2026:** LNG-Beschleunigungsgesetz und Planungsbeschleunigungsgesetze (Genehmigungsbeschleunigungsgesetz Energie BGBl. I 2023 S. 1565); Wind-an-Land-Gesetz (BGBl. I 2022 S. 1353); Solarpaket I (BGBl. I 2024). Vor Mandatsanwendung aktuellen Stand pruefen.
 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -85,7 +85,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Einwendungsschreiben gegen Planfeststellungsbeschluss | Einwendung nach Schema; Template unten |
 | Variante A — Einwendungsfrist bereits abgelaufen Praeklusion | Nachholung der Einwendung nicht moeglich; andere Rechtsmittel pruefen |
-| Variante B — Mandant ist Traeger oeffentlicher Belange | Einwendung als ToEB; anderes Gewicht und Verfahren |
+| Variante B — Mandant ist Traeger öffentlicher Belange | Einwendung als ToEB; anderes Gewicht und Verfahren |
 | Variante C — Planfeststellung hat UVP-Fehler | UVP-Fehler-Ruege als staerkster Angriffspunkt |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -121,7 +121,7 @@ Wir beantragen: [Planänderung / Auflagen / Entschaedigung].
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

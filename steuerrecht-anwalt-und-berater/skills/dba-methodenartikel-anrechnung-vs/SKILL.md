@@ -34,7 +34,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - **Art. 23A OECD-MA** — Freistellungsmethode mit Progressionsvorbehalt.
 - **Art. 23B OECD-MA** — Anrechnungsmethode.
-- **§ 32b EStG** — Progressionsvorbehalt fuer freigestellte auslaendische Einkuenfte.
+- **§ 32b EStG** — Progressionsvorbehalt für freigestellte auslaendische Einkuenfte.
 - **§ 34c EStG** — Anrechnung auslaendischer Steuern, alternativ Abzug, Pauschalierung.
 - **§ 34d EStG** — Definition auslaendische Einkuenfte.
 - **§ 50d Abs. 8 EStG** — Subject-to-Tax bei Arbeitseinkuenften.
@@ -72,7 +72,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ### Aktivitaetsklauseln
 
-- Viele aeltere DBA setzen fuer Freistellung Aktivitaeten voraus (z.B. produzierendes Gewerbe, Handel, Bank-/Versicherungsgeschaeft).
+- Viele aeltere DBA setzen für Freistellung Aktivitaeten voraus (z.B. produzierendes Gewerbe, Handel, Bank-/Versicherungsgeschaeft).
 - Reine Verwaltungstaetigkeiten (Holding, Vermoegensverwaltung) fallen in die Anrechnung.
 - Klauseltexte variieren stark — DBA-Text und Protokoll im Einzelfall konkret pruefen.
 
@@ -110,7 +110,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ### Phase 4 — Berechnung
 
-1. Bei Freistellung: Progressionsvorbehalt § 32b EStG berechnen (Hinzurechnung zur Bemessungsgrundlage, dann Durchschnittssteuersatz fuer inlaendisches Einkommen).
+1. Bei Freistellung: Progressionsvorbehalt § 32b EStG berechnen (Hinzurechnung zur Bemessungsgrundlage, dann Durchschnittssteuersatz für inlaendisches Einkommen).
 2. Bei Anrechnung: Per-Country-Limitation pruefen — auslaendische Steuer nur bis zur deutschen Steuer auf diese Einkuenfte anrechenbar.
 3. Anlage AUS (private und betriebliche auslaendische Einkuenfte) bzw. N-AUS (Arbeitnehmer) ausfuellen.
 
@@ -132,7 +132,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 |---|---|---|
 | Deutsche Einkuenfte | 60.000 EUR | 60.000 EUR |
 | Auslaendische Einkuenfte | 40.000 EUR (freigestellt) | 40.000 EUR (einbezogen) |
-| Welteinkommen | 100.000 EUR (nur fuer Tarif) | 100.000 EUR |
+| Welteinkommen | 100.000 EUR (nur für Tarif) | 100.000 EUR |
 | Tarifsteuer auf Welteinkommen | (Tarif) | (Tarif) |
 | Deutsche Steuer auf inlaendischen Anteil | 60.000 x Durchschnittssatz | 100.000 x Tarif |
 | Anrechnungsbetrag auslaend. Steuer | – | max. anteilig auf 40.000 |
@@ -142,7 +142,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ## Strategie und Praxis-Tipps
 
-- Wahlrecht § 34c Abs. 2 EStG (Abzug statt Anrechnung) ist immer dann sinnvoll, wenn die deutsche Steuer auf die Einkunft zu gering fuer volle Anrechnung waere (negatives Hochrechnungsergebnis).
+- Wahlrecht § 34c Abs. 2 EStG (Abzug statt Anrechnung) ist immer dann sinnvoll, wenn die deutsche Steuer auf die Einkunft zu gering für volle Anrechnung waere (negatives Hochrechnungsergebnis).
 - Bei mehreren Quellenstaaten: Per-Country-Limitation getrennt pro Land berechnen, nicht aggregieren.
 - Subject-to-Tax-Klauseln ueberraschen oft bei Beteiligten passiver Einkuenfte (z.B. Lizenz an Steueroase) — frueh pruefen.
 - AStG-Reform 2022 hat Niedrigsteuerschwelle geaendert — **bei jedem konkreten Fall aktuelle Schwelle prufen**.
@@ -152,7 +152,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - **Auslaendische Steuerbescheinigung vor Erklaerungsabgabe einsammeln**: ohne offiziellen Steuerbescheid des Quellenstaats wird die Anrechnung verweigert. Bei laenderlangen Bearbeitungszeiten (Italien, Spanien, Lateinamerika): Erklaerungsfrist § 109 AO verlaengern, bis Bescheid vorliegt.
 - **Umrechnungskurs Tag der Steuerentstehung**: Anlage AUS verlangt EZB-Referenzkurs am Tag der Steuerentstehung — Beleg aus dem EZB-Archiv mitliefern (statistical data warehouse, sdw.ecb.europa.eu).
-- **Anlage AUS und Anlage N-AUS NICHT verwechseln**: AUS fuer Kapitaleinkuenfte und gewerbliche/Betriebs-Auslandseinkuenfte; N-AUS fuer Lohneinkuenfte. Falsches Formular fuehrt zur Komplett-Ablehnung der Anrechnung im Erstprueflauf.
+- **Anlage AUS und Anlage N-AUS NICHT verwechseln**: AUS für Kapitaleinkuenfte und gewerbliche/Betriebs-Auslandseinkuenfte; N-AUS für Lohneinkuenfte. Falsches Formular fuehrt zur Komplett-Ablehnung der Anrechnung im Erstprueflauf.
 - **Per-Country-Limitation getrennt pro Staat berechnen**: nicht aggregiert. Bei drei Quellenstaaten drei Berechnungen. FA gibt Bescheid sonst mit Nachfrageauftrag zurueck.
 - **§ 50d Abs. 9 Satz 1 Nr. 1 vs. Nr. 2 EStG sauber abgrenzen**: Nr. 1 (Qualifikationskonflikt) und Nr. 2 (Subject-to-Tax in dubio) haben unterschiedliche Voraussetzungen. Pruefer schreiben Memo, wenn nur "§ 50d Abs. 9 EStG" pauschal zitiert wird.
 
@@ -218,7 +218,7 @@ Bei Land Y mit Freistellungsmethode:
 | Auslaendische Einkuenfte (freigestellt) | 100.000 EUR |
 | Weiteres deutsches Einkommen | 80.000 EUR |
 | Bemessungsgrundlage DE | 80.000 EUR |
-| Welteinkommen fuer Progressionsvorbehalt | 180.000 EUR |
+| Welteinkommen für Progressionsvorbehalt | 180.000 EUR |
 | Durchschnittsteuersatz auf 180.000 EUR (Annahme 30 Prozent) | 30 Prozent |
 | Deutsche Steuer auf 80.000 EUR mit 30 Prozent | 24.000 EUR |
 | Effektiver Vorteil ggue. Anrechnung | 15.000 EUR weniger Steuer (24.000 EUR vs. 39.000 EUR) |

@@ -1,13 +1,13 @@
 ---
 name: audio-transkript-zu-fachbeitrag
-description: "Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zitierfaehigen Fachbeitrag fuer juristische Fachzeitschriften und Sammelbaende im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zitierfaehigen Fachbeitrag für juristische Fachzeitschriften und Sammelbaende im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Audio-Transkript zu Fachbeitrag
 
 ## Arbeitsbereich
 
-Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zitierfaehigen Fachbeitrag fuer juristische Fachzeitschriften und Sammelbaende. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zitierfaehigen Fachbeitrag für juristische Fachzeitschriften und Sammelbaende. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -37,7 +37,7 @@ Sie brauchen ihn, wenn Audio + Verschriftlichungsauftrag vorliegen. Klaeren Sie 
 - Folien / Handout (oft die einzige strukturierende Quelle).
 - Hinweise der Autorin zu Quellen, die sie muendlich nur halb genannt hat.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Einverstaendnis sichern.** Ohne schriftliche Freigabe keine Bearbeitung; bei Drittstimmen (Diskussion!) Anonymisierung pruefen.
 2. **Transkription.** Wortgetreu in einem ersten Durchgang, Zeitstempel alle 30 Sekunden. Bei lizenziertem Whisper / Audiotrans-Tool: AVV pruefen.
@@ -91,16 +91,16 @@ Quellen-Lueckenliste:
 
 ## Querverweise
 
-- `workflow-dokumentenintake` - fuer den allgemeinen Intake.
-- `verl-zeitschriftenartikel-leitfaden` - fuer den Zielformat-Aufbau.
+- `workflow-dokumentenintake` - für den allgemeinen Intake.
+- `verl-zeitschriftenartikel-leitfaden` - für den Zielformat-Aufbau.
 - `verl-podcast-zu-zeitschriftenbeitrag` - eng verwandt.
 - `verl-konferenzmitschnitt-zu-tagungsbericht` - wenn aus dem Vortrag ein Tagungsbericht wird.
-- `verl-redaktionelle-rueckmeldung-formulieren` - fuer das Rueckspielen an die Autorin.
+- `verl-redaktionelle-rueckmeldung-formulieren` - für das Rueckspielen an die Autorin.
 
 ## Quellen Stand 06/2026
 
 - UrhG §§ 31 ff., § 51, § 63, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
-- KUG § 22 fuer Persoenlichkeitsrecht (sinngemaess auch fuer Stimme zu beachten), [https://www.gesetze-im-internet.de/kunsturhg/](https://www.gesetze-im-internet.de/kunsturhg/).
+- KUG § 22 für Persoenlichkeitsrecht (sinngemaess auch für Stimme zu beachten), [https://www.gesetze-im-internet.de/kunsturhg/](https://www.gesetze-im-internet.de/kunsturhg/).
 - DSGVO Art. 6 bei personenbezogenen Daten in der Aufnahme.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016, fuer Pinpoint-Disziplin.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, für Pinpoint-Disziplin.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023, zum Aufbau von Fachaufsaetzen.

@@ -135,7 +135,7 @@ Die Krankenkasse sagt Nein. Sie wollen die Hilfe trotzdem. Wir zeigen Ihnen, wie
 - **§ 48 SGB V** — Hoechstdauer Krankengeld.
 - **§ 13 Abs. 3a SGB V** — Genehmigungsfiktion.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid pruefen
 
@@ -370,7 +370,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 
 1. Aerztliche Verordnung (Muster 61)?
 2. Reha-Bedarf belegbar?
-3. Welcher Traeger zustaendig?
+3. Welcher Traeger zuständig?
 4. Wahlrecht beachtet?
 5. AHB-Anschluss moeglich?
 
@@ -406,7 +406,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 ## Wahltarife § 53 SGB V
 
 - Selbstbehalt: Beitragsrueckverguetung bei Nichtinanspruchnahme.
-- Krankengeld-Wahltarif fuer Selbststaendige.
+- Krankengeld-Wahltarif für Selbststaendige.
 - Beihilfeergaenzungstarif.
 - Bonus-Programme.
 

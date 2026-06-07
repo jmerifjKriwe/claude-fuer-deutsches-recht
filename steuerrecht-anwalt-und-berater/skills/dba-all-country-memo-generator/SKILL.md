@@ -49,7 +49,7 @@ Wenn der DBA-Text nicht vorliegt, keine abschließenden Sätze behaupten. Ausgab
 
 - **DBA-Text vor Memo-Endfassung beschaffen**: ueber bundesfinanzministerium.de (Bereich Internationales Steuerrecht / Liste der DBA) — jede DBA-Seite enthaelt PDF-Link zum Gesetzes-Text inklusive Protokolle. Ohne Originaltext kein finalisiertes Memo.
 - **MLI-Status pro Vertragsstaat pruefen**: OECD-MLI-Matching-Database (oecd.org) zeigt, ob beide Staaten kongruent notifiziert/reserviert haben. Wirksamkeitsdatum pro Norm separat.
-- **BZSt-Formularkatalog**: fuer das Verfahren ueber bzst.de / BOP — Antragsformulare nach Einkunftsart strukturiert (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen, KEINE erfundenen Formularnummern).
+- **BZSt-Formularkatalog**: für das Verfahren ueber bzst.de / BOP — Antragsformulare nach Einkunftsart strukturiert (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen, KEINE erfundenen Formularnummern).
 - **Ansaessigkeitsbescheinigung des betroffenen Heimatstaats** im Memo als Pflicht-Anlage benennen.
 - **Q1-Antragsfenster** beim BZSt nutzen (Januar bis Maerz) — kuerzere Bearbeitungszeiten.
 - **Apostille oder Konsularbeglaubigung** bei Drittstaaten (USA, VAE, Singapur, Australien) — Vorlaufzeit 6-10 Wochen einplanen.
@@ -59,7 +59,7 @@ Wenn der DBA-Text nicht vorliegt, keine abschließenden Sätze behaupten. Ausgab
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Freistellung vs. Anrechnung | Freistellung mit Progressionsvorbehalt | Anrechnung § 34c EStG | bei aktiven Einkuenften Freistellung; bei passiven Anrechnung |
-| Freistellungsbescheinigung vorab vs. Erstattung nachher | vor Zahlung — schnellerer Cashflow | nach Einbehalt — Vier-Jahres-Frist | bei regelmaessigen Zahlungen Pfad A; bei einmaligen Pfad B |
+| Freistellungsbescheinigung vorab vs. Erstattung nachher | vor Zahlung — schnellerer Cashflow | nach Einbehalt — Vier-Jahres-Frist | bei regelmäßigen Zahlungen Pfad A; bei einmaligen Pfad B |
 | MAP vs. EU-Streitbeilegung | bilateral, flexibler | EU-DBA-SBG mit Schiedszwang | bei EU-Sachverhalten beide parallel |
 | EU-RL (MTRL/ZinsLizenzRL) vs. DBA | EU-RL 0 Prozent bei Verbundenheit | DBA-Hoechstsatz | EU-RL vorrangig, wenn Voraussetzungen erfuellt |
 | Substanz aufbauen vs. Direktbezug | Holding mit Substanz aufbauen | direkter Bezug | § 50d Abs. 3 EStG bedenken; Substanz nur bei wirtschaftlicher Notwendigkeit |

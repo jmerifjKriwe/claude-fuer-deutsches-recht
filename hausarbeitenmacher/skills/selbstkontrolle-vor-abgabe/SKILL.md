@@ -18,7 +18,7 @@ Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkei
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Wie viel Zeit bleibt noch bis zur Abgabe fuer den Endcheck?
+1. Wie viel Zeit bleibt noch bis zur Abgabe für den Endcheck?
 2. Liegen bereits Hinweise auf Schwachstellen aus Tutoren-Feedback vor?
 3. Wurde die Arbeit nach einer Pause erneut gelesen (frische Perspektive)?
 4. Sind alle Formalia (Inhaltsverzeichnis, Literaturverzeichnis, Zitierweise, Seitenzahlen) geprueft?
@@ -27,10 +27,10 @@ Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkei
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 276 BGB — Verschulden: Massstab fuer erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
+- § 276 BGB — Verschulden: Massstab für erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: Selbstkontrolle sichert Korrektheit der Tatsachengrundlage
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Endcheck prueft Konsistenz der Auslegungsergebnisse
-- § 17 JAG NRW analog — Qualitaetsstandards fuer schriftliche Pruefungsleistungen
+- § 17 JAG NRW analog — Qualitaetsstandards für schriftliche Pruefungsleistungen
 
 ## Quellenregel
 

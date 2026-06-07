@@ -15,7 +15,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 | `bautraeger-mabv-vollstaendigkeitserklaerung-7` | MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefraster. |
 | `bautraeger-maengelruegen-und-formerfordernis` | Bautraeger-Maengelruegen und Formerfordernis. Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage. |
 | `bautraeger-pfandfreigabe-und-loeschung` | Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert Pruefraster. |
-| `bautraeger-rangruecktritt-grundpfandrechte` | Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung fuer Erwerberschutz. Liefert Pruefraster. |
+| `bautraeger-rangruecktritt-grundpfandrechte` | Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung für Erwerberschutz. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -40,7 +40,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 - Selbstschuldnerische Buergschaft eines Kreditinstituts oder Versicherers.
 - Hoehe 105 Prozent (gegenwaertige Fassung pruefen — frueher 110 Prozent bei manchen Auslegungen).
-- Schutz auch fuer Maengelansprueche.
+- Schutz auch für Maengelansprueche.
 
 ## Praxis
 
@@ -127,7 +127,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 ## 4. `bautraeger-rangruecktritt-grundpfandrechte`
 
-**Fokus:** Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung fuer Erwerberschutz. Liefert Pruefraster.
+**Fokus:** Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung für Erwerberschutz. Liefert Pruefraster.
 
 # Bautraeger Rangruecktritt Grundpfandrechte
 

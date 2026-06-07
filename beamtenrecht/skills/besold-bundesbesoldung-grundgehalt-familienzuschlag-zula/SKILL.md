@@ -19,7 +19,7 @@ Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen. Die Prüfung
 
 ## Aufgabe
 
-Skill fuer Bundesbesoldung nach BBesG — Grundgehalt, Familienzuschlag, Zulagen.
+Skill für Bundesbesoldung nach BBesG — Grundgehalt, Familienzuschlag, Zulagen.
 
 ## Norm
 

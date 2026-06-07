@@ -7,7 +7,7 @@ description: "Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Ski
 
 ## Aufgabe
 
-Skill fuer roemischen Pflichtteilsschutz.
+Skill für roemischen Pflichtteilsschutz.
 
 ## Rechtsquelle
 
@@ -23,12 +23,12 @@ Skill fuer roemischen Pflichtteilsschutz.
 
 ## Wirkung
 
-- Testament wird vollstaendig fuer ungueltig erklaert ("rescissio testamenti").
+- Testament wird vollstaendig für ungueltig erklaert ("rescissio testamenti").
 - Anschliessend Intestaterbfolge.
 
 ## Voraussetzungen
 
-- Klagebefugnis nur fuer naechste Verwandte.
+- Klagebefugnis nur für naechste Verwandte.
 - Frist (annus utilis ab Kenntnis).
 
 ## Vergleich zu modernem Recht
@@ -42,6 +42,23 @@ Skill fuer roemischen Pflichtteilsschutz.
 1. Pflichtteilsberechtigter Personenkreis?
 2. Portio legitima verletzt?
 3. Klage rechtzeitig?
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

@@ -57,7 +57,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### 3. Druckmittel und Hebel
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
+- Frist (Klage-/Verjährungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
 - Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
 - Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
 - Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
@@ -80,7 +80,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 - Abschluss aktiv herbeifuehren ("Sind wir bei 47.500 dann durch?").
 - Schweige-Pausen aushalten.
 - Nachverhandlungs-Versuche der Gegenseite ("ein letztes Detail noch") freundlich, aber bestimmt zurueckweisen, wenn Substanz steht.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Vergleichsentwurf - Pflichtbestandteile
 
@@ -132,7 +132,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 3: Abschluss-Frage
 
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
+> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache für Sie dann erledigt?"
 
 ### Skript 4: Walk-Away-Signal
 
@@ -141,7 +141,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ## Stoerfeuer und Antwort-Bausteine
 
 - **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
+- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
 ## Steuerliche Behandlung des Vergleichs
@@ -159,7 +159,7 @@ Im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht oft uebersehen:
 - Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
+- Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
 
 ## Vollstreckbarkeit
 
@@ -174,12 +174,12 @@ Klassische Stolperfalle in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
 
 - **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz für noch nicht erkannte Schaeden ggf. weg.
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 ## Vertiefung: Rechtsprechung und Normen (Migrationsrecht-Verstaendigung)
 
@@ -193,7 +193,7 @@ Klassische Stolperfalle in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
 
 - **§ 106 VwGO** — Vergleich im verwaltungsgerichtlichen Verfahren; Protokollierung = Vollstreckungstitel
 - **§ 161 Abs. 2 VwGO** — Kostenregelung bei Erledigung des Rechtsstreits
-- **§ 92 VwGO** — Ruecknahme der Klage; Kostenpflicht Klaeger
+- **§ 92 VwGO** — Rücknahme der Klage; Kostenpflicht Klaeger
 - **§ 82 AufenthG** — Mitwirkungspflicht Antragsteller; Beibringungslast
 - **§ 25 Abs. 5 AufenthG** — humanitaerer Aufenthaltstitel als moegliches Vergleichs-Ergebnis
 - **§ 60a AufenthG** — Duldung als Übergangslösung bis Vergleichserfuellung
@@ -206,7 +206,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Bevor losgelegt wird, klaere:
 1. Hat die Auslaenderbehoerde Ermessensspielraum — oder handelt es sich um gebundene Entscheidung?
 2. Was ist das BATNA des Mandanten: Klage mit wie langer Dauer und welchen Erfolgsaussichten?
-3. Was ist das BATNA der Behoerde: Klagerisiko, Kosten, politischer Druck?
+3. Was ist das BATNA der Behörde: Klagerisiko, Kosten, politischer Druck?
 4. Ist ein Prozessvergleich § 106 VwGO angestrebt (Vollstreckungstitel) oder aussergerichtliche Vereinbarung?
 5. Besteht Bereitschaft der Auslaenderbehoerde zu Gespraechen (Verhalten bisher)?
 
@@ -217,7 +217,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Vergleichsverhandlung Migrationsrecht | Verstaendigungsvorschlag; Template unten |
-| Variante A — Behoerde will keinen Vergleich | Klage unvermeidbar; Template nicht einsetzbar |
+| Variante A — Behörde will keinen Vergleich | Klage unvermeidbar; Template nicht einsetzbar |
 | Variante B — Mandant will maximale Rechtssicherheit | Formeller Bescheid statt Vergleich bevorzugen |
 | Variante C — Mehrere Familienmitglieder betroffen | Sammelvergleich oder gebearbeitete Einzelverfahren abwaegen |
 
@@ -255,13 +255,13 @@ befristet auf [1 Jahr / 2 Jahre] unter Bedingung: Klaeger zieht Klage
 zurueck.
 
 [VARIANTE B — Duldung als Uebergang:]
-Auslaenderbehoerde erteilt Duldung § 60a AufenthG fuer [6 Monate] zur
+Auslaenderbehoerde erteilt Duldung § 60a AufenthG für [6 Monate] zur
 Ermöglichung von [Passbeschaffung / Sprachkurs / Arbeit]. Danach
 erneute Pruefung. Klage ruht nach § 173 VwGO iVm § 251 ZPO.
 
 III. INTERESSEN
 Mandant: Aufenthaltsrecht und Familieneinheit Art. 6 GG.
-Behoerde: Verfahrens- und Kostenersparnis; keine Praezedenzentscheidung VG.
+Behörde: Verfahrens- und Kostenersparnis; keine Praezedenzentscheidung VG.
 
 IV. NAECHSTE SCHRITTE
 Bitte um Stellungnahme bis [DATUM]. Bei Zustimmung bereiten wir

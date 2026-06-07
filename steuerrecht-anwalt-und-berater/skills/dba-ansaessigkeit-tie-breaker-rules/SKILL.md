@@ -15,13 +15,13 @@ description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Rege
 
 ## Kernsachverhalt
 
-Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung fuer jede DBA-Anwendung. Konflikte entstehen typischerweise bei Mandanten mit Wohnsitz in zwei Staaten, bei Wegzug, bei Auslandsentsendung, bei Gesellschaften mit Sitz in einem Staat und Geschaeftsleitung in einem anderen. Der Tie-Breaker-Mechanismus loest den Konflikt durch eine Kaskade objektiver Merkmale, die hier durchgeprueft wird.
+Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung für jede DBA-Anwendung. Konflikte entstehen typischerweise bei Mandanten mit Wohnsitz in zwei Staaten, bei Wegzug, bei Auslandsentsendung, bei Gesellschaften mit Sitz in einem Staat und Geschaeftsleitung in einem anderen. Der Tie-Breaker-Mechanismus loest den Konflikt durch eine Kaskade objektiver Merkmale, die hier durchgeprueft wird.
 
 ## Kaltstart-Rueckfragen
 
 1. Hat der Mandant Wohnsitz, gewoehnlichen Aufenthalt oder unbeschraenkte Steuerpflicht in beiden Staaten?
 2. Bei natuerlicher Person: Liegen Aufenthaltsnachweise, Mietvertraege, Stromrechnungen, Schulbescheinigungen Kinder vor?
-3. Wo halten sich Ehepartner und Kinder auf — Indizien fuer Mittelpunkt der Lebensinteressen?
+3. Wo halten sich Ehepartner und Kinder auf — Indizien für Mittelpunkt der Lebensinteressen?
 4. Wo befinden sich wesentliche Vermoegensgegenstaende, Bankverbindungen, Versicherungen?
 5. Bei Gesellschaften: Wo finden Vorstands- und Geschaeftsfuehrungssitzungen statt, wo werden Entscheidungen getroffen?
 6. Ist das anwendbare DBA bereits durch MLI angepasst (Verstaendigungsverfahren statt Place of Effective Management)?
@@ -32,7 +32,7 @@ Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung fuer jede DBA-An
 
 ### Primaernormen
 
-- **Art. 4 OECD-MA** — Definition "ansaessige Person", Tie-Breaker fuer natuerliche Personen und Gesellschaften.
+- **Art. 4 OECD-MA** — Definition "ansaessige Person", Tie-Breaker für natuerliche Personen und Gesellschaften.
 - **§ 1 EStG** — unbeschraenkte Steuerpflicht bei Wohnsitz § 8 AO oder gewoehnlichem Aufenthalt § 9 AO.
 - **§ 1 KStG** — Kapitalgesellschaft mit Sitz oder Geschaeftsleitung im Inland.
 - **§ 8 AO** — Wohnsitzbegriff.
@@ -55,15 +55,15 @@ Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung fuer jede DBA-An
 Pruefungskaskade in dieser Reihenfolge:
 
 1. **Staendige Wohnstaette** in einem Staat? Wenn nur in einem: Ansaessigkeit dort.
-2. Wenn in beiden Staaten staendige Wohnstaette: **Mittelpunkt der Lebensinteressen** (engste persoenliche und wirtschaftliche Beziehungen).
+2. Wenn in beiden Staaten staendige Wohnstaette: **Mittelpunkt der Lebensinteressen** (engste persönliche und wirtschaftliche Beziehungen).
 3. Wenn Mittelpunkt unklar: **gewoehnlicher Aufenthalt**.
 4. Wenn gewoehnlicher Aufenthalt unklar oder in beiden Staaten: **Staatsangehoerigkeit**.
-5. Wenn beide Staatsangehoerigkeiten oder keine: **Verstaendigungsverfahren** der Behoerden.
+5. Wenn beide Staatsangehoerigkeiten oder keine: **Verstaendigungsverfahren** der Behörden.
 
 ### Tie-Breaker Gesellschaften (Art. 4 Abs. 3 MA)
 
 - **Alte Fassung (OECD-MA 2014)**: Ort der tatsaechlichen Geschaeftsleitung (Place of Effective Management — POEM).
-- **Neue Fassung (OECD-MA 2017 / MLI Art. 4)**: Verstaendigungsverfahren der Behoerden unter Beruecksichtigung der Geschaeftsleitung, Sitz, sonstiger Faktoren. Ohne Verstaendigung keine DBA-Verguenstigungen.
+- **Neue Fassung (OECD-MA 2017 / MLI Art. 4)**: Verstaendigungsverfahren der Behörden unter Beruecksichtigung der Geschaeftsleitung, Sitz, sonstiger Faktoren. Ohne Verstaendigung keine DBA-Verguenstigungen.
 - Praxis: in vielen aelteren deutschen DBA noch POEM-Regelung; konkrete Klausel im DBA-Text und MLI-Notification konsultieren.
 
 ### Staendige Wohnstaette
@@ -76,7 +76,7 @@ Pruefungskaskade in dieser Reihenfolge:
 
 - Persoenliche Beziehungen: Ehegatte, Kinder, Freundeskreis, Vereinszugehoerigkeit.
 - Wirtschaftliche Beziehungen: Hauptbeschaeftigung, Quelle der Einkuenfte, Vermoegenslage, Bankkonten.
-- Gewichtung: BFH gewichtet persoenliche Beziehungen in der Regel staerker, insbesondere bei Familie.
+- Gewichtung: BFH gewichtet persönliche Beziehungen in der Regel staerker, insbesondere bei Familie.
 
 ### Gewoehnlicher Aufenthalt
 
@@ -124,7 +124,7 @@ Pruefungskaskade in dieser Reihenfolge:
 - **Ansaessigkeitsmemo** mit Tie-Breaker-Subsumtion.
 - **Indizientabelle** Mittelpunkt der Lebensinteressen.
 - **Beweismittelliste** mit konkreten Belegen.
-- **BZSt-Formular-Hinweis** fuer Ansaessigkeitsbescheinigung.
+- **BZSt-Formular-Hinweis** für Ansaessigkeitsbescheinigung.
 
 ## Strategie und Praxis-Tipps
 
@@ -136,7 +136,7 @@ Pruefungskaskade in dieser Reihenfolge:
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **Ansaessigkeitsbescheinigung zuerst, dann alles andere**: Standard-Formular des Wohnsitz-FA in DE ist DE-1/CoR (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — die Bezeichnungen aendern sich). Bei auslaendischen FA: IRS Form 6166 (USA, Antrag ueber Form 8802), HMRC Certificate of Residence (UK), CFR-1 (Polen), CRA Certificate (Kanada), spanisches Modelo 28 (in der Praxis hierfuer "certificado de residencia fiscal"; aktuelle Modellnummer ueber agenciatributaria.gob.es pruefen) — Bearbeitungszeit teils 4-12 Wochen.
+- **Ansaessigkeitsbescheinigung zuerst, dann alles andere**: Standard-Formular des Wohnsitz-FA in DE ist DE-1/CoR (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — die Bezeichnungen aendern sich). Bei auslaendischen FA: IRS Form 6166 (USA, Antrag ueber Form 8802), HMRC Certificate of Residence (UK), CFR-1 (Polen), CRA Certificate (Kanada), spanisches Modelo 28 (in der Praxis hierfür "certificado de residencia fiscal"; aktuelle Modellnummer ueber agenciatributaria.gob.es pruefen) — Bearbeitungszeit teils 4-12 Wochen.
 - **Doppelte Ansaessigkeitsbescheinigung beantragen**: solange Tie-Breaker offen ist, beide FA um Bescheinigung bitten. Spaetere Korrektur einer Bescheinigung ist mit massivem Verwaltungsaufwand verbunden.
 - **Reisekalender als Excel mit Quellbeleg**: Pruefer fragen "wie sind die Tage gezaehlt?" — Excel-Spalten Datum, Land, Beleg (Flugticket, Hotelrechnung, EC-Kartenabhebung, Mobilfunk-Roaming-Abrechnung). Pruefer akzeptieren keine reinen Behauptungen.
 - **Drittland-Ansaessigkeit (z.B. VAE, Singapur)**: Apostille des Heimatstaats notwendig, in vielen Drittstaaten sogar Konsularbeglaubigung — Vorlaufzeit 6-10 Wochen einplanen.
@@ -146,10 +146,10 @@ Pruefungskaskade in dieser Reihenfolge:
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Tie-Breaker durchspielen vs. MAP beantragen | Tie-Breaker-Subsumtion eigenstaendig (ohne Behoerde) | MAP Art. 25 MA — Behoerden klaeren | bei eindeutigem Sachverhalt Pfad A; bei strittiger Beweislage Pfad B |
+| Tie-Breaker durchspielen vs. MAP beantragen | Tie-Breaker-Subsumtion eigenstaendig (ohne Behörde) | MAP Art. 25 MA — Behörden klaeren | bei eindeutigem Sachverhalt Pfad A; bei strittiger Beweislage Pfad B |
 | Wegzug vor Veraeusserung vs. nach Veraeusserung | Veraeusserung waehrend deutscher Ansaessigkeit — voll DE-besteuert, aber DBA-Sicherheit | Wegzug zuerst, Veraeusserung danach — § 6 AStG, ggf. Stundung | bei wesentlicher Beteiligung (> 1 Prozent) immer § 6 AStG durchrechnen |
-| Doppelte Wohnstaette aufgeben vs. erhalten | Aufgabe Wohnung im Zweitstaat — Tie-Breaker klar fuer Hauptwohnsitz | Beibehaltung — Indizientabelle / Mittelpunkt-Argumentation | bei Familie im Zweitstaat regelmaessig Pfad B; sonst Pfad A vereinfacht |
-| POEM-Klausel (alt) vs. MAP-Klausel (MLI-neu) | Alt-Klausel: objektive POEM-Pruefung | Neu-Klausel: MAP zwischen Behoerden | bei Gesellschaftsumzug: Vorab-Antrag auf MAP-Bestaetigung, sonst monatelange Unsicherheit |
+| Doppelte Wohnstaette aufgeben vs. erhalten | Aufgabe Wohnung im Zweitstaat — Tie-Breaker klar für Hauptwohnsitz | Beibehaltung — Indizientabelle / Mittelpunkt-Argumentation | bei Familie im Zweitstaat regelmaessig Pfad B; sonst Pfad A vereinfacht |
+| POEM-Klausel (alt) vs. MAP-Klausel (MLI-neu) | Alt-Klausel: objektive POEM-Pruefung | Neu-Klausel: MAP zwischen Behörden | bei Gesellschaftsumzug: Vorab-Antrag auf MAP-Bestaetigung, sonst monatelange Unsicherheit |
 | Stundung § 6 AStG vs. Sofortzahlung | Stundungsantrag bei EU/EWR-Wegzug | Sofortzahlung | bei finanzieller Belastbarkeit Sofortzahlung — sichert Rechtsfrieden |
 
 ## Was Reviewer/Pruefer triggert
@@ -157,7 +157,7 @@ Pruefungskaskade in dieser Reihenfolge:
 - **Tie-Breaker-Kaskade nicht sauber subsumiert**: Memo springt zu Stufe 4 (Staatsangehoerigkeit) ohne saubere Argumentation, warum Stufen 1-3 nicht entscheiden.
 - **Mittelpunkt der Lebensinteressen nur behauptet, nicht belegt**: keine Indizientabelle, keine Beweismittel.
 - **Familiensituation uebersehen**: Ehegatte und Kinder gewichten BFH-typisch staerker als Vermoegen.
-- **Beamtenpensionaer als "ausgewandert" behandelt**: Beamtenpension oeffentlicher Dienst loest Kassenstaat-Besteuerung aus (Art. 19), unabhaengig von Wohnsitz — Wegzug ohne Folgen fuer Pension uebersehen.
+- **Beamtenpensionaer als "ausgewandert" behandelt**: Beamtenpension öffentlicher Dienst loest Kassenstaat-Besteuerung aus (Art. 19), unabhaengig von Wohnsitz — Wegzug ohne Folgen für Pension uebersehen.
 - **§ 6 AStG-Wegzugsbesteuerung ignoriert**: bei wesentlicher Beteiligung (≥ 1 Prozent) oder bestimmten Investmentanteilen droht stille-Reserven-Auflosung; haeufig spaet bemerkt.
 - **Ansaessigkeitsbescheinigung fehlt** als Anlage zum Memo.
 
@@ -169,7 +169,7 @@ Pruefungskaskade in dieser Reihenfolge:
 | 2 | Mittelpunkt der Lebensinteressen | persoenlich: [Familie wo?]; wirtschaftlich: [Arbeitgeber/Vermoegen wo?] | [ja/nein] | wenn ja: Ansaessigkeit dort |
 | 3 | Gewoehnlicher Aufenthalt > 6 Monate | [Aufenthaltstage Staat A: ...; Staat B: ...] | [ja/nein] | wenn ja: Ansaessigkeit dort |
 | 4 | Staatsangehoerigkeit | [DE/...] | [ja/nein] | wenn ja: Ansaessigkeit dort |
-| 5 | Verstaendigungsverfahren | beide Behoerden | — | Antrag MAP |
+| 5 | Verstaendigungsverfahren | beide Behörden | — | Antrag MAP |
 
 ## Indizientabelle Mittelpunkt der Lebensinteressen (Vorlage)
 

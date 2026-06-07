@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Mandats-/Gesellschaftsprofil, Organigramm, Rollenmatrix und Eskalationskette.
@@ -112,7 +112,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Normen
 
-- **§ 50 BRAO** — Aktenausgabe; Mandant hat Anspruch auf Herausgabe der fuer ihn erstellten Schriftstuecke
+- **§ 50 BRAO** — Aktenausgabe; Mandant hat Anspruch auf Herausgabe der für ihn erstellten Schriftstuecke
 - **§§ 257 f. HGB** — Aufbewahrungspflicht Handelsbuecher 10 Jahre; Handelsbriefe 6 Jahre
 - **§ 147 AO** — Steuerliche Aufbewahrungspflicht bis 10 Jahre
 - **§ 199 BGB** — Verjährung; Warranty-Ansprueche; Fristen in Akte dokumentieren
@@ -164,7 +164,7 @@ ROOT
  └── Externe Berater-Korrespondenz
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Akte eroffnen** — Matter-Nummer vergeben; Kanzlei-System anlegen; Zugriffsrechte setzen
 2. **Grundstruktur anlegen** — Unterordner wie oben; Zugriffsebenen festlegen

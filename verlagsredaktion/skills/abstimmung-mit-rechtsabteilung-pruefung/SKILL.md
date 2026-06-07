@@ -33,16 +33,16 @@ Vor Drucklegung oder Onlineschaltung muss bei rechtssensiblen Beitraegen das Jus
 
 ## Rechtlicher und sachlicher Rahmen
 
-- KUG §§ 22, 23 - Bildnisrecht; Einwilligung erforderlich, Ausnahmen fuer Personen der Zeitgeschichte.
+- KUG §§ 22, 23 - Bildnisrecht; Einwilligung erforderlich, Ausnahmen für Personen der Zeitgeschichte.
 - BGB §§ 823, 824, 1004 analog - Schutz des allgemeinen Persoenlichkeitsrechts und der Kreditgefaehrdung.
 - StGB §§ 185-187 - Beleidigung, ueble Nachrede, Verleumdung als strafrechtliche Grenze.
 - Art. 5 GG - Meinungs- und Pressefreiheit als Abwaegungsmassstab.
 - UrhG §§ 51, 51a - Zitatrecht, Karikatur/Parodie/Pastiche.
 - DSGVO Art. 6, 17, 85 - Datenverarbeitung im journalistischen Privileg.
 - UWG §§ 6, 7 - vergleichende Werbung, Belaestigung; bei Marketingtexten relevant.
-- DDG (Digitale-Dienste-Gesetz) als Nachfolger des TMG seit 2024; § 5 DDG Impressumspflicht, § 18 MStV journalistische Sorgfalt fuer Telemedien mit journalistisch-redaktioneller Pragung.
+- DDG (Digitale-Dienste-Gesetz) als Nachfolger des TMG seit 2024; § 5 DDG Impressumspflicht, § 18 MStV journalistische Sorgfalt für Telemedien mit journalistisch-redaktioneller Pragung.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Vorselektion durch Redaktion.** Ein Pruefkanon laeuft jedem Beitrag voraus. Bei "Ja" zu einem der folgenden Punkte: Justiziariat einschalten.
  - Namentliche Berichterstattung ueber lebende Personen mit kritischer Bewertung.
@@ -69,9 +69,9 @@ Vor Drucklegung oder Onlineschaltung muss bei rechtssensiblen Beitraegen das Jus
 ## Praxistipps der alten Redaktion
 
 - "Lieber einmal abgelehnt als dreimal abgemahnt." Schon ein Unterlassungsverfahren kostet mehr als zehn Pruefdurchgaenge.
-- Bei kritischen Personen: Anonymisierung pruefen (Initialen, Funktionsbeschreibung). Wenn Identifizierbarkeit zwingend fuer Aussage ist, soll Justiziariat das absegnen.
+- Bei kritischen Personen: Anonymisierung pruefen (Initialen, Funktionsbeschreibung). Wenn Identifizierbarkeit zwingend für Aussage ist, soll Justiziariat das absegnen.
 - Bei laufenden Verfahren stets pruefen, ob § 353d StGB (verbotene Mitteilung) tangiert ist.
-- KI-Anteile am Beitrag separat kennzeichnen; Justiziariat braucht das fuer die Pruefung der Verantwortlichkeitskette.
+- KI-Anteile am Beitrag separat kennzeichnen; Justiziariat braucht das für die Pruefung der Verantwortlichkeitskette.
 - Bei Druckaufsatz: Pruefung in Setzung-Fahnenform, nicht im Word-Manuskript; im Setzungsstand sieht man Layoutfolgen.
 
 ## Mustertexte / Vorlagen
@@ -114,7 +114,7 @@ Auflagen / Aenderungen:
 1. [...]
 2. [...]
 Gueltigkeitsdauer der Freigabe: [Datum]
-Hinweis fuer Onlineversion: [...]
+Hinweis für Onlineversion: [...]
 Unterschrift: [Name]
 ```
 

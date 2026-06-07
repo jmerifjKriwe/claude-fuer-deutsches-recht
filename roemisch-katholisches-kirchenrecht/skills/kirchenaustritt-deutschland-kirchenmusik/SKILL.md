@@ -67,7 +67,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
  - Verlust des Rechts auf kirchliches Begraebnis (im Einzelfall durch den Ortsordinarius dispensierbar).
  - Verlust des Patenamtes und des Taufpatenrechts.
  - Verlust des Wahlrechts in kirchlichen Gremien.
- - Verlust des Mandatum fuer kirchliche Lehraemter.
+ - Verlust des Mandatum für kirchliche Lehraemter.
  - Verlust der Anstellungsfaehigkeit in kirchlichen Berufen (mit Differenzierungen nach Grundordnung 2022).
 - Der Austritt fuehrt nicht automatisch zum kanonischen Verlust der Kirchengliedschaft (c. 11 CIC i.V.m. c. 96 CIC: Taufe begruendet die Mitgliedschaft).
 - Die Diskussion um den actus formalis defectionis ab Ecclesia catholica ist mit den Mitteilungen der Glaubenskongregation 2006 entschaerft, aber nicht final geklaert.

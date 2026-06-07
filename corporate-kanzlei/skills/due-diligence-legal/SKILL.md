@@ -23,7 +23,7 @@ description: "Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vert
 
 ## Zentrale Anspruchsgrundlagen & Normen
 
-- **§§ 311 II, 241 II BGB** — vorvertragliche Aufklaerungspflichten; Haftung fuer falsche/unterlassene Information
+- **§§ 311 II, 241 II BGB** — vorvertragliche Aufklaerungspflichten; Haftung für falsche/unterlassene Information
 - **§ 444 BGB** — Arglist schliesst Haftungsfreizeichnung aus; kein Ruckgriff auf Beschraenkungen
 - **§ 123 BGB** — Anfechtung wegen arglistiger Taeuschung; 1 Jahr Frist (§ 124 BGB)
 - **§ 453 BGB** — Anteilskauf; Maengelhaftung bei Garanieverletzungen
@@ -48,7 +48,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Vertraege | Wesentliche Vertraege, Material Contracts, Aufhebungsvereinbarungen | CoC-Klauseln, Kuendigungsrechte, Exklusivitaet | Specific Reps, Indemnity |
 | HR/Arbeitsrecht | Arbeitsvertraege, Betriebsvereinbarungen, Pensionszusagen | § 613a BGB, Betriebsrat, Change-of-Control | HR Warranty, Pension Indemnity |
 | IP/IT | Marken, Patente, Lizenzen, Domain-Namen, Quellcode | Lizenzkuendigungen, Open-Source-Pflichten, IT-Sicherheit | IP Title Warranty, Source Code Escrow |
-| Litigation | Laufende Rechtsstreitigkeiten, Schiedsverfahren, Behoerdenverfahren | Haftungsvolumen, Rueckstellungsluecken | Litigation Indemnity, Disclosure Schedule |
+| Litigation | Laufende Rechtsstreitigkeiten, Schiedsverfahren, Behördenverfahren | Haftungsvolumen, Rueckstellungsluecken | Litigation Indemnity, Disclosure Schedule |
 | Compliance | GwG, Kartellrecht, Exportkontrolle, Korruption (FCPA/UKBA) | Bussgeld, Lizenzentzug, Reputationsrisiko | Compliance Warranty, Anti-Corruption Rep |
 | Real Estate | Grundbuchauszuege, Mietvertraege, Altlasten | Umwelthaftung, Sonderkuendigungsrechte | Real Estate Warranty, Environmental Indemnity |
 | Tax | Steuererklaerungen, Betriebspruefungsbescheide, Verrechnungspreise | Steuernachforderungen | Tax Indemnity (Separate-Strang), Tax Warranty |
@@ -62,13 +62,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Medium Risk | Bedeutsam, vertretbar durch Warranty; kein unmittelbarer Schaden | Disclosure Schedule; General Warranty |
 | Low Risk | Marginal; marktkonform | Offenlegung im Disclosure Letter; keine gesonderte Klausel |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **DD-Scope festlegen** — Workstreams, Tiefen-Level (Full/Limited), Ressourcen, Zeitplan
 2. **IRL (Information Request List) erstellen** — gegliedert nach Workstreams; priorisiert nach Wesentlichkeit
 3. **Datenraum strukturieren** — Index-Mapping, Gap-Analyse, fehlende Dokumente als TODO markieren
 4. **Workstream-Pruefung** — jedes Dokument mit Datum, Fundstelle (Datenraum-ID) und Risikoklasse erfassen
-5. **Red Flag Memo intern** — laufende Zusammenfassung fuer Deal-Team; taeglich aktualisieren
+5. **Red Flag Memo intern** — laufende Zusammenfassung für Deal-Team; taeglich aktualisieren
 6. **Rueckfragen (Q&A)** — schriftliche Fragen an Verkaefer ueber Q&A-Funktion; Antworten dokumentieren
 7. **DD-Report finalisieren** — Executive Summary, Workstream-Abschnitte, Risikomatrix, Empfehlungen
 8. **SPA-Mapping** — DD-Findings mit konkreten Vertragsklauseln verknuepfen (Reps, Indemnities, Closing Conditions)
@@ -148,7 +148,7 @@ Wesentliche Vertraege (Kundenv., Lieferantenv., Bankkredite, Mietvertraege, Lize
 Ab Umsatzschwellen: Anmeldepflicht Bundeskartellamt / EU-Kommission. Vollzugsverbot (Gun Jumping) bis zur Freigabe strikt einhalten — Bussgeld bis 10 % des Weltumsatzes.
 
 ### DSGVO-Compliance im Datenraum
-Der Datenraum darf keine personenbezogenen Daten enthalten, die nicht fuer DD-Zwecke erforderlich sind. Anonymisierung oder Pseudonymisierung von HR-Daten vorsehen.
+Der Datenraum darf keine personenbezogenen Daten enthalten, die nicht für DD-Zwecke erforderlich sind. Anonymisierung oder Pseudonymisierung von HR-Daten vorsehen.
 
 ## Quellen
 
@@ -162,6 +162,6 @@ Der Datenraum darf keine personenbezogenen Daten enthalten, die nicht fuer DD-Zw
 - EU-FDI-Screening-VO (EU) 2019/452: https://eur-lex.europa.eu/eli/reg/2019/452
 - EU Foreign Subsidies Regulation (FSR) (VO (EU) 2022/2560; in Kraft 12.01.2023; anwendbar ab 12.07.2023; Notifizierungspflicht ab 12.10.2023). M&A-Schwelle: mindestens eine Partei (oder Zielgesellschaft) ueber EUR 500 Mio. EU-Umsatz UND erworbene Seite hat ueber EUR 50 Mio. drittstaatliche finanzielle Zuwendungen in letzten drei Jahren erhalten. Bei Vergabeverfahren: ueber EUR 250 Mio. Auftragswert und ueber EUR 4 Mio. Drittstaaten-Zuwendungen. VO-Text: https://eur-lex.europa.eu/eli/reg/2022/2560 — Kommission Guidance: https://competition-policy.ec.europa.eu/foreign-subsidies-regulation_en
 - MoPeG (BGBl. I 2021, 3436; in Kraft 01.01.2024) — Auswirkungen auf DD bei Personengesellschaften (eGbR, OHG, KG): https://www.gesetze-im-internet.de/bgb/__705.html
-- DiRUG/DiREG: Online-Beurkundung Kapitalmassnahmen seit 01.08.2023 — DD-Implikation fuer Closing-Mechanik
+- DiRUG/DiREG: Online-Beurkundung Kapitalmassnahmen seit 01.08.2023 — DD-Implikation für Closing-Mechanik
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

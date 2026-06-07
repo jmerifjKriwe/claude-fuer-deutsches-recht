@@ -41,7 +41,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — KI-Compliance-Regelsatz fuer Kanzlei erstellen | Regelsatz nach 10-Gebote-Schema; Template unten |
+| Standard — KI-Compliance-Regelsatz für Kanzlei erstellen | Regelsatz nach 10-Gebote-Schema; Template unten |
 | Variante A — Kleine Kanzlei max drei Seiten | Kurzfassung Regelsatz; nur Kernregeln |
 | Variante B — Mandant will Regelsatz in Englisch | Englischsprachige Vorlage; Terminologie anpassen |
 | Variante C — Vorhandener Regelsatz aktualisieren | Nur geaenderte Stellen ueberarbeiten; Version-Tracking |
@@ -78,7 +78,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -103,7 +103,7 @@ Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Än
 3. Ist ein Betriebsrat vorhanden — wurde nach § 87 Abs. 1 Nr. 6 BetrVG eingebunden?
 4. Sind alle Mitarbeiter ueber das Privat-Account-Verbot und die Anonymisierungspflicht informiert?
 5. Gibt es Schulungsunterlagen zum Compliance-Regelsatz?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Compliance-Regelsatz KI (10 Gebote)
 **Adressat:** Alle Kanzlei-Mitarbeiter — Tonfall: verbindlich, klar

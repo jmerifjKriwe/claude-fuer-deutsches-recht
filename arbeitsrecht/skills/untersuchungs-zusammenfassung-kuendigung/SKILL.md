@@ -493,7 +493,7 @@ Erzeuge immer eine Tabelle: `Zustellweg / Beleg / beweisbarer Inhalt / Zugangsta
 
 ## Aufgabe
 
-Skill fuer den **Kuendigungszugang nach § 130 BGB** im Arbeitsrecht: Beweislast, Zugangsmoment, Folge fuer die 3-Wochen-Frist § 4 KSchG.
+Skill für den **Kuendigungszugang nach § 130 BGB** im Arbeitsrecht: Beweislast, Zugangsmoment, Folge für die 3-Wochen-Frist § 4 KSchG.
 
 ## Norm
 

@@ -1,13 +1,13 @@
 ---
 name: seeschiff-oder-binnenschiff
-description: "Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend für Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Seeschiff oder Binnenschiff – Klassifizierungsprüfung
 
 ## Arbeitsbereich
 
-Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend für Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

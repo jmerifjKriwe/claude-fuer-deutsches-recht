@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmjv
-description: "Ressortaufgaben BMJV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium der Justiz und fuer Verbraucherschutz. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmjv-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmjv (Heranfuehrung)."
+description: "Ressortaufgaben BMJV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium der Justiz und für Verbraucherschutz. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmjv-Themenslug für Sachfragen und normhierarchie-routing für Normwahl. Abgrenzung zu legw-ressort-bmjv (Heranfuehrung)."
 ---
 
 # Ressortaufgaben BMJV
@@ -19,7 +19,7 @@ description: "Ressortaufgaben BMJV: typische Legistik-Aufgaben im Geschaeftsbere
 
 ### Schritt 1 - Vorhabenart einordnen
 
-| Vorhabenart | Zustaendigkeit im BMJV | Vorlageweg |
+| Vorhabenart | Zuständigkeit im BMJV | Vorlageweg |
 |---|---|---|
 | Eckpunktepapier | Fachreferat plus Hausleitung | Hausintern; ggf. Ressortbesprechung |
 | Referentenentwurf | Fachreferat fuehrt; Hauspruefung (Z; ZA; ZB) | Verbaendeanhoerung; Ressortabstimmung |
@@ -39,16 +39,16 @@ description: "Ressortaufgaben BMJV: typische Legistik-Aufgaben im Geschaeftsbere
 Im Geschaeftsbereich BMJV sind typische Beteiligte:
 
 - Spitzenverbaende der Materie (siehe `legw-bmjv-zivilrecht-und-buergerliches-gesetzbuch-pflege` und folgende)
-- Laender (Bundesrat-Spiegel; KOM-Vertreter)
+- Länder (Bundesrat-Spiegel; KOM-Vertreter)
 - Wissenschaftliche Sachverstaendige und Beiraete des BMJV
 - EU-Generaldirektion (bei EU-Bezug)
 - Bei Eingriff in Grundrechte: Datenschutzkonferenz; Bundesbeauftragte; ggf. EDSA
 
-Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
+Anhörungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
-- **Mitzeichnende Ressorts** typisch fuer BMJV-Vorhaben: BMI (Verwaltung), BMF
+- **Mitzeichnende Ressorts** typisch für BMJV-Vorhaben: BMI (Verwaltung), BMF
  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
  weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
@@ -70,12 +70,29 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
- `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zuständigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMJV-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
 
-Nachgeordnete Behoerden des BMJV im Vollzug einbinden. Vollzugsfolgen pruefen.
+Nachgeordnete Behörden des BMJV im Vollzug einbinden. Vollzugsfolgen pruefen.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 
@@ -91,13 +108,13 @@ NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
 Kabinett: ja|nein; Vorlage-Schwerpunkt
 Bundesrat: Zustimmung|Einspruch|nicht erforderlich
 Fachausschuss BT: BMJV-Spiegel
-Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Aufsicht/Vollzug: <Behörde>; Vollzugsfolgen
 Naechste Skills: legw-bmjv-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

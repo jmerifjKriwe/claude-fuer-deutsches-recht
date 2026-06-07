@@ -27,7 +27,7 @@ Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnu
 
 ## Kernsachverhalt
 
-Bei Krankheit hat der AN nach § 3 EFZG fuer 6 Wochen Anspruch auf Entgeltfortzahlung — der AG zahlt den vollen Lohn weiter. Nach 6 Wochen zahlt die Krankenkasse Krankengeld. Kleinbetriebe (bis 30 AN) koennen Erstattung U1-Umlage bei der Krankenkasse beantragen. Seit 2023 ist die elektronische Arbeitsunfaehigkeitsbescheinigung (eAU) verpflichtend — der AG ruft die AU-Daten direkt bei der Krankenkasse ab.
+Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortzahlung — der AG zahlt den vollen Lohn weiter. Nach 6 Wochen zahlt die Krankenkasse Krankengeld. Kleinbetriebe (bis 30 AN) koennen Erstattung U1-Umlage bei der Krankenkasse beantragen. Seit 2023 ist die elektronische Arbeitsunfaehigkeitsbescheinigung (eAU) verpflichtend — der AG ruft die AU-Daten direkt bei der Krankenkasse ab.
 
 ## Kaltstart-Rueckfragen
 
@@ -35,7 +35,7 @@ Bei Krankheit hat der AN nach § 3 EFZG fuer 6 Wochen Anspruch auf Entgeltfortza
 2. Liegt eAU vor (Abruf bei Krankenkasse)?
 3. Welche Krankheitstage in der laufenden 12-Monats-Periode bereits angerechnet?
 4. Bei chronischer Krankheit mit wiederholten Krankheitsphasen: Pruefung "Fortsetzungskrankheit"?
-5. AG-Groesse fuer U1-Umlage-Pflicht?
+5. AG-Groesse für U1-Umlage-Pflicht?
 6. Bei Krankheit ueber 6 Wochen: Krankengeld-Beginn ueber Krankenkasse?
 7. Welche Lohnart wird fortgezahlt (Grundgehalt, Zuschlaege)?
 8. Lag Arbeitsunfall vor (BG-Leistungen)?

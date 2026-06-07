@@ -164,7 +164,7 @@ B. Strafrechtliche Verantwortlichkeit
 ## Übergang zu
 
 - Zivilrecht-Schwerpunkt: `zivilrecht-anspruchsgrundlagen-pruefung`
-- ÖR-Schwerpunkt: `oeffentliches-recht-statthaft-zulaessig-begruendet` oder `verfassungsrecht-grundrechtspruefung`
+- ÖR-Schwerpunkt: `öffentliches-recht-statthaft-zulaessig-begruendet` oder `verfassungsrecht-grundrechtspruefung`
 - Strafrecht-Schwerpunkt: `strafrecht-tatbestand-rechtswidrigkeit-schuld`
 - EU-Bezug: `europarecht-anwendbarkeit-vorrang-vorabentscheidung`
 - Rechtstheorie / -philosophie: `rechtstheorie-rechtsphilosophie-anbindung`

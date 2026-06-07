@@ -63,7 +63,7 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 
 - **§ 181 BGB (Insichgeschaeft)** — Wortlaut erfasst auch Faelle, in denen der Vertretene durch das Insichgeschaeft nur Vorteile erlangt. Hier reduziert die Rechtsprechung den Anwendungsbereich teleologisch.
 - **§ 932 BGB (gutglaeubiger Erwerb)** — Der Wortlaut erfasst auch das ueber-uebergeber-Erwerbsverhaeltnis; bei bestimmten Konstellationen wird teleologisch reduziert.
-- **Verjaehrungsnormen bei rechtsmissbraeuchlicher Berufung** — § 242 BGB als methodisches Korrektiv, das funktional teleologische Reduktion einer Verjaehrungseinrede bewirkt.
+- **Verjährungsnormen bei rechtsmissbraeuchlicher Berufung** — § 242 BGB als methodisches Korrektiv, das funktional teleologische Reduktion einer Verjährungseinrede bewirkt.
 
 **Verbot der Analogie:**
 
@@ -74,7 +74,7 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 
 Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten Privater sind moeglich, soweit die Voraussetzungen erfuellt sind.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 **Fuer die Analogie:**
 

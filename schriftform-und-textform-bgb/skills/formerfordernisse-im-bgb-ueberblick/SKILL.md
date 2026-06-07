@@ -99,5 +99,5 @@ Die Berufung auf einen Formmangel kann nach § 242 BGB treuwidrig sein, wenn:
 - → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
 - → `elektronische-form-paragraph-126a-bgb-qes`
 - → `textform-paragraph-126b-bgb-dauerhafter-datentraeger`
-- → `notarielle-beurkundung-und-oeffentliche-beglaubigung`
-- → `form-checker-fuer-vertrag-oder-willenserklaerung`
+- → `notarielle-beurkundung-und-öffentliche-beglaubigung`
+- → `form-checker-für-vertrag-oder-willenserklaerung`

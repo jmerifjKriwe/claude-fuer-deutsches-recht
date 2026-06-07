@@ -13,7 +13,7 @@ description: "Belegtransfer DATEV Unternehmen Online. Anwendungsfall systematisc
 
 ## Kernsachverhalt
 
-DATEV Unternehmen Online (DUO) ist die Standardplattform fuer Belegtransfer zwischen Mandant und StB. Mandant erfasst Belege ueber Smartphone-App, Scanner oder Mailpostfach; StB greift in DATEV Kanzlei-Rechnungswesen direkt zu. Dieser Skill konkretisiert den Belegfluss und die Standard-Workflow-Konfiguration.
+DATEV Unternehmen Online (DUO) ist die Standardplattform für Belegtransfer zwischen Mandant und StB. Mandant erfasst Belege ueber Smartphone-App, Scanner oder Mailpostfach; StB greift in DATEV Kanzlei-Rechnungswesen direkt zu. Dieser Skill konkretisiert den Belegfluss und die Standard-Workflow-Konfiguration.
 
 ## Kaltstart-Rueckfragen
 
@@ -77,7 +77,7 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform fuer Belegtransfer zwis
 
 ## Strategie und Praxis-Tipps
 
-- DUO + DATEV Upload Online = Killer-Kombination fuer effizienten Belegfluss.
+- DUO + DATEV Upload Online = Killer-Kombination für effizienten Belegfluss.
 - OCR-Qualitaet variabel — Kontrolle durch Sachbearbeiter bleibt Pflicht.
 - Bei vielen kleinen Belegen: Mandant taeglich scannen, Sachbearbeiter woechentlich pruefen.
 - Bei eRechnungs-Empfang: Automatisierung Hebel.

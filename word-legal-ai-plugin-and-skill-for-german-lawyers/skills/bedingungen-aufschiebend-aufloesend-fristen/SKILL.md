@@ -58,7 +58,7 @@ Dieser Skill liefert die Konditionalsystematik, die typischen M&A-Closing-Condit
 | Befristung | § 163 BGB | Zeitlich gewisses Ereignis | "Der Vertrag endet am 31. Dezember 2028." |
 | Potestativbedingung | § 158 BGB | Eintritt von einer Partei kontrollierbar | "Sofern der Besteller das Angebot annimmt, ..." |
 | Closing Condition (CP) | § 158 Abs. 1 | Aufschiebende Bedingung im M&A | "Bedingung des Vollzugs ist die kartellrechtliche Freigabe." |
-| Long Stop Date | Vertragstechnisch | Frist fuer Bedingungseintritt | "Treten die Vollzugsbedingungen bis zum 31. Dezember 2026 nicht ein, kann jede Partei zuruecktreten." |
+| Long Stop Date | Vertragstechnisch | Frist für Bedingungseintritt | "Treten die Vollzugsbedingungen bis zum 31. Dezember 2026 nicht ein, kann jede Partei zuruecktreten." |
 
 ### Closing-Architecture (M&A-Grundmuster)
 
@@ -133,7 +133,7 @@ wird. § 119 InsO bleibt unberuehrt.
 | Fristbeginn Geburtstagsfrist | § 187 Abs. 2 | Tag selbst zaehlt mit | "Vollendung des 18. Lebensjahres" |
 | Fristende Tagfrist | § 188 Abs. 1 | Ende des letzten Tages | letzter Tag 24:00 Uhr |
 | Fristende Wochen-/Monatsfrist | § 188 Abs. 2 | Tag, der nach Benennung dem Anfangstag entspricht | Frist 1 Monat ab 15. Juni endet 15. Juli 24:00 Uhr |
-| Sonn-/Feiertag | § 193 BGB | Verschiebung auf naechsten Werktag | Fristende Samstag wird auf Montag verschoben (nur fuer Erklaerungen oder Leistungen) |
+| Sonn-/Feiertag | § 193 BGB | Verschiebung auf naechsten Werktag | Fristende Samstag wird auf Montag verschoben (nur für Erklaerungen oder Leistungen) |
 
 ### Pitfall: Doppelt-negative Formulierungen
 
@@ -161,14 +161,14 @@ wird. § 119 InsO bleibt unberuehrt.
 
 ## Beispiel
 
-**Aufgabe:** Optionsklausel im Investitionsvertrag. Der Investor kann innerhalb von 24 Monaten nach Erstinvestment eine Folgetranche zeichnen. Bei Ausuebung wird die Tranche mit Zahlung des Kaufpreises wirksam.
+**Aufgabe:** Optionsklausel im Investitionsvertrag. Der Investor kann innerhalb von 24 Monaten nach Erstinvestment eine Folgetranche zeichnen. Bei Ausübung wird die Tranche mit Zahlung des Kaufpreises wirksam.
 
 **Loesung:**
 
 ```
 § 4 Folgetranche
 
-(1) Ausuebungsrecht
+(1) Ausübungsrecht
 Der Investor kann innerhalb von 24 Monaten nach Erstinvestment die
 Folgetranche durch schriftliche Erklaerung an die Gesellschaft zeichnen.
 
@@ -195,7 +195,7 @@ investition auf dem Konto der Gesellschaft (§ 187 Abs. 1 BGB).
 ## Quellen (Stand 05/2026)
 
 - § 158 BGB, § 159 BGB, § 161 BGB, § 162 BGB, § 163 BGB, §§ 187 bis 193 BGB. gesetze-im-internet.de.
-- § 119 InsO fuer Beendigung bei Insolvenz. gesetze-im-internet.de/inso/.
+- § 119 InsO für Beendigung bei Insolvenz. gesetze-im-internet.de/inso/.
 - M&A-Closing-Konvention folgt internationaler Praxis und ist in deutscher M&A-Praxis etabliert. Konkrete Klauselformulierungen vom Nutzer mit aktueller Literatur zu validieren.
 
 ## Qualitäts-Hardening

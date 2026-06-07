@@ -17,7 +17,7 @@ Dieses Anschluss-Routing für **Robotik Recht** wählt nach dem ersten Ergebnis 
 - `arbeitsschutz-betrsichv-autonome-lieferroboter` — Arbeitsschutz Betrsichv Autonome Lieferroboter
 - `arbeitsschutz-betrsichv-robotik` — Arbeitsschutz Betrsichv Robotik
 - `arbeitswelt-cobot-beschaffung-oeffentlich-betreiberpflichten` — Arbeitswelt Cobot Beschaffung Öffentlich Betreiberpflichten
-- `autonome-lieferroboter-oeffentlicher-raum` — Autonome Lieferroboter Oeffentlicher Raum
+- `autonome-lieferroboter-öffentlicher-raum` — Autonome Lieferroboter Oeffentlicher Raum
 - `barrierefreiheit-inklusion-batterie-ladeinfrastruktur-bau` — Barrierefreiheit Inklusion Batterie Ladeinfrastruktur Bau
 - `barrierefreiheit-und-inklusion-robotik` — Barrierefreiheit Und Inklusion Robotik
 - `batterie-ladeinfrastruktur-und-brandschutz` — Batterie Ladeinfrastruktur Und Brandschutz

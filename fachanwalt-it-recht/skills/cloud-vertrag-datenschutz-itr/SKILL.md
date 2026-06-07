@@ -1,21 +1,21 @@
 ---
 name: cloud-vertrag-datenschutz-itr
-description: "Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüft konkret Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence fuer Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalten, Leitfaden Vertragsklauseln fuer KI-Systeme. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüft konkret Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence für Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalten, Leitfaden Vertragsklauseln für KI-Systeme. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Cloud Vertrag Datenschutz ITR
 
 ## Arbeitsbereich
 
-**Cloud Vertrag Datenschutz ITR** ordnet den Fall über die tragenden Prüfungslinien: Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence fuer Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Cloud Vertrag Datenschutz ITR** ordnet den Fall über die tragenden Prüfungslinien: Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence für Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-it-recht-vertragsstrafe-pruefen` | Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschäft § 341 Abs. 3 BGB Vorbehalt. Prüfraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenprüfvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr. |
-| `it-recht-cloud-vertrag-datenschutz-due-diligence` | Datenschutz-Due-Diligence fuer Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster fuer Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-fuer-Schritt fuer Pre-Contract-Pruefung und laufende Compliance. Mustertexte fuer Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle). |
-| `it-recht-datenschutz-im-it-vertrag` | Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-fuer-Schritt fuer Vertragspruefung. Mustertexte fuer Klauseln. Abgrenzung: kein reiner AVV (avv-pruefung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle). |
-| `itr-ki-systeme-vertragsklausel-leitfaden` | Leitfaden Vertragsklauseln fuer KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Pruefraster fuer Customer und Vendor. |
+| `it-recht-cloud-vertrag-datenschutz-due-diligence` | Datenschutz-Due-Diligence für Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-für-Schritt für Pre-Contract-Pruefung und laufende Compliance. Mustertexte für Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle). |
+| `it-recht-datenschutz-im-it-vertrag` | Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-für-Schritt für Vertragspruefung. Mustertexte für Klauseln. Abgrenzung: kein reiner AVV (avv-pruefung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle). |
+| `itr-ki-systeme-vertragsklausel-leitfaden` | Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Pruefraster für Customer und Vendor. |
 | `itr-saas-vertrag-bauleiter` | Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus. Standardklauseln und Verhandlungstipps. |
 
 ## Arbeitsweg
@@ -40,7 +40,7 @@ description: "Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüf
 3. Ist die Strafe pro Tag, pro Verstoß oder einmalig vereinbart? Existiert eine Höchstgrenze?
 4. Sind beide Vertragsparteien Kaufleute i.S.d. HGB?
 5. Wurde die Strafe bei Annahme der Hauptleistung ausdrücklich vorbehalten (§ 341 Abs. 3 BGB)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -188,7 +188,7 @@ sind verifiziert.
 
 ## 2. `it-recht-cloud-vertrag-datenschutz-due-diligence`
 
-**Fokus:** Datenschutz-Due-Diligence fuer Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster fuer Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-fuer-Schritt fuer Pre-Contract-Pruefung und laufende Compliance. Mustertexte fuer Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
+**Fokus:** Datenschutz-Due-Diligence für Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-für-Schritt für Pre-Contract-Pruefung und laufende Compliance. Mustertexte für Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
 
 # IT-Recht — Cloud-Vertrag mit Datenschutz-Due-Diligence
 
@@ -224,7 +224,7 @@ Sieben-Fragen-Diagnose:
 - **NIS-2 Richtlinie (EU) 2022/2555** und nationale Umsetzung in Deutschland.
 - **§§ 535 ff BGB** (Cloud regelmaessig Mietvertrag oder Dienstvertrag, Einzelfallpruefung).
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst: Inventur.** Welche Cloud-Dienste sind im Mandantenhaus eingesetzt? Schatten-IT pruefen.
 2. **Als zweites: Datenmapping.** Welche Datenkategorien laufen in welchem Cloud-Dienst?
@@ -283,7 +283,7 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 
 > Sehr geehrte Damen und Herren,
 >
-> wir bedanken uns fuer Ihre AVV-Anlage [Version, Datum]. Im Rahmen der Due Diligence ergibt sich folgender Nachverhandlungsbedarf:
+> wir bedanken uns für Ihre AVV-Anlage [Version, Datum]. Im Rahmen der Due Diligence ergibt sich folgender Nachverhandlungsbedarf:
 >
 > 1. Audit-Recht nach Art. 28 Abs. 3 lit. h DSGVO: Konkretisierung der Bedingungen (Vorankuendigungsfrist, Pruefer, Kosten).
 > 2. Subprozessoren: Konkrete Liste mit Sitzlaendern und Funktion.
@@ -333,7 +333,7 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 
 ## 3. `it-recht-datenschutz-im-it-vertrag`
 
-**Fokus:** Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-fuer-Schritt fuer Vertragspruefung. Mustertexte fuer Klauseln. Abgrenzung: kein reiner AVV (avv-pruefung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle).
+**Fokus:** Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-für-Schritt für Vertragspruefung. Mustertexte für Klauseln. Abgrenzung: kein reiner AVV (avv-pruefung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle).
 
 # IT-Recht — Datenschutz im IT-Vertrag
 
@@ -373,7 +373,7 @@ Sieben-Fragen-Diagnose:
 - **§§ 535 ff BGB** Mietvertrag (haeufig SaaS).
 - **EDSA Leitlinien 07/2020** zu Begriffen Verantwortlicher und Auftragsverarbeiter (Version 2.0, 07.07.2021).
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst: Rollenpruefung.** Ist der IT-Dienstleister Auftragsverarbeiter oder Verantwortlicher? Sehr haeufig nicht durch Vertragsbezeichnung, sondern durch faktische Zwecksetzung bestimmt. Wer entscheidet ueber Zweck und Mittel?
 2. **Als zweites: AVV oder Joint Controller Vereinbarung?** Vertraege ohne Datenschutzanhang gibt es im IT-Bereich praktisch nie rechtmaessig.
@@ -391,14 +391,14 @@ Sieben-Fragen-Diagnose:
 | Wartung mit Zugriff Mandantendaten | AVV Art. 28 | weisungsgebunden |
 | Newsletter-Versand mit eigenem Tracking | Joint Controller Art. 26 | gemeinsame Zwecke |
 | Cloud mit eigener Auswertung Telemetrie | Joint Controller oder zwei Verantwortliche | KI-Modell vom Anbieter trainiert |
-| Bezahlsoftware mit Telemetrie ohne Auswertung | AVV moeglich | Telemetrie nur fuer Funktion |
+| Bezahlsoftware mit Telemetrie ohne Auswertung | AVV moeglich | Telemetrie nur für Funktion |
 | US-Anbieter direkt | EU-SCC + TIA + ggf. DPF | Schrems II Compliance |
 
 ## Mustertexte
 
 ### Klausel "Datenschutzrechtliche Rolle"
 
-> Die Parteien gehen davon aus, dass der Auftragnehmer in Bezug auf [bezeichnete Verarbeitungen] Auftragsverarbeiter im Sinne von Art. 4 Nr. 8 in Verbindung mit Art. 28 DSGVO ist. Soweit der Auftragnehmer Zweck und Mittel weitergehender Verarbeitungen (z. B. Anonymisierung zur Produktverbesserung) festlegt, ist er insoweit eigenstaendig Verantwortlicher; die Parteien werden hierfuer eine separate Vereinbarung schliessen.
+> Die Parteien gehen davon aus, dass der Auftragnehmer in Bezug auf [bezeichnete Verarbeitungen] Auftragsverarbeiter im Sinne von Art. 4 Nr. 8 in Verbindung mit Art. 28 DSGVO ist. Soweit der Auftragnehmer Zweck und Mittel weitergehender Verarbeitungen (z. B. Anonymisierung zur Produktverbesserung) festlegt, ist er insoweit eigenstaendig Verantwortlicher; die Parteien werden hierfür eine separate Vereinbarung schliessen.
 
 ### Klausel "Subverarbeiter"
 
@@ -449,7 +449,7 @@ Sieben-Fragen-Diagnose:
 
 ## 4. `itr-ki-systeme-vertragsklausel-leitfaden`
 
-**Fokus:** Leitfaden Vertragsklauseln fuer KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Pruefraster fuer Customer und Vendor.
+**Fokus:** Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Pruefraster für Customer und Vendor.
 
 # IT: KI-Systeme Vertragsklausel
 
@@ -457,13 +457,13 @@ Sieben-Fragen-Diagnose:
 - **Normen-/Quellenanker:** KI, IT.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -491,7 +491,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -506,13 +506,13 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - **Normen-/Quellenanker:** IT.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -540,7 +540,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

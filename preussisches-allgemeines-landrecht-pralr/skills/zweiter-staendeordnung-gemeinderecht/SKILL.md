@@ -51,7 +51,7 @@ Dieser Skill bearbeitet **Zweiter Teil Ständeordnung Adel Bürger Bauern** im B
 ## Konkreter ALR-Stoff: Staendeordnung, Adel, Buerger, Bauern
 
 ### Aufbau
-ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Beispiele dafuer, wie das ALR die staendische Gesellschaft normiert hat. Die Titel sind heute fast vollstaendig obsolet, aber rechtshistorisch zentral.
+ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Beispiele dafür, wie das ALR die staendische Gesellschaft normiert hat. Die Titel sind heute fast vollstaendig obsolet, aber rechtshistorisch zentral.
 
 ### Wichtige Paragraphen
 - **ALR II 7 §§ 1 ff.** Bauernstand: Gutsuntertaenigkeit, Erbuntertaenigkeit, Frondienste, Spanndienste. Hier zeigt das ALR den noch ungebrochenen Feudalismus: Bauern duerfen ohne Zustimmung des Gutsherrn nicht heiraten, das Gut nicht verlassen, nicht studieren.

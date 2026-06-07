@@ -34,7 +34,7 @@ Zum Bilanzstichtag muessen die Forderungen und Verbindlichkeiten extern bestaeti
 
 **§ 252 Abs. 1 Nr. 4 HGB** — Vorsichtsprinzip.
 
-**§ 320 HGB** — Pruefungspflicht; Abstimmung Pflicht fuer WP.
+**§ 320 HGB** — Pruefungspflicht; Abstimmung Pflicht für WP.
 
 **§ 33 StBerG** — StB-Aufgabenkreis.
 
@@ -65,7 +65,7 @@ ABSTIMMUNGSSCHREIBEN
 
 An: [Geschaeftspartner]
 
-Betreff: Saldenabstimmung zum [Stichtag] fuer
+Betreff: Saldenabstimmung zum [Stichtag] für
 [Mandant] GmbH
 
 Sehr geehrte Damen und Herren,
@@ -123,7 +123,7 @@ Mit freundlichen Gruessen
 ## Strategie und Praxis-Tipps
 
 - Saldenabstimmung ist Pflicht bei Wirtschaftspruefung (§ 320 HGB).
-- Bei Mittelstand ohne Pruefungspflicht oft freiwillig fuer Bank-Reporting oder Mandantenwunsch.
+- Bei Mittelstand ohne Pruefungspflicht oft freiwillig für Bank-Reporting oder Mandantenwunsch.
 - Bei groesseren Mandanten Standardprozess mit DATEV-Saldenbestaetigung-Modul.
 - Antwortquote oft 50-70 Prozent — daher Nichtantworten dokumentiert hinnehmen.
 - StBVV: Saldenabstimmung als Zusatzauftrag Jahresabschluss oder Pruefung.

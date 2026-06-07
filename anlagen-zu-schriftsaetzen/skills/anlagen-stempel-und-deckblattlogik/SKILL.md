@@ -5,6 +5,23 @@ description: "Legt fest, wie Anlagenstempel, Konvolutdeckblätter, Unteranlagen 
 
 # Stempel- und Deckblattlogik
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 131 Abs. 1 ZPO` — Abschriften/Anlagen.
+- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
+- `§ 138 Abs. 1 ZPO` — vollstaendiger und wahrer Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Klageinhalt.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+- `§ 371 Abs. 1 ZPO` — Augenscheinsbeweis.
+- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Zweck
 
 Dieser Skill ist für die optische und logische Lesbarkeit des Anlagenpakets. Er sorgt dafür, dass `Anlage K12` nicht nur irgendwo im Dateinamen steht, sondern im Dokument, im Verzeichnis und im Schriftsatz gleich verstanden wird.

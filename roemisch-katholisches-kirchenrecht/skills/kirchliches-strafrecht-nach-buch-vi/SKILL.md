@@ -9,6 +9,23 @@ description: "Kirchliches Strafrecht nach Buch VI: Fachmodul für CIC, Katechism
 
 Kirchliches Strafrecht nach Buch VI: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Canones- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
+- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
+- `CIC can. 96` — Rechtsstellung der Getauften.
+- `CIC can. 1055 § 1` — Ehebegriff.
+- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
+- `CIC can. 1246 § 1` — Sonn- und Feiertage.
+- `CIC can. 1752` — salus animarum als Auslegungsziel.
+- `KKK 1776` — Gewissen.
+- `KKK 1783` — Gewissensbildung.
+- `KKK 2032` — kirchliche Morallehre.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -63,10 +80,10 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Klarstellung der ferendae sententiae- und latae sententiae-Strafen.
 
 ### Vos Estis Lux Mundi (2019/2023)
-- **Vos Estis Lux Mundi** (M.P. Franziskus, 09.05.2019; ueberarbeitete Fassung 25.03.2023): Verfahrensvorschriften fuer Meldungen und Untersuchungen sexuellen Missbrauchs.
+- **Vos Estis Lux Mundi** (M.P. Franziskus, 09.05.2019; ueberarbeitete Fassung 25.03.2023): Verfahrensvorschriften für Meldungen und Untersuchungen sexuellen Missbrauchs.
 - Pflicht zur Einrichtung kirchlicher Meldestellen in jeder Dioezese.
 - Erweiterter Anwendungsbereich auf vulnerable Erwachsene und auf Vertuschung durch Vorgesetzte.
-- Zustaendigkeit des Metropoliten bei Anschuldigungen gegen Bischoefe.
+- Zuständigkeit des Metropoliten bei Anschuldigungen gegen Bischoefe.
 
 ### Wichtige Canones
 - **can. 1311 CIC** Strafrecht ist eigenrechtlicher Bestandteil der kirchlichen Sendung.
@@ -83,7 +100,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 ### Pruefraster
 1. Tatzeit nach 08.12.2021? — Buch VI neu (Pascite Gregem Dei).
 2. Vorher? — Buch VI alt (1983) mit Sondernormen, insbesondere Sacramentorum Sanctitatis Tutela (Johannes Paul II., 30.04.2001, mehrfach revidiert).
-3. Sexualdelikte gegen Minderjaehrige: immer auch Dikasterium fuer die Glaubenslehre (DDF) einschalten.
+3. Sexualdelikte gegen Minderjaehrige: immer auch Dikasterium für die Glaubenslehre (DDF) einschalten.
 4. Vorgesetztenhaftung (negligentia): cc. 1389, 1395 § 5 CIC.
 
 ## Ausgabeformate

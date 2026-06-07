@@ -118,7 +118,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Faktische Updates (Stand 05/2026)
 
-- **DSA — vollumfaenglich anwendbar:** DSA-Pflichten sind seit dem 17.02.2024 verbindlich. Art. 20-23 DSA (interne Beschwerde, ADR, vetted flaggers, Massnahmen gegen Missbrauch) gelten fuer alle Online-Plattformen und Hosting-Dienste.
+- **DSA — vollumfaenglich anwendbar:** DSA-Pflichten sind seit dem 17.02.2024 verbindlich. Art. 20-23 DSA (interne Beschwerde, ADR, vetted flaggers, Massnahmen gegen Missbrauch) gelten für alle Online-Plattformen und Hosting-Dienste.
 - **DDG (Digitale-Dienste-Gesetz):** Das deutsche DDG ist 14.05.2024 in Kraft getreten (BGBl 2024 I Nr. 149); enthaelt nationale Durchfuehrungsbestimmungen, Bestimmung der BNetzA als DSC, Sanktionsregime, Klagebefugnisse, Verbraucher- und Datenschutz-Schnittstellen. Quelle: bgbl.de, bundesnetzagentur.de.
 - **ADR-Stellen Art. 21 DSA:** Liste der von der BNetzA zertifizierten Streitbeilegungsstellen live ueber bundesnetzagentur.de pruefen.
 - **BGH-Linie zu Account-Sperren:** Aktuelle Rechtsprechung zur AGB-Kontrolle der Sperr-Klauseln (BGH III. ZS) live ueber dejure.org pruefen. DSA ergaenzt die BGH-Linie (insb. zu Verfahrenspflichten, Begruendungstiefe, Art. 14 Abs. 4 DSA).
@@ -130,7 +130,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. Plattform VLOP/VLOSE (Art. 33 DSA) → erweiterte Pflichten Art. 20, 21, 22 DSA?
 3. Begründung durch Plattform erhalten (Art. 17 DSA)?
 4. Frist für internes Beschwerdeverfahren noch offen (Art. 20 DSA: 6 Monate ab Maßnahme)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

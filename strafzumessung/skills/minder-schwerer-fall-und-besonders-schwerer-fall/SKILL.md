@@ -53,13 +53,13 @@ Die Modifikation erfolgt durch **Gesamtwuerdigung** aller Umstaende.
 
 ### Minder schwerer Fall
 
-- Erfordert **Gesamtwuerdigung**: alle straftatbezogenen und persoenlichen Umstaende werden zusammengenommen.
+- Erfordert **Gesamtwuerdigung**: alle straftatbezogenen und persönlichen Umstaende werden zusammengenommen.
 - Schwellenfrage: weicht das Gesamtgewicht der Tat so deutlich nach unten von der Durchschnittstat ab, dass der gesetzliche Regelstrafrahmen unangemessen waere?
 - Strafmilderungsgruende nach § 49 StGB koennen den Tatbestand des minder schweren Falls **mitausloesen** ("vertypte Milderungsgruende" bei Gesamtwuerdigung beruecksichtigen). Wenn der Tatbestand des minder schweren Falls bejaht wird, **entfaellt** die zusaetzliche Milderung nach § 49 StGB regelmaessig nicht automatisch; vielmehr kann der gemilderten Strafrahmen weiter nach § 49 StGB modifiziert werden. **St. Rspr.; Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.**
 
 ### Besonders schwerer Fall
 
-- Bei **Regelbeispielen** Indizwirkung: ist ein Regelbeispiel erfuellt, ist die Indizwirkung fuer besonders schweren Fall regelmaessig gegeben.
+- Bei **Regelbeispielen** Indizwirkung: ist ein Regelbeispiel erfuellt, ist die Indizwirkung für besonders schweren Fall regelmaessig gegeben.
 - Gegenindizien koennen die Indizwirkung **entkraeften** — Gesamtwuerdigung.
 - Bei "unbenannten besonders schweren Faellen" muss die Tat in Gewicht und Charakter den Regelbeispielen ungefaehr entsprechen.
 
@@ -78,14 +78,14 @@ Wenn ein vertypter Milderungsgrund vorliegt **und** zusaetzlich ein minder schwe
 
 - Pruefung des minder schweren Falls **unter Einbeziehung** des vertypten Milderungsgrundes.
 - Wenn minder schwerer Fall bejaht: weitere Milderung nach § 49 StGB ist nicht zwingend.
-- Wenn minder schwerer Fall verneint: Milderung nach § 49 StGB greift fuer den Regelstrafrahmen.
+- Wenn minder schwerer Fall verneint: Milderung nach § 49 StGB greift für den Regelstrafrahmen.
 
 In der Verteidigungspraxis stets **hilfsweise** beide Wege beantragen. **Aktenzeichen der einschlaegigen BGH-Linie vor Zitat verifizieren.**
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Strafrahmen-Modifikation** identifizieren: Liegt eine minder schwere Fall-Norm vor? Liegt ein Regelbeispiel-Katalog vor?
-2. **Argumente fuer minder schweren Fall** sammeln:
+2. **Argumente für minder schweren Fall** sammeln:
  - Provokation, Notlage, akuter Affekt.
  - Erstmaliger Verstoss.
  - Tatfolgen geringfuegig.
@@ -95,7 +95,7 @@ In der Verteidigungspraxis stets **hilfsweise** beide Wege beantragen. **Aktenze
  - Sonstige starke Strafmilderungs-Gesichtspunkte ueberwiegen.
 4. **Antrag**: "Wir beantragen Verurteilung nach minder schwerem Fall (§ ..., Abs. ...). Hilfsweise Strafmilderung nach § 49 Abs. 1 StGB."
 
-## Schritt-fuer-Schritt-Anleitung (Anklage)
+## Schritt-für-Schritt-Anleitung (Anklage)
 
 1. **Regelbeispiel-Vortrag** mit Tatsachen substantiieren.
 2. **Unbenannte besonders schwere Faelle** nur bei klarem Vergleichsgewicht zu den Regelbeispielen.

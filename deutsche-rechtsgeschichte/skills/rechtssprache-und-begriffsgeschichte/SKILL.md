@@ -26,7 +26,7 @@ Die Rechtssprache ist selbst historisch. Im Mittelalter wurde Recht in der Volks
 - **Sachsenspiegel** (ca. 1220): Erste grosse Rechtsquelle in deutscher Volkssprache
 - **Corpus Iuris Civilis**: Lateinische Grundlage der Rezeptionssprache
 - **BGB § 133**: Auslegung von Willenserklaerrungen nach dem sprachlichen Wortsinn
-- **GG Art. 103 Abs. 2**: Bestimmtheitsgrundsatz fuer Strafrecht (lex certa)
+- **GG Art. 103 Abs. 2**: Bestimmtheitsgrundsatz für Strafrecht (lex certa)
 - **Veroeffentlichungsgebot GG Art. 82 Abs. 1**: Gesetze muessen im BGBl. veroeffentlicht werden
 
 ## Akteure und Institutionen
@@ -41,7 +41,7 @@ Die Rechtssprache ist selbst historisch. Im Mittelalter wurde Recht in der Volks
 1. Lateinische Fachsprache: Exklusion oder Praezision?
 2. BGB-Sprache: Ist die Abstraktion notwendig oder Selbstzweck?
 3. Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG: Wie praezise muss Strafrecht formuliert sein?
-4. Digitale Verwaltung und Rechtssprache: Muss Recht fuer Computer-Auswertung formalisiert sein?
+4. Digitale Verwaltung und Rechtssprache: Muss Recht für Computer-Auswertung formalisiert sein?
 5. Mehrsprachigkeit im deutschen Recht: Welche Sprache bei EU-Rechtsuebersetzungen?
 
 ## Methodik

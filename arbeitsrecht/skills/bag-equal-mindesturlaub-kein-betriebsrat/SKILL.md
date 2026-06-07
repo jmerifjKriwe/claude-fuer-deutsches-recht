@@ -46,7 +46,7 @@ Dieser Skill ist ein Live-Research-für Equal-Pay-Fälle mit Paarvergleich. Er d
 
 ## Leitentscheidung
 
-- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Paarvergleich bei Entgeltdiskriminierung; Vorinstanz LAG Baden-Württemberg). Tragende Aussage: Es genügt, dass die Klägerin substantiiert darlegt, dass ein einzelner Kollege des anderen Geschlechts fuer gleiche oder gleichwertige Arbeit eine hoehere Verguetung erhaelt, um die Vermutung der geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) auszuloesen; auf Mediane oder Vergleichsgruppengroessen kommt es nicht an. Selbst der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
+- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Paarvergleich bei Entgeltdiskriminierung; Vorinstanz LAG Baden-Württemberg). Tragende Aussage: Es genügt, dass die Klägerin substantiiert darlegt, dass ein einzelner Kollege des anderen Geschlechts für gleiche oder gleichwertige Arbeit eine hoehere Verguetung erhaelt, um die Vermutung der geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) auszuloesen; auf Mediane oder Vergleichsgruppengroessen kommt es nicht an. Selbst der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
 - Offene Quelle: dejure.org, Vernetzung BAG 23.10.2025 - 8 AZR 300/24; Pressemitteilung BAG (Entscheidungen Online).
 - Status: Volltextveroeffentlichung gemaess Aussagen Drittquellen noch ausstehend - bei Schriftsatz vor Versand pruefen, ob Volltext inzwischen verfuegbar ist.
 
@@ -69,7 +69,7 @@ Für Arbeitnehmerinnen bedeutet die Entscheidung: Der Auskunftsanspruch nach Par
 
 ## Argumentationslinie im Schriftsatz
 
-Tragender Punkt: Nach BAG 23.10.2025 - 8 AZR 300/24 genuegt ein Paarvergleich mit einem einzigen Kollegen des anderen Geschlechts, um die Vermutung des § 22 AGG auszuloesen. Mediane, Durchschnittsbetrachtungen oder Verhandlungsgeschick rechtfertigen die Differenz nicht pauschal. Der Arbeitgeber muss konkret und nachvollziehbar geschlechtsneutrale, objektive Gruende fuer die konkrete Differenz darlegen und beweisen.
+Tragender Punkt: Nach BAG 23.10.2025 - 8 AZR 300/24 genuegt ein Paarvergleich mit einem einzigen Kollegen des anderen Geschlechts, um die Vermutung des § 22 AGG auszuloesen. Mediane, Durchschnittsbetrachtungen oder Verhandlungsgeschick rechtfertigen die Differenz nicht pauschal. Der Arbeitgeber muss konkret und nachvollziehbar geschlechtsneutrale, objektive Gruende für die konkrete Differenz darlegen und beweisen.
 
 ## Typische Arbeitgeber-Einwände und Reaktion
 
@@ -86,15 +86,15 @@ Der Anspruch richtet sich auf Entgeltnachzahlung für den Differenzbetrag (Parag
 
 ## Ausblick EU-Lohntransparenzrichtlinie 2023/970
 
-Die Richtlinie (EU) 2023/970 des Europäischen Parlaments und des Rates vom 10. Mai 2023 zur Staerkung der Anwendung des Grundsatzes des gleichen Entgelts fuer Maenner und Frauen bei gleicher oder gleichwertiger Arbeit durch Entgelttransparenz und Durchsetzungsmechanismen (ABl. L 132 vom 17.05.2023, S. 21) ist bis zum 07. Juni 2026 in deutsches Recht umzusetzen. Nationale Umsetzung steht zum Stand Mai 2026 noch aus; ein Referentenentwurf zur Aenderung des EntgTranspG ist angekuendigt. Praxisrelevante Pflichten der Richtlinie:
+Die Richtlinie (EU) 2023/970 des Europäischen Parlaments und des Rates vom 10. Mai 2023 zur Staerkung der Anwendung des Grundsatzes des gleichen Entgelts für Maenner und Frauen bei gleicher oder gleichwertiger Arbeit durch Entgelttransparenz und Durchsetzungsmechanismen (ABl. L 132 vom 17.05.2023, S. 21) ist bis zum 07. Juni 2026 in deutsches Recht umzusetzen. Nationale Umsetzung steht zum Stand Mai 2026 noch aus; ein Referentenentwurf zur Aenderung des EntgTranspG ist angekuendigt. Praxisrelevante Pflichten der Richtlinie:
 
 - Art. 5 — Vorvertragliche Entgelttransparenz: Bewerber haben Anspruch auf Information ueber das Einstiegsentgelt oder dessen Spanne; Verbot, nach der bisherigen Gehaltshistorie zu fragen.
-- Art. 7 — Auskunftsanspruch der Beschaeftigten ueber das eigene Entgelt und das durchschnittliche Entgelt nach Geschlecht fuer gleiche oder gleichwertige Arbeit; Antwort binnen zwei Monaten.
+- Art. 7 — Auskunftsanspruch der Beschaeftigten ueber das eigene Entgelt und das durchschnittliche Entgelt nach Geschlecht für gleiche oder gleichwertige Arbeit; Antwort binnen zwei Monaten.
 - Art. 9 — Berichtspflicht des Arbeitgebers ueber das geschlechtsspezifische Entgeltgefaelle: Arbeitgeber ab 250 Beschaeftigten jaehrlich, ab 150 alle drei Jahre, ab 100 alle drei Jahre (nach Uebergangsfristen).
 - Art. 10 — Gemeinsame Entgeltbewertung mit Arbeitnehmervertretung, wenn das Entgeltgefaelle bei einer Arbeitnehmerkategorie mindestens fuenf Prozent betraegt und nicht durch geschlechtsneutrale Faktoren erklaerbar ist.
 - Art. 16 — Schadensersatz ohne Obergrenze; volle Wiedergutmachung einschliesslich entgangenem Entgelt, Boni und Sachleistungen.
 - Art. 18 — Beweislastumkehr zu Lasten des Arbeitgebers, sobald dieser Transparenzpflichten verletzt hat.
-- Art. 21 — Verjaehrungsfrist mindestens drei Jahre ab Kenntnis der Diskriminierung.
+- Art. 21 — Verjährungsfrist mindestens drei Jahre ab Kenntnis der Diskriminierung.
 
 Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj — vor Beratung ueberpruefen, ob das Umsetzungsgesetz inzwischen verkuendet ist.
 
@@ -208,7 +208,7 @@ Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach
 ### Leitentscheidungen (BGH-Stil)
 
 - **Inhalt der Anhörungsmitteilung / subjektive Determinierung:**
- BAG, Urteil vom 27.02.1997 - 2 AZR 302/96: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; auch dem AG bekannte, fuer den AN guenstige Umstaende sind grundsaetzlich mitzuteilen. Quelle: dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96.
+ BAG, Urteil vom 27.02.1997 - 2 AZR 302/96: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; auch dem AG bekannte, für den AN guenstige Umstaende sind grundsaetzlich mitzuteilen. Quelle: dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96.
  BAG, Urteil vom 05.02.1998 - 2 AZR 227/97: Praezisierung der subjektiven Determinierung; objektiv relevante Umstaende duerfen nicht zurueckgehalten werden. Quelle: dejure.org-Vernetzung.
 
 - **Fristbeginn / Vollstaendigkeit der Unterlagen:**
@@ -218,7 +218,7 @@ Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach
  Hier weitere Rechtsprechung zur § 102 Abs. 5 BetrVG-Weiterbeschaeftigung vor Schriftsatzverwendung in dejure.org / openjur.de / bundesarbeitsgericht.de verifizieren.
 
 - **Nachschieben von Kuendigungsgruenden:**
- Standardrechtsprechung: Nachschieben grundsaetzlich nur fuer Kuendigungsgruende, die im Zeitpunkt der Anhoerung bereits objektiv vorlagen und dem Arbeitgeber bekannt waren - vor Zitat konkretes BAG-Aktenzeichen in dejure.org verifizieren.
+ Standardrechtsprechung: Nachschieben grundsaetzlich nur für Kuendigungsgruende, die im Zeitpunkt der Anhörung bereits objektiv vorlagen und dem Arbeitgeber bekannt waren - vor Zitat konkretes BAG-Aktenzeichen in dejure.org verifizieren.
 
 ### Quellenregel
 
@@ -251,7 +251,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 | Kündigungsart | Frist | Fristbeginn |
 |---|---|---|
-| Ordentliche Kuendigung | 1 Woche (§ 102 Abs. 2 Satz 1 BetrVG) | Zugang des vollstaendigen Anhoerungsschreibens beim Vorsitzenden, § 26 Abs. 2 BetrVG |
+| Ordentliche Kuendigung | 1 Woche (§ 102 Abs. 2 Satz 1 BetrVG) | Zugang des vollstaendigen Anhörungsschreibens beim Vorsitzenden, § 26 Abs. 2 BetrVG |
 | Außerordentliche Kündigung | 3 Tage | Zugang des vollständigen Anhörungsschreibens |
 
 - **Fristablauf ohne Stellungnahme des BR** → Arbeitgeber kann kündigen (§ 102 Abs. 2 Satz 2 BetrVG: BR gilt als angehört).

@@ -39,7 +39,7 @@ Der Code Civil (CC) trat am 21. Maerz 1804 in Kraft und galt im linksrheinischen
 ## Typische Streitfragen / Forschungsfragen
 
 1. Warum wurde der CC im Rheinland auch nach Napoleon beibehalten?
-2. Thibaut vs. Savigny: Wer hatte den besseren juristischen Grund fuer seine Position?
+2. Thibaut vs. Savigny: Wer hatte den besseren juristischen Grund für seine Position?
 3. Einfluss des CC auf das BGB 1900: In welchen Institutionen ist der Einfluss sichtbar?
 4. Unterschiede CC-Deliktsrecht vs. BGB § 823: Was lernte das BGB aus dem CC?
 5. Rheinisches Recht nach 1900: Was blieb durch EGBGB-Vorbehalte?

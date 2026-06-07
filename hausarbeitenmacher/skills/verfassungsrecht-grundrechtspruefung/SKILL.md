@@ -265,5 +265,5 @@ C. Verfassungs-rechtliche Rechtfertigung
 
 - `methodenlehre-auslegung` — Verfassungs-konforme Auslegung
 - `meinungsstreit-darstellen` — Bei strittigen Grundrechts-Fragen
-- `oeffentliches-recht-statthaft-zulaessig-begruendet` — bei Verwaltungs-Klage mit Grundrechts-Bezug
-- `subsumtion-schritt-fuer-schritt` — Subsumtions-Praxis
+- `öffentliches-recht-statthaft-zulaessig-begruendet` — bei Verwaltungs-Klage mit Grundrechts-Bezug
+- `subsumtion-schritt-für-schritt` — Subsumtions-Praxis

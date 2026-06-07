@@ -113,7 +113,7 @@ TERMINSVORSCHAU — [AKTENZEICHEN]
 Termin: [DATUM] [UHRZEIT] — ArbG [ORT] Saal [X]
 Verfahren: [KURZBEZEICHNUNG]
 Klagefrist gewahrt: Ja / Nein (§ 4 KSchG — Zugang [DATUM] + 21 Tage = [FRISTENDE])
-BR-Anhoerung: Ja / Nein / unklar
+BR-Anhörung: Ja / Nein / unklar
 Guetetermin: [DATUM] — [ERGEBNIS]
 Aktuelle Antraege: 1. Feststellungsklage § 4 KSchG; 2. [...]
 Streitige Punkte: [LISTE]

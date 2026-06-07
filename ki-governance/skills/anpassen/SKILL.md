@@ -26,7 +26,7 @@ ohne YAML manuell zu bearbeiten.
 
 ## Eingaben
 
-- Konfiguration aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md`
+- Konfiguration aus `~/.claude/plugins/config/claude-für-deutsches-recht/ki-governance/CLAUDE.md`
  und `unternehmens-profil.md` (eine Ebene höher)
 - Beschreibung der gewünschten Änderung vom Nutzer
 
@@ -83,7 +83,7 @@ ohne YAML manuell zu bearbeiten.
 
 5. **Bei Änderungen am gemeinsamen Profil** (Unternehmensname, Branche, Jurisdiktionen,
  Praxiskontext):
- `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` schreiben
+ `~/.claude/plugins/config/claude-für-deutsches-recht/unternehmens-profil.md` schreiben
  und vermerken:
 
  > Diese Änderung betrifft alle Plugins – jedes Plugin, das Ihren Jurisdiktionsfußabdruck

@@ -18,10 +18,10 @@ Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine finanzierende Bank prueft den Schiffbauwerksregister ab Kiellegung vor Auszahlung eines Kredits fuer ein Neubauprojekt unter Werftvertrag. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste fuer die Masse.
+Eine finanzierende Bank prueft den Schiffbauwerksregister ab Kiellegung vor Auszahlung eines Kredits für ein Neubauprojekt unter Werftvertrag. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste für die Masse.
 
 ## Erste Schritte
-1. Aktuellen Registerauszug (Schiffbauwerksregister ab Kiellegung) beim zustaendigen Gericht beschaffen.
+1. Aktuellen Registerauszug (Schiffbauwerksregister ab Kiellegung) beim zuständigen Gericht beschaffen.
 2. Eigentuemerstellung (Abt. I) pruefen; Verkaeufereigenschaft bestaetigen.
 3. Hypothekenabteilung (Abt. II): Betrag, Rang, Glaeubiger und Faelligkeit.
 4. Gesetzliche Vorrechte identifizieren (HGB §§ 596-601 oder BinSchG §§ 102-116).

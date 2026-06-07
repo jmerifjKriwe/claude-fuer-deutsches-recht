@@ -9,6 +9,23 @@ description: "Prüft, wann Rang gesichert ist und wie Notar/Bank/Grundbuchamt di
 
 Prüft, wann Rang gesichert ist und wie Notar/Bank/Grundbuchamt die Reihenfolge dokumentieren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 873 Abs. 1 BGB` — dingliche Einigung und Eintragung.
+- `§ 925 Abs. 1 BGB` — Auflassung.
+- `§ 1113 Abs. 1 BGB` — Hypothek.
+- `§ 1191 Abs. 1 BGB` — Grundschuld.
+- `§ 13 Abs. 1 GBO` — Antragserfordernis.
+- `§ 19 GBO` — Bewilligungsprinzip.
+- `§ 20 GBO` — Auflassungsnachweis.
+- `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
+- `§ 35 GBO` — Erbnachweis.
+- `§ 71 GBO` — Grundbuchbeschwerde.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

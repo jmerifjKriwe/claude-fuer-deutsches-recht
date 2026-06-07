@@ -9,6 +9,23 @@ description: "Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial Lice
 
 Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 69a UrhG` — Computerprogramme.
+- `§ 69b UrhG` — Arbeitnehmerprogramme.
+- `§ 69c UrhG` — ausschliessliche Rechte.
+- `§ 69d UrhG` — bestimmungsgemaesse Benutzung.
+- `§ 69e UrhG` — Dekompilierung.
+- `§ 31 UrhG` — Einraeumung von Nutzungsrechten.
+- `§ 32 UrhG` — angemessene Verguetung.
+- `§ 305 BGB` — AGB-Einbeziehung.
+- `§ 307 Abs. 1 BGB` — AGB-Inhaltskontrolle.
+- `Art. 5 Abs. 1 DSGVO` — Datenschutz bei Softwarebetrieb.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

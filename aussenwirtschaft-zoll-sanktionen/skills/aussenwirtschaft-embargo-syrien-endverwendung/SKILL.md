@@ -19,8 +19,8 @@ EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnu
 
 ## Mandantenfall
 
-- Unternehmen plant Baumaterial-Lieferungen fuer Wiederaufbau nach Syrien nach 2024; welche Sanktionen gelten noch?
-- Bank erhaelt Auftrag fuer Zahlung an syrisches Bauunternehmen; Listencheck und Sektorsanktionen.
+- Unternehmen plant Baumaterial-Lieferungen für Wiederaufbau nach Syrien nach 2024; welche Sanktionen gelten noch?
+- Bank erhaelt Auftrag für Zahlung an syrisches Bauunternehmen; Listencheck und Sektorsanktionen.
 - Exporteur fragt nach aktueller Lage nach Regimewechsel Ende 2024 bezueglich Guetersanktionen.
 
 ## Erste Schritte
@@ -29,14 +29,14 @@ EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnu
 2. Personensanktionsliste auf Beteiligten screenen; Assad-Entourage und Militaer besonders beachten.
 3. Waffenembargo und Ruestungsguterliste pruefen (gilt unabhaengig vom Regime-Wechsel).
 4. Guetersanktionen: Oelembargo und sektorale Verbote auf aktuelle Fassung pruefen.
-5. Lockerungsausnahmen fuer humanitaere Hilfe und Wiederaufbau eruieren (Art. 25 ff. VO 36/2012).
-6. Exportgenehmigung beim BAFA fuer genehmigungspflichtige Gueter beantragen.
+5. Lockerungsausnahmen für humanitaere Hilfe und Wiederaufbau eruieren (Art. 25 ff. VO 36/2012).
+6. Exportgenehmigung beim BAFA für genehmigungspflichtige Gueter beantragen.
 
 ## Rechtsrahmen
 
 - **VO (EU) 36/2012 konsolidiert**: EU-Syrien-Sanktionsregime.
 - **Delegierte VO und Ergaenzungsverordnungen 2024/2025**: Aktuelle Lockerungen und Anpassungen.
-- **Art. 25 ff. VO 36/2012**: Ausnahmen fuer humanitaere Hilfe.
+- **Art. 25 ff. VO 36/2012**: Ausnahmen für humanitaere Hilfe.
 - **AWG § 18**: Strafbarkeit bei Embargo-Verstoss.
 - **UZK Art. 56**: Embargogueter in Zollanmeldung.
 
@@ -60,7 +60,7 @@ EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnu
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

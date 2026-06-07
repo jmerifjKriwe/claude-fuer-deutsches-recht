@@ -23,7 +23,7 @@ Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen EU-US- und UN-
 3. Sind Eigentuems- oder Kontrollbeziehungen zum Sanctioned Entity zu pruefen?
 4. Gibt es eine Transaktionssperr-Pflicht oder eine Verdachtsmeldepflicht ausloesende Treffer?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen

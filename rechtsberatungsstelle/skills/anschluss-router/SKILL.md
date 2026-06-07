@@ -124,14 +124,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 |---|---|
 | `anleiter-pruefwarteschlange` | Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell "formelle… |
 | `einarbeitung` | Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte… |
-| `einfache-sprache-briefe` | Anwalts- und Behoerdenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behoerde Gericht oder Gegenseite… |
+| `einfache-sprache-briefe` | Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite… |
 | `entwurf` | Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6… |
-| `formular-erzeugung` | Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behoerde oder Gericht. BeratungsHiG Beratungsschein,… |
+| `formular-erzeugung` | Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behörde oder Gericht. BeratungsHiG Beratungsschein,… |
 | `fristen` | Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard:… |
 | `leitfaden-erstellen` | Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall Studenten der Rechtsberatungsstelle brauchen praxistaugliche Leitfaeden für häufige Mandats-Konstellationen in leicht verstaendlicher Sprache.… |
 | `mandant-aufnahme` | Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwendungsfall Student nimmt erstmals Mandanten auf und muss Sachverhalt strukturiert erfassen Rechtsgebiet einordnen und naechste Schritte bestimmen.… |
 | `mandanten-kommunikations-log` | Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO… |
-| `mandantenbrief` | Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten.… |
+| `mandantenbrief` | Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behörde oder Gericht vorbereiten.… |
 | `memo` | Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit… |
 | `recherche-start` | Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, Quellenprüfung, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende… |
 | `rechtsberatungsstelle-anpassen` | Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG,… |
@@ -149,14 +149,14 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 
 - Ein neuer Studierender startet seine Arbeit in der Rechtsberatungsstelle und benoetigt Einarbeitung in Struktur, RDG-Grundlagen und Tools.
 - Ein Mandant meldet sich mit einem konkreten Rechtsproblem und muss mit Sachverhalt, Fristen und Interessenkonfliktpruefung aufgenommen werden.
-- Sie benoetigen Schriftsaetze, Antraege oder Mandantenbriefe in verstaendlicher Sprache fuer Mandanten mit sprachlichen Einschraenkungen.
+- Sie benoetigen Schriftsaetze, Antraege oder Mandantenbriefe in verstaendlicher Sprache für Mandanten mit sprachlichen Einschraenkungen.
 - Das Semester endet und laufende Mandate sollen sauber an die naechste Studierendenkohorte uebergeben werden.
 - Sie wollen das Plugin an Ihre Hochschule und deren Rechtsgebiete anpassen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **RDG** — Rechtsdienstleistungsgesetz; regelt, wer ausserhalb der Anwaltschaft Rechtsdienstleistungen erbringen darf.
-- **§ 6 RDG** — Erlaubnisnorm fuer unentgeltliche Rechtsdienstleistungen; Grundlage fuer studentische Beratungsstellen.
+- **§ 6 RDG** — Erlaubnisnorm für unentgeltliche Rechtsdienstleistungen; Grundlage für studentische Beratungsstellen.
 - **BeratungsHiG** — Beratungshilfegesetz; ermoeglicht einkommensschwachen Personen staatlich gefoerderte Rechtsberatung.
 - **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht ueber Studierende fuehrt und Arbeitsergebnisse freigibt.
 - **Gutachtenmethode** — Juristische Analyse nach dem Schema Obersatz - Norm/Definition - Subsumtion - Ergebnis.
@@ -173,7 +173,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - DSGVO Art. 6 Abs. 1 und Art. 13 — Datenschutz bei der Mandatsbearbeitung
 - BDSG § 26 — Datenschutz bei studentischen Arbeitnehmerverhaeltnissen
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Kaltstart-Interview durchfuehren und Plugin an Hochschule und Rechtsgebiete anpassen.
 2. Neue Studierende einarbeiten (Semester-Start).
@@ -183,18 +183,18 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 
 ## Skill-Tour (was gibt es hier?)
 
-- `anleiter-pruefwarteschlange` — Supervisoren-Pruefwarteschlange fuer studentische Arbeitsergebnisse vor Anleiter-Freigabe.
-- `einarbeitung` — Semestereinarbeitung fuer neue studentische Berater mit RDG-Grundlagen und Toolwalkthrough.
-- `einfache-sprache-briefe` — Anwalts- und Behoerdenbriefe in leichte oder einfache Sprache uebersetzen fuer Mandanten mit sprachlichen Einschraenkungen.
+- `anleiter-pruefwarteschlange` — Supervisoren-Pruefwarteschlange für studentische Arbeitsergebnisse vor Anleiter-Freigabe.
+- `einarbeitung` — Semestereinarbeitung für neue studentische Berater mit RDG-Grundlagen und Toolwalkthrough.
+- `einfache-sprache-briefe` — Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen für Mandanten mit sprachlichen Einschraenkungen.
 - `entwurf` — Erstentwurf haeufiger Schriftstuecke (Widerspruch, Mietrechtsbrief, Klageschrift im Beratungshilfe-Kontext).
-- `formular-erzeugung` — Formulare und Antragsdokumente fuer Behoerden oder Gerichte erstellen.
-- `fristen` — Fristenmanagement fuer laufende Mandate mit Warnschwellen und Eskalation.
-- `leitfaden-erstellen` — Praxisleitfaeden fuer haeufige Mandatskonstellationen in verstaendlicher Sprache erstellen.
+- `formular-erzeugung` — Formulare und Antragsdokumente für Behörden oder Gerichte erstellen.
+- `fristen` — Fristenmanagement für laufende Mandate mit Warnschwellen und Eskalation.
+- `leitfaden-erstellen` — Praxisleitfaeden für haeufige Mandatskonstellationen in verstaendlicher Sprache erstellen.
 - `mandant-aufnahme` — Strukturierter Mandantenintake mit Sachverhaltserfassung, Dringlichkeit und Interessenkonfliktpruefung.
 - `mandanten-kommunikations-log` — Mandantenkommunikation datenschutzkonform dokumentieren und Kommunikations-Log fuehren.
 - `mandantenbrief` — Mandantenbrief in verstaendlicher oder foermlicher Sprache verfassen.
-- `memo` — Gutachten-Geruest nach Gutachtenmethode mit markierten Luecken fuer studentische Analyse erstellen.
-- `recherche-start` — Recherchefahrplan fuer eine Rechtsfrage mit Normen, Rechtsprechungsbereichen und Suchbegriffen.
+- `memo` — Gutachten-Geruest nach Gutachtenmethode mit markierten Luecken für studentische Analyse erstellen.
+- `recherche-start` — Recherchefahrplan für eine Rechtsfrage mit Normen, Rechtsprechungsbereichen und Suchbegriffen.
 - `rechtsberatungsstelle-anpassen` — Plugin an spezifische Hochschule, Rechtsgebiete und Verfahrensregeln anpassen.
 - `rechtsberatungsstelle-kaltstart-interview` — Erst-Konfiguration des Plugins mit Hochschule, Anleiter und Beratungsregeln.
 - `semester-uebergabe` — Semesterabschluss-Uebergabe laufender Mandate mit Uebergabenotizen und Gesamtuebersicht.
@@ -211,17 +211,17 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 ## Typische Fehler
 
 - Interessenkonfliktpruefung vergessen: Zwei Studierende aus derselben Kohorte beraten unwissentlich Parteien desselben Konflikts.
-- Memo als fertige Rechtsberatung weitergeben statt als Analyse-Grundlage fuer den Anleiter.
+- Memo als fertige Rechtsberatung weitergeben statt als Analyse-Grundlage für den Anleiter.
 - Fristenliste nicht aktuell halten; Fristaenderungen durch Gericht werden nicht eingetragen.
 - Bei der Semesteruebergabe Mandate ohne Uebergabenotiz an Nachfolgekohorte weitergeben.
 - Einfache-Sprache-Uebersetzung nicht auf Richtigkeit pruefen lassen; Vereinfachungen koennen Rechtsinhalte veraendern.
 
 ## Querverweise
 
-- `kanzlei-allgemein` — Vollstaendiges Kanzlei-Workflow-Plugin fuer zugelassene Anwaelte.
+- `kanzlei-allgemein` — Vollstaendiges Kanzlei-Workflow-Plugin für zugelassene Anwaelte.
 - `selbstvertreter-amtsgericht` — Wenn Mandanten ohne Anwalt vor dem Amtsgericht auftreten wollen.
 - `aktenauszug-gerichtsverfahren` — Fuer schnelle Einarbeitung in laufende Verfahren der Beratungsstelle.
-- `ki-richtlinie-kanzleien` — KI-Nutzungsrichtlinie fuer den verantwortungsvollen KI-Einsatz in der Beratungsstelle.
+- `ki-richtlinie-kanzleien` — KI-Nutzungsrichtlinie für den verantwortungsvollen KI-Einsatz in der Beratungsstelle.
 
 ## Quellen und Aktualitaet
 

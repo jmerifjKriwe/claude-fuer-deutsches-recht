@@ -1,13 +1,13 @@
 ---
 name: erforderlichkeitspruefung-warum-ueberhaupt-regeln
-description: "Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen fuer die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln
 
 ## Arbeitsbereich
 
-Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen fuer die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -38,7 +38,7 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 - **HdR** Teil A.III — Begruendungspflichten
 - **Subsidiaritaetsprinzip** Art. 5 EUV (bei EU-Bezug)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. Problemdefinition
 
@@ -49,12 +49,12 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 
 ### 2. Marktversagen-Test (bei Wirtschaftsregelung)
 
-- Klassisches Marktversagen: Information, externe Effekte, oeffentliche Gueter, Marktmacht
+- Klassisches Marktversagen: Information, externe Effekte, öffentliche Gueter, Marktmacht
 - Korrigieren Markt oder Selbstregulierung das Problem nicht?
 
 ### 3. Subsidiaritaet (vertikal)
 
-- Loesen Laender oder Kommunen das Problem nicht?
+- Loesen Länder oder Kommunen das Problem nicht?
 - Loest die EU es nicht?
 
 ### 4. Vorhandene Regelung
@@ -70,7 +70,7 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 ### 6. Wirksamkeitsprognose
 
 - Kann die geplante Regelung das Problem ueberhaupt loesen?
-- Welche Begruendung dafuer?
+- Welche Begruendung dafür?
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 

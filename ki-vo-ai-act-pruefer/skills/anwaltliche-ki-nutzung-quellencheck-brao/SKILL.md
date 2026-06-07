@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-ki-nutzung-quellencheck-brao
-description: "Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk fuer Kanzlei und Rechtsabteilung."
+description: "Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk für Kanzlei und Rechtsabteilung."
 ---
 
 # Anwaltliche KI-Nutzung und Quellencheck

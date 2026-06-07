@@ -12,11 +12,11 @@ description: "Datenschutz Auskunftsersuchen ART Bank im Datenschutzrecht: prüft
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `datenschutz-auskunftsersuchen-art-15-praxis` | Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-fuer-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte fuer Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit). |
+| `datenschutz-auskunftsersuchen-art-15-praxis` | Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-für-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte für Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit). |
 | `datenschutz-bank-ablehnung-score-beweisplan` | Beweis- und Anspruchsplan bei Konto-, Kredit-, Leasing- oder Mietablehnung wegen Auskunftei-/Score-Daten. |
-| `datenschutz-beschwerde-art-77-aufsichtsbehoerde` | Beschwerde Art. 77 DSGVO bei zustaendiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-fuer-Schritt fuer beide Seiten. Mustertexte fuer Beschwerdeschreiben Stellungnahme und Anhoerungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
+| `datenschutz-beschwerde-art-77-aufsichtsbehoerde` | Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-für-Schritt für beide Seiten. Mustertexte für Beschwerdeschreiben Stellungnahme und Anhörungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
 | `datenschutz-beschwerde-aufsicht-auskunftei` | Beschwerde nach Art. 77 DSGVO gegen SCHUFA/Credit Agency: Zuständigkeit, Sachverhalt, Anträge, Belege, gerichtliche Kontrolle. |
-| `datenschutz-betroffenenrechte-art-15-22-orchestriert` | Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte fuer Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung). |
+| `datenschutz-betroffenenrechte-art-15-22-orchestriert` | Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-für-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte für Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung). |
 
 ## Arbeitsweg
 
@@ -29,7 +29,7 @@ description: "Datenschutz Auskunftsersuchen ART Bank im Datenschutzrecht: prüft
 
 ## 1. `datenschutz-auskunftsersuchen-art-15-praxis`
 
-**Fokus:** Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-fuer-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte fuer Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit).
+**Fokus:** Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-für-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte für Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit).
 
 # Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis
 
@@ -54,7 +54,7 @@ Sieben-Fragen-Diagnose:
 ## Rechtlicher Rahmen
 
 - **Art. 15 I DSGVO** Recht auf Bestaetigung und Auskunft ueber Verarbeitungszwecke, Datenkategorien, Empfaenger, Speicherdauer, Rechte, Beschwerderecht, Datenherkunft, automatisierte Entscheidungsfindung.
-- **Art. 15 III DSGVO** Kopie der personenbezogenen Daten. Erste Kopie kostenlos. EuGH C-487/21 (Bundesamt fuer Verbraucherschutz / Oesterreichische Datenschutzbehoerde, Urteil 04.05.2023): "Kopie" ist Reproduktion, nicht zwingend Originaldokument, aber so, dass Betroffener Verarbeitungspflichten verstehen und Rechte ausueben kann.
+- **Art. 15 III DSGVO** Kopie der personenbezogenen Daten. Erste Kopie kostenlos. EuGH C-487/21 (Bundesamt für Verbraucherschutz / Oesterreichische Datenschutzbehoerde, Urteil 04.05.2023): "Kopie" ist Reproduktion, nicht zwingend Originaldokument, aber so, dass Betroffener Verarbeitungspflichten verstehen und Rechte ausueben kann.
 - **EuGH C-307/22** (Urteil 26.10.2023): Auskunft umfasst auch Patientenaktenausdrucke unentgeltlich, soweit zur Wahrung der Rechte des Betroffenen erforderlich.
 - **EuGH C-579/21** (Urteil 22.06.2023): Identitaet konkreter Empfaenger ist anzugeben, wenn der Verantwortliche Empfaengerangaben vorhalten kann; Auswahl Kategorien nur, wenn konkrete Identitaet nicht moeglich.
 - **Art. 12 III DSGVO** Frist ein Monat, Verlaengerung um zwei weitere Monate moeglich; Begruendung innerhalb des ersten Monats.
@@ -63,7 +63,7 @@ Sieben-Fragen-Diagnose:
 - **§ 34 BDSG** Einschraenkungen des Auskunftsrechts (z. B. Geheimhaltung nach gesetzlicher Norm).
 - **§ 29 BDSG** Sperrung statt Loeschung in besonderen Faellen.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst:** Eingangsdatum dokumentieren, Frist im Fristenkalender, Identitaet pruefen. **Nicht** schon eine pauschale Empfangsbestaetigung senden, die zu viel zusagt.
 2. **Als zweites:** Beim Mandanten Datenbestaende erheben (HR, CRM, Mail, Cloud, Backup, Drittsysteme). Konkrete Anfrage an IT-Leitung mit Frist.
@@ -107,8 +107,8 @@ Sieben-Fragen-Diagnose:
 > 1. Verarbeitungszwecke: [konkret].
 > 2. Datenkategorien: [konkret, z. B. Vertragsdaten, Kommunikationsdaten].
 > 3. Empfaenger: [konkret nach EuGH C-579/21, soweit moeglich; Kategorien nur wenn konkrete Empfaenger nicht ermittelbar].
-> 4. Speicherdauer / Kriterien fuer Festlegung.
-> 5. Beschwerderecht nach Art. 77 DSGVO bei [zustaendige Aufsichtsbehoerde].
+> 4. Speicherdauer / Kriterien für Festlegung.
+> 5. Beschwerderecht nach Art. 77 DSGVO bei [zuständige Aufsichtsbehoerde].
 > 6. Datenherkunft (Art. 14 II f DSGVO).
 > 7. Bestehen automatisierter Entscheidungsfindung (Art. 22 DSGVO): [ja/nein, Logik, Tragweite].
 > 8. Anlage: Kopie der personenbezogenen Daten nach Art. 15 III DSGVO.
@@ -185,7 +185,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 3. `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
 
-**Fokus:** Beschwerde Art. 77 DSGVO bei zustaendiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-fuer-Schritt fuer beide Seiten. Mustertexte fuer Beschwerdeschreiben Stellungnahme und Anhoerungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
+**Fokus:** Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-für-Schritt für beide Seiten. Mustertexte für Beschwerdeschreiben Stellungnahme und Anhörungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
 # Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis
 
@@ -200,7 +200,7 @@ Sie brauchen den Skill, sobald (a) ein Mandant Beschwerde einlegen will, (b) der
 Sieben-Fragen-Diagnose:
 
 1. **Beschwerdefuehrer oder Beschwerdegegner?**
-2. **Zustaendige Aufsichtsbehoerde:** BfDI nach § 13 BDSG (Telekommunikation, Post, Bundesbehoerden) oder Landesaufsicht nach § 40 BDSG (privater Bereich, Landesbehoerden)? Federfuehrende Behoerde nach Art. 56 DSGVO?
+2. **Zustaendige Aufsichtsbehoerde:** BfDI nach § 13 BDSG (Telekommunikation, Post, Bundesbehoerden) oder Landesaufsicht nach § 40 BDSG (privater Bereich, Landesbehoerden)? Federfuehrende Behörde nach Art. 56 DSGVO?
 3. **Sachverhalt:** Welche konkrete Verarbeitung mit welchem Anbieter, welches Datum?
 4. **Norm:** Welche DSGVO-Norm konkret verletzt — nicht pauschal "DSGVO".
 5. **Beweise:** Mailverkehr, Antworten auf Art. 15 Auskunftsersuchen, Screenshots, Vertraege?
@@ -210,16 +210,16 @@ Sieben-Fragen-Diagnose:
 ## Rechtlicher Rahmen
 
 - **Art. 77 I DSGVO** Recht auf Beschwerde bei jeder Aufsichtsbehoerde, insbesondere im Mitgliedstaat des Aufenthalts, des Arbeitsplatzes oder des mutmasslichen Verstosses.
-- **Art. 77 II DSGVO** Behoerde unterrichtet Beschwerdefuehrer ueber Verlauf, Ergebnis und gerichtliche Rechtsbehelfe.
+- **Art. 77 II DSGVO** Behörde unterrichtet Beschwerdefuehrer ueber Verlauf, Ergebnis und gerichtliche Rechtsbehelfe.
 - **Art. 78 DSGVO** Wirksamer gerichtlicher Rechtsbehelf gegen Aufsichtsbehoerde — auch bei Untaetigkeit nach drei Monaten.
 - **Art. 80 I DSGVO** Vertretung durch Einrichtungen, Organisationen, Vereinigungen.
-- **Art. 56 DSGVO** federfuehrende Behoerde bei grenzueberschreitender Verarbeitung.
+- **Art. 56 DSGVO** federfuehrende Behörde bei grenzueberschreitender Verarbeitung.
 - **EuGH C-26/22 SCHUFA** (Urteil 07.12.2023, in Verbindung mit C-634/21 und C-26/22): Entscheidungen ueber Beschwerden sind gerichtlich voll ueberpruefbar; Aufsicht hat Ermessen, aber kein freies Belieben.
 - **§ 13 BDSG** BfDI.
-- **§ 40 BDSG** Aufsichtsbehoerden der Laender.
+- **§ 40 BDSG** Aufsichtsbehoerden der Länder.
 - **VwGO § 113 V** Verpflichtungsklage / Untaetigkeitsklage.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 ### Beschwerdefuehrerseite
 
@@ -231,7 +231,7 @@ Sieben-Fragen-Diagnose:
 
 ### Beschwerdegegnerseite
 
-1. **Zuerst:** Anhoerungsschreiben analysieren. Was wird konkret vorgeworfen?
+1. **Zuerst:** Anhörungsschreiben analysieren. Was wird konkret vorgeworfen?
 2. **Als zweites:** Akteneinsicht beantragen.
 3. **Als drittes:** NICHT vorschnell schriftlich Selbstvorwuerfe formulieren. Sachlich neutrale Sprache.
 4. **Als viertes:** Stellungnahme mit konkreten Belegen (Art. 30 Verarbeitungsverzeichnis, Art. 32 TOM, Art. 35 DSFA).
@@ -278,7 +278,7 @@ Sieben-Fragen-Diagnose:
 
 ### Stellungnahme Beschwerdegegner — Strukturvorschlag
 
-> 1. Verfahrensrechtliche Stellungnahme (Zustaendigkeit, Akteneinsicht).
+> 1. Verfahrensrechtliche Stellungnahme (Zuständigkeit, Akteneinsicht).
 > 2. Sachverhalt aus Sicht des Verantwortlichen (neutral).
 > 3. Rechtliche Bewertung mit DSGVO-Norm.
 > 4. Massnahmenlage Art. 30, 32, 35 (mit Belegen).
@@ -293,7 +293,7 @@ Sieben-Fragen-Diagnose:
 
 ## Typische Fehler
 
-- Beschwerde bei oertlich unzustaendiger Aufsicht — Verzoegerung durch Abgabe.
+- Beschwerde bei oertlich unzuständiger Aufsicht — Verzoegerung durch Abgabe.
 - Pauschalvorwurf "DSGVO verletzt" ohne konkrete Norm.
 - Belege fehlen oder sind nicht referenziert.
 - Drei-Monats-Frist Art. 78 II ueberhoert.
@@ -363,7 +363,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 5. `datenschutz-betroffenenrechte-art-15-22-orchestriert`
 
-**Fokus:** Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte fuer Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung).
+**Fokus:** Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-für-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte für Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung).
 
 # Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert
 
@@ -400,10 +400,10 @@ Sieben-Fragen-Diagnose:
 - **EuGH C-487/21** Datenkopie. **EuGH C-579/21** Empfaengerangabe. **EuGH C-307/22** Patientenakte unentgeltlich. **EuGH C-634/21 SCHUFA** zu Art. 22.
 - **§ 34, § 35 BDSG** Einschraenkungen Auskunfts- und Loeschrechte.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst: Eingangsanalyse.** Welche Rechte sind explizit, welche implizit?
-2. **Als zweites: Frist setzen.** Eine einheitliche Frist Art. 12 III fuer den Vorgang, nicht je Recht.
+2. **Als zweites: Frist setzen.** Eine einheitliche Frist Art. 12 III für den Vorgang, nicht je Recht.
 3. **Als drittes: Identitaet pruefen** (Art. 12 VI DSGVO).
 4. **Als viertes: Konflikte mapping.** Welches Recht setzt welche Verarbeitung voraus?
 5. **Als fuenftes: Pro Recht eine Bearbeitungsspur** und am Ende eine Sammelantwort.
@@ -435,10 +435,10 @@ Sieben-Fragen-Diagnose:
 > 3. Loeschung nach Art. 17 DSGVO: [erfolgt] / [abgelehnt wegen Art. 17 III, z. B. Aufbewahrungspflicht § 257 HGB / § 147 AO].
 > 4. Einschraenkung nach Art. 18 DSGVO: [erfolgt] / [nicht erforderlich, Begruendung].
 > 5. Uebertragbarkeit nach Art. 20 DSGVO: [erfuellt, Format JSON/CSV] / [abgelehnt, da Rechtsgrundlage nicht Einwilligung oder Vertrag].
-> 6. Widerspruch nach Art. 21 DSGVO: [stattgegeben fuer Direktwerbung absolut] / [Pruefung berechtigtes Interesse Art. 6 I f mit Ergebnis].
+> 6. Widerspruch nach Art. 21 DSGVO: [stattgegeben für Direktwerbung absolut] / [Pruefung berechtigtes Interesse Art. 6 I f mit Ergebnis].
 > 7. Automatisierte Entscheidungsfindung Art. 22: [findet nicht statt] / [Logik und Tragweite werden mitgeteilt].
 >
-> Ihr Beschwerderecht nach Art. 77 DSGVO bei [zustaendige Aufsichtsbehoerde] bleibt unberuehrt.
+> Ihr Beschwerderecht nach Art. 77 DSGVO bei [zuständige Aufsichtsbehoerde] bleibt unberuehrt.
 
 ### Fristverlaengerung wegen Komplexitaet
 

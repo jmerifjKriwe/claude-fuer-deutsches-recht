@@ -24,7 +24,7 @@ M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen 
 3. Altlasten bekannt (§§ 4, 9 BBodSchG) — Bodenuntersuchungen vorgelegt?
 4. TEHG-Pflicht? Emissionshandel-Status?
 5. Produktions-Genehmigungen aktuell oder laeuft Aenderungsverfahren?
-6. Bestehen Behoerdenanordnungen oder laufende Verwaltungs-/Gerichtsverfahren?
+6. Bestehen Behördenanordnungen oder laufende Verwaltungs-/Gerichtsverfahren?
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -34,7 +34,7 @@ M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen 
 - **§ 5 KrWG** — Ende Abfalleigenschaft; DD-relevante Bewertung Abfallstatus
 - **§ 13 WHG** — Wasserrechtliche Gestattungen; Erlaubnisse nicht automatisch uebertragbar
 - **§ 9 TEHG** — Kostenlose ETS-Zuteilung; Kapazitaetsaenderung nach Transaktion melden
-- **§ 1 UmwHaftG** — Haftung fuer Schaden durch Anlage
+- **§ 1 UmwHaftG** — Haftung für Schaden durch Anlage
 - **§ 24 BBodSchG** — Erstattungsanspruch bei Sanierung durch Dritte
 
 ## Leitentscheidungen
@@ -44,13 +44,13 @@ M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-DD
+## Schritt-für-Schritt-DD
 
 ### Phase 1: Kick-off und Scope-Setting
 
 1. Transaktionsstruktur festlegen: Share/Asset Deal, betroffene Gesellschaften, Standorte.
 2. DD-Scope: Welche Umweltbereiche — Genehmigungen, Altlasten, Emissionen, Abfall, Wasser, Naturschutz?
-3. Datenraum-Liste anfordern: Genehmigungen, Bescheide, Behoerdenkorrespondenz, Gutachten, Monitoring-Berichte.
+3. Datenraum-Liste anfordern: Genehmigungen, Bescheide, Behördenkorrespondenz, Gutachten, Monitoring-Berichte.
 4. Wesentlichkeitsschwelle definieren: welche Findings ab welchem EUR-Wert als Red Flag?
 
 ### Phase 2: Dokument-Analyse
@@ -60,7 +60,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. **TEHG**: Zuteilungsbescheid, Monitoring-Plan; Abgabe-Geschichte letzter 5 Jahre.
 4. **Wasserrecht**: Einleitgenehmigungen, Entnahmegenehmigungen; ablaufende Genehmigungen?
 5. **Abfallrecht**: Entsorgungsvertraege, Nachweise; unerlaubte Ablagerungen?
-6. **Verfahren/Anordnungen**: Klagen, Widerspruchsverfahren, Behoerdenanordnungen § 17 BImSchG.
+6. **Verfahren/Anordnungen**: Klagen, Widerspruchsverfahren, Behördenanordnungen § 17 BImSchG.
 
 ### Phase 3: Red-Flag-Bewertung
 
@@ -69,16 +69,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | BImSchG-Genehmigung | Fehlt oder wesentlich veraltet | Aenderung laufend | Aktuell und vollstaendig |
 | Altlasten | Aktiver Kontaminationsherd | Historische Untersuchung fehlt | Phase II ohne Befund |
 | TEHG-Abgabe | Rueckstand > 3 Jahre | Einmalige Verspaetung | Vollstaendig |
-| Behoerdenanordnung | Rechtshaft unanfechtbar | Widerspruch laufend | Keine |
+| Behördenanordnung | Rechtshaft unanfechtbar | Widerspruch laufend | Keine |
 | Naturschutz | Stoerfall-Anlage in Schutzgebiet | FFH-VS fehlt | Vollstaendig |
 
 ### Phase 4: Kaufvertrags-Klauseln
 
 1. **Garantien (W&I)**: Genauigkeit Genehmigungen, Altlasten-Freiheit, keine unbekannten Anordnungen.
-2. **Indemnities**: Verkaeufer-Freistellung fuer bekannte Altlasten (Schedule mit Standorten).
-3. **Closing-Conditions**: Vorlage aktueller Umwelt-Gutachten, Behoerden-Auskunft Altlasten, Freigabe DEHSt TEHG-Konto.
-4. **Purchase-Price-Anpassung**: Discount fuer quantifizierbare Capex-Risiken (Sanierung, Nachruestung).
-5. **W&I-Versicherung**: Typical fuer Mid-Market M&A; Umwelt-Endorsements (Altlasten-Ausschluss / Einschluss gegen Praemie).
+2. **Indemnities**: Verkaeufer-Freistellung für bekannte Altlasten (Schedule mit Standorten).
+3. **Closing-Conditions**: Vorlage aktueller Umwelt-Gutachten, Behörden-Auskunft Altlasten, Freigabe DEHSt TEHG-Konto.
+4. **Purchase-Price-Anpassung**: Discount für quantifizierbare Capex-Risiken (Sanierung, Nachruestung).
+5. **W&I-Versicherung**: Typical für Mid-Market M&A; Umwelt-Endorsements (Altlasten-Ausschluss / Einschluss gegen Praemie).
 
 ## Output-Template: DD-Kurz-Finding (Red Flag)
 
@@ -91,7 +91,7 @@ Bewertung: ROT / ORANGE / GRUEN
 Standort: [ORT], Grundstueck [FLUR/STRASSE]
 
 Befund:
-[Beschreibung des konkreten Problems: fehlende Genehmigung, Altlast-Nachweis, Behoerdenanordnung]
+[Beschreibung des konkreten Problems: fehlende Genehmigung, Altlast-Nachweis, Behördenanordnung]
 
 Rechtsgrundlage: § [X] [Gesetz]
 
@@ -103,7 +103,7 @@ Risikobewertung:
 Empfehlung:
 1. Closing-Condition: Vollstaendige Phase-II-Untersuchung oder Sanierungsplan.
 2. Preisabzug: [BETRAG] EUR.
-3. Verkaeufer-Indemnity fuer bekannten Altlast-Herd.
+3. Verkaeufer-Indemnity für bekannten Altlast-Herd.
 4. W&I-Versicherungs-Endorsement pruefen.
 
 Quellen: [Dokument im Datenraum, Seite/Tab]
@@ -114,7 +114,7 @@ Quellen: [Dokument im Datenraum, Seite/Tab]
 - Verursacher > Rechtsnachfolger > Grundstueckseigentuemer > Inhaber tatsaechlicher Gewalt.
 - Bei Share Deal: Erwerber tritt als Gesamtrechtsnachfolger in Haftungsposition des Verkaeufers ein.
 - Gesamtschuldner-Ausgleich § 24 BBodSchG: Sanierungskosten koennen intern aufgeteilt werden.
-- Haftungs-Cap im Kaufvertrag gilt nur zwischen Vertragsparteien, nicht gegenueber Behoerde.
+- Haftungs-Cap im Kaufvertrag gilt nur zwischen Vertragsparteien, nicht gegenueber Behörde.
 
 ## Anschluss-Skills
 

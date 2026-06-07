@@ -1,13 +1,13 @@
 ---
 name: honorarrechnung-erstellen-pruefen
-description: "Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen fuer Aufsatz, Beitrag, Werk im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen für Aufsatz, Beitrag, Werk im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Honorarrechnung erstellen und pruefen
 
 ## Arbeitsbereich
 
-Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen fuer Aufsatz, Beitrag, Werk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen für Aufsatz, Beitrag, Werk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunte
 
 ## Worum geht es konkret
 
-Der Verlag erstellt entweder selbst eine Gutschrift fuer die Autorin (UStG § 14 Abs. 2 Satz 2) oder erhaelt eine Honorarrechnung. In beiden Faellen muss die Rechnung formal korrekt sein, sonst entfaellt der Vorsteuerabzug. Der Skill fuehrt durch Pflichtangaben, Steuersaetze, Sonderfaelle (Kleinunternehmer, Auslandsautor, KSK) und liefert Mustertexte fuer haeufige Konstellationen.
+Der Verlag erstellt entweder selbst eine Gutschrift für die Autorin (UStG § 14 Abs. 2 Satz 2) oder erhaelt eine Honorarrechnung. In beiden Faellen muss die Rechnung formal korrekt sein, sonst entfaellt der Vorsteuerabzug. Der Skill fuehrt durch Pflichtangaben, Steuersaetze, Sonderfaelle (Kleinunternehmer, Auslandsautor, KSK) und liefert Mustertexte für haeufige Konstellationen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -27,20 +27,20 @@ Der Verlag erstellt entweder selbst eine Gutschrift fuer die Autorin (UStG § 14
 2. Welcher Leistungsgegenstand (Aufsatz, Kommentierung, Vortrag, Werk)?
 3. Honorartyp: Pauschalhonorar, Stueckhonorar, Tantieme (Vorschuss/Abrechnung)?
 4. Steuerstatus: Regelbesteuert, Kleinunternehmer (UStG § 19), nicht steuerbar?
-5. KSK-Pflicht des Verlags fuer den Vorgang?
+5. KSK-Pflicht des Verlags für den Vorgang?
 6. Wer stellt aus: Autor (Rechnung) oder Verlag (Gutschrift)?
 
 ## Rechtlicher und sachlicher Rahmen
 
 - UStG § 14 - Pflichtangaben einer Rechnung (Anschrift, Steuernummer/USt-ID, Rechnungsnummer, Datum, Leistungsmenge, Entgelt, Steuersatz, Steuerbetrag).
 - UStG § 14 Abs. 2 Satz 2 - Gutschrift durch Leistungsempfaenger nur mit Einverstaendnis des Leistenden.
-- UStG § 12 Abs. 2 Nr. 7 lit. c und § 19 - ermaessigter Steuersatz 7 Prozent fuer Einraeumung urheberrechtlicher Nutzungsrechte; Kleinunternehmerregelung.
+- UStG § 12 Abs. 2 Nr. 7 lit. c und § 19 - ermaessigter Steuersatz 7 Prozent für Einraeumung urheberrechtlicher Nutzungsrechte; Kleinunternehmerregelung.
 - UStG § 13b - Reverse-Charge bei sonstigen Leistungen aus dem Ausland.
-- KSVG (Kuenstlersozialversicherungsgesetz) - Abgabepflicht des Verlags fuer Zahlungen an selbstaendige Publizisten; Abgabesatz wird jaehrlich angepasst (Stand 2026 pruefen).
+- KSVG (Kuenstlersozialversicherungsgesetz) - Abgabepflicht des Verlags für Zahlungen an selbstaendige Publizisten; Abgabesatz wird jaehrlich angepasst (Stand 2026 pruefen).
 - EStG § 50a - Steuerabzug bei beschraenkt steuerpflichtigen Autoren (Drittland).
 - BGB § 366 - Tilgungsbestimmung bei mehreren offenen Forderungen.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Vertragslage pruefen.** Honorarvereinbarung, Gutschriftvereinbarung, Tantiemestaffel.
 2. **Steuerstatus klaeren.** USt-ID oder Erklaerung Kleinunternehmer einholen, in der Akte ablegen.
@@ -55,7 +55,7 @@ Der Verlag erstellt entweder selbst eine Gutschrift fuer die Autorin (UStG § 14
 
 | Aspekt | Gutschrift durch Verlag | Rechnung durch Autor |
 |---|---|---|
-| Aufwand fuer Autor | Niedrig | Hoeher |
+| Aufwand für Autor | Niedrig | Hoeher |
 | Kontrolle Pflichtangaben | Beim Verlag | Beim Autor; Verlag pruefend |
 | Korrekturen | Verlag korrigiert eigene Gutschrift | Korrekturrechnung durch Autor |
 | Risiko Vorsteuerabzug | Verlag traegt Pflichtangabenrisiko | Verlag pruefend, Risiko geteilt |
@@ -63,7 +63,7 @@ Der Verlag erstellt entweder selbst eine Gutschrift fuer die Autorin (UStG § 14
 ## Praxistipps der alten Redaktion
 
 - Kleinunternehmer-Erklaerung mindestens jaehrlich neu einholen - Status kann kippen.
-- Bei Honorar fuer juristische Personen (z. B. Sozietaet): keine KSK-Pflicht, aber Pflichtangaben besonders streng (USt-ID).
+- Bei Honorar für juristische Personen (z. B. Sozietaet): keine KSK-Pflicht, aber Pflichtangaben besonders streng (USt-ID).
 - Bei Auslandsautor: Bescheinigung Wohnsitz/Steuerstatus einholen; sonst Steuerabzug nach § 50a EStG droht.
 - KSK-Vereinfachung: 5-fache Geringfuegigkeitsgrenze; Bagatellgrenze beachten.
 - Bei Tantiemenabrechnung: Auch dann KSK-Pflicht, wenn der Autor schon Vorschuss bekommen hat.
@@ -125,7 +125,7 @@ Hinweis: Gemaess § 19 UStG wird keine Umsatzsteuer ausgewiesen
 - Falsche oder fehlende USt-ID bei EU-Vorgang - Steueranerkennung gefaehrdet.
 - KSK-Meldung vergessen - Nachzahlung mit Saeumniszuschlag.
 - Gutschrift ohne Bezeichnung "Gutschrift" - unwirksam als Rechnung.
-- Pauschalhonorar fuer "alles" verschleiert spaetere Tantiemeansprueche (UrhG § 32a).
+- Pauschalhonorar für "alles" verschleiert spaetere Tantiemeansprueche (UrhG § 32a).
 
 ## Querverweise
 

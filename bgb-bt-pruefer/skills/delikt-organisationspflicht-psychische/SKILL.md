@@ -82,7 +82,7 @@ Organisationsverschulden und Verkehrssicherungspflichten im Deliktsrecht prüfen
 
 ## Anschluss-Skills
 
-- deliktsrecht-haftung-fuer-verrichtungen-paragraph-831
+- deliktsrecht-haftung-für-verrichtungen-paragraph-831
 - produzentenhaftung-und-verkehrssicherung
 - delikt-verkehrspflicht-digital
 - delikt-vertrag-konkurrenz

@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notari
 
 ## Worum es geht
 
-Das Notariat hat mittelalterliche Wurzeln im kaiserlichen und paepstlichen Notariat (notarius publicus). In Deutschland entwickelte sich das Notariat unterschiedlich je nach Region: Rheinisches Notariat (nach Code Civil-Muster, hauptberuflich), Preussisches Notariat (Justiznotar, kombiniert mit Gerichtsfunktionen). Die Grundbuchordnung 1897 (RGBl. 1897, 139) schuf das moderne Grundbuchsystem, fuer das notarielle Beurkundung bei Grundstuecksgeschaeften notwendig wurde (§ 311b BGB). Das Beurkundungsgesetz 1969 (BeurkG, BGBl. I 1969, 1513) regelt die Beurkundungstaetigkeit der Notare heute.
+Das Notariat hat mittelalterliche Wurzeln im kaiserlichen und paepstlichen Notariat (notarius publicus). In Deutschland entwickelte sich das Notariat unterschiedlich je nach Region: Rheinisches Notariat (nach Code Civil-Muster, hauptberuflich), Preussisches Notariat (Justiznotar, kombiniert mit Gerichtsfunktionen). Die Grundbuchordnung 1897 (RGBl. 1897, 139) schuf das moderne Grundbuchsystem, für das notarielle Beurkundung bei Grundstuecksgeschaeften notwendig wurde (§ 311b BGB). Das Beurkundungsgesetz 1969 (BeurkG, BGBl. I 1969, 1513) regelt die Beurkundungstaetigkeit der Notare heute.
 
 ## Kernnormen / Kernquellen
 
@@ -34,7 +34,7 @@ Das Notariat hat mittelalterliche Wurzeln im kaiserlichen und paepstlichen Notar
 - **Notarkammern**: Standesorganisationen der Notare
 - **Deutsche Notarrechtliche Vereinigung**: Wissenschaftliche Aufarbeitung
 - **Joachim Gernhuber** (1921-2001): Privatrechtler, Beurkundungsrecht
-- **Justizministerien der Laender**: Aufsicht ueber das Notariat
+- **Justizministerien der Länder**: Aufsicht ueber das Notariat
 
 ## Typische Streitfragen / Forschungsfragen
 

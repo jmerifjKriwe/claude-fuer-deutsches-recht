@@ -19,18 +19,18 @@ Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit
 
 ## Triage zu Beginn
 1. Welcher Schriftsatztyp wird benoetigt: Klage, Replik, Klageerwiderung, Antrag auf einstweiligen Rechtsschutz?
-2. Welches Gericht ist zustaendig (oertlich, sachlich, instanziell) und welche Verfahrensordnung gilt?
+2. Welches Gericht ist zuständig (oertlich, sachlich, instanziell) und welche Verfahrensordnung gilt?
 3. Welche Frist laeuft und wann ist spaetester Einreichungstermin?
 4. Sind alle Beweisangebote und Anlagen vorhanden und vorbereitet?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 253 ZPO — Klageschrift: Formerfordernis und Antragspflicht
-- § 12 GVG — Sachliche Zustaendigkeit des AG (bis 10.000 EUR ab 01.01.2026 — Grenze angehoben)
-- § 13 GVG — Sachliche Zustaendigkeit des LG (ab 10.000 EUR ab 01.01.2026)
+- § 12 GVG — Sachliche Zuständigkeit des AG (bis 10.000 EUR ab 01.01.2026 — Grenze angehoben)
+- § 13 GVG — Sachliche Zuständigkeit des LG (ab 10.000 EUR ab 01.01.2026)
 - §§ 935-945 ZPO — Einstweiliger Rechtsschutz: Verfuegungsgrund und Verfuegungsanspruch
 
 ## Quellenregel
@@ -175,7 +175,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

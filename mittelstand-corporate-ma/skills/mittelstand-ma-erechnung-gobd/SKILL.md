@@ -43,7 +43,7 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 6. Welches Rechnungsformat ist erforderlich — Standard-PDF, XRechnung, ZUGFeRD, EDIFACT?
 7. Wurden die Zeiteinträge vollständig und mit ausreichendem Narrative dokumentiert (GoBD-Anforderung)?
 8. Ist die Rechnungsnummer-Vergabe lückenlos und nicht rückdatiert?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -117,7 +117,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — E-Rechnung und GoBD-Anforderungen fuer Mittelstand pruefen | GoBD-Checkliste nach Schema; Template unten |
+| Standard — E-Rechnung und GoBD-Anforderungen für Mittelstand pruefen | GoBD-Checkliste nach Schema; Template unten |
 | Variante A — Kanzlei noch in Umstellungsphase kein Vollbetrieb | Uebergangs-Checkliste; Fristen und Schritte dokumentieren |
 | Variante B — Mandant nutzt Cloud-Buchhaltung | Cloud-spezifische GoBD-Anforderungen pruefen |
 | Variante C — Steuerpruefung laeuft E-Rechnung als Beweismittel | Beweissicherung der E-Rechnungen pruefen; Zugriff sichern |
@@ -196,7 +196,7 @@ RECHNUNGSBETRAG (brutto): EUR [Z + USt]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

@@ -12,9 +12,9 @@ description: "Obliegenheiten Inso P Konto Planablehnung im Plugin Verbraucherins
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `obliegenheiten-295-inso` | Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.; Normanker: InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `p-konto-sofortschutz` | P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.; Normanker: ZPO §§ 850k ff.; Pfändungsschutzkonto-Regeln; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `planablehnung-und-naechster-schritt` | Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `obliegenheiten-295-inso` | Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.; Normanker: InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `p-konto-sofortschutz` | P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.; Normanker: ZPO §§ 850k ff.; Pfändungsschutzkonto-Regeln; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `planablehnung-und-naechster-schritt` | Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Obliegenheiten Inso P Konto Planablehnung im Plugin Verbraucherins
 
 ## 1. `obliegenheiten-295-inso`
 
-**Fokus:** Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.; Normanker: InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.; Normanker: InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.
 
@@ -66,7 +66,7 @@ InsO § 295. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlich
 
 ## 2. `p-konto-sofortschutz`
 
-**Fokus:** P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.; Normanker: ZPO §§ 850k ff.; Pfändungsschutzkonto-Regeln; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.; Normanker: ZPO §§ 850k ff.; Pfändungsschutzkonto-Regeln; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.
 
@@ -105,7 +105,7 @@ ZPO §§ 850k ff.; Pfändungsschutzkonto-Regeln. Entscheidend ist immer der aktu
 
 ## 3. `planablehnung-und-naechster-schritt`
 
-**Fokus:** Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.
 

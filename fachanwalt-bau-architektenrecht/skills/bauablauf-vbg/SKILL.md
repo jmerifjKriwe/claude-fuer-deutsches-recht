@@ -51,7 +51,7 @@ Mandate zur Abnahme: Auftraggeber will Abnahme verweigern wegen Mängeln; Auftra
 | Fälligkeit Werklohn | Rechnung jetzt zahlbar |
 | Gefahrtragungs-Wechsel | Risiko geht auf AG über |
 | Beweislastumkehr bei Mängeln | AG muss beweisen, dass Mangel bei Abnahme bestand |
-| Beginn Verjaehrungsfrist | 5 Jahre Bau, 4 Jahre Werk (VOB/B 4 Jahre Bau) |
+| Beginn Verjährungsfrist | 5 Jahre Bau, 4 Jahre Werk (VOB/B 4 Jahre Bau) |
 | Beginn Gewaehrleistung | Mängel-Anspruch ab Abnahme |
 
 ## 3) Abnahme-Verweigerungsrecht
@@ -194,7 +194,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 6. Liegt ein Bauablaufplan (SOLL-Bauablauf) mit Balkenplan oder Netzplan vor? Kritischer Pfad bestimmbar?
 7. Wer ist für die Behinderung verantwortlich — Auftraggeber, Architekt, Vorgewerk, Behörde, höhere Gewalt?
 8. Besteht Verschulden des Auftraggebers (§ 6 Abs. 6 VOB/B-Schadensersatz) oder nur Annahmeverzug ohne Verschulden (§ 642 BGB-Entschädigung)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -507,7 +507,7 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 ---
 <!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
 <!-- VII ZR 217/13 (behauptet 16.10.2014, Behinderungsanzeige-Anforderungen): NOT_FOUND auf dejure.org — geloescht -->
-<!-- VII ZR 285/12 (behauptet Datum 06.03.2014, Witterungsbedingungen VOB/B): WRONG_TOPIC — real: Verjaehrungshemmung durch Verhandlungen § 203 BGB, Datum 05.06.2014, NJW 2014, 2716, verifiziert auf dejure.org/2014,14744 — geloescht -->
+<!-- VII ZR 285/12 (behauptet Datum 06.03.2014, Witterungsbedingungen VOB/B): WRONG_TOPIC — real: Verjährungshemmung durch Verhandlungen § 203 BGB, Datum 05.06.2014, NJW 2014, 2716, verifiziert auf dejure.org/2014,14744 — geloescht -->
 
 ## 3. `fachanwalt-bau-architektenrecht-bautraeger-insolvenz`
 
@@ -789,7 +789,7 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 
 - Fälligkeit nicht eingetreten -> keine Verzugszinsen
 - Aufforderung zur Pruefbarmachung
-- Bei laufender Verjaehrungsfrist: Hemmung prüfen
+- Bei laufender Verjährungsfrist: Hemmung prüfen
 
 ### Frist zur Pruefbarmachung
 

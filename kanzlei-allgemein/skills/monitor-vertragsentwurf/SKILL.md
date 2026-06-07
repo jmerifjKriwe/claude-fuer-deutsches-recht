@@ -18,16 +18,16 @@ Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen und Zustellungen. Anw
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Geht es um eine akute Frist (heute/morgen) oder um eine Vorschau fuer die naechste Woche?
+1. Geht es um eine akute Frist (heute/morgen) oder um eine Vorschau für die naechste Woche?
 2. Handelt es sich um eine Notfrist (Berufung, Revision, Klage) oder eine einfache Wiedervorfrist?
-3. Welche Verfahrensordnung gilt (ZPO, VwGO, StPO, SGG, FGO, FamFG) — fuer korrekte Fristberechnung?
+3. Welche Verfahrensordnung gilt (ZPO, VwGO, StPO, SGG, FGO, FamFG) — für korrekte Fristberechnung?
 4. Sind alle relevanten Akten-Eingaenge seit dem letzten Fristen-Scan erfasst?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 187-193 BGB — Fristberechnung: Allgemeine Regeln auch fuer prozessuale Fristen
+- §§ 187-193 BGB — Fristberechnung: Allgemeine Regeln auch für prozessuale Fristen
 - § 222 ZPO — Fristberechnung im Zivilprozess; Verweis auf BGB-Regeln
 - § 517 ZPO — Berufungsfrist: ein Monat ab Urteilszustellung (Notfrist, unverlaengerbar)
 - § 233 ZPO — Wiedereinsetzung in den vorigen Stand: Voraussetzungen und Antragsfrist

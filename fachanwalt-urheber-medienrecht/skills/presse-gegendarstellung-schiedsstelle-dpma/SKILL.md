@@ -86,7 +86,7 @@ In Ihrer Ausgabe / auf Ihrem Online-Auftritt vom [Datum] [Seite]
 "[Woertliches Zitat der Tatsachenbehauptung]"
 
 Hierzu fordere ich nach § [Norm] [Landespressegesetz] folgende
-Gegendarstellung abzudrucken / zu senden / online zu veroeffentlichen
+Gegendarstellung abzudrucken / zu senden / online zu veröffentlichen
 
 —————— GEGENDARSTELLUNG ——————
 
@@ -269,7 +269,7 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 8. Ist der Mandant Einzelurheber oder Mitglied einer Verwertungsgesellschaft (VG Wort, GEMA, VG Bild-Kunst)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -326,7 +326,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — TDM § 44b UrhG KI-Training Opt-Out | Opt-Out-Erklaerung; Template unten |
 | Variante A — Mandant will KI-Training erlauben | Lizenzvertrag statt Opt-Out; gesonderte Verguetung |
-| Variante B — Bereits laufendes KI-Training | Opt-Out fuer Zukunft; Schadensersatz fuer Vergangenheit pruefen |
+| Variante B — Bereits laufendes KI-Training | Opt-Out für Zukunft; Schadensersatz für Vergangenheit pruefen |
 | Variante C — EU-DSA / Digital-Markets-Act beruehrt | Plattform-spezifische Opt-Out-Mechanismen zusaetzlich |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -552,9 +552,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Triage-Fragen bei TDM/KI-Training-Opt-out-Mandat
 
 Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
-1. War das urheberrechtlich geschuetzte Werk oeffentlich zugaenglich (§ 44b I UrhG — Erlaubnis nur bei rechtmaessigem Zugang)?
+1. War das urheberrechtlich geschuetzte Werk oeffentlich zugaenglich (§ 44b I UrhG — Erlaubnis nur bei rechtmäßigem Zugang)?
 2. Wurde ein Opt-out vor dem Trainings-Zeitpunkt erklaert (maschinenlesbar: robots.txt, TDM Reserved Right)?
-3. Liegen Nachweise dafuer vor, dass ein KI-Anbieter das Werk tatsaechlich verwendet hat (Modellergebnis, Trainingsdaten-Erklaerung)?
+3. Liegen Nachweise dafür vor, dass ein KI-Anbieter das Werk tatsaechlich verwendet hat (Modellergebnis, Trainingsdaten-Erklaerung)?
 4. Ist § 60d UrhG (Wissenschaftliches TDM) als Privilegierungstatbestand einschlaegig?
 
 ## Aktuelle Rechtsprechung
@@ -568,7 +568,7 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 ## Faktische Updates (Stand 05/2026)
 
 - **§ 44b UrhG / Art. 4 Abs. 3 DSM-RL:** TDM-Opt-out muss "maschinenlesbar" sein. Welche Form (robots.txt, ai.txt, TDM Reservation Protocol, REP-Erweiterungen, EXIF/IPTC, Sidecar-Files, NoAI-Meta-Tag) ausreichend ist, ist hoechstrichterlich nicht abschliessend geklaert. Konkrete EuGH- und BGH-Verfahren live ueber curia.europa.eu / dejure.org verifizieren (Stichworte: TDM, Art. 4 DSM-RL).
-- **KI-VO Art. 53 Abs. 1 lit. c und d:** Seit 02.08.2025 muessen GPAI-Anbieter eine Urheberrechts-Compliance-Strategie implementieren und eine Trainingsdaten-Zusammenfassung im EU-AI-Office-Template veroeffentlichen. Quelle: VO (EU) 2024/1689 — eur-lex.europa.eu/eli/reg/2024/1689/oj. Stand des Templates und Veroeffentlichungs-Status der einzelnen Modelle live pruefen.
+- **KI-VO Art. 53 Abs. 1 lit. c und d:** Seit 02.08.2025 muessen GPAI-Anbieter eine Urheberrechts-Compliance-Strategie implementieren und eine Trainingsdaten-Zusammenfassung im EU-AI-Office-Template veröffentlichen. Quelle: VO (EU) 2024/1689 — eur-lex.europa.eu/eli/reg/2024/1689/oj. Stand des Templates und Veroeffentlichungs-Status der einzelnen Modelle live pruefen.
 - **GPAI Code of Practice — Saeule Urheberrecht:** Der EU-AI-Office-Code enthaelt eine Urheberrechts-Saeule (TDM-Vorbehalt-Detektion, Lizenz-Trail, Take-down-Verfahren); bei Anschluss Anbieter-Vermutung der Compliance. Aktuelle Fassung live ueber digital-strategy.ec.europa.eu pruefen.
 - **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live ueber dejure.org und openjur.de verifizieren.
 - **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live ueber nationale Gerichtsdatenbanken und curia.europa.eu pruefen.

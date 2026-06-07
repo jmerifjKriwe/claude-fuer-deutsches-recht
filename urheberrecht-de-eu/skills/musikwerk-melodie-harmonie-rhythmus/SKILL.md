@@ -64,7 +64,7 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 ## Typische Outputs
 
 - Musikvergleichsmatrix
-- Belegliste fuer Sachverständige
+- Belegliste für Sachverständige
 - Entwurf einer Rechte- und Anspruchsprüfung
 
 ## Qualitätsfilter

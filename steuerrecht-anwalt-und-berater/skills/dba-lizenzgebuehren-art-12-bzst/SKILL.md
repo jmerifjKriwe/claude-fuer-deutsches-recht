@@ -15,7 +15,7 @@ description: "Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-R
 
 ## Kernsachverhalt
 
-Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubigers besteuert; viele deutsche DBA weichen jedoch ab und gewaehren dem Quellenstaat ein Restbesteuerungsrecht (0/5/10 Prozent Quellensteuer). § 50g EStG setzt die Zins-/Lizenz-Richtlinie um (0 Prozent bei verbundenen EU-Unternehmen). § 50a EStG begruendet Steuerabzugspflicht beim deutschen Vergueterschuldner; § 50c EStG regelt BZSt-Entlastung. Praxisrelevant fuer Software, Patente, Markenrechte, Franchise.
+Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubigers besteuert; viele deutsche DBA weichen jedoch ab und gewaehren dem Quellenstaat ein Restbesteuerungsrecht (0/5/10 Prozent Quellensteuer). § 50g EStG setzt die Zins-/Lizenz-Richtlinie um (0 Prozent bei verbundenen EU-Unternehmen). § 50a EStG begruendet Steuerabzugspflicht beim deutschen Vergueterschuldner; § 50c EStG regelt BZSt-Entlastung. Praxisrelevant für Software, Patente, Markenrechte, Franchise.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,7 +24,7 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 3. Verbundene Unternehmen iSd ZinsLizenzRL (25 Prozent Beteiligung)?
 4. EU/EWR-Beteiligung oder Drittland?
 5. Substanz der Lizenzgesellschaft (IP-Box, Briefkasten)?
-6. DBA-Hoechstsatz fuer Lizenzen Quellenstaat (variiert stark)?
+6. DBA-Hoechstsatz für Lizenzen Quellenstaat (variiert stark)?
 7. Anti-Treaty-Shopping § 50d Abs. 3 EStG?
 8. BZSt-Freistellungsbescheinigung vor Zahlung oder Erstattung nach?
 
@@ -46,7 +46,7 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 - BMF-Schreiben zu § 4j EStG (Lizenzschranke) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - BMF-Schreiben zu § 50g EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
-## DBA-Hoechstsaetze fuer Lizenzen (Uebersicht — alle Saetze konkret im DBA-Text pruefen)
+## DBA-Hoechstsaetze für Lizenzen (Uebersicht — alle Saetze konkret im DBA-Text pruefen)
 
 | DBA | Lizenz-Hoechstsatz (typ.) | Bemerkung |
 |---|---|---|
@@ -118,13 +118,13 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
 - **§ 50a EStG-Anmeldung des deutschen Vergueterschuldners**: Pflicht zur Quartalsanmeldung (vierteljaehrlich) ueber BZSt-Online-Portal (BOP); Anmeldung der Steuer Abzug auch bei Freistellung notwendig. Vom Anwender mit aktuellem BZSt-Verfahrensverzeichnis abgleichen.
-- **Freistellungsbescheinigung vor erster Lizenzzahlung**: nach § 50c Abs. 2 EStG vom BZSt erwirken; gilt fuer kuenftige Zahlungen, max. drei Jahre. Vergueterschuldner darf reduziert einbehalten.
+- **Freistellungsbescheinigung vor erster Lizenzzahlung**: nach § 50c Abs. 2 EStG vom BZSt erwirken; gilt für kuenftige Zahlungen, max. drei Jahre. Vergueterschuldner darf reduziert einbehalten.
 - **Ansaessigkeitsbescheinigung des Lizenzempfaengers vorab**: bei IRS Form 6166 (USA), HMRC (UK), CFR-1 (Polen). Bearbeitung im Heimatstaat regelmaessig 4-8 Wochen — Vorlauf einplanen.
 - **Vertrag pruefen, ob Software-Lizenz oder Software-Kauf**: Pruefer kategorisieren anhand der Vertragsklausel "Eigentum/Lizenz". Lizenz (Art. 12) loest Quellensteuer aus; Kauf (Art. 7) regelmaessig nicht. Vertragsmuster anpassen, wenn Auslegung guenstig sein soll.
 - **§ 4j EStG-Lizenzschranke vor Abschluss des Lizenzvertrags pruefen**: schaedliche IP-Box im Empfaengerstaat (Praeferenzregime der OECD-Liste) reduziert Betriebsausgabenabzug deutschen Lizenznehmers. Liste ueber OECD Harmful Tax Practices und BMF-Schreiben aktualisieren.
 - **EU-ZinsLizenzRL: 24-Monatsfrist beachten**: nach § 50g EStG mindestens 24 Monate Verbundenheit vor Zahlung. Bei jungen Konzernstrukturen oft nicht erfuellt — DBA-Hoechstsatz greift.
 - **Erstattung nach Einbehalt § 50c Abs. 3 EStG**: vier Jahre Antragsfrist nach Ablauf Kalenderjahr der Steuerentstehung. Frueh stellen — BZSt-Bearbeitung 6-24 Monate, Cashflow-Belastung beim Glaeubiger.
-- **Bei Online-Antrag DAV-Verfahren** fuer institutionelle Lizenzgeber moeglich — Massen-Erstattung effizienter als Einzelantrag.
+- **Bei Online-Antrag DAV-Verfahren** für institutionelle Lizenzgeber moeglich — Massen-Erstattung effizienter als Einzelantrag.
 
 ## Trade-off-Tabelle
 
@@ -132,7 +132,7 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 |---|---|---|---|
 | Lizenz (Art. 12) vs. Software-Verkauf (Art. 7) | Lizenz: Quellensteuer Art. 12 DBA | Verkauf: kein Quellenstaat-Recht, nur BS | bei Standardsoftware ohne Anpassung Pfad B; bei individueller Anpassung Pfad A |
 | ZinsLizenzRL vs. DBA-Hoechstsatz | EU-RL 0 Prozent bei 25 Prozent Beteiligung, 24 Monate | DBA-Hoechstsatz 0-10 Prozent | wenn Voraussetzungen erfuellt: ZinsLizenzRL |
-| Freistellungsbescheinigung vs. Erstattung | Antrag vor Zahlung; reduzierter Einbehalt; max. 3 Jahre | nach Einbehalt rueckwirkend; 4-Jahres-Frist | bei regelmaessigen Lizenzzahlungen Pfad A; einmalig Pfad B |
+| Freistellungsbescheinigung vs. Erstattung | Antrag vor Zahlung; reduzierter Einbehalt; max. 3 Jahre | nach Einbehalt rueckwirkend; 4-Jahres-Frist | bei regelmäßigen Lizenzzahlungen Pfad A; einmalig Pfad B |
 | IP-Holding im Niedrigsteuerland vs. operative Gesellschaft | IP-Box Niederlande/Luxemburg/Schweiz | direkte IP-Halterin im Hauptkonzern | § 4j EStG-Lizenzschranke + § 50d Abs. 3 EStG bei Substanzmangel — meist nicht mehr lohnend |
 | § 50a-Einbehalt akzeptieren vs. anfechten | Vergueterschuldner zahlt mit Vorbehalt; Lizenzgeber holt sich Erstattung | Direktes Anfechtungsverfahren | bei klarer DBA-Lage Pfad A schneller |
 
@@ -144,7 +144,7 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 - **§ 50d Abs. 3 EStG-Substanz nicht dokumentiert**: bei IP-Holdings ohne Personal/Buero/Geschaeftstaetigkeit — Entlastung verweigert.
 - **ZinsLizenzRL-Voraussetzungen nicht geprueft**: Beteiligungshoehe (25 Prozent), Haltedauer (24 Monate), EU/EWR-Ansaessigkeit, Empfaengerrechtsform.
 - **Brexit-Wirkung uebersehen**: UK seit 2021 kein ZinsLizenzRL — Memo argumentiert noch mit RL-Vorteil.
-- **Russland uebersehen**: DBA-Suspendierung 30.12.2023; Erstattungs-Antraege fuer Zeitraeume nach Suspendierung scheitern.
+- **Russland uebersehen**: DBA-Suspendierung 30.12.2023; Erstattungs-Antraege für Zeitraeume nach Suspendierung scheitern.
 
 ## BZSt-Antragsablauf Lizenzen (Mustercheckliste)
 

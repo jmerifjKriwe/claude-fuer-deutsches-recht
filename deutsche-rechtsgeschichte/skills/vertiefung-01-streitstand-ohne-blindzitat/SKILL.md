@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtsh
 
 Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,7 +41,7 @@ Ein rechtshistorischer Streitstand ist die strukturierte Darstellung divergieren
 ## Kernnormen / Kernquellen
 
 - **Savigny, Vom Beruf unserer Zeit** (1814): Position gegen Kodifikation, historische Schule
-- **Thibaut, Ueber die Notwendigkeit eines allgemeinen buergerlichen Rechts** (1814): Position fuer Kodifikation
+- **Thibaut, Ueber die Notwendigkeit eines allgemeinen buergerlichen Rechts** (1814): Position für Kodifikation
 - **Radbruch-Formel, SJZ 1946, 105**: Streitstand NS-Recht als Recht
 - **BVerfGE 94, 12 (1996)**: Streitstand Bodenreform und Eigentumsrestitution
 - **Anton Menger, Das buergerliche Recht** (1890): Sozialkritik am BGB-Entwurf
@@ -34,7 +51,7 @@ Ein rechtshistorischer Streitstand ist die strukturierte Darstellung divergieren
 - **Savigny vs. Thibaut**: Kodifikationsstreit 1814 als Musterfall eines Rechtsstreits in der Literatur
 - **Radbruch vs. Positivisten**: NS-Recht-Streit als rechtsphilosophischer Streitstand
 - **Franz Wieacker** vs. **neuere europaeische Rechtsgeschichte**: Periodisierungsstreit
-- **Michael Stolleis**: Geschichte des oeffentlichen Rechts in Deutschland (4 Bde.) als Referenzwerk
+- **Michael Stolleis**: Geschichte des öffentlichen Rechts in Deutschland (4 Bde.) als Referenzwerk
 
 ## Typische Streitfragen / Forschungsfragen
 
@@ -50,12 +67,12 @@ Ein rechtshistorischer Streitstand ist die strukturierte Darstellung divergieren
 - Savigny 1814: Erstausgabe zitieren (Vom Beruf unserer Zeit, Heidelberg 1814)
 - Thibaut 1814: Ueber die Notwendigkeit (Heidelberg 1814)
 - Radbruch 1946: SJZ 1946, 105 (Sueddeutsche Juristen-Zeitung)
-- Stolleis, Geschichte des oeffentlichen Rechts: Bandangabe + Seite
+- Stolleis, Geschichte des öffentlichen Rechts: Bandangabe + Seite
 
 ## Output
 
 - Streitstand-Schema: These, Antithese, Fundstellen, Synthese
-- Vorlage fuer korrekten wissenschaftlichen Apparat bei Rechtshistoriker-Zitaten
+- Vorlage für korrekten wissenschaftlichen Apparat bei Rechtshistoriker-Zitaten
 - Beispielstreitstand: Kodifikationsstreit Savigny-Thibaut mit vollstaendigen Fundstellen
 
 ## Quellenregel

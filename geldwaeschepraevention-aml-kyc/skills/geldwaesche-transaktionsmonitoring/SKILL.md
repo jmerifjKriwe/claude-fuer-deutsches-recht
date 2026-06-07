@@ -20,14 +20,14 @@ Erkennung auffälliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach 
 ## Triage zu Beginn
 1. Handelt es sich um einen automatisierten Alert oder eine manuelle Auffaelligkeit?
 2. Welche Muster sind erkannt: Smurfing, Roundtripping, Cash Structuring, Offshore-Routing?
-3. Gibt es historische Transaktionsdaten fuer einen Musterabgleich (90-Tage-Fenster, Jahresdurchschnitt)?
+3. Gibt es historische Transaktionsdaten für einen Musterabgleich (90-Tage-Fenster, Jahresdurchschnitt)?
 4. Liegt der Alert bereits bei FIU-Meldepflicht-Schwelle oder noch in Pre-Suspicion-Phase?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 25h KWG — Pflicht zur Einrichtung Transaktionsmonitoring fuer Kreditinstitute
+- § 25h KWG — Pflicht zur Einrichtung Transaktionsmonitoring für Kreditinstitute
 - § 43 GwG — Meldepflicht bei Verdacht; Monitoring als Fruehwarnsystem
 - BaFin-Rundschreiben 5/2021 (BA) — Anforderungen an Transaktionsmonitoring-Systeme
 - FATF Typologies Report 2022 — Aktuelle Geldwäsche-Transaktionsmuster

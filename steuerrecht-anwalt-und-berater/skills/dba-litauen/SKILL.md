@@ -94,9 +94,9 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 ## Edge Cases und Was-Pruefer-Triggert
 
-- **Fintech-Lizenzen LT (E-Money, Payment Institution)**: Litauen ist EU-Fintech-Hotspot mit ueber 200 lizenzierten Fintech-Unternehmen. Lizenz der Bank of Lithuania erfordert Substanz vor Ort (Geschaeftsfuehrer, Mitarbeiter, Compliance) — diese Substanz reicht regelmaessig auch fuer Treaty-Schutz § 50d Abs. 3 EStG.
+- **Fintech-Lizenzen LT (E-Money, Payment Institution)**: Litauen ist EU-Fintech-Hotspot mit ueber 200 lizenzierten Fintech-Unternehmen. Lizenz der Bank of Lithuania erfordert Substanz vor Ort (Geschaeftsfuehrer, Mitarbeiter, Compliance) — diese Substanz reicht regelmaessig auch für Treaty-Schutz § 50d Abs. 3 EStG.
 - **LT-KSt 15 Prozent (Stand 2025)**: knapp ueber AStG-Niedrigsteuerschwelle 15 Prozent — keine CFC-Probleme bei Standard-Kt. Kleine Gesellschaften (Mikrounternehmen) koennen reduzierte Saetze haben.
-- **Pillar Two seit 2024**: LT hat umgesetzt — Top-Up auf 15 Prozent fuer Konzerne ueber 750 Mio EUR Umsatz. Bei LT-Standard 15 Prozent regelmaessig kein Top-Up.
+- **Pillar Two seit 2024**: LT hat umgesetzt — Top-Up auf 15 Prozent für Konzerne ueber 750 Mio EUR Umsatz. Bei LT-Standard 15 Prozent regelmaessig kein Top-Up.
 - **Logistik Hafen Klaipeda**: bei langfristigen Logistik-/Speditionsaktivitaeten BS-Pruefung; insbesondere Lagerhaltung kann BS begruenden (Art. 5).
 - **MLI**: vom Anwender mit BMF-Verzeichnis zu verifizieren.
 - **Estland und Lettland abweichend**: LT hat KEIN Distribution-Tax-System (anders als EE und LV); klassische KSt 15 Prozent.
@@ -130,9 +130,9 @@ Bei Fintech-Substanz (regulatorisch zwingend) kein § 50d Abs. 3 EStG-Problem.
 4. **Laufende Compliance**: LT-Erklaerung jaehrlich; DE-Erklaerung mit Anrechnung.
 5. **Audit-Vorbereitung**: LT-Pruefer formal; DE-FA-Pruefung Fintech-Substanz und MLI-Anwendung.
 
-## Ausgabeformat fuer Mandanten-Memo Litauen
+## Ausgabeformat für Mandanten-Memo Litauen
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Mittelstand, Fintech, Logistik Klaipeda, UAB), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, Fintech-Substanz, KSt 15 Prozent.

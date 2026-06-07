@@ -1,13 +1,13 @@
 ---
 name: versorgungslastenteilung-107b-beamtvg
-description: "Skill zur Versorgungslastenteilung bei Dienstherrenwechsel nach § 107b BeamtVG bzw. dem Versorgungslastenteilungs-Staatsvertrag. Klaert die Berechnung der Abfindung den Wechsel zwischen Bund und Land und zwischen Bundeslaendern die Hoehe des Erstattungssatzes nach Diensteinheiten Diensttagen oder Versorgungseinheiten und die Faelle in denen der neue Dienstherr keine Abfindung erhaelt. Behandelt Konstellationen Wechsel aus Hochschule in Ministerium Wechsel zwischen Bundeslaendern und Wechsel in den oeffentlichen Dienst der EU. Liefert Pruefraster und Berechnungstabelle im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Versorgungslastenteilung bei Dienstherrenwechsel nach § 107b BeamtVG bzw. dem Versorgungslastenteilungs-Staatsvertrag. Klaert die Berechnung der Abfindung den Wechsel zwischen Bund und Land und zwischen Bundeslaendern die Hoehe des Erstattungssatzes nach Diensteinheiten Diensttagen oder Versorgungseinheiten und die Faelle in denen der neue Dienstherr keine Abfindung erhaelt. Behandelt Konstellationen Wechsel aus Hochschule in Ministerium Wechsel zwischen Bundeslaendern und Wechsel in den öffentlichen Dienst der EU. Liefert Pruefraster und Berechnungstabelle im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versorgungslastenteilung bei Dienstherrenwechsel
 
 ## Arbeitsbereich
 
-Skill zur Versorgungslastenteilung bei Dienstherrenwechsel nach § 107b BeamtVG bzw. dem Versorgungslastenteilungs-Staatsvertrag. Klaert die Berechnung der Abfindung den Wechsel zwischen Bund und Land und zwischen Bundeslaendern die Hoehe des Erstattungssatzes nach Diensteinheiten Diensttagen oder Versorgungseinheiten und die Faelle in denen der neue Dienstherr keine Abfindung erhaelt. Behandelt Konstellationen Wechsel aus Hochschule in Ministerium Wechsel zwischen Bundeslaendern und Wechsel in den oeffentlichen Dienst der EU. Liefert Pruefraster und Berechnungstabelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Versorgungslastenteilung bei Dienstherrenwechsel nach § 107b BeamtVG bzw. dem Versorgungslastenteilungs-Staatsvertrag. Klaert die Berechnung der Abfindung den Wechsel zwischen Bund und Land und zwischen Bundeslaendern die Hoehe des Erstattungssatzes nach Diensteinheiten Diensttagen oder Versorgungseinheiten und die Faelle in denen der neue Dienstherr keine Abfindung erhaelt. Behandelt Konstellationen Wechsel aus Hochschule in Ministerium Wechsel zwischen Bundeslaendern und Wechsel in den öffentlichen Dienst der EU. Liefert Pruefraster und Berechnungstabelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur Versorgungslastenteilung bei Dienstherrenwechsel nach § 107b BeamtVG 
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Konstellationen, in denen ein Beamter den Dienstherrn wechselt (Bund nach Land, Land nach Land, Hochschule nach Ministerium, Wechsel in den EU-Dienst) und die Frage zu klaeren ist, wie die spaeteren Versorgungsleistungen zwischen den beteiligten Dienstherren aufzuteilen sind.
+Skill für Konstellationen, in denen ein Beamter den Dienstherrn wechselt (Bund nach Land, Land nach Land, Hochschule nach Ministerium, Wechsel in den EU-Dienst) und die Frage zu klaeren ist, wie die spaeteren Versorgungsleistungen zwischen den beteiligten Dienstherren aufzuteilen sind.
 
 ## 2. Eingaben
 
@@ -32,8 +32,8 @@ Skill fuer Konstellationen, in denen ein Beamter den Dienstherrn wechselt (Bund 
 ## 3. Ablauf / Checkliste
 
 ### a) Anwendungsbereich
-- Versorgungslastenteilungs-Staatsvertrag fuer Wechsel zwischen Bund und Land und zwischen Bundeslaendern.
-- § 107b BeamtVG fuer Faelle, die nicht vom Staatsvertrag erfasst sind (z. B. mittelbare Verwaltung).
+- Versorgungslastenteilungs-Staatsvertrag für Wechsel zwischen Bund und Land und zwischen Bundeslaendern.
+- § 107b BeamtVG für Faelle, die nicht vom Staatsvertrag erfasst sind (z. B. mittelbare Verwaltung).
 
 ### b) Berechnung
 - Abfindung in Hoehe eines Vielfachen der Bezuege im Zeitpunkt des Wechsels, multipliziert mit den Dienstjahren beim abgebenden Dienstherrn.
@@ -69,4 +69,4 @@ Skill fuer Konstellationen, in denen ein Beamter den Dienstherrn wechselt (Bund 
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandantin wechselt nach 18 Jahren als Professorin in Hessen in das Bundesministerium fuer Bildung. Skill liefert Berechnung der von Hessen an den Bund zu zahlenden Abfindung nach dem Staatsvertrag.
+Mandantin wechselt nach 18 Jahren als Professorin in Hessen in das Bundesministerium für Bildung. Skill liefert Berechnung der von Hessen an den Bund zu zahlenden Abfindung nach dem Staatsvertrag.

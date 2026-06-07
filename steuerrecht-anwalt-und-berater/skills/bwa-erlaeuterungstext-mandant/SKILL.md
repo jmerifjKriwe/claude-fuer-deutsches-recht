@@ -3,7 +3,7 @@ name: bwa-erlaeuterungstext-mandant
 description: "Erlaeuterungstext unter der BWA für den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erlaeuterung Ausblick Empfehlung. Output strukturierter Erlaeuterungstext 1 bis 2 Seiten als Anhang zur BWA Querverweis stb-bwa-mandantengespraech-uebergabe."
 ---
 
-# Erlaeuterungstext zur BWA fuer den Mandanten
+# Erlaeuterungstext zur BWA für den Mandanten
 
 ## Fachlicher Anker
 
@@ -88,19 +88,19 @@ Stichtag: [Datum]
 ### Phase 3 — Sondereffekte erlaeutern
 
 - Einmaleffekte (Anlagenverkauf, Versicherungsleistung): Hinweis auf "ohne Sondereffekt waere das Ergebnis ...".
-- Sonderabschreibungen (§ 7b, § 7g EStG): kurz erklaeren, dass es sich um steuerliche Foerderung handelt.
+- Sonderabschreibungen (§ 7b, § 7g EStG): kurz erklaeren, dass es sich um steuerliche Förderung handelt.
 - Sonderzahlungen Personal (Tantieme, Weihnachtsgeld): Hinweis auf Periodicitaet.
 
 ### Phase 4 — Risiko- und Hinweis-Block
 
 - Bei OPOS-Listen mit ueberfaelligen Forderungen > 60 Tage: Hinweis auf Forderungsausfall-Risiko.
 - Bei Steuerrueckstaenden: Hinweis auf Saeumniszuschlaege § 240 AO und ggf. Stundung § 222 AO.
-- Bei SV-Rueckstaenden: dringender Hinweis (§ 266a StGB-Risiko fuer GF).
+- Bei SV-Rueckstaenden: dringender Hinweis (§ 266a StGB-Risiko für GF).
 - Bei Eigenkapitalerosion: Verweis auf Pruefung § 19 InsO und stb-bwa-sus-bilanz-pruefung.
 
 ### Phase 5 — Empfehlungen formulieren
 
-- Konkret und umsetzbar: "Bitte pruefen Sie Mahnungen fuer OP > 60 Tage" statt "OP-Management verbessern".
+- Konkret und umsetzbar: "Bitte pruefen Sie Mahnungen für OP > 60 Tage" statt "OP-Management verbessern".
 - Bei wesentlichen Massnahmen: Termin zur Besprechung anbieten.
 - Keine Rechtsberatung (§ 5 RDG); bei Rechtsfragen Verweis auf Anwalt.
 

@@ -9,7 +9,7 @@ description: "Ressort-Router der Legistik-Werkstatt: leitet nach Auftragsaufnahm
 
 ## Wozu
 
-Legistinnen und Legisten kommen oft aus den Politikwissenschaften, dem oeffentlichen Recht oder aus
+Legistinnen und Legisten kommen oft aus den Politikwissenschaften, dem öffentlichen Recht oder aus
 Verwaltungslaufbahnen - das Ressort und seine Materie sind dabei zunaechst nicht ihr Heimspielfeld.
 Dieser Skill macht den Sprung vom abstrakten Vorhaben zur ressortspezifischen Arbeitsumgebung:
 **welches Ministerium - welche Materie - welche Skills.**
@@ -19,7 +19,7 @@ Dieser Skill macht den Sprung vom abstrakten Vorhaben zur ressortspezifischen Ar
 | Kuerzel | Ressort | Schwerpunkt |
 |---|---|---|
 | BMF | Finanzen | Steuern; Haushalt; Finanzmarkt; Zoll; Geldwaesche |
-| BMI | Innern | Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; oeffentlicher Dienst |
+| BMI | Innern | Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; öffentlicher Dienst |
 | AA | Auswaertiges Amt | Voelkerrecht; Konsular; Aussenwirtschaft; EU-Verfahren; Sanktionen |
 | BMVg | Verteidigung | Wehrrecht; Beschaffung; NATO; Wehrtechnik; Reserve |
 | BMWE | Wirtschaft und Energie | Energie und Netze; Erneuerbare; Industrie; Kartellrecht |
@@ -75,12 +75,29 @@ wenn er an eine fremde Materie heran muss.
 
 ### Schritt 5 - Optional RuleMapping-Anschluss
 
-Wenn das Vorhaben digital-tauglich werden soll (BMJ-Initiative; SPRIND-Foerderung; Rulemap-Builder):
+Wenn das Vorhaben digital-tauglich werden soll (BMJ-Initiative; SPRIND-Förderung; Rulemap-Builder):
 weiter zu `legw-rmap-grundlagen` als didaktischem Einstieg in die RuleMapping-Methodik. Von dort fuehren insgesamt 10 RuleMapping-Skills durch den Workflow: `legw-rmap-grundlagen`, `legw-rmap-norm-zu-rulemap`, `legw-rmap-tatbestand-und-rechtsfolge`, `legw-rmap-verweisungen-und-ausnahmen`, `legw-rmap-bestimmtheit-und-justitiabilitaet`, `legw-rmap-entscheidungsbaum-validierung`, `legw-rmap-vollzugstauglichkeit`, `legw-rmap-evaluierung-und-aenderung`, `legw-rmap-export-und-systemintegration` und `legw-rmap-anschluss-an-legw` als Rueckkopplung in die Legistik-Werkstatt.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 
-Ein Routing-Block fuer das Auftragsblatt:
+Ein Routing-Block für das Auftragsblatt:
 
 ```
 Ressort federfuehrend: <kuerzel> - <Volltitel>

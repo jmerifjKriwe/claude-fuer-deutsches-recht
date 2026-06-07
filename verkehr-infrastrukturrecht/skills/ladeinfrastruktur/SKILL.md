@@ -1,13 +1,13 @@
 ---
 name: ladeinfrastruktur
-description: "Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Prüfraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle öffentliche/private Flaechen, Foerderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Prüfraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle öffentliche/private Flaechen, Förderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ladeinfrastruktur Elektromobilitaet
 
 ## Arbeitsbereich
 
-Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Prüfraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle öffentliche/private Flaechen, Foerderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Prüfraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle öffentliche/private Flaechen, Förderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,10 +20,10 @@ Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant La
 ## Triage zu Beginn
 
 1. **Oeffentliche oder private Ladeinfrastruktur?** — Oeffentlich zugaenglich (§ 2 Nr. 5 AFIR-VO): Pflichten zur Interoperabilitaet, ad-hoc-Laden, Preistransparenz; Private: Hausanschluss, WEG-Zustimmung.
-2. **Standort?** — Privatgrundstuck, oeffentliche Verkehrsflaeche (Sondernutzung!), Parkhaus.
+2. **Standort?** — Privatgrundstuck, öffentliche Verkehrsflaeche (Sondernutzung!), Parkhaus.
 3. **Genehmigungspflicht nach Baurecht?** — Ladesaeulen an Gebaeuden oft genehmigungsfrei; grössere Anlagen oder bauliche Aenderungen koennen LBO-pflichtig sein.
 4. **Netzanschlusspflicht des Netzbetreibers?** — § 8 EnWG: Anschlusspflicht des Netzbetreibers; Verweigerung nur aus tatsaechlichen oder rechtlichen Gruenden (Kapazitaet, Sicherheit).
-5. **Foerderung moeglich?** — BAFA-Foerderung fuer Ladeinfrastruktur (Programme regelmaessig aktualisiert); KfW 439.
+5. **Förderung moeglich?** — BAFA-Förderung für Ladeinfrastruktur (Programme regelmaessig aktualisiert); KfW 439.
 
 ## Zentrale Normen
 
@@ -33,7 +33,7 @@ Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant La
 - **§ 9a GEG** — Neubau und wesentliche Renovierung: Ladeinfrastruktur-Anforderungen
 - **§ 20 WEG** — Bauliche Veraenderung; Ladesaeule auf WEG-Gemeinschaftseigentum erfordert Zustimmung oder Mehrheitsbeschluss
 - **§ 554 BGB** — Mietrecht: Mieter hat Anspruch auf Zustimmung des Vermieters zur Ladestation (n.F. seit 01.12.2020)
-- **§ 13 FStrG** — Sondernutzung an Bundesstrassen fuer Ladesaeulen
+- **§ 13 FStrG** — Sondernutzung an Bundesstrassen für Ladesaeulen
 
 ## Aktuelle Rechtsprechung
 
@@ -57,12 +57,12 @@ Standort der Ladeinfrastruktur?
 └─ Gewerbliche Anlage (Parkhaus, Shopping-Center)
  ├─ Baurecht pruefen (LBO-Genehmigungspflicht?)
  ├─ AFIR-Pflichten (oeffentlich zugaenglich?)
- └─ Foerderung BAFA/KfW beantragen
+ └─ Förderung BAFA/KfW beantragen
 ```
 
 ## Harte Leitplanken
 
 - AFIR-VO seit April 2024 unmittelbar anwendbar — EU-Recht prufen.
-- Sondernutzungserlaubnis fuer oeffentliche Flaechen niemals vergessen.
+- Sondernutzungserlaubnis für öffentliche Flaechen niemals vergessen.
 - WEG-Beschluss sorgfaeltig dokumentieren.
 - Anwaltliche Endkontrolle bei komplexen Konstellationen.

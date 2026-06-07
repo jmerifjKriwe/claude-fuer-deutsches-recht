@@ -1,13 +1,13 @@
 ---
 name: werftvertrag-wrackpflicht-pruefen
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werftvertrag – Wrackbeseitigungspflicht prüfen
 
 ## Arbeitsbereich
 
-Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -39,7 +39,7 @@ Ein Neubauprojekt unter Werftvertrag sinkt in deutschen Gewässern; WSA ordnet B
 - Bestehen Umweltschadensrisiken (Bunkeröl/Chemikalien) beim Neubauprojekt unter Werftvertrag?
 
 ## Typische Fallstricke
-- WRC gilt auch fuer Freizeitjachten ab 14 Meter Laenge.
+- WRC gilt auch für Freizeitjachten ab 14 Meter Laenge.
 - Behoerdliche Ersatzvornahme begründet Kostenerstattungsanspruch mit Vorrang.
 - Bei Neubauprojekt unter Werftvertrag unter Auslandsflagge kommen Flaggenstaat-Pflichten hinzu.
 

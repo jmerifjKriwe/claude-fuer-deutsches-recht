@@ -19,20 +19,20 @@ Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptve
 
 ## Worum es geht
 
-Der Einigungsvertrag vom 31. August 1990 (EV, BGBl. II 1990, 885) regelte den rechtlichen Rahmen der deutschen Wiedervereinigung. Er enthielt Regelungen zur Weitergeltung von DDR-Recht (Anlagen I und II), zur Ueberleitung von Bundesrecht auf die neuen Laender und zu Uebergangsregelungen (Schwangerschaftsabbruch, Bodenreform, Treuhand). Das BVerfG bestaette in mehreren Entscheidungen die Verfassungsmaessigkeit: BVerfGE 82, 316 (Ehegatten-Wohnung), BVerfGE 84, 90 (Bodenreform). Art. 143 GG wurde eingefuegt als Ueberleitungsrecht.
+Der Einigungsvertrag vom 31. August 1990 (EV, BGBl. II 1990, 885) regelte den rechtlichen Rahmen der deutschen Wiedervereinigung. Er enthielt Regelungen zur Weitergeltung von DDR-Recht (Anlagen I und II), zur Ueberleitung von Bundesrecht auf die neuen Länder und zu Uebergangsregelungen (Schwangerschaftsabbruch, Bodenreform, Treuhand). Das BVerfG bestaette in mehreren Entscheidungen die Verfassungsmaessigkeit: BVerfGE 82, 316 (Ehegatten-Wohnung), BVerfGE 84, 90 (Bodenreform). Art. 143 GG wurde eingefuegt als Ueberleitungsrecht.
 
 ## Kernnormen / Kernquellen
 
 - **Einigungsvertrag 1990 (BGBl. II 1990, 885)**: Hauptvertrag mit Anlagen
 - **EV Anlage I und II**: Weitergeltung DDR-Rechts und Uebergangsregeln
 - **EV Art. 17**: Rehabilitierungsrecht, Aufhebung rechtsstaatswidriger Entscheidungen
-- **GG Art. 143**: Uebergangsvorschrift fuer neues Laendergebiet
+- **GG Art. 143**: Uebergangsvorschrift für neues Ländergebiet
 - **Zwei-plus-Vier-Vertrag (BGBl. II 1990, 1318)**: Voelkerrechtliche Grundlage
 
 ## Akteure und Institutionen
 
-- **Wolfgang Schaeuble** (*1942): Hauptverhandlungsfuehrer fuer die BRD
-- **Guenter Krause** (*1953): Hauptverhandlungsfuehrer fuer die DDR
+- **Wolfgang Schaeuble** (*1942): Hauptverhandlungsfuehrer für die BRD
+- **Guenter Krause** (*1953): Hauptverhandlungsfuehrer für die DDR
 - **Treuhandanstalt**: Vollstrecker der wirtschaftlichen Wiedervereinigung
 - **BVerfG**: Huter der Verfassungsmaessigkeit des Einigungsvertrags
 

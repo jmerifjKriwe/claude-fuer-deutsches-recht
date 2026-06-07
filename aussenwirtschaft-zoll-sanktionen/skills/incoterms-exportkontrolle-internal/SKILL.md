@@ -1,13 +1,13 @@
 ---
 name: incoterms-exportkontrolle-internal
-description: "Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung fuer Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Vertragsempfehlung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung für Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Vertragsempfehlung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Incoterms und Exportkontrolle: Verantwortung und Haftungsluecken
 
 ## Arbeitsbereich
 
-Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung fuer Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Vertragsempfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung für Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Vertragsempfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -30,7 +30,7 @@ Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmun
 3. EXW: Klarstellen ob EXW-Verkaeufer dennoch Exportkontrollpruefung durchfuehren muss.
 4. DDP: US-ITAR/EAR-Importeur-of-Record-Funktion und Sanktionsrisiko bewerten.
 5. Genehmigungspflicht dem Ausfuehrer zuordnen; Vertragsklausel anpassen wenn noetig.
-6. Incoterms-Exportkontroll-Matrix erstellen fuer das eigene Produktportfolio.
+6. Incoterms-Exportkontroll-Matrix erstellen für das eigene Produktportfolio.
 
 ## Rechtsrahmen
 
@@ -60,7 +60,7 @@ Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmun
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

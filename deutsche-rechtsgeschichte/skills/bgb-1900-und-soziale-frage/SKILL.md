@@ -34,7 +34,7 @@ Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne di
 - **Anton Menger** (1841-1906): Sozialkritiker des BGB
 - **Otto von Gierke** (1841-1921): Deutschrechtliche und soziale BGB-Kritik
 - **Reichsgericht (RG)**: Nutzung von § 242 als Sozialkorrektur
-- **Weimarer Arbeitsbewegung**: Treiber fuer Arbeitnehmerschutzgesetze
+- **Weimarer Arbeitsbewegung**: Treiber für Arbeitnehmerschutzgesetze
 
 ## Typische Streitfragen / Forschungsfragen
 

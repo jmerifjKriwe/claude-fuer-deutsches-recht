@@ -1,13 +1,13 @@
 ---
 name: flugzeugleasing-genehmigung
-description: "Genehmigungsstand fuer geleastes Flugzeug pruefen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prueft welche Genehmigungen fuer Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Genehmigungsstand für geleastes Flugzeug pruefen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prueft welche Genehmigungen für Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flugzeugleasing – Genehmigung prüfen
 
 ## Arbeitsbereich
 
-Genehmigungsstand fuer geleastes Flugzeug pruefen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prueft welche Genehmigungen fuer Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Genehmigungsstand für geleastes Flugzeug pruefen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prueft welche Genehmigungen für Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

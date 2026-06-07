@@ -12,9 +12,9 @@ description: "Verhandlungsverfahren Dialog im Plugin Fachanwalt Vergaberecht: pr
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-vergaberecht-verhandlungsverfahren-dialog` | Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren fuer komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher Dialog), § 19 VgV (Innovationspartnerschaft). Pruefraster: Voraussetzungen § 14 Abs. 3 VgV, Teilnahmewettbewerb, Mindestanforderungen, Verhandlungsphasen, Reduktion Loesungen, Wahrung Gleichbehandlung waehrend Verhandlung. Output Verfahrensplan, Bewertungsmatrix Verhandlungsphasen. Abgrenzung: Offenes Verfahren siehe fachanwalt-vergaberecht-orientierung; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema. |
+| `fachanwalt-vergaberecht-verhandlungsverfahren-dialog` | Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher Dialog), § 19 VgV (Innovationspartnerschaft). Pruefraster: Voraussetzungen § 14 Abs. 3 VgV, Teilnahmewettbewerb, Mindestanforderungen, Verhandlungsphasen, Reduktion Loesungen, Wahrung Gleichbehandlung waehrend Verhandlung. Output Verfahrensplan, Bewertungsmatrix Verhandlungsphasen. Abgrenzung: Offenes Verfahren siehe fachanwalt-vergaberecht-orientierung; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema. |
 | `spezial-nachpruefungsverfahren-textbausteine` | Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-uvgo-fristen-form-und-zustaendigkeit` | Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-uvgo-fristen-form-und-zuständigkeit` | Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `verfahrenswahl-kompass` | Verfahrensart waehlen und begruenden: offen, nichtoffen, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft, UVgO-Verfahren, VOB/A und Direktvergabe. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ description: "Verhandlungsverfahren Dialog im Plugin Fachanwalt Vergaberecht: pr
 
 ## 1. `fachanwalt-vergaberecht-verhandlungsverfahren-dialog`
 
-**Fokus:** Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren fuer komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher Dialog), § 19 VgV (Innovationspartnerschaft). Pruefraster: Voraussetzungen § 14 Abs. 3 VgV, Teilnahmewettbewerb, Mindestanforderungen, Verhandlungsphasen, Reduktion Loesungen, Wahrung Gleichbehandlung waehrend Verhandlung. Output Verfahrensplan, Bewertungsmatrix Verhandlungsphasen. Abgrenzung: Offenes Verfahren siehe fachanwalt-vergaberecht-orientierung; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
+**Fokus:** Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher Dialog), § 19 VgV (Innovationspartnerschaft). Pruefraster: Voraussetzungen § 14 Abs. 3 VgV, Teilnahmewettbewerb, Mindestanforderungen, Verhandlungsphasen, Reduktion Loesungen, Wahrung Gleichbehandlung waehrend Verhandlung. Output Verfahrensplan, Bewertungsmatrix Verhandlungsphasen. Abgrenzung: Offenes Verfahren siehe fachanwalt-vergaberecht-orientierung; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
 # Verhandlungsverfahren und wettbewerblicher Dialog
 
@@ -39,7 +39,7 @@ Verhandlungsverfahren mit Teilnahmewettbewerb, wettbewerblichen Dialog oder Inno
 1. Standardleistung oder komplexer Beschaffungsbedarf?
 2. Marktrecherche durchgefuehrt? Mindestanforderungen klar formulierbar?
 3. Schwellenwert oberschwellig (sonst Verhandlungsvergabe nach UVgO)?
-4. Erwartete Bieterzahl ausreichend (Mindestens 3 Teilnehmer fuer Verhandlungsverfahren)?
+4. Erwartete Bieterzahl ausreichend (Mindestens 3 Teilnehmer für Verhandlungsverfahren)?
 5. Schutzbedarf vertraulicher Bieterinformationen?
 
 ## Verfahrenswahl
@@ -87,7 +87,7 @@ Wenn Loesung nicht am Markt verfuegbar; Phasenmodell Forschung/Entwicklung + spa
 ## Output
 - Verfahrenswahl-Pruefvermerk § 14 Abs. 3 VgV.
 - Verfahrensplan mit Phasen, Fristen, BAFO-Optionen.
-- Vergabevermerk-Vorlage fuer Verhandlungsprotokolle.
+- Vergabevermerk-Vorlage für Verhandlungsprotokolle.
 
 ## Quellenregel
 OLG-Linien zu § 14 Abs. 3 VgV und zur Reduktion von Loesungen im Dialog vor Ausgabe ueber dejure.org / openjur.de pruefen.
@@ -149,7 +149,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
 
-## 3. `spezial-uvgo-fristen-form-und-zustaendigkeit`
+## 3. `spezial-uvgo-fristen-form-und-zuständigkeit`
 
 **Fokus:** Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
@@ -204,7 +204,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll das richtige Verfahren aus Bedarf, Markt, Komplexitaet, Dringlichkeit und Rechtsrahmen ableiten. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll das richtige Verfahren aus Bedarf, Markt, Komplexitaet, Dringlichkeit und Rechtsrahmen ableiten. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -225,7 +225,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -243,11 +243,11 @@ Verfahrensmatrix, Begruendung, Risiken, Alternativen.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 

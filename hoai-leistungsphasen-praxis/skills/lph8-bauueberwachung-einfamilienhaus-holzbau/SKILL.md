@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-einfamilienhaus-holzbau
-description: "Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe Dokumentation mit Dalux, PlanRadar und Blower-Door-Pruefprotokoll im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe Dokumentation mit Dalux, PlanRadar und Blower-Door-Pruefprotokoll im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Einfamilienhaus Holzbau (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe Dokumentation mit Dalux, PlanRadar und Blower-Door-Pruefprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe Dokumentation mit Dalux, PlanRadar und Blower-Door-Pruefprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -49,8 +49,8 @@ Fehler in der Luftdichtheitsebene sind nach Beplankung kaum noch korrigierbar un
 
 ## Prueferaster und Kontrollpunkte
 
-1. Holzfeuchte Einbau: Messung Greisinger GMH 800, Grenzwert 15 Prozent fuer Ausbauzustand, Messprotokoll
-2. Verbindungsmittel: Schrauben A4 Edelstahl oder Feuerverzinkung ue40 my fuer Aussenbereich
+1. Holzfeuchte Einbau: Messung Greisinger GMH 800, Grenzwert 15 Prozent für Ausbauzustand, Messprotokoll
+2. Verbindungsmittel: Schrauben A4 Edelstahl oder Feuerverzinkung ue40 my für Aussenbereich
 3. Luftdichtheitsebene: Klebestellen Fenster, Tueren, Kamin-Durchdringungen visuell und per Drucktest
 4. Wandscheiben und Aussteifung: OSB-Beplankung vollstaendig verleimt und verschraubt, Randnaegel nach Statik
 5. Brandschutz: Bekleidung K260 nach DIN EN 13501-2 in Treppenhaeusern und Fluchtwegebereichen laut LBO
@@ -62,7 +62,7 @@ Fehler in der Luftdichtheitsebene sind nach Beplankung kaum noch korrigierbar un
 - Drohnenflug DJI Mavic 3 Enterprise: Dachflaecheninspektion, Gaubenanschluss, Kamindurchdringung
 - Werksdokumentation: CE-Zertifikat Holzbauelemente, Druckfestigkeitsklasse C24 oder GL24h, Feuchteprotokoll
 - Thermografie Flir E8 Pro: Waermebruecken Fundament-Wand-Anschluss, Rollladenkasten, Fensterlibelle
-- Blower-Door-Vor- und Endtest: Leckagepositionen im Grundriss eingetragen, n50-Wert fuer KfW-Antrag
+- Blower-Door-Vor- und Endtest: Leckagepositionen im Grundriss eingetragen, n50-Wert für KfW-Antrag
 
 ## Meldungserstellung im ERP / SAP
 

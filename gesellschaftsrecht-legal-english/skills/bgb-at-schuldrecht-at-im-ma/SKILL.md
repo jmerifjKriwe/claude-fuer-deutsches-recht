@@ -70,11 +70,11 @@ Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtsw
 
 ## Verwandte Skills
 
-- `articles-association-satzung` fuer die Satzungsperspektive.
-- `share-classes-vorzugsrechte` fuer Vorzugsrechte und ihre Verankerung.
-- `reps-warranties-indemnities` fuer die Schnittstelle zur arglistigen Taeuschung und § 444 BGB.
-- `reasonable-efforts-covenants` fuer endeavours- und reasonable-efforts-Klauseln.
-- `verdeckte-sacheinlage` fuer § 19 Abs. 4 und Abs. 5 GmbHG.
+- `articles-association-satzung` für die Satzungsperspektive.
+- `share-classes-vorzugsrechte` für Vorzugsrechte und ihre Verankerung.
+- `reps-warranties-indemnities` für die Schnittstelle zur arglistigen Taeuschung und § 444 BGB.
+- `reasonable-efforts-covenants` für endeavours- und reasonable-efforts-Klauseln.
+- `verdeckte-sacheinlage` für § 19 Abs. 4 und Abs. 5 GmbHG.
 
 ## Qualitäts-Hardening
 

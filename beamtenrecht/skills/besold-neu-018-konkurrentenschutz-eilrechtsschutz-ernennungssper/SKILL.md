@@ -19,7 +19,7 @@ Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre. Die Prüfung 
 
 ## Aufgabe
 
-Skill fuer Konkurrentenschutz im Eilrechtsschutz — Ernennungssperre.
+Skill für Konkurrentenschutz im Eilrechtsschutz — Ernennungssperre.
 
 ## Norm
 
@@ -36,7 +36,7 @@ Skill fuer Konkurrentenschutz im Eilrechtsschutz — Ernennungssperre.
 ## Eilrechtsschutz
 
 - **Antrag § 123 VwGO**: Ernennungssperre, damit Wartezeit zur Klage gewaehrt wird.
-- **Anordnungsanspruch**: Anspruch auf rechtmaessige Auswahl.
+- **Anordnungsanspruch**: Anspruch auf rechtmäßige Auswahl.
 - **Anordnungsgrund**: dringliche Folgen, wenn Ernennung erfolgt (irreversible Eingabe = abgeschlossene Personalentscheidung).
 
 ## BVerwG-Linie

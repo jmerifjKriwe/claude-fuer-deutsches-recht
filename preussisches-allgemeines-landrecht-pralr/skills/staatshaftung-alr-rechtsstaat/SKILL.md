@@ -8,7 +8,7 @@ description: "Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill be
 ## ALR-Staatshaftungsansatz
 
 - Einl. §§ 74-75 — Aufopferung als zentrale Norm.
-- Eigene Haftung des Staates fuer rechtmaessige Eingriffe.
+- Eigene Haftung des Staates für rechtmäßige Eingriffe.
 - Fuer rechtswidrige Eingriffe nur unzureichende Regelung.
 
 ## Friedrich II. und Justizreform
@@ -24,7 +24,7 @@ description: "Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill be
 
 ## Reichshaftung
 
-- Reichsbeamtenhaftungsgesetz 1910 — eigene Haftung des Staates fuer Beamtenfehlverhalten.
+- Reichsbeamtenhaftungsgesetz 1910 — eigene Haftung des Staates für Beamtenfehlverhalten.
 - Heute Art. 34 GG iVm § 839 BGB Amtshaftung.
 
 ## Pruefraster
@@ -32,6 +32,21 @@ description: "Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill be
 1. Eingriff rechtmaessig oder rechtswidrig?
 2. Aufopferung oder Amtshaftung?
 3. Historischer Stand?
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

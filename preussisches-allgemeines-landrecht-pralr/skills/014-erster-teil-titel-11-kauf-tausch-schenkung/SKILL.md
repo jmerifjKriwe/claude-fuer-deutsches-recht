@@ -34,13 +34,13 @@ ALR I 11: Kauf, Tausch, Schenkung — Konsensualvertraege.
 - Aedilizische Aktionen aus roemischer Tradition.
 - **Actio redhibitoria**: Wandlung.
 - **Actio quanti minoris**: Minderung.
-- Frist 6 Monate fuer Vieh, 12 Monate fuer Sklaven (historisch).
+- Frist 6 Monate für Vieh, 12 Monate für Sklaven (historisch).
 
 ## Subsumtionsbeispiel: Krankes Pferd 1830
 
 Pferd nach Kauf lahmt; Mangel vor Kauf bestand.
 - **ALR I 11**: aedilizische Aktion innerhalb 6 Monaten.
-- **BGB**: § 437 Nr. 2/3 BGB Ruecktritt/Minderung; 2 Jahre Verjaehrung § 438 BGB.
+- **BGB**: § 437 Nr. 2/3 BGB Ruecktritt/Minderung; 2 Jahre Verjährung § 438 BGB.
 
 ## Heutige Fortwirkung
 

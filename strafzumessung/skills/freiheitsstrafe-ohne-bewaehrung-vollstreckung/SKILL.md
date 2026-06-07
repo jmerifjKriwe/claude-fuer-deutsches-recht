@@ -38,9 +38,9 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 - **§ 35 BtMG** — Zurueckstellung der Strafvollstreckung bei Betaeubungsmittelabhaengigkeit zugunsten Therapie.
 - **§ 36 BtMG** — Anrechnung der Therapiezeit.
 - **§ 455 StPO** — Aufschub der Vollstreckung; Strafunterbrechung wegen Gesundheit.
-- **§ 456 StPO** — Aufschub aus persoenlichen Gruenden.
+- **§ 456 StPO** — Aufschub aus persönlichen Gruenden.
 - **§ 456a StPO** — Absehen von Vollstreckung bei Auslaendern (Auslieferung/Ausweisung).
-- **§ 462a StPO** — Strafvollstreckungskammer ist zustaendig fuer Reststrafenaussetzung bei zeitiger Strafe ab 9 Monaten.
+- **§ 462a StPO** — Strafvollstreckungskammer ist zuständig für Reststrafenaussetzung bei zeitiger Strafe ab 9 Monaten.
 
 ## Anrechnung U-Haft (§ 51 StGB)
 
@@ -56,7 +56,7 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 - Pruefung **von Amts wegen** nach Verbuessung von 2/3.
 - Erforderlich: positive Sozialprognose und Zustimmung des Verurteilten.
 - Bewaehrungszeit 2 bis 5 Jahre.
-- Anhoerung durch Strafvollstreckungskammer (§ 454 StPO).
+- Anhörung durch Strafvollstreckungskammer (§ 454 StPO).
 
 ### 1/2 (§ 57 Abs. 2 StGB)
 
@@ -83,16 +83,16 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 - **§ 455 Abs. 1 StPO** — Strafaufschub bei Geisteskrankheit.
 - **§ 455 Abs. 2-4 StPO** — bei schwerer Krankheit, lebensgefahr; Vollstreckungsbehoerde entscheidet.
 - **§ 455a StPO** — Strafunterbrechung in besonderen Faellen.
-- **§ 456 StPO** — Aufschub aus persoenlichen Gruenden (z.B. Pruefung, Schwangerschaft, betreuungspflichtige Kinder) auf laengstens 4 Monate.
+- **§ 456 StPO** — Aufschub aus persönlichen Gruenden (z.B. Pruefung, Schwangerschaft, betreuungspflichtige Kinder) auf laengstens 4 Monate.
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
 1. **Urteilsformel pruefen**: U-Haft-Anrechnung korrekt? Wenn nein, Beschluss der Vollstreckungsbehoerde nach § 458 StPO anregen.
 2. **§ 35 BtMG** pruefen, wenn Tat im BtM-Zusammenhang.
-3. **Strafaufschub / -unterbrechung** pruefen, wenn persoenliche Lage es erfordert.
+3. **Strafaufschub / -unterbrechung** pruefen, wenn persönliche Lage es erfordert.
 4. **Reststrafenaussetzung** rechtzeitig vorbereiten:
- - Sozialprognose mit Schulungs-/Therapie-/Arbeitsangebot fuer die Bewaehrungszeit.
- - Anhoerungsschriftsatz bei der Strafvollstreckungskammer.
+ - Sozialprognose mit Schulungs-/Therapie-/Arbeitsangebot für die Bewaehrungszeit.
+ - Anhörungsschriftsatz bei der Strafvollstreckungskammer.
 5. **Vollstreckungsplan** mit dem Mandanten besprechen: realistische Erwartung, JVA-Standort, Familienkontakt, Bildungs- und Therapieangebote im Vollzug.
 
 ## Typische Fehler
@@ -100,7 +100,7 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 - **U-Haft-Anrechnung** uebersehen oder unvollstaendig (Tag fehlt).
 - **§ 35 BtMG** zu spaet beantragt: nach Vollzugsbeginn wird oft abgelehnt.
 - **Reststrafenaussetzung** ohne ausreichende Vorbereitung: Sozialdaten fehlen.
-- **Anhoerung** nicht persoenlich wahrgenommen: Strafvollstreckungskammer trifft auf einen "unsichtbaren" Verurteilten.
+- **Anhörung** nicht persoenlich wahrgenommen: Strafvollstreckungskammer trifft auf einen "unsichtbaren" Verurteilten.
 - **Sofortige Beschwerde** gegen ablehnenden Reststrafenaussetzungs-Beschluss versaeumt (Frist 1 Woche, § 311 StPO).
 
 ## Querverweise

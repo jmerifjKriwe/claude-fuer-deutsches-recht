@@ -1,13 +1,13 @@
 ---
 name: hybrid-drg-insolvenz-intensivmedizin-beatmung
-description: "Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung fuer haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hybrid-DRG § 115f SGB V
 
 ## Arbeitsbereich
 
-Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung fuer haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -23,12 +23,12 @@ Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung fuer haeufige Eingriff
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung fuer einen abschliessenden Katalog von Eingriffen — unabhaengig davon, ob die Leistung stationaer (Kurzliegerfall) oder ambulant erbracht wird. Ziel: gleiches Geld fuer gleichen medizinischen Inhalt, Hospitalisierungs-Anreiz beseitigen.
+Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung für einen abschliessenden Katalog von Eingriffen — unabhaengig davon, ob die Leistung stationaer (Kurzliegerfall) oder ambulant erbracht wird. Ziel: gleiches Geld für gleichen medizinischen Inhalt, Hospitalisierungs-Anreiz beseitigen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Ist der konkrete Eingriff im Hybrid-DRG-Katalog (Verordnung BMG)?
 - Wird Patient stationaer mit Kurzliegerfall behandelt oder ambulant?
-- Liegen Strukturmerkmale fuer die Hybrid-DRG-Abrechnung vor (Personal, Geraete)?
+- Liegen Strukturmerkmale für die Hybrid-DRG-Abrechnung vor (Personal, Geraete)?
 - Wird die Abrechnung direkt gegenueber der Kasse oder ueber KV gefuehrt?
 - Wirkt die Hybrid-DRG auf die DRG-Mengen- und Vorhalteberechnung?
 
@@ -37,10 +37,10 @@ Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung fuer einen ab
 - **Hybrid-DRG-Verordnung (HybDRG-V)** vom BMG, Katalog und Festpreise.
 - **AOP-Vertrag § 115b SGB V** als Abgrenzungsfeld.
 - **InEK-Hybrid-DRG-Katalog** mit OPS-/ICD-Zuordnung.
-- **KHEntgG/DRG-Katalog** fuer stationaere Restmengen.
-- **DKR** fuer Kodierung.
+- **KHEntgG/DRG-Katalog** für stationaere Restmengen.
+- **DKR** für Kodierung.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Katalog-Treffer pruefen:** OPS und ICD im Hybrid-DRG-Katalog?
 2. **Behandlungsweg dokumentieren:** Ambulant, stationaer Kurzlieger (< 1 Tag), stationaer mit Indikation.
 3. **Abrechnungsweg waehlen:** Hybrid-DRG (Kasse direkt) bei Katalogfall, sonst AOP (KV) oder DRG (Kasse).

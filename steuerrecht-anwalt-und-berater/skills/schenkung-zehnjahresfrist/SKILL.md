@@ -18,13 +18,13 @@ description: "Strategie der Schenkungsplanung unter Beruecksichtigung der Zehnja
 3. Wann erfolgte die letzte Schenkung — beginnt eine neue Zehnjahresperiode?
 4. Soll Kettenschenkung ueber Ehegatten erfolgen — Missbrauchsverbot § 42 AO im Blick?
 5. Wird Steuer unmittelbar oder mittelbar uebernommen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
 - **§ 14 ErbStG** — Zusammenrechnung mehrerer Erwerbe.
 - **§ 15 ErbStG** — Steuerklassen.
-- **§ 16 ErbStG** — persoenliche Freibetraege.
+- **§ 16 ErbStG** — persönliche Freibetraege.
 - **§ 17 ErbStG** — besonderer Versorgungsfreibetrag.
 - **§ 7 ErbStG** — Schenkungstatbestand.
 - **§ 42 AO** — Missbrauch.

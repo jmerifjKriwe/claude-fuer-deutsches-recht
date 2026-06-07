@@ -1,13 +1,13 @@
 ---
 name: newsletter-redaktion-jur
-description: "Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaengerverwaltung nach DSGVO und UWG § 7, double opt-in, Mustertexte fuer wochen- und monatsweisen Versand im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaengerverwaltung nach DSGVO und UWG § 7, double opt-in, Mustertexte für wochen- und monatsweisen Versand im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Newsletter-Redaktion juristisch
 
 ## Arbeitsbereich
 
-Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaengerverwaltung nach DSGVO und UWG § 7, double opt-in, Mustertexte fuer wochen- und monatsweisen Versand. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaengerverwaltung nach DSGVO und UWG § 7, double opt-in, Mustertexte für wochen- und monatsweisen Versand. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaengerverwaltung nac
 
 ## Worum geht es konkret
 
-Der Verlag betreibt einen oder mehrere Newsletter (Anwaltsbrief, Steuerletter, Update Mietrecht). Der Skill behandelt redaktionelle und rechtliche Pflichten: Themenmix, Anmeldung mit double opt-in, Impressum, Werbekennzeichnung, Abmeldelink, Datenschutzhinweise. Mit Mustertexten fuer Wochennewsletter, Monatsmagazin und Sonderausgabe.
+Der Verlag betreibt einen oder mehrere Newsletter (Anwaltsbrief, Steuerletter, Update Mietrecht). Der Skill behandelt redaktionelle und rechtliche Pflichten: Themenmix, Anmeldung mit double opt-in, Impressum, Werbekennzeichnung, Abmeldelink, Datenschutzhinweise. Mit Mustertexten für Wochennewsletter, Monatsmagazin und Sonderausgabe.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -37,10 +37,10 @@ Der Verlag betreibt einen oder mehrere Newsletter (Anwaltsbrief, Steuerletter, U
 - DSGVO Art. 6 Abs. 1 lit. a - Einwilligung als Rechtsgrundlage; Art. 7 - Nachweisbarkeit; Art. 21 - Widerspruchsrecht.
 - DDG § 5 - Impressumspflicht im Newsletter selbst (nicht nur auf Website).
 - MStV § 18 - journalistische Sorgfaltspflicht.
-- TTDSG / TDDDG § 25 - Einwilligung fuer Trackingpixel und Cookies.
+- TTDSG / TDDDG § 25 - Einwilligung für Trackingpixel und Cookies.
 - BGH zu double opt-in (BGH 10.02.2011 - I ZR 164/09); Bestaetigungsmail darf keine Werbung enthalten.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Anmeldung gestalten.** Klartext-Einwilligung, kein Vorhaken; Double-opt-in mit Bestaetigungsmail (rein technisch, keine Werbung).
 2. **Empfaengerliste pflegen.** Nachweisbarkeit der Einwilligung pro Adresse (Zeitstempel, IP, Quelle).
@@ -70,7 +70,7 @@ Der Verlag betreibt einen oder mehrere Newsletter (Anwaltsbrief, Steuerletter, U
 - Bestaetigungsmail des Double-opt-in beweissicher loggen (IP, Datum).
 - Bei Eilthema (BGH-Aktuell) Sondernewsletter erlaubt, aber Frequenz im Anmeldeformular ausweisen.
 - Abmeldelink ohne Login-Pflicht; sonst Abmahnungrisiko.
-- Werbe-E-Mails nach UWG § 7 Abs. 3 (bestehende Kundenbeziehung) nur fuer aehnliche Produkte; bei Themenwechsel separate Einwilligung.
+- Werbe-E-Mails nach UWG § 7 Abs. 3 (bestehende Kundenbeziehung) nur für aehnliche Produkte; bei Themenwechsel separate Einwilligung.
 
 ## Mustertexte / Vorlagen
 
@@ -86,7 +86,7 @@ Bitte tragen Sie hier Ihre E-Mail-Adresse ein. Wir senden Ihnen
 
 [ ] Ich willige ein, dass [Verlag] mir Newsletter und Hinweise zu
  eigenen Verlagsprodukten an die angegebene Adresse zusendet. Die
- Einwilligung kann ich jederzeit mit Wirkung fuer die Zukunft
+ Einwilligung kann ich jederzeit mit Wirkung für die Zukunft
  widerrufen, ohne dass die Rechtmaessigkeit der bisherigen Daten-
  verarbeitung beruehrt wird. Weitere Informationen in unserer
  Datenschutzerklaerung [Link].
@@ -104,7 +104,7 @@ Betreff: Bitte bestaetigen Sie Ihre Newsletter-Anmeldung
 
 Sehr geehrte Empfaengerin, sehr geehrter Empfaenger,
 
-Sie haben sich am [Datum, Uhrzeit] fuer den Newsletter [Name] des
+Sie haben sich am [Datum, Uhrzeit] für den Newsletter [Name] des
 [Verlag] angemeldet. Bitte bestaetigen Sie Ihre Anmeldung mit Klick
 auf folgenden Link:
 
@@ -139,7 +139,7 @@ Abmelden: [Direktlink ohne Login]
 
 BGH zur Vermieterhaftung bei Schimmel
 Der BGH hat am [Datum] (Az. [...]) entschieden, dass [...]. Die
-Entscheidung praezisiert die [Norm] und hat Folgen fuer [...].
+Entscheidung praezisiert die [Norm] und hat Folgen für [...].
 
 Mehr im Volltext: [Link Pressestelle BGH]
 Vertiefend im Verlag: [Buchempfehlung mit ISBN]
@@ -169,6 +169,6 @@ Vertiefend im Verlag: [Buchempfehlung mit ISBN]
 - UWG § 7 Abs. 2 Nr. 2, Abs. 3 - Werbe-E-Mails und Einwilligungspflicht.
 - DSGVO Art. 6 Abs. 1 lit. a, Art. 7, Art. 21 - Einwilligung, Nachweis, Widerspruch.
 - DDG § 5 - Impressumspflicht.
-- TDDDG / TTDSG § 25 - Einwilligung fuer Tracking.
+- TDDDG / TTDSG § 25 - Einwilligung für Tracking.
 - MStV § 18 - journalistische Sorgfalt.
 - BGH 10.02.2011 - I ZR 164/09 - Double opt-in (Volltext unter bundesgerichtshof.de und dejure.org).

@@ -31,7 +31,7 @@ description: "Kaltstart-Interview für die steuerrechtsanwaltliche Kanzlei um Pr
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
-1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` prüfen.
+1. Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` prüfen.
 2. Falls vorhanden ohne Platzhalter: bestätigen.
 3. Andernfalls Interview unten durchführen und Datei schreiben.
 
@@ -101,7 +101,7 @@ Profil wird geschrieben. Nächste Skills:
 - **FGO** Finanzgerichtsordnung — Klageverfahren.
 - **EStG KStG GewStG UStG ErbStG GrStG** materielles Steuerrecht.
 - **BRAO** § 31a beA-Einrichtungspflicht.
-- **§ 87a Abs. 1 S. 2 AO n.F.** (JStG 2024, 6.12.2024) — ELSTER/ERiC-only fuer Finanzbehoerden; beA/beSt ausgeschlossen.
+- **§ 87a Abs. 1 S. 2 AO n.F.** (JStG 2024, 6.12.2024) — ELSTER/ERiC-only für Finanzbehoerden; beA/beSt ausgeschlossen.
 - **§ 52d FGO** — beA-Pflicht gegenueber Finanzgerichten.
 - **StBerG** Abgrenzung Steuerberater / Rechtsanwalt.
 

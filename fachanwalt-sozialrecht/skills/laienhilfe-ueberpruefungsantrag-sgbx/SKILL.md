@@ -12,10 +12,10 @@ description: "Laienhilfe Ueberpruefungsantrag Sgbx im Plugin Fachanwalt Sozialre
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-ueberpruefungsantrag-44-sgbx` | Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44 Sgbx. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-unfallversicherung-bg` | Laienverstaendlicher Sozialrechts-Skill zu Unfallversicherung Bg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-vergleich-sozialgericht` | Laienverstaendlicher Sozialrechts-Skill zu Vergleich Sozialgericht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-verletztenrente` | Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-ueberpruefungsantrag-44-sgbx` | Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44 Sgbx. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-unfallversicherung-bg` | Laienverstaendlicher Sozialrechts-Skill zu Unfallversicherung Bg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-vergleich-sozialgericht` | Laienverstaendlicher Sozialrechts-Skill zu Vergleich Sozialgericht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-verletztenrente` | Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ description: "Laienhilfe Ueberpruefungsantrag Sgbx im Plugin Fachanwalt Sozialre
 
 ## 1. `laienhilfe-ueberpruefungsantrag-44-sgbx`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44 Sgbx. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44 Sgbx. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Ueberpruefungsantrag 44 Sgbx
 
@@ -97,7 +97,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-unfallversicherung-bg`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Unfallversicherung Bg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Unfallversicherung Bg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Unfallversicherung Bg
 
@@ -166,7 +166,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-vergleich-sozialgericht`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Vergleich Sozialgericht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Vergleich Sozialgericht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Vergleich Sozialgericht
 
@@ -235,7 +235,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-verletztenrente`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Verletztenrente
 

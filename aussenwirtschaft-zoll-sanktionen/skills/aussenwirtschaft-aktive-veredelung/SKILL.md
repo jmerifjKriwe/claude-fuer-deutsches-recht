@@ -21,14 +21,14 @@ Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: B
 
 - Maschinenbauer moechte importierte Komponenten verarbeiten und als Endprodukt exportieren ohne Einfuhrzoll zu zahlen.
 - Textilfirma hat Bewilligung, aber die Ausbeute-Koeffizientenberechnung stimmt nicht mit ATLAS-Buchfuehrung ueberein.
-- Pharmaunternehmen beantragt aktive Veredelung fuer Wirkstoffimport aus Indien zur Weiterverarbeitung und EU-Ausfuhr.
+- Pharmaunternehmen beantragt aktive Veredelung für Wirkstoffimport aus Indien zur Weiterverarbeitung und EU-Ausfuhr.
 
 ## Erste Schritte
 
 1. Wirtschaftliche Voraussetzungen pruefen (Art. 211 Abs. 3 lit. a UZK): Interessentest und Ausfuhrnachweis.
-2. Beantragung der Bewilligung beim oertlich zustaendigen Hauptzollamt (Muster: DEK/INT/AV).
+2. Beantragung der Bewilligung beim oertlich zuständigen Hauptzollamt (Muster: DEK/INT/AV).
 3. Buchfuehrungsanforderungen klaren: Lagerbuchhaltungssystem, Mengenueberwachung, Ausbeute-Koeffizienten.
-4. INF-Blatt-Verfahren fuer Mehrniederlassungsveredelung pruefen.
+4. INF-Blatt-Verfahren für Mehrniederlassungsveredelung pruefen.
 5. Aequivalenzwaren-Option bewerten: Gleiche oder gleichartige Waren als Ersatz.
 6. Gesamtabrechnung mit Frist planen: Ausbeute-Ist vs. Soll, Fehlmengenbehandlung.
 
@@ -45,14 +45,14 @@ Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: B
 - [ ] Wirtschaftlicher Interessentest dokumentiert und bestanden?
 - [ ] Bewilligung aktuell gueltig und Standorte vollstaendig erfasst?
 - [ ] Lagerbuchhaltung mit Ausbeute-Koeffizienten und Mengenueberwachung eingerichtet?
-- [ ] INF-Blatt fuer Mehrparteienverfahren beantragt?
+- [ ] INF-Blatt für Mehrparteienverfahren beantragt?
 - [ ] Gesamtabrechnung fristgerecht (Erledigungsfrist aus Bewilligung) erstellt?
 - [ ] Nicht veredelter Restbestand korrekt behandelt (Wiederausfuhr, Ueberfuehung in freien Verkehr)?
 
 ## Typische Fallstricke
 
 - Ausbeute-Koeffizient zu hoch angesetzt fuehrt zu Zollschuldrisiko bei Gesamtabrechnung.
-- Fristversaeumnis bei Erledigungsfrist loest Zollschuld fuer Gesamtmenge aus.
+- Fristversaeumnis bei Erledigungsfrist loest Zollschuld für Gesamtmenge aus.
 - Aequivalenzwaren ohne spezifische Bewilligungsgrundlage unzulaessig.
 - Buchfuehrungs-Luecken bei Unterauftragsvergabe (Lohnveredelung) oft nicht erkannt.
 
@@ -60,7 +60,7 @@ Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: B
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

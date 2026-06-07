@@ -127,7 +127,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `antragsbefugnis-eigentuemer-nachbar` | Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Prüfraster: Möglichkeitstheorie als Massstab… |
 | `artenschutz-naturschutz-planung` | Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP)… |
 | `aufstellungsbeschluss-bekanntmachung` | Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Prüfraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs.… |
-| `beteiligung-frueh-foermlich` | Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behoerdenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1… |
+| `beteiligung-frueh-foermlich` | Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behördenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1… |
 | `buergerversammlung-protokoll-audit` | Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollständigkeit prüfen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Prüfraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege… |
 | `einstweilige-anordnung-47-abs-6-vwgo` | Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab… |
 | `erforderlichkeit-1-abs-3-baugb` | Mandant greift Bebauungsplan als Gefälligkeitsplanung oder Verhinderungsplanung an. § 1 Abs. 3 S. 1 BauGB Erforderlichkeit Planrechtfertigung. Prüfraster: nachvollziehbares staedtebauliches Konzept erforderlich… |
@@ -180,7 +180,7 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 - Art. 47 BayBO, Art. 81 BayBO — Stellplaetze und oertliche Bauvorschriften in Bayern.
 - § 2 Abs. 4 BauGB, § 2a BauGB — Umweltpruefung und Umweltbericht.
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Erstgespraech und Mandatsannahme-Pruefung: Skill `mandat-erstgespraech-normenkontrolle`.
 2. Statthaftigkeit und Antragsbefugnis klaeren: `statthaftigkeit-47-vwgo` und `antragsbefugnis-eigentuemer-nachbar`.
@@ -193,9 +193,9 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 **Einstieg und Mandat**
 
-- `mandat-erstgespraech-normenkontrolle` — Erstgespraech, Mandatsannahme-Empfehlung, vorlaeufige Erfolgsaussichten.
+- `mandat-erstgespraech-normenkontrolle` — Erstgespraech, Mandatsannahme-Empfehlung, vorläufige Erfolgsaussichten.
 - `statthaftigkeit-47-vwgo` — Statthaftigkeit der Normenkontrolle gegen Bebauungsplan, VEP, oertliche Bauvorschriften.
-- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis fuer Eigentuemer, Nachbar, Verband.
+- `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis für Eigentuemer, Nachbar, Verband.
 - `jahresfrist-47-abs-2-vwgo` — Jahresfrist berechnen, Fristbeginn, fehlerhafte Bekanntmachung.
 
 **Verfahrensfehler**
@@ -220,7 +220,7 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 **Spezialkonstellationen**
 
-- `vorhabenbezogener-bebauungsplan-12-baugb` — VEP-Pruefung fuer Vorhabentraeger und Drittbetroffene.
+- `vorhabenbezogener-bebauungsplan-12-baugb` — VEP-Pruefung für Vorhabentraeger und Drittbetroffene.
 - `veraenderungssperre-zurueckstellung-14-15-baugb` — Anfechtung und Entschaedigung bei Veraenderungssperre.
 - `stellplatzsatzung-bay-bauordnung` — Stellplatzsatzung nach Art. 47 BayBO und § 9 Abs. 1 Nr. 4 BauGB.
 
@@ -250,7 +250,7 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 - `europarecht-kompass` — Bei FFH- oder Vogelschutz-Richtlinien-Konflikten im Bebauungsplan.
 - `normenkontrolle-bauleitplanung` — Dieses Plugin ist bereits das spezialisierte Werkzeug.
-- `jveg-kostenpruefer` — Bei Kosten fuer Sachverstaendige im Normenkontrollverfahren.
+- `jveg-kostenpruefer` — Bei Kosten für Sachverstaendige im Normenkontrollverfahren.
 
 ## Quellen und Aktualitaet
 

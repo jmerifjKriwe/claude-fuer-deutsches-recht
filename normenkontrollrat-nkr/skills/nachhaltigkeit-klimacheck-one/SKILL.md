@@ -1,13 +1,13 @@
 ---
 name: nachhaltigkeit-klimacheck-one
-description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zuständig sind. Mit Mustertexten im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit
 
 ## Arbeitsbereich
 
-Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zuständig sind. Mit Mustertexten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -39,7 +39,7 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - **EU Green Deal / Fit-for-55** / EU-Taxonomie-VO
 - **NKRG** § 4 — Methodik
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. Nachhaltigkeitsbezug identifizieren
 
@@ -93,8 +93,8 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - "Das Vorhaben beruehrt die Indikatoren [Nr.] der Deutschen Nachhaltigkeitsstrategie und das SDG [Nr.]. Die Nachhaltigkeitsbewertung im Vorblatt ist nachvollziehbar dargestellt."
 - "Der NKR weist darauf hin, dass die ressortseitige Nachhaltigkeitspruefung nur qualitative Aussagen enthaelt. Eine Quantifizierung der CO2-Wirkung im Sinne des Bundes-Klimaschutzgesetzes waere wuenschenswert."
 - "Das Vorhaben enthaelt einen potentiellen Zielkonflikt zwischen [SDG-Bereich 1] und [SDG-Bereich 2]. Der NKR empfiehlt, die Abwaegung in der Begruendung transparent zu machen."
-- "Die Klimawirkung des Vorhabens wurde im Klimacheck mit [+/- X] t CO2-Aequivalente pro Jahr ausgewiesen. Der NKR haelt die Methodik fuer nachvollziehbar."
-- "Aus Sicht des NKR ist die methodische Pruefung der Nachhaltigkeitsfolgen nicht Pruefgegenstand im engeren Sinne nach § 4 NKRG; soweit sie jedoch fuer die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
+- "Die Klimawirkung des Vorhabens wurde im Klimacheck mit [+/- X] t CO2-Aequivalente pro Jahr ausgewiesen. Der NKR haelt die Methodik für nachvollziehbar."
+- "Aus Sicht des NKR ist die methodische Pruefung der Nachhaltigkeitsfolgen nicht Pruefgegenstand im engeren Sinne nach § 4 NKRG; soweit sie jedoch für die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
 
 ## Typische Fehler in Ressort-Entwuerfen
 

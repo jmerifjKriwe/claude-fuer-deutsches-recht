@@ -1,13 +1,13 @@
 ---
 name: dienstvergehen-ausser-agg-gleichstellung
-description: "Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderungen. Behandelt typische Konstellationen wie Trunkenheitsfahrt Steuerstraftaten Internetkommentare Mitgliedschaft in Vereinigungen sowie Sexualstraftaten ausserhalb des Dienstes. Liefert Verteidigungsbausteine und Pruefraster fuer die Disziplinarklage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderungen. Behandelt typische Konstellationen wie Trunkenheitsfahrt Steuerstraftaten Internetkommentare Mitgliedschaft in Vereinigungen sowie Sexualstraftaten ausserhalb des Dienstes. Liefert Verteidigungsbausteine und Pruefraster für die Disziplinarklage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dienstvergehen ausser Dienst nach § 47 BeamtStG
 
 ## Arbeitsbereich
 
-Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderungen. Behandelt typische Konstellationen wie Trunkenheitsfahrt Steuerstraftaten Internetkommentare Mitgliedschaft in Vereinigungen sowie Sexualstraftaten ausserhalb des Dienstes. Liefert Verteidigungsbausteine und Pruefraster fuer die Disziplinarklage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderungen. Behandelt typische Konstellationen wie Trunkenheitsfahrt Steuerstraftaten Internetkommentare Mitgliedschaft in Vereinigungen sowie Sexualstraftaten ausserhalb des Dienstes. Liefert Verteidigungsbausteine und Pruefraster für die Disziplinarklage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienst
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vorgeworfen wird (typisch: Steuerstraftaten, Trunkenheitsfahrt, ehrenrührige Aeusserungen im Internet, problematische Vereinszugehoerigkeit).
+Skill für Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vorgeworfen wird (typisch: Steuerstraftaten, Trunkenheitsfahrt, ehrenrührige Aeusserungen im Internet, problematische Vereinszugehoerigkeit).
 
 ## 2. Eingaben
 
@@ -32,7 +32,7 @@ Skill fuer Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vo
 ## 3. Ablauf / Checkliste
 
 ### a) Voraussetzung
-- § 47 Abs. 1 Satz 2 BeamtStG bzw. § 77 Abs. 1 Satz 2 BBG: Verhalten ausserhalb des Dienstes ist Dienstvergehen nur, wenn es nach den Umstaenden des Einzelfalls in besonderem Masse geeignet ist, das Vertrauen in einer fuer das Amt bedeutsamen Weise zu beeintraechtigen.
+- § 47 Abs. 1 Satz 2 BeamtStG bzw. § 77 Abs. 1 Satz 2 BBG: Verhalten ausserhalb des Dienstes ist Dienstvergehen nur, wenn es nach den Umstaenden des Einzelfalls in besonderem Masse geeignet ist, das Vertrauen in einer für das Amt bedeutsamen Weise zu beeintraechtigen.
 
 ### b) Statusrelevanz
 - Massgebliche Sichtweise: Wuerde der konkrete Sachverhalt das Vertrauen der Allgemeinheit in die Amtsfuehrung gerade dieses Beamten erschuettern?

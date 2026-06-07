@@ -110,7 +110,7 @@ Fragen zum Einstieg:
 ## Querverweise
 
 - `debitorenkommunikation-und-abtretungsanzeige`
-- `factoring-fuer-rechtsanwaelte-steuerberater-berufsrecht`
+- `factoring-für-rechtsanwaelte-steuerberater-berufsrecht`
 - `factoring-in-gesundheitswesen-goae-ebm-krankenhaus`
 - `geldwaesche-verdachtsmeldung-monitoring`
 

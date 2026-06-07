@@ -25,7 +25,7 @@ Community-Skills verbessern sich. Dieser Skill bemerkt, wenn eine neue Version v
 
 ## Eingaben
 
-- Laufende Konfiguration: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → installierte Skills (mit Versionsnummer/Commit-SHA), Update-Einstellungen (benachrichtigen / manuell).
+- Laufende Konfiguration: `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → installierte Skills (mit Versionsnummer/Commit-SHA), Update-Einstellungen (benachrichtigen / manuell).
 - Optional: `--apply` um alle genehmigten Updates zu installieren; `--rollback [skill]` um auf die vorherige Version zurückzusetzen.
 
 ## Rechtlicher Rahmen
@@ -121,7 +121,7 @@ Es gibt keinen "automatischen" Modus. Updates für Code in der Kanzleiumgebung e
 
 ### Schritt 4: Anwenden (nach expliziter Genehmigung)
 
-Installierte Skill-Dateien durch neue Version ersetzen. `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` mit neuem Commit-SHA aktualisieren. Alte Version vorher sichern (nach `~/.claude/skills/.backups/[skill]-[alter-sha]/`) für Rollback.
+Installierte Skill-Dateien durch neue Version ersetzen. `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` mit neuem Commit-SHA aktualisieren. Alte Version vorher sichern (nach `~/.claude/skills/.backups/[skill]-[alter-sha]/`) für Rollback.
 
 ## Ausgabeformat
 

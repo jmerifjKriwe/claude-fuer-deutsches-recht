@@ -8,7 +8,7 @@ description: "Kaltstart des Kanzlei-Allgemein-Plugins und Erfassung des Kanzleip
 ## Triage zu Beginn
 1. Handelt es sich um eine Ersteinrichtung oder ein Plugin-Reset (Profil loeschen und neu beginnen)?
 2. Welchen Kanzleityp haben wir: Einzelanwalt, Buerogemeinschaft, Sozietaet, PartG, GmbH, Rechtsabteilung?
-3. Welche Rechtsgebiete und Mandatsarten sind typisch fuer diese Kanzlei?
+3. Welche Rechtsgebiete und Mandatsarten sind typisch für diese Kanzlei?
 4. Sind beA, E-Mail, DMS oder Buchhaltungssoftware bereits vorhanden und angebunden?
 
 ## Aktuelle Rechtsprechung
@@ -18,7 +18,7 @@ description: "Kaltstart des Kanzlei-Allgemein-Plugins und Erfassung des Kanzleip
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag
 - § 51 BRAO — Pflichtversicherung: muss bei Kanzleigruendung bestehen
 - § 31a BRAO — beA-Nutzungspflicht: sofort bei Zulassung
-- § 8 PartGG — Haftung in der Partnerschaftsgesellschaft: wichtig fuer Kanzleistruktur-Entscheidung
+- § 8 PartGG — Haftung in der Partnerschaftsgesellschaft: wichtig für Kanzleistruktur-Entscheidung
 
 ## Quellenregel
 

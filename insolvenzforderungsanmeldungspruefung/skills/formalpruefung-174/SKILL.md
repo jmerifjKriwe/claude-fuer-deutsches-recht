@@ -79,7 +79,7 @@ Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenverm
 Bevor losgelegt wird, klaere:
 1. **Pruefungstermin-Datum?** § 176 InsO — Ladungsfrist 7 Tage; Tabelle vollstaendig vor Termin.
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
-3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend fuer Zahlungsreihenfolge.
+3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Vorsatzklausel § 174 Abs. 2 InsO?** Bei deliktischer Forderung mit Vorsatz ausdrücklich Tatbestand benennen (Folge: Ausschluss von der Restschuldbefreiung nach § 302 Nr. 1 InsO). Sonderfall Wirecard-Konstellation (BGH IX ZR 127/24): kapitalmarktrechtliche Schadensersatzforderungen geschädigter Aktionäre sind keine einfachen Insolvenzforderungen iSd § 38 InsO.
 
 ## Quellenregel

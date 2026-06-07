@@ -45,7 +45,7 @@ Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für
 6. **Haben Vor-Ort-Kontrollen im Vorjahr stattgefunden?** — Befunde aus Vorjahr beeinflussen Risikoklassifizierung und Sanktionshöhe in laufendem Jahr.
 7. **Gibt es laufende Förderverpflichtungen ELER (Agrarumweltmaßnahmen, Vertragsnaturschutz)?** — Auflagen sind im Sammelantrag zu bestätigen; Abweichungen führen zu Rückzahlungspflichten.
 8. **Wurde die Düngeverordnung vollständig eingehalten?** — GAB 1 (Grundanforderungen Betriebsführung) knüpft an Düngeverordnung; Verstoß = Konditionalitäts-Kürzung.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -149,7 +149,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Schriftsatzbaustein — Widerspruch gegen Förderbescheid
 
 ```
-An das Amt fuer Agrarordnung / Landwirtschaftskammer [Land]
+An das Amt für Agrarordnung / Landwirtschaftskammer [Land]
 [Anschrift] [Ort, Datum]
 
 Widerspruch gegen Förderbescheid
@@ -185,7 +185,7 @@ Begründung:
 
 Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 
-[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Agrarrecht]
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
 ```
 
 --- vor Versand klaeren ---
@@ -278,7 +278,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -340,7 +340,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -348,7 +348,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Agrar-, Forst- und Lebensmittelrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Agrar-, Forst- und Lebensmittelrecht.
 - §§ 585 ff. BGB, GAP-DZ-VO, BTSchG, BNatSchG, BImSchG, LFGB sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -384,7 +384,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Agrar-, Forst- und Lebensmittelrecht (Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -416,7 +416,7 @@ Typische Antraege in Agrar-, Forst- und Lebensmittelrecht (Klage/Widerspruch im 
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -451,8 +451,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Vertiefung — Rechtsprechung Agrarrecht-Schriftsatz
 

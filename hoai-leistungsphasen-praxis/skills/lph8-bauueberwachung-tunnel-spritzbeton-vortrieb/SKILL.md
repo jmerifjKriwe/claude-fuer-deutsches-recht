@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-tunnel-spritzbeton-vortrieb
-description: "Bauueberwachung nach HOAI LPH 8 fuer Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO fuer Bahninfrastrukturbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Bahninfrastrukturbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Tunnel Spritzbeton Vortrieb (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO fuer Bahninfrastrukturbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Bahninfrastrukturbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -61,7 +61,7 @@ Sicherheitsrelevante Messwerte (Konvergenz, Setzung) werden tagesaktuell mit Tot
 - PlanRadar Tunnel: Vortriebsklassen-Ticket je Meter, Foto Ortsbrust, GPS-Position, Verantwortlicher
 - Konvergenzmessdiagramm: Monatsbericht Gesamtverschiebungen, Alarm-Protokoll bei Grenzwertuebeerschreitung
 - Drohnenflug Tunnelportale: Portalstabilisierung, Einschnitt-Boeschungen, Wasseraustritte
-- Bohrkern-Pruefprotokoll: Druckfestigkeit, Zugfestigkeit, Datenmaterial fuer Flaechenstatistik
+- Bohrkern-Pruefprotokoll: Druckfestigkeit, Zugfestigkeit, Datenmaterial für Flaechenstatistik
 - Spritzkernserie: Zeitstempel Entnahme, Lagerung 20 Grad C, Pruefprotokoll akkreditiertes Baustofflabor
 
 ## Meldungserstellung im ERP / SAP
@@ -69,7 +69,7 @@ Sicherheitsrelevante Messwerte (Konvergenz, Setzung) werden tagesaktuell mit Tot
 - SAP PM DB InfraGo: Equipment Tunnelabschnitt, Wartungsplaene Betriebssicherheit nach Inbetriebnahme
 - SAP PS Projektsystem: Vorgang Tunnelvortrieb je Monat, Kosten je Vortriebsklasse, Nachtragsmanagement
 - RIB iTWO: Aufmass Spritzbeton nach m3, Vortriebsklassen-Abrechnung, Abrechnungsfreigabe je Abschnitt
-- PlanRadar Tunnel-Sicherheitsbericht: Konvergenz-Alarm-Protokoll, Massnahmen, Behoerden-Information
+- PlanRadar Tunnel-Sicherheitsbericht: Konvergenz-Alarm-Protokoll, Massnahmen, Behörden-Information
 - Dalux Field: Geologie-Kartierung Ortsbrust direkt in App, automatische Verknuepfung GPS-Koordinaten
 
 ## Typische Fallstricke
@@ -77,7 +77,7 @@ Sicherheitsrelevante Messwerte (Konvergenz, Setzung) werden tagesaktuell mit Tot
 - Falsche Vortriebsklasse: Unterschaetzung Lockergestein fuehrt zu Firsteinbruch, Personengefaehrdung
 - Spritzbeton zu duenn: Schichtdicke unter 15 cm, Zugfestigkeit unzureichend, Anker greifen nicht
 - Konvergenzmessung nicht tagesaktuell: Setzungsraten nicht erkannt, Ausbau bricht ueberraschend
-- Bewetterungsmangel: CO oder NOx-Konzentration ueberschritten, Arbeitsstop durch Behoerde
+- Bewetterungsmangel: CO oder NOx-Konzentration ueberschritten, Arbeitsstop durch Behörde
 
 ## Output
 

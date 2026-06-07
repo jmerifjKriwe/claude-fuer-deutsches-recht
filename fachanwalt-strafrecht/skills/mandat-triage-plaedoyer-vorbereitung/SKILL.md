@@ -182,7 +182,7 @@ Das Plädoyer ist der letzte große Auftritt der Verteidigung in der Hauptverhan
 8. Besteht die Möglichkeit einer Verständigung nach § 257c StPO oder ist das Plädoyer ohne Absprache zu halten?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -458,7 +458,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Beschuldigte/Angeklagte/Verurteilte (Name, Geburtsdatum, ladungsfaehige Anschrift) - exakte Schreibweise wie in Strafbefehl/Anklage/Urteil.
 - Verteidigerin/Verteidiger mit Beiordnung-/Wahlvermerk (Pflicht-/Wahlverteidigung).
-- Gericht/Staatsanwaltschaft (Zustaendigkeit pruefen; bei Revision zustaendiges Revisionsgericht).
+- Gericht/Staatsanwaltschaft (Zuständigkeit pruefen; bei Revision zuständiges Revisionsgericht).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Bezeichnung der angefochtenen Entscheidung mit Datum.
 
@@ -488,7 +488,7 @@ Strafrechtlicher Pruefungsaufbau:
 1. **Tatbestand** des StGB/Nebenstrafrechts (BtMG, AO §§ 369 ff., StVG, WaffG) nennen.
 2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal gegen den eigenen Tatsachenvortrag spiegeln (objektive und subjektive Seite; Vorsatz/Fahrlaessigkeit).
 3. **Rechtfertigungsgruende** (§§ 32, 34 StGB) und **Entschuldigungsgruende** (§§ 33, 35 StGB) pruefen.
-4. **Verfahrenshindernisse:** Verjaehrung (§ 78 StGB), Strafklageverbrauch (Art. 103 III GG, ne bis in idem), fehlender Strafantrag (§ 77 StGB), Immunitaet, Verfolgungsverjaehrung im Steuerstrafrecht (§ 376 AO).
+4. **Verfahrenshindernisse:** Verjährung (§ 78 StGB), Strafklageverbrauch (Art. 103 III GG, ne bis in idem), fehlender Strafantrag (§ 77 StGB), Immunitaet, Verfolgungsverjaehrung im Steuerstrafrecht (§ 376 AO).
 5. **Beweiswuerdigung-Kritik:** Indizienkette, Aussage-gegen-Aussage-Konstellation, Glaubwuerdigkeitsanalyse.
 6. **Rechtsprechungs-Verweise:** BGH-Strafsenate, BVerfG (Art. 103 GG, Schuldprinzip), EGMR (Art. 6 EMRK).
 7. **Subsumtions-Ergebnis** klar formulieren (Freispruch, Einstellung, Strafmilderung).
@@ -523,7 +523,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung strafprozessual passend (Freispruch, Einstellung, Aufhebung, Zurueckverweisung)?
 2. Jede Tatbestandsmerkmals-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Einspruchsfrist 2 Wochen § 410 StPO; Revisionseinlegung 1 Woche § 341 StPO, Revisionsbegruendung 1 Monat § 345 StPO; Klageerzwingung 1 Monat § 172 Abs. 2 StPO)?
-4. Verfahrenshindernisse von Amts wegen geprueft (Verjaehrung, Strafantrag)?
+4. Verfahrenshindernisse von Amts wegen geprueft (Verjährung, Strafantrag)?
 5. Beweisantraege bestimmt formuliert (Tatsache + Mittel + Konnexitaet)?
 6. Anlagenverzeichnis vollstaendig?
 7. beA-Konformitaet (PDF/A, ERVV, qeS bzw. sicherer Uebermittlungsweg)?
@@ -584,7 +584,7 @@ Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 
 ### Klageerzwingung
 
-- "Es wird beantragt, die Staatsanwaltschaft ... anzuweisen, oeffentliche Klage gegen die Beschuldigte/n ... wegen ... zu erheben."
+- "Es wird beantragt, die Staatsanwaltschaft ... anzuweisen, öffentliche Klage gegen die Beschuldigte/n ... wegen ... zu erheben."
 
 ### Annex-Antraege
 
@@ -652,9 +652,9 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer Mandatsannahme und Erstprognose.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer Verstaendigung § 257c StPO, Einstellung § 153a StPO und Adhaesion.
-- `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` fuer Beweisantraege in der Hauptverhandlung.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für Mandatsannahme und Erstprognose.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für Verstaendigung § 257c StPO, Einstellung § 153a StPO und Adhaesion.
+- `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` für Beweisantraege in der Hauptverhandlung.
 
 ## 4. `spezial-adhaesion-formular-portal-und-einreichung`
 

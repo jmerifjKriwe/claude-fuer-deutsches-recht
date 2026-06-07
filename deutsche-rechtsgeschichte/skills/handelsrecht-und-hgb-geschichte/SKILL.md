@@ -23,7 +23,7 @@ Das deutsche Handelsrecht kodifizierte sich in zwei Schritten: Das Allgemeine De
 
 ## Kernnormen / Kernquellen
 
-- **ADHGB 1861 (Nuernberger Konferenz)**: Erstkodifikation, Vorbild fuer HGB
+- **ADHGB 1861 (Nuernberger Konferenz)**: Erstkodifikation, Vorbild für HGB
 - **HGB 1897 (RGBl. 1897, 219)**: Inkrafttreten 1900 mit BGB
 - **HGB § 1**: Kaufmannsbegriff
 - **HGB § 346**: Handelsbrauch als Rechtsquelle
@@ -33,9 +33,9 @@ Das deutsche Handelsrecht kodifizierte sich in zwei Schritten: Das Allgemeine De
 ## Akteure und Institutionen
 
 - **Lueder-Klaus von Albrecht**: Berichterstatter beim ADHGB-Nuernberger Prozess 1857-1861
-- **Levin Goldschmidt** (1829-1897): Handelsrechtswissenschaftler, praegend fuer ADHGB und HGB
+- **Levin Goldschmidt** (1829-1897): Handelsrechtswissenschaftler, praegend für ADHGB und HGB
 - **Reichsgesetzgebungskommission** HGB 1897: unter Druck der Einheitskodifikation
-- **BGH-Handelsgericht**: Praegend fuer HGB-Auslegung
+- **BGH-Handelsgericht**: Praegend für HGB-Auslegung
 
 ## Typische Streitfragen / Forschungsfragen
 
@@ -43,7 +43,7 @@ Das deutsche Handelsrecht kodifizierte sich in zwei Schritten: Das Allgemeine De
 2. HRefG 1998: War die Abschaffung von Muss- und Sollkaufmann sinnvoll?
 3. Handelsbrauch § 346 HGB: Wie beweist man einen Handelsbrauch heute?
 4. ADHGB und Code de Commerce: Welchen Einfluss hatte das franzoesische Vorbild?
-5. Historische Handelsregister: Welchen Beweiswert haben sie fuer heutige Verfahren?
+5. Historische Handelsregister: Welchen Beweiswert haben sie für heutige Verfahren?
 
 ## Methodik
 

@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-evaluationsklausel
-description: "Fachmodul fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme."
+description: "Fachmodul für den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen für die Stellungnahme."
 ---
 
 # NKR-Stellungnahme — Vorschlag einer Evaluationsklausel
@@ -25,7 +25,7 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 - **Konzept zur Evaluierung neuer Regelungsvorhaben** der Bundesregierung
 - **Leitfaden BMI / NKR** — Evaluierungsmodul
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Frist** waehlen — 3, 5 oder 10 Jahre (siehe Skill `nkr-evaluierung-befristung-sunset-klausel`)
 2. **Adressat** bestimmen — meist Bundestag
@@ -83,10 +83,10 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 >
 > *(2) Der Bericht enthaelt insbesondere Aussagen zu*
 > *1. der tatsaechlichen Fallzahl der nach diesem Gesetz Verpflichteten,*
-> *2. dem tatsaechlichen jaehrlich laufenden Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung sowie dem einmaligen Umstellungsaufwand,*
+> *2. dem tatsaechlichen jaehrlich laufenden Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung sowie dem einmaligen Umstellungsaufwand,*
 > *3. der Zielereichung im Sinne von [Konkretisierung des Gesetzeszwecks],*
 > *4. unbeabsichtigten Folgen, insbesondere Ausweich- und Vermeidungsverhalten,*
-> *5. der Vollzugspraxis bei den zustaendigen Behoerden,*
+> *5. der Vollzugspraxis bei den zuständigen Behörden,*
 > *6. den Auswirkungen auf kleine und mittlere Unternehmen, sowie*
 > *7. Vorschlaegen zur Anpassung dieses Gesetzes.*
 

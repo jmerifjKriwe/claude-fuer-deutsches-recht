@@ -1,13 +1,13 @@
 ---
 name: agg-vs-9-bbg-auswahlverfahren
-description: "Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der oeffentlichen Hand Beweislastregeln Anhoerung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Pruefraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9 im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Pruefraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9 im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # AGG und § 9 BBG — Anspruchskonkurrenz im Auswahlverfahren
 
 ## Arbeitsbereich
 
-Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der oeffentlichen Hand Beweislastregeln Anhoerung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Pruefraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Pruefraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,13 +19,13 @@ Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewe
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Mandanten, die im beamtenrechtlichen Auswahlverfahren wegen eines Merkmals des § 1 AGG (Alter, Geschlecht, Behinderung, ethnische Herkunft, Religion, Weltanschauung, sexuelle Identitaet) benachteiligt wurden. Klaert das Zusammenspiel der AGG-Ansprueche mit dem allgemeinen bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 Abs. 2 GG / § 9 BBG.
+Skill für Mandanten, die im beamtenrechtlichen Auswahlverfahren wegen eines Merkmals des § 1 AGG (Alter, Geschlecht, Behinderung, ethnische Herkunft, Religion, Weltanschauung, sexuelle Identitaet) benachteiligt wurden. Klaert das Zusammenspiel der AGG-Ansprueche mit dem allgemeinen bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 Abs. 2 GG / § 9 BBG.
 
 ## 2. Eingaben
 
 - Stellenausschreibung
 - Auswahlvermerk und Konkurrentenmitteilung
-- Indizien fuer Diskriminierung (Aeusserungen im Gespraech, Altersgrenzen, geschlechtsbezogene Beurteilungsmaszstaebe)
+- Indizien für Diskriminierung (Aeusserungen im Gespraech, Altersgrenzen, geschlechtsbezogene Beurteilungsmaszstaebe)
 - Geschlecht, Alter, ggf. Behinderungsstatus des Mandanten
 
 ## 3. Ablauf / Checkliste
@@ -47,7 +47,7 @@ Skill fuer Mandanten, die im beamtenrechtlichen Auswahlverfahren wegen eines Mer
 - Klagefrist drei Monate ab schriftlicher Geltendmachung (§ 61b ArbGG analog beziehungsweise § 74 VwGO im VerwR).
 
 ### e) Rechtsweg
-- Verwaltungsgerichte zustaendig (§ 40 VwGO). Bei statusrechtlich Beschaeftigten unter AGG ist § 24 AGG zu beachten.
+- Verwaltungsgerichte zuständig (§ 40 VwGO). Bei statusrechtlich Beschaeftigten unter AGG ist § 24 AGG zu beachten.
 
 ## 4. Quellenpflicht
 
@@ -72,4 +72,4 @@ Skill fuer Mandanten, die im beamtenrechtlichen Auswahlverfahren wegen eines Mer
 
 ## 7. Beispiel (Kurzfassung)
 
-Bewerberin 54 Jahre, fuer Stelle "wuenschenswert junges Team" Konkurrenz mit 28-jaehriger Mitbewerberin. Skill liefert Indizienliste fuer Altersdiskriminierung, AGG-Entschaedigungsforderung und parallel Konkurrenteneilantrag.
+Bewerberin 54 Jahre, für Stelle "wuenschenswert junges Team" Konkurrenz mit 28-jaehriger Mitbewerberin. Skill liefert Indizienliste für Altersdiskriminierung, AGG-Entschaedigungsforderung und parallel Konkurrenteneilantrag.

@@ -23,14 +23,14 @@ AML/KYC-Prüfung für Immobilienmakler Gueterhaendler Kunsthandel Edelmetalle un
 3. Liegen PEP- oder Hochrisikoindikatoren beim Kaeufer oder Verkaeufer vor?
 4. Ist die Immobilientransaktion Teil einer komplexen Struktur mit mehreren Zwischengesellschaften?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 2 Abs. 1 Nr. 10-14 GwG — Verpflichtete aus Immobilien- und Guetersektor
-- § 4 GwG — Barzahlungsschwellenwerte (10.000 EUR) fuer Gueterthaendler
+- § 4 GwG — Barzahlungsschwellenwerte (10.000 EUR) für Gueterthaendler
 - § 15 GwG — Verstaerkte Sorgfaltspflichten bei risikoreichen Kunden
-- § 43 GwG — Meldepflicht bei Verdacht; gilt fuer alle Verpflichteten einschliesslich Makler
+- § 43 GwG — Meldepflicht bei Verdacht; gilt für alle Verpflichteten einschliesslich Makler
 
 ## Normfokus und Praxis (Immobilien und Güterhandel)
 - Verpflichtetenkreis: § 2 Abs. 1 Nr. 14 GwG Immobilienmakler (auch Vermietungsvermittler ab Monatsmiete 10 000 EUR), Nr. 16 Güterhändler (insb. Edelmetalle, Edelsteine, hochwertige Kunst), Nr. 10 Notare bei Treuhand-/Anderkonten, Nr. 13 Steuerberater/StBuRA bei wirtschaftsberatender Tätigkeit.

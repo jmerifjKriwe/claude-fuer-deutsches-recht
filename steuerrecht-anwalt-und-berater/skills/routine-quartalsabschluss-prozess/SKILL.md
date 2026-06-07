@@ -13,7 +13,7 @@ description: "Routine Quartalsabschluss-Prozess. Anwendungsfall vierteljaehrlich
 
 ## Kernsachverhalt
 
-Der Quartalsabschluss ist ein vertiefter Monatsabschluss: ueblicherweise mit vollstaendigeren Periodenabgrenzungen, Quartals-BWA, Bilanzentwurf-Vorlauf, Quartalsgespraech mit dem Mandanten. Standard fuer Mittelstand und groessere KMU. Bei Konzern-Mandanten Pflicht (Konsolidierungs-Anforderung).
+Der Quartalsabschluss ist ein vertiefter Monatsabschluss: ueblicherweise mit vollstaendigeren Periodenabgrenzungen, Quartals-BWA, Bilanzentwurf-Vorlauf, Quartalsgespraech mit dem Mandanten. Standard für Mittelstand und groessere KMU. Bei Konzern-Mandanten Pflicht (Konsolidierungs-Anforderung).
 
 ## Kaltstart-Rueckfragen
 

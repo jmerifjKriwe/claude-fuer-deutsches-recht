@@ -37,7 +37,7 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 4. Liegen vorherige Pruefungs-Beanstandungen vor?
 5. Welche kritischen Lohn-Themen im Mandantenbetrieb (Werkvertrag, Sachbezug, GGF-Status)?
 6. Welche Unterlagen muessen vorgelegt werden?
-7. Welcher Pruefer ist zustaendig?
+7. Welcher Pruefer ist zuständig?
 8. Welche Mandantenkommunikation zur Pruefungsbegleitung?
 
 ## Rechtlicher Rahmen
@@ -48,7 +48,7 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 
 **§ 42f EStG** — Lohnsteuer-Aussenpruefung (Pruefung beim AG durch das FA).
 
-**§§ 193-203 AO** — Allgemeine Pruefungsbefugnis (subsidiaer; § 42f EStG ist lex specialis fuer LSt).
+**§§ 193-203 AO** — Allgemeine Pruefungsbefugnis (subsidiaer; § 42f EStG ist lex specialis für LSt).
 
 **§ 280 BGB** — Schadensersatz Pflichtverletzung (Anspruchsgrundlage Mandant gegen StB).
 

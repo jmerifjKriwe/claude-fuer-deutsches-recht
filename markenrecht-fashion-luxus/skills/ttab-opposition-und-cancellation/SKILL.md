@@ -163,7 +163,7 @@ Bevor die Opposition eingelegt wird, klaere:
 
 ## Aktuelle Rechtsprechung (US)
 
-> **Carefirst of Maryland, Inc. v. FirstHealth of the Carolinas, Inc., 77 USPQ2d 1492 (TTAB 2005):** Im TTAB-Oppositionsverfahren tragt die opposierende Partei die Beweislast fuer Priority und Likelihood of Confusion; bloss beschreibende Common-Law-Marken begruenden keine ausreichende Priority.
+> **Carefirst of Maryland, Inc. v. FirstHealth of the Carolinas, Inc., 77 USPQ2d 1492 (TTAB 2005):** Im TTAB-Oppositionsverfahren tragt die opposierende Partei die Beweislast für Priority und Likelihood of Confusion; bloss beschreibende Common-Law-Marken begruenden keine ausreichende Priority.
 
 > **Coach Services, Inc. v. Triumph Learning LLC, 668 F.3d 1356 (Fed. Cir. 2012):** Der Bekanntheitsschutz nach § 43(c) Lanham Act (Federal Dilution) erfordert, dass die Marke "widely recognized by the general consuming public"; Nischen-Luxusmarken koennen diesen Standard schwer erfuellen, wenn kein substantieller US-Marktanteil besteht.
 

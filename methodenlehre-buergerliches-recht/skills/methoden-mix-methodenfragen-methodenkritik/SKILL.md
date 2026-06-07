@@ -12,7 +12,7 @@ description: "Methoden MIX Methodenfragen Methodenkritik im Plugin Methodenlehre
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `methoden-mix-in-der-praxis-anwaltsschriftsatz` | Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie fuer offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins. |
+| `methoden-mix-in-der-praxis-anwaltsschriftsatz` | Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie für offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins. |
 | `methodenfragen-als-verfassungsfragen` | Zeigt auf, dass und wie methodische Fragen der Rechtsanwendung zugleich Verfassungsfragen sind. Das Skill systematisiert, wann die Wahl einer Auslegungsmethode verfassungsrechtliche Relevanz hat und welche Methoden vom Grundgesetz geboten oder verboten sind. Es verbindet Methodenlehre und Verfassungsrecht als Einheit und hilft, Verfassungsrügen aus Methodenfehlern herzuleiten. |
 | `methodenkritik-larenz-canaris-zivilrecht` | Prüft System- und Wertungsargumente im Zivilrecht kritisch auf demokratische Rückbindung, NS-Belastung, Scheinobjektivität und Quellenhygiene. |
 | `methodenlehre-anwenden` | Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Prüfraster Gutachtenstil Anspruchsgrundlagen Verjährung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Prüfungsaufbau. Abgrenzung zu subsumtions-prüfer (mechanische Prüfung) und hausarbeitenmacher (akademisch). |
@@ -29,7 +29,7 @@ description: "Methoden MIX Methodenfragen Methodenkritik im Plugin Methodenlehre
 
 ## 1. `methoden-mix-in-der-praxis-anwaltsschriftsatz`
 
-**Fokus:** Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie fuer offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins.
+**Fokus:** Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie für offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins.
 
 # Methoden-Mix in der Praxis (Anwaltsschriftsatz)
 
@@ -43,7 +43,7 @@ description: "Methoden MIX Methodenfragen Methodenkritik im Plugin Methodenlehre
 
 ## Worum geht es?
 
-In der anwaltlichen Praxis arbeitet niemand mit einer einzigen Methode. Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren werden kombiniert. Was der BGH macht und was die meisten Methodenlehre-Lehrbuecher als idealtypischen Kanon beschreiben, ist nicht dasselbe. Diese Skill macht den Methoden-Mix sichtbar und gibt konkrete Strategien fuer den Schriftsatz.
+In der anwaltlichen Praxis arbeitet niemand mit einer einzigen Methode. Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren werden kombiniert. Was der BGH macht und was die meisten Methodenlehre-Lehrbuecher als idealtypischen Kanon beschreiben, ist nicht dasselbe. Diese Skill macht den Methoden-Mix sichtbar und gibt konkrete Strategien für den Schriftsatz.
 
 Die Spannung "Larenz (strukturierter Wertungs-Kanon) vs. BGH-Pragmatik" ist nicht zu eliminieren — sie ist Teil der juristischen Praxis. Diese Skill hilft, sie produktiv zu nutzen.
 
@@ -121,7 +121,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 
 **BGH-Pragmatik:** Keine erkennbare Rangfolge. In stRspr. wird der "objektivierte Wille des Gesetzgebers" aus Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck gemeinsam erschlossen. Telos ist meist Hauptargument, weil sich damit gerechte Einzelfallergebnisse begruenden lassen.
 
-**Praktische Konsequenz fuer den Schriftsatz:**
+**Praktische Konsequenz für den Schriftsatz:**
 
 - Alle einschlaegigen Methoden nennen.
 - Schwergewicht auf Telos und Wertungsjurisprudenz legen, weil das im BGH-Stil ueberzeugt.
@@ -129,7 +129,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 - Verfassungs- und Unionsrecht als zusaetzliche Argumentationsebene staerken.
 - Argumentum-Figuren als Verstaerker einsetzen.
 
-## Schritt-fuer-Schritt: Schriftsatz-Aufbau
+## Schritt-für-Schritt: Schriftsatz-Aufbau
 
 **1. Rechtsfrage praezise formulieren.** Welches Tatbestandsmerkmal oder welcher Anspruch genau ist streitig?
 
@@ -186,7 +186,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 Alle anderen Skills dieses Plugins:
 
 - `methodenlehre-buergerliches-recht-allgemein` — Workflow- und Triage-Skill.
-- `methodenlehre-anwenden` — Praxis-Skill fuer Fallpruefung.
+- `methodenlehre-anwenden` — Praxis-Skill für Fallpruefung.
 - `savigny-vier-auslegungsmethoden` — Grundkanon.
 - `wortlaut-grammatikalische-auslegung`, `systematische-auslegung`, `historische-auslegung`, `teleologische-auslegung` — Einzelmethoden.
 - `verfassungs-und-unionsrechtskonforme-auslegung` — Querschnittskanones.

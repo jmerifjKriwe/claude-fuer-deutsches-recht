@@ -1,13 +1,13 @@
 ---
 name: hausausweis-anhoerung-interessen
-description: "Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhoerungen nach § 6 LobbyRG. Output Zutrittscheck im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhörungen nach § 6 LobbyRG. Output Zutrittscheck im Lobbyregister Bundestag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Hausausweis und Anhoerung
+# Hausausweis und Anhörung
 
 ## Arbeitsbereich
 
-Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhoerungen nach § 6 LobbyRG. Output Zutrittscheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhörungen nach § 6 LobbyRG. Output Zutrittscheck. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Tei
 
 ## Einsatz
 
-Registerstatus fuer Bundestagszugang und Anhoerungen vorbereiten.
+Registerstatus für Bundestagszugang und Anhörungen vorbereiten.
 
 ## Gefuehrter Ablauf
 
@@ -32,12 +32,12 @@ Registerstatus fuer Bundestagszugang und Anhoerungen vorbereiten.
 
 1. Ist der Registereintrag vollstaendig und aktuell?
 2. Ist ein Verhaltenskodexverstoss oder Nicht-aktualisiert-Kennzeichnung vorhanden?
-3. Wer soll Zutritt oder Anhoerungsteilnahme erhalten?
+3. Wer soll Zutritt oder Anhörungsteilnahme erhalten?
 
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 

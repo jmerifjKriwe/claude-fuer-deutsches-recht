@@ -95,7 +95,7 @@ Das Soldatenbeteiligungsgesetz (SBG) regelt die Mitbestimmung und Mitwirkung der
 ## Querverweise
 
 - soldatengesetz-rechtsstellung-grundpflichten
-- mobbing-fuersorgepflicht-bundeswehr
+- mobbing-fürsorgepflicht-bundeswehr
 - sexuelle-belaestigung-beschwerde-schutzpflicht
 - gleichstellung-diskriminierung-soldatinnen-soldaten
 - personalvertretung-zivile-beschaeftigte-schnittstelle

@@ -22,7 +22,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 1. Welcher Vertragsstaat? (Schweiz, Oesterreich, Luxemburg, Niederlande, Frankreich, Belgien, andere?)
 2. Konstellation Arbeitnehmer: Grenzgaenger oder normaler Pendler?
 3. Anzahl Home-Office-Tage je Jahr?
-4. Welche Konsultationsvereinbarung gilt fuer den Veranlagungszeitraum?
+4. Welche Konsultationsvereinbarung gilt für den Veranlagungszeitraum?
 5. Arbeitgeberbescheinigung ueber Home-Office-Tage?
 6. Wurden Home-Office-Tage in Lohnsteuer-Behandlung beruecksichtigt?
 7. Ggf. weiterer Home-Office-Mehrwert (haeusliches Arbeitszimmer § 4 Abs. 5 EStG)?
@@ -56,7 +56,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 1. **Anwendungsbereich**: bestimmte Zeitperiode (z.B. waehrend Pandemie-Anordnungen).
 2. **Fiktion**: Home-Office-Tage werden so behandelt, als waere der Arbeitnehmer am gewoehnlichen Arbeitsort taetig gewesen.
 3. **Folge**: Grenzgaengerstatus erhalten; Aufteilung Lohnsteuer unveraendert; 183-Tage-Pruefung unveraendert.
-4. **Schwellenregelung**: ggf. Begrenzung auf X Tage pro Jahr (Beispiel Luxemburg: ab Aenderungsprotokoll 06.07.2023, BGBl. 2023 II Nr. 334, in Kraft 29.12.2023, anwendbar ab 01.01.2024 — **34 Arbeitstage** Bagatellgrenze fuer Home-Office in Deutschland; zuvor 19 Tage).
+4. **Schwellenregelung**: ggf. Begrenzung auf X Tage pro Jahr (Beispiel Luxemburg: ab Aenderungsprotokoll 06.07.2023, BGBl. 2023 II Nr. 334, in Kraft 29.12.2023, anwendbar ab 01.01.2024 — **34 Arbeitstage** Bagatellgrenze für Home-Office in Deutschland; zuvor 19 Tage).
 
 ## Workflow
 
@@ -88,7 +88,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 
 ## Strategie und Praxis-Tipps
 
-- Konsultationsvereinbarungen sind nicht alle als Dauerregelungen bestehen geblieben — Stichtag fuer Anwendbarkeit beachten.
+- Konsultationsvereinbarungen sind nicht alle als Dauerregelungen bestehen geblieben — Stichtag für Anwendbarkeit beachten.
 - Luxemburg ist Sonderfall: durch das Aenderungsprotokoll vom 06.07.2023 (BGBl. 2023 II Nr. 334, in Kraft 29.12.2023) wurde eine strukturelle Anpassung der Home-Office-Toleranzschwelle verankert — massgebend ist das BMF-Konsultationsvereinbarungsschreiben in aktueller Fassung.
 - Bei Schwellen-Ueberschreitung erfolgt regelmaessig Aufteilung der Lohnsteuer auf den Wohnsitz- und Taetigkeitsstaat — Doppelbesteuerungs-Risiko.
 - Bei strittiger Anwendung: Verstaendigungsverfahren Art. 25 MA.
@@ -99,11 +99,11 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 
 - **Arbeitgeberbescheinigung Home-Office-Tage frueh anfordern**: viele Arbeitgeber fuehren keine Home-Office-Statistik. Excel-Vorlage mit Datum/Standort/Anwesenheits-Indiz (Office-Login, VPN-Verbindung, Korperatkarten-Check-in) liefern.
 - **Reisekalender als zweite Beweisquelle**: bei strittigen Tagen Belege (Bahnticket, Hotelrechnung, EC-Kartenabhebung, Mobilfunk-Roaming-Datensatz).
-- **IT-Login-Logs anfordern**: VPN-Logs des Arbeitgebers (Datenschutz-Erlaubnis pro Mandant) — sicherster Beleg fuer tatsaechlichen Standort.
+- **IT-Login-Logs anfordern**: VPN-Logs des Arbeitgebers (Datenschutz-Erlaubnis pro Mandant) — sicherster Beleg für tatsaechlichen Standort.
 - **Bagatellgrenze Luxemburg 34 Tage** in Excel als Zaehler fuehren — Ueberschreitung um 1 Tag fuehrt zu Aufteilung der Lohnsteuer.
-- **Konsultationsvereinbarungs-Stichtag pruefen**: viele Pandemie-Vereinbarungen ausgelaufen — fuer Veranlagungszeitraeume ab 2023 ist nur noch die "Folgeregelung" (oft Dauerregelung mit Toleranzschwelle) anwendbar; aktueller Stand im BMF-Verzeichnis.
-- **Bei Wechsel von Pandemie- zu Folgeregelung**: Doppelte Pruefung (Pandemie-Vereinbarung fuer alte Zeitraeume; Folgeregelung fuer neue Zeitraeume).
-- **Online-Antrag bei Wohnsitz-FA** ueber ELSTER fuer Anlage N-AUS — schneller als Papier.
+- **Konsultationsvereinbarungs-Stichtag pruefen**: viele Pandemie-Vereinbarungen ausgelaufen — für Veranlagungszeitraeume ab 2023 ist nur noch die "Folgeregelung" (oft Dauerregelung mit Toleranzschwelle) anwendbar; aktueller Stand im BMF-Verzeichnis.
+- **Bei Wechsel von Pandemie- zu Folgeregelung**: Doppelte Pruefung (Pandemie-Vereinbarung für alte Zeitraeume; Folgeregelung für neue Zeitraeume).
+- **Online-Antrag bei Wohnsitz-FA** ueber ELSTER für Anlage N-AUS — schneller als Papier.
 
 ## Trade-off-Tabelle
 
@@ -118,7 +118,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 ## Was Reviewer/Pruefer triggert
 
 - **Home-Office-Tage behauptet ohne Arbeitgeberbescheinigung** — Reviewer akzeptiert keine reinen Behauptungen.
-- **Pandemie-Vereinbarung fuer aktuellen Zeitraum zitiert** — pruefen ob noch in Kraft oder durch Folgeregelung ersetzt.
+- **Pandemie-Vereinbarung für aktuellen Zeitraum zitiert** — pruefen ob noch in Kraft oder durch Folgeregelung ersetzt.
 - **Bagatellgrenze ueberschritten ohne Lohnsteuer-Aufteilung** in Anlage N-AUS.
 - **Home-Office als BS** des Arbeitgebers behauptet ohne Verfuegungsmacht-Pruefung (Mietvertrag, dauerhafte Anweisung).
 - **Werbungskosten-Pauschale ohne Beleg** — bei haeuslichem Arbeitszimmer § 9 Abs. 5 EStG Voraussetzungen pruefen.
@@ -148,7 +148,7 @@ Sachverhalt: Grenzgaenger Wohnsitz DE, Arbeitsort Luxemburg, 200 Arbeitstage/Jah
 |---|---|---|
 | 1 | Vertragsstaat identifizieren | [...] |
 | 2 | Aktuelle Konsultationsvereinbarung im BMF-Verzeichnis abrufen | [...] |
-| 3 | Stichtagspruefung: gilt Vereinbarung fuer Veranlagungszeitraum? | [...] |
+| 3 | Stichtagspruefung: gilt Vereinbarung für Veranlagungszeitraum? | [...] |
 | 4 | Bagatellgrenze (LU 34, NL 34 ab 2026, andere variabel) ermitteln | [...] |
 | 5 | Arbeitgeberbescheinigung Home-Office-Tage einholen | [...] |
 | 6 | Reisekalender + IT-Logs als Doppelbeleg | [...] |

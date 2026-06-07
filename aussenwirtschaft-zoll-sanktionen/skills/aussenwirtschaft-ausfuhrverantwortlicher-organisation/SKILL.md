@@ -29,7 +29,7 @@ Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-An
 2. Geeignete Person identifizieren: Kenntnisse im Exportkontrollrecht, Erreichbarkeit, Befugnisse.
 3. Stellenbeschreibung erstellen: Aufgaben, Berichtslinie an Geschaeftsfuehrung, Vertretung.
 4. Interne Vollmacht und Entscheidungskompetenzen dokumentieren (Freigabe, Hold, Eskalation).
-5. Schulungsplan fuer initialen und laufenden Wissenserhalt erstellen.
+5. Schulungsplan für initialen und laufenden Wissenserhalt erstellen.
 6. BAFA ueber Benennung informieren falls explizit gefordert; Dokumentation im ICP ablegen.
 
 ## Rechtsrahmen
@@ -38,13 +38,13 @@ Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-An
 - **BAFA-Merkblatt 'Exportverantwortung'**: Anforderungen an Ausfuhrverantwortlichen.
 - **Art. 9 VO (EU) 2021/821**: Interne Compliance-Programme (ICP) und Verantwortlichkeit.
 - **§ 130 OWiG**: Aufsichtspflichtverletzung durch Geschaeftsfuehrung.
-- **§ 18 AWG**: Haftungsrahmen fuer unerlaubte Ausfuhr.
+- **§ 18 AWG**: Haftungsrahmen für unerlaubte Ausfuhr.
 
 ## Pruef-Raster
 
 - [ ] Ausfuhrverantwortlicher schriftlich benannt?
 - [ ] Person qualifiziert und mit Entscheidungsbefugnissen ausgestattet?
-- [ ] Vertretungsregel fuer Urlaub und Krankheit geregelt?
+- [ ] Vertretungsregel für Urlaub und Krankheit geregelt?
 - [ ] Berichtslinie an Geschaeftsfuehrung dokumentiert?
 - [ ] Zugang zu aktuellen Gueterlisten und Sanktionslisten sichergestellt?
 - [ ] ICP-Dokumentation vollstaendig und dem Ausfuhrverantwortlichen uebergeben?
@@ -53,14 +53,14 @@ Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-An
 
 - Ausfuhrverantwortlicher ohne reale Entscheidungsbefugnis ist haftungsrechtlich wertlos.
 - Vertretungsluecken bei Urlaub gefaehrden laufende Exportvorgaenge.
-- Fehlende Schulung fuehrt zu unbewussten Verstossen und hoeherer persoenlicher Haftung.
-- Konzernstrukturen erfordern klare Zustaendigkeitsabgrenzung je Rechtseinheit.
+- Fehlende Schulung fuehrt zu unbewussten Verstossen und hoeherer persönlicher Haftung.
+- Konzernstrukturen erfordern klare Zuständigkeitsabgrenzung je Rechtseinheit.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

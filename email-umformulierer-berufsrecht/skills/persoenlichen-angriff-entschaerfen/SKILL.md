@@ -1,6 +1,6 @@
 ---
 name: persoenlichen-angriff-entschaerfen
-description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persoenliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren)."
+description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren)."
 ---
 
 # Persönlichen Angriff entschärfen
@@ -21,10 +21,10 @@ Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angri
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: persoenliche Angriffe unzulaessig
-- § 185 StGB — Beleidigung: persoenliche Angriffe koennen strafbar sein
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: persönliche Angriffe unzulaessig
+- § 185 StGB — Beleidigung: persönliche Angriffe koennen strafbar sein
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Schadenersatz bei Persoenlichkeitsverletzung
-- § 1004 BGB — Unterlassungsanspruch bei andauernden persoenlichen Angriffen
+- § 1004 BGB — Unterlassungsanspruch bei andauernden persönlichen Angriffen
 
 ## Quellenregel
 

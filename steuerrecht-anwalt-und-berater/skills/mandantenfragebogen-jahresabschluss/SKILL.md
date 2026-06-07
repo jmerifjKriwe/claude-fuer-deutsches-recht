@@ -13,7 +13,7 @@ description: "Mandantenfragebogen zum Jahresabschluss. Anwendungsfall JA-Vorbere
 
 ## Kernsachverhalt
 
-Zum Jahresabschluss muss der Mandant zahlreiche Informationen liefern, die nicht aus der laufenden Buchfuehrung ersichtlich sind: Inventur-Werte, Forderungsrisiken, Sondervorgaenge, Vertragsabschluesse, Investitionsplaene fuer Folgejahr. Der Steuerberater nutzt einen strukturierten Fragebogen, um diese Informationen systematisch abzufragen. Ein gut ausgefuellter Fragebogen reduziert Rueckfragen und beschleunigt den Jahresabschluss.
+Zum Jahresabschluss muss der Mandant zahlreiche Informationen liefern, die nicht aus der laufenden Buchfuehrung ersichtlich sind: Inventur-Werte, Forderungsrisiken, Sondervorgaenge, Vertragsabschluesse, Investitionsplaene für Folgejahr. Der Steuerberater nutzt einen strukturierten Fragebogen, um diese Informationen systematisch abzufragen. Ein gut ausgefuellter Fragebogen reduziert Rueckfragen und beschleunigt den Jahresabschluss.
 
 ## Kaltstart-Rueckfragen
 
@@ -117,7 +117,7 @@ Unterschrift Mandant: [...]
 
 - Vollstaendigkeit pruefen.
 - Bei Unklarheiten: Nachfrage telefonisch.
-- Bei wesentlichen Sondervorgaengen: persoenliches Gespraech.
+- Bei wesentlichen Sondervorgaengen: persönliches Gespraech.
 
 ### Phase 4 — Konsistenzpruefung
 
@@ -138,7 +138,7 @@ Unterschrift Mandant: [...]
 ## Output
 
 - Ausgefuellter Mandantenfragebogen.
-- Datenbasis fuer Jahresabschluss.
+- Datenbasis für Jahresabschluss.
 - Mandanten-Erklaerung mit Unterschrift.
 
 ## Strategie und Praxis-Tipps

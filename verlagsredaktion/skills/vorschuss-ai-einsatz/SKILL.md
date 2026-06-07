@@ -1,13 +1,13 @@
 ---
 name: vorschuss-ai-einsatz
-description: "Vorschusspruefung fuer Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorschusspruefung für Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorschuss pruefen
 
 ## Arbeitsbereich
 
-Vorschusspruefung fuer Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorschusspruefung für Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Vorschusspruefung fuer Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Ver
 
 ## Worum geht es konkret
 
-Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Honorarvorschuss vereinbart - entweder als Anschubfinanzierung fuer die Schreibarbeit oder als Anreiz beim Wechsel des Verlagshauses. Der Skill fuehrt durch die kalkulatorische und vertragliche Pruefung: Wieviel ist marktueblich, wie wird ausgekehrt, wie verrechnet, was passiert bei Scheitern des Projekts?
+Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Honorarvorschuss vereinbart - entweder als Anschubfinanzierung für die Schreibarbeit oder als Anreiz beim Wechsel des Verlagshauses. Der Skill fuehrt durch die kalkulatorische und vertragliche Pruefung: Wieviel ist marktueblich, wie wird ausgekehrt, wie verrechnet, was passiert bei Scheitern des Projekts?
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -40,7 +40,7 @@ Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Hono
 - EStG § 11 - Zufluss-/Abflussprinzip; Vorschuss ist im Jahr des Zuflusses steuerlich erfasst (beim Autor).
 - KSVG - Vorschuesse loesen KSK-Abgabe aus, auch wenn das Werk noch nicht abgeliefert ist.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Kalkulationsbasis ermitteln.** Erwarteter Umsatz uebers Werkleben x Tantiemesatz = max. Tantieme. Vorschuss in Prozent davon (markttuepblich oft 30-60 Prozent der ersten zwei Auflagen).
 2. **Auskehrtranche festlegen.** Drei klassische Stufen: 1/3 bei Vertragsschluss, 1/3 bei Ablieferung Manuskript, 1/3 bei Imprimatur. Bei hohem Risiko mehr Stufen.
@@ -66,7 +66,7 @@ Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Hono
 - Bei Lehrbuch mit Pruefungsbezug: Lebenszyklus 5 Jahre rechnen; danach Schwester- oder Anschlussbaende kalkulieren.
 - Bei Kommentar: Mindestens auf die Folgeauflage hin denken; Vorschuss erstreckt sich oft ueber zwei Auflagen.
 - Bei Wechselautor: Karenzklausel pruefen (kein Konkurrenzwerk bis [Datum]).
-- Bei abgesprungenem Autor: Rueckforderung schnell schriftlich verlangen; sonst Verjaehrungsgefahr nach 3 Jahren.
+- Bei abgesprungenem Autor: Rueckforderung schnell schriftlich verlangen; sonst Verjährungsgefahr nach 3 Jahren.
 - Niemals "stillschweigend abschreiben" - die Verlagsleitung will Klarheit in der Bilanz.
 
 ## Mustertexte / Vorlagen
@@ -93,7 +93,7 @@ Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Hono
  (§ 33 VerlG, § 323 BGB), sind alle bereits geleisteten Tranchen
  binnen 30 Tagen ab Zugang der Ruecktrittserklaerung zurueckzuzahlen.
 
-(4) Der Vorschuss ist umsatzsteuerlich ein Entgelt fuer die nach diesem
+(4) Der Vorschuss ist umsatzsteuerlich ein Entgelt für die nach diesem
  Vertrag eingeraeumten Rechte; Steuerausweis erfolgt mit der
  Auszahlungs-Gutschrift.
 ```
@@ -130,7 +130,7 @@ Mit freundlichen Gruessen
 ## Typische Fehler / Pitfalls
 
 - Vorschuss ohne Verrechnungsklausel - dauerhaft im Honorartopf.
-- Auszahlung in einer Summe ohne Stufen - kein Anreiz fuer Ablieferung.
+- Auszahlung in einer Summe ohne Stufen - kein Anreiz für Ablieferung.
 - Keine Rueckforderungsklausel - Vorschuss faktisch verloren bei Scheitern.
 - KSK-Meldung vergessen - Nachzahlung mit Saeumniszuschlag.
 - Hoher Vorschuss bei Wechselautor ohne Karenzklausel.
@@ -140,7 +140,7 @@ Mit freundlichen Gruessen
 
 - `workflow-kaltstart-und-routing` - Einordnung des Werks.
 - `verl-buchprojekt-bauleiter` - Gesamtbauleitung des Buchprojekts.
-- `verl-honorarvertrag-templates-und-abweichungen` - Vertragstemplates fuer Vorschuesse.
+- `verl-honorarvertrag-templates-und-abweichungen` - Vertragstemplates für Vorschuesse.
 - `verl-tantieme-abrechnung-jaehrlich` - Verrechnung in der Folgeperiode.
 - `verl-honorarrechnung-erstellen-pruefen` - Steuerbehandlung der Tranchen.
 - `verl-vergleichsverhandlung-mit-autor` - bei Streit ueber Rueckforderung.

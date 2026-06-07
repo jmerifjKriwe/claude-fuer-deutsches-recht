@@ -27,13 +27,13 @@ Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Be
 
 ## Kernsachverhalt
 
-Der formale Jahresabschluss (Bilanz + GuV + Anhang + ggf. Lagebericht) ist juristisches Pflichtdokument, aber fuer den Mandanten oft schwer lesbar. Die Jahres-BWA ist die kommunikative Ergaenzung: kumulierter BWA-Block fuer das Gesamtjahr mit Vorjahresvergleich, Mehrjahres-Trend (3-5 Jahre), Kennzahlen-Zusammenfassung. Der Steuerberater praesentiert dem Mandanten die wirtschaftliche Entwicklung in einer Form, die der GF tatsaechlich liest und versteht.
+Der formale Jahresabschluss (Bilanz + GuV + Anhang + ggf. Lagebericht) ist juristisches Pflichtdokument, aber für den Mandanten oft schwer lesbar. Die Jahres-BWA ist die kommunikative Ergaenzung: kumulierter BWA-Block für das Gesamtjahr mit Vorjahresvergleich, Mehrjahres-Trend (3-5 Jahre), Kennzahlen-Zusammenfassung. Der Steuerberater praesentiert dem Mandanten die wirtschaftliche Entwicklung in einer Form, die der GF tatsaechlich liest und versteht.
 
 ## Kaltstart-Rueckfragen
 
 1. Welcher Stichtag — Kalender-Geschaeftsjahr oder abweichendes Wirtschaftsjahr?
 2. Liegen Daten der letzten 3-5 Jahre vor (Mehrjahres-Trend)?
-3. Welche Korrekturen ergeben sich aus dem Jahresabschluss (vs. vorlaeufiger Quartals-BWA)?
+3. Welche Korrekturen ergeben sich aus dem Jahresabschluss (vs. vorläufiger Quartals-BWA)?
 4. Sondereffekte im Geschaeftsjahr (Sondertilgung, Sonderausschuettung, Sonder-AfA)?
 5. Welche Kennzahlen sind im Vordergrund?
 6. Welche Mandantenidentitaet (Logo, Farben)?
@@ -143,12 +143,12 @@ V. MEHRJAHRES-TREND (3-5 Jahre)
 
 ## Strategie und Praxis-Tipps
 
-- Jahres-BWA ist KEIN Ersatz fuer den formalen Jahresabschluss, sondern ergaenzende Kommunikations-Schicht.
+- Jahres-BWA ist KEIN Ersatz für den formalen Jahresabschluss, sondern ergaenzende Kommunikations-Schicht.
 - Der formale JA folgt § 325 HGB (Bundesanzeiger-Veroeffentlichung); die Jahres-BWA ist intern.
 - Bei Gesellschafterversammlung: Jahres-BWA als Tischvorlage statt blanker Bilanz.
 - Mehrjahres-Trend ist Standard bei mittelstaendischer Bilanzanalyse — 5 Jahre ist guter Kompromiss.
 - StBVV: Jahres-BWA als Zusatzauftrag neben Jahresabschluss-Erstellung; ggf. Pauschal.
-- DATEV-Tipp: Klickpfad fuer Mehrjahres-Vergleich: Rechnungswesen → Auswertungen → BWA → BWA-Form mit Vorjahresspalten waehlen, Jahresvergleich aktivieren.
+- DATEV-Tipp: Klickpfad für Mehrjahres-Vergleich: Rechnungswesen → Auswertungen → BWA → BWA-Form mit Vorjahresspalten waehlen, Jahresvergleich aktivieren.
 
 ## Querverweise
 

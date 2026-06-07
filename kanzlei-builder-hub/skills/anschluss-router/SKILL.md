@@ -137,14 +137,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Der Kanzlei-Builder-Hub ist die Steuerzentrale fuer Installation, Verwaltung und Qualitaetssicherung von Skills und Plugins in der KI-gestuetzten Kanzleiumgebung. Er fuehrt vor dem Deployment ein Security-Review-Gate durch, das Community-Skills auf Sicherheit, Normkonformitaet und Qualitaet prueft, bevor sie produktiv genutzt werden.
+Der Kanzlei-Builder-Hub ist die Steuerzentrale für Installation, Verwaltung und Qualitaetssicherung von Skills und Plugins in der KI-gestuetzten Kanzleiumgebung. Er fuehrt vor dem Deployment ein Security-Review-Gate durch, das Community-Skills auf Sicherheit, Normkonformitaet und Qualitaet prueft, bevor sie produktiv genutzt werden.
 
 Der Hub ermoeglicht ausserdem die Erstellung kanzleieigener Playbooks aus vorhandenen Musterdokumenten sowie die gezielte Suche und Verwaltung des Skill-Verzeichnisses. Er richtet sich an Kanzleiinhaber, IT-Verantwortliche und Kanzleimanager, die ihre KI-Kanzleiumgebung strukturiert aufbauen und pflegen wollen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen erstmals den Hub einrichten und Ihr Kanzleiprofil mit Rechtsgebieten und Technikvoraussetzungen erfassen.
-- Sie suchen neue Community-Skills fuer ein bestimmtes Rechtsgebiet und moechten diese vor dem Einsatz sicherheitsprufen.
+- Sie suchen neue Community-Skills für ein bestimmtes Rechtsgebiet und moechten diese vor dem Einsatz sicherheitsprufen.
 - Ein installierter Skill soll aktualisiert, temporaer deaktiviert oder vollstaendig deinstalliert werden.
 - Sie wollen aus Ihren eigenen Musterdokumenten ein kanzleispezifisches Playbook generieren.
 - Sie benoetigen eine Qualitaetspruefung aller installierten Skills auf Normaktualitaet und Strukturkonformitaet.
@@ -152,7 +152,7 @@ Der Hub ermoeglicht ausserdem die Erstellung kanzleieigener Playbooks aus vorhan
 ## Fachbegriffe (kurz erklaert)
 
 - **Security-Review-Gate** — Strukturiertes Pruefverfahren, das vor der Freigabe eines Community-Skills Sicherheit, Normverankerung und Qualitaet bewertet.
-- **Plugin** — Zusammenschluss mehrerer thematisch verwandter Skills zu einem Funktionspaket fuer ein Rechtsgebiet oder einen Workflow.
+- **Plugin** — Zusammenschluss mehrerer thematisch verwandter Skills zu einem Funktionspaket für ein Rechtsgebiet oder einen Workflow.
 - **Skill** — Einzelne spezialisierte Anleitung in einer SKILL.md-Datei, die einen definierten Arbeitsschritt abdeckt.
 - **Playbook** — Kanzleispezifischer Pruef- und Arbeitskatalog, der aus eigenen Musterdokumenten automatisch erstellt wird.
 - **Kaltstart-Interview** — Strukturiertes Erstgespraech zur Erfassung von Kanzleiprofil, Rechtsgebieten und Konfigurationsparametern.
@@ -165,7 +165,7 @@ Der Hub ermoeglicht ausserdem die Erstellung kanzleieigener Playbooks aus vorhan
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei externen Dienstleistern
 - Art. 32 DSGVO — Technische und organisatorische Massnahmen
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Kanzleiprofil und Rechtsgebiete im Kaltstart-Interview erfassen.
 2. Gewuenschte Skills oder Plugins im Verzeichnis suchen.
@@ -208,8 +208,8 @@ Der Hub ermoeglicht ausserdem die Erstellung kanzleieigener Playbooks aus vorhan
 
 - `kanzlei-allgemein` — Zentrales Kanzlei-Workflow-Plugin, das vom Hub mit Skills bestuckt wird.
 - `berufsrecht-ki-vertragspruefung` — Berufsrechtliche Pruefung von KI-Anbietervertraegen vor der Installation.
-- `ki-richtlinie-kanzleien` — KI-Nutzungsrichtlinie als Rahmen fuer alle installierten KI-Skills.
-- `rechtsberatungsstelle` — Skill-Verwaltung fuer studentische Beratungsstellen.
+- `ki-richtlinie-kanzleien` — KI-Nutzungsrichtlinie als Rahmen für alle installierten KI-Skills.
+- `rechtsberatungsstelle` — Skill-Verwaltung für studentische Beratungsstellen.
 
 ## Quellen und Aktualitaet
 

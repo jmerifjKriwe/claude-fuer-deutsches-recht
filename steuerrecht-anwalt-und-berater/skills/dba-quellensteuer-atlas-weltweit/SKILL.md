@@ -43,7 +43,7 @@ Quellensteuerfragen sind schnell falsch, weil DBA-Sätze, nationale Abzugsregeln
 - **Quellenstaat zuerst, Empfaengerstaat danach**: erst nationales Quellensteuerrecht des Auszahlungsstaats, dann DBA, dann Empfaengerstaats-Behandlung (Anrechnung/Freistellung). Reihenfolge im Memo strikt einhalten.
 - **BZSt-Online-Portal BOP** als Standardweg: Antraege auf Freistellung (§ 50c Abs. 2 EStG) und Erstattung (§ 50c Abs. 3 EStG) digital ueber bzst.de/BOP — Formularkatalog laufend aktualisiert. Vom Anwender mit aktuellem BOP-Stand abzugleichen.
 - **Ansaessigkeitsbescheinigung Heimatstaat**: IRS Form 6166 (USA, Antrag ueber Form 8802 — Bearbeitung 6-8 Wochen), HMRC Certificate (UK), CFR-1 (Polen), CRA (Kanada), spanisch/italienisch/franzoesisches Aequivalent — Bearbeitung 4-8 Wochen. Mehrjaehrig gueltige Bescheinigungen anfragen, wenn moeglich.
-- **DAV-Verfahren** fuer institutionelle Anleger (Banken/Wertpapierdienstleister): Massen-Erstattungs-Verfahren statt Einzelantraege — deutlich schneller.
+- **DAV-Verfahren** für institutionelle Anleger (Banken/Wertpapierdienstleister): Massen-Erstattungs-Verfahren statt Einzelantraege — deutlich schneller.
 - **Apostille/Konsularbeglaubigung** bei Drittstaaten (USA, VAE, Australien) — Vorlaufzeit 6-10 Wochen.
 - **Originalbelege vs. Kopien**: BZSt akzeptiert beglaubigte Kopien der Ansaessigkeitsbescheinigung; Steuerbescheinigung des deutschen Schuldners im Original.
 - **Antragsfenster Q1**: Erstattungs-Antraege im Januar bis Maerz kuerzere Bearbeitungszeit als Q4.
@@ -53,7 +53,7 @@ Quellensteuerfragen sind schnell falsch, weil DBA-Sätze, nationale Abzugsregeln
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Freistellungsbescheinigung vorab vs. Erstattung nachher | vor Zahlung — schneller Cashflow, 3-Jahres-Geltung | nach Einbehalt rueckwirkend — 4-Jahres-Frist | bei regelmaessigen Zahlungen Pfad A |
+| Freistellungsbescheinigung vorab vs. Erstattung nachher | vor Zahlung — schneller Cashflow, 3-Jahres-Geltung | nach Einbehalt rueckwirkend — 4-Jahres-Frist | bei regelmäßigen Zahlungen Pfad A |
 | MTRL/ZinsLizenzRL vs. DBA-Hoechstsatz | EU-RL 0 Prozent bei Verbundenheit | DBA-Hoechstsatz | EU-RL vorrangig, wenn Voraussetzungen erfuellt |
 | Erstattung jetzt vs. spaeter | sofort Antrag, Bearbeitung 12-24 Monate | spaeter Antrag, gleiche Bearbeitung — aber Frist droht | bei hohen Betraegen frueh stellen |
 | Substanz aufbauen vs. § 50d Abs. 3 EStG-Risiko hinnehmen | Substanz (Personal, Buero, Geschaeftstaetigkeit) | "Briefkasten" oder durchgereichte Holding | bei wesentlichen Erstattungs-Volumina Substanz aufbauen |
@@ -65,7 +65,7 @@ Quellensteuerfragen sind schnell falsch, weil DBA-Sätze, nationale Abzugsregeln
 - **Drei-Ebenen-Pruefung verkuerzt**: Memo springt direkt zum DBA-Hoechstsatz, ohne nationales Quellenstaatrecht und Verfahren zu pruefen.
 - **§ 50d Abs. 3 EStG-Substanz nicht dokumentiert** bei Konzern-Holdings.
 - **§ 50j EStG-Cum-Cum-Frist nicht gewahrt** bei Dividenden — 45-Tage in 91-Tage-Fenster.
-- **Ansaessigkeitsbescheinigung fehlt** oder veraltet (gilt regelmaessig nur fuer ein Jahr).
+- **Ansaessigkeitsbescheinigung fehlt** oder veraltet (gilt regelmaessig nur für ein Jahr).
 - **Falsches BZSt-Formular** oder Bezeichnung — Antrag wird zurueckgewiesen.
 - **MTRL- vs. DBA-Wahl nicht begruendet** — Pruefer fragt: warum nicht die guenstigere Variante?
 - **Software-Lizenz vs. Software-Verkauf** falsch qualifiziert — Art. 12 vs. Art. 7.

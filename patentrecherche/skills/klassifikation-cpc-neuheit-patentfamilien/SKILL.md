@@ -118,7 +118,7 @@ klassen:
 Bevor die CPC/IPC-Klassen festgelegt werden, klaere:
 1. Welches technische Gebiet ist primaer betroffen (Hauptklasse) und welche Querschnittsklassen koennen relevant sein?
 2. Sind Y-Klassen (CPC-spezifisch, Klimatechnologie, IoT) zutreffend?
-3. Soll IPC zusaetzlich zu CPC eingesetzt werden (notwendig fuer Laender ohne CPC und aeltere Patente vor 2013)?
+3. Soll IPC zusaetzlich zu CPC eingesetzt werden (notwendig für Länder ohne CPC und aeltere Patente vor 2013)?
 4. Wurde die Klassifikation anhand des naechstliegenden Anspruchsmerkmals (nicht des Funktionsergebnisses) bestimmt?
 
 ## Aktuelle Rechtsprechung
@@ -127,4 +127,4 @@ Bevor die CPC/IPC-Klassen festgelegt werden, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **DPMA, Merkblatt Klassifikation 2023:** CPC-Klassen werden von Espacenet und Google Patents korrekt indexiert; fuer die agentische Recherche ist die Kombination von Klassen- und Schluessel-wort-Suche unverzichtbar, da Klassifikationsfehler der Aemter zu Luecken fuehren koennen.
+> **DPMA, Merkblatt Klassifikation 2023:** CPC-Klassen werden von Espacenet und Google Patents korrekt indexiert; für die agentische Recherche ist die Kombination von Klassen- und Schluessel-wort-Suche unverzichtbar, da Klassifikationsfehler der Aemter zu Luecken fuehren koennen.

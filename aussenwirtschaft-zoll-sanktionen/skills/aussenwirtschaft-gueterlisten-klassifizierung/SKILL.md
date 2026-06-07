@@ -36,7 +36,7 @@ Technische Klassifizierung von Waren, Software und Technologie nach Gueterlisten
 
 - **Anhang I VO (EU) 2021/821**: EU-Dual-Use-Gueterliste, Kategorien EG0-EG9.
 - **KrWaffKontrG Anlage Teil A/B**: Kriegswaffenliste Deutschland.
-- **§ 1 KrWaffKontrG**: Genehmigungspflicht fuer Kriegswaffen.
+- **§ 1 KrWaffKontrG**: Genehmigungspflicht für Kriegswaffen.
 - **AWV Anlage AL**: Nationale Ausfuhrliste (komplementaer zur EU-Liste).
 - **Art. 3 VO (EU) 2021/821**: Genehmigungspflicht bei Listentreffer.
 
@@ -54,13 +54,13 @@ Technische Klassifizierung von Waren, Software und Technologie nach Gueterlisten
 - Suche nach Produktbeschreibung ist unzureichend; nur Parametervergleich entscheidet.
 - Softwarekomponenten und technische Unterstuetzung koennen hoher klassifiziert sein als die Hardware.
 - Aenderungen der Gueterliste (jaehrliche Aktualisierung) werden nicht nachverfolgt.
-- 'Entwickelt fuer' vs. 'geeignet fuer': Kriterium variiert je nach Listeneintrag.
+- 'Entwickelt für' vs. 'geeignet für': Kriterium variiert je nach Listeneintrag.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

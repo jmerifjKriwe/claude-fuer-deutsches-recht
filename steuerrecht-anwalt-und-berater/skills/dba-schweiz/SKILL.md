@@ -67,8 +67,8 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 - **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — massgebend ist Art. 12 DBA-Schweiz in der jeweils geltenden Fassung.
 
 ### Vermeidungs-Methode (Art. 24)
-- Anrechnungsmethode fuer Schweiz grundsaetzlich.
-- Freistellung mit Progressionsvorbehalt fuer aktive Einkuenfte mit Aktivitaetsklausel.
+- Anrechnungsmethode für Schweiz grundsaetzlich.
+- Freistellung mit Progressionsvorbehalt für aktive Einkuenfte mit Aktivitaetsklausel.
 
 ### Besonderheiten
 - **60-Tage-Schaedlichkeit**: dokumentationspflichtig (Reisekalender, Beweismittel Arbeitgeber).
@@ -121,16 +121,16 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 
 ### Erstattungsverfahren Schweizer Verrechnungssteuer (35 Prozent)
 
-- **Zustaendigkeit**: Schweizer Verrechnungssteuer wird **nicht** durch das BZSt erstattet, sondern durch die Eidgenoessische Steuerverwaltung (ESTV) in Bern, Hauptabteilung Direkte Bundessteuer, Verrechnungssteuer, Stempelabgaben.
+- **Zuständigkeit**: Schweizer Verrechnungssteuer wird **nicht** durch das BZSt erstattet, sondern durch die Eidgenoessische Steuerverwaltung (ESTV) in Bern, Hauptabteilung Direkte Bundessteuer, Verrechnungssteuer, Stempelabgaben.
 - **Antragsformulare**: Aktuelle Formulare und Verfahrensanweisungen abrufbar auf **estv.admin.ch** im Bereich Verrechnungssteuer/Internationale Quellensteuer — vom Anwender mit aktuellem Stand zu verifizieren (Formularbezeichnungen aendern sich periodisch).
 - **Frist**: nach Schweizerischem Verrechnungssteuergesetz (VStG) regelmaessig **drei Jahre** ab Faelligkeit des steuerpflichtigen Ertrags — sehr knapp! Frueh stellen.
 - **Bearbeitungsdauer ESTV**: Erfahrungswert 4-12 Monate; bei strittigen Faellen deutlich laenger. Anwaltliche Vertretung sinnvoll bei groesseren Erstattungsbetraegen.
-- **Sprache**: Eingaben moeglich in DE/FR/IT/EN; bei Schweizer Behoerden bevorzugt **Deutsch** (Bern).
+- **Sprache**: Eingaben moeglich in DE/FR/IT/EN; bei Schweizer Behörden bevorzugt **Deutsch** (Bern).
 
 ### Lokaler Steuerberater-Kontakt
 
 - **Empfehlung**: bei Pauschalbesteuerung in der Schweiz, bei zweiter/dritter Saeule-Auszahlung, bei Wegzugsfaellen mit Schweizer Substrat — Schweizer Steuerberater (Treuhaender) einbinden. KMU-Kanzleien mit DBA-Erfahrung in Basel/Zuerich/Bern.
-- **Trigger fuer Berater-Einbindung**: kantonale Steuerunterschiede koennen erheblich sein (Zuerich vs. Zug vs. Schwyz); Pension dritte Saeule (3a) hat kantonale Sondersaetze.
+- **Trigger für Berater-Einbindung**: kantonale Steuerunterschiede koennen erheblich sein (Zuerich vs. Zug vs. Schwyz); Pension dritte Saeule (3a) hat kantonale Sondersaetze.
 
 ### Online-Portale
 
@@ -153,8 +153,8 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 - **Mehrtaegige Schulungen/Tagungen in der Schweiz**: jede Uebernachtung ausserhalb des deutschen Wohnsitzes zaehlt regelmaessig schaedlich, auch bei dienstlicher Veranlassung (BFH-Praxis verifikationspflichtig).
 - **Dienst nach 22 Uhr**: in der Praxis als schaedlicher Tag gewertet, wenn Heimkehr objektiv unzumutbar wird — sorgfaeltig dokumentieren (Bahnverbindungen).
 - **Pauschalbesteuerung-Mandant fragt nach DBA-Erstattung**: Standardfalle — pauschalbesteuerte Personen sind **nicht voll abkommensberechtigt**, BZSt-/ESTV-Erstattung scheitert oft.
-- **CH-Bank ueberweist Dividende mit 35 Prozent VST**: Erstattung des Differenzbetrags zum DBA-Hoechstsatz (15 Prozent fuer Streubesitz, 5 Prozent fuer Schachtel) bei ESTV beantragen — Frist 3 Jahre beachten.
-- **Schweizer Quellensteuer auf Lohn-Grenzgaenger (4,5 Prozent) nicht eingezogen**: bei Direktbezug aus DE-Arbeitgeber-Tochter pruefen, ob Schweizer Lohnsteuersystem zustaendig war; rueckwirkende Korrektur muehsam.
+- **CH-Bank ueberweist Dividende mit 35 Prozent VST**: Erstattung des Differenzbetrags zum DBA-Hoechstsatz (15 Prozent für Streubesitz, 5 Prozent für Schachtel) bei ESTV beantragen — Frist 3 Jahre beachten.
+- **Schweizer Quellensteuer auf Lohn-Grenzgaenger (4,5 Prozent) nicht eingezogen**: bei Direktbezug aus DE-Arbeitgeber-Tochter pruefen, ob Schweizer Lohnsteuersystem zuständig war; rueckwirkende Korrektur muehsam.
 
 ## Berechnungsbeispiel — Grenzgaenger Schweiz
 
@@ -172,7 +172,7 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 
 > Schweizer AG schuettet 1.000.000 EUR an deutsche Holding (Beteiligung 25 Prozent). CH-Verrechnungssteuer-Einbehalt: 35 Prozent (Art. 13 VStG) = 350.000 EUR.
 >
-> Schritt 1: DBA-Hoechstsatz Art. 10 DBA-CH fuer Schachtel = 5 Prozent. Erstattung 30 Prozent = 300.000 EUR via ESTV beantragen.
+> Schritt 1: DBA-Hoechstsatz Art. 10 DBA-CH für Schachtel = 5 Prozent. Erstattung 30 Prozent = 300.000 EUR via ESTV beantragen.
 >
 > Schritt 2: Verbleibender Schweizer Steuersatz 5 Prozent = 50.000 EUR.
 >

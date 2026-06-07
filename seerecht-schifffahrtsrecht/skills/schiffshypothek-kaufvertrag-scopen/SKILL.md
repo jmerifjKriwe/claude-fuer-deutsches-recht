@@ -1,13 +1,13 @@
 ---
 name: schiffshypothek-kaufvertrag-scopen
-description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet Kaufvertrag fuer hypothekenbelastetes Seeschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet Kaufvertrag für hypothekenbelastetes Seeschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffshypothek – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet Kaufvertrag fuer hypothekenbelastetes Seeschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet Kaufvertrag für hypothekenbelastetes Seeschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,12 +21,12 @@ Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet K
 Ein Investor kauft ein hypothekenbelastetes Seeschiff; Risiken aus Altlasten und Zertifikatsmängeln sind zu identifizieren. Ein Reeder veräußert ein hypothekenbelastetes Seeschiff unter Zeitdruck; Gewährleistungsausschlüsse sind zu prüfen. Eine Bank finanziert den Kauf und möchte Vertragsrisiken kennen.
 
 ## Erste Schritte
-1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen fuer hypothekenbelastetes Seeschiff.
+1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für hypothekenbelastetes Seeschiff.
 2. Lastenuebergang pruefen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
 3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan pruefen.
 4. Zertifikatsstatus klaeren: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
 5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
-6. Escrow-Mechanismus fuer simultane Zahlung und Eigentumsuebergang aufsetzen.
+6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 
 ## Rechtsrahmen
 - SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. Rangfolge Hypotheken; Absonderung InsO §§ 49-51.
@@ -36,15 +36,15 @@ Ein Investor kauft ein hypothekenbelastetes Seeschiff; Risiken aus Altlasten und
 - Enthaelt der Kaufvertrag eine umfassende Freistellungsklausel?
 - Sind Zertifikate (Klasse/ISM/MLC) als Closing-Bedingungen definiert?
 - Ist der Gewaehrleistungsausschluss rechtswirksam?
-- Ist Escrow-Mechanismus fuer simultane Transaktion vorgesehen?
+- Ist Escrow-Mechanismus für simultane Transaktion vorgesehen?
 
 ## Typische Fallstricke
-- Kaeufer haftet mit hypothekenbelastetes Seeschiff fuer Altschulden bis zur Loeschung.
+- Kaeufer haftet mit hypothekenbelastetes Seeschiff für Altschulden bis zur Loeschung.
 - Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
 - Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
 
 ## Output
-Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste fuer hypothekenbelastetes Seeschiff.
+Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste für hypothekenbelastetes Seeschiff.
 
 ## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
 International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.

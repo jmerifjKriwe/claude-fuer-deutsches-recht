@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-vob-c-din-checklisten
-description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten fuer die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten fuer Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte fuer mobile Nutzung auf der Baustelle im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte für mobile Nutzung auf der Baustelle im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten fuer die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten fuer Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte fuer mobile Nutzung auf der Baustelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte für mobile Nutzung auf der Baustelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,13 +19,13 @@ Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten fuer die Bauueb
 
 ## Spezialwissen
 
-VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsingenieurs: Jede VOB/C-Norm definiert Pruefpflichten, Aufmassregeln und Abnahmevoraussetzungen. Dieser Skill beschreibt die Erstellung gewerkeweiser digitaler Checklisten, die Werkzeuge Dalux Field und PlanRadar fuer die mobile Nutzung und die Integration in SAP PM fuer die lueckenlose Mangeldokumentation.
+VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsingenieurs: Jede VOB/C-Norm definiert Pruefpflichten, Aufmassregeln und Abnahmevoraussetzungen. Dieser Skill beschreibt die Erstellung gewerkeweiser digitaler Checklisten, die Werkzeuge Dalux Field und PlanRadar für die mobile Nutzung und die Integration in SAP PM für die lueckenlose Mangeldokumentation.
 
 ## Bauwerk und Auftrag
 
 - Krankenhaus Neubau Duesseldorf: 42 Gewerke mit je eigener VOB/C-Checkliste, 1.840 Pruefpunkte, digitale Dalux-Workflow, Bausumme 110 Mio. EUR
 - Logistikzentrum Hamburg: 8 Hauptgewerke, PlanRadar-Checklisten mit QR-Code je Pruefpunkt, 520 Punkte, Bausumme 32 Mio. EUR
-- Wohnkomplex Berlin: Standardisierte Checklisten fuer 240 Wohneinheiten, Abnahme mit Mieter nach VOB/B § 12, Bausumme 45 Mio. EUR
+- Wohnkomplex Berlin: Standardisierte Checklisten für 240 Wohneinheiten, Abnahme mit Mieter nach VOB/B § 12, Bausumme 45 Mio. EUR
 
 ## Erste Schritte Checklisten-Erstellung
 
@@ -43,7 +43,7 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 - VOB/C DIN 18299 Allgemeine Regelungen: Alle Gewerke, Aufmassregeln, Nebenleistungen, Abrechnungseinheiten
 - VOB/C DIN 18331 bis DIN 18459: Spezifische Normen je Gewerk von Betonarbeiten bis Abbrucharbeiten
 - VOB/B § 12 Abnahme: Abnahmevoraussetzungen, Teilabnahme, Abnahmeprotokoll-Pflicht, Faelligkeitsbeginn Maengelansprueche
-- DIN EN ISO 9001:2015 Qualitaetsmanagementsysteme: Pruefpflichten, Nachweisdokumentation, Lieferantenbewertung als Rahmen fuer Checklistensystem
+- DIN EN ISO 9001:2015 Qualitaetsmanagementsysteme: Pruefpflichten, Nachweisdokumentation, Lieferantenbewertung als Rahmen für Checklistensystem
 
 ## Prueferaster und Kontrollpunkte
 
@@ -60,7 +60,7 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 - PlanRadar Abnahmecheckliste: Grundrissplan als Hintergrund, Pruefpunkte auf Flaeche verortet, GPS-Tag, Zeitstempel, Foto-Pflicht
 - BIM360 Checklist-Modul: Pruefpunkte an IFC-Bauteile verknuepft, Status in 3D-Modell farblich, Exportpaket Abnahme-Dokumentation
 - Procore Quality Management: Abnahmechecklisten mit Punch-List-Funktion, Foto-Pflicht je Mangel, Kostenstellen-Zuordnung
-- SAP PM Pruefplan: Planmaessige Erstpruefung als Prueflos konfiguriert, Checklisten-Ergebnis als Messwert-Erfassung, Statistik-Auswertung
+- SAP PM Pruefplan: Planmäßige Erstpruefung als Prueflos konfiguriert, Checklisten-Ergebnis als Messwert-Erfassung, Statistik-Auswertung
 
 ## Meldungserstellung im ERP / SAP
 

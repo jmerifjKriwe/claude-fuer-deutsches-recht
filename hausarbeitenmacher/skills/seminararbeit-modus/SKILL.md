@@ -1,13 +1,13 @@
 ---
 name: seminararbeit-modus
-description: "Student schreibt Seminararbeit mit persoenlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Forschungsfrage These Argumentation Disputation-Vorbereitung. Output Seminararbeit-Struktur Forschungsfragen-Entwurf. Abgrenzung zu hausarbeit-workflow-start (Standard-Hausarbeit) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student schreibt Seminararbeit mit persönlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Forschungsfrage These Argumentation Disputation-Vorbereitung. Output Seminararbeit-Struktur Forschungsfragen-Entwurf. Abgrenzung zu hausarbeit-workflow-start (Standard-Hausarbeit) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Seminararbeit-Modus
 
 ## Arbeitsbereich
 
-Student schreibt Seminararbeit mit persoenlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Forschungsfrage These Argumentation Disputation-Vorbereitung. Output Seminararbeit-Struktur Forschungsfragen-Entwurf. Abgrenzung zu hausarbeit-workflow-start (Standard-Hausarbeit). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student schreibt Seminararbeit mit persönlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Forschungsfrage These Argumentation Disputation-Vorbereitung. Output Seminararbeit-Struktur Forschungsfragen-Entwurf. Abgrenzung zu hausarbeit-workflow-start (Standard-Hausarbeit). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ Student schreibt Seminararbeit mit persoenlicher Lekture durch Lehrkraft: Forsch
 1. Wie lautet die genaue Forschungsfrage oder das Seminar-Thema?
 2. Welchen wissenschaftlichen Standpunkt oder welche These soll die Arbeit entwickeln?
 3. Gibt es Pflicht-Literaturquellen, die vom Lehrstuhl vorgegeben wurden?
-4. In welchem Format soll der Vortrag erfolgen und wie viel Zeit steht fuer Disputation zur Verfügung?
+4. In welchem Format soll der Vortrag erfolgen und wie viel Zeit steht für Disputation zur Verfügung?
 
 ## Aktuelle Rechtsprechung und Methodik
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

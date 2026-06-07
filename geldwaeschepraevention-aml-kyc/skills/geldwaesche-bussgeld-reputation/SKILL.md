@@ -21,9 +21,9 @@ Strukturierung von Bußgeldriskien Geschäftsleiterhaftung und Reputationsschaed
 1. Liegt ein BaFin-Bußgeldverfahren, eine Staatsanwaltschaftliche Ermittlung oder eine Presseanfrage vor?
 2. Wer ist verantwortliche Person: Geldwäschebeauftragter, Geschaeftsfuehrer oder Verwaltungsrat?
 3. Welche Remediation-Massnahmen wurden bereits eingeleitet?
-4. Gibt es eine externe Kommunikations- oder PR-Strategie fuer den Reputationsschaden?
+4. Gibt es eine externe Kommunikations- oder PR-Strategie für den Reputationsschaden?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen

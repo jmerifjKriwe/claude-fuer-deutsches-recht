@@ -19,7 +19,7 @@ Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablau
 
 ## Mandantenfall
 
-- BAFA kuendigt Aussenpruefung fuer den naechsten Monat an; Unternehmen muss sich vorbereiten.
+- BAFA kuendigt Aussenpruefung für den naechsten Monat an; Unternehmen muss sich vorbereiten.
 - Zollbetriebspruefung deckt Fehler bei Praeferenzursprungsangaben auf; Nachzoll droht.
 - Laufende Zollpruefung geht in strafrechtliche Ermittlung ueber; Rechtsanwalt sofort einschalten.
 
@@ -28,13 +28,13 @@ Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablau
 1. Pruefungsankuendigung analysieren: Pruefungsgegenstand, Zeitraum, Pruefungsteam.
 2. Relevante Unterlagen zusammenstellen und Lueckenanalyse durchfuehren.
 3. Auskunftspflichtige Mitarbeiter identifizieren und briefen (keine Spontanaussagen).
-4. Rechtsanwalt fuer Pruefungsbegleitung einschalten.
+4. Rechtsanwalt für Pruefungsbegleitung einschalten.
 5. Pruefung protokollieren: alle Fragen, Antworten und ausgehaendigten Unterlagen dokumentieren.
 6. Bei Uebergang zu Ermittlung: sofort Schweigerecht belehren und Verteidiger beiziehen.
 
 ## Rechtsrahmen
 
-- **AWG § 14**: Auskunftspflichten gegenueber Behoerden.
+- **AWG § 14**: Auskunftspflichten gegenueber Behörden.
 - **§ 393 AO**: Steuerliche Auskunftspflicht und strafrechtliches Schweigerecht.
 - **UZK Art. 48**: Zollamtliche Pruefung; Rechte und Pflichten.
 - **§ 148 AO**: Akteneinsicht und Gegendarstellung.
@@ -53,14 +53,14 @@ Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablau
 
 - Spontanaussagen von Mitarbeitern ohne Rechtsberatung koennen Ermittlungen ausloesen.
 - Unterlagen aushändigen ohne Kopie behalten; Kontrollverlust ueber Beweislage.
-- Auskunftspflicht nach AWG gilt nicht fuer selbstbelastende Angaben.
+- Auskunftspflicht nach AWG gilt nicht für selbstbelastende Angaben.
 - Zollpruefung und BAFA-Pruefung laufen parallel; keine koordinierte Verteidigung.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

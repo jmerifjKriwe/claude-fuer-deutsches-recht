@@ -19,11 +19,11 @@ Loeschpflicht und Archivierung bei juristischer Fachzeitschrift: DSGVO Art. 17 R
 
 ## Worum geht es konkret
 
-Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-Archiv, weil dort identifizierbare Daten stehen (Aktenzeichen, Name, Lebenslauf, Lichtbild). Der Skill schluesselt die Abwaegung Loeschpflicht vs. Archivinteresse vs. Pressefreiheit nach DSGVO Art. 17 und dem Medienprivileg (Art. 85 DSGVO, MStV) und liefert Mustertexte fuer Ablehnung, Anonymisierung und Loeschung.
+Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-Archiv, weil dort identifizierbare Daten stehen (Aktenzeichen, Name, Lebenslauf, Lichtbild). Der Skill schluesselt die Abwaegung Loeschpflicht vs. Archivinteresse vs. Pressefreiheit nach DSGVO Art. 17 und dem Medienprivileg (Art. 85 DSGVO, MStV) und liefert Mustertexte für Ablehnung, Anonymisierung und Loeschung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-1. Wer verlangt was (Betroffener, Anwalt, Behoerde, Gericht)?
+1. Wer verlangt was (Betroffener, Anwalt, Behörde, Gericht)?
 2. Welche Daten (Name, Az., Verfahrensdetails, Bild)?
 3. Welches Medium (Online-Zeitschrift, Datenbank, Volltextarchiv, Loseblatt-Onlineversion)?
 4. Wann wurde der Beitrag erstveroeffentlicht (Aktualitaet sinkt mit Zeit)?
@@ -35,13 +35,13 @@ Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-
 
 - DSGVO Art. 17 - Recht auf Loeschung; Art. 18 Einschraenkung; Art. 21 Widerspruch.
 - DSGVO Art. 85 - Medienprivileg; nationaler Umsetzungsspielraum.
-- MStV §§ 9c-g und LDSG-Mediengesetze - Datenschutz-Regelungen fuer journalistisch-redaktionelle Telemedien.
+- MStV §§ 9c-g und LDSG-Mediengesetze - Datenschutz-Regelungen für journalistisch-redaktionelle Telemedien.
 - KUG §§ 22, 23 - Bildnisrecht.
 - BVerfG, st. Rspr. zum Resozialisierungsgrundsatz (Lebach-Entscheidung BVerfGE 35, 202; zur Pruefung am Wortlaut unter bundesverfassungsgericht.de).
 - BGH-Rechtsprechung zu Suchmaschinen-Auslistung und Online-Archivpflege; Folgeentscheidungen nach EuGH Google Spain (C-131/12).
 - UrhG § 51 - Zitatrecht (bei Anonymisierung von Zitierten).
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Eingang.** Loeschungsbegehren protokollieren mit Datum und Frist (DSGVO: einen Monat zur Antwort, verlaengerbar).
 2. **Pruefraster anwenden.**
@@ -112,7 +112,7 @@ geprueft.
 
 Eine vollstaendige Loeschung lehnen wir ab. Begruendung:
 - Der Beitrag dient der wissenschaftlichen Aufbereitung von [...].
-- Das oeffentliche Informationsinteresse ueberwiegt im Sinne von
+- Das öffentliche Informationsinteresse ueberwiegt im Sinne von
  DSGVO Art. 85 und der nationalen Mediengesetze.
 
 Im Rahmen der Abwaegung haben wir jedoch beschlossen, im Beitrag
@@ -126,7 +126,7 @@ Die Anonymisierung wird in der Online-Ausgabe und in den Datenbanken
 bleibt unveraendert.
 
 Gegen diese Entscheidung steht Ihnen das Recht auf Beschwerde bei
-der zustaendigen Aufsichtsbehoerde (DSGVO Art. 77) und der Rechtsweg
+der zuständigen Aufsichtsbehoerde (DSGVO Art. 77) und der Rechtsweg
 offen.
 
 Mit freundlichen Gruessen
@@ -145,7 +145,7 @@ angaben. Inhaltliche Aenderungen wurden nicht vorgenommen.
 
 ## Typische Fehler / Pitfalls
 
-- Loeschung ohne Pruefung des Medienprivilegs - Schaden fuer Archivlogik.
+- Loeschung ohne Pruefung des Medienprivilegs - Schaden für Archivlogik.
 - Anonymisierung im Online-Volltext, aber nicht in der Datenbank - Inkonsistenz.
 - Begruendung der Ablehnung fehlt - Beschwerde bei Aufsichtsbehoerde wahrscheinlich.
 - Backup wird nicht angepasst - bei Restore wird Original wiederhergestellt.
@@ -164,7 +164,7 @@ angaben. Inhaltliche Aenderungen wurden nicht vorgenommen.
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 12, 17, 18, 21, 77, 85 - Loeschung, Beschraenkung, Widerspruch, Beschwerde, Medienprivileg.
-- MStV §§ 9c-g - Datenschutz fuer journalistisch-redaktionelle Telemedien.
+- MStV §§ 9c-g - Datenschutz für journalistisch-redaktionelle Telemedien.
 - LDSG-Mediengesetze (z. B. NRW LMG) - jeweilige Landesfassung.
 - KUG §§ 22, 23 - Bildnisrecht.
 - BVerfG, Lebach (Volltext unter bundesverfassungsgericht.de); aktuelle Anschluss-Rechtsprechung pruefen.

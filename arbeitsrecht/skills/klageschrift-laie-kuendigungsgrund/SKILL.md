@@ -12,7 +12,7 @@ description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht:
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `kueschk-klageschrift-laie-baustein` | Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-fuer-Schritt zum Selbstausfuellen mit Warnkopf. |
+| `kueschk-klageschrift-laie-baustein` | Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum Selbstausfuellen mit Warnkopf. |
 | `kueschk-kuendigungsgrund-personen-verhalten-betrieb` | Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts. |
 | `kueschk-muendliche-verhandlung-praxistipps-laie` | Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten; Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stressbewaeltigung und Dokumentation. |
 | `kueschk-paragraph-12-kschg-neuer-job-einseitig` | § 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und Empfehlung. |
@@ -28,7 +28,7 @@ description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht:
 
 ## 1. `kueschk-klageschrift-laie-baustein`
 
-**Fokus:** Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-fuer-Schritt zum Selbstausfuellen mit Warnkopf.
+**Fokus:** Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum Selbstausfuellen mit Warnkopf.
 
 # Klageschrift für Laien — Baustein
 
@@ -47,7 +47,7 @@ description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht:
 3. Welches Arbeitsgericht ist zuständig? (Sitz des Betriebs oder Wohnort)
 4. Gibt es einen offensichtlichen Formfehler (kein Original, per Fax etc.)?
 5. Soll Klage zu Protokoll erklärt werden oder schriftlich eingereicht werden?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -79,7 +79,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Klage ohne Anwalt am Arbeitsgericht einreichen | Vorlage unten vollstaendig ausfuellen; Frist drei Wochen ab Zugang |
-| Variante A — Mandant ist unentschlossen ob er klagen will | Frist wahren durch Einreichen; Ruecknahme spaeter noch moeglich |
+| Variante A — Mandant ist unentschlossen ob er klagen will | Frist wahren durch Einreichen; Rücknahme spaeter noch moeglich |
 | Variante B — Klaeger will eigentlich Abfindung | Klage als Druckmittel; im Guetetermin Abfindungsgespraech ansprechen |
 | Variante C — Beratungshilfe oder PKH noetig | Antrag zeitgleich stellen; Klage unabhaengig davon einreichen |
 
@@ -257,7 +257,7 @@ Mehrere Gründe kombiniert? → Alle Pfade prüfen, schwächsten angreifen
 - Personenbedingte Kuendigung (Krankheit) / BEM-Pflicht: BAG, 20.11.2014 - 2 AZR 755/13 (Initiativlast AG, Datenschutzunterrichtung); BAG, 18.11.2021 - 2 AZR 138/21 (erneutes BEM bei > 6 Wochen AU); BAG, 15.12.2022 - 2 AZR 162/22 (Integrationsamtszustimmung entbindet nicht von BEM). Quellen: dejure.org-Vernetzungen.
 - Betriebsbedingte Kuendigung / Massenentlassung: BAG, 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22 (Unwirksamkeit bei Anzeigefehlern); EuGH, 30.10.2025 - C-134/24 und C-402/24. Quellen: dejure.org-Vernetzungen.
 - Verhaltensbedingte Kuendigung / Abmahnung / Verschulden: Standardrechtsprechung; konkretes Aktenzeichen vor Schriftsatzverwendung in dejure.org / openjur.de verifizieren.
-- Subjektive Determinationstheorie der BR-Anhoerung: BAG, 27.02.1997 - 2 AZR 302/96 (Standardlinie); BAG, 05.02.1998 - 2 AZR 227/97. Quellen: dejure.org-Vernetzungen.
+- Subjektive Determinationstheorie der BR-Anhörung: BAG, 27.02.1997 - 2 AZR 302/96 (Standardlinie); BAG, 05.02.1998 - 2 AZR 227/97. Quellen: dejure.org-Vernetzungen.
 
 ## Quellenregel
 

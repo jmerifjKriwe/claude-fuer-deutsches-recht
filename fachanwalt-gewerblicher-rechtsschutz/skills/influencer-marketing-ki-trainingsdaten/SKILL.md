@@ -240,22 +240,22 @@ Anschluss-Skills: `spezial-urhg-livequellen-und-rechtsprechungscheck`, `uwg-syst
 
 1. **Schriftsatztyp:** Abmahnung, einstweiliger Verfuegungsantrag, Unterlassungsklage, Loeschungsklage Marke oder Schadensersatzklage?
 2. **Anspruchsgrundlage:** §§ 14, 18, 19 MarkenG? §§ 38 ff. DesignG? §§ 3 ff. UWG? §§ 97 ff. UrhG? §§ 139 ff. PatG?
-3. **Zustaendigkeit:** LG (Markenkammern) oder Spezialgerichte? OLG als Beschwerdegericht?
+3. **Zuständigkeit:** LG (Markenkammern) oder Spezialgerichte? OLG als Beschwerdegericht?
 4. **Fristen:** Klage-/Widerspruchs-/Einspruchs-/Beschwerdefrist eingehalten und notiert?
 5. **Beweislage:** Welche Urkunden, Zeugen, Sachverstaendige stehen zur Verfuegung?
 6. **Gegnerische Einwaende vorausschauen:** Was wird die Gegenseite entgegenhalten?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
 Markenrecht:
-§ 14 Abs. 2 MarkenG (Verletzung) → § 14 Abs. 5 MarkenG (Unterlassung) → § 14 Abs. 6 MarkenG (Schadensersatz) → § 18 MarkenG (Vernichtung/Rueckruf) → § 19 MarkenG (Auskunft) → §§ 195, 199 BGB (Verjaehrung 3 Jahre)
+§ 14 Abs. 2 MarkenG (Verletzung) → § 14 Abs. 5 MarkenG (Unterlassung) → § 14 Abs. 6 MarkenG (Schadensersatz) → § 18 MarkenG (Vernichtung/Rueckruf) → § 19 MarkenG (Auskunft) → §§ 195, 199 BGB (Verjährung 3 Jahre)
 
 UWG:
 § 3 UWG (Generalklausel) → § 3a/§ 5/§ 7 UWG (Tatbestand) → § 8 Abs. 1 UWG (Unterlassung) → § 8 Abs. 3 UWG (Aktivlegitimation) → § 9 UWG (Schadensersatz) → § 13 Abs. 3 UWG (Abmahnkosten) → § 8c UWG (Missbrauch)
 
 DesignG:
-§ 38 Abs. 1 DesignG (Unterlassung) → § 42 DesignG (Schadensersatz) → § 43 DesignG (Auskunft) → §§ 195, 199 BGB (Verjaehrung)
+§ 38 Abs. 1 DesignG (Unterlassung) → § 42 DesignG (Schadensersatz) → § 43 DesignG (Auskunft) → §§ 195, 199 BGB (Verjährung)
 
 ## Aufbauschema Schriftsatz
 
@@ -263,7 +263,7 @@ DesignG:
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen; Streitwert.
 
 ### B. Antraege
@@ -300,7 +300,7 @@ DesignG:
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 
-## Zentrale Rechtsprechung fuer Substantiierung
+## Zentrale Rechtsprechung für Substantiierung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -348,10 +348,10 @@ mit den folgenden Antraegen:
 
 I. ANTRAEGE
 
-1. Die Beklagte wird verurteilt, es bei Meidung eines fuer jeden Fall der
+1. Die Beklagte wird verurteilt, es bei Meidung eines für jeden Fall der
  Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu 250.000 EUR, ersatzweise
  Ordnungshaft, zu unterlassen, im geschaeftlichen Verkehr das Zeichen [ZEICHEN]
- fuer Waren/Dienstleistungen der Klasse [X] zu benutzen.
+ für Waren/Dienstleistungen der Klasse [X] zu benutzen.
 
 2. Die Beklagte wird verurteilt, der Klaegerin Auskunft zu erteilen ueber
  [UMFANG AUSKUNFTSANSPRUCH § 19 MarkenG].
@@ -394,7 +394,7 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 1. Antrag tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-Konformitaet (PDF/A, ERVV-Signatur)?

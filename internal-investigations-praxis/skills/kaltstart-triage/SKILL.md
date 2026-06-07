@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg fuer Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht."
+description: "Einstieg für Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht."
 ---
 
 # Kaltstart Internal Investigation

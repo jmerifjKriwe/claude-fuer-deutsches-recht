@@ -25,7 +25,7 @@ Keine Rueckfrage noetig.
 - **NKRG** § 4 — methodische Bezugnahme
 - **OECD-SKM** — internationale Grundlage
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Standard-Kapitelstruktur des Leitfadens (Ueberblick)
 

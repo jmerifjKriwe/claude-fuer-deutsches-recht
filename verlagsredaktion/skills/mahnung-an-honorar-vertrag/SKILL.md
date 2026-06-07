@@ -1,13 +1,13 @@
 ---
 name: mahnung-an-honorar-vertrag
-description: "Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB § 286 und § 323, Verjaehrungspruefung, Mustertexte und gerichtliche Geltendmachung im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB § 286 und § 323, Verjährungspruefung, Mustertexte und gerichtliche Geltendmachung im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mahnung an Autor
 
 ## Arbeitsbereich
 
-Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB § 286 und § 323, Verjaehrungspruefung, Mustertexte und gerichtliche Geltendmachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB § 286 und § 323, Verjährungspruefung, Mustertexte und gerichtliche Geltendmachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,14 +19,14 @@ Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stu
 
 ## Worum geht es konkret
 
-Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach Retoure-Bereinigung), nicht abgegoltener Vorschuss bei Manuskript-Verzug, Rueckforderung wegen mangelhafter Werkleistung, doppelte Auszahlung. Der Skill beschreibt das Stufenmodell der Mahnung, die Anforderungen an einen Schuldnerverzug, die Verjaehrungspruefung und die gerichtliche Geltendmachung (Mahnbescheid, Klage).
+Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach Retoure-Bereinigung), nicht abgegoltener Vorschuss bei Manuskript-Verzug, Rueckforderung wegen mangelhafter Werkleistung, doppelte Auszahlung. Der Skill beschreibt das Stufenmodell der Mahnung, die Anforderungen an einen Schuldnerverzug, die Verjährungspruefung und die gerichtliche Geltendmachung (Mahnbescheid, Klage).
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welche Forderung in welcher Hoehe (EUR, Faelligkeit, Rechtsgrund)?
 2. Gibt es eine schriftliche Anerkennung (Vertrag, Abrechnung)?
 3. Hat der Autor schon reagiert (gar nicht, Ablehnung, Teilzahlung, Vergleichsangebot)?
-4. Verjaehrungslage (Frist nach BGB § 195 grundsaetzlich 3 Jahre)?
+4. Verjährungslage (Frist nach BGB § 195 grundsaetzlich 3 Jahre)?
 5. Ist der Autor Verbraucher oder Unternehmer (BGB § 13/14)?
 6. Eilbedarf (Zahlungsunfaehigkeitsgefahr, Vermoegensverfall)?
 7. Mahnung allein oder Eskalation an Inkasso / Justiziariat?
@@ -41,23 +41,23 @@ Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach
 - ZPO §§ 688 ff. - Mahnverfahren; ZPO § 690 - Antrag auf Erlass eines Mahnbescheids.
 - BGB § 309 Nr. 5 - Pauschalierter Schadensersatz und Mahnkosten in AGB (AGB-Schranke!).
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Forderung sauber ermitteln.** Hoehe, Faelligkeit, Rechtsgrund, Belege.
-2. **Verjaehrungspruefung.** Wann begann die Verjaehrung? Drohen Massnahmen vor Jahresende?
+2. **Verjährungspruefung.** Wann begann die Verjährung? Drohen Massnahmen vor Jahresende?
 3. **Erste Zahlungsaufforderung** (freundlich, ohne juristische Drohung). Frist 14 Tage.
 4. **Zweite Zahlungsaufforderung** mit Nachfristsetzung gemaess BGB § 286. Ankuendigung der Verzugszinsen.
 5. **Dritte Mahnung** - letzte Mahnung mit Ankuendigung gerichtlicher Schritte. Frist 14 Tage.
-6. **Mahnbescheid (ZPO §§ 688 ff.)** beim Mahngericht (oertlich zustaendig nach Wohnsitz). Kosten gering, hemmt Verjaehrung.
+6. **Mahnbescheid (ZPO §§ 688 ff.)** beim Mahngericht (oertlich zuständig nach Wohnsitz). Kosten gering, hemmt Verjährung.
 7. **Bei Widerspruch:** Streitige Verfahren - Klage einreichen oder Klage abgeben.
-8. **Vollstreckungsbescheid** bei keinem Widerspruch nach 2 Wochen; Titel fuer Zwangsvollstreckung.
+8. **Vollstreckungsbescheid** bei keinem Widerspruch nach 2 Wochen; Titel für Zwangsvollstreckung.
 9. **Parallel:** Vergleichsangebot pruefen (siehe `verl-vergleichsverhandlung-mit-autor`).
 
 ## Trade-off-Matrix
 
 | Aspekt | Schnelle gerichtliche Geltendmachung | Lange aussergerichtliche Mahnung |
 |---|---|---|
-| Verjaehrungssicher | Hoch | Niedrig |
+| Verjährungssicher | Hoch | Niedrig |
 | Beziehung zum Autor | Belastet | Geschont |
 | Kosten | Vorab Mahn-/Gerichtskosten | Niedriger |
 | Image | "Hartleibig" | "Geduldig" |
@@ -65,7 +65,7 @@ Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach
 
 ## Praxistipps der alten Redaktion
 
-- Mahnbescheid kurz vor Verjaehrungsende einreichen, wenn der Autor nicht reagiert.
+- Mahnbescheid kurz vor Verjährungsende einreichen, wenn der Autor nicht reagiert.
 - Vorletzte Mahnung immer per Einschreiben - bei Bestreiten der Zustellung Beweis.
 - Verzugszinsen nicht vergessen - die Buchhaltung uebersieht sie oft.
 - Bei Verbraucher-Autor (Privatperson) Verzug erst nach Mahnung; bei B2B Schuldnerverzug 30 Tage nach Faelligkeit, auch ohne Mahnung (BGB § 286 Abs. 3).
@@ -133,7 +133,7 @@ wie vor nicht beglichen.
 Wir setzen Ihnen letztmals eine Frist bis zum [Datum, 14 Tage].
 Sollte die Zahlung bis dahin nicht erfolgen, werden wir ohne weitere
 Ankuendigung einen Antrag auf Erlass eines Mahnbescheids (ZPO §§ 688 ff.)
-beim zustaendigen Mahngericht einreichen. Die hierdurch entstehenden
+beim zuständigen Mahngericht einreichen. Die hierdurch entstehenden
 Mehrkosten haben Sie dann zu tragen.
 
 Wir empfehlen Ihnen, sich kurzfristig mit uns in Verbindung zu setzen.
@@ -145,7 +145,7 @@ Mit freundlichen Gruessen
 ## Typische Fehler / Pitfalls
 
 - Mahnung ohne klare Fristsetzung - kein Verzugseintritt.
-- Verjaehrung uebersehen - Anspruch wird unerfuellbar (Einrede).
+- Verjährung uebersehen - Anspruch wird unerfuellbar (Einrede).
 - Mahnpauschale falsch bemessen - Korrektur erforderlich.
 - Mahnbescheid bei oertlich falschem Mahngericht - Verzoegerung.
 - Doppelmahnung an verschiedene Adressen, ohne Tilgungsbestimmung.
@@ -154,7 +154,7 @@ Mit freundlichen Gruessen
 ## Querverweise
 
 - `workflow-kaltstart-und-routing` - Eingangsroutung der Forderung.
-- `workflow-fristen-und-risikoampel` - Verjaehrungs- und Verzugsampel.
+- `workflow-fristen-und-risikoampel` - Verjährungs- und Verzugsampel.
 - `verl-vorschuss-pruefung-buecher` - bei Vorschussrueckforderungen.
 - `verl-tantieme-abrechnung-jaehrlich` - bei ueberzahlten Tantiemen.
 - `verl-vergleichsverhandlung-mit-autor` - aussergerichtliche Loesung.
@@ -162,7 +162,7 @@ Mit freundlichen Gruessen
 
 ## Quellen Stand 06/2026
 
-- BGB §§ 195, 199, 286, 288, 309 Nr. 5, 366, 812 - Verjaehrung, Verzug, Verzugszinsen, AGB-Schranke, Tilgungsbestimmung, Bereicherung.
+- BGB §§ 195, 199, 286, 288, 309 Nr. 5, 366, 812 - Verjährung, Verzug, Verzugszinsen, AGB-Schranke, Tilgungsbestimmung, Bereicherung.
 - VerlG § 33 - Folgen Nichtlieferung; Rueckforderung Vorschuss.
 - ZPO §§ 688-703d - Mahnverfahren, Vollstreckungsbescheid.
 - Basiszinssatz (Deutsche Bundesbank, halbjaehrliche Anpassung) unter bundesbank.de.

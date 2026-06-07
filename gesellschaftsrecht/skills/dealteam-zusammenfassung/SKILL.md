@@ -64,7 +64,7 @@ M&A-Teams brauchen je nach Ebene unterschiedliche Informationstiefe: Die Geschä
 - Deal-Kontext: Parteien, Transaktionsstruktur, Kaufpreis, Zieldatum Vollzug
 - Praxisprofil: `## M&A → Deal-Team-Briefing` (Rhythmus, Format, Adressat)
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ### Schritt 1: Quellen zusammenführen
 

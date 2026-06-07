@@ -42,21 +42,21 @@ Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freihei
 2. Nur in Ausnahmefaellen: kurze Freiheitsstrafe; das Gericht muss "besondere Umstaende" konkret benennen.
 3. Auch dann moeglichst mit Bewaehrung (§ 56 StGB).
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
+## Schritt-für-Schritt-Anleitung (Verteidigung)
 
-1. **Strafrahmen pruefen**: Sieht der Tatbestand Geldstrafe vor? Wenn nein, Klappentest fuer § 47 Abs. 2 StGB.
+1. **Strafrahmen pruefen**: Sieht der Tatbestand Geldstrafe vor? Wenn nein, Klappentest für § 47 Abs. 2 StGB.
 2. **Argumente gegen besondere Umstaende sammeln**:
  - Erstmaliger Verstoss.
  - Niedrige kriminelle Energie.
  - Soziale Integration: Beruf, Familie, intakte Bindungen.
- - Akute persoenliche Belastung (Sucht, Krise) bereits in Behandlung.
+ - Akute persönliche Belastung (Sucht, Krise) bereits in Behandlung.
  - Kein einschlaegiges Vorleben.
 3. **Tagessatz-Berechnung beilegen**, damit das Gericht Geldstrafe konkret verhaengen kann; vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`.
 4. **In der Hauptverhandlung** ausdruecklich beantragen: "Wir beantragen Verhaengung einer Geldstrafe; eine Freiheitsstrafe ist nach § 47 Abs. 1 StGB nicht unerlaesslich, da [...]."
 5. **Wenn doch kurze Freiheitsstrafe**: hilfsweise Bewaehrung (§ 56 StGB) sichern; vgl. `bewaehrung-56-stgb-positive-sozialprognose`.
-6. **In der Revision**: § 47 Abs. 1 StGB ist eine Vorschrift, deren Verletzung mit der Sachruege geltend gemacht werden kann; Begruendungsmangel im Urteil ist regelmaessiger Aufhebungsgrund.
+6. **In der Revision**: § 47 Abs. 1 StGB ist eine Vorschrift, deren Verletzung mit der Sachruege geltend gemacht werden kann; Begruendungsmangel im Urteil ist regelmäßiger Aufhebungsgrund.
 
-## Schritt-fuer-Schritt-Anleitung (Anklage)
+## Schritt-für-Schritt-Anleitung (Anklage)
 
 - Wenn kurze Freiheitsstrafe angestrebt wird, **konkret** vortragen, welche besonderen Umstaende vorliegen:
  - Einschlaegige Vorbelastung, mehrfache Bewaehrungsversager.

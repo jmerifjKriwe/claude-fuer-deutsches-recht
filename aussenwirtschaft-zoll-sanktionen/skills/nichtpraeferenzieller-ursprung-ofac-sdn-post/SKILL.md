@@ -1,13 +1,13 @@
 ---
 name: nichtpraeferenzieller-ursprung-ofac-sdn-post
-description: "Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln fuer HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung fuer Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket fuer Hauptzollamt im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln für HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung für Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket für Hauptzollamt im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nichtpraeferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis
 
 ## Arbeitsbereich
 
-Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln fuer HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung fuer Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket fuer Hauptzollamt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln für HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung für Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket für Hauptzollamt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,12 +21,12 @@ Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestim
 
 - Maschinenbauer assembliert in Deutschland Teile aus China; 'Made in Germany' korrekt verwendbar?
 - Antidumping-Massnahmen auf Ware aus China; Ursprung nach Zusammenbau in Polen wird geprueft.
-- Exporteur verwendet 'Made in EU' Kennzeichnung; Ursprungsberechnung fuer UZK-Zwecke geprueft.
+- Exporteur verwendet 'Made in EU' Kennzeichnung; Ursprungsberechnung für UZK-Zwecke geprueft.
 
 ## Erste Schritte
 
 1. HS-Code der Fertigware bestimmen.
-2. Ursprungsregel fuer den HS-Code nach UZK-DA Anhang 22-01 ermitteln (HS-Wechsel oder Wertschwell).
+2. Ursprungsregel für den HS-Code nach UZK-DA Anhang 22-01 ermitteln (HS-Wechsel oder Wertschwell).
 3. Wertschwell-Berechnung wenn Wertkriterium anwendbar (Nicht-Ursprungsmaterialienanteil am EXW-Preis).
 4. Letzte wesentliche Bearbeitung oder Verarbeitung feststellen.
 5. 'Made in Germany' Zulassigkeit pruefen: Kernprozess und wesentliche Teile in Deutschland.
@@ -35,15 +35,15 @@ Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestim
 ## Rechtsrahmen
 
 - **UZK Art. 59-61**: Nichtpraeferenzieller Ursprung, Definition und Kriterien.
-- **UZK-DA Art. 31-36**: Bearbeitungs- und Verarbeitungsregeln fuer nichtpraeferenziellen Ursprung.
-- **UZK-DA Anhang 22-01**: Listenregeln HS-Code-Wechsel fuer nichtpraeferenziellen Ursprung.
+- **UZK-DA Art. 31-36**: Bearbeitungs- und Verarbeitungsregeln für nichtpraeferenziellen Ursprung.
+- **UZK-DA Anhang 22-01**: Listenregeln HS-Code-Wechsel für nichtpraeferenziellen Ursprung.
 - **VO (EG) 1215/2009**: Antidumping-Ursprungsregeln (Referenz).
 - **UWG § 5**: Irrefuehrende 'Made in'-Angaben als Wettbewerbsverstoß.**
 
 ## Pruef-Raster
 
 - [ ] HS-Code der Fertigware eindeutig bestimmt?
-- [ ] Ursprungsregel nach UZK-DA Anhang 22-01 fuer HS-Code abgerufen?
+- [ ] Ursprungsregel nach UZK-DA Anhang 22-01 für HS-Code abgerufen?
 - [ ] HS-Wechsel-Anforderung bei allen Nicht-Ursprungsmaterialien geprueft?
 - [ ] Wertschwell-Berechnung mit EXW-Preis und Nicht-Ursprungsmaterialienwert?
 - [ ] 'Made in'-Bezeichnung wettbewerbsrechtlich zulassig?
@@ -52,7 +52,7 @@ Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestim
 ## Typische Fallstricke
 
 - Einfaches Assemblieren von Fertigteilen (Minimal Operations) verleiht keinen Ursprung.
-- HS-Wechsel muss fuer ALLE Nicht-Ursprungsmaterialien erfolgen, nicht nur die wichtigsten.
+- HS-Wechsel muss für ALLE Nicht-Ursprungsmaterialien erfolgen, nicht nur die wichtigsten.
 - 'Made in Germany' ist gesetzlich nicht definiert; Irrefuehrungs-Risiko nach UWG.
 - Antidumping-Umgehung durch Ursprungsverlagerung loest erhoehte Zollpruefung aus.
 
@@ -60,7 +60,7 @@ Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestim
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

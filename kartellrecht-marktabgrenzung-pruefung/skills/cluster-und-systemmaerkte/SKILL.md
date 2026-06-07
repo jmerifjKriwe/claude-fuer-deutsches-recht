@@ -1,13 +1,13 @@
 ---
 name: cluster-und-systemmaerkte
-description: "Behoerde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prüft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Prüfraster Pelikan-Doktrin Kyocera-Doktrin eigenständiger Aftermarkt Nachfragesteuerung Wechselkosten. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko. Abgrenzung: mehrseitige-maerkte-plattformen für Plattform-Spezifika im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Behörde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prüft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Prüfraster Pelikan-Doktrin Kyocera-Doktrin eigenständiger Aftermarkt Nachfragesteuerung Wechselkosten. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko. Abgrenzung: mehrseitige-maerkte-plattformen für Plattform-Spezifika im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Cluster- und Systemmärkte
 
 ## Arbeitsbereich
 
-Behoerde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prüft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Prüfraster Pelikan-Doktrin Kyocera-Doktrin eigenständiger Aftermarkt Nachfragesteuerung Wechselkosten. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko. Abgrenzung: mehrseitige-maerkte-plattformen für Plattform-Spezifika. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Behörde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prüft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Prüfraster Pelikan-Doktrin Kyocera-Doktrin eigenständiger Aftermarkt Nachfragesteuerung Wechselkosten. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko. Abgrenzung: mehrseitige-maerkte-plattformen für Plattform-Spezifika. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

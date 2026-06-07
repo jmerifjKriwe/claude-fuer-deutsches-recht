@@ -51,10 +51,10 @@ Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) 
 
 ## Land-spezifisches
 
-### BZSt-Zustaendigkeit
+### BZSt-Zuständigkeit
 
-- Bundeszentralamt fuer Steuern in Bonn (Aussenstelle Berlin-Schoeneberg).
-- Zustaendigkeit nach Quellensteuerart und Vertragsstaat.
+- Bundeszentralamt für Steuern in Bonn (Aussenstelle Berlin-Schoeneberg).
+- Zuständigkeit nach Quellensteuerart und Vertragsstaat.
 - Online-Portal BOP (BZSt-Online-Portal).
 
 ### Verfahren
@@ -68,8 +68,8 @@ Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) 
 
 Die BZSt-Antragsformulare sind nach Einkunftsart und Bezugsland strukturiert; das BZSt fuehrt sie online im BZSt-Online-Portal (BOP). Praktisch relevant sind:
 
-- **Antrag auf Erstattung der deutschen Kapitalertragsteuer und des Solidaritaetszuschlags** nach § 50c Abs. 3 EStG fuer auslaendische Dividendenempfaenger — Formularstamm "KapErtSt-Erstattung" (Stueck-Nummer aus BOP entnehmen).
-- **Antrag auf Erteilung einer Freistellungsbescheinigung** nach § 50c Abs. 2 EStG fuer kuenftige Zahlungen (Lizenzen § 50a, Dividenden) — vorab.
+- **Antrag auf Erstattung der deutschen Kapitalertragsteuer und des Solidaritaetszuschlags** nach § 50c Abs. 3 EStG für auslaendische Dividendenempfaenger — Formularstamm "KapErtSt-Erstattung" (Stueck-Nummer aus BOP entnehmen).
+- **Antrag auf Erteilung einer Freistellungsbescheinigung** nach § 50c Abs. 2 EStG für kuenftige Zahlungen (Lizenzen § 50a, Dividenden) — vorab.
 - **Antrag auf Erstattung der Steuer nach § 50a EStG** (Kuenstler, Sportler, Aufsichtsraete, Lizenzempfaenger).
 - **Auslaendische Ansaessigkeitsbescheinigung** der Heimatfinanzbehoerde des Glaeubigers als Anlage (z.B. IRS Form 6166 bei US-Empfaengern; HMRC-Bescheinigung bei UK; CFR-1 bei Polen; CRA-Bescheinigung bei Kanada).
 - **Doppelbesteuerungs-Erklaerung** bei Schachteldividenden (§ 43b EStG / Mutter-Tochter-Richtlinie) — separat.
@@ -85,20 +85,20 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 5. Einreichung digital ueber BOP oder ausnahmsweise postalisch.
 6. Bearbeitungsdauer: typ. 6 bis 24 Monate (Stand 05/2026 — aktuelle Dauer ueber BZSt-Newsletter pruefen).
 7. Bescheid; bei Ablehnung Einspruch innerhalb eines Monats.
-8. Klagebefugnis vor Finanzgericht Koeln (oertlich zustaendig fuer BZSt-Streitigkeiten).
+8. Klagebefugnis vor Finanzgericht Koeln (oertlich zuständig für BZSt-Streitigkeiten).
 
 ### Anti-Treaty-Shopping § 50d Abs. 3 EStG
 
 - Voraussetzung: Auslaendische Gesellschaft ist berechtigt UND die Beteiligten sind in gleichem Mass berechtigt OR es liegen wirtschaftliche oder sonstige beachtliche Gruende vor.
 - Substanztest: Personal, Geschaeftsraeume, eigene Geschaeftstaetigkeit.
 - Bei reiner Holding ohne Substanz: Entlastung verweigert.
-- Reform 2021 (AbzStEntModG, BGBl. 2021 I S. 1259): Look-Through-Test entschaerft, dafuer abgesicherter Hauptzweckstest (vgl. § 50d Abs. 3 EStG n.F.).
+- Reform 2021 (AbzStEntModG, BGBl. 2021 I S. 1259): Look-Through-Test entschaerft, dafür abgesicherter Hauptzweckstest (vgl. § 50d Abs. 3 EStG n.F.).
 
 ### Cum-Cum (§ 50j EStG)
 
 - Mindesthaltefrist 45 Tage innerhalb 91-Tage-Zeitraum um Dividendenstichtag.
 - Mindestrisiko 70 Prozent Beteiligungsrisiko.
-- Anwendung nur fuer beschraenkt Steuerpflichtige im DBA-Kontext.
+- Anwendung nur für beschraenkt Steuerpflichtige im DBA-Kontext.
 - Verstoss: keine Quellensteuerentlastung, ggf. Strafverfahren.
 
 ## Workflow
@@ -161,13 +161,13 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 - **Standardformulare aus dem BZSt-Online-Portal (BOP)**: das BOP listet nach Einkunftsart geordnete Antragsformulare; konkrete Bezeichnungen und Formularnummern aendern sich periodisch — vom Anwender vor jeder Antragstellung mit aktuellem BOP-Verzeichnis abgleichen. KEINE Formularnummern aus diesem Skill ohne aktuelle Verifikation in den Mandantenantrag uebernehmen.
 - **Substanzdokumentation aufbauen, bevor Antrag gestellt wird**: Stammbuch Geschaeftsfuehrungssitzungen mit Datum, Ort, Teilnehmer, Beschluessen; Personalliste mit Aufgaben; Mietvertrag und Foto Buero; Telefonliste; Bankvollmachten.
 - **Einspruchsfrist 1 Monat**: bei Ablehnung digital ueber BOP einlegen — keine Verzoegerung durch Postversand.
-- **FG Koeln zustaendig** fuer BZSt-Streitigkeiten — eigene Kammer fuer Internationales Steuerrecht.
+- **FG Koeln zuständig** für BZSt-Streitigkeiten — eigene Kammer für Internationales Steuerrecht.
 
 ## Trade-off-Tabelle
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Freistellungsbescheinigung vorab (§ 50c Abs. 2 EStG) vs. Erstattung (§ 50c Abs. 3 EStG) | vor Zahlung; bis zu 3 Jahre Geltung; reduzierter Einbehalt | nach Einbehalt; 4 Jahre Frist | bei regelmaessigen Zahlungen Pfad A; bei einmaligen Zahlungen Pfad B |
+| Freistellungsbescheinigung vorab (§ 50c Abs. 2 EStG) vs. Erstattung (§ 50c Abs. 3 EStG) | vor Zahlung; bis zu 3 Jahre Geltung; reduzierter Einbehalt | nach Einbehalt; 4 Jahre Frist | bei regelmäßigen Zahlungen Pfad A; bei einmaligen Zahlungen Pfad B |
 | MTRL (§ 43b EStG) vs. DBA-Erstattung | EU-MTRL 0 Prozent bei 10 Prozent Beteiligung, 12 Monate | DBA-Hoechstsatz 5/15 Prozent | MTRL vorrangig — antragsfaehig beim BZSt parallel |
 | Substanz aufbauen vs. Briefkasten-Holding | Personal, Buero, Geschaeftstaetigkeit, Investitionsentscheidungen | Briefkasten / Treuhandverwaltung | bei wesentlichen Erstattungsvolumina Substanz |
 | Einspruch vs. Klage | Verwaltungsverfahren beim BZSt, dann FG Koeln | Direkt Klage bei FG Koeln nach Einspruchsablehnung | erst Einspruch, dann Klage — sonst Unzulaessigkeit |
@@ -177,7 +177,7 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 ## Was Reviewer/Pruefer triggert
 
 - **Falsche BZSt-Antragsformular-Bezeichnung** oder veraltete Formularnummer.
-- **Ansaessigkeitsbescheinigung veraltet** (ueber ein Jahr alt, fuer das betreffende Veranlagungsjahr nicht gueltig).
+- **Ansaessigkeitsbescheinigung veraltet** (ueber ein Jahr alt, für das betreffende Veranlagungsjahr nicht gueltig).
 - **§ 50d Abs. 3 EStG-Substanz nur behauptet, nicht dokumentiert** — Pruefer verlangt Personalliste, Foto Buero, Stammbuch.
 - **§ 50j EStG-Cum-Cum-Frist nicht eingehalten** — Pruefer prueft Stichtagsbuch.
 - **Steuerbescheinigung des deutschen Schuldners fehlt** oder ist unvollstaendig.

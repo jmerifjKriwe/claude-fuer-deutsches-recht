@@ -1,13 +1,13 @@
 ---
 name: laenderrecht-und-rechtszersplitterung
-description: "Deutsche Rechtsgeschichte: Laenderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Laenderrecht und Rechtszersplitterung
+# Länderrecht und Rechtszersplitterung
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Laenderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,11 +19,11 @@ Deutsche Rechtsgeschichte: Laenderrecht und Rechtszersplitterung. Partikularrech
 
 ## Worum es geht
 
-Vor dem BGB 1900 war Deutschland privatrechtlich zersplittert: Ca. 30-40 verschiedene Rechtsordnungen galten in den deutschen Territorien nebeneinander. Hauptsysteme: Gemeines Recht (roemisch-kanonisch, in Norddeutschland und Mitteldeutschland), ALR (Preussen), Code Civil/rheinisches Recht (Westdeutschland), Oesterreichisches ABGB (Sued- und Suedwestdeutschland). Das EGBGB 1900 enthielt Uebergangsvorschriften und bewahrte bestimmtes Landesrecht. Nach 1949 schuf das GG eine Kompetenzverteilung: Zivilrecht ist Bundesrecht (Art. 74 Abs. 1 Nr. 1 GG), aber Bauordnungsrecht, Kommunalrecht, Teile des Beamtenrechts sind Laenderrecht.
+Vor dem BGB 1900 war Deutschland privatrechtlich zersplittert: Ca. 30-40 verschiedene Rechtsordnungen galten in den deutschen Territorien nebeneinander. Hauptsysteme: Gemeines Recht (roemisch-kanonisch, in Norddeutschland und Mitteldeutschland), ALR (Preussen), Code Civil/rheinisches Recht (Westdeutschland), Oesterreichisches ABGB (Sued- und Suedwestdeutschland). Das EGBGB 1900 enthielt Uebergangsvorschriften und bewahrte bestimmtes Landesrecht. Nach 1949 schuf das GG eine Kompetenzverteilung: Zivilrecht ist Bundesrecht (Art. 74 Abs. 1 Nr. 1 GG), aber Bauordnungsrecht, Kommunalrecht, Teile des Beamtenrechts sind Länderrecht.
 
 ## Kernnormen / Kernquellen
 
-- **EGBGB Art. 55-245** (historisch): Uebergangsrecht fuer Landesrecht bei BGB-Einfuehrung
+- **EGBGB Art. 55-245** (historisch): Uebergangsrecht für Landesrecht bei BGB-Einfuehrung
 - **GG Art. 74 Abs. 1 Nr. 1**: Buergerliches Recht als konkurrierende Bundesgesetzgebung
 - **GG Art. 72**: Voraussetzungen bundesrechtlicher Vorrang
 - **ABGB (Oesterreich, 1811)**: Einfluss in sueddeutschen Gebieten bis 1900
@@ -33,15 +33,15 @@ Vor dem BGB 1900 war Deutschland privatrechtlich zersplittert: Ca. 30-40 verschi
 
 - **Einzelstaaten vor 1871**: Quellen des Partikularrechts
 - **Bundesjustizministerium**: Vereinheitlichung oder Bewahrung Landesrecht
-- **Bundesrat**: Laenderinteressen in der Gesetzgebung
-- **Landesgesetzgeber**: Fortgehendes Laenderrecht in GG-Bereichen
+- **Bundesrat**: Länderinteressen in der Gesetzgebung
+- **Landesgesetzgeber**: Fortgehendes Länderrecht in GG-Bereichen
 
 ## Typische Streitfragen / Forschungsfragen
 
 1. Rechtszersplitterung vor 1900: War sie nur Nachteil oder hatte sie Vorteile?
-2. EGBGB-Uebergangsrecht: Was blieb tatsaechlich als Laenderrecht?
+2. EGBGB-Uebergangsrecht: Was blieb tatsaechlich als Länderrecht?
 3. HoefeO: Ist Anerbenrecht verfassungskonform?
-4. Foederales Privatrecht: Sollte Deutschland mehr Laenderrecht im Zivilrecht zugelassen haben?
+4. Foederales Privatrecht: Sollte Deutschland mehr Länderrecht im Zivilrecht zugelassen haben?
 5. Bayern vs. Bundesrecht: Konservative Landesrechtstrends in Familien- und Erbrecht
 
 ## Methodik

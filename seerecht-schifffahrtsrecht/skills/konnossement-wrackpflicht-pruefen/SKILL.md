@@ -1,13 +1,13 @@
 ---
 name: konnossement-wrackpflicht-pruefen
-description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konnossement – Wrackbeseitigungspflicht prüfen
 
 ## Arbeitsbereich
 
-Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -39,7 +39,7 @@ Ein Konnossements-Transaktion (Bill of Lading) sinkt in deutschen Gewässern; WS
 - Bestehen Umweltschadensrisiken (Bunkeröl/Chemikalien) beim Konnossements-Transaktion (Bill of Lading)?
 
 ## Typische Fallstricke
-- WRC gilt auch fuer Freizeitjachten ab 14 Meter Laenge.
+- WRC gilt auch für Freizeitjachten ab 14 Meter Laenge.
 - Behoerdliche Ersatzvornahme begründet Kostenerstattungsanspruch mit Vorrang.
 - Bei Konnossements-Transaktion (Bill of Lading) unter Auslandsflagge kommen Flaggenstaat-Pflichten hinzu.
 

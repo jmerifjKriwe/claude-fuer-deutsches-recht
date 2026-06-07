@@ -1,6 +1,6 @@
 ---
 name: umwandlungsrecht
-description: "Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Prüfraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Gläubigerschutz steuerliche Rückwirkung M&A-Zeitplan. Output Umwandlungs-mit Schritt-fuer-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur."
+description: "Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Prüfraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Gläubigerschutz steuerliche Rückwirkung M&A-Zeitplan. Output Umwandlungs-mit Schritt-für-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur."
 ---
 
 # Umwandlungsrecht
@@ -29,7 +29,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -121,9 +121,9 @@ Bearbeitet Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringung und 
 
 - §§ 2-38 UmwG — Verschmelzung: Vertrag, Bericht, Pruefung, Beschluss, Anmeldung; Gesamtrechtsnachfolge
 - §§ 123-137 UmwG — Spaltung (Aufspaltung, Abspaltung, Ausgliederung): Spaltungsplan, Beschluss
-- §§ 311-312 UmwG — Ausgliederung zur Neugründung: erleichterte Form fuer Carve-out
+- §§ 311-312 UmwG — Ausgliederung zur Neugründung: erleichterte Form für Carve-out
 - §§ 190-213 UmwG — Formwechsel: keine Vermoegensuebertragung; Identitaetswahrung des Rechtsträgers
-- § 22 UmwG — Glaeubigerschutz: auf Verlangen Sicherheitsleistung fuer ungesicherte Glaeubiger
+- § 22 UmwG — Glaeubigerschutz: auf Verlangen Sicherheitsleistung für ungesicherte Glaeubiger
 - § 325 UmwG — Spruchverfahren: Barabfindung und Abfindungsangebot bei Formwechsel und Ausgliederung
 - § 324 UmwG i.V.m. § 613a BGB — Arbeitnehmeruebergang kraft Gesetzes bei Ausgliederung; Unterrichtungspflicht
 - §§ 2 Abs. 1, 20 Abs. 5 UmwStG — steuerliche Rueckwirkung bei Verschmelzung und Einbringung: maximal 12 Monate
@@ -135,16 +135,16 @@ Bearbeitet Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringung und 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
-1. **Umwandlungstyp bestimmen:** Verschmelzung, Abspaltung, Ausgliederung, Formwechsel — massgeblich fuer Form und Gremien
+1. **Umwandlungstyp bestimmen:** Verschmelzung, Abspaltung, Ausgliederung, Formwechsel — massgeblich für Form und Gremien
 2. **Zeitplan aufstellen:** Notartermin, Beschlussfassung, Registereintragung (i.d.R. 2-4 Monate ab Beschluss); Steuerliche Rueckwirkungsfrist einhalten (§§ 2 Abs. 1, 20 Abs. 5 UmwStG)
 3. **Beschluesse vorbereiten:** Gesellschafterversammlung/Hauptversammlung mit notarieller Beurkundung; Mehrheitserfordernisse pruefen (§ 50 UmwG: 75 % bei GmbH)
 4. **Bericht erstellen:** Geschaeftsfuehrung/Vorstand muss Umwandlungsbericht erstellen (§§ 8, 127 UmwG); bei Pruefungspflicht: externer Pruefer
 5. **Glaeubigerschutz sicherstellen:** § 22 UmwG — Glaeubiger koennen Sicherheitsleistung verlangen; Ankuendigung und Frist beachten
 6. **Arbeitnehmerinformation:** § 324 UmwG i.V.m. § 613a BGB — schriftliche Unterrichtung der uebernommenen Arbeitnehmer; Betriebsrat informieren
 7. **Anmeldung zum HR:** notariell beglaubigte Anmeldung zum Handelsregister; Eintragung konstitutiv
-8. **Steuerliche Rueckwirkung sichern:** Massgeblichkeitsstichtag fuer steuerliche Bilanz festlegen; Frist maximal 12 Monate rueckwirkend ab Abschlussstichtag
+8. **Steuerliche Rueckwirkung sichern:** Massgeblichkeitsstichtag für steuerliche Bilanz festlegen; Frist maximal 12 Monate rueckwirkend ab Abschlussstichtag
 
 ## Entscheidungsbaum
 
@@ -203,9 +203,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

@@ -56,7 +56,7 @@ Bei Streitwerten **bis 1.000 EUR** (Stand 2026) kann das Amtsgericht das Verfahr
 - **§ 495a S. 2 ZPO** — Antrag auf muendliche Verhandlung muss zugelassen werden.
 - **§ 4 ZPO** — Streitwert (Hauptforderung ohne Nebenforderungen).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Streitwert bis 1.000 EUR
 
@@ -192,7 +192,7 @@ Wenn Sie eine Klage zugestellt bekommen, beginnen sofort Fristen zu laufen. Das 
 - **§ 296 ZPO** — Praeklusion.
 - **§ 330 ZPO** — Versaeumnisurteil.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klage in Empfang nehmen
 
@@ -218,8 +218,8 @@ Lesen Sie die Verfuegung genau!
 
 § 276 I ZPO setzt zwei Fristen:
 
-- **2 Wochen Notfrist** fuer **Verteidigungsanzeige** — kurze Erklaerung, dass Sie verteidigen wollen.
-- **Mindestens 2 weitere Wochen** fuer die **Klageerwiderung** — eigene Stellungnahme inhaltlich.
+- **2 Wochen Notfrist** für **Verteidigungsanzeige** — kurze Erklaerung, dass Sie verteidigen wollen.
+- **Mindestens 2 weitere Wochen** für die **Klageerwiderung** — eigene Stellungnahme inhaltlich.
 
 Beispiel: Zustellung am 5.5.2026, Verteidigungsanzeige bis 19.5.2026, Klageerwiderung dann bis 2.6.2026 (oder so, wie vom Gericht gesetzt).
 
@@ -286,7 +286,7 @@ Wenn Sie:
 ## Typische Fehler
 
 - "Ich warte, ob die nochmal schreiben." → Tempelt Versaeumnisurteil.
-- "Verteidigungsanzeige reicht." → Reicht **nur fuer den Moment** — Klageerwiderung muss folgen.
+- "Verteidigungsanzeige reicht." → Reicht **nur für den Moment** — Klageerwiderung muss folgen.
 - "Ich rufe Gericht an und sage das telefonisch." → Telefon ist kein Schriftsatz.
 
 ## Querverweise
@@ -324,7 +324,7 @@ Wenn Sie eine **bestimmte Geldforderung** haben, koennen Sie statt einer Klage e
 
 - Sie haben eine Geldforderung in bestimmter Hoehe.
 - Sie erwarten, dass der Schuldner nicht widersprechen wird.
-- Sie wollen die Verjaehrung guenstig hemmen.
+- Sie wollen die Verjährung guenstig hemmen.
 - Sie wollen die Kosten gering halten.
 
 ## Fachbegriffe (kurz erklaert)
@@ -332,7 +332,7 @@ Wenn Sie eine **bestimmte Geldforderung** haben, koennen Sie statt einer Klage e
 - **Mahnbescheid**: Gerichtliche Aufforderung an den Schuldner zur Zahlung mit dem Hinweis auf Widerspruchsmoeglichkeit.
 - **Vollstreckungsbescheid**: Titel, wenn Schuldner nicht widerspricht — gleichwertig einem Urteil.
 - **Widerspruch**: Erklaerung des Schuldners, dass er die Forderung nicht erfuellen will.
-- **Zentrales Mahngericht**: Pro Bundesland zentralisiertes AG fuer Mahnverfahren.
+- **Zentrales Mahngericht**: Pro Bundesland zentralisiertes AG für Mahnverfahren.
 
 ## Rechtsgrundlagen
 
@@ -344,9 +344,9 @@ Wenn Sie eine **bestimmte Geldforderung** haben, koennen Sie statt einer Klage e
 - **§ 696 ZPO** — Uebergang ins streitige Verfahren.
 - **§ 699 ZPO** — Vollstreckungsbescheid.
 - **§ 700 ZPO** — Einspruch gegen Vollstreckungsbescheid.
-- **§ 204 I Nr. 3 BGB** — Hemmung der Verjaehrung durch Mahnbescheid.
+- **§ 204 I Nr. 3 BGB** — Hemmung der Verjährung durch Mahnbescheid.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -366,7 +366,7 @@ Sie fuellen ein webbasiertes Formular aus:
 - Anspruchsgrund (kurz: "Kaufvertrag vom 5.3.2025, Rechnung Nr. 234").
 - Gericht (wird automatisch nach Wohnsitz Schuldner ermittelt).
 
-Sie senden den Antrag mit Barcode an das zustaendige Mahngericht (per Post) oder direkt elektronisch ueber MJP/EGVP.
+Sie senden den Antrag mit Barcode an das zuständige Mahngericht (per Post) oder direkt elektronisch ueber MJP/EGVP.
 
 ### Schritt 3 — Kosten
 
@@ -381,19 +381,19 @@ Sie zahlen Vorschuss; ohne Zahlung wird Mahnbescheid nicht erlassen.
 
 - Mahngericht prueft formal (nicht materiell — Forderung wird nicht inhaltlich gepruft!).
 - Mahnbescheid wird erlassen und an Schuldner zugestellt.
-- Schuldner hat **2 Wochen** Frist fuer Widerspruch.
+- Schuldner hat **2 Wochen** Frist für Widerspruch.
 
 ### Schritt 5 — Schuldner widerspricht nicht
 
 - Nach Ablauf 2 Wochen koennen Sie **Vollstreckungsbescheid** beantragen.
-- Vollstreckungsbescheid wird wieder zugestellt; Schuldner hat **2 Wochen** Frist fuer **Einspruch**.
+- Vollstreckungsbescheid wird wieder zugestellt; Schuldner hat **2 Wochen** Frist für **Einspruch**.
 - Wenn kein Einspruch: Vollstreckungsbescheid rechtskraeftig. Skill `urteil-rechtskraft-705-zpo`.
 
 ### Schritt 6 — Schuldner widerspricht
 
 - Verfahren geht ins **streitige Verfahren** ueber (§ 696 ZPO).
 - Sie muessen die **Anspruchsbegruendung** einreichen (= normaler Klage-Sachvortrag).
-- Es wird beim sachlich/oertlich zustaendigen AG/LG weitergefuehrt.
+- Es wird beim sachlich/oertlich zuständigen AG/LG weitergefuehrt.
 - Es entstehen weitere Kosten (Gerichtskosten je nach Streitwert).
 
 ### Schritt 7 — Wenn Forderung streitig erwartet
@@ -401,13 +401,13 @@ Sie zahlen Vorschuss; ohne Zahlung wird Mahnbescheid nicht erlassen.
 Wenn Sie wissen, dass der Schuldner widersprechen wird (z. B. weil er die Forderung bestreitet), ist Mahnverfahren ein Umweg. Lieber direkt Klage. Mahnverfahren ist sinnvoll, wenn:
 
 - Forderung hoch wahrscheinlich unstreitig.
-- Sie nur Verjaehrung hemmen wollen.
+- Sie nur Verjährung hemmen wollen.
 - Bonitaet schwach: rasch Titel haben, um pfaenden zu koennen.
 
 ## Worauf Sie besonders achten muessen
 
 - **Mahnverfahren prueft nicht materiell**. Wenn Sie eine verjaehrte Forderung im Mahnbescheid geltend machen, wird er trotzdem erlassen — sofern der Schuldner nicht widerspricht.
-- **Zustellung**: Verjaehrung wird durch Eingang des Mahnantrags **gehemmt** (§ 204 I Nr. 3 BGB i. V. m. § 167 ZPO), wenn alsbald zugestellt.
+- **Zustellung**: Verjährung wird durch Eingang des Mahnantrags **gehemmt** (§ 204 I Nr. 3 BGB i. V. m. § 167 ZPO), wenn alsbald zugestellt.
 - **Widerspruchs-Frist 2 Wochen**: Vor Ablauf koennen Sie keinen Vollstreckungsbescheid beantragen.
 - **Anspruchsbegruendung nach Widerspruch**: Wenn der Schuldner widerspricht, haben Sie eine vom Gericht gesetzte Frist zur Anspruchsbegruendung. Wenn Sie nichts liefern, wird das Verfahren eingestellt — und das Mahn-Vorschuss-Geld ist weg.
 
@@ -415,12 +415,12 @@ Wenn Sie wissen, dass der Schuldner widersprechen wird (z. B. weil er die Forder
 
 - "Ich beantrage Mahnbescheid, dann ist die Sache durch." → Nur wenn Schuldner nicht widerspricht.
 - "Mahnbescheid kostet nichts." → Vorschuss muessen Sie zahlen.
-- "Ich nutze Mahnbescheid fuer Herausgabe-Ansprueche." → Nicht moeglich, nur Geldforderungen.
+- "Ich nutze Mahnbescheid für Herausgabe-Ansprueche." → Nicht moeglich, nur Geldforderungen.
 
 ## Querverweise
 
 - `aussergerichtliche-mahnung-286-bgb` — Mahnung vorab.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrung hemmen.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung hemmen.
 - `klageschrift-pflichtbestandteile-253-zpo` — Wenn Schuldner widerspricht, brauchen Sie Anspruchsbegruendung.
 - `urteil-rechtskraft-705-zpo` — Rechtskraft Vollstreckungsbescheid.
 - `zwangsvollstreckung-querverweis-substitutionsagent` — Vollstreckung mit Titel.

@@ -22,14 +22,14 @@ Prüfungslinie für verkehrsowi messverfahren geschwindigkeit: prüft Normtext, 
 1. **Messgeraet identifizieren:** Welches Geraet wurde eingesetzt? (ESO ES 3.0 / ProViDa / TraffiStar S350 / Riegl FG21-P / PoliScan Speed / Traffipax Traffistar S330) — beeinflusst Angriffsstrategie entscheidend.
 2. **Toleranzabzug korrekt?** — PTB-Tabelle: Geschw. bis 100 km/h: 3 km/h Abzug; ab 100 km/h: 3% Abzug. Im Bescheid korrekt angewendet?
 3. **Eichschein vorhanden und gueltig?** — Eichschein aus der Messakte anfordern; Eichgueltigkeit pruefen (Ablaufdatum); § 6 MessEG.
-4. **Messprotokoll und Schulungsnachweis?** — Bedienungsanleitung beachtet? Beamter fuer dieses Geraet geschult?
+4. **Messprotokoll und Schulungsnachweis?** — Bedienungsanleitung beachtet? Beamter für dieses Geraet geschult?
 5. **Rohmessdaten vorhanden und herausgegeben?** — Nach BVerfG hat Betroffener Recht auf Zugang zu Rohmessdaten; Verweigerung verletzt rechtliches Gehoer.
 
 ## Zentrale Normen
 
 - **§ 24 StVG** — Ordnungswidrigkeitentatbestand Geschwindigkeitsueberschreitung
 - **§ 49 StVO i.V.m. § 3 StVO** — Geschwindigkeitsvorschriften
-- **§ 6 MessEG** — Eichpflicht fuer Messgeraete im Verkehr
+- **§ 6 MessEG** — Eichpflicht für Messgeraete im Verkehr
 - **§ 244 Abs. 2 StPO i.V.m. § 77 OWiG** — Amtsaufklaerungspflicht
 - **§ 46 OWiG i.V.m. § 244 StPO** — Beweisantragsrecht im OWi-Verfahren
 - **Art. 103 Abs. 1 GG** — Rechtliches Gehoer (Rohmessdaten-Recht)
@@ -68,7 +68,7 @@ MESSFOTO / ZUORDNUNG:
 □ Fahrtrichtung korrekt?
 
 SCHULUNG:
-□ Messbeamter fuer dieses Geraet geschult?
+□ Messbeamter für dieses Geraet geschult?
 □ Schulungsnachweis in der Akte?
 
 ROHMESSDATEN:
@@ -87,7 +87,7 @@ ROHMESSDATEN:
 **Beispiel:** Gemessen 84 km/h → abzuziehen 3 km/h → vorwerfbar 81 km/h.
 **Beispiel:** Gemessen 130 km/h → abzuziehen 3% = 3,9 km/h ≈ 4 km/h → vorwerfbar 126 km/h.
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Messakte vollstaendig anfordern** (§ 147 StPO i.V.m. § 49 OWiG): Eichschein, Messprotokoll, Schulungsnachweis, Rohmessdaten, Messfoto hochauflöesend.
 2. **Toleranzabzug nachrechnen** — ist der Abzug im Bescheid korrekt?
@@ -107,7 +107,7 @@ Antrag auf vollstaendige Akteneinsicht und Herausgabe der Messunterlagen
 Ich fordere die vollstaendige Messakte einschliesslich:
 - Messprotokoll (Aufstellungsort, Zeit, Geraet)
 - Eichschein (original oder beglaubigte Kopie)
-- Bedienungsanleitung fuer [GERAET]
+- Bedienungsanleitung für [GERAET]
 - Schulungsnachweis des Messbeamten
 - Rohmessdaten des Falldatensatzes und gesamter Messreihe (BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18; Beschl. v. 20.6.2023, 2 BvR 1167/20 — Volltext und Randnummern aus bundesverfassungsgericht.de)
 - Messfoto hochaufloesend

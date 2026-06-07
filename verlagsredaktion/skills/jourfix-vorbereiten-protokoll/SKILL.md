@@ -23,7 +23,7 @@ Der Jourfixe (woechentlich oder vierzehntaeglich) ist der Routinetermin der Verl
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn fuer jeden Jourfixe. Klaeren Sie vorab:
+Sie brauchen ihn für jeden Jourfixe. Klaeren Sie vorab:
 
 1. Welche Teilnehmer (Lektorat, Schriftleitung, Produktion)?
 2. Welche Dauer (30 oder 60 Min)?
@@ -36,7 +36,7 @@ Sie brauchen ihn fuer jeden Jourfixe. Klaeren Sie vorab:
 - Offene Eskalationen seit letztem Jourfix.
 - Termine (Heftschluss, Druckfreigabe).
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Statusliste aktualisieren** vor dem Jourfix. Pro Manuskript: Titel, Status (Eingang, Lektorat, Autor, Korrektur, Freigabe, Druck), naechster Schritt, Frist, Owner, Risiko-Ampel.
 2. **Agenda erstellen.** TOP 1: Statusliste durchgehen (15-25 Min); TOP 2: Eskalationen (10-15 Min); TOP 3: Neue Manuskripteingaenge (5-10 Min); TOP 4: Verschiedenes (5 Min).
@@ -122,8 +122,8 @@ Naechster Jourfix: 19.06.2026, 10:00.
 ## Quellen Stand 06/2026
 
 - Allgemeine Sitzungsleitungs-Methodik: keine spezifische juristische Quelle erforderlich.
-- Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024 (fuer Protokollsprache).
+- Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024 (für Protokollsprache).
 - Verlagsgesetz, [https://www.gesetze-im-internet.de/verlg/](https://www.gesetze-im-internet.de/verlg/) (bei Verzugsthemen).
 - BGB §§ 280, 286, 323.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

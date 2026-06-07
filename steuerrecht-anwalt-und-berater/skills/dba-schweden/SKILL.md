@@ -21,7 +21,7 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 
 1. Konstellation?
 2. Beteiligungshoehe?
-3. Pensionsbeguenstigte schwedische ATP oder allgemeine Rente?
+3. Pensionsbegünstigte schwedische ATP oder allgemeine Rente?
 4. Bei Holding: Schwedische Beteiligungsgesellschaft (naeringsbetingad)?
 5. MLI-Anpassungen?
 6. Lizenz-Art?
@@ -82,7 +82,7 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 
 ## Strategie und Praxis-Tipps
 
-- Schwedische Holding mit naeringsbetingad-Status: Sondersteuerregime fuer Beteiligungseinkuenfte — DBA-Berechtigung pruefen, EU-MTRL anwenden.
+- Schwedische Holding mit naeringsbetingad-Status: Sondersteuerregime für Beteiligungseinkuenfte — DBA-Berechtigung pruefen, EU-MTRL anwenden.
 - Skandinavisches Pensionssystem (ATP): Wohnsitzstaat-Prinzip ueberwiegend.
 - Bei Wegzug Schweden: Stundung § 6 AStG (EU-Mitglied).
 - Schweden-Bauauftraege: 12-Monatsfrist beachten.
@@ -97,7 +97,7 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 
 ## Edge Cases und Was-Pruefer-Triggert
 
-- **Naeringsbetingad-Status (Beteiligungsgesellschaft) SE**: Schwedisches Sondersteuerregime fuer Beteiligungserloese — Veraeusserung von Anteilen schwedischer Gesellschaften steuerfrei bei naeringsbetingad-Qualifikation. Aequivalent zu § 8b KStG. Bei deutschen Investoren in SE-Holdings: doppelte Steuerbefreiung-Risiko, § 4k EStG-Pruefung.
+- **Naeringsbetingad-Status (Beteiligungsgesellschaft) SE**: Schwedisches Sondersteuerregime für Beteiligungserloese — Veraeusserung von Anteilen schwedischer Gesellschaften steuerfrei bei naeringsbetingad-Qualifikation. Aequivalent zu § 8b KStG. Bei deutschen Investoren in SE-Holdings: doppelte Steuerbefreiung-Risiko, § 4k EStG-Pruefung.
 - **Pension ATP/Tjaenstepension/Allgemeine Rente**: SE-Pensionssystem dreischichtig — Garantirente (Grundrente), Inkomstpension (einkommensabhaengig) und Tjaenstepension (Arbeitsplatzrente). DBA Art. 18 differenziert nach Quelle.
 - **Wegzug DE → SE**: § 6 AStG, SE ist EU — Stundung erleichtert; SE-Eingangsbesteuerung pruefen ("expatriate"-Regelung).
 - **Aenderungsprotokoll 2023/2024**: Anpassungen zur Bekaempfung von Hybridgestaltungen — vom Anwender mit konsolidiertem Text zu pruefen.
@@ -107,7 +107,7 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Schwedische Holding-AB mit naeringsbetingad-Status | SE-Holding steuerfreie Veraeusserung Anteile EU-Toechter (naeringsbetingad) | DE-Holding mit § 8b KStG-Befreiung 95 Prozent | bei reiner Holdingstruktur fuer EU-Toechter und Exit-Strategie SE oft vorteilhaft; aber § 4k EStG-Pruefung wegen doppelter Steuerbefreiung; PPT-Klausel pruefen |
+| Schwedische Holding-AB mit naeringsbetingad-Status | SE-Holding steuerfreie Veraeusserung Anteile EU-Toechter (naeringsbetingad) | DE-Holding mit § 8b KStG-Befreiung 95 Prozent | bei reiner Holdingstruktur für EU-Toechter und Exit-Strategie SE oft vorteilhaft; aber § 4k EStG-Pruefung wegen doppelter Steuerbefreiung; PPT-Klausel pruefen |
 | EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent Beteiligung | DBA-Schweden: 0 Prozent ab 10 Prozent Beteiligung | beide identisch; EU-MTRL als EU-Recht vorrangig (§ 43b EStG) |
 | Wegzug DE → SE im Ruhestand | SE-Steueransaessigkeit, schwedische Pensionsbesteuerung — oft moderate Belastung | DE-Steueransaessigkeit beibehalten, DBA klaert Doppelbesteuerung | bei Pensionaeren mit DRV: SE-Anziehung der Renten, in DE Anrechnung; Wegzug § 6 AStG bei Anteilen pruefen |
 
@@ -130,9 +130,9 @@ Bei Hauptanwendungsfall naeringsbetingad-Veraeusserung: SE-AB veraeussert Anteil
 4. **Laufende Compliance**: SE-Erklaerung digital sehr ausgereift; DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive.
 5. **Audit-Vorbereitung**: SE-Pruefung digital effizient; DE-FA-Pruefung § 4k EStG bei naeringsbetingad und Aenderungsprotokoll 2023/2024.
 
-## Ausgabeformat fuer Mandanten-Memo Schweden
+## Ausgabeformat für Mandanten-Memo Schweden
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Beteiligung an AB, naeringsbetingad-Holding, Pendler, Pension), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, Naeringsbetingad-Sondersteuerregime, Wegzugsbesteuerung.

@@ -24,7 +24,7 @@ Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt 
 ## Triage zu Beginn
 1. Enthält die Anfrage eine konkrete Datumsangabe oder Fristnennung (Gerichtstermin, Kuendigungsfrist, Rechtsmittelfrist)?
 2. Welches Rechtsgebiet ist betroffen — welche typischen Fristen gelten (KSchG 3 Wochen, § 517 ZPO 1 Monat Berufung)?
-3. Gibt es Anzeichen fuer Zwangsvollstreckung, Insolvenzantrag oder strafrechtliche Eile?
+3. Gibt es Anzeichen für Zwangsvollstreckung, Insolvenzantrag oder strafrechtliche Eile?
 4. Ist die Dringlichkeitsstufe HOCH — muss der Anwalt sofort anrufen statt auf E-Mail zu warten?
 
 ## Aktuelle Rechtsprechung

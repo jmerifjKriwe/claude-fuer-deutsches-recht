@@ -14,7 +14,7 @@ description: "Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen mona
 ## Kernsachverhalt
 
 Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
-- **U1** (Aufwendungsausgleich Krankheit): Erstattung Entgeltfortzahlung im Krankheitsfall; Pflicht fuer Kleinunternehmer bis 30 AN; Erstattung 80 Prozent.
+- **U1** (Aufwendungsausgleich Krankheit): Erstattung Entgeltfortzahlung im Krankheitsfall; Pflicht für Kleinunternehmer bis 30 AN; Erstattung 80 Prozent.
 - **U2** (Aufwendungsausgleich Mutterschaft): Erstattung Mutterschutzlohn und AG-Zuschuss Mutterschaftsgeld; Pflicht aller AG; Erstattung 100 Prozent.
 - **Insolvenzgeld-Umlage**: Beitrag zur Finanzierung des Insolvenzgeldes; Pflicht aller AG (Ausnahme Privathaushalte).
 
@@ -100,7 +100,7 @@ Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
 
 - U1-Pflicht-Pruefung jaehrlich zum 1. Januar — nicht vergessen.
 - U2 ist UNABHAENGIG von Betriebsgroesse Pflicht.
-- Insolvenzgeld-Umlage entfaellt fuer Privathaushalte (Privathaushalts-Minijob).
+- Insolvenzgeld-Umlage entfaellt für Privathaushalte (Privathaushalts-Minijob).
 - Erstattungsantraege rechtzeitig stellen — Frist max. 4 Jahre.
 - Bei wechselnder Mitarbeiterzahl ueber 30: U1-Wechsel zum Jahreswechsel.
 - StBVV: in Lohnpauschale.

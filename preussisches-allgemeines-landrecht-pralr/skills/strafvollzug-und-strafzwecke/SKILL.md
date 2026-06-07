@@ -33,7 +33,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 ### Schluesselparagraphen
 - **ALR II 20 §§ 1-30**: Allgemeine Strafzwecke — Vergeltung, Abschreckung, Spezialpraevention ansatzweise.
 - **ALR II 20 §§ 50-79**: Strafkatalog — Todesstrafe, Festungshaft, Zuchthaus, Gefaengnis, Schandstrafen (Pranger, Brandmarken — formell bis 1851).
-- **ALR II 20 §§ — Anwendung Sondervollzuegen fuer Adlige und Staende.
+- **ALR II 20 §§ — Anwendung Sondervollzuegen für Adlige und Staende.
 
 ### Strafmilderung Friedrichs II.
 - Friedrich II. hob die **Folter ab 1740** (Cabinets-Order 03.06.1740).
@@ -42,7 +42,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ### Subsumtionsbeispiel: Schwere Diebstahlstat 1820
 Sachverhalt: Wiederholter Diebstahl mit Einbruch.
-ALR-Loesung: ALR II 20 — Zuchthaus 5-10 Jahre; spaeter ergaenzend Pranger fuer Wiederholungstaeter (formell bis 1851).
+ALR-Loesung: ALR II 20 — Zuchthaus 5-10 Jahre; spaeter ergaenzend Pranger für Wiederholungstaeter (formell bis 1851).
 
 ### Heutige Fortwirkung
 - Reichsstrafgesetzbuch 1871 abolierte die Schandstrafen.

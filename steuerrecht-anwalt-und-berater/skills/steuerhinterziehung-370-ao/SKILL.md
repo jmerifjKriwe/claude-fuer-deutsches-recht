@@ -17,8 +17,8 @@ description: "Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerv
 2. Ist Vorsatz (dolus eventualis genuegt) hinreichend belegt?
 3. Wurde Steuer verkuerzt oder nicht gerechtfertigter Vorteil erlangt?
 4. Liegt ein besonders schwerer Fall § 370 Abs. 3 AO vor (Sechs-Stellen-Verkuerzung Bandenmaessig Verschleierung)?
-5. Welche Verjaehrungsfrist gilt — fuenf Jahre Regel zehn Jahre bei BSF § 376 AO; Verfolgung 25 Jahre § 376 Abs. 3 AO?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+5. Welche Verjährungsfrist gilt — fuenf Jahre Regel zehn Jahre bei BSF § 376 AO; Verfolgung 25 Jahre § 376 Abs. 3 AO?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

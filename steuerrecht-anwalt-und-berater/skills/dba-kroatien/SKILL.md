@@ -89,8 +89,8 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 - **Erstattungsverfahren HR → DE-Mandant**: Antrag bei Porezna uprava (Steuerverwaltung Kroatien); Online-Portal "ePorezna" (vom Anwender mit aktuellem Stand des kroatischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung "Potvrda o rezidentnosti" der Porezna uprava als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Kroatisch; EU-Beitritt 2013 hat zahlreiche begleitende Notenwechsel ausgeloest, die mit dem konsolidierten BMF-Text abzugleichen sind.
-- **Lokaler Berater**: Bei kroatischer d.o.o. (GmbH-Aequivalent) oder Ferienimmobilien-Investment empfiehlt sich Hinzuziehung eines kroatischen "porezni savjetnik" wegen kroatischer Sondersteuern auf Ferienimmobilien (Pauschalsteuer fuer Vermietung von Ferienwohnungen, "porez na dohodak od iznajmljivanja stanova", regelmaessig in der Praxis differenziert pro Bett und Saison).
-- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten fuer Steuerverwaltungsdokumente.
+- **Lokaler Berater**: Bei kroatischer d.o.o. (GmbH-Aequivalent) oder Ferienimmobilien-Investment empfiehlt sich Hinzuziehung eines kroatischen "porezni savjetnik" wegen kroatischer Sondersteuern auf Ferienimmobilien (Pauschalsteuer für Vermietung von Ferienwohnungen, "porez na dohodak od iznajmljivanja stanova", regelmaessig in der Praxis differenziert pro Bett und Saison).
+- **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten für Steuerverwaltungsdokumente.
 - **Adria-Ferienimmobilie als steuerlicher Hot-Spot**: Vermieter mit DE-Wohnsitz und HR-Immobilie haben HR-Belegenheitsbesteuerung (Art. 6) — Pauschalsteuer oder Regelversteuerung nach kroatischem Wahlrecht; in DE Anlage V-AUS.
 
 ## Edge Cases und Was-Pruefer-Triggert
@@ -114,12 +114,12 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 Mandant mit Wohnsitz Deutschland besitzt Ferienwohnung in Rovinj (Kroatien), Vermietung Saison 2025: Mieteinnahmen 15.000 EUR, Werbungskosten 4.000 EUR, Gewinn 11.000 EUR:
 
 - HR-Besteuerung (Belegenheitsstaat Art. 6 DBA-Kroatien): Pauschalsteuer abhaengig von Bettenzahl und Touristenklasse — vom Anwender mit aktuellem HR-Steuerrecht zu verifizieren; angenommen 1.200 EUR.
-- DE-Besteuerung: Vermietungseinkuenfte in Anlage V-AUS; persoenlicher Steuersatz ca. 32 Prozent auf 11.000 EUR = 3.520 EUR.
+- DE-Besteuerung: Vermietungseinkuenfte in Anlage V-AUS; persönlicher Steuersatz ca. 32 Prozent auf 11.000 EUR = 3.520 EUR.
 - Anrechnung HR-Steuer 1.200 EUR auf DE-Steuer (§ 34c EStG, Per-Country-Limitation Kroatien).
 - DE-Resteuer: 2.320 EUR.
 - Gesamtbelastung: 3.520 EUR.
 
-Achtung: Sozialversicherungs- und Tourismus-Sondersteuern (Kurtaxe, Gebuehren der Tourismusverwaltung) sind keine Einkommensteuer und nicht anrechenbar — separat absetzbar als Werbungskosten.
+Achtung: Sozialversicherungs- und Tourismus-Sondersteuern (Kurtaxe, Gebühren der Tourismusverwaltung) sind keine Einkommensteuer und nicht anrechenbar — separat absetzbar als Werbungskosten.
 
 ## Mandatsablauf in der Praxis
 
@@ -129,9 +129,9 @@ Achtung: Sozialversicherungs- und Tourismus-Sondersteuern (Kurtaxe, Gebuehren de
 4. **Laufende Compliance**: HR-Erklaerung jaehrlich; DE-Anlage V-AUS bei Immobilien, Anlage KAP bei Beteiligungen.
 5. **Audit-Vorbereitung**: HR-Tourismusverwaltung pruefer Pauschalsteuer; DE-FA pruefer Anlage V-AUS und Anrechnung.
 
-## Ausgabeformat fuer Mandanten-Memo Kroatien
+## Ausgabeformat für Mandanten-Memo Kroatien
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Adria-Ferienimmobilie, Tourismus-Beteiligung, Mittelstand), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht Immobilie/Beteiligung, Quellensteuer, EU-MTRL ab 2013.

@@ -122,7 +122,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `euipo-widerspruchsverfahren` | EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46… |
 | `fashion-luxus-kaltstart-interview` | Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat beginnt, Portfolio-Inventur und Prioritaeten-Matrix sind zu erstellen. Normen: BRAO § 43a, § 32 MarkenG, Art. 32 UMV. Prüfraster:… |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| `madrid-protokoll-und-internationale-registrierung` | Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section… |
+| `madrid-protokoll-und-internationale-registrierung` | Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Ländern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section… |
 | `markenmonitoring-und-watchlist` | Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Prüfraster:… |
 | `messe-verletzung-und-gv-einsatz` | Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG… |
 | `nyc-korrespondenz-und-conflict-check` | Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO),… |
@@ -143,13 +143,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin ist eine Markenrechtsboutique fuer Luxus-Modehaeuser und Fashion-Brands. Es begleitet saemtliche Stufen der Markenrechtsstrategie: von der Erstberatung und dem Portfolio-Audit ueber DPMA-, EUIPO- und USPTO-Anmeldungen aller Markenarten bis hin zu Widerspruchs- und Loeschungsverfahren, Abmahnung, Produktpiraterie-Abwehr und Selektivvertrieb.
+Das Plugin ist eine Markenrechtsboutique für Luxus-Modehaeuser und Fashion-Brands. Es begleitet saemtliche Stufen der Markenrechtsstrategie: von der Erstberatung und dem Portfolio-Audit ueber DPMA-, EUIPO- und USPTO-Anmeldungen aller Markenarten bis hin zu Widerspruchs- und Loeschungsverfahren, Abmahnung, Produktpiraterie-Abwehr und Selektivvertrieb.
 
-Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nicht-traditionelle Marken (Sound, Duft, Tast-, Positions-, 3D-Marke) und neue Schutzformen fuer KI-Authentizitaet (Anti-KI-Marken). Einbezogen ist auch die US-Perspektive: USPTO, Lanham Act, Trade Dress, TTAB und CBP. Zielgruppe sind Markenanwaelte, Inhouse-IP-Teams und ihre Luxusmarken-Mandanten.
+Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nicht-traditionelle Marken (Sound, Duft, Tast-, Positions-, 3D-Marke) und neue Schutzformen für KI-Authentizitaet (Anti-KI-Marken). Einbezogen ist auch die US-Perspektive: USPTO, Lanham Act, Trade Dress, TTAB und CBP. Zielgruppe sind Markenanwaelte, Inhouse-IP-Teams und ihre Luxusmarken-Mandanten.
 
 ## Wann brauchen Sie diese Skill?
 
-- Modehaus will neue Marke in DE, EU oder international schuetzen und braucht Strategie fuer Portfolio-Aufbau.
+- Modehaus will neue Marke in DE, EU oder international schuetzen und braucht Strategie für Portfolio-Aufbau.
 - Markeninhaber hat Verletzung entdeckt (Nachahmung, Piraterie, Plattform-Infringement) und muss schnell reagieren.
 - Konkurrent hat aehnliche Marke beim DPMA oder EUIPO angemeldet; Widerspruch oder Loeschungsantrag muss eingereicht werden.
 - Luxusmarke will Selektivvertrieb kartellrechtskonform strukturieren oder Graumarkt-Import unterbinden.
@@ -159,10 +159,10 @@ Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nich
 
 - **Wortmarke** — Schutz eines Wortes oder Wortteils ohne grafische Gestaltung (§ 3 MarkenG, Art. 4 UMV).
 - **Unionsmarke (UM)** — EU-weit einheitliche Marke beim EUIPO in Alicante; Grundlage: VO (EU) 2017/1001 (UMV).
-- **Madrid-Protokoll** — WIPO-System fuer internationale Markenanmeldung in bis zu 130 Mitgliedstaaten ueber eine Basisanmeldung.
+- **Madrid-Protokoll** — WIPO-System für internationale Markenanmeldung in bis zu 130 Mitgliedstaaten ueber eine Basisanmeldung.
 - **Trade Dress** — US-rechtlicher Schutz der Gesamterscheinung eines Produkts (Verpackung, Aufmachung); schutzbegründend ist secondary meaning.
-- **Erschoepfung** — Nach ersten Inverkehrbringen im EWR durch den Markeninhaber erlischt das Verbreitungsrecht; Grundlage fuer Graumarkt-Problematik.
-- **TTAB** — Trademark Trial and Appeal Board; US-Behoerde fuer Widerspruchs- und Cancellation-Verfahren bei USPTO-Marken.
+- **Erschoepfung** — Nach ersten Inverkehrbringen im EWR durch den Markeninhaber erlischt das Verbreitungsrecht; Grundlage für Graumarkt-Problematik.
+- **TTAB** — Trademark Trial and Appeal Board; US-Behörde für Widerspruchs- und Cancellation-Verfahren bei USPTO-Marken.
 - **CBP** — US Customs and Border Protection; kann Waren mit verzeichnetem US-Trademark an der US-Grenze zurueckhalten.
 - **Selektivvertrieb (Coty-Doktrin)** — Kartellrechtlich zulaessige Beschraenkung des Vertriebs auf qualifizierte Haendler im Luxussegment (EuGH Coty).
 
@@ -178,7 +178,7 @@ Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nich
 - VO (EU) 2019/1020 — Marktüberwachungsverordnung (Produktpiraterie)
 - Art. 101 AEUV, Vertikal-GVO (EU) 2022/720 — Selektivvertrieb und Kartellrecht
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Anmeldung, Verletzung, Widerspruch/Loeschung oder Vertriebsrecht?
 2. Territorium bestimmen: DE (DPMA), EU (EUIPO), USA (USPTO) oder international (Madrid)?
@@ -189,19 +189,19 @@ Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nich
 ## Skill-Tour (was gibt es hier?)
 
 - `fashion-luxus-kaltstart-interview` — Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech; Portfolio-Inventur und Prioritaetencheck.
-- `anmeldung-strategie-portfolio` — Strategische Markenportfolio-Planung fuer DE/EU/international; Schutzbedarf und Klassen-Auswahl.
+- `anmeldung-strategie-portfolio` — Strategische Markenportfolio-Planung für DE/EU/international; Schutzbedarf und Klassen-Auswahl.
 - `wortmarke-anmeldung-dpma` — DPMA-Anmeldung einer Wortmarke; Pruefung relativer und absoluter Hindernisse.
 - `bildmarke-und-wort-bild` — Bildmarke und Wort-Bild-Marke beim DPMA und EUIPO anmelden.
 - `slogan-marke` — Slogan-Marke auf Eintragbarkeit pruefen und anmelden; Unterscheidungskraft bei Kampagnen-Claims.
 - `unionsmarken-anmeldung-euipo` — Unionsmarke beim EUIPO anmelden nach UMV 2017/1001.
 - `madrid-protokoll-und-internationale-registrierung` — Internationale Markenanmeldung ueber WIPO-Madrid-System.
-- `uspto-anmeldung-und-lanham-act` — USPTO-Markenanmeldung nach Lanham Act fuer den US-Markt.
-- `dreidimensionale-marke` — Formmarke fuer Flacons und Schuhformen anmelden; Unterscheidungskraft und Funktionalitaetsverbot.
-- `soundmarke-und-bewegungsmarke` — Hoermarken und Bewegungsmarken fuer Jingles und Animationen anmelden.
+- `uspto-anmeldung-und-lanham-act` — USPTO-Markenanmeldung nach Lanham Act für den US-Markt.
+- `dreidimensionale-marke` — Formmarke für Flacons und Schuhformen anmelden; Unterscheidungskraft und Funktionalitaetsverbot.
+- `soundmarke-und-bewegungsmarke` — Hoermarken und Bewegungsmarken für Jingles und Animationen anmelden.
 - `positionsmarke` — Positionsmarken (Louboutin-Sohlenstreifen, Adidas-Streifen) anmelden und verteidigen.
-- `haptik-und-tastmarke` — Tastmarken fuer Stoffstrukturen und Flakon-Oberflaechen; Schutz und Alternativen.
+- `haptik-und-tastmarke` — Tastmarken für Stoffstrukturen und Flakon-Oberflaechen; Schutz und Alternativen.
 - `duftmarke-und-geschmacksmarke` — Duft- und Geschmacksmarken: faktische Uneintragbarkeit analysieren; Alternativstrategien.
-- `anti-ki-marke-und-kennzeichen` — Human-Made-Labels und Anti-KI-Marken fuer Haute-Couture-Authentizitaet entwickeln.
+- `anti-ki-marke-und-kennzeichen` — Human-Made-Labels und Anti-KI-Marken für Haute-Couture-Authentizitaet entwickeln.
 - `dpma-widerspruch-und-loeschung` — DPMA-Widerspruch und Loeschungsantrag gegen kollidierendes Zeichen einlegen.
 - `euipo-widerspruchsverfahren` — EUIPO-Widerspruch nach Art. 8 UMV fuehren.
 - `ttab-opposition-und-cancellation` — TTAB-Opposition und Cancellation in den USA fuehren.
@@ -214,11 +214,11 @@ Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nich
 - `nyc-korrespondenz-und-conflict-check` — mit US-Korrespondenzkanzlei; USPTO-Vollmacht und Interessenkonflikt-Check.
 - `uspto-office-actions-und-tess-tsdr` — USPTO Office Actions beantworten; TESS/TSDR-Datenbankrecherche.
 - `selektiver-vertrieb-coty` — Selektiven Vertrieb kartellrechtskonform gestalten nach Coty-Doktrin (EuGH).
-- `agb-haendlervertrag-luxus` — AGB-Kontrolle im Haendlervertrag fuer Luxus/Fashion: Konditionsklauseln und Vertragsstrafe.
+- `agb-haendlervertrag-luxus` — AGB-Kontrolle im Haendlervertrag für Luxus/Fashion: Konditionsklauseln und Vertragsstrafe.
 - `vertikale-preisbindung-vbe-vo` — Vertikale Preisbindung und Vertikal-GVO-Compliance; UPE und Mindestpreise.
 - `discounter-und-graumarkt-brezelmann` — Erschoepfungsdoktrin und Graumarkt-Kontrolle: Parallelimporte und Discounter-Verkauf.
 - `us-selektivvertrieb-und-mfp-tiffany-vs-costco` — US-Resale-Price-Maintenance und MAP-Policies kartellrechtskonform gestalten.
-- `us-trade-dress-und-secondary-meaning` — US Trade Dress Protection fuer Produktaufmachung; secondary meaning begruenden.
+- `us-trade-dress-und-secondary-meaning` — US Trade Dress Protection für Produktaufmachung; secondary meaning begruenden.
 
 ## Worauf besonders achten
 

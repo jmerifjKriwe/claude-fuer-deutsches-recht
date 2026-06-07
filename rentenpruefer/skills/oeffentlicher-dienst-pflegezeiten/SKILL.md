@@ -3,11 +3,28 @@ name: oeffentlicher-dienst-pflegezeiten
 description: "Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV im Rentenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# oeffentlicher-dienst-vbl-und-zusatzversorgung
+# öffentlicher-dienst-vbl-und-zusatzversorgung
 
 ## Arbeitsbereich
 
 Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 35 SGB VI` — Regelaltersrente.
+- `§ 36 SGB VI` — Altersrente für langjaehrig Versicherte.
+- `§ 43 SGB VI` — Erwerbsminderungsrente.
+- `§ 50 SGB VI` — Wartezeiten.
+- `§ 51 SGB VI` — anrechenbare Zeiten.
+- `§ 55 SGB VI` — Beitragszeiten.
+- `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
+- `§ 197 SGB VI` — Nachzahlung von Beitraegen.
+- `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 

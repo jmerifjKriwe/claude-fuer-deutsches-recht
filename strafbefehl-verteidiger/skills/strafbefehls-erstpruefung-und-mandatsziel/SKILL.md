@@ -52,7 +52,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ## Strafbefehls-Erstpruefung Bausteine
-- **Zustellung re-pruefen:** Postzustellungsurkunde § 37 StPO i.V.m. §§ 166 ff. ZPO; bei Ersatzzustellung Heilung § 189 ZPO; Datum verbindlich fuer Beginn 2-Wochen-Frist § 410 StPO.
+- **Zustellung re-pruefen:** Postzustellungsurkunde § 37 StPO i.V.m. §§ 166 ff. ZPO; bei Ersatzzustellung Heilung § 189 ZPO; Datum verbindlich für Beginn 2-Wochen-Frist § 410 StPO.
 - **Verteidigerbestellung § 137 StPO** sofort; bei Freiheitsstrafe Strafbefehl Pflichtverteidigerbestellung § 408b StPO.
 - **Mandantenziel matrix:**
  - **Schuldspruch bestritten** -> Vollumfaenglicher Einspruch + Hauptverhandlung; Akteneinsicht § 147 StPO Beweismittel pruefen.

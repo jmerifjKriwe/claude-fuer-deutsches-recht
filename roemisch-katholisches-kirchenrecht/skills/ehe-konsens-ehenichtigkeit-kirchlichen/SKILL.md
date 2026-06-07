@@ -60,14 +60,14 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - **can. 1055 § 1 CIC**: Definition der Ehe als foedus, das von Christus zum Sakrament erhoben ist; ad bonum coniugum und ad procreationem et educationem prolis.
 - **can. 1057 § 1 CIC**: Konsens als wirksame Ursache; nicht durch menschliche Macht ersetzbar.
 - **can. 1083 CIC**: Eheschliessungsalter (Mann 16, Frau 14, mit dispensativem Vorbehalt der Bischofskonferenz).
-- **can. 1090-1094 CIC**: Trennende Hindernisse aus Vorsatz, Verwandtschaft, Schwaegerschaft, oeffentlicher Anstand.
+- **can. 1090-1094 CIC**: Trennende Hindernisse aus Vorsatz, Verwandtschaft, Schwaegerschaft, öffentlicher Anstand.
 - **can. 1095 CIC**: Konsensunfaehigkeit (mangelnder Vernunftgebrauch, schwerer Mangel der Urteilsfaehigkeit, psychisch begruendete Unfaehigkeit zu wesentlichen Pflichten).
 - **can. 1097-1101 CIC**: Konsensmaengel (Irrtum ueber Person/wesentliche Eigenschaften, Furcht, Simulation).
 - **can. 1108-1117 CIC**: Formpflicht; Eheschliessung vor Ortspfarrer oder dessen Delegat sowie zwei Zeugen.
 
 ### Reformen
 - **Mitis Iudex Dominus Iesus** (M.P. Franziskus, 15.08.2015): Reform des Ehenichtigkeitsverfahrens. Beschleunigtes Verfahren (processus brevior) bei klaren Faellen; Wegfall der zweiten zustimmenden Sentenz; Bischof als Richter im processus brevior. cc. 1671-1691 CIC neu gefasst.
-- **Mitis et misericors Iesus** (M.P. Franziskus, 15.08.2015): Parallel-Reform fuer CCEO (Ostkirchen).
+- **Mitis et misericors Iesus** (M.P. Franziskus, 15.08.2015): Parallel-Reform für CCEO (Ostkirchen).
 - **Dignitas Connubii** (Instr. Apostol. Signatur 25.01.2005) bleibt Verfahrensrahmen, ergaenzt durch Mitis Iudex.
 
 ### KKK
@@ -81,7 +81,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 ### Pruefraster
 1. Ist die Ehe vor 2015 oder danach geschlossen? Beim Nichtigkeitsverfahren immer Mitis Iudex pruefen.
 2. Konsensmangel oder Hindernis? — cc. 1083-1094 vor cc. 1095-1107.
-3. Liegt einer der vier Faelle fuer processus brevior vor (cc. 1683-1687 CIC)?
+3. Liegt einer der vier Faelle für processus brevior vor (cc. 1683-1687 CIC)?
 4. Bei orientalisch-katholischer Trauung: CCEO statt CIC.
 
 ## Ausgabeformate

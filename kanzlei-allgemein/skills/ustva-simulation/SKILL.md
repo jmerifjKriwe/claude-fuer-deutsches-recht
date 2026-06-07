@@ -20,7 +20,7 @@ Fallback bei ELSTER-Stoerung oder fehlendem Steuersoftware-Zugang für UStVA-Sim
 ## Triage zu Beginn
 1. Warum steht ELSTER nicht zur Verfuegung: Systemfehler, fehlende Registrierung, fehlende Software, Testzweck?
 2. Soll eine vollstaendige ELSTER-Eingabeliste, ein Steuerberater-Paket oder ein XML-Upload-Check erstellt werden?
-3. Wurden alle Belege fuer den Simulationszeitraum korrekt anonymisiert (Datenschutz)?
+3. Wurden alle Belege für den Simulationszeitraum korrekt anonymisiert (Datenschutz)?
 4. Soll der Simulationslauf als Trainings- oder Testprotokoll gespeichert werden?
 
 ## Aktuelle Rechtsprechung
@@ -28,7 +28,7 @@ Fallback bei ELSTER-Stoerung oder fehlendem Steuersoftware-Zugang für UStVA-Sim
 
 ## Zentrale Normen
 - § 18 UStG — Abgabepflicht der UStVA: keine Entbindung durch technischen Ausfall
-- § 87a AO — Elektronische Kommunikation mit Behoerden: Form und Authentifizierungsanforderungen
+- § 87a AO — Elektronische Kommunikation mit Behörden: Form und Authentifizierungsanforderungen
 - § 150 Abs. 6 AO — Datenfernuebertragung als Abgabeform; entsprechende technische Standards
 - § 152 AO — Verspaetungszuschlag bei Nichtabgabe
 

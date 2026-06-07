@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolutio
 
 Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinui
 
 ## Aufgabe
 
-Skill fuer den Uebergang von Kaiserreich zur Weimarer Republik im November/Dezember 1918.
+Skill für den Uebergang von Kaiserreich zur Weimarer Republik im November/Dezember 1918.
 
 ## Ereignisse
 
@@ -38,7 +55,7 @@ Skill fuer den Uebergang von Kaiserreich zur Weimarer Republik im November/Dezem
 ## Verordnungen des Rates der Volksbeauftragten
 
 - **12.11.1918**: 8-Stunden-Tag.
-- **12.11.1918**: Wahlrecht fuer Frauen (Reichswahlgesetz folgt 30.11.1918).
+- **12.11.1918**: Wahlrecht für Frauen (Reichswahlgesetz folgt 30.11.1918).
 - **14.11.1918**: Sozialversicherung erhalten.
 - **23.11.1918**: Aufhebung der Gesindeordnungen.
 - **15.01.1919**: Vorlaeufige Reichsverfassung.

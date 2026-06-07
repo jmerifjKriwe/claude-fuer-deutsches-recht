@@ -132,7 +132,7 @@ Forderung wird Insolvenzforderung. Nach Restschuldbefreiung erlischt der Anspruc
 
 Wenn Verwalter / anderer Glaeubiger im Pruefungstermin die Forderung bestreitet:
 - Klage gegen den Bestreitenden auf Feststellung zur Tabelle.
-- Zustaendigkeit: ordentliches Gericht (idR AG/LG am Insolvenzgericht).
+- Zuständigkeit: ordentliches Gericht (idR AG/LG am Insolvenzgericht).
 - Streitwert: bei zu erwartender Quote (haeufig nur Bruchteil der Forderung).
 
 ## Anfechtung durch Verwalter §§ 129-147 InsO

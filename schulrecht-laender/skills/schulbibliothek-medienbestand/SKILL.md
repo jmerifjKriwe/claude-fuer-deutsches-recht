@@ -1,6 +1,6 @@
 ---
 name: schulbibliothek-medienbestand
-description: "Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulbibliothek und Medienbestand

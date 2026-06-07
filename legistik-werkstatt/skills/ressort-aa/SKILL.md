@@ -6,7 +6,7 @@ description: "Heranfuehrung Ressort AA (Auswaertiges Amt). Schwerpunkt: Voelkerr
 # Ressort-Heranfuehrung AA
 
 > Heranfuehrungs-Skill nach `legw-ressort-router`. Politikwissenschaftliche Legistinnen und Legisten
-> bekommen hier das Sachfeld-Verstaendnis fuer das Ressort, bevor sie an Normtext und Begruendung gehen.
+> bekommen hier das Sachfeld-Verstaendnis für das Ressort, bevor sie an Normtext und Begruendung gehen.
 
 ## Ressort-Stammdaten
 
@@ -22,13 +22,13 @@ description: "Heranfuehrung Ressort AA (Auswaertiges Amt). Schwerpunkt: Voelkerr
 ### Worum geht es sachlich
 
 Voelkerrecht; konsularische Aufgaben; Aussenwirtschaftsdimension; EU-Verfahren; Sanktionsumsetzung. Dieses Ressort ist nicht primaer Politik; es ist sachverstaendige Verwaltung
-einer Lebenswelt - Behoerden; Verbaende; technische Regeln; europaeische Rechtsakte und
+einer Lebenswelt - Behörden; Verbaende; technische Regeln; europaeische Rechtsakte und
 Vollzugspraxis greifen ineinander.
 
 ### Wer spielt mit
 
 - **Federfuehrendes Referat** (im AA)
-- **Nachgeordnete Behoerden und Aufsichten** des Geschaeftsbereichs
+- **Nachgeordnete Behörden und Aufsichten** des Geschaeftsbereichs
 - **Bundesrat-Ausschuss** (bei zustimmungs- oder einspruchspflichtigen Vorhaben)
 - **Bundestags-Fachausschuss** (AA-Spiegel)
 - **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
@@ -45,7 +45,7 @@ gerichts-Linie und BVerwG-Linie.
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
  konsistent halten (siehe `terminologie-konsistenz`).
-- **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
+- **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Ländern oder nachgeordneten Behörden;
  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
  (siehe `goldplating-vermeiden`).
@@ -85,7 +85,7 @@ in das Auftragsblatt einpflegen.
 ### Schritt 2 - Spezialfeld waehlen
 
 Aus den fuenf Spezialfeldern (siehe oben) das passende waehlen. Bei Mehrfachbezug: das
-schwerpunktmaessige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
+schwerpunktmäßige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
 
 ### Schritt 3 - Ressortaufgaben-Skill rufen
 
@@ -121,7 +121,7 @@ Naechster Skill: legw-ressortaufgaben-aa
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

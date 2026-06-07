@@ -40,7 +40,7 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Soz
 - **SGG §§ 51, 54, 86b** Sozialgerichtsweg, einstweiliger Rechtsschutz.
 - **BSG-/BVerwG-Abgrenzung** zum Rechtsweg.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Streitgegenstand klassifizieren:** Verguetungsstreit ↔ Strukturstreit; SGB V ↔ KHG.
 2. **Rechtsweg bestimmen:**
  - Schiedsstellenentscheidung nach KHG → Verwaltungsgericht (§ 18a Abs. 4 KHG).
@@ -57,7 +57,7 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Soz
 |---|---|---|---|
 | Schiedsstellenentscheidung (Budget) | VG | Anfechtung + Verpflichtung | 1 Monat |
 | Genehmigungsbescheid Land KHEntgG | VG | Anfechtung | 1 Monat |
-| Einzelabrechnung SGB V | SG | Leistungsklage | 4 Jahre (Verjaehrung) |
+| Einzelabrechnung SGB V | SG | Leistungsklage | 4 Jahre (Verjährung) |
 | Versorgungsauftrag § 109 | SG | Feststellung | offen |
 | Plankrankenhaus-Bescheid | VG | Anfechtung/Verpflichtung | 1 Monat |
 

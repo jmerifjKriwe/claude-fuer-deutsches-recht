@@ -18,7 +18,7 @@ description: "Praxis-Skill zu Grunderwerbsteuer-Tatbestaenden bei Anteilsuebertr
 3. Greift Konzernklausel § 6a GrEStG mit Vor- und Nachbehaltensfrist?
 4. Ist die Anzeige § 19 GrEStG binnen zwei Wochen erfolgt?
 5. Welche Steuerlast ergibt sich nach Bemessungsgrundlage § 8 GrEStG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

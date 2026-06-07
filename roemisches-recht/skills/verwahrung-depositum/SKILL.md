@@ -5,6 +5,24 @@ description: "Römisches Recht: Verwahrung Depositum. Geführter Fachmodul mit Q
 
 # Verwahrung Depositum
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Arbeitsauftrag
 
 Dieser Skill bearbeitet **Verwahrung Depositum** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
@@ -71,5 +89,5 @@ Sachverhalt: A gibt sein Geld waehrend eines Brandes bei B in Verwahrung; B unte
 - **BGB**: §§ 688-700 BGB Verwahrung; § 695 BGB Rueckgabepflicht.
 
 ### Receptum nautarum cauponum stabulariorum
-- D. 4.9 — Sondervorschrift: Reeder, Gastwirte, Stallbetreiber haften strenger fuer eingebrachte Sachen (custodia-Haftung).
+- D. 4.9 — Sondervorschrift: Reeder, Gastwirte, Stallbetreiber haften strenger für eingebrachte Sachen (custodia-Haftung).
 - Modern: §§ 701-704 BGB Gastwirtshaftung.

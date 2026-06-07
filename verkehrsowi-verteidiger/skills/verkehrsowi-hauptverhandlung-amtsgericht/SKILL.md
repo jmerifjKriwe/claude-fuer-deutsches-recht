@@ -24,7 +24,7 @@ Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nac
 3. **Einlassung oder Schweigen?** — § 55 OWiG: Schweigen neutral; Einlassung nur wenn strategisch vorteilhaft.
 4. **Verstaendigungsangebot gemacht?** — Informelle Gespraech mit Staatsanwalt oder Richter vor HV.
 5. **Rechtsbeschwerde vorbereitbar?** — § 79 OWiG: Nur bei Geldbusse > 250 EUR oder Fahrverbot; Revisionsbegrenzt auf Rechtsfehler.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -115,7 +115,7 @@ ohne Fahrverbot.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

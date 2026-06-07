@@ -10,7 +10,7 @@ description: "Kanzlei oder Unternehmen richtet das gewerbliche-Rechtsschutz-Plug
 Das Ersteinrichtungsinterview sammelt die kanzleispezifischen Informationen, die alle anderen Skills benötigen: Rechtsgebiets-Mix, Jurisdiktion, Schutzrechtsportfolio, Durchsetzungsstrategie und Genehmigungsmatrix. Ohne dieses Interview liefern alle anderen Skills generische Ergebnisse, die möglicherweise nicht mit der Kanzleipraxis übereinstimmen.
 
 Das Interview schreibt das Kanzleiprofil in:
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md`
+`~/.claude/plugins/config/claude-für-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md`
 
 Dieser Pfad überlebt Plugin-Updates.
 
@@ -22,7 +22,7 @@ Keine Pflicht-Eingaben vor dem Start. Das Interview fragt nacheinander ab.
 
 ### Phase 1: Gemeinsames Kanzleiprofil (5 Minuten)
 
-Falls `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` nicht existiert oder Platzhalter enthält, zunächst diese fünf Fragen stellen:
+Falls `~/.claude/plugins/config/claude-für-deutsches-recht/unternehmens-profil.md` nicht existiert oder Platzhalter enthält, zunächst diese fünf Fragen stellen:
 
 1. **Vollständiger Name** der Kanzlei / des Unternehmens (vollständige Firma)
 2. **Rechtsform und Größe** (Einzelkanzlei, Partnerschaft mbB, GmbH & Co. KG, Inhouse-Rechtsabteilung; Anzahl Anwälte/Mitarbeiter)
@@ -78,7 +78,7 @@ Gesprächsorientiert, ein Thema nach dem anderen:
 ### Phase 3: Profil schreiben
 
 Nach Abschluss des Interviews alle Antworten in das Kanzleiprofil unter
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md`
+`~/.claude/plugins/config/claude-für-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md`
 schreiben. Alle `[PLATZHALTER]`-Marker durch die tatsächlichen Informationen ersetzen.
 
 Bestätigung ausgeben:

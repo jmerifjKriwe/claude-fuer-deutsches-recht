@@ -13,7 +13,7 @@ description: "Wpig ZAG im Plugin Regulatorisches Recht im Regulatorisches Recht:
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `wpig-und-zag-pruefung` | WpIG und ZAG Pruefung: Wertpapierinstitutsgesetz und Zahlungsdiensteaufsichtsgesetz Voraussetzungen fuer Lizenz, Anwendungsbereich, Schnittstellen zu PSD3-Entwurf, Crypto-Asset-Service-Provider unter MiCAR. Pruefraster fuer Geschaeftsmodelle und Sandbox-Optionen. |
+| `wpig-und-zag-pruefung` | WpIG und ZAG Pruefung: Wertpapierinstitutsgesetz und Zahlungsdiensteaufsichtsgesetz Voraussetzungen für Lizenz, Anwendungsbereich, Schnittstellen zu PSD3-Entwurf, Crypto-Asset-Service-Provider unter MiCAR. Pruefraster für Geschaeftsmodelle und Sandbox-Optionen. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ description: "Wpig ZAG im Plugin Regulatorisches Recht im Regulatorisches Recht:
 
 ## 1. `wpig-und-zag-pruefung`
 
-**Fokus:** WpIG und ZAG Pruefung: Wertpapierinstitutsgesetz und Zahlungsdiensteaufsichtsgesetz Voraussetzungen fuer Lizenz, Anwendungsbereich, Schnittstellen zu PSD3-Entwurf, Crypto-Asset-Service-Provider unter MiCAR. Pruefraster fuer Geschaeftsmodelle und Sandbox-Optionen.
+**Fokus:** WpIG und ZAG Pruefung: Wertpapierinstitutsgesetz und Zahlungsdiensteaufsichtsgesetz Voraussetzungen für Lizenz, Anwendungsbereich, Schnittstellen zu PSD3-Entwurf, Crypto-Asset-Service-Provider unter MiCAR. Pruefraster für Geschaeftsmodelle und Sandbox-Optionen.
 
 # WpIG und ZAG: Abgrenzung und Erlaubnisraster
 

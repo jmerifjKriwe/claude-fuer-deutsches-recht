@@ -57,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Anklageschrift muss Tatvorwurf konkret bezeichnen (Tatzeit, Tatort, Geschehensablauf).
  - Bei mangelnder Substantiierung Einwendungen § 201 StPO; Ablehnung Eroeffnungsbeschluss.
 - **Beweiswuerdigung § 261 StPO** (freie richterliche Ueberzeugung):
- - Voraussetzung: persoenliche, vorbehaltlose Ueberzeugung des Gerichts.
+ - Voraussetzung: persönliche, vorbehaltlose Ueberzeugung des Gerichts.
  - In dubio pro reo: bei Restzweifeln Freispruch.
  - Beweiswuerdigungsmaengel sind Revisionsgrund § 337 StPO.
 - **Widerspruchspruefung Aussagen:**
@@ -68,7 +68,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Beweisantraege § 244 StPO** zur Widerlegung:
  - Beweisantragsteller-Pflicht Konkretisierung Beweismittel + Beweisthema.
  - Ablehnung nur aus engen Gruenden § 244 III StPO.
-- **Hilfsbeweisantraege:** fuer Eventualfall Verurteilung.
+- **Hilfsbeweisantraege:** für Eventualfall Verurteilung.
 - **Praxis-Tipp:**
  - Widerspruchsmatrix mit Aussage 1 | Aussage 2 | objektiv beweise | Widerspruch | Verteidigungsansatz.
  - Pruefung ob Beweisverwertungsverbote auch ohne Widerspruch zu beruecksichtigen sind (rechtsstaatliche Eingriffsintensitaet; BGH-Linie).

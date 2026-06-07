@@ -31,14 +31,14 @@ oder:
 
 oder:
 
-**ALR II 17 § 10** — Teil II (Staats/oeffentliches Recht), Titel 17 (Polizey), Paragraph 10.
+**ALR II 17 § 10** — Teil II (Staats/öffentliches Recht), Titel 17 (Polizey), Paragraph 10.
 
 ## Verfuegbare Digitalisate
 
 - **Hattenhauer 1996** (Standardausgabe): in groesseren Universitaetsbibliotheken.
 - **opinioiuris.de**: digitalisierte Originalausgaben.
 - **koeblergerhard.de**: Editionsvergleich.
-- **MPI Frankfurt fuer Rechtsgeschichte**: Digitalisat-Sammlung.
+- **MPI Frankfurt für Rechtsgeschichte**: Digitalisat-Sammlung.
 - **Deutsche Digitale Bibliothek**.
 
 ## Hinweise

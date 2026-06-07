@@ -1,6 +1,6 @@
 ---
 name: sozialrecht-kanzlei-kaltstart-interview
-description: "Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Schwerpunktbereiche (Buergergeld SGB II / SGB IX Schwerbehinderung / SGB V Krankenversicherung / SGB XI Pflege / Asylbewerberleistungsgesetz) zuständige Sozialgerichte typische Mandate (Bescheid-Widerspruch / Klage / Eilrechtsschutz) Prozesskostenhilfe-Quote Sekretariatslast Aktenstruktur-Konvention Versandwege (beA / Post / ePostfach Behoerde) Eskalation. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md. Mit --redo neu interviewen."
+description: "Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Schwerpunktbereiche (Buergergeld SGB II / SGB IX Schwerbehinderung / SGB V Krankenversicherung / SGB XI Pflege / Asylbewerberleistungsgesetz) zuständige Sozialgerichte typische Mandate (Bescheid-Widerspruch / Klage / Eilrechtsschutz) Prozesskostenhilfe-Quote Sekretariatslast Aktenstruktur-Konvention Versandwege (beA / Post / ePostfach Behörde) Eskalation. Schreibt Profil nach ~/.claude/plugins/config/claude-für-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md. Mit --redo neu interviewen."
 ---
 
 # /sozialrecht-kanzlei:sozialrecht-kanzlei-kaltstart-interview
@@ -15,7 +15,7 @@ description: "Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Sch
 
 ## Ablauf
 
-1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md` prüfen.
+1. Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md` prüfen.
 2. Falls vorhanden ohne Platzhalter: bestätigen.
 3. Andernfalls Interview unten durchführen.
 4. Datei schreiben.

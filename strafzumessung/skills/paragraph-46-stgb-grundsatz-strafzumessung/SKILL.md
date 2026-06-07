@@ -30,14 +30,14 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 
 ## Rechtliche Grundlagen
 
-- **§ 46 Abs. 1 Satz 1 StGB** — "Die Schuld des Taeters ist Grundlage fuer die Zumessung der Strafe."
-- **§ 46 Abs. 1 Satz 2 StGB** — Die Wirkungen, die von der Strafe fuer das kuenftige Leben des Taeters in der Gesellschaft zu erwarten sind, sind zu beruecksichtigen (Spezialpraevention).
-- **§ 46 Abs. 2 StGB** — Bei der Zumessung waegt das Gericht die Umstaende, die fuer und gegen den Taeter sprechen, gegeneinander ab. Genannt sind insbesondere:
+- **§ 46 Abs. 1 Satz 1 StGB** — "Die Schuld des Taeters ist Grundlage für die Zumessung der Strafe."
+- **§ 46 Abs. 1 Satz 2 StGB** — Die Wirkungen, die von der Strafe für das kuenftige Leben des Taeters in der Gesellschaft zu erwarten sind, sind zu beruecksichtigen (Spezialpraevention).
+- **§ 46 Abs. 2 StGB** — Bei der Zumessung waegt das Gericht die Umstaende, die für und gegen den Taeter sprechen, gegeneinander ab. Genannt sind insbesondere:
  - Beweggruende und Ziele des Taeters, **besonders auch rassistische, fremdenfeindliche, antisemitische, geschlechtsspezifische, gegen die sexuelle Orientierung gerichtete oder sonstige menschenverachtende** Beweggruende und Ziele;
  - Gesinnung, die aus der Tat spricht, und der bei der Tat aufgewendete Wille;
  - Mass der Pflichtwidrigkeit;
  - Art der Ausfuehrung und verschuldete Auswirkungen der Tat;
- - Vorleben des Taeters, seine persoenlichen und wirtschaftlichen Verhaeltnisse;
+ - Vorleben des Taeters, seine persönlichen und wirtschaftlichen Verhaeltnisse;
  - Verhalten nach der Tat, namentlich Bemuehen, den Schaden wiedergutzumachen, und das Bemuehen des Taeters, einen Ausgleich mit dem Verletzten zu erreichen.
 - **§ 46 Abs. 3 StGB** — **Doppelverwertungsverbot**: Umstaende, die schon Merkmale des gesetzlichen Tatbestandes sind, duerfen nicht beruecksichtigt werden.
 
@@ -48,7 +48,7 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 - Spielraumtheorie: Innerhalb des "Spielraums schuldangemessener Strafe" wird die Strafe nach praeventiven Erwaegungen bestimmt (so die st. Rspr. seit BGH GS BGHSt 7, 28; verifizieren in dejure.org).
 - **Keine Praejudizienbindung** im deutschen Strafrecht (Ausnahme § 31 BVerfGG); jede Strafzumessung ist konkret zu begruenden.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 1. **Schuld bestimmen**: Welche Tatbestaende verwirklicht? Welche Schuldform (Vorsatz, Fahrlaessigkeit)? Schuldminderungs- oder -ausschlussgruende (§§ 17, 20, 21 StGB)?
 2. **Strafrahmen bestimmen**: Grundtatbestand, Qualifikation, Privilegierung, Regelbeispiele, minder schwerer Fall, Strafmilderungs-/Schaerfungsgruende (§§ 49, 23 Abs. 2, 28 StGB).

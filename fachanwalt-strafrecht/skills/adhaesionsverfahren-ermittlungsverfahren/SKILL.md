@@ -15,7 +15,7 @@ description: "Adhaesionsverfahren Ermittlungsverfahren im Strafrecht: prüft kon
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `fachanwalt-strafrecht-adhaesionsverfahren` | Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO Adhaesionsverfahren, § 823 BGB Schadensersatz, § 253 BGB Schmerzensgeld. Prüfraster Zulässigkeit im Strafverfahren, Antragsschrift-Anforderungen, Beweisangebot, taktische Abwaegung Adhaesion vs. separater Zivilprozess. Output Adhaesionsantrag mit Schadensaufstellung und taktischer Einordnung. Abgrenzung zu Taeter-Opfer-Ausgleich § 46a StGB und zu Verständigung § 257c StPO. |
 | `spezial-ermittlungsverfahren-vergleich-eskalation` | Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-orientierung-fristen-form-und-zustaendigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-orientierung-fristen-form-und-zuständigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `strafprozess-aktenlog-fristen-und-wiedervorlagen` | Aktenlog, Fristenbuch und Wiedervorlagen im Strafverfahren: erstellt aus Eingangspost, beA, EGVP, Verfügung, Ladung, Beschluss, Strafbefehl, Urteil und Aktennachlieferung eine robuste Fristen- und Aufgabensteuerung. |
 
 ## Arbeitsweg
@@ -67,8 +67,8 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Frist-Re-Check** alle Verfahrensschritte: Berufung § 314 StPO (1 Woche), Revision § 341 StPO (1 Woche) + § 345 StPO (1 Monat), Strafbefehl-Einspruch § 410 StPO (2 Wochen), Beschwerde § 311 StPO (sofortige 1 Woche; einfache § 304 StPO unbefristet), Wiedereinsetzung § 44 StPO (1 Woche ab Wegfall), Klageerzwingungsverfahren § 172 StPO.
 - **Belehrungs-Re-Check:** § 136 StPO Beschuldigtenbelehrung; § 52 StPO Zeugnisverweigerung Angehoeriger; § 55 StPO Auskunftsverweigerung; § 257c V StPO Verstaendigungsbelehrung; qualifizierte Belehrung bei Wiederholung der Vernehmung.
 - **Beweisverwertungs-Check:** § 136a StPO verbotene Vernehmungsmethoden; § 252 StPO Sperrwirkung; Beweisverwertungsverbote bei Belehrungsmaengeln (BGH-Linie).
-- **Verfahrensruegen-Check fuer Revision:** absoluter Revisionsgrund § 338 StPO (Besetzung, Ausschlussgruende, Sachleitung); relativer § 337 StPO; Verstaendigungsmaengel § 257c StPO; Akteneinsichts-Verletzung § 147 StPO.
-- **Vollmachts-Check:** Mandatsvollmacht; Vertretungsvollmacht fuer § 411 II StPO bei Strafbefehl, § 232 StPO bei Abwesenheitsverhandlung.
+- **Verfahrensruegen-Check für Revision:** absoluter Revisionsgrund § 338 StPO (Besetzung, Ausschlussgruende, Sachleitung); relativer § 337 StPO; Verstaendigungsmaengel § 257c StPO; Akteneinsichts-Verletzung § 147 StPO.
+- **Vollmachts-Check:** Mandatsvollmacht; Vertretungsvollmacht für § 411 II StPO bei Strafbefehl, § 232 StPO bei Abwesenheitsverhandlung.
 - **Konsequenzen-Re-Check:** BZRG-Eintrag, FZR-Eintrag, berufsrechtliche Konsequenzen (Beamtenrecht, Aerzte, Rechtsanwaelte), auslaendische Folgen (Visum, Niederlassung).
 - **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB, § 53 I Nr. 2 StPO Zeugnisverweigerung.
 
@@ -94,7 +94,7 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 8. Welcher Betrag soll konkret geltend gemacht werden, oder soll das Schmerzensgeld dem Ermessen des Gerichts überlassen bleiben?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -384,7 +384,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
-## 4. `spezial-orientierung-fristen-form-und-zustaendigkeit`
+## 4. `spezial-orientierung-fristen-form-und-zuständigkeit`
 
 **Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
@@ -421,14 +421,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
-## Strafrecht-Orientierung Fristen / Form / Zustaendigkeit Bausteine
-- **Sachliche Zustaendigkeit GVG:**
+## Strafrecht-Orientierung Fristen / Form / Zuständigkeit Bausteine
+- **Sachliche Zuständigkeit GVG:**
  - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
  - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
  - **Grosse Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
  - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
  - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
-- **Oertliche Zustaendigkeit StPO:**
+- **Oertliche Zuständigkeit StPO:**
  - **§ 7 StPO:** Tatort - regelmaessig massgeblich.
  - **§ 8 StPO:** Wohnsitz Beschuldigter.
  - **§ 9 StPO:** Ergreifungsort.
@@ -441,7 +441,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Wiedereinsetzung § 44 StPO: 1 Woche** ab Wegfall des Hindernisses.
  - **Klageerzwingungsverfahren § 172 II StPO: Antrag 1 Monat** ab Bescheid GenStA.
 - **Form-Re-Check:**
- - **Schriftform** zwingend fuer Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
+ - **Schriftform** zwingend für Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
  - **Unterschrift** Verteidiger / Mandant.
  - **Vollmacht** bei Vertretung.
  - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).

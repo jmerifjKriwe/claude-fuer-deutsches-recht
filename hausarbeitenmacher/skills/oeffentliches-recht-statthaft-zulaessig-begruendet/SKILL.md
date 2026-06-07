@@ -269,7 +269,7 @@ B. Begründetheit
 - `verfassungsrecht-grundrechtspruefung` — bei Grundrechts-Bezug
 - `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — bei EU-Bezug
 - `gliederung-mit-tiefenstruktur` — Gliederung
-- `subsumtion-schritt-fuer-schritt` — Subsumtions-Praxis
+- `subsumtion-schritt-für-schritt` — Subsumtions-Praxis
 
 ## Qualitäts-Hardening
 

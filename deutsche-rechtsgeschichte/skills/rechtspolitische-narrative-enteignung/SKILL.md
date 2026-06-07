@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie
 
 Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch
 
 ## Worum es geht
 
-Rechtspolitische Narrative sind verdichtete Erzaehlungen ueber die Bedeutung historischer Ereignisse fuer heutige Rechtspositionen. Beispiele: Sozialversicherung als Bismarck-Errungenschaft, WRV als gescheitertes Experiment, NS als absoluter Zivilisationsbruch, BGB als Arbeitgeberrecht, Wiedervereinigung als Erfolgsgeschichte. Diese Narrative haben politische Funktionen, aber methodisch muss man fragen: Was sagen die Quellen wirklich? Sind die Schlussfolgerungen belegt oder projiziert? Welche Gegennarrative gibt es? Ein geprueftes Narrativ ist sachlich praeziser und widersteht Gegenarrumenten besser.
+Rechtspolitische Narrative sind verdichtete Erzaehlungen ueber die Bedeutung historischer Ereignisse für heutige Rechtspositionen. Beispiele: Sozialversicherung als Bismarck-Errungenschaft, WRV als gescheitertes Experiment, NS als absoluter Zivilisationsbruch, BGB als Arbeitgeberrecht, Wiedervereinigung als Erfolgsgeschichte. Diese Narrative haben politische Funktionen, aber methodisch muss man fragen: Was sagen die Quellen wirklich? Sind die Schlussfolgerungen belegt oder projiziert? Welche Gegennarrative gibt es? Ein geprueftes Narrativ ist sachlich praeziser und widersteht Gegenarrumenten besser.
 
 ## Kernnormen / Kernquellen
 
@@ -53,9 +70,9 @@ Rechtspolitische Narrative sind verdichtete Erzaehlungen ueber die Bedeutung his
 
 ## Output
 
-- Narrativ-Pruef-Schema fuer rechtshistorische Argumente
+- Narrativ-Pruef-Schema für rechtshistorische Argumente
 - Fallbeispiel: Bismarck-Sozialversicherungsnarrativ geprueft
-- Checkliste: Warnsignale fuer politisch aufgeladene Rechtsgeschichte
+- Checkliste: Warnsignale für politisch aufgeladene Rechtsgeschichte
 
 ## Quellenregel
 

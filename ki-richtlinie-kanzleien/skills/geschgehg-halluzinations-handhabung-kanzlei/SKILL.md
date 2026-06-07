@@ -65,7 +65,7 @@ Das GeschGehG ist ein vergleichsweise junges Gesetz (in Kraft seit 26. April 201
 4. Gibt es einen Geheimhaltungsvertrag mit dem KI-Anbieter (NDA / AVV mit Vertraulichkeitsklausel)?
 5. Wurden Mitarbeiter auf die GeschGehG-Pflichten im KI-Kontext hingewiesen?
 
-## Output-Template — GeschGehG-Baustein fuer KI-Richtlinie
+## Output-Template — GeschGehG-Baustein für KI-Richtlinie
 **Adressat:** Kanzlei-Mitarbeiter / Rechtsabteilung — Tonfall: verbindlich, schutzbewusst
 ```
 GESCHAEFTSGEHEIMNIS-BAUSTEIN (GeschGehG)

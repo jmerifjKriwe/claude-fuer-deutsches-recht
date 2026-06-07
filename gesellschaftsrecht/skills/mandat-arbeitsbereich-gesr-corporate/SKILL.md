@@ -50,7 +50,7 @@ Vor Anlage eines neuen Mandats-Workspace sind folgende Angaben erforderlich:
 6. **Wesentliche Fakten:** 2–5 Sätze zu Gegenstand, Stakeholdern und dem, was auf dem Spiel steht.
 7. **Mandatsspezifische Abweichungen vom Praxisstandard:** Was weicht von den Kanzlei-Standardvorgaben ab (z.B. abweichende Haftungsdeckelung, Sprachregelung, Rechtsordnung)?
 8. **Verbundene Mandate:** Slug-Verweise auf verwandte Mandate (z.B. NDA-Mandat, das dem SPA-Mandat vorausging)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -186,7 +186,7 @@ Rechtsanwalt / Rechtsanwältin
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -383,7 +383,7 @@ Abgeschlossen: [NEIN / JA — TT.MM.JJJJ; archiviert]
 
 ## Rote Schwellen
 
-- **GwG-Identifizierung fehlt** — strafrechtliches Risiko fuer Rechtsanwalt (§§ 10 ff. GwG); vor Weiterarbeit nachholen.
+- **GwG-Identifizierung fehlt** — strafrechtliches Risiko für Rechtsanwalt (§§ 10 ff. GwG); vor Weiterarbeit nachholen.
 - **Interessenkonflikt nicht geprueft** — Verstoß gegen § 43a Abs. 4 BRAO; Mandat unverzueglich auf Konflikt pruefen.
 - **Anwaltliche Verschwiegenheit: Dateien aus anderem Mandat im Workspace** — § 43a Abs. 2 BRAO, § 203 StGB; sofort entfernen; Fehler dokumentieren.
 - **Handakten-Aufbewahrungsfrist § 50 BRAO** — mind. 5 Jahre nach Mandat-Abschluss; Loeschung erst nach Ablauf.

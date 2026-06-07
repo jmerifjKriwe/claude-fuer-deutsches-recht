@@ -5,6 +5,23 @@ description: "Straßenrecht und Infrastruktur: Kaltstart, Aktenlandkarte, Rollen
 
 # Straßenrecht und Infrastruktur - Allgemeiner Einstieg
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 90 GG` — Bundesfernstrassenverwaltung.
+- `§ 1 FStrG` — Bundesfernstrassen.
+- `§ 2 FStrG` — Widmung, Umstufung, Einziehung.
+- `§ 3 FStrG` — Baulast.
+- `§ 9 FStrG` — Anbauverbote und -beschraenkungen.
+- `§ 17 FStrG` — Planfeststellung.
+- `§ 17a FStrG` — Plangenehmigung/Planfeststellungsverfahren.
+- `§ 74 VwVfG` — Planfeststellungsbeschluss.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Aufgabe
 
 Führt in Straßenrecht und Infrastruktur ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.

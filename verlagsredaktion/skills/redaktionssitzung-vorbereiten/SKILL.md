@@ -37,7 +37,7 @@ Sie brauchen ihn, wenn eine Sitzung in den naechsten 1-7 Tagen ansteht. Klaeren 
 - Themenideen aus Themenscout-Skill.
 - Aktuelle Rspr.-Hits aus letzten 4-12 Wochen.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Agenda priorisieren.** Maximal 5-7 Tagesordnungspunkte. Pro TOP: gewuenschte Entscheidung, Vorbereitungsmaterial, Zeitfenster.
 2. **Themenscoring-Tabelle.** Jeder Themenvorschlag mit: Aktualitaet (1-5), Lesernutzen (1-5), Eigenleistung-Faktor (originell / Aufguss), Autorenverfuegbarkeit, Konkurrenzlage (haben NJW / NZA / JuS das schon?).
@@ -52,7 +52,7 @@ Sie brauchen ihn, wenn eine Sitzung in den naechsten 1-7 Tagen ansteht. Klaeren 
 | Pfad | A: Lange Sitzung mit Diskussion | B: Kurze Entscheidungssitzung | Empfehlung |
 |------|--------------------------------|-------------------------------|------------|
 | Beteiligungsgrad | hoch | mittel | B im Regelfall |
-| Entscheidungsdichte | mittel | hoch | B fuer Verlagsroutine |
+| Entscheidungsdichte | mittel | hoch | B für Verlagsroutine |
 | Energie der Beteiligten | leidet bei Laenge | bleibt erhalten | B |
 | Sonderfall | A bei Krisenthema / Strategieneuausrichtung |
 
@@ -106,9 +106,9 @@ Frist Druckfreigabe: 29.07.2026
 
 ## Querverweise
 
-- `verl-jourfix-vorbereiten-protokoll` - Schwester-Skill fuer Jourfixe.
+- `verl-jourfix-vorbereiten-protokoll` - Schwester-Skill für Jourfixe.
 - `verl-themenscout-rechtsentwicklung` - liefert Themenkandidaten.
-- `verl-ideenpool-und-priorisierung` - fuer den Backlog.
+- `verl-ideenpool-und-priorisierung` - für den Backlog.
 - `verl-redaktionsmemo-jahresplanung` - Jahresplanung uebergeordnet.
 - `workflow-output-waehlen` - Output-Wahl pro Beitrag.
 
@@ -116,5 +116,5 @@ Frist Druckfreigabe: 29.07.2026
 
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Allgemeine Regeln zu Sitzungsfuehrung und Protokoll: keine spezifische juristische Quelle erforderlich.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016 (fuer Protokoll-Belegformat).
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Protokoll-Belegformat).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

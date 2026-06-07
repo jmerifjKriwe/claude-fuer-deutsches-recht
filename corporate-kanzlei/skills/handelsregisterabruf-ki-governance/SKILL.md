@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -170,14 +170,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Pfandrechte auf Anteile eingetragen | Kreditbesicherung; finanzielle Schwierigkeiten |
 | Gesellschafterliste alt (> 1 Jahr) | Aenderungen nicht angemeldet; CoC-Risiko |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Vollstaendigen HR-Auszug abrufen** — elektronisch via www.handelsregister.de oder beA; Kosten ca. EUR 4.50
 2. **Chronologischen Ausdruck anfordern** — alle historischen Eintragungen (nicht nur aktuell)
 3. **Gesellschafterliste pruefen** — aktuell? Widersprueche mit Transaktionsunterlagen?
 4. **Transparenzregister abfragen** — UBO identifizieren; Fiktionswirkung pruefen (§ 20 II GwG)
 5. **Bundesanzeiger-Recherche** — Jahresabschluesse; Kapitalmarktmitteilungen; Insolvenzen
-6. **Prokuren-Check** — wer ist handlungsbevollmaechtig; relevant fuer Vertragsunterschriften
+6. **Prokuren-Check** — wer ist handlungsbevollmaechtig; relevant für Vertragsunterschriften
 7. **Red Flags dokumentieren** — strukturierter Kommentar mit Handlungsempfehlungen
 8. **In DD-Report einfliessen lassen** — Corporate-Workstream aufbauen
 

@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-lieferanten-onboarding-aussenhandel
-description: "Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung fuer praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung für praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lieferanten-Onboarding: Aussenwirtschaftliche Compliance und Sanktionspruefung
 
 ## Arbeitsbereich
 
-Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung fuer praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung für praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,8 +20,8 @@ Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Liefe
 ## Mandantenfall
 
 - Einkauf moechte neuen Lieferanten aus Tuerkei aufnehmen; Sanktions- und Dual-Use-Weiterlieferungsrisiko.
-- Lieferant aus China soll Vorprodukte fuer Dual-Use-Endprodukt liefern; Herkunft und Endverwendung pruefen.
-- LkSG-Sorgfaltspflicht erfordert Lieferanten-Risikoanalyse auch fuer Aussenwirtschafts-Compliance.
+- Lieferant aus China soll Vorprodukte für Dual-Use-Endprodukt liefern; Herkunft und Endverwendung pruefen.
+- LkSG-Sorgfaltspflicht erfordert Lieferanten-Risikoanalyse auch für Aussenwirtschafts-Compliance.
 
 ## Erste Schritte
 
@@ -29,12 +29,12 @@ Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Liefe
 2. Sanktionslistenscreening Lieferant und UBO-Kette.
 3. Herkunftsland-Pruefung: Sanktionsbetroffenes Land? Umgehungsland?
 4. Dual-Use-Vorprodukt-Check: Liefert der Lieferant Dual-Use-Gueter?
-5. Lieferantenerklaerung fuer Praeferenzursprung anfordern und auf Plausibilitaet pruefen.
+5. Lieferantenerklaerung für Praeferenzursprung anfordern und auf Plausibilitaet pruefen.
 6. Risikoklassifizierung und periodisches Re-Screening-Intervall festlegen.
 
 ## Rechtsrahmen
 
-- **VO (EU) 269/2014, 833/2014**: Bereitstellungsverbote fuer sanktionierten Lieferanten.
+- **VO (EU) 269/2014, 833/2014**: Bereitstellungsverbote für sanktionierten Lieferanten.
 - **LkSG § 3 ff.**: Sorgfaltspflichten in Lieferketten inkl. aussenwirtschaftlicher Aspekte.
 - **VO (EU) 2021/821 Art. 4**: Catch-All bei Kenntnislage aus Lieferantenbeziehung.
 - **VO (EU) 952/2013 (UZK) Art. 62**: Praeferenzursprung und Lieferantenerklaerung.
@@ -46,7 +46,7 @@ Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Liefe
 - [ ] Sanktionslistenscreening Lieferant und verbundene Unternehmen?
 - [ ] Herkunftsland auf Sanktions- oder Umgehungsrisiken geprueft?
 - [ ] Dual-Use-Charakter der Liefergueter bewertet?
-- [ ] Lieferantenerklaerung fuer Praeferenzursprung vollstaendig?
+- [ ] Lieferantenerklaerung für Praeferenzursprung vollstaendig?
 - [ ] Risikoklassifizierung und Re-Screening-Intervall festgelegt?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Liefe
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

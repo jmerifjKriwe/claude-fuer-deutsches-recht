@@ -126,7 +126,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `erfinderische-taetigkeit-pruefen` | Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern. Drei Stufen: (1) Bestimmung des naechstliegenden Stands der Technik (closest prior art) anhand… |
 | `freedom-to-operate-recherche` | Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14… |
 | `klassifikation-cpc-ipc` | CPC- und IPC-Klassifikation für Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen für Datenbanksuche muessen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC… |
-| `neuheit-pruefen` | Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-fuer-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die… |
+| `neuheit-pruefen` | Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-für-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die… |
 | `patentfamilien-analyse` | Patentfamilien-Analyse über INPADOC und Espacenet-Family-View. Sammelt zu einem konkreten Treffer alle Familienmitglieder weltweit DE EP US JP CN KR WO und sonstige Aemter mit gleichem Prioritaetstag. Liefert eine… |
 | `patentrecherche-kaltstart-interview` | Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentassessor Patentingenieur Recherchekraft) welche Kanzlei und welche Technikgebiete (Mechanik… |
 | `pruefungsbescheid-vorbereiten` | Bereitet Antwort auf Prüfungsbescheid des DPMA nach § 45 PatG oder des EPA nach Art. 94 EPUe systematisch vor. Liest den Bescheid und die zitierten Entgegenhaltungen ein. Strukturiert pro Beanstandung: Beanstandung… |
@@ -144,7 +144,7 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 
 ## Wann brauchen Sie diese Skill?
 
-- Mandant hat neue Erfindung und will wissen, ob sie neuheitlich und erfinderisch genueg fuer eine Patentanmeldung ist.
+- Mandant hat neue Erfindung und will wissen, ob sie neuheitlich und erfinderisch genueg für eine Patentanmeldung ist.
 - Unternehmen plant Markteintritt mit neuem Produkt und braucht FTO-Recherche zu aktiven Schutzrechten von Wettbewerbern.
 - Patentanwalt erhaelt Pruefungsbescheid des DPMA oder EPA und muss Antwort mit Stand-der-Technik-Analyse vorbereiten.
 - Mandant will Patentportfolio eines Konkurrenten laufend beobachten (Ueberwachung Neuanmeldungen).
@@ -153,9 +153,9 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 ## Fachbegriffe (kurz erklaert)
 
 - **Neuheit (§ 3 PatG / Art. 54 EPUe)** — Eine Erfindung gilt als neu, wenn sie nicht zum Stand der Technik gehoert; jeder Voroffenbarung (weltweit, zeitlos) schadet.
-- **Erfinderische Taetigkeit (§ 4 PatG / Art. 56 EPUe)** — Erfindung darf sich fuer den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergeben.
+- **Erfinderische Taetigkeit (§ 4 PatG / Art. 56 EPUe)** — Erfindung darf sich für den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergeben.
 - **Problem-Solution-Approach (PSA)** — Standardmethode der EPA-Beschwerdekammern: naechster Stand der Technik, objektive technische Aufgabe, naheliegend?
-- **CPC / IPC** — Cooperative Patent Classification / International Patent Classification; hierarchische Klassifikationssysteme fuer Patentdokumente.
+- **CPC / IPC** — Cooperative Patent Classification / International Patent Classification; hierarchische Klassifikationssysteme für Patentdokumente.
 - **Freedom to Operate (FTO)** — Pruefung, ob ein Produkt oder Verfahren in einen Anspruch eines Drittpatents faellt und damit Verletzungsrisiko besteht.
 - **INPADOC** — Internationaler Patenddokumentationsdienst; liefert Familienzusammenhaenge und Rechtsstanddaten ueber EPO.
 - **Patentfamilie** — Alle nationalen und regionalen Schutzrechte, die auf dieselbe Prioritaetsanmeldung zurueckgehen.
@@ -170,28 +170,28 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 - Art. 52-57 EPUe — Patentierbarkeit nach Europaeischem Patentrecht
 - Art. 94 EPUe — Pruefungsverfahren EPA
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Neuanmeldung, FTO, Pruefungsbescheid-Antwort oder Konkurrenzueberwachung?
 2. Erfindungsmaterial aufnehmen: Anspruchsentwurf, Beschreibung oder technisches Dokument hochladen.
-3. Klassifikation bestimmen: CPC/IPC-Klassen fuer gezielte Datenbanksuche festlegen.
+3. Klassifikation bestimmen: CPC/IPC-Klassen für gezielte Datenbanksuche festlegen.
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
 5. Recherchebericht erstellen und Ergebnisse dem Mandanten kommunizieren.
 
 ## Skill-Tour (was gibt es hier?)
 
 - `patentrecherche-kaltstart-interview` — Erstkontakt und Aufnahme der Rechercheanforderungen: Wer recherchiert, was ist das Ziel, welches Material liegt vor?
-- `klassifikation-cpc-ipc` — CPC- und IPC-Klassen fuer die Datenbankrecherche bestimmen und Klassifikationsdossier erstellen.
+- `klassifikation-cpc-ipc` — CPC- und IPC-Klassen für die Datenbankrecherche bestimmen und Klassifikationsdossier erstellen.
 - `agentische-datenbank-recherche` — Agentische Suche in natuerlicher Sprache ueber Espacenet, Google Patents, DEPATISnet, WIPO und USPTO.
 - `stand-der-technik-recherche` — Stand der Technik vor Patentanmeldung identifizieren und bewerten.
-- `neuheit-pruefen` — Neuheit nach § 3 PatG und Art. 54 EPUe systematisch pruefen; Merkmal-fuer-Merkmal-Abgleich.
+- `neuheit-pruefen` — Neuheit nach § 3 PatG und Art. 54 EPUe systematisch pruefen; Merkmal-für-Merkmal-Abgleich.
 - `erfinderische-taetigkeit-pruefen` — Erfinderische Taetigkeit nach § 4 PatG und Art. 56 EPUe mit Problem-Solution-Approach pruefen.
 - `freedom-to-operate-recherche` — FTO-Recherche vor Markteintritt: aktive Drittpatente mit relevantem Scope identifizieren.
 - `patentfamilien-analyse` — Alle Familienmitglieder eines Schutzrechts ueber INPADOC und Espacenet ermitteln.
 - `rechtsstand-pruefen` — Aktuellen Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Register pruefen.
 - `pruefungsbescheid-vorbereiten` — Antwort auf DPMA-Pruefungsbescheid (§ 45 PatG) oder EPA-Bescheid (Art. 94 EPUe) systematisch vorbereiten.
 - `recherchebericht-erstellen` — Formalen Recherchebericht mit Methodik, Datenbanken, Suchstrategien und Ergebnissen erstellen.
-- `ueberwachung-konkurrenten` — Watch-Profile fuer laufende Ueberwachung neuer Patentanmeldungen von Wettbewerbern anlegen.
+- `ueberwachung-konkurrenten` — Watch-Profile für laufende Ueberwachung neuer Patentanmeldungen von Wettbewerbern anlegen.
 - `rueckfragen-mandant` — Rueckfragen an den Mandanten generieren, wenn Erfindungsmaterial unvollstaendig oder ambivalent ist.
 
 ## Worauf besonders achten

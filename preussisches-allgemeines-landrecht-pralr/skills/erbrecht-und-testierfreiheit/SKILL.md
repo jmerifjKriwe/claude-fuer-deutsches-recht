@@ -49,7 +49,7 @@ ALR-Loesung: Bis 1919/1938 ALR II 4 — Stammgut unteilbar; geht an aeltesten So
 - BGB §§ 1922 ff. ueberlagern ALR-Erbrecht ab 01.01.1900.
 - Pflichtteil heute 1/2 des Intestaterbteils (§ 2303 BGB).
 - Fideikommisse: Aufloesungsgesetz 26.01.1938 / Kontrollratsgesetz Nr. 45 Berlin — heute keine neuen Fideikommisse moeglich.
-- ALR-Erbfaelle vor 1900 noch heute relevant fuer Stammbaum- und Eigentumsstreitigkeiten an alten Gueteen.
+- ALR-Erbfaelle vor 1900 noch heute relevant für Stammbaum- und Eigentumsstreitigkeiten an alten Gueteen.
 
 ## Ausgabeformat
 

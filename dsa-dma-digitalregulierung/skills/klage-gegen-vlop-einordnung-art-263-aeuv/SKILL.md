@@ -127,7 +127,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. Wann wurde der Beschluss bekanntgegeben? Frist 2 Monate nach Art. 263 Abs. 6 AEUV berechnen.
 3. Welche Klagegründe kommen in Betracht? (Formfehler / Schwellenwert-Fehler / Verhältnismäßigkeit / Ermessensmissbrauch)
 4. Ist Eilrechtsschutz nach Art. 278 AEUV erforderlich (Durchsetzungsaufsetzung)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

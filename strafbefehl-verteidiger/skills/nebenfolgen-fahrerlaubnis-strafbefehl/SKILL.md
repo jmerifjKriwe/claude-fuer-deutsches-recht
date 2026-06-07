@@ -22,7 +22,7 @@ Fahrerlaubnisentzug § 69 StGB und Fahrverbot § 44 StGB im Strafbefehl. Regelen
 1. **Fahrverbot (§ 44 StGB) oder Fahrerlaubnisentzug (§ 69 StGB)?** — Grundlegend verschieden: Fahrverbot ist befristete Sperre (1-6 Monate), Entzug vernichtet die Fahrerlaubnis.
 2. **Liegt ein § 69 Abs. 2-Regelfall vor?** — §§ 315a, 315c, 316, 142 StGB (bei schwerem Unfall), 315d StGB — bei diesen Delikten wird Ungeeignetheit vermutet; Widerlegung moeglich aber schwer.
 3. **Sperrfrist nach § 69a StGB:** Wie lang? 6 Monate bis 5 Jahre (bei groben Verstaessen bis 10 Jahre oder dauernd).
-4. **Ist die Fahrerlaubnis fuer den Beruf notwendig?** — Haertefall-Argument, mildert aber nur im Ausnahmefall (§ 69 StGB ist auf Fahreignung ausgerichtet, nicht auf Konsequenzen).
+4. **Ist die Fahrerlaubnis für den Beruf notwendig?** — Haertefall-Argument, mildert aber nur im Ausnahmefall (§ 69 StGB ist auf Fahreignung ausgerichtet, nicht auf Konsequenzen).
 5. **Vorzeitige Aufhebung der Sperrfrist nach § 69a Abs. 7 StGB?** — Halbe Sperrfrist abgelaufen, neue Erkenntnisse zur Fahreignung.
 
 ## Zentrale Normen
@@ -37,7 +37,7 @@ Fahrerlaubnisentzug § 69 StGB und Fahrverbot § 44 StGB im Strafbefehl. Regelen
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- KCanG-Folgeproblem fuer Fahrerlaubnis nach BGH (GSSt) 03.02.2025 — GSSt 1/24 und § 24a Abs. 1a StVG (THC-Grenzwert 3,5 ng/ml im Blutserum, in Kraft seit 22.08.2024): Bei sanktionsfreier Eigenkonsumlage bleibt die straßenverkehrsrechtliche Eignungsfrage (FeV) eigenständig zu prüfen; die strafrechtliche Bewertung determiniert nicht das FeV-Verfahren. Offene Fundstelle zum GSSt-Beschluss: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- KCanG-Folgeproblem für Fahrerlaubnis nach BGH (GSSt) 03.02.2025 — GSSt 1/24 und § 24a Abs. 1a StVG (THC-Grenzwert 3,5 ng/ml im Blutserum, in Kraft seit 22.08.2024): Bei sanktionsfreier Eigenkonsumlage bleibt die straßenverkehrsrechtliche Eignungsfrage (FeV) eigenständig zu prüfen; die strafrechtliche Bewertung determiniert nicht das FeV-Verfahren. Offene Fundstelle zum GSSt-Beschluss: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 zur Eignungsfrage nach § 11 FeV bei einmaligem Cannabiskonsum nach KCanG-Inkrafttreten ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de / bverwg.de unter "Cannabis Fahreignung FeV" durchführen.
 
 ## Quellenregel
@@ -60,14 +60,14 @@ Im Strafbefehl: Fahrverbot § 44 StGB?
  └─ MPU-Vorbereitung parallel starten (§ 11 FeV)
 ```
 
-## Argumente fuer Widerlegung § 69 Abs. 2 StGB
+## Argumente für Widerlegung § 69 Abs. 2 StGB
 
 **Moeglicherweise widerlegende Umstaende:**
 - Einmalige Ausnahmesituation (nachgewiesen)
 - Bislang 20+ Jahre unfallfreies Fahren
 - Medizinisch dokumentierter Ausnahmezustand
 - Erheblich eingeschraenkte Vorwerfbarkeit (§ 21 StGB)
-- Geringe Alkoholmenge, BAK klar unter Grenzwert fuer harte Vermutung
+- Geringe Alkoholmenge, BAK klar unter Grenzwert für harte Vermutung
 
 **Nicht ausreichend:**
 - Berufliche Notwendigkeit der Fahrerlaubnis
@@ -77,6 +77,6 @@ Im Strafbefehl: Fahrverbot § 44 StGB?
 ## Harte Leitplanken
 
 - § 69 StGB ist Massregel, keine Strafe — Verhältnismaessigkeit wird anders bewertet.
-- MPU-Anforderung durch Behoerde ist eigenstaendiger Verwaltungsrechtsweg.
+- MPU-Anforderung durch Behörde ist eigenstaendiger Verwaltungsrechtsweg.
 - Haertefall-Argument bei § 69 StGB selten erfolgreich — Mandant realistisch informieren.
 - Sperrfrist-Antrag nach § 69a Abs. 7 StGB erst nach halber Mindestlaufzeit.

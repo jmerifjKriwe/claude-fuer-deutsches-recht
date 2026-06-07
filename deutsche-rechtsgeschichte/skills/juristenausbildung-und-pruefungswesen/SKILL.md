@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. 
 
 Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -25,13 +42,13 @@ Die Juristenausbildung in Deutschland ist historisch gewachsen. Das mittelalterl
 
 - **DRiG § 5 (BGBl. I 1961, 713)**: Befahigung zum Richteramt, Zweiexamens-System
 - **DRiG §§ 5-7**: Erste Pruefung, Vorbereitungsdienst, Zweite Pruefung
-- **JAG der Laender** (z. B. NRW JAG 2003): Einzelheiten der Juristenausbildung
+- **JAG der Länder** (z. B. NRW JAG 2003): Einzelheiten der Juristenausbildung
 - **Erste Verordnung zur Durchfuehrung des Berufsbeamtengesetzes 1933 (RGBl. I 1933, 245)**: Judenausschluss aus Staatsdienst und damit aus juristischen Staatsberufen
 
 ## Akteure und Institutionen
 
 - **Universitaet Heidelberg (gegr. 1386)**: Erste deutsche Volluniversitaet mit Rechtsfakultaet
-- **Friedrich Savigny** als Universitaetsprofessor: Akademisches Leitbild fuer Juristenausbildung
+- **Friedrich Savigny** als Universitaetsprofessor: Akademisches Leitbild für Juristenausbildung
 - **NS-Reichsjustizministerium**: Gleichschaltung des Jurastudiums
 - **Deutsche Richterakademie (Trier/Wustrau)**: Richterfortbildung seit 1966
 
@@ -39,14 +56,14 @@ Die Juristenausbildung in Deutschland ist historisch gewachsen. Das mittelalterl
 
 1. Einstufige vs. zweistufige Juristenausbildung: Wurde die einstufige Ausbildung zu Unrecht aufgegeben?
 2. Universitaets-Schwerpunktbereichspruefung seit 2003: Sinnvolle Reform oder Absenkung?
-3. NS-Gleichschaltung: Wie praegend war sie fuer die Nachkriegsjuristengeneration?
+3. NS-Gleichschaltung: Wie praegend war sie für die Nachkriegsjuristengeneration?
 4. Referendariat: Wessen Interessen bedient das heutige Referendariat?
 5. Bologna-Reform im Jura-Studium: Warum wurde die Einheitlichkeit erhalten?
 
 ## Methodik
 
 - DRiG: gesetze-im-internet.de
-- JAG der Laender: jeweilige Landesrechtsportale (z. B. recht.nrw.de)
+- JAG der Länder: jeweilige Landesrechtsportale (z. B. recht.nrw.de)
 - NS-Hochschulrecht: RGBl. I 1933, 245 via ALEX/OeNB
 - Sekundaerliteratur: Bernd Rueers Rechtstheorie und Uwe Wesels Geschichte des Rechts
 
@@ -54,7 +71,7 @@ Die Juristenausbildung in Deutschland ist historisch gewachsen. Das mittelalterl
 
 - Zeitleiste Juristenausbildung: Bologna bis DRiG 1961
 - Zweistufiges Examens-System: Inhalte, Gruende, Kritik
-- NS-Gleichschaltung: Massnahmen und Folgen fuer Juristen-Generation
+- NS-Gleichschaltung: Massnahmen und Folgen für Juristen-Generation
 
 ## Quellenregel
 

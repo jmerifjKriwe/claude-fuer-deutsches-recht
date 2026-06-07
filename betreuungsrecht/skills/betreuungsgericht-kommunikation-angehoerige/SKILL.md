@@ -5,6 +5,26 @@ description: "Kommunikation mit dem Betreuungsgericht für Angehörige und ehren
 
 # Betreuungsgericht-Kommunikation für Angehörige
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen und Erforderlichkeit.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis, keine Vorratsbetreuung.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung und Selbstbestimmung.
+- `§ 1823 BGB` — Vertretungsmacht des Betreuers.
+- `§ 1831 BGB` — Genehmigung bei freiheitsentziehenden Massnahmen.
+- `§ 1832 BGB` — aerztliche Zwangsmassnahmen.
+- `§ 1848 BGB` — Rechnungslegung und Vermögensübersicht.
+- `§ 274 FamFG` — Beteiligte im Betreuungsverfahren.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverstaendigengutachten.
+- `§ 5 BtOG` — Informations- und Beratungspflichten der Behörde.
+- `§ 8 BtOG` — Unterstützungsangebot zur Betreuungsvermeidung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Zweck
 
 Dieser Skill hilft ehrenamtlichen Betreuern, mit dem Betreuungsgericht knapp, vollständig und respektvoll zu kommunizieren. Das Ziel ist: Gericht bekommt, was es zur Aufsicht braucht; der Betreuer verrennt sich nicht in lange Erzählungen.

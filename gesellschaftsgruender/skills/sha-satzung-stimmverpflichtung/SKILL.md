@@ -69,7 +69,7 @@ erforderlich ist.
 ### Beispiel 2: Sondervetorecht-Korrespondenz
 
 ```
-Soweit die Satzung der Gesellschaft fuer bestimmte
+Soweit die Satzung der Gesellschaft für bestimmte
 Beschluesse besondere Mehrheiten oder Zustimmungen
 vorsieht, verpflichten sich die Gesellschafter,
 ihre Stimmrechte so auszuueben, dass die Beschluesse

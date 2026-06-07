@@ -25,11 +25,11 @@ Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nic
 
 ## Erste Schritte
 
-1. Ursprungsnachweise fuer Einfuhrsendungen katalogisieren: EUR.1 EUR-MED REX ATR Form A GSP-Bescheinigung.
-2. Zollwert-Kalkulation und Ursprungszuordnung fuer jede Lieferantenbeziehung abgleichen.
+1. Ursprungsnachweise für Einfuhrsendungen katalogisieren: EUR.1 EUR-MED REX ATR Form A GSP-Bescheinigung.
+2. Zollwert-Kalkulation und Ursprungszuordnung für jede Lieferantenbeziehung abgleichen.
 3. Nachtraegliche Ursprungsnachweise: Erstattungsantrag stellen Fristen nach Art. 121 UZK.
 4. REX-System: Registrierter Exporteur pruefen; Erklaerungsinhalt auf Ursprungsvoraussetzungen.
-5. Kombinierten Nachweispaket fuer Zollaußenpruefung vorbereiten.
+5. Kombinierten Nachweispaket für Zollaußenpruefung vorbereiten.
 6. Einheitliche Pruefmatrix erstellen: Zollwert Ursprung Praeferenz und Nachweis-Status.
 
 ## Rechtsrahmen
@@ -38,20 +38,20 @@ Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nic
 - **UZK Art. 70**: Transaktionswert als Zollwertbasis.
 - **VO (EU) 952/2013 Art. 112-121**: Erstattung und Erlass von Einfuhrabgaben.
 - **VO (EU) 1207/2001**: Ursprungsnachweisverfahren und REX.
-- **UZK-DA Art. 69-112**: Detailregeln fuer Ursprung und Nachweise.
+- **UZK-DA Art. 69-112**: Detailregeln für Ursprung und Nachweise.
 
 ## Pruef-Raster
 
-- [ ] Alle Ursprungsnachweise fuer relevante Einfuhren katalogisiert?
+- [ ] Alle Ursprungsnachweise für relevante Einfuhren katalogisiert?
 - [ ] Zollwert und Ursprungszuordnung konsistent?
 - [ ] Nachtraegliche Ursprungsnachweise auf Erstattungspotenzial geprueft?
 - [ ] REX-Erklaerungen auf Ursprungsvoraussetzungen verifiziert?
-- [ ] Kombiniertes Nachweispaket fuer Pruefung bereit?
+- [ ] Kombiniertes Nachweispaket für Pruefung bereit?
 - [ ] Pruefmatrix aktuell und vollstaendig?
 
 ## Typische Fallstricke
 
-- Fristen fuer Erstattungsantrag bei nachtraeglichem Ursprungsnachweis beachten (3 Jahre).
+- Fristen für Erstattungsantrag bei nachtraeglichem Ursprungsnachweis beachten (3 Jahre).
 - REX-Erklaerungen des Lieferanten koennen falsch sein; Eigenverantwortung des Importeurs.
 - Zollwert und Ursprung werden bei Pruefung oft kombiniert; Luecken in beiden Bereichen kumulieren sich.
 - Nachtraegliche Ursprungs-Korrekturen erfordern Zollanmeldungs-Berichtigung.
@@ -60,7 +60,7 @@ Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nic
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

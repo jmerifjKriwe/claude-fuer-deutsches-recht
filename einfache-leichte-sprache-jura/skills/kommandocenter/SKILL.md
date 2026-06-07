@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Kanzlei oder Behoerde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualitaetsprüfung. Output Projekt-Plan Skill-Routing. Abgrenzung zu elsj-einfache-sprache und elsj-leichte-sprache (Ausführung) und elsj-qualitaetsgate (Prüfung)."
+description: "Kanzlei oder Behörde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualitaetsprüfung. Output Projekt-Plan Skill-Routing. Abgrenzung zu elsj-einfache-sprache und elsj-leichte-sprache (Ausführung) und elsj-qualitaetsgate (Prüfung)."
 ---
 
 # Kommandocenter
@@ -12,14 +12,14 @@ Einfache Sprache oder Leichte Sprache.
 1. Einfache Sprache oder Leichte Sprache — Zielgruppe bekannt?
 2. Welches Format: Brief, Bescheid, Formular, Website, Flyer, Gerichtsinformation?
 3. Darf der Text inhaltlich gekuerzt werden oder muss alles erhalten bleiben?
-4. Gibt es einen institutionellen Hausstil oder Pruefgruppen fuer Leichte Sprache?
+4. Gibt es einen institutionellen Hausstil oder Pruefgruppen für Leichte Sprache?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 11 BGG — Barrierefreiheit: Behoerden muessen Informationen in Leichter Sprache oder Einfacher Sprache bereitstellen
-- BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung (gilt fuer oeffentliche Stellen)
+- § 11 BGG — Barrierefreiheit: Behörden muessen Informationen in Leichter Sprache oder Einfacher Sprache bereitstellen
+- BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung (gilt für öffentliche Stellen)
 - § 43 SGB I — Beratungspflicht sozialrechtlich in verstaendlicher Sprache
 - § 58 VwGO — Rechtsbehelfsbelehrung: Klarheit als Wirksamkeitsvoraussetzung
 

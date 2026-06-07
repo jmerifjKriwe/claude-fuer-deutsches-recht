@@ -12,9 +12,9 @@ description: "Lizenzvertrag Urhmr im Plugin Fachanwalt Urheber Medienrecht: prü
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-medienrecht-fristen-form-und-zustaendigkeit` | Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-medienrecht-fristen-form-und-zuständigkeit` | Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` | Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach territorial zeitlich Verguetung Sublizenz Rückruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht für Abmahnung oder Gegendarstellung. |
-| `urhmr-urhebervertrag-bauleiter` | Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster fuer Urheber und Nutzer. |
+| `urhmr-urhebervertrag-bauleiter` | Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster für Urheber und Nutzer. |
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ description: "Lizenzvertrag Urhmr im Plugin Fachanwalt Urheber Medienrecht: prü
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüfungslinien im Detail
 
-## 1. `spezial-medienrecht-fristen-form-und-zustaendigkeit`
+## 1. `spezial-medienrecht-fristen-form-und-zuständigkeit`
 
 **Fokus:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
@@ -225,7 +225,7 @@ Verhandlung Lizenz-Vertrag für urheberrechtlich geschuetzte Werke.
 
 ## 3. `urhmr-urhebervertrag-bauleiter`
 
-**Fokus:** Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster fuer Urheber und Nutzer.
+**Fokus:** Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster für Urheber und Nutzer.
 
 # UrhMR: Urhebervertrag Bauleiter
 
@@ -233,13 +233,13 @@ Verhandlung Lizenz-Vertrag für urheberrechtlich geschuetzte Werke.
 - **Normen-/Quellenanker:** UrhG.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -267,7 +267,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

@@ -34,7 +34,7 @@ Die Standard-BWA weist ein Betriebsergebnis nach Block-Logik aus. Fuer Steuerung
 1. Welche Branche und welches Geschaeftsmodell — Industrie mit Fertigung, Handel mit Lagerumschlag, Dienstleistung mit Stundensaetzen?
 2. Welche Kosten sind variabel (mit Umsatz schwankend), welche fix (unabhaengig vom Umsatz)?
 3. Ist eine Stufendeckungsbeitragsrechnung gewuenscht (DB I, DB II, DB III)?
-4. Welche Ergebniskennzahlen benoetigt der Mandant — EBITDA fuer Banken, EBIT fuer interne Steuerung?
+4. Welche Ergebniskennzahlen benoetigt der Mandant — EBITDA für Banken, EBIT für interne Steuerung?
 5. Werden kalkulatorische Positionen ausgewiesen (kalk. Unternehmerlohn, kalk. Miete)?
 6. Internationale Stakeholder vorhanden (Mutter, Investor), die UKV-Format bevorzugen?
 7. Welche Kostenstellenstruktur ist hinterlegt (Profit Center, Cost Center)?
@@ -112,19 +112,19 @@ Umsatzerloese [Umsatz]
 
 ### Phase 6 — Quartalsgespraech mit Mandant
 
-- DB-Struktur erlaeutern, Mandant fuer die Stellschrauben sensibilisieren.
+- DB-Struktur erlaeutern, Mandant für die Stellschrauben sensibilisieren.
 - Massnahmen-Plan bei kritischer Marge: Preiserhoehung, Sortimentsbereinigung, Fixkostensenkung.
 
 ## Output
 
 - BWA mit Deckungsbeitragsstruktur (DB I, DB II, EBITDA, EBIT, EBT).
 - Break-even-Analyse und Sicherheitsmarge.
-- Erlaeuterungstext fuer Mandant.
+- Erlaeuterungstext für Mandant.
 
 ## Strategie und Praxis-Tipps
 
 - Stufendeckungsbeitrag ist bei Handel und Industrie Pflicht; bei Dienstleistung haeufig Stunden-DB sinnvoller.
-- EBITDA ist Bank-Standard fuer Schuldendienstpruefung (EBITDA-Multiple).
+- EBITDA ist Bank-Standard für Schuldendienstpruefung (EBITDA-Multiple).
 - Bei kalkulatorischen Positionen Mandant darauf hinweisen, dass es sich um Sicht der Betriebswirtschaft handelt, nicht um steuerliche Behandlung.
 - DB-Rate als Kennzahl monatlich tracken — sinkende DB-Rate bei steigendem Umsatz ist Alarmsignal (Preisdruck).
 - StBVV: Individuelle BWA-Konfiguration als Zusatzauftrag mit Zeithonorar abrechnen.

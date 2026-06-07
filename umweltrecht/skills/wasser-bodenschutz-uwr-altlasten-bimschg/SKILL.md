@@ -25,11 +25,11 @@ Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenve
 4. Ist ein Sanierungsplan nach §§ 13, 14 BBodSchG erforderlich?
 5. Bestehen Erstattungsansprueche gegen Mitverantwortliche (§ 24 BBodSchG)?
 6. Besteht Freistellungs- oder Haftungsregelung im Kaufvertrag?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
-- **§ 8 WHG** — Grundsatz Erlaubnispflicht fuer Gewaesserbenutzung
+- **§ 8 WHG** — Grundsatz Erlaubnispflicht für Gewaesserbenutzung
 - **§ 9 WHG** — Benutzungen (Entnahme, Einleitung, Aufstau)
 - **§ 10 WHG** — Erlaubnis (gebundene Entscheidung vs. Bewilligung)
 - **§ 12 WHG** — Versagungsgrundsaetze (schaedliche Gewaesserveraenderung)
@@ -48,7 +48,7 @@ Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenve
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -117,7 +117,7 @@ Die angeordneten Sanierungskosten betragen ca. [BETRAG] EUR.
 Der Verkehrswert des Grundstuecks betraegt [BETRAG] EUR (Gutachten Anlage).
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 wenn Sanierungskosten den Grundstueckswert wesentlich uebersteigen und
-kein ueberragend schutzwuerdiges oeffentliches Interesse besteht.
+kein ueberragend schutzwuerdiges öffentliches Interesse besteht.
 
 III. Verursacher-Vorrang
 Eigentlicher Verursacher ist [FIRMA/PERSON] (Nachweise Anlage).
@@ -137,7 +137,7 @@ Anlagen: Gutachten Grundstueckswert, Historische Nutzungsnachweise, Vollmacht
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -156,7 +156,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Art. 4 Abs. 1 WRRL: Mitgliedstaaten muessen Verschlechterung des Zustands von Wasserkörpern verhindern.
 - BGH-Linie: OWG-Einleit-Erlaubnis muss WRRL-Konformitaet beachten; keine blosse formale Genehmigung.
-- Klimawandel-Folge: Sinkende Gewaesserspiegel erhoehen Einleit-Restriktionen fuer Industrie.
+- Klimawandel-Folge: Sinkende Gewaesserspiegel erhoehen Einleit-Restriktionen für Industrie.
 
 ## Anschluss-Skills
 

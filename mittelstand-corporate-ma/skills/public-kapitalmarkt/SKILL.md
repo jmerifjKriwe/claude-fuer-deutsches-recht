@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - Mandatsanfrage, Konfliktcheck, Rollenmatrix, Budget und Deal-Timeline.
@@ -134,7 +134,7 @@ Uebersetzt DD-Findings, SPA-Pflichten und Synergieannahmen in einen Post-Merger-
 - § 613a BGB — Betriebsuebergang: nach Asset Deal gehen alle Arbeitsverhaeltnisse kraft Gesetzes ueber; Widerspruchsrecht 1 Monat nach Information; Klaerung von Ueberleitungsfragen nach Closing
 - § 40 GmbHG — Einreichung der Gesellschafterliste: Notar oder Geschaeftsfuehrer innerhalb eines Monats nach Anteilsuebertragung
 - § 20 TranspRG — Transparenzregistermeldung: wirtschaftlich Berechtigte nach Gesellschafterwechsel; Frist 2 Wochen nach Closing
-- §§ 195, 199 BGB — Verjaehrungsfristen fuer Post-Closing-Ansprueche: regelmäßige Verjaehrung 3 Jahre; vertragliche Abkuerzung auf 18-24 Monate ueblich; Fristbeginn mit Kenntnis oder Entstehung
+- §§ 195, 199 BGB — Verjährungsfristen für Post-Closing-Ansprueche: regelmäßige Verjährung 3 Jahre; vertragliche Abkuerzung auf 18-24 Monate ueblich; Fristbeginn mit Kenntnis oder Entstehung
 - § 254 BGB — Mitverschulden bei unterlassener Untersuchung nach Closing
 - §§ 346 ff. BGB — Rueckabwicklung: bei MAC-Einritt und Ruecktritt; Nutzungsersatz; Wertminderung
 
@@ -145,7 +145,7 @@ Uebersetzt DD-Findings, SPA-Pflichten und Synergieannahmen in einen Post-Merger-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Post-Closing-Obligations-Register:** alle SPA-Verpflichtungen nach Closing erfassen (Owner, Faelligkeit, Nachweis)
 2. **Completion Accounts / Purchase Price Adjustment:** Frist pruefen (haeufig 60-90 Tage nach Closing); Anpassungsberechnung erstellen und abstimmen

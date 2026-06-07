@@ -70,7 +70,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 11 | Verjährung § 43 Abs. 4 GmbHG | 5 Jahre ab Pflichtverletzung; Hemmung nach BGB | Verjährt oder Fristnotiz anlegen |
 | 12 | D&O-Versicherung | Deckungsumfang; Selbstbehalt; Vorsatz ausgeschlossen; Deckungsablehnung wegen grober Fahrlässigkeit | Deckungszusage oder -ablehnung prüfen |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Sachverhalt chronologisch aufbereiten:** Zeitleiste der Ereignisse (Pflichtverletzung, Schaden, Entlastungsbeschluss, D&O-Anzeige).
 2. **Mandantenrolle festlegen:** GF-Verteidigung oder Aktivseite Gesellschaft/Insolvenzverwalter.

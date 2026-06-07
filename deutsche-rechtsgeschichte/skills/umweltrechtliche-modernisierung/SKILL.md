@@ -31,7 +31,7 @@ Das moderne Umweltrecht ist ein Kind der zweiten Haelfte des 20. Jh. Zwar gab es
 
 ## Akteure und Institutionen
 
-- **Bundesministerium des Innern (bis 1986)**: Zustaendig fuer Umwelt im Kaiserreich
+- **Bundesministerium des Innern (bis 1986)**: Zustaendig für Umwelt im Kaiserreich
 - **Bundesumweltministerium (BMU, seit 1986)**: Zentralbehoerde Umweltrecht
 - **Willy Brandt** (1913-1992): Politischer Initiator des deutschen Umweltrechts
 - **BVerwG**: Leitentscheidungen zum BImSchG, bverwg.de
@@ -39,7 +39,7 @@ Das moderne Umweltrecht ist ein Kind der zweiten Haelfte des 20. Jh. Zwar gab es
 ## Typische Streitfragen / Forschungsfragen
 
 1. Art. 20a GG als Staatsziel: Hat es normative Verbindlichkeit oder ist es ein Programmsatz?
-2. BImSchG: War es ausreichend fuer den Klimaschutz?
+2. BImSchG: War es ausreichend für den Klimaschutz?
 3. GG-Klimaurteil BVerfGE 157, 30 (2021): Art. 2 GG und Klimaschutzpflicht
 4. EU-Emissionshandel (ETS) und deutsches Umweltrecht: Verhaeltnis?
 5. Atomkraft und Ausstieg: BVerfGE 118, 79 zum Atommoratorium

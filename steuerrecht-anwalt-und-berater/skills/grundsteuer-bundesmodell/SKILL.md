@@ -1,9 +1,9 @@
 ---
 name: grundsteuer-bundesmodell
-description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Laendermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder fehlerhaften Flaechenangaben. Behandelt Einsprueche gegen Grundsteuerwert- und Messbescheid Aussetzung der Vollziehung und Musterverfahren beim BFH und BVerfG. Output Pruefraster und Einspruchsmuster. Abgrenzung zu fa-stu-bewertung-immobilien-bewg."
+description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Ländermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder fehlerhaften Flaechenangaben. Behandelt Einsprueche gegen Grundsteuerwert- und Messbescheid Aussetzung der Vollziehung und Musterverfahren beim BFH und BVerfG. Output Pruefraster und Einspruchsmuster. Abgrenzung zu fa-stu-bewertung-immobilien-bewg."
 ---
 
-# Grundsteuer — Reform 2025 Bundesmodell und Laendermodelle
+# Grundsteuer — Reform 2025 Bundesmodell und Ländermodelle
 
 ## Fachlicher Anker
 
@@ -13,12 +13,12 @@ description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem refor
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Welches Modell gilt — Bundesmodell oder ein Laendermodell?
+1. Welches Modell gilt — Bundesmodell oder ein Ländermodell?
 2. Wo liegen die Beanstandungen — Bodenrichtwert Wohnflaeche Mietniveaustufe?
 3. Ist Einspruch gegen Wertbescheid Messbescheid oder Grundsteuerbescheid einschlaegig?
 4. Soll AdV beantragt werden (regelmaessig Aussicht angesichts BFH-Beschluesse)?
 5. Verfassungsbeschwerde — Musterverfahren bereits anhaengig?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

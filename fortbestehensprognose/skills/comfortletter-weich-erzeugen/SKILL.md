@@ -103,7 +103,7 @@ Mit freundlichen Grüßen
 
 ## Paragrafenkette Comfortletter
 
-§ 19 Abs. 2 S. 2 InsO (Passivierungsverbot nur fuer qualifizierten Rangruecktritt) → § 311 BGB (vorvertragliche Haftung aus Comfortletter) → § 241 Abs. 2 BGB (Schutzpflichten) → § 43 GmbHG (Haftung der Konzernmutter)
+§ 19 Abs. 2 S. 2 InsO (Passivierungsverbot nur für qualifizierten Rangruecktritt) → § 311 BGB (vorvertragliche Haftung aus Comfortletter) → § 241 Abs. 2 BGB (Schutzpflichten) → § 43 GmbHG (Haftung der Konzernmutter)
 
 ## Triage — Comfortletter vs. Patronatserklaerung
 

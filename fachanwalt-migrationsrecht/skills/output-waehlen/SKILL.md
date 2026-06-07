@@ -12,8 +12,8 @@ Diese Output-Weiche für **Fachanwalt Migrationsrecht** entscheidet, ob Memo, An
 ## Fachlandkarte dieses Plugins
 
 - `allgemein-abschiebungsabwehr-sofort-arbeitgeber-arbeitsrecht` — Allgemein Abschiebungsabwehr Sofort Arbeitgeber Arbeitsrecht
-- `arbeitgeberwechsel-asyl-anhoerung-asylg-ausbildungsduldung` — Arbeitgeberwechsel Asyl Anhoerung Asylg Ausbildungsduldung
-- `aufenthaltstitel-ausweisung-start-behoerdenkommunikation-blaue` — Aufenthaltstitel Ausweisung Start Behoerdenkommunikation Blaue
+- `arbeitgeberwechsel-asyl-anhoerung-asylg-ausbildungsduldung` — Arbeitgeberwechsel Asyl Anhörung Asylg Ausbildungsduldung
+- `aufenthaltstitel-ausweisung-start-behoerdenkommunikation-blaue` — Aufenthaltstitel Ausweisung Start Behördenkommunikation Blaue
 - `aufenthaltstitel-erstgespraech-mandatsannahme-fachanwalt-asyl` — Aufenthaltstitel Erstgespraech Mandatsannahme Fachanwalt Asyl
 - `ba-zustimmung-beschaeftigungsduldung` — Ba Zustimmung Beschaeftigungsduldung
 - `blaue-karte-blaue-karte-bleiberecht-25a-chancenaufenthalt` — Blaue Karte Blaue Karte Bleiberecht 25a Chancenaufenthalt

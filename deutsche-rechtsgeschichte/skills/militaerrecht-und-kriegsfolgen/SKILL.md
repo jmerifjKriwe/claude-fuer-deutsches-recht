@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Militaerrecht und Kriegsfolgen. Militae
 
 Deutsche Rechtsgeschichte: Militaerrecht und Kriegsfolgen. Militaerstrafrecht im Kaiserreich, Kriegsgerichtsbarkeit WW1 und WW2, Deserteur-Rehabilitierung und Aufarbeitung von Kriegsverbrechern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Militaerrecht und Kriegsfolgen. Militaerstrafrecht im
 
 ## Worum es geht
 
-Das Militaerrecht war ein Sonderrechtsgebiet mit eigener Gerichtsbarkeit. Das Militaerstrafgesetzbuch (MStGB 1872, RGBl. 1872, 173) und die Militaerstrafgerichtsordnung (MStGO 1898) regelten Strafrecht und Verfahren fuer Soldaten. Im Ersten Weltkrieg spitzte sich die Militaergerichtsbarkeit zu: Tausende Deserteure und Kriegsdienstverweigerer wurden verurteilt. Das NS-Regime eskalierte das Militaerstrafrecht massiv: An die 30000 Todesurteile unter Kriegsgerichtsbarkeit. Die Bundeswehr wurde 1955 aufgebaut; das WStG 1957 (BGBl. I 1957, 298) und WDO 1957 regelten das neue Militaerrecht. Die Rehabilitierung von WW2-Deserteuren gelang vollstaendig erst 2002 (BGBl. I 2002, 2532).
+Das Militaerrecht war ein Sonderrechtsgebiet mit eigener Gerichtsbarkeit. Das Militaerstrafgesetzbuch (MStGB 1872, RGBl. 1872, 173) und die Militaerstrafgerichtsordnung (MStGO 1898) regelten Strafrecht und Verfahren für Soldaten. Im Ersten Weltkrieg spitzte sich die Militaergerichtsbarkeit zu: Tausende Deserteure und Kriegsdienstverweigerer wurden verurteilt. Das NS-Regime eskalierte das Militaerstrafrecht massiv: An die 30000 Todesurteile unter Kriegsgerichtsbarkeit. Die Bundeswehr wurde 1955 aufgebaut; das WStG 1957 (BGBl. I 1957, 298) und WDO 1957 regelten das neue Militaerrecht. Die Rehabilitierung von WW2-Deserteuren gelang vollstaendig erst 2002 (BGBl. I 2002, 2532).
 
 ## Kernnormen / Kernquellen
 
@@ -27,7 +44,7 @@ Das Militaerrecht war ein Sonderrechtsgebiet mit eigener Gerichtsbarkeit. Das Mi
 - **WStG 1957 (BGBl. I 1957, 298)**: Wehrstrafgesetz der Bundeswehr
 - **WDO 1957**: Wehrdisziplinarordnung
 - **NS-Aufhebungsgesetz 2002 (BGBl. I 2002, 2532)**: Rehabilitierung von Deserteuren und Kriegsdienstes-Verweigerern
-- **GG Art. 17a**: Einschraenkung von Grundrechten fuer Wehrdienst
+- **GG Art. 17a**: Einschraenkung von Grundrechten für Wehrdienst
 
 ## Akteure und Institutionen
 

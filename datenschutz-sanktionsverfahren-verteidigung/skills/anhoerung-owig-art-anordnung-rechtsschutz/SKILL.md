@@ -1,13 +1,13 @@
 ---
 name: anhoerung-owig-art-anordnung-rechtsschutz
-description: "Anhoerung Owig ART Anordnung Rechtsschutz im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anhörung Owig ART Anordnung Rechtsschutz im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Anhoerung Owig ART Anordnung Rechtsschutz
+# Anhörung Owig ART Anordnung Rechtsschutz
 
 ## Arbeitsbereich
 
-**Anhoerung Owig ART Anordnung Rechtsschutz** ordnet den Fall über die tragenden Prüfungslinien: Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Anhörung Owig ART Anordnung Rechtsschutz** ordnet den Fall über die tragenden Prüfungslinien: Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

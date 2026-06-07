@@ -27,8 +27,22 @@ Wasserentnahme Nebenbestimmung Fordern wird nicht als abstraktes Schema beantwor
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1922 Abs. 1 BGB` — Gesamtrechtsnachfolge.
+- `§ 1937 BGB` — Testament.
+- `§ 1942 BGB` — Anfall und Ausschlagung.
+- `§ 1953 BGB` — Wirkung der Ausschlagung.
+- `§ 1967 BGB` — Erbenhaftung.
+- `§ 2032 BGB` — Erbengemeinschaft.
+- `§ 2042 BGB` — Auseinandersetzung.
+- `§ 2303 BGB` — Pflichtteil.
+- `§ 2353 BGB` — Erbschein.
+- `§ 352 FamFG` — Erbscheinsverfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - UmwRG, UVPG, BNatSchG, WHG, BImSchG, BauGB
 - § 47 VwGO Normenkontrolle, § 80/123 VwGO Eilrechtsschutz
 - Anerkannte Umweltvereinigungen, Beteiligung, Präklusionsfragen

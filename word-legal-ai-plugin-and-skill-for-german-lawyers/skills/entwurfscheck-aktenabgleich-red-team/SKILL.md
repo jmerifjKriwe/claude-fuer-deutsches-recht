@@ -7,7 +7,7 @@ description: "Prueft juristische Entwuerfe gegen Akte, Ziel, Belege, Rechtsstand
 
 ## Zweck
 
-Dieser Skill ist fuer Schriftsaetze, Vertraege, Memos, Mandantenbriefe und interne Vermerke gedacht, die schon fertig aussehen, aber noch gegen Akte, Ziel und Risiko geprueft werden muessen.
+Dieser Skill ist für Schriftsaetze, Vertraege, Memos, Mandantenbriefe und interne Vermerke gedacht, die schon fertig aussehen, aber noch gegen Akte, Ziel und Risiko geprueft werden muessen.
 
 ## Vier Pflichtbausteine
 

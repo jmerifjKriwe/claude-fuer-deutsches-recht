@@ -29,7 +29,7 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 - **EU Gleichstellungsstrategie** (jeweils aktuelle Fortschreibung)
 - **NKRG** § 4
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. Betroffenheits-Test
 
@@ -52,7 +52,7 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 
 - Ergebnis der Gleichstellungspruefung in der Begruendung
 - Quellen / Statistiken belegen
-- Massnahmen zur Foerderung der Gleichstellung, soweit moeglich
+- Massnahmen zur Förderung der Gleichstellung, soweit moeglich
 
 ### 5. Hinweis im NKR-Stellungnahme
 
@@ -66,7 +66,7 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 - Statistiken nicht aufbereitet
 - Differenzielle Wirkung wird verschleiert
 - Erfuellungsaufwand-Darstellung methodisch inkonsistent mit Gleichstellung
-- Massnahmen zur Foerderung fehlen, obwohl moeglich
+- Massnahmen zur Förderung fehlen, obwohl moeglich
 
 ## Trade-off-Matrix
 
@@ -80,10 +80,10 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Das Vorhaben adressiert [Personengruppe]. Die ressortseitige gleichstellungspolitische Folgenabschaetzung kommt zum Ergebnis, dass [Aussage]. Der NKR haelt die Darstellung fuer methodisch tragfaehig."
+- "Das Vorhaben adressiert [Personengruppe]. Die ressortseitige gleichstellungspolitische Folgenabschaetzung kommt zum Ergebnis, dass [Aussage]. Der NKR haelt die Darstellung für methodisch tragfaehig."
 - "Der NKR weist darauf hin, dass die Auswirkungen des Vorhabens auf Frauen und Maenner in der Begruendung nur qualitativ dargestellt sind. Eine geschlechterdifferenzierte Datengrundlage waere wuenschenswert."
 - "Der NKR sieht im Vorhaben keine erkennbar gleichstellungspolitisch relevanten Aspekte; die ressortseitige Pruefung gemaess § 2 GGO ist nachvollziehbar dokumentiert."
-- "Die geschlechterdifferenzierte Folgenabschaetzung ist nicht Gegenstand der Pruefung des NKR im engeren Sinne; soweit sie fuer die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
+- "Die geschlechterdifferenzierte Folgenabschaetzung ist nicht Gegenstand der Pruefung des NKR im engeren Sinne; soweit sie für die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
 
 ## Typische Fehler in Ressort-Entwuerfen
 

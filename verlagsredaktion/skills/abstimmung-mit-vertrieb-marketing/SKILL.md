@@ -1,13 +1,13 @@
 ---
 name: abstimmung-mit-vertrieb-marketing
-description: "Briefing fuer Vertrieb und Marketing zu einem Verlagsprodukt: Zielgruppe Kernnutzen Vergleichstitel Preisarchitektur und Material fuer Katalog Webseite Veranstaltungen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Briefing für Vertrieb und Marketing zu einem Verlagsprodukt: Zielgruppe Kernnutzen Vergleichstitel Preisarchitektur und Material für Katalog Webseite Veranstaltungen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Abstimmung mit Vertrieb / Marketing
 
 ## Arbeitsbereich
 
-Briefing fuer Vertrieb und Marketing zu einem Verlagsprodukt: Zielgruppe Kernnutzen Vergleichstitel Preisarchitektur und Material fuer Katalog Webseite Veranstaltungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Briefing für Vertrieb und Marketing zu einem Verlagsprodukt: Zielgruppe Kernnutzen Vergleichstitel Preisarchitektur und Material für Katalog Webseite Veranstaltungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -23,7 +23,7 @@ Vertrieb und Marketing brauchen vor dem Erscheinen eines Buches, eines Loseblatt
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn 6-9 Monate vor Erscheinen eines neuen Produkts, periodisch fuer Backlist-Pflege. Klaeren Sie:
+Sie brauchen ihn 6-9 Monate vor Erscheinen eines neuen Produkts, periodisch für Backlist-Pflege. Klaeren Sie:
 
 1. Welches Produkt (Buch, Loseblattwerk, Zeitschrift, Online-Kommentar)?
 2. Veroeffentlichungstermin?
@@ -38,7 +38,7 @@ Sie brauchen ihn 6-9 Monate vor Erscheinen eines neuen Produkts, periodisch fuer
 - Preisliste / Kostenschaetzung.
 - Marketing-Briefingvorlage des Hauses.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Kernnutzen in einem Satz.** "Was kann der Leser nach Kauf, was er vorher nicht konnte?"
 2. **Zielgruppen-Segmentierung.** Primaer (Hauptkaeufer), sekundaer (gelegentliche Kaeufer), tertiar (Empfehlungstreiber).
@@ -47,7 +47,7 @@ Sie brauchen ihn 6-9 Monate vor Erscheinen eines neuen Produkts, periodisch fuer
 5. **Preisarchitektur.** Standardausgabe / Online-Lizenz / Kombiabo. Stichprobe Konkurrenzpreise.
 6. **Marketing-Material aufbereiten:**
  - Klappentext (200-400 Z).
- - Kapitelteaser fuer Web.
+ - Kapitelteaser für Web.
  - Autoren-Kurzbiografie.
  - Probekapitel oder Leseprobe.
  - Pressetext (300-600 Z).
@@ -125,6 +125,6 @@ Erscheinungsphasen:
 - Verlagsgesetz, [https://www.gesetze-im-internet.de/verlg/](https://www.gesetze-im-internet.de/verlg/).
 - VLB Verzeichnis lieferbarer Buecher, [https://www.vlb.de](https://www.vlb.de).
 - BoersenblattOnline, [https://www.boersenblatt.net](https://www.boersenblatt.net) (Branchenmonitor).
-- UrhG fuer Marketing-Rechte (Bilder, Klappentexte).
+- UrhG für Marketing-Rechte (Bilder, Klappentexte).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016 (fuer Markeintegritaet).
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Markeintegritaet).

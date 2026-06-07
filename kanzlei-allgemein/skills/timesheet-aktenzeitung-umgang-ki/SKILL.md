@@ -29,7 +29,7 @@ Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt
 ## Zentrale Normen
 - § 10 RVG — Taetigkeitsbeschreibung als Pflichtangabe der Honorarrechnung
 - § 3a RVG — Stundensatz-Vereinbarung: setzt nachvollziehbare Zeiterfassung voraus
-- § 147 AO — Aufbewahrungspflicht 10 Jahre fuer Buchungsbelege inkl. Timesheet
+- § 147 AO — Aufbewahrungspflicht 10 Jahre für Buchungsbelege inkl. Timesheet
 - § 238 HGB — Buchfuehrungspflicht: Zeitnarrative als betriebliche Aufzeichnung
 
 ## Quellenregel

@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -162,7 +162,7 @@ Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und
 
 - § 675 BGB — Auftrag und anwaltlicher Beratungsvertrag: Berater schuldet vollstaendigen Bericht; Luecken koennen Haftung ausloesen
 - §§ 280, 241 Abs. 2 BGB — Beraterpflichten: Anwalt muss saemtliche wesentlichen Risiken benennen und einordnen; Unterlassen ist Pflichtverletzung
-- §§ 307-309 BGB — AGB-Haftungsbeschraenkungen im Beratungsvertrag: Haftungsausschluss oder Cap fuer Reports oft vereinbart; Grenze: grobe Fahrlaessigkeit nicht ausschließbar
+- §§ 307-309 BGB — AGB-Haftungsbeschraenkungen im Beratungsvertrag: Haftungsausschluss oder Cap für Reports oft vereinbart; Grenze: grobe Fahrlaessigkeit nicht ausschließbar
 
 ## Aktuelle Rechtsprechung
 
@@ -171,16 +171,16 @@ Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Findings zusammenfuehren:** Legal, Commercial, Tax, HR, IP, IT, Real Estate, Litigation
 2. **Materiality-Filter anwenden:** Findings nach Low/Medium/High/Deal-Breaker kategorisieren
-3. **Issues-to-SPA-Mapping:** je High-Finding: Empfehlung fuer SPA-Klausel (Garantie, Freistellung, Preisanpassung)
+3. **Issues-to-SPA-Mapping:** je High-Finding: Empfehlung für SPA-Klausel (Garantie, Freistellung, Preisanpassung)
 4. **Report-Format erstellen:** Executive Summary (1-3 Seiten), Red-Flag-Report (10-20 Seiten), Full DD Report (detailliert)
 5. **Human-in-the-loop:** alle Deal-Breaker-Findings → Partner-Review vor Uebersendung
 
 ## Rote Schwellen
 
 - Wesentliche Findings nicht adressiert: Anwaltshaftung § 280 BGB
-- Issues-to-SPA-Mapping fehlt: Kaeufer hat keine Entscheidungsgrundlage fuer SPA-Verhandlung
+- Issues-to-SPA-Mapping fehlt: Kaeufer hat keine Entscheidungsgrundlage für SPA-Verhandlung
 - Executive Summary ohne klare Risikoampel: Management kann nicht priorisieren

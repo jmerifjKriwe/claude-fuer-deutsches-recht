@@ -1,13 +1,13 @@
 ---
 name: krankenhausfinanzierungsgesetz-khg-grundstruktur
-description: "Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Laender-Aufgabenteilung im Ueberblick im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Länder-Aufgabenteilung im Ueberblick im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krankenhausfinanzierungsgesetz KHG Grundstruktur
 
 ## Arbeitsbereich
 
-Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Laender-Aufgabenteilung im Ueberblick. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Länder-Aufgabenteilung im Ueberblick. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -23,11 +23,11 @@ Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Inves
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt die **duale Finanzierung** (Investitionen vom Land, Betrieb von den Kassen), die **Landeskrankenhausplanung**, die **Leistungsgruppen** (KHVVG 2025) und das Schiedsstellenwesen. Es ist Voraussetzung fuer KHEntgG, BPflV und SGB-V-Versorgung.
+Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt die **duale Finanzierung** (Investitionen vom Land, Betrieb von den Kassen), die **Landeskrankenhausplanung**, die **Leistungsgruppen** (KHVVG 2025) und das Schiedsstellenwesen. Es ist Voraussetzung für KHEntgG, BPflV und SGB-V-Versorgung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Geht es um Plankrankenhausstatus, Investitionsfoerderung, Versorgungsauftrag?
-- Steht eine Bund-Laender-Frage an (Reform, Foerderpriorisierung)?
+- Steht eine Bund-Länder-Frage an (Reform, Foerderpriorisierung)?
 - Welche Norm im KHG ist konkret relevant (§§ 1, 6, 6a, 8, 9, 17, 17b, 17d, 18a)?
 - Ist die Klinik Plan-, Hochschul-, Vertrags- oder Sicherstellungskrankenhaus?
 
@@ -35,16 +35,16 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 - **KHG § 1** Zweck: bedarfsgerechte Versorgung, sozial tragbare Entgelte.
 - **KHG § 6** Krankenhausplan, Aufnahme/Herausnahme von Kliniken.
 - **KHG § 6a** Leistungsgruppen (eingefuegt durch KHVVG 12/2024).
-- **KHG § 8** Voraussetzungen Foerderung, Krankenhausplan, Versorgungsvertrag.
+- **KHG § 8** Voraussetzungen Förderung, Krankenhausplan, Versorgungsvertrag.
 - **KHG § 9** Investitionsfoerderung (Einzel, Pauschal, Pauschal-Investition).
 - **KHG § 17, 17b, 17d** Pflegesatz, DRG, PEPP.
 - **KHG § 18a** Schiedsstelle.
-- **Landeskrankenhausgesetze** konkretisieren Foerderung, Aufnahme, Versorgungsauftrag.
+- **Landeskrankenhausgesetze** konkretisieren Förderung, Aufnahme, Versorgungsauftrag.
 - **SGB V § 108, 109** Zulassung von Krankenhaeusern als GKV-Versorger.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Status klaeren:** Plan, Hochschul, Vertrag (§ 108 SGB V), Sicherstellung?
-2. **Relevante KHG-Norm identifizieren:** Plan/§ 6, Foerderung/§ 9, Verguetung/§ 17 ff.
+2. **Relevante KHG-Norm identifizieren:** Plan/§ 6, Förderung/§ 9, Verguetung/§ 17 ff.
 3. **Bund-/Landesebene trennen:** KHG Bundesrecht; Landeskrankenhausgesetze konkretisieren.
 4. **KHVVG-Auswirkung pruefen:** Welche Aenderung greift bereits, was ist Konvergenz?
 5. **Output formen:** Memo, Stellungnahme, Antrag, Klagebegruendung.
@@ -66,7 +66,7 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 
 ## Mustertexte
 **Aufnahmeantrag in den Krankenhausplan:**
-> An [zustaendige Behoerde]. Wir beantragen die Aufnahme der Klinik [Name] in den Krankenhausplan des Landes [Land] gemaess § 6 KHG i. V. m. § … LKHG. Beigefuegt: Bedarfsbegruendung, Strukturqualitaetsnachweis, LG-Profil, Wirtschaftlichkeitsdarstellung.
+> An [zuständige Behörde]. Wir beantragen die Aufnahme der Klinik [Name] in den Krankenhausplan des Landes [Land] gemaess § 6 KHG i. V. m. § … LKHG. Beigefuegt: Bedarfsbegruendung, Strukturqualitaetsnachweis, LG-Profil, Wirtschaftlichkeitsdarstellung.
 
 ## Typische Fehler
 - KHG ohne Bezug zu Landeskrankenhausgesetz pruefen — Foerderdetails dort.
@@ -83,7 +83,7 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 
 ## Quellen Stand 06/2026
 - KHG i. d. F. KHVVG 12/2024.
-- Landeskrankenhausgesetze 16 Laender (Live-Check Landesministerien).
+- Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
 - SGB V §§ 108, 109.
-- BSG, staend. Rspr. zu Versorgungsauftrag, Plankrankenhaus, Foerderung.
+- BSG, staend. Rspr. zu Versorgungsauftrag, Plankrankenhaus, Förderung.
 - BVerwG, staend. Rspr. zur Aufnahmeentscheidung Krankenhausplan.

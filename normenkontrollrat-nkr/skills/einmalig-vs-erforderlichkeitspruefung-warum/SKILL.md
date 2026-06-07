@@ -1,13 +1,13 @@
 ---
 name: einmalig-vs-erforderlichkeitspruefung-warum
-description: "Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen fuer Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Einmalig vs. jaehrlich laufend
 
 ## Arbeitsbereich
 
-Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen fuer Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -36,7 +36,7 @@ Keine Rueckfrage noetig, wenn Zahlen vorliegen.
 - **§ 45 GGO** — Darstellung in der Begruendung
 - **One-in-one-out-Regel** der Bundesregierung 2015 (Stand zu pruefen)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Einmaliger Umstellungsaufwand
 
@@ -86,7 +86,7 @@ Tabelle:
 
 Bausteine:
 
-- "Das Vorhaben verursacht einen einmaligen Umstellungsaufwand fuer die Wirtschaft in Hoehe von [X] Mio EUR und einen jaehrlich laufenden Aufwand von [Y] Mio EUR."
+- "Das Vorhaben verursacht einen einmaligen Umstellungsaufwand für die Wirtschaft in Hoehe von [X] Mio EUR und einen jaehrlich laufenden Aufwand von [Y] Mio EUR."
 - "Der NKR weist darauf hin, dass die ressortseitige Darstellung den jaehrlichen Aufwand und den einmaligen Aufwand nicht trennt; eine getrennte Ausweisung ist methodisch erforderlich."
 - "Der mehrjaehrige Re-Zertifizierungsaufwand wurde mit [Wert / Jahre] annualisiert."
 

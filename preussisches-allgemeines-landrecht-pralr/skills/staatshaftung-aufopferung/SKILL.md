@@ -36,16 +36,16 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ### Subsumtionsbeispiel: Pockenimpfungsschaden 1880
 Sachverhalt: Reichsimpfgesetz 1874 verlangt Pflichtimpfung; Kind erleidet Impfschaden.
-ALR-Loesung: Einl. §§ 74-75 — Sonderopfer fuer das Gemeinwohl; Entschaedigung des Staates. Praktisch erst durch BGHZ 9, 83 als allgemeines Rechtsinstitut entwickelt. Heute spezialgesetzlich SGB XIV (seit 01.01.2024).
+ALR-Loesung: Einl. §§ 74-75 — Sonderopfer für das Gemeinwohl; Entschaedigung des Staates. Praktisch erst durch BGHZ 9, 83 als allgemeines Rechtsinstitut entwickelt. Heute spezialgesetzlich SGB XIV (seit 01.01.2024).
 
 ### Subsumtionsbeispiel: Schussschaden eines Unbeteiligten 1950
 Sachverhalt: Polizei schiesst auf Fluechtigen; Querschlaeger trifft Passanten.
-ALR-Loesung: Einl. §§ 74-75 — rechtmaessige hoheitliche Handlung; Sonderopfer; Entschaedigungsanspruch. Heute teils kodifiziert in PolG/POG der Laender, daneben fortgesetzt als ungeschriebenes Institut.
+ALR-Loesung: Einl. §§ 74-75 — rechtmäßige hoheitliche Handlung; Sonderopfer; Entschaedigungsanspruch. Heute teils kodifiziert in PolG/POG der Länder, daneben fortgesetzt als ungeschriebenes Institut.
 
 ### Praktisch heute
 - BGHZ 9, 83 (st. Rspr.) — Aufopferungsanspruch lebt fort.
-- Subsidiaer zu Spezialgesetzen (SGB XIV, PolG der Laender, OEG bis 31.12.2023, StVG).
-- Abgrenzung: Art. 14 III GG (Enteignung) — Eigentumsentziehung; Art. 34 GG iVm § 839 BGB (Amtshaftung) — rechtswidrige Eingriffe; Aufopferung — alle uebrigen rechtmaessigen Eingriffe.
+- Subsidiaer zu Spezialgesetzen (SGB XIV, PolG der Länder, OEG bis 31.12.2023, StVG).
+- Abgrenzung: Art. 14 III GG (Enteignung) — Eigentumsentziehung; Art. 34 GG iVm § 839 BGB (Amtshaftung) — rechtswidrige Eingriffe; Aufopferung — alle uebrigen rechtmäßigen Eingriffe.
 
 ## Ausgabeformat
 

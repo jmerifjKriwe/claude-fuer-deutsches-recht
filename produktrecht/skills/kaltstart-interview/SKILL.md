@@ -5,12 +5,12 @@ description: "Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbin
 
 # /kaltstart-interview
 
-1. Zustand von `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` prüfen.
+1. Zustand von `~/.claude/plugins/config/claude-für-deutsches-recht/produktrecht/CLAUDE.md` prüfen.
 2. Das Kaltstart-Interview unten durchführen.
 3. Seed-Dokumente: 10 vergangene Launch-Review-Dokumente (aus Tracker oder Drive). Alle lesen.
 4. Risikokalibrierungstabelle aus dem aufbauen was tatsächlich blockiert wurde vs. was geshippt wurde.
 5. Migration: wenn eine ausgefüllte CLAUDE.md (ohne `[PLATZHALTER]`-Marker) unter dem alten Cache-Pfad existiert aber nicht unter dem Konfigurationspfad, an den Konfigurationspfad kopieren und dem Nutzer zeigen was migriert wurde.
-6. `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` schreiben (übergeordnete Verzeichnisse bei Bedarf erstellen). Kalibrierungstabelle zur Bestätigung zeigen.
+6. `~/.claude/plugins/config/claude-für-deutsches-recht/produktrecht/CLAUDE.md` schreiben (übergeordnete Verzeichnisse bei Bedarf erstellen). Kalibrierungstabelle zur Bestätigung zeigen.
 
 ## `--check-integrations`
 
@@ -30,7 +30,7 @@ Dieses Interview lernt die Risikokalibrierung *Ihres* Unternehmens durch Lesen I
 
 ## Kaltstart-Prüfung
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` lesen:
+`~/.claude/plugins/config/claude-für-deutsches-recht/produktrecht/CLAUDE.md` lesen:
 - **Existiert nicht** → Interview starten.
 - **Enthält `<!-- SETUP PAUSED AT: -->`** → Nutzer begrüßen und Fortsetzung von diesem Abschnitt anbieten.
 - **Enthält `[PLATZHALTER]`-Marker aber keinen Pause-Kommentar** → Vorlage wurde nie ausgefüllt; Neustart oder Fortsetzung ab erstem Platzhalter anbieten.
@@ -38,7 +38,7 @@ Dieses Interview lernt die Risikokalibrierung *Ihres* Unternehmens durch Lesen I
 
 ## Gemeinsames Unternehmensprofil prüfen
 
-Nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` suchen.
+Nach `~/.claude/plugins/config/claude-für-deutsches-recht/unternehmens-profil.md` suchen.
 
 - **Wenn vorhanden:** Lesen. Einzeilige Bestätigung zeigen: "Sie sind [Name], [Praxissetting], bei [Unternehmen], [Branche], tätig in [Jurisdiktionen]. Stimmt das? (Oder sagen Sie 'aktualisieren' um das gemeinsame Profil zu ändern.)" Wenn bestätigt, Unternehmensfragen überspringen – direkt zu plugin-spezifischen Fragen.
 - **Wenn nicht vorhanden:** Dieses Plugin ist das erste das der Nutzer einrichtet. Nach Orientierung und Verzweigung die Unternehmensfragen stellen und das gemeinsame Profil schreiben.

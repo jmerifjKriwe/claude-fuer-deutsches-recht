@@ -1,13 +1,13 @@
 ---
 name: auswahlgespraech-dokumentationspflicht
-description: "Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen fuer alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine fuer Anfechtung und Konkurrenteneilantrag im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine für Anfechtung und Konkurrenteneilantrag im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auswahlgespraech — Dokumentationspflicht und Verfahrensfehler
 
 ## Arbeitsbereich
 
-Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen fuer alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine fuer Anfechtung und Konkurrenteneilantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine für Anfechtung und Konkurrenteneilantrag. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center 
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech absolviert haben und dessen Ergebnis als entscheidungstragenden Bestandteil beanstanden moechten. Anwendung neben `konkurrentenschutz-bestenauslese-art-33-ii-gg` und `anforderungsprofil-konstitutiv-deklaratorisch`.
+Skill für Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech absolviert haben und dessen Ergebnis als entscheidungstragenden Bestandteil beanstanden moechten. Anwendung neben `konkurrentenschutz-bestenauslese-art-33-ii-gg` und `anforderungsprofil-konstitutiv-deklaratorisch`.
 
 ## 2. Eingaben
 
@@ -37,7 +37,7 @@ Skill fuer Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech
 - Bei alleiniger Stuetzung der Auswahl auf das Gespraech ist die Auswahlentscheidung in der Regel rechtswidrig.
 
 ### b) Strukturierung und Gleichbehandlung
-- Gleiche Kernfragen fuer alle Bewerber, gleiche Zeitbudgets, gleiche Bewertungskriterien.
+- Gleiche Kernfragen für alle Bewerber, gleiche Zeitbudgets, gleiche Bewertungskriterien.
 - Wechsel der Kommissionsbesetzung waehrend des Verfahrens fuehrt regelmaessig zu Verfahrensfehler.
 
 ### c) Dokumentationspflicht
@@ -72,4 +72,4 @@ Skill fuer Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech
 
 ## 7. Beispiel (Kurzfassung)
 
-Konkurrentensituation um A15-Stelle. Auswahlgespraech entscheidet, da Beurteilungen gleich. Mandant ruegt: unterschiedliche Fragenkataloge, kein Protokoll, Kommissionsmitglied war im Vorjahr Vorgesetzter der Konkurrentin. Skill liefert Anordnungsanspruch fuer einstweilige Anordnung.
+Konkurrentensituation um A15-Stelle. Auswahlgespraech entscheidet, da Beurteilungen gleich. Mandant ruegt: unterschiedliche Fragenkataloge, kein Protokoll, Kommissionsmitglied war im Vorjahr Vorgesetzter der Konkurrentin. Skill liefert Anordnungsanspruch für einstweilige Anordnung.

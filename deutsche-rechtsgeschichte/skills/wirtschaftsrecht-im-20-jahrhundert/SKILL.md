@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kr
 
 Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kriegswirtschaftsrecht 1914-1918, Weimarer Wirtschaftsrecht, NS-Wirtschaftslenkung, Soziale Marktwirtschaft und Ordoliberalismus. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kriegswirtschaft
 
 ## Worum es geht
 
-Das Wirtschaftsrecht des 20. Jh. ist durch extreme Schwankungen gepraegt. Das Kaiserreich kannte liberalen Wirtschaftsprivatismus plus Sozialpolitik. Der Erste Weltkrieg brachte Zwangswirtschaft (Kriegswirtschaftsgesetze, Kriegsrohstoffamt). Die Weimarer Republik experimentierte mit Sozialisierungsgesetzgebung und Konjunkturpolitik. Der NS schuf totalitaere Wirtschaftslenkung (Vierjahresplan, Ruestungsbeschleunigung). Nach 1945 entwickelte Ludwig Erhard das Konzept der Sozialen Marktwirtschaft (Wohlstand fuer alle, 1957) auf Grundlage des Ordoliberalismus (Freiburger Schule: Walter Eucken, Franz Boehm). Das GWB 1957 kodifizierte Wettbewerbsrecht.
+Das Wirtschaftsrecht des 20. Jh. ist durch extreme Schwankungen gepraegt. Das Kaiserreich kannte liberalen Wirtschaftsprivatismus plus Sozialpolitik. Der Erste Weltkrieg brachte Zwangswirtschaft (Kriegswirtschaftsgesetze, Kriegsrohstoffamt). Die Weimarer Republik experimentierte mit Sozialisierungsgesetzgebung und Konjunkturpolitik. Der NS schuf totalitaere Wirtschaftslenkung (Vierjahresplan, Ruestungsbeschleunigung). Nach 1945 entwickelte Ludwig Erhard das Konzept der Sozialen Marktwirtschaft (Wohlstand für alle, 1957) auf Grundlage des Ordoliberalismus (Freiburger Schule: Walter Eucken, Franz Boehm). Das GWB 1957 kodifizierte Wettbewerbsrecht.
 
 ## Kernnormen / Kernquellen
 
@@ -47,7 +64,7 @@ Das Wirtschaftsrecht des 20. Jh. ist durch extreme Schwankungen gepraegt. Das Ka
 
 - GWB: gesetze-im-internet.de; RGBl. 1957, 1081 (historisch) via ALEX/OeNB
 - Eucken Grundsaetze der Wirtschaftspolitik (1952): historische Ausgabe
-- Erhard Wohlstand fuer alle (1957): Erstausgabe
+- Erhard Wohlstand für alle (1957): Erstausgabe
 - Vierjahresplan-Verordnung 1936: ALEX/OeNB
 
 ## Output

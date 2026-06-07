@@ -53,11 +53,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **BVerfG-Linie zur Akteneinsicht** und fair-trial-Garantie (Art. 6 EMRK i.V.m. Art. 20 III GG): umfassender Anspruch auf alle die Verteidigung betreffenden Unterlagen, insbesondere Messdaten / Rohdaten bei standardisierten Messverfahren.
 - **OLG-Linien zu Rohdaten:** zunehmend Anerkennung des Anspruchs (insb. Saarland VerfGH, OLG Frankfurt); bei Verweigerung Verfassungsbeschwerde / RB §§ 79, 80 OWiG.
 - **Inhalte Akte umfassend:** Messprotokoll, Messfoto, Lebensakte Geraet, Eichschein, Bedienerschein, Schulungsnachweis, Rohdaten (.case / .esa / .traf), Statistikdatei, Bedienungsanleitung des Geraets in geltender Fassung.
-- **Verweigerungsstrategie der Behoerde** typisch: "Rohdaten gehoeren nicht zur Akte"; "Herstellergeheimnis"; "Nicht in Behoerdenbesitz". **Gegenargumente:**
+- **Verweigerungsstrategie der Behörde** typisch: "Rohdaten gehoeren nicht zur Akte"; "Herstellergeheimnis"; "Nicht in Behördenbesitz". **Gegenargumente:**
  - § 49 OWiG i.V.m. § 147 StPO umfassend.
  - BVerfG fair-trial: alles, was Verteidigung betrifft.
  - Hersteller-Geheimnis steht Strafverteidigung nicht entgegen.
- - Behoerde muss Rohdaten beim Hersteller / Polizei beschaffen.
+ - Behörde muss Rohdaten beim Hersteller / Polizei beschaffen.
 - **Internationale Konstellationen:**
  - **EU-Verkehrsverstoss** im Inland: deutsches Recht; Vollstreckung im Heimatstaat nach RB 2005/214/JI ueber gegenseitige Anerkennung Geldsanktionen (Rahmenbeschluss; in DE umgesetzt §§ 84 ff. OWiG-Vollstreckung).
  - **Ausland-Verkehrsverstoss** durch deutschen Halter: anderes Land massgeblich; Vollstreckung gegen Halter in Deutschland nur ueber Rahmenbeschluss / Abkommen.

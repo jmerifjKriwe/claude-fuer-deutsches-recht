@@ -19,7 +19,7 @@ Skill zur politischen Maessigungspflicht nach § 60 BBG bzw. § 33 BeamtStG. Kla
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird (Twitter-Posts, kommunalpolitisches Engagement, oeffentliche Statements), und fuer die rechtliche Pruefung der Aeusserungsgrenzen.
+Skill für Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird (Twitter-Posts, kommunalpolitisches Engagement, öffentliche Statements), und für die rechtliche Pruefung der Aeusserungsgrenzen.
 
 ## 2. Eingaben
 
@@ -31,7 +31,7 @@ Skill fuer Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird 
 ## 3. Ablauf / Checkliste
 
 ### a) Inhalt der Pflicht
-- § 60 BBG bzw. § 33 BeamtStG: Pflicht zu Maessigung und Zurueckhaltung im politischen Bereich, in dem die persoenliche Anschauung dem ueberparteilichen Auftreten widerspraeche.
+- § 60 BBG bzw. § 33 BeamtStG: Pflicht zu Maessigung und Zurueckhaltung im politischen Bereich, in dem die persönliche Anschauung dem ueberparteilichen Auftreten widerspraeche.
 
 ### b) Reichweite
 - Sie gilt nicht nur im Dienst, sondern auch ausserhalb. Sie wird modifiziert durch Art. 5 Abs. 1 GG (Meinungsfreiheit) und Art. 5 Abs. 3 GG (Wissenschaftsfreiheit).
@@ -62,7 +62,7 @@ Skill fuer Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird 
 - Art. 5 Abs. 1 GG (Meinungsfreiheit) und Art. 5 Abs. 3 GG (Wissenschaftsfreiheit) als Schranken-Schranke der Maessigungspflicht.
 - Art. 33 Abs. 5 GG (hergebrachte Grundsaetze des Berufsbeamtentums); Art. 21 GG (Parteienprivileg).
 - BVerfG zur Meinungsfreiheit der Beamten und zur Maessigungspflicht — Datum und Az vor Zitat live verifizieren.
-- Statusabhaengige Differenzierung in der Rechtsprechung: strengere Massstaebe fuer Polizei und Lehrkraefte, weitere Spielraeume fuer wissenschaftliches Personal.
+- Statusabhaengige Differenzierung in der Rechtsprechung: strengere Massstaebe für Polizei und Lehrkraefte, weitere Spielraeume für wissenschaftliches Personal.
 
 ## 7. Beispiel (Kurzfassung)
 

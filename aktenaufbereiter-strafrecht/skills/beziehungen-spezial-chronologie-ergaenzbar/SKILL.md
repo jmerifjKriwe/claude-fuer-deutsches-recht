@@ -50,7 +50,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafakte-Beziehungen-Matrix Bausteine
 - **Beziehungsmatrix-Typen pro Strafsache:**
- - **Beschuldigter <-> Geschaedigte:** Beziehungsart (Bekannte, Familie, Geschaeftspartner, fremd); Bedeutung fuer Vorsatz / Motiv / Strafzumessung § 46 StGB.
+ - **Beschuldigter <-> Geschaedigte:** Beziehungsart (Bekannte, Familie, Geschaeftspartner, fremd); Bedeutung für Vorsatz / Motiv / Strafzumessung § 46 StGB.
  - **Mitbeschuldigte untereinander:** Mittaeterschaft § 25 II StGB vs. Beihilfe § 27 StGB vs. mittelbare Taeterschaft § 25 I 2 StGB.
  - **Beschuldigter <-> Zeugen:** Verwandtschaft (§ 52 StPO Zeugnisverweigerung), Bekanntschaft (Beeinflussungsrisiko).
  - **Mitwirkende Bandenmitglieder § 244 I Nr. 2 StGB (Bandendiebstahl) / § 244a StGB (schwerer Bandendiebstahl) / § 263 V StGB (Bandenbetrug):** Bandentatbestand erfuellt? Mindestens 3 Personen + auf fortgesetzte Begehung gerichtete Vereinbarung.
@@ -61,7 +61,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Strafrahmen-Schwerpunkt: § 244 I Nr. 2 StGB (Bandendiebstahl) 6 Monate bis 10 Jahre Freiheitsstrafe; § 244a StGB (schwerer Bandendiebstahl) 1 bis 10 Jahre Freiheitsstrafe; § 263 V StGB (Bandenbetrug) 1 bis 10 Jahre. § 244 Abs. 4 StGB ist demgegenueber Wohnungseinbruchsdiebstahl in dauerhaft genutzter Privatwohnung mit Strafrahmen 1 bis 10 Jahre und nicht Bandendelikt.
 - **Mittaeterschafts-/Beihilfe-Abgrenzung:**
  - Tatherrschaft + gemeinsamer Tatplan -> Mittaeter § 25 II.
- - Untergeordneter Tatbeitrag, Foerderungswille -> Beihilfe § 27 StGB (Strafmilderung § 27 II 2 StGB).
+ - Untergeordneter Tatbeitrag, Förderungswille -> Beihilfe § 27 StGB (Strafmilderung § 27 II 2 StGB).
  - Anstifter § 26 StGB: Bestimmen des Haupttaeters; Strafrahmen wie Haupttaeter.
 - **Personenmatrix Vorlage:**
  | Nr | Name | Rolle | Beziehung zu Bekl. | Tatbeitrag | Beweismittel | Verteidigungsrelevanz |
@@ -70,7 +70,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  | 2 | B | Mitbeschuldigter | Bekannter | Tatherrschaft | TKUe | Mittaeter |
  | 3 | C | Geschaedigte | Geschaeftsbeziehung | - | Aussage | belastend |
 - **Tatumfang-/Schadens-Schwellen (Regelbeispiele):**
- - § 243 StGB schwerer Diebstahl: insbes. gewerbsmaessig (regelmaessige Tat) + § 243 I Nr. 3 StGB Wohnungseinbruchsdiebstahl.
+ - § 243 StGB schwerer Diebstahl: insbes. gewerbsmaessig (regelmäßige Tat) + § 243 I Nr. 3 StGB Wohnungseinbruchsdiebstahl.
  - § 263 III StGB Betrug: insbesondere gewerbsmaessig / Vermoegensverlust grosseren Ausmasses (regelmaessig ab 50.000 EUR; BGH-Linie).
- - § 244 I Nr. 2 StGB: bandenmaessiger Diebstahl.
+ - § 244 I Nr. 2 StGB: bandenmäßiger Diebstahl.
 - **Verbundene Verfahren** § 4 StPO: gemeinsame Tat, gemeinsame Verhandlung; Trennung § 4 II StPO bei Interessenkollision.

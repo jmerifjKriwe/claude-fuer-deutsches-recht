@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Vorgehensweise:**
  - Vorgespraech mit StA / Gericht ausserhalb Hauptverhandlung.
  - Korridor sondieren (Min - Max Strafmass).
- - Sondierung schriftliche Zusammenfassung an Mandant fuer Freigabe.
+ - Sondierung schriftliche Zusammenfassung an Mandant für Freigabe.
  - In Hauptverhandlung formell § 257c StPO einbringen.
 - **Beweislast und Beweismittel beim Deal:**
  - StA traegt weiterhin Beweislast Schuld; Verstaendigung **nicht** Schuldspruch-Ersatz.

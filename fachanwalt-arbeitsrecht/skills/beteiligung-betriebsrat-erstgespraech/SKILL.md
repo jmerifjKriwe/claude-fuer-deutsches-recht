@@ -79,7 +79,7 @@ BetrVG § 102; KSchG; BAG live prüfen. Rechtsprechung wird nur mit Gericht, Dat
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster fuer Individual- und kollektives Arbeitsrecht:
+Standard-Fragenraster für Individual- und kollektives Arbeitsrecht:
 
 - Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
@@ -92,15 +92,15 @@ Standard-Fragenraster fuer Individual- und kollektives Arbeitsrecht:
 - Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG fuer RA-Mandate).
+- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
 
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behoerde).
+- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
 - Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Bereich Individual- und kollektives Arbeitsrecht:
 
@@ -114,23 +114,23 @@ Standard-Streitwerte im Bereich Individual- und kollektives Arbeitsrecht:
 Drei Weichen am Ende des Erstgespraechs:
 
 - **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzustaendig oder Konflikt.
+- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjaehrung, Ausschlussfristen, Beweisanforderungs-Fristen).
+2. **Frist-Liste** (Sofortfristen, Verjährung, Ausschlussfristen, Beweisanforderungs-Fristen).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
 4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
 5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
 
 ## Relevante Rechtsgrundlagen und Standards
 
-- BORA, BRAO, FAO fuer Fachanwaltschaft Individual- und kollektives Arbeitsrecht.
+- BORA, BRAO, FAO für Fachanwaltschaft Individual- und kollektives Arbeitsrecht.
 - GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
-- KSchG, TzBfG, BetrVG, BGB, EFZG, BUrlG, AGG, NachwG (fuer fachliche Erstpruefung).
-- DSGVO und BDSG fuer den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
+- KSchG, TzBfG, BetrVG, BGB, EFZG, BUrlG, AGG, NachwG (für fachliche Erstpruefung).
+- DSGVO und BDSG für den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
 
 ## Typische Fehler im Erstgespraech
 
@@ -159,7 +159,7 @@ Drei Weichen am Ende des Erstgespraechs:
 
 Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Individual- und kollektives Arbeitsrecht). Handlungs-Sequenz:
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behoerdenportal).
+1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
 2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO, § 110 AO) als Reserve dokumentieren.
 3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
 4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten - aber transparent kommunizieren.
@@ -169,7 +169,7 @@ Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsf
 Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fachlichen Bewertung:
 
 1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl - Spielraum fuer Verjaehrungs- und Ausschlussfristen identifizieren.
+2. Chronologischer Verlauf als Zeitstrahl - Spielraum für Verjährungs- und Ausschlussfristen identifizieren.
 3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
 
 ### Konstellation C: Interessenkonflikt-Naehe
@@ -216,9 +216,9 @@ Aktenzeichen geprueft und korrigiert:
 
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
@@ -277,13 +277,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Leitentscheidung: BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich).
 
-Tragende Aussage: Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) genuegt der Paarvergleich mit einer einzelnen Person des anderen Geschlechts, die fuer gleiche oder gleichwertige Arbeit ein hoeheres Entgelt erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
+Tragende Aussage: Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) genuegt der Paarvergleich mit einer einzelnen Person des anderen Geschlechts, die für gleiche oder gleichwertige Arbeit ein hoeheres Entgelt erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
 
 Offene Quelle: dejure.org, Vernetzung BAG 23.10.2025 - 8 AZR 300/24; BAG-Pressemitteilung (Entscheidungen Online). Vorinstanz: LAG Baden-Wuerttemberg. Status: Bei Volltextverwendung im Schriftsatz vorher Volltext-Verfuegbarkeit pruefen.
 
 Die Beweislast verlagert sich damit vollstaendig auf den Arbeitgeber. Er muss konkret und nachvollziehbar darlegen und beweisen, dass die Entgeltdifferenz ausschliesslich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht.
 
-## Bedeutung fuer die anwaltliche Praxis
+## Bedeutung für die anwaltliche Praxis
 
 Die Entscheidung verschiebt die Beweislast erheblich. Vor der Entscheidung musste die Klaegerin in der Praxis oft umfangreiche statistische Auswertungen vorlegen, was an der Datenverfuegbarkeit scheiterte. Mit dem Paarvergleich genuegt ab sofort die konkrete Benennung eines Vergleichskollegen und der Verweis auf die gleichwertige Taetigkeit.
 
@@ -332,18 +332,18 @@ Verbindung mit `fachanwalt-arbeitsrecht-orientierung` zur Mandatsaufnahme. Bei z
 Die Richtlinie (EU) 2023/970 vom 10. Mai 2023 (ABl. L 132 vom 17.05.2023, S. 21) verpflichtet die Mitgliedstaaten zur Umsetzung bis zum 07. Juni 2026. Die nationale Umsetzung in deutsches Recht steht zum Stand Mai 2026 noch aus. Beratungsrelevante Pflichten:
 
 - Art. 5 — Vorvertragliche Entgelttransparenz: Auskunftspflicht des Arbeitgebers ueber Einstiegsgehalt oder Gehaltsspanne; Verbot, Bewerber nach der Gehaltshistorie zu fragen.
-- Art. 7 — Individueller Auskunftsanspruch ueber Durchschnittsentgelt nach Geschlecht fuer gleiche oder gleichwertige Arbeit; Frist zwei Monate.
+- Art. 7 — Individueller Auskunftsanspruch ueber Durchschnittsentgelt nach Geschlecht für gleiche oder gleichwertige Arbeit; Frist zwei Monate.
 - Art. 9 — Berichtspflicht ueber das geschlechtsspezifische Entgeltgefaelle: ab 250 Beschaeftigten jaehrlich, ab 150 alle drei Jahre, ab 100 alle drei Jahre (gestaffelte Uebergangsfristen).
 - Art. 10 — Gemeinsame Entgeltbewertung mit Arbeitnehmervertretung bei einem Entgeltgefaelle ab fuenf Prozent ohne sachliche Rechtfertigung.
 - Art. 16 — Schadensersatz ohne Obergrenze; volle Wiedergutmachung.
 - Art. 18 — Beweislastumkehr zu Lasten des Arbeitgebers bei Verletzung der Transparenzpflichten.
-- Art. 21 — Verjaehrungsfrist mindestens drei Jahre ab Kenntnis.
+- Art. 21 — Verjährungsfrist mindestens drei Jahre ab Kenntnis.
 
 Praxishinweis Direktwirkung: Eine unmittelbare Anwendbarkeit der Richtlinie kommt nach Ablauf der Umsetzungsfrist nur eingeschraenkt in Betracht. EU-Richtlinien koennen nach staendiger EuGH-Rechtsprechung (grundlegend Urt. v. 04.12.1974 – 41/74, Van Duyn; Urt. v. 19.01.1982 – 8/81, Becker) gegenueber dem Mitgliedstaat einschliesslich aller staatlichen Stellen (vertikale Direktwirkung) geltend gemacht werden, soweit die Bestimmungen hinreichend bestimmt und unbedingt sind. Eine horizontale Direktwirkung zwischen Privaten ist hingegen ausgeschlossen (EuGH, Urt. v. 26.02.1986 – 152/84, Marshall; bestaetigt etwa in Urt. v. 19.04.2016 – C-441/14, Dansk Industri).
 
-Folgerungen fuer die Beratung:
+Folgerungen für die Beratung:
 
-- Bei Mandanten gegen oeffentliche Arbeitgeber (Bund, Laender, Kommunen, Anstalten und Koerperschaften des oeffentlichen Rechts) kann ab dem 08.06.2026 unmittelbar auf die hinreichend bestimmten Pflichten der Richtlinie 2023/970 (insb. Art. 5, Art. 7) gestuetzt werden, falls bis dahin keine fristgemaesse Umsetzung erfolgt ist.
+- Bei Mandanten gegen öffentliche Arbeitgeber (Bund, Länder, Kommunen, Anstalten und Koerperschaften des öffentlichen Rechts) kann ab dem 08.06.2026 unmittelbar auf die hinreichend bestimmten Pflichten der Richtlinie 2023/970 (insb. Art. 5, Art. 7) gestuetzt werden, falls bis dahin keine fristgemaesse Umsetzung erfolgt ist.
 - Bei privaten Arbeitgebern ist Anspruchsgrundlage weiterhin das EntgTranspG bzw. § 611a BGB i.V.m. Art. 157 AEUV; die Richtlinie wirkt nur mittelbar ueber die Pflicht zur richtlinienkonformen Auslegung (EuGH, Urt. v. 13.11.1990 – C-106/89, Marleasing). Das Argumentationspotenzial liegt darin, unbestimmte Rechtsbegriffe des EntgTranspG (z. B. "gleichwertige Arbeit", Auskunftsumfang) im Lichte von Art. 4 und Art. 7 der Richtlinie aufzuladen.
 - Etwaige Staatshaftungsansprueche bei Nichtumsetzung gegen die Bundesrepublik bleiben unberuehrt (EuGH, Urt. v. 19.11.1991 – C-6/90 und C-9/90, Francovich).
 

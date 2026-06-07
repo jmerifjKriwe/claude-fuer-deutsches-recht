@@ -63,7 +63,7 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 ## Strategie und Praxis-Tipps
 
 - 30-km-Luftlinie: schnelle GIS-Pruefung; bei Grenzfaellen Geokoordinaten.
-- Home-Office ab 01.01.2024: Homeoffice-Tage in der Grenzzone des Wohnsitzstaats zaehlen nicht als schaedliche Tage. Nur Tage ausserhalb beider Grenzzonen sind relevant fuer die 45-Tage-Grenze.
+- Home-Office ab 01.01.2024: Homeoffice-Tage in der Grenzzone des Wohnsitzstaats zaehlen nicht als schaedliche Tage. Nur Tage ausserhalb beider Grenzzonen sind relevant für die 45-Tage-Grenze.
 - Bei Pendelfahrten in Inneroesterreich (Wien-Aufenthalt) — Schaedlichkeit pruefen.
 - BMF-Schreiben mit aktualisierten Gemeindelisten periodisch konsultieren.
 - Bei Schaedlichkeit: 183-Tage-Pruefung Art. 15.
@@ -72,7 +72,7 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 
 ### Erstattungsverfahren bei AT-Quellensteuer
 
-- **Zustaendigkeit**: oesterreichisches **Finanzamt fuer Grossbetriebe** in Wien (frueher Bruck Eisenstadt Oberwart). Aktuelle Zustaendigkeit auf **bmf.gv.at** pruefen.
+- **Zuständigkeit**: oesterreichisches **Finanzamt für Grossbetriebe** in Wien (frueher Bruck Eisenstadt Oberwart). Aktuelle Zuständigkeit auf **bmf.gv.at** pruefen.
 - **Antragsformulare**: oesterreichische **ZS-RD1** (Rueckerstattung) und **ZS-QU1** (Entlastung an der Quelle) — Bezeichnungen vom Anwender mit aktuellem Stand zu verifizieren.
 - **Frist**: fuenf Jahre ab Veranlagungsjahr-Ablauf.
 - **Bearbeitungsdauer**: 6-18 Monate.
@@ -105,7 +105,7 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 ## Edge Cases — was Pruefer triggert
 
 - **Wien-Aufenthalt Lehrer aus Salzburg**: Wien ist NICHT in der 30-km-Zone — bei Lehrer mit Dienstort Wien Grenzgaengerstatus ausgeschlossen.
-- **Salzburger Doppelhaushalt** (Familienwohnsitz Innsbruck, Zweitwohnung Salzburg fuer Arbeit Freilassing): Tie-Breaker Art. 4 entscheidet; Pendelbereich pruefen.
+- **Salzburger Doppelhaushalt** (Familienwohnsitz Innsbruck, Zweitwohnung Salzburg für Arbeit Freilassing): Tie-Breaker Art. 4 entscheidet; Pendelbereich pruefen.
 - **Schichtwechsel mit Wechselschichten** (Frueh/Spaet/Nacht): jede Schicht-Heimkehr zaehlt als Rueckkehr — aber Nachtschicht-Ende morgens vor Wohnsitz-Rueckkehr ist regelmaessig unproblematisch.
 - **Krankheit und Karenz**: laengere Erkrankungen unterbrechen den Grenzgaengerstatus nicht zwingend — DBA-Text und Praxis pruefen.
 - **Aufgabenwechsel mit Reiseanteil**: bei zunehmenden Drittlandsreisen ueber 45 Tage Schaedlichkeit eintritt.

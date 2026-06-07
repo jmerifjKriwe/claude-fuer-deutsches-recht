@@ -1,11 +1,11 @@
 ---
 name: bmftr-biotechnologie-und-laborsicherheit
-description: "Sachbereich Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR: Normbestand (GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.); Akteure (Zentrale Kommission fuer die Biologische Sicherheit (ZKBS); BVL; BfR; Laender-Genehmigungen.); EU-Bezug (RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung)."
+description: "Sachbereich Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR: Normbestand (GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.); Akteure (Zentrale Kommission für die Biologische Sicherheit (ZKBS); BVL; BfR; Länder-Genehmigungen.); EU-Bezug (RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung)."
 ---
 
 # Biotechnologie und Laborsicherheit (BMFTR)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -22,9 +22,9 @@ Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verw
 
 ## Akteure und Aufsicht
 
-Zentrale Kommission fuer die Biologische Sicherheit (ZKBS); BVL; BfR; Laender-Genehmigungen.
+Zentrale Kommission für die Biologische Sicherheit (ZKBS); BVL; BfR; Länder-Genehmigungen.
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -34,9 +34,9 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 ## Typische Legistik-Aufgaben
 
-Sicherheitsstufen; Laborgenehmigungen; Freisetzung; Anhoerung von ZKBS; Konvergenz mit EU.
+Sicherheitsstufen; Laborgenehmigungen; Freisetzung; Anhörung von ZKBS; Konvergenz mit EU.
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -48,9 +48,26 @@ Schrittfolge fuer den Normgeber:
 
 ## Stolpersteine und Pruefpunkte
 
-Akzeptanz; NGT-Reform; Doppelpruefung BVL und Laender.
+Akzeptanz; NGT-Reform; Doppelpruefung BVL und Länder.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 
@@ -60,7 +77,7 @@ Sachfeld-Kompass:
 Sachfeld: Biotechnologie und Laborsicherheit
 Ressort: BMFTR
 Kernnormen: GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.
-Akteure/Aufsicht: Zentrale Kommission fuer die Biologische Sicherheit (ZKBS); BVL; BfR; Laender-Genehmigungen.
+Akteure/Aufsicht: Zentrale Kommission für die Biologische Sicherheit (ZKBS); BVL; BfR; Länder-Genehmigungen.
 EU/Voelkerrecht: RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.
 Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
 Stolpersteine: <Sachfeld-spezifisch>
@@ -75,7 +92,7 @@ Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

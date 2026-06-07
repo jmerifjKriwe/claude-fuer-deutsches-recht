@@ -1,6 +1,6 @@
 ---
 name: signing-closing-conditions
-description: "Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Prüfraster: CP-Checkliste, Behoerdengenehmigungen, Eigentumsuebergang, MAC-Klausel-Status, Satisfaction-Protokoll. Output CP-Tracker mit Ampelstatus, Closing-Deliverables-Liste, Satisfaction-Notice. Abgrenzung: Signing-Vorbereitung siehe output-versand-signing; Closing-Archivierung siehe closing-bible-archiv."
+description: "Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Prüfraster: CP-Checkliste, Behördengenehmigungen, Eigentumsuebergang, MAC-Klausel-Status, Satisfaction-Protokoll. Output CP-Tracker mit Ampelstatus, Closing-Deliverables-Liste, Satisfaction-Notice. Abgrenzung: Signing-Vorbereitung siehe output-versand-signing; Closing-Archivierung siehe closing-bible-archiv."
 ---
 
 # Signing und Closing Conditions
@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -105,7 +105,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Triage — klaere vor Beginn
 
 1. Welche Closing Conditions sind im SPA definiert?
-2. Wer ist CP-Owner fuer jede Bedingung (Kaeufer, Verkaefer, beide)?
+2. Wer ist CP-Owner für jede Bedingung (Kaeufer, Verkaefer, beide)?
 3. Behordliche Genehmigungen: Kartellrecht, FDI, Sektorregulierung — Fristen?
 4. Dritte Zustimmungen: Change-of-Control-Klauseln, Bankenkonsortium, Schluessel-Kunden?
 5. Long Stop Date: Wann verfaellt das SPA automatisch wenn CPs nicht erfuellt?
@@ -132,7 +132,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 | CP-Typ | Typischer Inhalt | CP-Owner | Pruefung | Frist |
 |---|---|---|---|---|
-| Regulatorisch | Kartellfreigabe GWB/FKVO; FDI-Genehmigung | Kaeufer | Behoerdenschreiben | Long Stop Date |
+| Regulatorisch | Kartellfreigabe GWB/FKVO; FDI-Genehmigung | Kaeufer | Behördenschreiben | Long Stop Date |
 | Corporate | GV/AR-Beschluss; Unterschriften; vollstaendige Execution | Beide | Protokoll + Anlagen | Signing |
 | Dritte Zustimmungen | CoC-Consents; Banken (Change-of-Control-Covenant); Schluessel-Kunden | Meist Verkaefer | Consent Letters | Long Stop Date |
 | Representations True & Correct | Keine wesentliche Unrichtigkeit der Reps zum Closing | Verkaefer | Bring-Down Certificate | Closing Day |
@@ -161,7 +161,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - [ ] W&I-Policy-Commitment Letter (wenn W&I-Versicherung)
 - [ ] Firmen-Vollmacht Unterschriftsberechtigte (Handelsregisterauszug)
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **CP-Liste im SPA auswerten** — jede Bedingung mit Owner, Frist und Nachweiserfordernis erfassen
 2. **CP-Tracker aufbauen** — Spreadsheet mit Status, Owner, Frist, Fruehindikatoren, Eskalationsstufe
@@ -178,10 +178,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 CP-Erfullung verzoegert sich?
  → Regulatorisch (Kartell/FDI)?
- → Kurze Verzoegerung: Long Stop Date verlaengern (Amendment); Behoerde aktiv unterstuetzen
+ → Kurze Verzoegerung: Long Stop Date verlaengern (Amendment); Behörde aktiv unterstuetzen
  → Untersagung droht: Abhilfemassnahmen (Remedies/Divestitures) verhandeln
  → Dritte Consent nicht eingeholt?
- → Wesentlich fuer Business: nachverhandeln; ggf. Kaufpreisabschlag
+ → Wesentlich für Business: nachverhandeln; ggf. Kaufpreisabschlag
  → Unwesentlich: Waiver durch Kaeufer einholen
  → Bring-Down nicht clean (Rep-Verletzung)?
  → MAC-Schwelle erreicht: Ruecktrittsrecht pruefen (§ 162 BGB)

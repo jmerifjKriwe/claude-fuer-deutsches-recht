@@ -18,7 +18,7 @@ description: "Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet der Ar
 3. Greift Pauschalierung § 40 § 40a § 40b EStG und befreit insoweit von der Haftung?
 4. Wurde Ermessen nach § 42d Abs. 3 EStG fehlerfrei ausgeuebt — Auswahl Arbeitnehmer Arbeitgeber Dritter?
 5. Bruttoabwaelzung oder Nettoabwaelzung im Falle einer Pauschalierung?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

@@ -18,7 +18,7 @@ description: "Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tat
 3. Ist Bruttoabzug einschlaegig oder kann Nettoabzug 30 Prozent gewaehlt werden?
 4. Liegt eine Freistellungsbescheinigung BZSt vor — wenn nicht kann sie nachtraeglich beantragt werden?
 5. Greift ein DBA mit Erstattungsanspruch nach § 50c EStG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

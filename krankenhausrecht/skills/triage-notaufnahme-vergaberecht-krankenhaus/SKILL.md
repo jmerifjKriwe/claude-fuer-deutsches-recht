@@ -40,7 +40,7 @@ Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Tria
 - **Notaufnahmevergaben G-BA** Stufenkonzept und Strukturmerkmale.
 - **MD-Strukturpruefung** und MBO-Aerzte.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Triagesystem dokumentieren:** Welches System, wer triagiert (Notfallpflege, Aerztlich), Schulungsnachweis.
 2. **Dokumentation jeder Triage:** Eingangstrias mit Datum/Uhrzeit, Kategorie, Vitalparameter, Begruendung.
 3. **Re-Triage:** Bei Verzoegerung erneute Bewertung; Verlauf dokumentieren.

@@ -1,20 +1,20 @@
 ---
 name: anfaenger-sozialgericht-rechtsprechungschat
-description: "Anfaenger Sozialgericht Rechtsprechungschat im Selbstvertretung am Sozialgericht: prüft konkret Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter im, Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X, Alle wichtigen Fristen im SG-Verfahren ueberblicken. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anfaenger Sozialgericht Rechtsprechungschat im Selbstvertretung am Sozialgericht: prüft konkret Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter im, Anhörung im sozialverwaltungsverfahren nach § 24 SGB X, Alle wichtigen Fristen im SG-Verfahren ueberblicken. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Anfaenger Sozialgericht Rechtsprechungschat
 
 ## Arbeitsbereich
 
-**Anfaenger Sozialgericht Rechtsprechungschat** ordnet den Fall über die tragenden Prüfungslinien: Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter im, Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Anfaenger Sozialgericht Rechtsprechungschat** ordnet den Fall über die tragenden Prüfungslinien: Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter im, Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `anfaenger-workflow-sozialgericht` | Geführter Anfänger-für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills. |
 | `rechtsprechungschat-sozialgericht` | Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden. |
-| `anhoerung-im-sozialverwaltungsverfahren-24-sgb-x` | Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhoerungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhoerungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster. |
+| `anhoerung-im-sozialverwaltungsverfahren-24-sgb-x` | Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster. |
 | `fristen-berechnen-sgg-laien` | Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt. |
 | `fristenbuch-fuehren-laien-sozialgericht` | Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden für Buerger ohne Anwalt. |
 
@@ -234,12 +234,12 @@ Das ist hier relevant, weil [Tatsache].
 
 ## 3. `anhoerung-im-sozialverwaltungsverfahren-24-sgb-x`
 
-**Fokus:** Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhoerungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhoerungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster.
+**Fokus:** Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster.
 
-# Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X
+# Anhörung Im Sozialverwaltungsverfahren 24 Sgb X
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anhörung Im Sozialverwaltungsverfahren 24 Sgb X` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -253,13 +253,13 @@ Das ist hier relevant, weil [Tatsache].
 ## Ausnahmen § 24 Abs. 2 SGB X
 
 - Sofortige Entscheidung wegen Gefahr im Verzug.
-- Anhoerung wuerde die Frist gefaehrden.
+- Anhörung wuerde die Frist gefaehrden.
 - Massenverfahren mit gleichen Tatsachen.
 - Allgemeine Anordnung an unbestimmten Personenkreis.
 
 ## Was tun
 
-1. Anhoerungsschreiben aufmerksam lesen.
+1. Anhörungsschreiben aufmerksam lesen.
 2. Frist (regelmaessig 2-4 Wochen) im Fristenbuch notieren.
 3. Schriftliche Stellungnahme:
  - Bestaetigung was richtig ist.
@@ -268,20 +268,20 @@ Das ist hier relevant, weil [Tatsache].
  - Antrag auf Akteneinsicht stellen (siehe Skill `akteneinsicht-25-sgb-x`).
 4. Stellungnahme rechtzeitig per Einschreiben oder elektronisch einreichen.
 
-## Wenn Anhoerung unterblieben ist
+## Wenn Anhörung unterblieben ist
 
 - Verwaltungsakt formell rechtswidrig (§ 41 Abs. 1 Nr. 3 SGB X).
 - Heilung moeglich bis zum Abschluss des Widerspruchsverfahrens (§ 41 Abs. 2 SGB X) durch Nachholung.
-- Daher Anhoerungsmangel im Widerspruch ruegen und materiell verteidigen.
+- Daher Anhörungsmangel im Widerspruch ruegen und materiell verteidigen.
 
 ## Vorlage
 
-"In dem Verwaltungsverfahren zu Aktenzeichen [...] nehme ich zur Anhoerung Stellung wie folgt: [...] Ich beantrage Akteneinsicht und behalte mir vor weitere Beweisangebote nachzureichen."
+"In dem Verwaltungsverfahren zu Aktenzeichen [...] nehme ich zur Anhörung Stellung wie folgt: [...] Ich beantrage Akteneinsicht und behalte mir vor weitere Beweisangebote nachzureichen."
 
 ## Pruefraster
 
 1. Liegt belastender VA in Vorbereitung?
-2. Anhoerung erfolgt?
+2. Anhörung erfolgt?
 3. Ausnahme einschlaegig?
 4. Frist gewahrt?
 5. Stellungnahme abgegeben?
@@ -326,7 +326,7 @@ Es gibt viele Fristen. Wir zeigen Ihnen alle wichtigen. Lernen Sie sie. Schreibe
 - **§§ 187 ff. BGB** — Fristberechnung allgemein.
 - **§ 37 Abs. 2 SGB X** — Bekanntgabefiktion.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tabelle der wichtigsten Fristen
 
@@ -433,10 +433,10 @@ Stand: 05/2026. PostModG seit 1.1.2025 mit 4-Tage-Fiktion. Vor 2025: 3 Tage.
 
 **Fokus:** Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden für Buerger ohne Anwalt.
 
-# Fristen sicher fuehren — fuer Buerger
+# Fristen sicher fuehren — für Buerger
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristen sicher fuehren — fuer Buerger` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristen sicher fuehren — für Buerger` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -466,7 +466,7 @@ Schreiben Sie alle Fristen auf. Sofort. Setzen Sie sich Erinnerungen. So vergess
 
 Nicht spezifisch geregelt, aber gute Praxis.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Werkzeug waehlen
 
@@ -545,7 +545,7 @@ Wer mehrere Sachen hat:
 ## Typische Fehler
 
 - "Ich merke mir das schon" → vergessen ist menschlich
-- Erst am Tag der Frist daran erinnert → zu spaet fuer Recherche / Schreiben
+- Erst am Tag der Frist daran erinnert → zu spaet für Recherche / Schreiben
 - Verschiedene Fristen verwechselt → Az dazuschreiben
 
 ## Querverweise

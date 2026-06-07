@@ -19,7 +19,7 @@ PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten. Die Prüfung kon
 
 ## Aufgabe
 
-ALR I 14 (Buergschaft) und I 20 (Pfand) — persoenliche und dingliche Sicherheiten.
+ALR I 14 (Buergschaft) und I 20 (Pfand) — persönliche und dingliche Sicherheiten.
 
 ## Wichtige Paragraphen
 
@@ -39,7 +39,7 @@ ALR I 14 (Buergschaft) und I 20 (Pfand) — persoenliche und dingliche Sicherhei
 
 ## Subsumtionsbeispiel: Ehefrau buergt 1850
 
-Ehefrau buergt fuer Geschaeftsschuld des Mannes.
+Ehefrau buergt für Geschaeftsschuld des Mannes.
 - **ALR**: SC Velleianum-Linie (frueh); Frauenintercessio mit Schutz.
 - **BGB**: § 765 BGB; bei kraesser Vermoegensueberforderung Sittenwidrigkeit § 138 BGB (BGH XI ZR 56/93).
 

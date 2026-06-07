@@ -19,13 +19,13 @@ Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie hist
 
 ## Worum es geht
 
-Gesetzesbegründungen (Regierungsentwuerfe, Referentenentwuerfe, BT-Drucksachen) greifen regelmaessig auf Rechtsgeschichte zurueck: Darstellung des bisherigen Rechts, historische Entwicklung, Vergleich mit Vorgaengerregelungen. Die Qualitaet dieser historischen Abschnitte ist oft niedrig: Blindzitate, Anachronismen, fehlende Fundstellen. Bestes Gegenbeispiel: Schuldrechtsreform 2002 BT-Drucksache 14/6040, die eine aufwaendige historische Analyse des deutschen und europaeischen Schuldrechts enthielte. Standards: Primaerquelle vor Sekundaerliteratur, klare Epochenabgrenzung, Quellenangabe fuer jede historische Behauptung.
+Gesetzesbegründungen (Regierungsentwuerfe, Referentenentwuerfe, BT-Drucksachen) greifen regelmaessig auf Rechtsgeschichte zurueck: Darstellung des bisherigen Rechts, historische Entwicklung, Vergleich mit Vorgaengerregelungen. Die Qualitaet dieser historischen Abschnitte ist oft niedrig: Blindzitate, Anachronismen, fehlende Fundstellen. Bestes Gegenbeispiel: Schuldrechtsreform 2002 BT-Drucksache 14/6040, die eine aufwaendige historische Analyse des deutschen und europaeischen Schuldrechts enthielte. Standards: Primaerquelle vor Sekundaerliteratur, klare Epochenabgrenzung, Quellenangabe für jede historische Behauptung.
 
 ## Kernnormen / Kernquellen
 
 - **GG Art. 76**: Gesetzgebungsverfahren, Regierungsentwurf mit Begruendung
 - **Gemeinsame Geschaeftsordnung der Bundesministerien (GGO) § 42**: Anlagen zu Gesetzentwuerfen
-- **Mugdan**: Massstab fuer historische Begruendungsqualitaet
+- **Mugdan**: Massstab für historische Begruendungsqualitaet
 - **BT-Drucksache 14/6040** (Schuldrechtsreform): Beispiel historischer Abschnitt in Entwurfsbegruendung
 
 ## Akteure und Institutionen
@@ -33,7 +33,7 @@ Gesetzesbegründungen (Regierungsentwuerfe, Referentenentwuerfe, BT-Drucksachen)
 - **Referenten in Bundesministerien**: Ersteller von Gesetzesbegründungen
 - **Parlamentarischer Beratungsdienst**: Qualitaetskontrolle
 - **Bundesrat**: Stellungnahmen mit historischen Argumenten
-- **BVerfG**: Wertet Gesetzesbegründung als Rechtsquelle fuer Normzweck
+- **BVerfG**: Wertet Gesetzesbegründung als Rechtsquelle für Normzweck
 
 ## Typische Streitfragen / Forschungsfragen
 
@@ -47,12 +47,12 @@ Gesetzesbegründungen (Regierungsentwuerfe, Referentenentwuerfe, BT-Drucksachen)
 
 - BT-Drucksachen: bundestag.de/dokumente/parlamentsarchiv
 - Mugdan: historische Ausgabe als Qualitaetsmassstab
-- GGO: bundesregierung.de fuer formale Anforderungen
-- BVerfGE: bverfg.de fuer Nutzung der Gesetzesbegründung
+- GGO: bundesregierung.de für formale Anforderungen
+- BVerfGE: bverfg.de für Nutzung der Gesetzesbegründung
 
 ## Output
 
-- Vorlage: Historischer Abschnitt fuer Referentenentwurf
+- Vorlage: Historischer Abschnitt für Referentenentwurf
 - Checkliste: Qualitaetspruefung historische Begruendungsteile
 - Beispiel BT-Drucksache 14/6040: Gut gemachte historische Analyse
 

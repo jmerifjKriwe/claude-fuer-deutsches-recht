@@ -41,7 +41,7 @@ description: "Schiedsklausel Intwr Grenzueberschreitender im Internationalen Wir
 6. Liegt Verbraucherbeteiligung vor? § 1031 Abs. 5 ZPO — schärfere Formanforderungen zwingend.
 7. Soll Streitschlichtung (Mediation, Conciliation) als vorgeschaltete Pflichtphase vereinbart werden (so genannte Multi-Tier-Klausel)? Begründung: wirkt kostenmindernd, muss präzise formuliert sein um Zuständigkeitsfragen zu vermeiden.
 8. Notwendigkeit von Interim Relief (einstweilige Maßnahmen) — Zuständigkeit des Schiedsgerichts, Notfallschiedsrichter ICC Art. 29, DIS § 23, oder staatliche Gerichte weiterhin offen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -100,7 +100,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Schiedsklausel formulieren oder pruefen | Template unten; ICC oder DIS als Institution empfehlen |
 | Variante A — Mandant will staatliche Gerichtsbarkeit | Kein Schiedsverfahren; Gerichtsstandsklausel nach Art. 25 Bruessel Ia |
-| Variante B — Schiedsklausel unklar / pathologisch | Reparatur durch Auslegung oder Neuvereinbarung; Risiko Nichtzustaendigkeit beachten |
+| Variante B — Schiedsklausel unklar / pathologisch | Reparatur durch Auslegung oder Neuvereinbarung; Risiko Nichtzuständigkeit beachten |
 | Variante C — Investitionsstreit | ICSID pruefen; Achmea-Problematik bei Intra-EU-BIT beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -112,7 +112,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ```
 Alle Streitigkeiten, die sich im Zusammenhang mit diesem Vertrag oder
 ueber seine Gueltigkeit ergeben, werden nach der Schiedsgerichts-
-ordnung der Deutschen Institution fuer Schiedsgerichtsbarkeit e.V.
+ordnung der Deutschen Institution für Schiedsgerichtsbarkeit e.V.
 (DIS) unter Ausschluss des ordentlichen Rechtsweges endgueltig
 entschieden.
 
@@ -171,7 +171,7 @@ gegenstand sind hinreichend bestimmt.
 
 Wir beantragen daher, die Klage als unzulaessig abzuweisen.
 
-Vorsorglich und bedingt fuer den Fall, dass das Gericht die Einrede
+Vorsorglich und bedingt für den Fall, dass das Gericht die Einrede
 zurueckweist, beantragen wir Klageabweisung in der Sache.
 
 [Unterschrift]
@@ -321,13 +321,13 @@ Anwendbares Recht: [RECHTSORDNUNG]
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -355,7 +355,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

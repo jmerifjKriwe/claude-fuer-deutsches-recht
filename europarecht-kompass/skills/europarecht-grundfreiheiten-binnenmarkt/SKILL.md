@@ -65,7 +65,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 Bevor losgelegt wird, klaere:
 1. Welche Grundfreiheit ist betroffen — Warenverkehr, Dienstleistungen, Niederlassung, Kapital, Personen?
 2. Ist der Sachverhalt grenzueberschreitend (rein inlaendischer Sachverhalt wird nicht erfasst)?
-3. Liegt eine staatliche oder staatsaehnliche Maßnahme vor (Mitgliedstaat, Behoerde, halboeffentliche Stellen)?
+3. Liegt eine staatliche oder staatsaehnliche Maßnahme vor (Mitgliedstaat, Behörde, halböffentliche Stellen)?
 4. Koennte die Beschraenkung gerechtfertigt sein (Art. 36, 45 Abs. 3, 52 AEUV; zwingende Erfordernisse)?
 5. Verhältnismaessigkeitspruefung: Geeignetheit, Erforderlichkeit, Angemessenheit?
 

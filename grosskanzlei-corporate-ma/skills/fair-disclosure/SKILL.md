@@ -29,7 +29,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -111,7 +111,7 @@ Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte 
 ## Arbeitsmodus
 
 - Positive Kenntnis, best knowledge, Kennenmüssen und grobe Fahrlaessigkeit trennen.
-- Wissensträger, Datenraum, KI-Suche und aktenmaessiges Wissen als Verhandlungspunkt markieren.
+- Wissensträger, Datenraum, KI-Suche und aktenmäßiges Wissen als Verhandlungspunkt markieren.
 - Käufer- und Verkäuferperspektive getrennt darstellen.
 - Vorvertragliche Aufklärung und Angaben-ins-Blaue-Risiko als rote Schwelle behandeln.
 
@@ -142,14 +142,14 @@ Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte 
 ## Triage
 
 1. Welche Disclosure-Konzepte sind im SPA vereinbart — General Disclosure (ganzer Datenraum), Specific Disclosure, oder ein Hybrid?
-2. Wird ein "Best Knowledge"- oder "Actual Knowledge"-Standard verwendet — massive Unterschiede fuer Haftungsumfang?
+2. Wird ein "Best Knowledge"- oder "Actual Knowledge"-Standard verwendet — massive Unterschiede für Haftungsumfang?
 3. Sind KI-gestuetzte DD-Tools eingesetzt worden — transparente Kommunikation an Gegenseite und Underwriter?
 4. Gibt es "known unknowns" — Umstaende, die bekannt sind aber noch nicht vollstaendig dokumentiert?
 
 ## Zentrale Rechtsgrundlagen
 
 - § 442 BGB — Kaeuferwissen: Kenntnis des Mangels schliesst Gewaehrleistungsansprueche aus; Kenntnis aus DD-Datenraum kann zugerechnet werden
-- § 123 BGB — arglistige Taeusching: Disclosure schuetzt nicht vor arglistigem Verschweigen; persoenliche Haftung des Verkaeuf ers
+- § 123 BGB — arglistige Taeusching: Disclosure schuetzt nicht vor arglistigem Verschweigen; persönliche Haftung des Verkaeuf ers
 - §§ 133, 157 BGB — Auslegung: "Knowledge"-Klausel ist nach Treu und Glauben auszulegen; objektiver Empfaengerhorizont
 
 ## Aktuelle Rechtsprechung
@@ -159,17 +159,17 @@ Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Knowledge-Standard pruefen:** SPA-Klausel analysieren; "Best Knowledge" vs. "Actual Knowledge" vs. "Constructive Knowledge"
 2. **Disclosure-Konzept validieren:** General Disclosure oder Specific? Datenraum-Index vollstaendig?
-3. **KI-DD-Transparenz:** Methodik der KI-gestuetzten DD dokumentieren; Human-in-the-loop-Protokoll fuer Underwriter und Gegenseite
+3. **KI-DD-Transparenz:** Methodik der KI-gestuetzten DD dokumentieren; Human-in-the-loop-Protokoll für Underwriter und Gegenseite
 4. **Known Unknowns kartieren:** Umstaende, die bekannt aber noch ungeklart sind; Disclosure-Kategorie erstellen
 5. **Fair-Disclosure-Check:** je Specific Disclosure: ist Risiko klar und verstaendlich beschrieben?
 
 ## Rote Schwellen
 
-- Arglistiges Verschweigen trotz Disclosure: Haftungsausschluss unwirksam; persoenliche Haftung
+- Arglistiges Verschweigen trotz Disclosure: Haftungsausschluss unwirksam; persönliche Haftung
 - KI-DD ohne Transparenz: Underwriter koennte Deckung verweigern; Fair-Disclosure in Frage gestellt
 
 ## V61 Deal-OS Boost
@@ -178,9 +178,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

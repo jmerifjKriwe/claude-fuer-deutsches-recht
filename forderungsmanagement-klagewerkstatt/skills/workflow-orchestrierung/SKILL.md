@@ -36,7 +36,7 @@ Eine Forderungsakte durchlaeuft typischerweise sechs Stufen. Dieser Skill haelt 
 
 ## Zustellung Rueckwirkung ZPO 167
 
-Wird die Klage demnaechst zugestellt wirkt die Hemmung der Verjaehrung auf den Tag der Anhaengigkeit zurueck. In Eilfaellen Klage bei Gericht einreichen und Gerichtskostenvorschuss sofort einzahlen.
+Wird die Klage demnaechst zugestellt wirkt die Hemmung der Verjährung auf den Tag der Anhaengigkeit zurueck. In Eilfaellen Klage bei Gericht einreichen und Gerichtskostenvorschuss sofort einzahlen.
 
 ## Norm-Pinpoints
 

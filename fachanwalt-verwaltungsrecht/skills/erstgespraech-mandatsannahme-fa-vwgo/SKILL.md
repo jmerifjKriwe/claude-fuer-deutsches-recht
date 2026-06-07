@@ -41,7 +41,7 @@ description: "Erstgespraech Mandatsannahme FA Vwgo im Plugin Fachanwalt Verwaltu
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster fuer Allgemeines Verwaltungs- und Bauplanungsrecht:
+Standard-Fragenraster für Allgemeines Verwaltungs- und Bauplanungsrecht:
 
 - Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
@@ -54,15 +54,15 @@ Standard-Fragenraster fuer Allgemeines Verwaltungs- und Bauplanungsrecht:
 - Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG fuer RA-Mandate).
+- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
 
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behoerde).
+- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
 - Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Bereich Allgemeines Verwaltungs- und Bauplanungsrecht:
 
@@ -76,23 +76,23 @@ Standard-Streitwerte im Bereich Allgemeines Verwaltungs- und Bauplanungsrecht:
 Drei Weichen am Ende des Erstgespraechs:
 
 - **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzustaendig oder Konflikt.
+- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjaehrung, Ausschlussfristen, Beweisanforderungs-Fristen).
+2. **Frist-Liste** (Sofortfristen, Verjährung, Ausschlussfristen, Beweisanforderungs-Fristen).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
 4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
 5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
 
 ## Relevante Rechtsgrundlagen und Standards
 
-- BORA, BRAO, FAO fuer Fachanwaltschaft Allgemeines Verwaltungs- und Bauplanungsrecht.
+- BORA, BRAO, FAO für Fachanwaltschaft Allgemeines Verwaltungs- und Bauplanungsrecht.
 - GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
-- VwVfG, VwGO, BauGB, BauNVO, GewO, BBG/BeamtStG (fuer fachliche Erstpruefung).
-- DSGVO und BDSG fuer den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
+- VwVfG, VwGO, BauGB, BauNVO, GewO, BBG/BeamtStG (für fachliche Erstpruefung).
+- DSGVO und BDSG für den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
 
 ## Typische Fehler im Erstgespraech
 
@@ -121,7 +121,7 @@ Drei Weichen am Ende des Erstgespraechs:
 
 Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Allgemeines Verwaltungs- und Bauplanungsrecht). Handlungs-Sequenz:
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behoerdenportal).
+1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
 2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO, § 110 AO) als Reserve dokumentieren.
 3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
 4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten - aber transparent kommunizieren.
@@ -131,7 +131,7 @@ Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsf
 Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fachlichen Bewertung:
 
 1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl - Spielraum fuer Verjaehrungs- und Ausschlussfristen identifizieren.
+2. Chronologischer Verlauf als Zeitstrahl - Spielraum für Verjährungs- und Ausschlussfristen identifizieren.
 3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
 
 ### Konstellation C: Interessenkonflikt-Naehe
@@ -180,9 +180,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
 
 ## 2. `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv`
 
@@ -401,7 +401,7 @@ Eine vollständige Arbeitsakte mit sechs Fallvarianten und allen Ausgangsdokumen
 3. Welches Verwaltungsgericht ist sachlich und örtlich zuständig — § 45 VwGO sachlich, § 52 VwGO örtlich (insbesondere Belegenheitsgrundsatz bei Immobilien, Sitz der Behörde sonst)?
 4. Hat die Klage aufschiebende Wirkung (§ 80 Abs. 1 VwGO) oder ist Eilantrag § 80 Abs. 5 VwGO erforderlich?
 5. Welche Klagebegründung — formelle und materielle Rechtsfehler — und welche Beweismittel liegen vor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen und Verfahren
 
@@ -429,7 +429,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Anfechtungsklage gegen Verwaltungsakt | Klageschrift nach Pruefschema VwGO; Template unten |
 | Variante A — Widerspruchsverfahren noch offen | Widerspruchsschrift zuerst; Klage nach Widerspruchsbescheid |
-| Variante B — VA rechtswidrig aber Mandant will schnelle Loesung | Vergleich mit Behoerde anstreben; Klage als Druckmittel |
+| Variante B — VA rechtswidrig aber Mandant will schnelle Loesung | Vergleich mit Behörde anstreben; Klage als Druckmittel |
 | Variante C — VA nicht mehr vollziehbar Feststellungsinteresse pruefen | Fortsetzungsfeststellungsklage § 113 Abs. 1 S. 4 VwGO statt Anfechtung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -448,7 +448,7 @@ In dem Verwaltungsrechtsstreit
 
 gegen
 
-[Behoerde] vertreten durch [Behoerdenleiter]
+[Behörde] vertreten durch [Behördenleiter]
  — Beklagte —
 
 wegen [Sachgebiet z.B. Bauordnungsrecht Gewerberecht
@@ -467,7 +467,7 @@ und stellen folgende Antraege
 
 2. Die Beklagte traegt die Kosten des Verfahrens.
 
-3. Die Hinzuziehung des Bevollmaechtigten im Vorverfahren wird fuer
+3. Die Hinzuziehung des Bevollmaechtigten im Vorverfahren wird für
  notwendig erklaert.
 
 4. Das Urteil ist hinsichtlich der Kosten vorlaeufig vollstreckbar.
@@ -485,15 +485,15 @@ II. Zulaessigkeit
  vom [Datum].
 4. Klagefrist § 74 VwGO gewahrt — Zustellung am [Datum] Klageeingang
  am [Datum] — innerhalb Monatsfrist.
-5. Zustaendigkeit § 45 § 52 VwGO.
+5. Zuständigkeit § 45 § 52 VwGO.
 
 III. Begruendetheit
 Der Bescheid ist rechtswidrig und verletzt den Klaeger in seinen
 Rechten § 113 Abs. 1 Satz 1 VwGO.
 
 1. Formelle Rechtswidrigkeit
- a) Unzustaendige Behoerde § 3 VwVfG
- b) Anhoerung § 28 VwVfG unterblieben (Heilung scheidet aus weil
+ a) Unzuständige Behörde § 3 VwVfG
+ b) Anhörung § 28 VwVfG unterblieben (Heilung scheidet aus weil
  [Begruendung])
  c) Begruendungsmangel § 39 VwVfG
 
@@ -524,7 +524,7 @@ Anlagen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

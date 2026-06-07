@@ -13,7 +13,7 @@ description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehr
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `praezedenz-distinguishing-overruling-deutsch` | Systematisiert den methodischen Umgang mit Präzedenzfällen im deutschen Zivilrecht. Das Skill zeigt, welche faktische und normative Bindungswirkung Präjudizien haben, nach welchen Regeln distinguishing und overruling vorgenommen werden dürfen und wie dies vom case-law-System zu unterscheiden ist. Geeignet für Revisionsbegründungen, Methodenstellungnahmen und die strategische Nutzung von Präzedenzfällen. |
-| `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen fuer die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster fuer die Identifikation des massgeblichen Rechts. |
+| `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen für die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster für die Identifikation des massgeblichen Rechts. |
 | `rechtsvergleichung-methodisch-sauber` | Leitet durch die methodisch saubere Anwendung von Rechtsvergleichung als Auslegungshilfe im deutschen Zivilrecht. Das Skill zeigt, wann und wie ausländisches Recht zur Auslegung und Fortbildung inländischen Rechts herangezogen werden darf, welche methodischen Anforderungen dabei gelten und wie die Grenzen zwischen zulässiger Rechtsvergleichung und unzulässiger Transplantationsrechtsfortbildung verlaufen. |
 | `richterliche-zurueckhaltung-und-rechtsfortbildung` | Analysiert das Prinzip richterlicher Zurückhaltung als methodisches Gebot im Zivilrecht und klärt, wann Gerichte trotz offener Normfragen die Entscheidung dem Gesetzgeber überlassen sollten. Das Skill systematisiert die Abwägung zwischen aktivem Judizieren und institutioneller Selbstbeschränkung und zeigt auf, wann Rechtsfortbildung nicht nur erlaubt, sondern geboten ist und wann sie unzulässig ist. |
 | `richterrecht-offenlegen-statt-tarnen` | Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfortbildung methodisch transparent zu machen statt sie hinter Auslegungsformeln zu verbergen. Es zeigt, wann Gerichte tatsächlich neues Recht setzen, wie dies methodisch legitimiert werden muss und wie Praktiker diese Entscheidungen erkennen, einordnen und für Mandanten nutzbar machen. Besonderes Augenmerk liegt auf der Abgrenzung von Auslegung und Rechtsfortbildung sowie der demokratietheoretischen Legitimation richterlicher Rechtsschöpfung. |
@@ -117,7 +117,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `rechtspluralismus-und-mehrebenen-system`
 
-**Fokus:** Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen fuer die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster fuer die Identifikation des massgeblichen Rechts.
+**Fokus:** Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen für die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster für die Identifikation des massgeblichen Rechts.
 
 # Rechtspluralismus und Mehrebenen-System
 
@@ -172,7 +172,7 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 **Beispiel Verbraucher-IPR:** Bei B2C-Vertraegen mit Auslandsbezug greift Rom-I-VO (VO (EG) Nr. 593/2008). Art. 6 Rom-I-VO sichert dem Verbraucher die guenstigeren Schutzvorschriften seines gewoehnlichen Aufenthaltsstaates — auch wenn die Parteien anderes Recht waehlen.
 
-**Beispiel Bauvertrag mit FIDIC:** Internationaler Bauvertrag nach FIDIC-Bedingungen — private Regelwerke greifen vor dem BGB-Werkvertragsrecht (§§ 631 ff. BGB), soweit kein Verstoss gegen zwingendes Recht oder oeffentliche Ordnung.
+**Beispiel Bauvertrag mit FIDIC:** Internationaler Bauvertrag nach FIDIC-Bedingungen — private Regelwerke greifen vor dem BGB-Werkvertragsrecht (§§ 631 ff. BGB), soweit kein Verstoss gegen zwingendes Recht oder öffentliche Ordnung.
 
 **Beispiel Sport-Schiedsgerichtsbarkeit (CAS):** Sportler unterwerfen sich durch Mitgliedschaft im Verband privaten Regelwerken (z. B. FIFA-Statuten, IOC-Charter). Streitigkeiten werden vom CAS (Court of Arbitration for Sport) entschieden. Das deutsche Recht (insbesondere § 1059 ZPO) kontrolliert nur Verfahrensfragen, nicht die Anwendbarkeit der Verbandsregeln.
 
@@ -180,7 +180,7 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 **Beispiel kommunale Bauordnung:** Im Streit ueber Nachbarrecht koennen kommunale Satzungen (Bebauungsplan) ueber Landesbauordnung neben § 906 BGB stehen.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Sachverhalt vorlegen.** Welche Akteure, welche Orte, welche Rechtsbereiche?
 2. **Anwendbares Recht pruefen.** IPR-Analyse: Rom-I-VO, Rom-II-VO, HUEbk, autonome Anknuepfungen.

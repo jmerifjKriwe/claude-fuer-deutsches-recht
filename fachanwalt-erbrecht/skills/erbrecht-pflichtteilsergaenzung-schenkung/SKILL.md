@@ -136,7 +136,7 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 - Abschmelzungs-Tabelle
 - Niederstwertprinzip korrekt anwenden
 
-## 7) Verjaehrung
+## 7) Verjährung
 
 - **3 Jahre** ab Kenntnis des Erbfalls und der Schenkung
 - Hoechstens 30 Jahre ab Erbfall
@@ -188,7 +188,7 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 6. Bestehen Konflikte zwischen Erben, zwischen Erben und TV oder mit Pflichtteilsberechtigten?
 7. Hat der TV das Amt bereits angenommen oder wird Beratung vor der Annahme-Entscheidung begehrt?
 8. Liegt Pflichtverletzung des TV vor — Grundlage Entlassungsantrag § 2227 BGB?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

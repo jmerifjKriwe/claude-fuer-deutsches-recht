@@ -168,7 +168,7 @@ d) die naeheren Bedingungen folgen aus dem
 Sachliche Rechtfertigung des Bezugsrechtsausschlusses:
 - Investor I AG ist strategischer Investor mit
  Marktzugang in Sektor X.
-- Der Eintritt des Investors ist Voraussetzung fuer
+- Der Eintritt des Investors ist Voraussetzung für
  die Geschaeftsentwicklung in [Markt].
 - Die bestehenden Gesellschafter haben kein
  vergleichbares strategisches Engagement.

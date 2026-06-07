@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisc
 
 Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -34,7 +51,7 @@ Das Mietrecht des BGB 1900 (§§ 535-597 a.F.) war ein reines Schuldvertragsrech
 - **Reichsregierung 1917**: Erlass der Mieterschutzverordnung als Kriegsmassnahme
 - **SPD und Gewerkschaften (Weimar)**: Mieterschutz als sozialpolitisches Programm
 - **Bundesjustizministerium**: Mietrechtsreform 2001
-- **BGH Zivilsenat**: Praegend fuer Mietrechts-Auslegung seit 1954
+- **BGH Zivilsenat**: Praegend für Mietrechts-Auslegung seit 1954
 
 ## Typische Streitfragen / Forschungsfragen
 

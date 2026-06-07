@@ -60,7 +60,7 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 2. **Culpa lata**: grobe Fahrlaessigkeit; "dolo proxima est".
 3. **Culpa levis**: leichte Fahrlaessigkeit; in concreto vs in abstracto.
 4. **Culpa levissima**: allergeringste Sorgfaltsverletzung; nur bei custodia.
-5. **Custodia**: hoechste Sorgfalt; Haftung auch fuer Zufall, ausser vis maior.
+5. **Custodia**: hoechste Sorgfalt; Haftung auch für Zufall, ausser vis maior.
 6. **Casus**: Zufall; grundsaetzlich keine Haftung.
 7. **Vis maior**: hoehere Gewalt; auch custodia-Haftung weicht zurueck.
 
@@ -70,14 +70,14 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 - **Verkaeufer (emptio venditio)**: dolus + culpa (verschuldensabhaengig).
 - **Vermieter / Mieter (locatio conductio)**: dolus + culpa.
 - **Entleiher (commodatum)**: custodia (D. 13.6.5.4).
-- **Verkaeufer fuer hoechste Sorgfalt bei seltenen Sachen**: ggf. custodia.
+- **Verkaeufer für hoechste Sorgfalt bei seltenen Sachen**: ggf. custodia.
 
 ### Subsumtionsbeispiel: Lebensmittel zerstoert
 Sachverhalt: A schickt Lebensmittel-Lieferung; B als Spediteur verliert sie durch Diebstahl.
 - **Roemisch**: locatio conductio operis; Diebstahl ist nicht vis maior; Haftung wegen custodia bei Spediteur.
-- **BGB**: §§ 425-431 HGB Frachtfuehrer-Haftung; bei "regelmaessigem Verlauf" verschuldensunabhaengige Haftung; Begrenzung auf 8.33 SZR/kg.
+- **BGB**: §§ 425-431 HGB Frachtfuehrer-Haftung; bei "regelmäßigem Verlauf" verschuldensunabhaengige Haftung; Begrenzung auf 8.33 SZR/kg.
 
 ### Subsumtionsbeispiel: Pferd gestohlen waehrend Krieg
 Sachverhalt: B leiht Pferd; auf der Reise wird er von Feinden ueberfallen; Pferd genommen.
 - **Roemisch**: commodatum; vis maior (feindlicher Angriff); B nicht haftbar (D. 13.6.18).
-- **BGB**: § 598 BGB Leihvertrag; § 604 BGB Rueckgabepflicht; § 280 BGB iVm § 276 BGB Verschuldenshaftung. **Entleiher haftet fuer jede Fahrlaessigkeit** — bei einfacher Fahrlaessigkeit Wertersatz, bei vis maior (Feindangriff) entfaellt das Verschulden. Hinweis: § 599 BGB privilegiert den **Verleiher** (unentgeltliches Geschaeft) auf Vorsatz und grobe Fahrlaessigkeit; der Entleiher bleibt voll sorgfaltspflichtig.
+- **BGB**: § 598 BGB Leihvertrag; § 604 BGB Rueckgabepflicht; § 280 BGB iVm § 276 BGB Verschuldenshaftung. **Entleiher haftet für jede Fahrlaessigkeit** — bei einfacher Fahrlaessigkeit Wertersatz, bei vis maior (Feindangriff) entfaellt das Verschulden. Hinweis: § 599 BGB privilegiert den **Verleiher** (unentgeltliches Geschaeft) auf Vorsatz und grobe Fahrlaessigkeit; der Entleiher bleibt voll sorgfaltspflichtig.

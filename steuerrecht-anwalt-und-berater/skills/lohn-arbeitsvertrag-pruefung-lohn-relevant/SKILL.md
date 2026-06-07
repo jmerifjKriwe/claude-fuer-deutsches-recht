@@ -91,7 +91,7 @@ Bevor ein Arbeitsvertrag in die Lohnabrechnung uebernommen wird, prueft der Steu
 | Brutto-Gehalt | LSt nach Steuerklasse | SV-pflichtig bis BBG |
 | Mehrarbeit / Ueberstunden | LSt nach Tabelle; Nacht/SF § 3b EStG | SV nach BBG; § 3b auch SV-frei |
 | Sachbezug (Verpflegung, Unterkunft) | LSt; Sachbezugswerte SvEV | SV-pflichtig zu Sachbezugswert |
-| Aufmerksamkeiten 60 EUR | LSt-frei wenn persoenlicher Anlass | SV-frei |
+| Aufmerksamkeiten 60 EUR | LSt-frei wenn persönlicher Anlass | SV-frei |
 | Sachbezugsfreigrenze 50 EUR | LSt-frei wenn 50 EUR/Monat insgesamt | SV-frei wenn LSt-frei |
 | Dienstwagen 1-Prozent | LSt nach 1-Prozent-Methode oder Fahrtenbuch | SV-pflichtig zur BBG |
 | JobRad-Leasing (Gehaltsumwandlung) | LSt nach 0,25-Prozent-Methode (1 Prozent von einem Viertel des BLP); bei AG-Finanzierung "zusaetzlich zum Lohn" voll steuerfrei nach § 3 Nr. 37 EStG | SV-pflichtig (bzw. SV-frei bei § 3 Nr. 37 EStG) |
@@ -132,7 +132,7 @@ Datum: [Datum]
 
 - Pruefnotiz mit Klassifikation.
 - Empfehlung zu fehlenden Klauseln.
-- Lohn-relevante Setup-Daten fuer DATEV LODAS.
+- Lohn-relevante Setup-Daten für DATEV LODAS.
 
 ## Strategie und Praxis-Tipps
 

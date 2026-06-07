@@ -1,13 +1,13 @@
 ---
 name: software-verschluesselung-swiss-sanctions
-description: "Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exportkontrolle für Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Exportkontrolle fuer Verschluesselungssoftware: Kryptografie und Dual-Use-Kategorie 5
+# Exportkontrolle für Verschluesselungssoftware: Kryptografie und Dual-Use-Kategorie 5
 
 ## Arbeitsbereich
 
-Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrolle für Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -34,9 +34,9 @@ Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO 
 
 ## Rechtsrahmen
 
-- **VO (EU) 2021/821 Anhang I Kategorie 5 Teil 2**: EU-Dual-Use-Liste fuer Kryptografieprodukte.
-- **Art. 9 VO (EU) 2021/821**: Allgemeine Genehmigungen (EU001) fuer bestimmte Kryptografieexporte.
-- **AWG § 8**: Genehmigungsvorbehalt fuer kontrollierte Waren.
+- **VO (EU) 2021/821 Anhang I Kategorie 5 Teil 2**: EU-Dual-Use-Liste für Kryptografieprodukte.
+- **Art. 9 VO (EU) 2021/821**: Allgemeine Genehmigungen (EU001) für bestimmte Kryptografieexporte.
+- **AWG § 8**: Genehmigungsvorbehalt für kontrollierte Waren.
 - **EAR Part 742.15 (US)**: US-spezifische Kryptografie-Exportkontrolle (als Risikoanker).
 - **Art. 4 VO (EU) 2021/821**: Catch-All bei militaerischer Endverwendung von Kryptografietechnologie.
 
@@ -52,7 +52,7 @@ Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO 
 ## Typische Fallstricke
 
 - Standardmaessig eingebettete TLS-Bibliotheken fallen trotzdem unter Dual-Use-Kontrolle.
-- Open-Source-Ausnahme gilt nicht fuer modifizierte oder proprietaer eingebettete Varianten.
+- Open-Source-Ausnahme gilt nicht für modifizierte oder proprietaer eingebettete Varianten.
 - Cloud-Dienste: Technologie-Transfer durch Download von verschluesselter Software ueber Landesgrenze.
 - US-Re-Export-Kontrollen (EAR) ueberlagern EU-Genehmigung bei US-Ursprungstechnologie.
 
@@ -60,7 +60,7 @@ Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO 
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Klassifizierungsvermerk mit Normgrundlage, Genehmigungspfad-Dokumentation und Exportkontroll-Checkliste fuer Produkt-Releases.
+Klassifizierungsvermerk mit Normgrundlage, Genehmigungspfad-Dokumentation und Exportkontroll-Checkliste für Produkt-Releases.
 
 ## Quellen
 

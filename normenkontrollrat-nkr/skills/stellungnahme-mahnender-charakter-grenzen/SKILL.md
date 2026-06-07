@@ -13,7 +13,7 @@ Der NKR ist Beratungs- und Kontrollgremium. Seine Stellungnahme darf mahnen — 
 
 - Politisch sensible Stellungnahme
 - Wiederholungsfall (Ressort hat frueheren Hinweis ignoriert)
-- Vorhaben mit hohem oeffentlichem Interesse
+- Vorhaben mit hohem öffentlichem Interesse
 - Stellungnahme-Drafting in Konfliktphase
 
 Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerkung, Empfehlung, Einwand, Bedenken, Mahnung?"*
@@ -25,7 +25,7 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerku
 - **GGO** §§ 45, 62 — Anlage zur Kabinettsvorlage
 - **NKR-Jahresbericht** — Mustertexte mahnender Bemerkungen
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Was darf mahnen
 
@@ -34,7 +34,7 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerku
 - Wiederholungsfehler
 - Umgehungspraxis (Formulierungshilfe)
 - Praxis-Konsequenzen
-- Zustaendigkeitsabgrenzung
+- Zuständigkeitsabgrenzung
 
 ### Was darf nicht mahnen
 
@@ -55,7 +55,7 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerku
 | Bedenken | "Der NKR hat erhebliche Bedenken ..." | substantiell verstaerkt |
 | Nachdrueckliche Mahnung | "Der NKR weist nachdruecklich darauf hin, dass ..." | hoechste Stufe |
 | Wiederholte Mahnung | "Der NKR weist bereits zum [n-ten] Mal darauf hin, dass ..." | Jahresbericht-relevant |
-| Aufnahme im Jahresbericht | "Der NKR wird die Praxis im Jahresbericht aufgreifen." | oeffentliche Eskalation |
+| Aufnahme im Jahresbericht | "Der NKR wird die Praxis im Jahresbericht aufgreifen." | öffentliche Eskalation |
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
@@ -98,8 +98,8 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerku
 ## Typische Fehler in Stellungnahme-Entwuerfen
 
 - Politische Bewertung versteckt im methodischen Hinweis
-- Mahnungsstufe zu hoch fuer den Befund
-- Mahnungsstufe zu niedrig fuer wiederholten Fehler
+- Mahnungsstufe zu hoch für den Befund
+- Mahnungsstufe zu niedrig für wiederholten Fehler
 - Jahresberichts-Bezug ohne Belastbarkeit
 
 ## Querverweise

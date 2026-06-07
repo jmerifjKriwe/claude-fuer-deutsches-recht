@@ -27,8 +27,24 @@ Investitionslinie Szenario Rechnen wird nicht als abstraktes Schema beantwortet,
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 109 Abs. 3 GG` — Schuldenbremse und Haushaltsdisziplin.
+- `Art. 110 Abs. 1 GG` — Haushaltsplan und Haushaltsgesetz.
+- `Art. 111 Abs. 1 GG` — vorläufige Haushaltsfuehrung.
+- `Art. 112 GG` — ueber- und ausserplanmäßige Ausgaben.
+- `Art. 115 Abs. 2 GG` — Kreditaufnahme des Bundes.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `§ 9 BHO` — Beauftragte für den Haushalt.
+- `§ 23 BHO` — Zuwendungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung und Nachweis von Zuwendungen.
+- `§ 55 Abs. 1 BHO` — Vergabegrundsatz.
+- `§ 58 BHO` — Aenderung von Vertraegen.
+- `§ 70 BHO` — Zahlungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - BHO, HGrG, Haushaltsgesetz, Haushaltsplan, VV-BHO
 - Einzelplan, Kapitel, Titel, Verpflichtungsermächtigung, Deckungsfähigkeit
 - Art. 109, 110, 115 GG, Schuldenbremse, Sondervermögen

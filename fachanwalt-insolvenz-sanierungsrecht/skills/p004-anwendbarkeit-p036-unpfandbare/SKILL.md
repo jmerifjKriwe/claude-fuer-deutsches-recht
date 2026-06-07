@@ -379,12 +379,12 @@ Bevor losgelegt wird, klaere:
 
 ## Paragrafenkette Schutzschirmverfahren
 
-§ 270d InsO (Schutzschirm) → § 270 InsO (Eigenverwaltung) → § 270b InsO (Antrag vorlaeufige Eigenverwaltung) → § 21 InsO analog (Vollstreckungsschutz) → § 217 InsO (Insolvenzplan) → § 245 InsO (Obstruktionsverbot) → § 254 InsO (Planwirkung)
+§ 270d InsO (Schutzschirm) → § 270 InsO (Eigenverwaltung) → § 270b InsO (Antrag vorläufige Eigenverwaltung) → § 21 InsO analog (Vollstreckungsschutz) → § 217 InsO (Insolvenzplan) → § 245 InsO (Obstruktionsverbot) → § 254 InsO (Planwirkung)
 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## — 6-Phasen-Schritt-fuer-Schritt
+## — 6-Phasen-Schritt-für-Schritt
 
 1. **Krisen-Diagnose (Woche -4 bis -2 vor Antrag):** Liquiditaet 13 Wochen direct-method erstellen; Eröffnungsgrund §§ 17-19 InsO bestimmen; Fortbestehensprognose IDW S 11 beauftragen.
 2. **Bescheinigung (Woche -2 bis -1):** Sachverstaendigen mit Bescheinigung § 270d Abs. 1 InsO beauftragen; Sanierungskonzept auf IDW-S-6-Niveau als Grundlage vorbereiten und Red-Team-Lücken vorab schließen.
@@ -418,9 +418,9 @@ Schuldnerin: [FIRMA], [ANSCHRIFT], HRB [XX]
 
 I. Antrag
 Die Schuldnerin beantragt:
-1. Anordnung vorlaeufiger Eigenverwaltung § 270b Abs. 1 InsO.
-2. Erlass eines Schutzschirmbeschlusses § 270d Abs. 1 InsO fuer eine Frist von 3 Monaten.
-3. Bestellung von [VORGESCHLAGENER SACHWALTER, NAME, KANZLEI] zum vorlaeufigen Sachwalter.
+1. Anordnung vorläufiger Eigenverwaltung § 270b Abs. 1 InsO.
+2. Erlass eines Schutzschirmbeschlusses § 270d Abs. 1 InsO für eine Frist von 3 Monaten.
+3. Bestellung von [VORGESCHLAGENER SACHWALTER, NAME, KANZLEI] zum vorläufigen Sachwalter.
 
 II. Sachverhalt
 [Darstellung Krisenlage, Zeitablauf, Sanierungskonzept-Kurzform]
@@ -456,20 +456,20 @@ A4: Vermoegensverzeichnis (vorlaeufig)
 - **Normen-/Quellenanker:** StaRUG.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -486,10 +486,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

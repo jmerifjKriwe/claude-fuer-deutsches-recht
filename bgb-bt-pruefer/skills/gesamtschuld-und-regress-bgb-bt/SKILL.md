@@ -74,7 +74,7 @@ Gesamtschuldnerschaft nach §§ 421 ff. BGB prüfen: Entstehungsvoraussetzungen,
 
 - buergschaft-grundschema-paragraph-765
 - schadensrecht-paragraphen-249-253
-- deliktsrecht-haftung-fuer-verrichtungen-paragraph-831
+- deliktsrecht-haftung-für-verrichtungen-paragraph-831
 - workflow-anspruchslandkarte
 
 ## Qualitäts-Hardening

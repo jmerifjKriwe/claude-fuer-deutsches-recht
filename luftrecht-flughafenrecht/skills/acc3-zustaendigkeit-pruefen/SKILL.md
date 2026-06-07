@@ -1,13 +1,13 @@
 ---
 name: acc3-zustaendigkeit-pruefen
-description: "ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU bringt muss Designierung und Validierung nachweisen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 und EU-Validierungs-Verfahren und liefert Zustaendigkeits-Vermerk fuer ACC3-Designierungsverfahren im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU bringt muss Designierung und Validierung nachweisen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 und EU-Validierungs-Verfahren und liefert Zuständigkeits-Vermerk für ACC3-Designierungsverfahren im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ACC3 – Zuständigkeit prüfen
 
 ## Arbeitsbereich
 
-ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU bringt muss Designierung und Validierung nachweisen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 und EU-Validierungs-Verfahren und liefert Zustaendigkeits-Vermerk fuer ACC3-Designierungsverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU bringt muss Designierung und Validierung nachweisen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 und EU-Validierungs-Verfahren und liefert Zuständigkeits-Vermerk für ACC3-Designierungsverfahren. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

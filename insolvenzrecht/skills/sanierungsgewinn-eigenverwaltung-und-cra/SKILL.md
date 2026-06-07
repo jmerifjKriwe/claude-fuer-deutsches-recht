@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-eigenverwaltung-und-cra
-description: "Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung fuer Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter. Mustertexte fuer interne Steuerung der Eigenverwaltung im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung für Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter. Mustertexte für interne Steuerung der Eigenverwaltung im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Eigenverwaltung und CRO
 
 ## Arbeitsbereich
 
-Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung fuer Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter. Mustertexte fuer interne Steuerung der Eigenverwaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung für Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter. Mustertexte für interne Steuerung der Eigenverwaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,9 +27,9 @@ Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewi
 
 ## Worum geht es
 
-Bei der Eigenverwaltung (Paragraph 270 ff. InsO) bleibt die Geschaeftsleitung der Schuldnerin im Amt; ein Sachwalter ueberwacht. Die Verantwortung fuer den Steuerteil bleibt also bei der Schuldnergesellschaft selbst — sie muss die Modellrechnung Paragraph 3a Absatz 3 EStG aufstellen, die vier Voraussetzungen dokumentieren und die Antraege stellen. Der Sachwalter ist nicht "Steuerberater der Masse", sondern Aufsicht.
+Bei der Eigenverwaltung (Paragraph 270 ff. InsO) bleibt die Geschaeftsleitung der Schuldnerin im Amt; ein Sachwalter ueberwacht. Die Verantwortung für den Steuerteil bleibt also bei der Schuldnergesellschaft selbst — sie muss die Modellrechnung Paragraph 3a Absatz 3 EStG aufstellen, die vier Voraussetzungen dokumentieren und die Antraege stellen. Der Sachwalter ist nicht "Steuerberater der Masse", sondern Aufsicht.
 
-In groesseren Verfahren wird oft ein CRO (Chief Restructuring Officer) bestellt. Der CRO ist faktisch die operative Spitze fuer die Sanierung und entscheidet ueber den Steuerteil mit. Sein Haftungsstatus haengt von der vertraglichen Konstruktion ab — meist Vorstand/Geschaeftsfuehrer, manchmal nur Berater.
+In groesseren Verfahren wird oft ein CRO (Chief Restructuring Officer) bestellt. Der CRO ist faktisch die operative Spitze für die Sanierung und entscheidet ueber den Steuerteil mit. Sein Haftungsstatus haengt von der vertraglichen Konstruktion ab — meist Vorstand/Geschaeftsfuehrer, manchmal nur Berater.
 
 Dieser Skill ordnet die Rollen und gibt Praxistipps. Adressat: Geschaeftsfuehrer in Eigenverwaltung, CRO, Sachwalter, StB.
 
@@ -41,7 +41,7 @@ Dieser Skill ordnet die Rollen und gibt Praxistipps. Adressat: Geschaeftsfuehrer
 
 Kaltstart-Fragen:
 
-1. Status: vorlaeufige Eigenverwaltung (Paragraph 270c InsO), Eigenverwaltung im eroeffneten Verfahren, Schutzschirm (Paragraph 270d InsO)?
+1. Status: vorläufige Eigenverwaltung (Paragraph 270c InsO), Eigenverwaltung im eroeffneten Verfahren, Schutzschirm (Paragraph 270d InsO)?
 2. CRO bestellt? Als Vorstand/GF oder nur als Berater?
 3. Sachwalter benannt?
 4. StB des Schuldners eingebunden?
@@ -51,13 +51,13 @@ Kaltstart-Fragen:
 
 - Paragraphen 270 ff. InsO — Eigenverwaltung.
 - Paragraph 270b InsO — Antrag.
-- Paragraph 270c InsO — vorlaeufige Eigenverwaltung.
+- Paragraph 270c InsO — vorläufige Eigenverwaltung.
 - Paragraph 270d InsO — Schutzschirm.
 - Paragraphen 274 ff. InsO — Sachwalter.
 - Paragraphen 277, 280 InsO — Aufsicht und Haftung Sachwalter.
 - Paragraph 35 GmbHG, Paragraph 76 AktG — Geschaeftsleitung.
 - Paragraph 3a EStG — Sanierungsertrag.
-- Paragraph 69 AO — Haftung Vertreter fuer Steuern.
+- Paragraph 69 AO — Haftung Vertreter für Steuern.
 
 ## Rollenverteilung im Eigenverwaltungsverfahren
 
@@ -70,7 +70,7 @@ Kaltstart-Fragen:
 | StB Schuldner | klassisches Mandat zur Steuererklaerung und Beratung | Paragraph 280 BGB Beratungshaftung; ggf. Paragraph 69 AO |
 | Glaeubigerausschuss | Aufsicht und Mitsprache bei Plan | Paragraph 71 InsO |
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Rolle und Verantwortlichkeit klaeren.** Wer entscheidet, wer berichtet, wer haftet?
 2. **CRO-Vertrag pruefen.** Insbesondere: Vertretungsmacht, Haftungs-Cap, Versicherungsdeckung.
@@ -141,7 +141,7 @@ Der CRO wird zum Geschaeftsfuehrer der Schuldnerin bestellt. Er
 uebernimmt die Geschaeftsfuehrungsaufgaben gemaess GmbHG / AktG.
 
 § Y Sanierungsverantwortung
-Der CRO ist insbesondere fuer die Vorbereitung und Durchfuehrung der
+Der CRO ist insbesondere für die Vorbereitung und Durchfuehrung der
 Sanierungs-Massnahmen verantwortlich, einschliesslich der steuerlichen
 Vorbereitung des Sanierungsertrags und der Antragsmechanik nach
 Paragraph 3a EStG und Paragraph 7b GewStG.
@@ -153,7 +153,7 @@ einbezogen; Versicherungsumfang und -summe siehe Police vom [Datum].
 
 ## Typische Fehler
 
-1. Annahme, Sachwalter sei fuer Steuerteil zustaendig — falsch, er ist nur Aufsicht.
+1. Annahme, Sachwalter sei für Steuerteil zuständig — falsch, er ist nur Aufsicht.
 2. CRO nur als Berater bestellt, aber als Geschaeftsfuehrer behandelt — Vertretungsmacht fehlt.
 3. StB des Schuldners nicht in die Sanierungs-Diskussion einbezogen.
 4. Glaeubigerausschuss nicht zum Steuerteil angehoert.
@@ -166,7 +166,7 @@ Im Plugin `insolvenzrecht`:
 
 - `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
 - `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Antragsmechanik.
-- `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` — Haftungs-Vertiefung (sinngemaess auf GF/CRO).
+- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftungs-Vertiefung (sinngemaess auf GF/CRO).
 - `do-versicherung-manager-haftung` — D-und-O-Versicherung.
 - `glaeubigerausschuss-mitwirkung` — Ausschuss-Beschluss.
 

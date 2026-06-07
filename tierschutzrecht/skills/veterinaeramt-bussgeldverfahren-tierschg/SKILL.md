@@ -3,7 +3,7 @@ name: veterinaeramt-bussgeldverfahren-tierschg
 description: "Tierschutzrecht: Veterinäramt-Zuständigkeit. Veterinäramt-Zuständigkeit im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Veterinaeramt Zustaendigkeit
+# Veterinaeramt Zuständigkeit
 
 ## Arbeitsbereich
 
@@ -19,7 +19,7 @@ Tierschutzrecht: Veterinäramt-Zuständigkeit. Veterinäramt-Zuständigkeit im F
 
 ## Arbeitsauftrag
 
-Veterinaeramt Zustaendigkeit wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Tierschutzrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Veterinaeramt Zuständigkeit wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Tierschutzrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 
@@ -28,8 +28,22 @@ Veterinaeramt Zustaendigkeit wird nicht als abstraktes Schema beantwortet, sonde
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 TierSchG` — Schutzzweck und Mitgeschoepflichkeit.
+- `§ 2 TierSchG` — Haltung, Pflege, verhaltensgerechte Unterbringung.
+- `§ 3 TierSchG` — Verbote.
+- `§ 4 TierSchG` — Toeten von Tieren.
+- `§ 6 TierSchG` — Amputation/Gewebeentnahme.
+- `§ 11 TierSchG` — erlaubnispflichtige Taetigkeiten.
+- `§ 16 TierSchG` — Behördenaufsicht.
+- `§ 17 TierSchG` — Straftaten.
+- `§ 18 TierSchG` — Ordnungswidrigkeiten.
+- `§ 90a BGB` — Tiere sind keine Sachen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - TierSchG, Tierschutz-Nutztierhaltungsverordnung, EU-Tiertransport
 - § 90a BGB, Sachenrecht nur entsprechend und mit Schutzlogik
 - Veterinärbehörden, Anordnung, Fortnahme, Haltungserlaubnis

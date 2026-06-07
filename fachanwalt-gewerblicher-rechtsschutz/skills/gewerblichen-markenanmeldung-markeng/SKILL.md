@@ -244,7 +244,7 @@ Dieser Skill behandelt die Compliance-Anforderungen und Aktenführung bei Marken
 ## Anschluss-Skills
 - `gr-portfolio-pflege-workflow` – Portfolioübersicht und Verlängerungen.
 - `spezial-dpma-mehrparteien-konflikt-und-interessen` – Widerspruchsverfahren.
-- `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` – Fristen und Formalien.
+- `spezial-rechtsschutz-fristen-form-und-zuständigkeit` – Fristen und Formalien.
 
 ## Quellenregel
 - MarkenG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/markeng/); UMV: [eur-lex.europa.eu](https://eur-lex.europa.eu).

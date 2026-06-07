@@ -44,7 +44,7 @@ Prüfe, ob das Gebrauchsmuster als schneller Durchsetzungsanker taugt.
 - Auch waehrend laufender Patentpruefung als paralleles Schutzrecht moeglich (Doppelschutz § 25 PatG).
 
 ### Voraussetzungen
-1. Existierende Patentanmeldung beim DPMA oder als europaeische Patentanmeldung benannt fuer DE.
+1. Existierende Patentanmeldung beim DPMA oder als europaeische Patentanmeldung benannt für DE.
 2. Erklaerung der Abzweigung beim DPMA.
 3. Inhaltliche Identitaet oder Teilmenge der Patentanmeldung.
 

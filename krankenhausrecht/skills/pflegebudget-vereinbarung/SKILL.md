@@ -40,7 +40,7 @@ Das Pflegebudget ist seit 2020 aus den DRG ausgegliedert (frueher § 6a KHEntgG,
 - **InEK-Datenlieferung** Pflegepersonalkostennachweis.
 - **KHG § 18a** Schiedsstelle bei Dissens.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Pflegepersonalkostennachweis (PpUKN) erstellen:** Beruecksichtigte Berufsgruppen, Tarifgruppen, Kosten je Vollkraft.
 2. **Bereinigung:** Was zaehlt zum Pflegebudget (bettenbezogene Pflege), was nicht (OP-Pflege, Intensivpflege je nach Vorgabe).
 3. **Pflegeentgeltwert berechnen:** Pflegebudget / Pflegetage (DRG-Pflegetage als Verteilungsbasis).

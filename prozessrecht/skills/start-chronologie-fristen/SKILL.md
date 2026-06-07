@@ -151,13 +151,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Prozessrecht-Plugin unterstuetzt Anwaltskanzleien bei zivilprozessualen Mandaten nach der Zivilprozessordnung (ZPO): von der Mandatsaufnahme ueber Mahnschreiben, Mahnbescheid und Klageschrift bis zu Beweissicherung, einstweiliger Verfuegung, Vollstreckung und Rechtsmitteln. Zusaetzlich sind grundlegende Strafverteidigungsschritte fuer den Ersttermin sowie verkehrsunfallrechtliche Grundlagen abgedeckt.
+Das Prozessrecht-Plugin unterstuetzt Anwaltskanzleien bei zivilprozessualen Mandaten nach der Zivilprozessordnung (ZPO): von der Mandatsaufnahme ueber Mahnschreiben, Mahnbescheid und Klageschrift bis zu Beweissicherung, einstweiliger Verfuegung, Vollstreckung und Rechtsmitteln. Zusaetzlich sind grundlegende Strafverteidigungsschritte für den Ersttermin sowie verkehrsunfallrechtliche Grundlagen abgedeckt.
 
 Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, sowie an Anwaelte, die ein strukturiertes Mandats-Tracking und Fristverwaltung benoetigen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein neues Prozessmandat ist aufzunehmen: Sachverhalt klaeren, Zustaendigkeit pruefen und Kosten-Risiko-Analyse vornehmen.
+- Ein neues Prozessmandat ist aufzunehmen: Sachverhalt klaeren, Zuständigkeit pruefen und Kosten-Risiko-Analyse vornehmen.
 - Eine Geldforderung soll schnell per Mahnbescheid geltend gemacht oder ein erhaltenes Mahnschreiben beantwortet werden.
 - Eine einstweilige Verfuegung zur Sicherung zivilrechtlicher Ansprueche ist zu beantragen.
 - Ein Urteil liegt vor und es soll vollstreckt werden (Pfaendung, Sachpfaendung, Forderungspfaendung).
@@ -165,11 +165,11 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Streitwert** — der Geldwert des Streitgegenstands; bestimmt Gerichts- und Anwaltsgebuehren sowie die sachliche Zustaendigkeit.
+- **Streitwert** — der Geldwert des Streitgegenstands; bestimmt Gerichts- und Anwaltsgebuehren sowie die sachliche Zuständigkeit.
 - **Mahnbescheid** — gerichtliche Zahlungsaufforderung im schriftlichen Mahnverfahren (§§ 688 ff. ZPO); bei Widerspruch Uebergang zum streitigen Verfahren.
-- **Einstweilige Verfuegung** — vorlaeufige gerichtliche Massnahme zur Sicherung eines Anspruchs (§§ 935 ff. ZPO); Verfuegungsanspruch und Verfuegungsgrund erforderlich.
+- **Einstweilige Verfuegung** — vorläufige gerichtliche Massnahme zur Sicherung eines Anspruchs (§§ 935 ff. ZPO); Verfuegungsanspruch und Verfuegungsgrund erforderlich.
 - **Beweissicherung** — selbstaendiges Beweisverfahren nach §§ 485 ff. ZPO; sichert Gutachten oder Tatsachen vor Klageerhebung.
-- **Vollstreckbarer Titel** — Grundlage fuer Zwangsvollstreckung (§ 704 ZPO); benoetigt Vollstreckungsklausel und Zustellungsnachweis.
+- **Vollstreckbarer Titel** — Grundlage für Zwangsvollstreckung (§ 704 ZPO); benoetigt Vollstreckungsklausel und Zustellungsnachweis.
 - **Vorlageanordnung** — gerichtliche Anordnung zur Vorlage von Urkunden durch Gegner oder Dritte (§ 142 ZPO).
 
 ## Rechtsgrundlagen
@@ -184,7 +184,7 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - § 78 ZPO — Anwaltszwang (ab Landgericht)
 - §§ 137 ff. StPO — Strafverteidigung und Akteneinsicht
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Klaeger oder Beklagter? Zivilsache oder Strafsache? Eilbedarf?
 2. Phase des Mandats bestimmen: Vorprozessual (Mahnschreiben, Mahnbescheid), Klagephase, Beweissicherung oder Vollstreckung?
@@ -194,16 +194,16 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 
 ## Skill-Tour (was gibt es hier?)
 
-- `mandat-aufnahme` — Prozessmandat aufnehmen: Sachverhalt, Zustaendigkeit, Klagekonzept skizzieren.
+- `mandat-aufnahme` — Prozessmandat aufnehmen: Sachverhalt, Zuständigkeit, Klagekonzept skizzieren.
 - `prozessrecht-kaltstart-interview` — Erstinterview strukturiert durchfuehren: Sachverhalt, Klagebegehren, Fristen, Kostenrisiko.
 - `prozessrecht-mandat-arbeitsbereich` — Digitaler Arbeitsbereich: Dokumentenablage, Aufgabenverteilung, Fristentracking.
-- `prozessrecht-anpassen` — Strategie anpassen: Klageaenderung, Widerklage, Ruecknahme (§§ 263 ff. ZPO).
+- `prozessrecht-anpassen` — Strategie anpassen: Klageaenderung, Widerklage, Rücknahme (§§ 263 ff. ZPO).
 - `mandat-aktualisierung` — Laufendes Mandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen.
 - `portfolio-status` — Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahrensstand, naechste Schritte.
-- `mandat-briefing` — Mandantenbriefing fuer Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen.
+- `mandat-briefing` — Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen.
 - `mandat-schliessen` — Mandat formal schliessen: Kostenfestsetzung, Archivierung, Mandanteninformation.
 - `anspruchstabelle` — Anspruchstabelle erstellen: alle Ansprueche und Gegenansprueche tabellarisch.
-- `streitwert` — Streitwert berechnen: Hauptforderung, Nebenforderungen, Kosten und Gebuehrentabelle.
+- `streitwert` — Streitwert berechnen: Hauptforderung, Nebenforderungen, Kosten und Gebührentabelle.
 - `chronologie` — Sachverhaltschronologie aufbauen: Zeitlinie mit Belegen und Normbezug.
 - `gegenseite-status` — Prozessualen Status der Gegenseite erfassen: Vollmacht, Zustelladresse, Insolvenz.
 - `mahnschreiben-entwurf` — Vorgerichtliches Mahnschreiben erstellen: Fristsetzung, Verzugsbeginn, Klageandrohung.
@@ -215,7 +215,7 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - `vorlageanordnung` — Urkundenvorlageanordnung nach § 142 ZPO beantragen.
 - `schriftsatz-abschnitt` — Einzelne Abschnitte eines Schriftsatzes erstellen (Tatbestand, Begruendung, Beweisangebot).
 - `vollstreckung` — Zwangsvollstreckung einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung (§§ 704 ff. ZPO).
-- `zeuge-vorbereitung` — Zeugen fuer Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsthemen.
+- `zeuge-vorbereitung` — Zeugen für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsthemen.
 - `anwaltsgeheimnis-pruefung` — Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen pruefen.
 - `verkehrsunfall` — Verkehrsunfall-Mandat vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz.
 - `strafverteidigung-ersttermin` — Ersttermin in der Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, Optionen.
@@ -232,7 +232,7 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 
 - Klageschrift ohne bestimmten Antrag eingereicht: § 253 Abs. 2 Nr. 2 ZPO verlangt einen konkreten Antrag; ohne ihn ist die Klage unzulaessig.
 - Beweismittel nicht benannt: § 138 ZPO verlangt, dass Beweismittel zumindest bezeichnet werden; spaeteres Nachschieben kann Verspaeterngsfolgen ausloesen.
-- Streitwert zu niedrig angesetzt: Unterschaetzung fuehrt zu zu niedrigen Gebuehren und verzoegert Verfahren, wenn nachtraeglich korrigiert wird.
+- Streitwert zu niedrig angesetzt: Unterschaetzung fuehrt zu zu niedrigen Gebühren und verzoegert Verfahren, wenn nachtraeglich korrigiert wird.
 - Kein Widerspruch auf Mahnbescheid eingelegt: Rechtskraftfalle — der Vollstreckungsbescheid ist vollstreckbarer Titel.
 - Vollstreckung ohne Klausel und Zustellungsnachweis begonnen: Vollstreckungsorgane werden Auftrag zurueckweisen; § 750 ZPO ist Grundvoraussetzung.
 

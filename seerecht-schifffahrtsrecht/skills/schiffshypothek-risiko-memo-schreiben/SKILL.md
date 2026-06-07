@@ -1,13 +1,13 @@
 ---
 name: schiffshypothek-risiko-memo-schreiben
-description: "Schiffshypothek: Gesamtrisikobewertung fuer Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffshypothek: Gesamtrisikobewertung für Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffshypothek – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Schiffshypothek: Gesamtrisikobewertung fuer Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffshypothek: Gesamtrisikobewertung für Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,20 +26,20 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Schiffshy
 3. Hauptrisiken identifizieren: Wertverfall; Reeder-Insolvenz; Vorrangglaeubigerrechte; Wrackpflicht.
 4. Handlungsoptionen mit Kosten-Nutzen-Analyse formulieren.
 5. Zeitkritische Massnahmen priorisieren: Arrest; Versicherungspruefung; ISM-Status.
-6. Empfehlungsmatrix fuer Entscheidungstraeger erstellen.
+6. Empfehlungsmatrix für Entscheidungstraeger erstellen.
 
 ## Rechtsrahmen
 - SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte; InsO §§ 49-51 Absonderung; WSG §§ 1-12 Wrackpflicht; ZPO §§ 864-871 Zwangsversteigerung.
 
 ## Prüfraster
-- Ist aktueller Schiffswert fuer hypothekenbelastetes Seeschiff dokumentiert?
+- Ist aktueller Schiffswert für hypothekenbelastetes Seeschiff dokumentiert?
 - Sind alle Vorrangglaeubigerrechte (gesetzliche Schiffsglaeubigerrechte) bekannt?
 - Ist Wrackbeseitigungs-Versicherungsdeckung bestaetigt?
 - Ist Insolvenzwahrscheinlichkeit des Reeders bewertet?
 - Sind Handlungsoptionen mit Zeitplan und Kosten aufgelistet?
 
 ## Typische Fallstricke
-- Schiffswertgutachten fuer hypothekenbelastetes Seeschiff veraltet; Marktpreise schwanken stark.
+- Schiffswertgutachten für hypothekenbelastetes Seeschiff veraltet; Marktpreise schwanken stark.
 - Memo ohne Priorisierung zeitkritischer Massnahmen fuehrt zu Untaetigkeit.
 - Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
 

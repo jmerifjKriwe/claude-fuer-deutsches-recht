@@ -1,13 +1,13 @@
 ---
 name: entfernung-aus-dem-beamtenverhaeltnis-unterhalt
-description: "Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen fuer Krankenversicherung Beihilfe und Rentenversicherung. Behandelt die Konstellation Nachversicherung in der gesetzlichen Rentenversicherung sowie das Verhaeltnis zur Ruhestandsversetzung. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Krankenversicherung Beihilfe und Rentenversicherung. Behandelt die Konstellation Nachversicherung in der gesetzlichen Rentenversicherung sowie das Verhaeltnis zur Ruhestandsversetzung. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Entfernung aus dem Beamtenverhaeltnis und Unterhaltsbeitrag
 
 ## Arbeitsbereich
 
-Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen fuer Krankenversicherung Beihilfe und Rentenversicherung. Behandelt die Konstellation Nachversicherung in der gesetzlichen Rentenversicherung sowie das Verhaeltnis zur Ruhestandsversetzung. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Krankenversicherung Beihilfe und Rentenversicherung. Behandelt die Konstellation Nachversicherung in der gesetzlichen Rentenversicherung sowie das Verhaeltnis zur Ruhestandsversetzung. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassn
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, denen die Entfernung aus dem Beamtenverhaeltnis droht oder verfuegt ist. Hilft bei der Pruefung der Unterhaltsbeitragsfrage und der Anschlussversorgung.
+Skill für Beamte, denen die Entfernung aus dem Beamtenverhaeltnis droht oder verfuegt ist. Hilft bei der Pruefung der Unterhaltsbeitragsfrage und der Anschlussversorgung.
 
 ## 2. Eingaben
 
@@ -35,7 +35,7 @@ Skill fuer Beamte, denen die Entfernung aus dem Beamtenverhaeltnis droht oder ve
 - Nachversicherung in der gesetzlichen Rentenversicherung (§ 8 SGB VI).
 
 ### b) Unterhaltsbeitrag
-- § 10 Abs. 3 BDG: auf Antrag Unterhaltsbeitrag fuer eine bestimmte Zeit (in der Regel bis zu sechs Monate), wenn der ehemalige Beamte unverschuldet bedürftig ist.
+- § 10 Abs. 3 BDG: auf Antrag Unterhaltsbeitrag für eine bestimmte Zeit (in der Regel bis zu sechs Monate), wenn der ehemalige Beamte unverschuldet bedürftig ist.
 - Bemessung in Anlehnung an die zuletzt bezogenen Dienstbezuege.
 
 ### c) Krankenversicherung

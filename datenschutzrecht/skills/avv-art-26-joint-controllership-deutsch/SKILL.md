@@ -1,13 +1,13 @@
 ---
 name: avv-art-26-joint-controllership-deutsch
-description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache. Behandelt Aufgabenverteilung Anlaufstelle fuer Betroffene Transparenz Innenregress und EuGH-Rechtsprechung zu Fanpages Like-Button und Zeugen Jehovas. Output: deutscher Klauselsatz fuer Joint-Controller-Vereinbarung."
+description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache. Behandelt Aufgabenverteilung Anlaufstelle für Betroffene Transparenz Innenregress und EuGH-Rechtsprechung zu Fanpages Like-Button und Zeugen Jehovas. Output: deutscher Klauselsatz für Joint-Controller-Vereinbarung."
 ---
 
 # Joint-Controller-Vereinbarung Art. 26 DSGVO – deutsche Vertragsfassung
 
 ## Zweck / Purpose
 
-Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache, mit Aufgabenverteilung, Anlaufstelle fuer Betroffene und Innenregress. Purpose (EN): Joint controller agreement template under Article 26 GDPR in German.
+Klauselgeruest für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache, mit Aufgabenverteilung, Anlaufstelle für Betroffene und Innenregress. Purpose (EN): Joint controller agreement template under Article 26 GDPR in German.
 
 ## Wann dieses Modul hilft
 
@@ -42,7 +42,7 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
  - Verarbeitungsverzeichnis Art. 30 DSGVO – wer fuehrt?
 
 3. **Anlaufstelle festlegen.**
- - Eine zentrale Anlaufstelle fuer Betroffene oder mehrere?
+ - Eine zentrale Anlaufstelle für Betroffene oder mehrere?
  - Empfehlung: zentrale Anlaufstelle, um Art. 26 Abs. 3 DSGVO praktisch handhabbar zu machen.
 
 4. **Transparenz nach Art. 26 Abs. 2 DSGVO.**
@@ -70,12 +70,12 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 > Die gemeinsame Verarbeitung umfasst die in Anlage 1 beschriebenen Verarbeitungstaetigkeiten, Datenarten, Kategorien Betroffener und Empfaengergruppen.
 >
 > § 2 Rollenverteilung
-> (1) Partei A ist verantwortlich fuer
+> (1) Partei A ist verantwortlich für
 > a) die Bereitstellung der Verarbeitungsinfrastruktur;
 > b) die Erfuellung der Informationspflichten gemaess Art. 13 und 14 DSGVO gegenueber den ueber Partei A erreichten Betroffenen;
 > c) die Bearbeitung von Betroffenenanfragen nach Art. 15 bis 22 DSGVO, die ueber Partei A eingehen;
 > d) die Erfuellung der Meldepflichten gemaess Art. 33 und 34 DSGVO im Hinblick auf Verarbeitungsteile, die Partei A allein steuert.
-> (2) Partei B ist verantwortlich fuer
+> (2) Partei B ist verantwortlich für
 > a) die Erhebung und Erstuebermittlung der Daten an Partei A;
 > b) die Erfuellung der Informationspflichten gemaess Art. 13 und 14 DSGVO gegenueber den ueber Partei B erreichten Betroffenen;
 > c) die Bearbeitung von Betroffenenanfragen nach Art. 15 bis 22 DSGVO, die ueber Partei B eingehen;
@@ -85,17 +85,17 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 > b) die Festlegung der Loeschfristen;
 > c) die Festlegung der technischen und organisatorischen Massnahmen gemaess Art. 32 DSGVO.
 >
-> § 3 Anlaufstelle fuer Betroffene
-> Anlaufstelle fuer Anfragen Betroffener ist Partei A. Partei A leitet Anfragen, die in den Verantwortungsbereich von Partei B fallen, unverzueglich an Partei B weiter. Art. 26 Abs. 3 DSGVO bleibt unberuehrt: Betroffene koennen ihre Rechte gegenueber jeder Partei geltend machen.
+> § 3 Anlaufstelle für Betroffene
+> Anlaufstelle für Anfragen Betroffener ist Partei A. Partei A leitet Anfragen, die in den Verantwortungsbereich von Partei B fallen, unverzueglich an Partei B weiter. Art. 26 Abs. 3 DSGVO bleibt unberuehrt: Betroffene koennen ihre Rechte gegenueber jeder Partei geltend machen.
 >
 > § 4 Transparenz gegenueber Betroffenen (Art. 26 Abs. 2 DSGVO)
 > Die Parteien stellen den Betroffenen die wesentlichen Aspekte dieser Vereinbarung in ihrer jeweiligen Datenschutzerklaerung zur Verfuegung. Anlage 2 enthaelt eine zur Veroeffentlichung geeignete Kurzfassung.
 >
 > § 5 Sicherheit und Meldepflichten
-> Die Parteien stimmen sich bei einer Datenpanne unverzueglich, spaetestens innerhalb von vierundzwanzig (24) Stunden ab Kenntnis, ueber Meldepflichten gegenueber der Aufsichtsbehoerde und gegenueber Betroffenen ab. Die Federfuehrung fuer die Meldung an die Aufsichtsbehoerde liegt bei der Partei, in deren Verantwortungsbereich der Vorfall faellt; bei gemeinsamem Bereich uebernimmt Partei A die Federfuehrung.
+> Die Parteien stimmen sich bei einer Datenpanne unverzueglich, spaetestens innerhalb von vierundzwanzig (24) Stunden ab Kenntnis, ueber Meldepflichten gegenueber der Aufsichtsbehoerde und gegenueber Betroffenen ab. Die Federfuehrung für die Meldung an die Aufsichtsbehoerde liegt bei der Partei, in deren Verantwortungsbereich der Vorfall faellt; bei gemeinsamem Bereich uebernimmt Partei A die Federfuehrung.
 >
 > § 6 Haftung und Innenregress
-> Die Parteien haften gegenueber Betroffenen gesamtschuldnerisch nach Art. 82 Abs. 4 DSGVO. Im Innenverhaeltnis tragen die Parteien den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils gemaess Art. 82 Abs. 5 DSGVO. Die Haftung im Innenverhaeltnis ist auf [BETRAG] EUR pro Schadensfall begrenzt; die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
+> Die Parteien haften gegenueber Betroffenen gesamtschuldnerisch nach Art. 82 Abs. 4 DSGVO. Im Innenverhaeltnis tragen die Parteien den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils gemaess Art. 82 Abs. 5 DSGVO. Die Haftung im Innenverhaeltnis ist auf [BETRAG] EUR pro Schadensfall begrenzt; die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
 >
 > § 7 Aufsichtsbehoerden
 > Die Parteien unterstuetzen einander bei Anfragen und Kontrollen durch die Aufsichtsbehoerden.

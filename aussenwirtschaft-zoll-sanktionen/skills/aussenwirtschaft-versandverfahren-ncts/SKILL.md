@@ -19,7 +19,7 @@ Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit Syste
 
 ## Mandantenfall
 
-- Spediteur benoetigt T1-Anmeldung fuer Nicht-Unionsware durch Deutschland nach Polen.
+- Spediteur benoetigt T1-Anmeldung für Nicht-Unionsware durch Deutschland nach Polen.
 - AEO-Inhaber moechte Erleichterungen beim Versandverfahren (vereinfachte Verfahren zulassige Abgangsstelle) nutzen.
 - Transitpapier nicht bei Bestimmungsstelle vorgelegt; Zollschuldentstehung und Nacherhebung.
 
@@ -35,7 +35,7 @@ Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit Syste
 ## Rechtsrahmen
 
 - **UZK Art. 226-236**: Unionsversandverfahren T1 und T2.
-- **UZK-DA Art. 275-285**: Vereinfachungen fuer zugelassene Versender/Empfaenger.
+- **UZK-DA Art. 275-285**: Vereinfachungen für zugelassene Versender/Empfaenger.
 - **UZK Art. 89-100**: Sicherheitsleistung im Versandverfahren.
 - **UZK Art. 79**: Zollschuldentstehung bei nicht ordnungsgemaesser Erledigung.
 - **AEO-Leitlinien (TAXUD/B2/047/2011)**: AEO-Erleichterungen im Versandverfahren.
@@ -60,7 +60,7 @@ Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit Syste
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

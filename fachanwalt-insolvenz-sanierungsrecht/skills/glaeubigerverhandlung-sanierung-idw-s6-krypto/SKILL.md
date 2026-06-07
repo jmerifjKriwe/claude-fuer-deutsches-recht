@@ -408,7 +408,7 @@ Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprec
 6. Gibt es steuerliche Hintergründe: Spekulationsgewinne/verluste, Jahresfrist § 23 EStG, BMF-Schreiben 22.11.2024?
 7. Wurden Krypto-Transfers in der Krise vorgenommen, die der Anfechtung (§§ 130 ff. InsO) unterliegen könnten?
 8. Soll eine forensische Blockchain-Analyse (Chainalysis, Elliptic) für die Wallet-Rekonstruktion eingesetzt werden?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -626,7 +626,7 @@ Bevor losgelegt wird, klaere:
 2. **Volumina bekannt?** Forensische Blockchain-Analyse (Chainalysis/Elliptic) benoetigt?
 3. **Anfechtungsrisiko?** Krypto-Transfers in den letzten 4 Jahren vor Antrag → § 133 InsO.
 4. **Steuerliche Lage?** BMF-Schreiben 22.11.2024: Jahresfrist § 23 EStG — Haltezeit pruefen; bei Verkauf vor Jahresfrist Steuerpflicht als Masseverbindlichkeit § 55 InsO.
-5. **Verjährung § 146 InsO?** Anfechtungsfristen fuer Krypto-Transfers laufen ab → sofort Inventur.
+5. **Verjährung § 146 InsO?** Anfechtungsfristen für Krypto-Transfers laufen ab → sofort Inventur.
 
 ## Quellenregel
 

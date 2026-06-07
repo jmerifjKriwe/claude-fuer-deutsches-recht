@@ -36,7 +36,7 @@ Der Skill liefert je Dokument einen Strukturbaum als Tabelle und ein Skelett. Kl
 
 - § 253 Abs. 2 ZPO: Pflichtbestandteile der Klageschrift.
 - § 130 ZPO: Allgemeiner Schriftsatz-Inhalt.
-- § 311b BGB: Beurkundungspflicht fuer bestimmte Vertraege (Grundstueck, GmbH-Geschaeftsanteile).
+- § 311b BGB: Beurkundungspflicht für bestimmte Vertraege (Grundstueck, GmbH-Geschaeftsanteile).
 - § 126 BGB, § 126a BGB, § 126b BGB: Schriftform, elektronische Form, Textform.
 - § 305 Abs. 1 BGB: AGB-Begriff. Vertraege mit AGB-Anteil brauchen zusaetzliche Strukturelemente.
 
@@ -77,7 +77,7 @@ Der Skill liefert je Dokument einen Strukturbaum als Tabelle und ein Skelett. Kl
 | Sachverhalt | Tatsachenvortrag, chronologisch oder thematisch | § 253 Abs. 2 Nr. 2 ZPO |
 | Rechtliche Wuerdigung | Anspruchsgrundlagen in der Reihenfolge Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung | freie Gliederung |
 | Beweisangebote | Zeugen, Urkunden, Sachverstaendige, Augenschein | § 130 Nr. 5 ZPO |
-| Streitwert | Vorschlag fuer Streitwertfestsetzung | § 61 GKG |
+| Streitwert | Vorschlag für Streitwertfestsetzung | § 61 GKG |
 | Schlussformel | Unterschrift des Rechtsanwalts | § 130 Nr. 6 ZPO |
 | Anlagenverzeichnis | K1, K2 usw. | freie Konvention |
 

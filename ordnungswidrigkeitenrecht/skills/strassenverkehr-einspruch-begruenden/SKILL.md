@@ -27,8 +27,22 @@ Strassenverkehr Einspruch Begruenden wird nicht als abstraktes Schema beantworte
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Hoehe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
 - Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
 - Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde

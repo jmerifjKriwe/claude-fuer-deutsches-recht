@@ -73,7 +73,7 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 
 ## Pflegegeld vs. Pflegesachleistung
 
-- Pflegegeld: direkte Zahlung an Pflegebeduerftige fuer Pflege durch Angehoerige.
+- Pflegegeld: direkte Zahlung an Pflegebeduerftige für Pflege durch Angehoerige.
 - Pflegesachleistung: Pflegedienst direkt von Pflegekasse bezahlt.
 - Kombinationsleistung: anteilige Mischung.
 
@@ -200,7 +200,7 @@ Sie brauchen Pflege. Die Pflegekasse hat den Pflegegrad zu niedrig festgesetzt. 
 - **Medizinischer Dienst (MD)**: Begutachtungsstelle (seit 2022, frueher MDK).
 - **Module**: 6 Bereiche der Begutachtung (Mobilitaet, Kognition etc.).
 - **Pflegeprotokoll**: Aufzeichnung der taeglichen Pflege.
-- **Pflegegeld**: Geld fuer pflegende Angehoerige.
+- **Pflegegeld**: Geld für pflegende Angehoerige.
 - **Pflegesachleistung**: Leistung durch ambulanten Pflegedienst.
 
 ## Rechtsgrundlagen
@@ -213,7 +213,7 @@ Sie brauchen Pflege. Die Pflegekasse hat den Pflegegrad zu niedrig festgesetzt. 
 - **§ 39 SGB XI** — Verhinderungspflege.
 - **§ 40 SGB XI** — Pflegehilfsmittel.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pflegegrad-System verstehen
 
@@ -311,7 +311,7 @@ Der MD bewertet mit [n] Punkten. Tatsaechlich brauche ich:
 - Beim Essen und Trinken [Minuten]
 - Bei der Mobilitaet [Minuten]
 
-Pflegeprotokoll fuer 14 Tage liegt bei (Anlage 1).
+Pflegeprotokoll für 14 Tage liegt bei (Anlage 1).
 
 Aerztliche Atteste:
 - Dr. [Name], Hausarzt, vom [Datum]
@@ -333,13 +333,13 @@ Bei dringender Situation siehe `eilantrag-pflegekassen-pflegehilfsmittel`.
 - **Pflegeprotokoll ueber min. 14 Tage** — kuerzer wirkt schwach.
 - **MD heisst seit 2022 MD**, nicht mehr MDK.
 - **Aerztliche Atteste** mit konkreten Funktionsbeschreibungen.
-- **Hilfsmittel als Indikator** fuer Pflegebedarf.
+- **Hilfsmittel als Indikator** für Pflegebedarf.
 
 ## Typische Fehler
 
 - Pflegeprotokoll zu pauschal → Minuten genau
 - Aerztliche Atteste alt → aktuell halten
-- Begruendung pro Modul fehlt → Modul fuer Modul argumentieren
+- Begruendung pro Modul fehlt → Modul für Modul argumentieren
 - "Es geht mir schlechter" ohne konkreten Verlauf → konkret
 
 ## Querverweise
@@ -371,7 +371,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Verbrauchspflegehilfsmittel
 
-§ 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat fuer zum Verbrauch bestimmte Pflegehilfsmittel.
+§ 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat für zum Verbrauch bestimmte Pflegehilfsmittel.
 
 - Beispiele: Einmalhandschuhe Bettschutzeinlagen Desinfektionsmittel.
 - Direkter Bezug ueber Anbieter oder Apotheke.
@@ -420,7 +420,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Pflegekurse § 45 SGB XI
 
-- Kostenlose Pflegekurse fuer Angehoerige.
+- Kostenlose Pflegekurse für Angehoerige.
 - Praktische Anleitung Hebetechniken Wundversorgung.
 - Auch online.
 
@@ -432,7 +432,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Sozialversicherung der Pflegeperson § 44 SGB XI
 
-- Bei nichterwerbsmaessiger Pflege ab 10 Stunden/Woche an mindestens 2 Tagen.
+- Bei nichterwerbsmäßiger Pflege ab 10 Stunden/Woche an mindestens 2 Tagen.
 - Pflegekasse zahlt Rentenversicherungsbeitraege.
 - Sozialer Schutz.
 

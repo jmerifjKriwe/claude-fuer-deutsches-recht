@@ -94,7 +94,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Hinweis
 
-Plugin fuer Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
+Plugin für Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
 
 ## Zentrale Strafrecht-Normen im Ueberblick
 
@@ -102,7 +102,7 @@ Plugin fuer Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfa
 - §§ 13-16 StGB — Begehungs-/Unterlassungsdelikt, Vorsatz, Irrtum
 - §§ 20-21 StGB — Schuldunfaehigkeit, verminderte Schuldfaehigkeit
 - §§ 46-49 StGB — Strafzumessung, besonderer Milderungsgrund
-- § 78 StGB — Verjaehrungsfristen (z.B. 30 Jahre bei Mord)
+- § 78 StGB — Verjährungsfristen (z.B. 30 Jahre bei Mord)
 - §§ 112-130 StPO — Untersuchungshaft, Haftbefehl, Haftgruende, Haftpruefung
 - §§ 136-136a StPO — Beschuldigtenbelehrung, Aussageverweigerungsrecht, Beweisverwertungsverbote
 - §§ 140-142 StPO — notwendige Verteidigung, Pflichtverteidiger
@@ -272,7 +272,7 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 ## 10) BGH/BVerfG-Linien (Stand Mai 2026)
 
 - Verfassungsrechtliche Maßstaebe der Untersuchungshaft (Verhaeltnismaessigkeit, Beschleunigungsgebot in Haftsachen): Grundlage BVerfG 17.01.2013 — 2 BvR 2098/12 und BVerfG-Linie zur ueberlangen Haft; Aktualisierungen vor Ausgabe in bverfg.de und dejure.org pruefen. Offene Fundstelle (Verzeichnis): https://dejure.org/dienste/lex/StPO/112/1.html
-- BVerfG 23.09.2025 — 2 BvR 625/25: ANOM-Kommunikation und Verwertbarkeit im Strafverfahren; relevant fuer Tatverdacht und damit Haftgrund. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BVerfG 23.09.2025 — 2 BvR 625/25: ANOM-Kommunikation und Verwertbarkeit im Strafverfahren; relevant für Tatverdacht und damit Haftgrund. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zu § 112 StPO / Haftpruefung ist Stand Mai 2026 nicht in dejure.org / openjur.de mit Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche unter "§ 112 StPO Haftgrund" durchführen.
 
 ## Anschluss
@@ -599,7 +599,7 @@ Der Zeugenbeistand ist die anwaltliche Begleitperson eines Zeugen – nicht des 
 8. Haben Sie bereits Angaben gegenüber der Polizei gemacht und wenn ja, in welchem Umfang?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

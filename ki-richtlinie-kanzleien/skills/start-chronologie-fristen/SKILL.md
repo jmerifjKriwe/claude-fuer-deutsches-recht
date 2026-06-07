@@ -3,7 +3,7 @@ name: start-chronologie-fristen
 description: "Einstieg, Schnelltriage und Fallrouting im KI Richtlinie Kanzleien-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# KI-Richtlinie fuer Kanzleien und Rechtsabteilungen — Allgemein
+# KI-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein
 
 ## Arbeitsbereich
 
@@ -157,7 +157,7 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wollen erstmals eine KI-Nutzungsrichtlinie fuer Ihre Kanzlei oder Rechtsabteilung erstellen.
+- Sie wollen erstmals eine KI-Nutzungsrichtlinie für Ihre Kanzlei oder Rechtsabteilung erstellen.
 - Ihre bestehende Richtlinie ist aelter als sechs Monate und Sie wollen sie auf den aktuellen Rechtsstand bringen.
 - Sie haben einen neuen KI-Dienstleister vertraglich gebunden und muessen die Richtlinie anpassen.
 - Mitarbeitende nutzen offenbar nicht genehmigte KI-Dienste (Schatten-KI) und Sie wollen dagegen steuern.
@@ -165,11 +165,11 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 
 ## Fachbegriffe (kurz erklaert)
 
-- **KI-Verordnung (EU AI Act)** — Verordnung (EU) 2024/1689; legt Pflichten fuer Anbieter und Betreiber von KI-Systemen fest.
+- **KI-Verordnung (EU AI Act)** — Verordnung (EU) 2024/1689; legt Pflichten für Anbieter und Betreiber von KI-Systemen fest.
 - **Art. 4 KI-VO** — KI-Kompetenz-Pflicht: Betreiber von KI-Systemen muessen sicherstellen, dass ihr Personal ausreichend KI-Kompetenz hat (seit 2. Februar 2025).
 - **Hochrisiko-KI** — KI-Systeme nach Anhang III KI-VO mit besonderen Anforderungen; z. B. KI in Personalentscheidungen.
 - **Schatten-KI** — Nicht genehmigte KI-Dienste, die Mitarbeitende mit privaten Accounts nutzen; Verschwiegenheitsrisiko.
-- **§ 43e BRAO** — Berufsrechtliche Dienstleisterregelung fuer Rechtsanwaelte; verpflichtet zur Sorgfalt bei IT-Diensten.
+- **§ 43e BRAO** — Berufsrechtliche Dienstleisterregelung für Rechtsanwaelte; verpflichtet zur Sorgfalt bei IT-Diensten.
 - **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; Pflicht bei KI-Dienstleistern, die personenbezogene Daten verarbeiten.
 - **BRAK-Hinweise 12/2024** — Hinweise des Bundesrechtsanwaltskammer-Praesidiums zum KI-Einsatz in Kanzleien.
 - **DAV-Stellungnahme 32/2025** — Stellungnahme des Deutschen Anwaltvereins zur berufsrechtlichen Einordnung von KI-Diensten.
@@ -182,17 +182,17 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 - § 203 StGB — Verletzung von Privatgeheimnissen; Berufsgeheimnis
 - Art. 4 KI-VO — KI-Kompetenz-Pflicht
 - Art. 6 KI-VO — Abgrenzung Hochrisiko-KI
-- Art. 50 Abs. 4 KI-VO — Kennzeichnungspflicht fuer KI-generierte Inhalte
+- Art. 50 Abs. 4 KI-VO — Kennzeichnungspflicht für KI-generierte Inhalte
 - Art. 22 DSGVO — Automatisierte Einzelentscheidungen
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag
-- §§ 1 3 GeschGehG — Schutz von Geschaeftsgeheimnissen
+- §§ 1 3 GeschGehG — Schutz von Geschäftsgeheimnissen
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Kanzlei-Kontext analysieren: Groesse, Rechtsgebiete, bestehende Tools und Mandantenstruktur erfassen.
 2. Richtlinien-Skelett erzeugen mit allen Pflichtbausteinen.
 3. Bausteine berufsrechtlich, datenschutzrechtlich und nach KI-VO befuellen.
-4. Executive Summary und Compliance-Regelsatz fuer Mitarbeitende erstellen.
+4. Executive Summary und Compliance-Regelsatz für Mitarbeitende erstellen.
 5. Aktualisierungszyklus einrichten (mindestens alle sechs Monate oder bei wesentlicher Rechtsaenderung).
 
 ## Skill-Tour (was gibt es hier?)
@@ -200,37 +200,37 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 - `anonymisierung-pseudonymisierung` — Mandatsdaten vor KI-Eingabe anonymisieren oder pseudonymisieren.
 - `auftragsverarbeitungsvertrag-pruefen` — AVV bei KI-Anbietern auf DSGVO-Konformitaet pruefen.
 - `automatisierte-entscheidungen-art-22-dsgvo` — Automatisierte Einzelentscheidungen nach Art. 22 DSGVO im Kanzleiumfeld pruefen.
-- `berufsrecht-bausteine` — Berufsrechtliche Textbausteine (Verschwiegenheit, Sorgfalt, Eigenverantwortung) fuer KI-Richtlinien.
-- `bias-und-diskriminierung-pruefung` — Bias und Diskriminierung in KI-Outputs fuer AGG-relevante Kanzleiprozesse pruefen.
-- `compliance-regelsatz-erstellen` — Zehn-Gebote-Regelsatz fuer erlaubte und verbotene KI-Nutzungen erstellen.
+- `berufsrecht-bausteine` — Berufsrechtliche Textbausteine (Verschwiegenheit, Sorgfalt, Eigenverantwortung) für KI-Richtlinien.
+- `bias-und-diskriminierung-pruefung` — Bias und Diskriminierung in KI-Outputs für AGG-relevante Kanzleiprozesse pruefen.
+- `compliance-regelsatz-erstellen` — Zehn-Gebote-Regelsatz für erlaubte und verbotene KI-Nutzungen erstellen.
 - `dienstleister-due-diligence` — KI-Dienstleister-Due-Diligence: Datenschutz, Berufsrecht, Sicherheit und Zertifizierungen.
-- `dokumentationspflichten-protokoll` — KI-Nutzung beweissicher protokollieren fuer Datenschutzbehoerden und Berufspruefungen.
-- `dsgvo-compliance-bausteine` — DSGVO-Textbausteine fuer KI-Nutzungsrichtlinien: Rechtsgrundlagen, AVV, Drittlandtransfer.
-- `executive-summary-bausteine` — Kurzes Executive Summary der KI-Richtlinie fuer Kanzleifuehrung und Mitarbeitende.
-- `geschgehg-bausteine` — GeschGehG-Bausteine zum Schutz von Geschaeftsgeheimnissen beim KI-Einsatz.
+- `dokumentationspflichten-protokoll` — KI-Nutzung beweissicher protokollieren für Datenschutzbehoerden und Berufspruefungen.
+- `dsgvo-compliance-bausteine` — DSGVO-Textbausteine für KI-Nutzungsrichtlinien: Rechtsgrundlagen, AVV, Drittlandtransfer.
+- `executive-summary-bausteine` — Kurzes Executive Summary der KI-Richtlinie für Kanzleifuehrung und Mitarbeitende.
+- `geschgehg-bausteine` — GeschGehG-Bausteine zum Schutz von Geschäftsgeheimnissen beim KI-Einsatz.
 - `halluzinations-handhabung` — Halluzinationen in KI-Outputs erkennen und Prozessbetrug durch falsche Fundstellen vermeiden.
-- `kanzlei-kontext-analyse` — Kanzlei-Kontext fuer massgeschneiderte KI-Richtlinie erfassen und analysieren.
-- `kennzeichnungspflichten-veroeffentlichungen` — Kennzeichnungspflichten fuer KI-generierte Inhalte in Kanzlei-Veroeffentlichungen pruefen.
+- `kanzlei-kontext-analyse` — Kanzlei-Kontext für massgeschneiderte KI-Richtlinie erfassen und analysieren.
+- `kennzeichnungspflichten-veroeffentlichungen` — Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veroeffentlichungen pruefen.
 - `ki-kompetenz-erwerb-plan` — KI-Kompetenz-Schulungsplan nach Art. 4 KI-VO erstellen und dokumentieren.
-- `ki-vo-betreiber-pflichten` — KI-VO-Betreiber-Pflichten fuer Kanzleien erlaeutern und in Richtlinie umsetzen.
-- `ki-vo-hochrisiko-personalwesen` — Hochrisiko-Anforderungen fuer KI im HR-Bereich ab August 2026 pruefen.
-- `literatur-und-quellen` — Pflicht-Literatur und Aktualisierungsliste fuer KI-Nutzungsrichtlinien.
-- `musterklauseln-it-vertrag` — Musterklauseln fuer IT-Vertraege mit KI-Dienstleistern (Verschwiegenheit, Training-Opt-out).
-- `prompting-leitfaden` — Prompting-Leitfaden fuer juristische KI-Nutzung mit Vorlagen und Checkliste.
+- `ki-vo-betreiber-pflichten` — KI-VO-Betreiber-Pflichten für Kanzleien erlaeutern und in Richtlinie umsetzen.
+- `ki-vo-hochrisiko-personalwesen` — Hochrisiko-Anforderungen für KI im HR-Bereich ab August 2026 pruefen.
+- `literatur-und-quellen` — Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien.
+- `musterklauseln-it-vertrag` — Musterklauseln für IT-Vertraege mit KI-Dienstleistern (Verschwiegenheit, Training-Opt-out).
+- `prompting-leitfaden` — Prompting-Leitfaden für juristische KI-Nutzung mit Vorlagen und Checkliste.
 - `rdg-pruefung-chatbot` — RDG-Pruefung ob KI-Chatbot unerlaubte Rechtsdienstleistung erbringt.
 - `richtlinien-skelett-erzeugen` — Vollstaendiges KI-Richtlinien-Skelett mit allen Pflichtbausteinen und Platzhaltern erzeugen.
 - `richtlinien-update-zyklus` — KI-Nutzungsrichtlinie regelmaessig pruefen und aktualisieren mit Aenderungslog.
 - `schatten-ki-aufdeckung` — Nicht autorisierte KI-Dienste erkennen und konstruktiv mit Mitarbeitenden umgehen.
 - `transparenz-mandanten` — Transparenz gegenueber Mandanten bei KI-Einsatz sicherstellen: Mandatsvertragsklauseln.
-- `urheberrecht-bausteine` — Urheberrechtliche Bausteine fuer KI-Richtlinien: Schutz und Upload-Verbote.
+- `urheberrecht-bausteine` — Urheberrechtliche Bausteine für KI-Richtlinien: Schutz und Upload-Verbote.
 
 ## Worauf besonders achten
 
 - **Art. 4 KI-VO-Pflicht seit 2. Februar 2025**: Kanzleien als Betreiber von KI-Systemen muessen nachweisbare KI-Kompetenz sicherstellen; fehlende Schulungsnachweise sind ein Compliance-Risiko.
 - **Schatten-KI ist das groesste Praxisproblem**: Viele Mitarbeitende nutzen private ChatGPT-Accounts; Mandatsdaten gelangen ohne AVV und ohne Belehrung an Drittanbieter.
-- **DSGVO und Berufsrecht parallel pruefen**: Ein AVV reicht fuer die berufsrechtliche Konformitaet nach § 43e BRAO nicht aus.
+- **DSGVO und Berufsrecht parallel pruefen**: Ein AVV reicht für die berufsrechtliche Konformitaet nach § 43e BRAO nicht aus.
 - **Richtlinie mindestens alle sechs Monate aktualisieren**: KI-VO, BRAK-Stellungnahmen und neue Rechtsprechung aendern sich schnell.
-- **Hochrisiko-Klassifizierung fuer HR-KI ab August 2026**: Kanzleien, die KI in Personalentscheidungen nutzen, muessen bis dahin Konformitaetsbewertungen abschliessen.
+- **Hochrisiko-Klassifizierung für HR-KI ab August 2026**: Kanzleien, die KI in Personalentscheidungen nutzen, muessen bis dahin Konformitaetsbewertungen abschliessen.
 
 ## Typische Fehler
 
@@ -238,11 +238,11 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 - Executive Summary ohne Verbindlichkeit: Mitarbeitende sehen die Richtlinie als unverbindliche Empfehlung.
 - Nur DSGVO-Anforderungen beachten, berufsrechtliche Anforderungen nach BRAO und StBerG ignorieren.
 - Halluzinationspruefung nicht als Pflichtprozess in die Richtlinie aufnehmen; falsche Fundstellen in Schriftsaetzen sind ein Haftungsrisiko.
-- Keine klaren Sanktionen fuer Verstoss gegen die Richtlinie definieren; Durchsetzungskraft fehlt.
+- Keine klaren Sanktionen für Verstoss gegen die Richtlinie definieren; Durchsetzungskraft fehlt.
 
 ## Querverweise
 
-- `berufsrecht-ki-vertragspruefung` — Vertragspruefung fuer den einzelnen KI-Anbietervertrag.
+- `berufsrecht-ki-vertragspruefung` — Vertragspruefung für den einzelnen KI-Anbietervertrag.
 - `kanzlei-builder-hub` — Verwaltet und prueft Skills, die KI-Dienste einsetzen.
 - `kanzlei-allgemein` — Kanzlei-Workflow-Plugin, das unter der KI-Richtlinie betrieben wird.
 - `rechtsberatungsstelle` — KI-Nutzung in der Beratungsstelle ebenfalls regelungspflichtig.

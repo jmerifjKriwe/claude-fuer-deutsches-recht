@@ -21,13 +21,13 @@ Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, In
 Anrufung des Petitionsausschusses des Europaeischen Parlaments nach Art. 24 II, 227 AEUV. Voraussetzungen, Form, Sprache, Inhalt; Beispielfaelle. Strategische Alternative bzw. Ergaenzung zu Klage Art. 263/265 AEUV oder Beschwerde an Europaeischen Buergerbeauftragten (Art. 228 AEUV) bzw. Kommission als "Huetterin der Vertraege" (Art. 258 AEUV — Vertragsverletzungsverfahren).
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster Petition
 
@@ -44,19 +44,19 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Sprache** — alle 24 Amtssprachen der EU; Deutsch zulaessig.
 5. **Pruefungsablauf**
  - Pruefung der Zulaessigkeit durch Petitionsausschuss (PETI).
- - Bei Zulaessigkeit: Pruefung der Begruendetheit, ggf. Anhoerung, Stellungnahme von Kommission, Kontakte zu nationalen Behoerden.
+ - Bei Zulaessigkeit: Pruefung der Begruendetheit, ggf. Anhörung, Stellungnahme von Kommission, Kontakte zu nationalen Behörden.
  - Mitteilung an Petenten ueber Ergebnis; ggf. Weiterleitung an EU-Buergerbeauftragten, SOLVIT oder andere Stellen.
 
 ## Strategische Erwaegungen
 
-- **Vorteile:** kostenfrei; oeffentliche Aufmerksamkeit; Druck auf Kommission, Vertragsverletzungsverfahren einzuleiten; Sammelpunkt fuer gleichgelagerte Faelle.
+- **Vorteile:** kostenfrei; öffentliche Aufmerksamkeit; Druck auf Kommission, Vertragsverletzungsverfahren einzuleiten; Sammelpunkt für gleichgelagerte Faelle.
 - **Nachteile:** **keine rechtsverbindliche Entscheidung**; Verfahren langsam; PETI hat nur Empfehlungscharakter.
 - **Kombination** sinnvoll mit: Beschwerde an Kommission als "Huetterin der Vertraege" (Art. 258 AEUV-Vorverfahren); SOLVIT (binnenmarktbezogen, schnell und informell); EU-Buergerbeauftragter (bei Missstaenden in der Unionsverwaltung); ggf. Vorlagefrage des nationalen Gerichts Art. 267 AEUV.
 
 ## Praxisfallen
 
 - Petition wird oft mit Beschwerde verwechselt — die Kommissionsbeschwerde nach Art. 258 AEUV ist effektiver bei klaren MS-Verstoessen.
-- Petitionen, die rein nationale Themen betreffen, werden fuer unzulaessig erklaert.
+- Petitionen, die rein nationale Themen betreffen, werden für unzulaessig erklaert.
 - Keine Fristbindung gegenueber dem EP, aber: Klage Art. 263 AEUV gegen Akte der Union ist **fristgebunden** (zwei Monate Art. 263 VI AEUV) — Petition rettet diese Frist nicht.
 
 ## Plugin-Kontext
@@ -76,7 +76,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

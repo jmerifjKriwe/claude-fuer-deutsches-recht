@@ -45,11 +45,11 @@ Prüfe besonders kritisch, ob das ungeprüfte Recht eV-tauglich ist.
 - Gerichte stellen daher hoehere Anforderungen an die "**glaubhafte Aussicht auf Bestand**" als beim Patent.
 - BGH X ZR 173/02 — der Rechtsbestand muss bei Erstanmeldungen vom Klaeger glaubhaft gemacht werden.
 
-### Faktoren fuer Verfuegungserlass
+### Faktoren für Verfuegungserlass
 1. **Rechtsbestand**: Stand der Technik bekannt? Erfinderischer Schritt belegbar?
 2. **Verletzung**: klar dargelegt?
 3. **Dringlichkeit**: 1-2 Monate Untaetigkeit kann die Eilbeduerftigkeit zerstoeren.
-4. **Schadenshoehe**: gross genug fuer einstweiligen Rechtsschutz?
+4. **Schadenshoehe**: gross genug für einstweiligen Rechtsschutz?
 
 ### Schutzschrift
 - Vorsorgliche Hinterlegung beim Gericht durch Anti-Verfuegungs-Bedrohten.

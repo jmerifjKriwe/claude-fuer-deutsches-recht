@@ -1,13 +1,13 @@
 ---
 name: ruhensregelung-53-beamtvg
-description: "Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze fuer Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungseinkommen aus dem oeffentlichen Dienst und Erwerbsersatzeinkommen wie Krankengeld oder Arbeitslosengeld. Behandelt Sonderfaelle wie Tantiemen Aktienoptionen Honorare als Sachverstaendiger und Beratungseinkommen. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze für Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungseinkommen aus dem öffentlichen Dienst und Erwerbsersatzeinkommen wie Krankengeld oder Arbeitslosengeld. Behandelt Sonderfaelle wie Tantiemen Aktienoptionen Honorare als Sachverstaendiger und Beratungseinkommen. Liefert Pruefraster und Antragsbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ruhensregelung Versorgungsbezuege § 53 BeamtVG
 
 ## Arbeitsbereich
 
-Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze fuer Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungseinkommen aus dem oeffentlichen Dienst und Erwerbsersatzeinkommen wie Krankengeld oder Arbeitslosengeld. Behandelt Sonderfaelle wie Tantiemen Aktienoptionen Honorare als Sachverstaendiger und Beratungseinkommen. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze für Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungseinkommen aus dem öffentlichen Dienst und Erwerbsersatzeinkommen wie Krankengeld oder Arbeitslosengeld. Behandelt Sonderfaelle wie Tantiemen Aktienoptionen Honorare als Sachverstaendiger und Beratungseinkommen. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher Hoehe Versorgungsbezuege gekuerzt werden, wenn der Versorgungsempfaenger Einkommen aus selbststaendiger oder nichtselbststaendiger Erwerbstaetigkeit erzielt.
+Skill für Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher Hoehe Versorgungsbezuege gekuerzt werden, wenn der Versorgungsempfaenger Einkommen aus selbststaendiger oder nichtselbststaendiger Erwerbstaetigkeit erzielt.
 
 ## 2. Eingaben
 
@@ -27,7 +27,7 @@ Skill fuer Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 - Datum Eintritt in den Ruhestand (regulaerer Ruhestand vor Regelaltersgrenze, Ruhestand wegen Dienstunfaehigkeit)
 - Art und Hoehe des Erwerbseinkommens
 - Datum des Beginns des Erwerbseinkommens
-- Arbeitgeber im oeffentlichen Dienst oder Privatwirtschaft
+- Arbeitgeber im öffentlichen Dienst oder Privatwirtschaft
 
 ## 3. Ablauf / Checkliste
 
@@ -41,7 +41,7 @@ Skill fuer Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 - Bestimmte Einkommen wie Aufwandsentschaedigungen, ehrenamtliche Taetigkeiten und teilweise wissenschaftliche Lehrtaetigkeiten sind nicht anrechenbar.
 
 ### d) Verwendungseinkommen
-- Einkommen aus Beschaeftigung im oeffentlichen Dienst wird in vollem Umfang angerechnet (§ 53 BeamtVG zusammen mit § 56).
+- Einkommen aus Beschaeftigung im öffentlichen Dienst wird in vollem Umfang angerechnet (§ 53 BeamtVG zusammen mit § 56).
 
 ### e) Endgueltige Berechnung
 - Nach Erreichen der Regelaltersgrenze entfaellt die Anrechnung weitgehend (Ausnahmen pruefen).
@@ -56,7 +56,7 @@ Skill fuer Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 ## 5. Ausgabeformat
 
 - Tabelle "Monat — Bezuege Brutto — Erwerbseinkommen — Hoechstgrenze — Ruhensbetrag — Auszahlung".
-- Beratungsschreiben fuer Mandanten zur Entscheidung ueber Aufnahme einer Erwerbstaetigkeit.
+- Beratungsschreiben für Mandanten zur Entscheidung ueber Aufnahme einer Erwerbstaetigkeit.
 
 ## 6. Verifizierte Quellenanker
 
@@ -68,4 +68,4 @@ Skill fuer Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 
 ## 7. Beispiel (Kurzfassung)
 
-Ruhestandsbeamter A14 mit 60 Jahren wegen Dienstunfaehigkeit, beraten Honorarvertrag fuer Beratung beim Wirtschaftspruefer. Skill liefert Ruhensberechnung und Gestaltungshinweise.
+Ruhestandsbeamter A14 mit 60 Jahren wegen Dienstunfaehigkeit, beraten Honorarvertrag für Beratung beim Wirtschaftspruefer. Skill liefert Ruhensberechnung und Gestaltungshinweise.

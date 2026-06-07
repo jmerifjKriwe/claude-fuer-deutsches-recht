@@ -15,7 +15,7 @@ description: "Kuenstler und Sportler nach Art. 17 OECD-MA mit Auftrittsstaat-Bes
 
 ## Kernsachverhalt
 
-Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Einkuenfte aus persoenlich ausgeuebten kuenstlerischen oder sportlichen Taetigkeiten werden grundsaetzlich im **Auftrittsstaat** besteuert, unabhaengig von Ansaessigkeit und 183-Tage-Regel. Dies gilt auch fuer Zahlungen an dazwischengeschaltete Gesellschaften (Anti-"Star-Company"-Klausel). Praxisrelevant fuer Musiker, Schauspieler, Sportler, Sprecher, ggf. Influencer.
+Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Einkuenfte aus persoenlich ausgeuebten kuenstlerischen oder sportlichen Taetigkeiten werden grundsaetzlich im **Auftrittsstaat** besteuert, unabhaengig von Ansaessigkeit und 183-Tage-Regel. Dies gilt auch für Zahlungen an dazwischengeschaltete Gesellschaften (Anti-"Star-Company"-Klausel). Praxisrelevant für Musiker, Schauspieler, Sportler, Sprecher, ggf. Influencer.
 
 ## Kaltstart-Rueckfragen
 
@@ -34,7 +34,7 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 - **Art. 17 OECD-MA** (Kuenstler und Sportler).
 - **§ 50a EStG** — Steuerabzug bei beschraenkt Steuerpflichtigen Auftritten in Deutschland.
 - **§ 50c EStG** — Erstattung/Freistellung BZSt.
-- **§ 50d Abs. 3 EStG** — Anti-Treaty-Shopping fuer Star-Companies.
+- **§ 50d Abs. 3 EStG** — Anti-Treaty-Shopping für Star-Companies.
 - Konkrete DBA-Artikel: in den meisten deutschen DBA Art. 17 (Sondervorschrift); manchmal niedrigere Schwelle (z.B. 11.000 EUR Bagatellklausel) — konkret im DBA-Text pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
@@ -95,8 +95,8 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 - § 50a-Steuerabzug ist eine Bringschuld des Vergueterschuldners (Veranstalter) — Pruefung der Einbehaltspflichten.
 - Nettobesteuerung (mit Werbungskosten) statt Bruttobesteuerung lohnt sich oft — Wahlrecht pruefen.
 - Star-Company-Konstellation: § 50d Abs. 3 EStG-Substanztest haeufig kritisch.
-- Streaming/Influencer: Auslegungsstreit, ob persoenlicher Auftritt iSd Art. 17 — Verstaendigungsverfahren denkbar.
-- USA-DBA bei Sportlern: Bagatellklausel 20.000 USD/Jahr — wichtig fuer Amateure.
+- Streaming/Influencer: Auslegungsstreit, ob persönlicher Auftritt iSd Art. 17 — Verstaendigungsverfahren denkbar.
+- USA-DBA bei Sportlern: Bagatellklausel 20.000 USD/Jahr — wichtig für Amateure.
 - BZSt-Bearbeitungsdauer: lange Frist — Freistellungsbescheinigung vorab beantragen.
 - Werbeeinnahmen vom Auftritt trennen: koennen unter Art. 12 (Lizenz) oder Art. 7 (Unternehmensgewinn) fallen.
 
@@ -106,9 +106,9 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 - **Freistellungsbescheinigung BZSt vor Auftritt**: bei wiederkehrenden Tourneen oder mehreren Auftritten in DE — gilt bis zu drei Jahre. Vom Anwender mit aktuellem BZSt-Formularkatalog abzugleichen.
 - **Ansaessigkeitsbescheinigung des Heimatstaats**: IRS Form 6166 (US-Kuenstler), HMRC (UK-Bands), franzoesische Attestation de Residence Fiscale — Bearbeitung 4-8 Wochen, oft auch waehrend Tournee parallel.
 - **Werbungskosten / Betriebsausgaben sammeln**: Nettoabzug § 50a Abs. 3 EStG nur, wenn vorab nachgewiesen — Sammlung Hotel, Reise, Gage Crew, Equipment-Miete, Booking-Agency-Provision. Pauschalisierungs-Trick scheitert in Praxis.
-- **Bagatellklauseln im konkreten DBA pruefen**: viele DBA enthalten Befreiungen bei Kulturaustausch (oeffentliche Foerderung) oder Schwellenwerten. Bei US-Auftritten von DE-Kuenstlern: DBA-USA Art. 17 mit Bagatellklausel beachten (Schwelle vom Anwender mit aktuellem DBA-Text zu verifizieren).
+- **Bagatellklauseln im konkreten DBA pruefen**: viele DBA enthalten Befreiungen bei Kulturaustausch (öffentliche Förderung) oder Schwellenwerten. Bei US-Auftritten von DE-Kuenstlern: DBA-USA Art. 17 mit Bagatellklausel beachten (Schwelle vom Anwender mit aktuellem DBA-Text zu verifizieren).
 - **Star-Company-Substanzdokumentation**: bei zwischengeschalteter Production Company stets Personal, Buero, Geschaeftstaetigkeit dokumentieren — Pruefer praesumieren ohne Substanz Durchgriff auf Kuenstler.
-- **Q1-Antragsfenster** beim BZSt fuer Erstattungen — kuerzere Bearbeitung.
+- **Q1-Antragsfenster** beim BZSt für Erstattungen — kuerzere Bearbeitung.
 
 ## Trade-off-Tabelle
 
@@ -118,14 +118,14 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 | Direktvertrag Kuenstler vs. Star-Company | Veranstalter zahlt direkt an Kuenstler | Zahlung an zwischengeschaltete Gesellschaft | bei klarer Substanz Pfad B (Konzern); bei Briefkasten droht § 50d Abs. 3 EStG-Ablehnung |
 | Auftrittsstaat-Quellensteuer hinnehmen vs. anfechten | Anrechnung § 34c EStG im Wohnsitzstaat | MAP bei strittiger Auslegung | bei klaren DBA-Anwendungen Anrechnung; bei strittiger Qualifikation (Streaming) MAP |
 | Veranstalter haftet vs. Vertragsklausel | Kuenstler-Vertrag uebernimmt Steuerlast | Veranstalter traegt § 50a-Einbehalt | Vertragsklausel "Brutto" vs. "Netto" — sauber regeln, sonst Haftungsfalle |
-| Online-Streaming als Auftritt vs. Lizenz | Art. 17 (persoenlicher Auftritt) | Art. 12 (Lizenz Aufnahme) | bei reiner Streaming ohne physische Praesenz: Art. 17 strittig — vorsorglich Art. 12 oder Art. 7 pruefen |
+| Online-Streaming als Auftritt vs. Lizenz | Art. 17 (persönlicher Auftritt) | Art. 12 (Lizenz Aufnahme) | bei reiner Streaming ohne physische Praesenz: Art. 17 strittig — vorsorglich Art. 12 oder Art. 7 pruefen |
 
 ## Was Reviewer/Pruefer triggert
 
 - **§ 50a-Anmeldung des Veranstalters fehlt** — Vergueterschuldner-Haftung § 50a Abs. 5 EStG.
 - **Star-Company-Substanz nur behauptet** — Pruefer verlangt Beleg Personal, Mietvertrag, Stammbuch.
 - **Werbeeinnahmen mit Auftrittsgage vermischt** — Art. 12 (Lizenz) oder Art. 7 (Unternehmensgewinn) gesondert qualifizieren.
-- **Bagatellklauseln des DBA uebersehen** — fuer Amateursportler bei US-Auftritten oder europaeischen Tourneen relevant.
+- **Bagatellklauseln des DBA uebersehen** — für Amateursportler bei US-Auftritten oder europaeischen Tourneen relevant.
 - **Brutto-Netto-Klausel im Vertrag unklar** — Streit zwischen Veranstalter und Kuenstler ueber wirtschaftliche Belastung.
 - **Werbungskostennachweis fehlt** bei Nettobesteuerung.
 - **Ansaessigkeitsbescheinigung des Auslandskuenstlers fehlt** — BZSt verweigert Freistellung.

@@ -24,14 +24,14 @@ Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnung
 
 ## Spezialgesetze (vorrangig)
 
-- POG / PolG der Laender — Polizeischadensentschaedigung.
+- POG / PolG der Länder — Polizeischadensentschaedigung.
 - **SGB XIV (Soziales Entschaedigungsrecht)** — in Kraft seit 01.01.2024. Bündelt das frühere BVG (Bundesversorgungsgesetz), das OEG (Opferentschädigungsgesetz) und die Impfschadensversorgung aus IfSG §§ 60 ff. zu einem einheitlichen sozialen Entschaedigungsrecht. Für Altfaelle / Uebergangsregelungen weiter BVG/OEG/IfSG live verifizieren.
 - StVG §§ 7 ff. — Halterhaftung.
 
 ## Subsidiaritaet
 
 - Aufopferungsanspruch tritt zurueck, wenn Spezialgesetz greift.
-- Aufopferung dient als "Auffangtatbestand" fuer rechtmaessige Eingriffe ohne Spezialgesetz.
+- Aufopferung dient als "Auffangtatbestand" für rechtmäßige Eingriffe ohne Spezialgesetz.
 
 ## Typische heutige Faelle
 
@@ -47,7 +47,7 @@ Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnung
 ## Abgrenzung Art. 34 GG
 
 - Rechtswidriges Verhalten -> Amtshaftung.
-- Rechtmaessiges Verhalten -> Aufopferung.
+- Rechtmäßiges Verhalten -> Aufopferung.
 
 ## Pruefraster
 

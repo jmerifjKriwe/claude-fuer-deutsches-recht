@@ -1,20 +1,37 @@
 ---
 name: besitzdogmatik-historische-daseinsvorsorge
-description: "Besitzdogmatik Historische Daseinsvorsorge im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formal, Prueft Daseinsvorsorge. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Besitzdogmatik Historische Daseinsvorsorge im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formal, Prueft Daseinsvorsorge. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Besitzdogmatik Historische Daseinsvorsorge
 
 ## Arbeitsbereich
 
-**Besitzdogmatik Historische Daseinsvorsorge** ordnet den Fall über die tragenden Prüfungslinien: Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formal. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Besitzdogmatik Historische Daseinsvorsorge** ordnet den Fall über die tragenden Prüfungslinien: Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formal. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `besitzdogmatik-historische-schule-und-systemdenken` | Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung. |
+| `besitzdogmatik-historische-schule-und-systemdenken` | Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung. |
 | `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck` | Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz. |
 | `demokratie-gesetzgeber-gericht` | Prueft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen. |
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -27,7 +44,7 @@ description: "Besitzdogmatik Historische Daseinsvorsorge im Rechtstheorie und Re
 
 ## 1. `besitzdogmatik-historische-schule-und-systemdenken`
 
-**Fokus:** Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung.
+**Fokus:** Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung.
 
 # Besitzdogmatik, historische Schule und Systemdenken
 

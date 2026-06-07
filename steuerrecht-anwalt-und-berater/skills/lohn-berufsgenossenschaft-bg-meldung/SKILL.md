@@ -17,7 +17,7 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 
 ## Kaltstart-Rueckfragen
 
-1. Welche BG ist zustaendig (Branche/Gewerbeart)?
+1. Welche BG ist zuständig (Branche/Gewerbeart)?
 2. Welcher Gefahrtarif (Beitragsklasse) liegt vor?
 3. Welche Mitgliedsnummer?
 4. Welche Lohnsumme aus Vorjahr (Bemessungsbasis)?
@@ -47,7 +47,7 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 
 ### Phase 1 — BG-Mitgliedschaft pruefen
 
-- Branche und Gewerbeart bestimmen zustaendige BG (z.B. BG Bau, BG Handel und Warenlogistik, BG ETEM, BG Holz und Metall).
+- Branche und Gewerbeart bestimmen zuständige BG (z.B. BG Bau, BG Handel und Warenlogistik, BG ETEM, BG Holz und Metall).
 - Mitgliedsnummer aus BG-Bescheid.
 - Mitgliedschaftsbeginn dokumentiert.
 
@@ -69,7 +69,7 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 - Form: elektronisch ueber sv.net, DAKOTA oder das BG-Portal; in DATEV LODAS unter Auswertung → Jahresmeldungen → UV-Jahresmeldung.
 - Frist: spaetestens 16. Februar des Folgejahres (§ 99 SGB IV i.V.m. § 165 SGB VII; bei Wochenend-Verschiebung folgender Werktag).
 - Inhalt: Lohnsumme je Gefahrenklasse, geleistete Arbeitsstunden, Mitgliedsnummer.
-- Nach BG-Bescheid: Beitragsbescheid mit Nachzahlung oder Erstattung; Faelligkeit der Nachzahlung je BG-Satzung (typisch 15. April oder 15. Mai des Folgejahres — genaue Faelligkeit in der Satzung der jeweils zustaendigen BG pruefen).
+- Nach BG-Bescheid: Beitragsbescheid mit Nachzahlung oder Erstattung; Faelligkeit der Nachzahlung je BG-Satzung (typisch 15. April oder 15. Mai des Folgejahres — genaue Faelligkeit in der Satzung der jeweils zuständigen BG pruefen).
 
 ### Phase 5 — Vorauszahlungen
 

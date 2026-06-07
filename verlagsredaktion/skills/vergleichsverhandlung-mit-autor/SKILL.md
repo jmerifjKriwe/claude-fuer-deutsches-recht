@@ -19,17 +19,17 @@ Vergleichsverhandlung mit Autor: Aufbau einer Verhandlungslinie bei Honorar-, Ta
 
 ## Worum geht es konkret
 
-Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach UrhG § 32a oder ein Manuskript-Verzug eskaliert. Bevor man zum Anwalt geht, lohnt der schriftlich oder muendlich gefuehrte Vergleich. Der Skill liefert Verhandlungslinie, Argumentationsraster, Mustertext fuer einen schriftlichen Vergleich mit Abgeltungsklausel und Hinweise auf typische Fallstricke.
+Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach UrhG § 32a oder ein Manuskript-Verzug eskaliert. Bevor man zum Anwalt geht, lohnt der schriftlich oder muendlich gefuehrte Vergleich. Der Skill liefert Verhandlungslinie, Argumentationsraster, Mustertext für einen schriftlichen Vergleich mit Abgeltungsklausel und Hinweise auf typische Fallstricke.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Was ist der Streitgegenstand (Summe X, Manuskriptrueckgabe, Nutzungsrechte zurueck, Tantiemenanpassung)?
 2. Wer ist Verhandlungsfuehrer auf jeder Seite (Autor, Anwalt, Verlagsleitung, Justiziariat)?
 3. Liegt eine Klage vor oder steht eine Klage bevor?
-4. Gibt es eine Verjaehrungsfrist im Hintergrund?
+4. Gibt es eine Verjährungsfrist im Hintergrund?
 5. Welches BATNA (Best Alternative To a Negotiated Agreement) hat jede Seite?
 6. Gibt es Vertraulichkeitsbedarf (Marktwirkung, andere Autoren)?
-7. Wieviel Zeitfenster fuer den Vergleich (vor Gerichtstermin)?
+7. Wieviel Zeitfenster für den Vergleich (vor Gerichtstermin)?
 
 ## Rechtlicher und sachlicher Rahmen
 
@@ -41,7 +41,7 @@ Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach U
 - BGB §§ 305 ff. - AGB-Kontrolle bei vorformulierten Vergleichsklauseln gegenueber Verbraucher-Autoren.
 - DSGVO Art. 6, 17 - bei Vergleich ueber Loeschung personenbezogener Daten.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Streitgegenstand sauber formulieren.** "Worueber streiten wir?" - getrennt von "Wer hat angefangen?"
 2. **BATNA bilden.** Was passiert, wenn der Vergleich scheitert? (Klage mit Kosten X, Zeitverlust Y, Imagewirkung Z.)
@@ -49,7 +49,7 @@ Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach U
 4. **Optionen entwickeln.** Geld plus Sachleistung (z. B. Werbeplatz, Anschlussauftrag, Belegexemplare); Stufenplan; Zahlungsplan; Tantiemenanpassung mit Stichtag.
 5. **Verhandlung fuehren.** Erst Sachverhalt, dann Interesse, dann Position; nicht umgekehrt.
 6. **Schriftlich fixieren.** Vergleichstext mit Praeambel, Leistungspflichten, Abgeltungsklausel, Vertraulichkeitsklausel, Gerichtsstand.
-7. **Erfuellung kontrollieren.** Wiedervorlage in CRM/Akte; Quittungen fuer Zahlungen, Manuskriptueberreichung in Empfang nehmen.
+7. **Erfuellung kontrollieren.** Wiedervorlage in CRM/Akte; Quittungen für Zahlungen, Manuskriptueberreichung in Empfang nehmen.
 
 ## Trade-off-Matrix
 
@@ -68,7 +68,7 @@ Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach U
 - Bei Anwaltsbeteiligung des Autors: Auch eigene Vertretung pruefen, sonst Schieflage.
 - Vergleichstext immer beidseitig unterschreiben lassen, nicht "stillschweigend gelebt".
 - Vertraulichkeit nur ausdruecklich; sonst kann der Autor die Konditionen weitererzaehlen.
-- "Sachen verhandeln, Personen schonen." Beziehung erhalten lohnt sich oft fuer Folgewerke.
+- "Sachen verhandeln, Personen schonen." Beziehung erhalten lohnt sich oft für Folgewerke.
 
 ## Mustertexte / Vorlagen
 

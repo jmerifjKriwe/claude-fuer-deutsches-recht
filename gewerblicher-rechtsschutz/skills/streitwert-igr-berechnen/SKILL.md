@@ -182,7 +182,7 @@ Bevor der Streitwert festgesetzt wird, klaere:
 1. Handelt es sich um ein UWG-Verfahren (§ 12 II UWG — Antragsgebundenheit), Markenrecht oder Patentrecht?
 2. Wird einstweiliger Rechtsschutz (Gegenstandswert = 50-100 % des Hauptsachewerts) oder Hauptsacheklage beantragt?
 3. Welchen wirtschaftlichen Wert hat das Unterlassungsbegehren — Umsatz des Verletzers, Bedeutung der Marke/des Patents?
-4. Gibt es Vergleichswerte aus OLG-Beschluessen fuer aehnliche Faelle (GRUR-RR, WRP)?
+4. Gibt es Vergleichswerte aus OLG-Beschluessen für aehnliche Faelle (GRUR-RR, WRP)?
 
 ## Aktuelle Rechtsprechung
 

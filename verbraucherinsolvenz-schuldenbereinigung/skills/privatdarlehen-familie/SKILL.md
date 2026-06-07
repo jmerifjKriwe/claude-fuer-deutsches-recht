@@ -12,9 +12,9 @@ description: "Privatdarlehen Familie im Plugin Verbraucherinsolvenz Schuldenbere
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `privatdarlehen-familie` | Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.; Normanker: InsO Forderungsanmeldung; BGB Darlehen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `restschuldbefreiungsantrag` | Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.; Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `schufa-und-auskunfteien` | SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.; Normanker: DSGVO Art. 5 und 6 und 16 und 17; BDSG; InsO RSB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `privatdarlehen-familie` | Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.; Normanker: InsO Forderungsanmeldung; BGB Darlehen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `restschuldbefreiungsantrag` | Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.; Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `schufa-und-auskunfteien` | SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.; Normanker: DSGVO Art. 5 und 6 und 16 und 17; BDSG; InsO RSB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Privatdarlehen Familie im Plugin Verbraucherinsolvenz Schuldenbere
 
 ## 1. `privatdarlehen-familie`
 
-**Fokus:** Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.; Normanker: InsO Forderungsanmeldung; BGB Darlehen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.; Normanker: InsO Forderungsanmeldung; BGB Darlehen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.
 
@@ -66,7 +66,7 @@ InsO Forderungsanmeldung; BGB Darlehen. Entscheidend ist immer der aktuelle Norm
 
 ## 2. `restschuldbefreiungsantrag`
 
-**Fokus:** Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.; Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.; Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.
 
@@ -105,7 +105,7 @@ InsO §§ 286-303, 287, 300. Entscheidend ist immer der aktuelle Normstand der I
 
 ## 3. `schufa-und-auskunfteien`
 
-**Fokus:** SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.; Normanker: DSGVO Art. 5 und 6 und 16 und 17; BDSG; InsO RSB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.; Normanker: DSGVO Art. 5 und 6 und 16 und 17; BDSG; InsO RSB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.
 

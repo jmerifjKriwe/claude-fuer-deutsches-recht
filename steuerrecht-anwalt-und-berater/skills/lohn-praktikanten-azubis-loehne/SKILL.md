@@ -94,7 +94,7 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 ## Output
 
 - Lohn-Abrechnung mit korrekter SV-Klassifikation.
-- Personengruppen-Schluessel (102 fuer Azubi, 105 fuer Praktikant Pflicht, 109 fuer Praktikant freiwillig kurz).
+- Personengruppen-Schluessel (102 für Azubi, 105 für Praktikant Pflicht, 109 für Praktikant freiwillig kurz).
 - Dokumentation Pflichtpraktikums-Nachweis.
 
 ## Strategie und Praxis-Tipps

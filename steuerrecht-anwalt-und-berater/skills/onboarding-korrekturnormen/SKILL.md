@@ -18,13 +18,13 @@ description: "Systematischer Vergleich der Korrekturnormen — wann ist welche V
 3. Soll eine schlichte Aenderung § 172 Abs. 1 Nr. 2a AO innerhalb der Einspruchsfrist gestellt werden?
 4. Sind neue Tatsachen oder Beweismittel iSd § 173 AO entstanden — und wessen Verschulden steht der Aenderung entgegen?
 5. Liegt eine widerstreitende Festsetzung § 174 AO oder ein Grundlagenbescheid § 175 AO vor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
 - **§ 129 AO** — offenbare Unrichtigkeit.
 - **§ 164 AO** — Vorbehalt der Nachpruefung.
-- **§ 165 AO** — vorlaeufige Festsetzung.
+- **§ 165 AO** — vorläufige Festsetzung.
 - **§ 172 AO** — Aenderung von Steuerbescheiden allgemein.
 - **§ 173 AO** — neue Tatsachen und Beweismittel.
 - **§ 173a AO** — Schreib- und Rechenfehler bei Erklaerung.

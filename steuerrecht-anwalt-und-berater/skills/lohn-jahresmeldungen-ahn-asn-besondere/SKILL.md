@@ -24,7 +24,7 @@ Zum Jahresende sind verschiedene Jahresmeldungen Pflicht: Jahresmeldung DEUEV (L
 5. BG-Lohnnachweis vorbereitet?
 6. Welche Statistik-Meldungen anstehen?
 7. Welche Korrekturen aus dem Vorjahr (Berichtigungs-Meldungen)?
-8. Welcher Mandantenkommunikationsplan fuer LSt-Bescheinigungen?
+8. Welcher Mandantenkommunikationsplan für LSt-Bescheinigungen?
 
 ## Rechtlicher Rahmen
 
@@ -82,7 +82,7 @@ Zum Jahresende sind verschiedene Jahresmeldungen Pflicht: Jahresmeldung DEUEV (L
 
 - Lohnsteuerbescheinigungen an AN versenden (Standard: Anfang Februar).
 - Mandant ueber Beitragsentwicklung informieren (Jahres-Bruttolohnsumme).
-- Wiedervorlage fuer Folgejahr.
+- Wiedervorlage für Folgejahr.
 
 ## Output
 

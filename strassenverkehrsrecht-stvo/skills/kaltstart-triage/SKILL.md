@@ -5,6 +5,23 @@ description: "Straßenverkehrsrecht StVO: Kaltstart, Aktenlandkarte, Rollenklär
 
 # Straßenverkehrsrecht StVO - Allgemeiner Einstieg
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 StVO` — gegenseitige Rücksichtnahme.
+- `§ 3 StVO` — Geschwindigkeit.
+- `§ 5 StVO` — Ueberholen.
+- `§ 24 StVG` — Verkehrsordnungswidrigkeiten.
+- `§ 25 StVG` — Fahrverbot.
+- `§ 28 StVG` — Fahreignungsregister.
+- `§ 49 StVO` — Ordnungswidrigkeiten.
+- `§ 69 StVZO` — Ordnungswidrigkeiten StVZO.
+- `§ 4 BKatV` — Regelfahrverbot.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Aufgabe
 
 Führt in Straßenverkehrsrecht StVO ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.

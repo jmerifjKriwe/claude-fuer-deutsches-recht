@@ -19,7 +19,7 @@ Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR I 5 zur Verein
 
 ## Norm
 
-ALR I 5 §§ — Konventionalstrafe als vereinbarte Geldbusse fuer Vertragsverletzung.
+ALR I 5 §§ — Konventionalstrafe als vereinbarte Geldbusse für Vertragsverletzung.
 
 ## Funktion
 

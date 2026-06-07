@@ -19,13 +19,13 @@ Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbschaft im roemisch
 
 ## Aufgabe
 
-Skill fuer Treuhand und Ersatzerbschaft.
+Skill für Treuhand und Ersatzerbschaft.
 
 ## Fideicommissa
 
 - Treuhaenderische letztwillige Verfuegung.
 - Erbe oder Legatar wird verpflichtet, einen Vermoegensvorteil an einen Dritten weiterzugeben.
-- Ursprung: Schutzinstrument fuer Personen, die nicht erbfaehig waren (z. B. peregrini, Frauen mit Velleianum-Problem).
+- Ursprung: Schutzinstrument für Personen, die nicht erbfaehig waren (z. B. peregrini, Frauen mit Velleianum-Problem).
 
 ## Senatusconsultum Trebellianum (56 n. Chr.)
 
@@ -34,16 +34,16 @@ Skill fuer Treuhand und Ersatzerbschaft.
 
 ## Senatusconsultum Pegasianum (75 n. Chr.)
 
-- Quarta Falcidia: Treuhaender (Erbe) durfte 1/4 der Erbschaft fuer sich behalten.
+- Quarta Falcidia: Treuhaender (Erbe) durfte 1/4 der Erbschaft für sich behalten.
 
 ## Substitutio vulgaris
 
-- Ersatzeinsetzung fuer den Fall, dass der eingesetzte Erbe nicht erbt.
+- Ersatzeinsetzung für den Fall, dass der eingesetzte Erbe nicht erbt.
 - Reihenfolge.
 
 ## Substitutio pupillaris
 
-- Ersatzeinsetzung fuer den Fall, dass das Hauskind (impubes) vor Volljaehrigkeit stirbt.
+- Ersatzeinsetzung für den Fall, dass das Hauskind (impubes) vor Volljaehrigkeit stirbt.
 
 ## Justinian
 

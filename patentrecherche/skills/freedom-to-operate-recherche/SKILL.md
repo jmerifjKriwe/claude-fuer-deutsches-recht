@@ -109,7 +109,7 @@ Bei **Rot-** oder **Gelb-Treffern**:
 
 Bevor die FTO-Analyse begonnen wird, klaere:
 1. Welche Zielmärkte/Validierungsstaaten sind relevant (DE, EP, US, CN)?
-2. Ist die eigene Produktbeschreibung hinreichend konkret fuer den Claim-Vergleich?
+2. Ist die eigene Produktbeschreibung hinreichend konkret für den Claim-Vergleich?
 3. Werden Gebrauchsmuster (§ 1 GebrMG) und SPC (VO EG 469/2009) in der Analyse beruecksichtigt?
 4. Sind laufende Anmeldungen (noch nicht erteilt) in den Datenbanken identifiziert (§ 33 PatG-Risiko)?
 

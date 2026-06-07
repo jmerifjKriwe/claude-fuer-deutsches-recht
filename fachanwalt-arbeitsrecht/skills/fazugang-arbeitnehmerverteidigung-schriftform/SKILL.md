@@ -239,7 +239,7 @@ Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine ne
 ## Anschluss-Skills
 - `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozessstrategie` für Zustellungsdokumentation
 - `ar-kuendigungspruefung-workflow` für vollständige Kündigungsprüfung
-- `spezial-fao-fristen-form-und-zustaendigkeit` für Verfahrensfragen
+- `spezial-fao-fristen-form-und-zuständigkeit` für Verfahrensfragen
 
 ## Quellenregel
 - Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).

@@ -26,7 +26,7 @@ Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpf
 ## Aufopferungsanspruch
 
 - Anker: Einl. §§ 74-75 ALR.
-- "Sonderopfer" — der Buerger erbringt eine Sonderlast fuer die Allgemeinheit (Schutz gegen Seuchen).
+- "Sonderopfer" — der Buerger erbringt eine Sonderlast für die Allgemeinheit (Schutz gegen Seuchen).
 - Entschaedigung verlangt rechtshistorisch zuerst die rechtliche Anerkennung des Eingriffs.
 
 ## Frueheste Klagen
@@ -38,7 +38,7 @@ Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpf
 
 - BGHZ 9 Seite 83 — Aufopferungsanspruch im Polizeischadensfall.
 - Reichsversorgungsgesetz und spaetere Reform.
-- Heute IfSG §§ 60 ff. fuer Impfschaeden.
+- Heute IfSG §§ 60 ff. für Impfschaeden.
 
 ## Pruefraster
 
@@ -52,4 +52,4 @@ Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpf
 
 - Quellenmatrix.
 - Vergleichende Synopse Impfschaden.
-- Memo fuer rechtshistorische Hausarbeit.
+- Memo für rechtshistorische Hausarbeit.

@@ -33,7 +33,7 @@ Triage-Memo mit Rechtsweg, Fristen, Unterlagenliste, Zielbild und passenden Fach
 
 ## Anschluss-Skills
 
-- tk-zustaendigkeits-router-bnetza-vg-lg
+- tk-zuständigkeits-router-bnetza-vg-lg
 - tk-bundesnetzagentur-verfahren-akteneinsicht-fristen
 
 ## Qualitätsregel

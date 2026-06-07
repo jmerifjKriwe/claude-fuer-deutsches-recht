@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-fotoanalyse-baustellen-drohne
-description: "Methodikskill HOAI LPH 8 — Strukturierter fuer die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM fuer Mangelmanagement bei Bauueberwachung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM für Mangelmanagement bei Bauueberwachung im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fotoanalyse Baustellen-Drohne in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Strukturierter fuer die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM fuer Mangelmanagement bei Bauueberwachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM für Mangelmanagement bei Bauueberwachung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,19 +19,19 @@ Methodikskill HOAI LPH 8 — Strukturierter fuer die Fotoanalyse von Baustellen 
 
 ## Spezialwissen
 
-Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geworden: Sie ermöglichen die flaechendeckende Dokumentation grosser Baustellen in wenigen Stunden, decken Maengel auf, die vom Boden aus unsichtbar sind, und liefern massstabstreue Orthofotos fuer As-Built-Dokumentation und Aufmass. Dieser Skill beschreibt den vollstaendigen von der Flugplanung bis zur SAP-PM-Meldungserstellung.
+Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geworden: Sie ermöglichen die flaechendeckende Dokumentation grosser Baustellen in wenigen Stunden, decken Maengel auf, die vom Boden aus unsichtbar sind, und liefern massstabstreue Orthofotos für As-Built-Dokumentation und Aufmass. Dieser Skill beschreibt den vollstaendigen von der Flugplanung bis zur SAP-PM-Meldungserstellung.
 
 ## Bauwerk und Auftrag
 
 - Windpark Neubau Nordsee-Kuestenanlagen: 12 WEA, Fundamentbetonage Orthofotos, Setzungsmonitoring, 18 Befliegungen ueber 14 Monate, Auftraggeber Energiekonzern
-- Hochhaus-Rohbau Frankfurt 24 Geschosse: Monatliche Orthofoto-Befliegung fuer Baufortschritts-Dokumentation und Aufmass-Abgleich, Bausumme 42 Mio. EUR
+- Hochhaus-Rohbau Frankfurt 24 Geschosse: Monatliche Orthofoto-Befliegung für Baufortschritts-Dokumentation und Aufmass-Abgleich, Bausumme 42 Mio. EUR
 - Klaeranlage Neubau Bielefeld: Thermografie-Befliegung Dichtheitskontrolle Beckenwand nach Erstbefuellung, Hotspot-Auswertung
 
 ## Erste Schritte zur Befliegung
 
 1. Flugplanung und Genehmigung: NOTAM-Pruefung airspace.droniq.de, Luftraum-Klasse C oder D bedarf Genehmigung LBA, BVLOS-Betrieb Sondergenehmigung, Koordination mit Bauleiter
 2. Kalibrierung Drohne: IMU-Kalibrierung DJI Mavic 3 Enterprise vor Erstflug, RTK-Basisstation Leica GS18 aufstellen und kalibrieren, GCP-Punkte Ground Control Points einmessen Tachymeter EPSG 25832
-3. Flugmission planen: DJI Pilot 2 App, Ueberlappung Frontal 80 Prozent, Seitlich 70 Prozent, Flughoehe 80-120 m, GSD 2 cm/px fuer Risserkennung
+3. Flugmission planen: DJI Pilot 2 App, Ueberlappung Frontal 80 Prozent, Seitlich 70 Prozent, Flughoehe 80-120 m, GSD 2 cm/px für Risserkennung
 4. Flug durchfuehren: Kontinuierliche Sichtverbindung, Sicherheitsabstand Personen 30 m, Dokumentation Fluganfang und Ende, Wetterbedingungen Wind kleiner 10 m/s
 5. Prozessierung Pix4Dmapper: Import Fotos und GCP-Koordinaten, Orthofoto-Generierung, Punktwolke Dense Cloud, Genauigkeitsbericht GSD und GCP-Residuen
 6. Auswertung und Reporting: Orthofoto in BIM360 importiert, Soll-IFC-Modell ueberlagert, Abweichungen markiert, Export PlanRadar Meldungsliste
@@ -56,7 +56,7 @@ Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geword
 
 ## Foto-, Video- und Dokumentenanalyse
 
-- DJI Mavic 3 Enterprise: 4/3 CMOS Sensor 20 MP, RTK-Modul 1 cm Genauigkeit, Multispektral-Version fuer Vegetation-Index Messung
+- DJI Mavic 3 Enterprise: 4/3 CMOS Sensor 20 MP, RTK-Modul 1 cm Genauigkeit, Multispektral-Version für Vegetation-Index Messung
 - DJI Matrice 300 RTK mit Zenmuse P1: 45 MP Vollformatsensor, Mehrfachkameraversionen, Windwiderstand Stufe 7 Beaufort
 - Pix4Dmapper Photogrammetrie-Software: Orthofoto, DSM, Punktwolke, Volume-Berechnung Aushubmassen
 - DroneDeploy Cloud-Plattform: Automatische Missionplanung, Echtzeit-Kachelverarbeitung, BIM-Overlay-Feature

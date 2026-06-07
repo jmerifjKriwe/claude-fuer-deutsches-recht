@@ -30,7 +30,7 @@ Dieser Skill ermöglicht die gezielte Anpassung einzelner Parameter im Praxispro
 
 ### 1. Profilzustand prüfen
 
-Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` lesen. Falls `[PLATZHALTER]`-Marker vorhanden: zum `regulatorisches-recht-kaltstart-interview` umleiten.
+Praxisprofil aus `~/.claude/plugins/config/claude-für-deutsches-recht/regulatorisches-recht/CLAUDE.md` lesen. Falls `[PLATZHALTER]`-Marker vorhanden: zum `regulatorisches-recht-kaltstart-interview` umleiten.
 
 ### 2. Änderungswunsch klären
 
@@ -72,7 +72,7 @@ Geänderten Abschnitt dem Nutzer zur Bestätigung vorlegen, dann speichern.
 
 ## Zentrale Normen
 
-§§ 48, 49 VwVfG (Ruecknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Aenderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
+§§ 48, 49 VwVfG (Rücknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Aenderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
 
 ## Quellenregel
 
@@ -101,7 +101,7 @@ Keine normativen Anforderungen an das Praxisprofil selbst. Inhaltliche Anforderu
 > |---|---|---|---|
 > | Bundesnetzagentur (BNetzA) | EnWG, TKG | Telekommunikationsregulierung | RSS: bundesnetzagentur.de/RSS |
 >
-> Gespeichert in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` [Geändert am 01.06.2025]
+> Gespeichert in `~/.claude/plugins/config/claude-für-deutsches-recht/regulatorisches-recht/CLAUDE.md` [Geändert am 01.06.2025]
 >
 > Hinweis: Der `aufsichts-feed-monitor` erfasst BNetzA-Einträge ab dem nächsten Lauf.
 

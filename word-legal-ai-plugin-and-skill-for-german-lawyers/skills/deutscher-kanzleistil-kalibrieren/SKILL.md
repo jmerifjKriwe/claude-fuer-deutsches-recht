@@ -68,7 +68,7 @@ Stilprofil:
 - Stilprofil.
 - Kurze Begründung der Stilwahl.
 - Überarbeitete Passage oder Gliederung.
-- Hinweis auf passende Folge-Skills, insbesondere `stil-und-ton-juristische-texte`, `schriftsatz-ueberarbeiten-richterlesbar`, `mandantenmemo-und-partner-update` oder `us-uk-legal-writing-fuer-deutsche`.
+- Hinweis auf passende Folge-Skills, insbesondere `stil-und-ton-juristische-texte`, `schriftsatz-ueberarbeiten-richterlesbar`, `mandantenmemo-und-partner-update` oder `us-uk-legal-writing-für-deutsche`.
 
 ## Qualitäts-Hardening
 

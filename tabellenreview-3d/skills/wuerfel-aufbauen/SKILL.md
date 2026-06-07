@@ -22,7 +22,7 @@ Bevor ein Reviewlauf startet, muss die Würfel-Struktur stehen. Dieser Skill fra
 
 ## Eingaben
 
-- Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md`
+- Praxisprofil unter `~/.claude/plugins/config/claude-für-deutsches-recht/tabellenreview-3d/CLAUDE.md`
 - Projektname (kebab-case)
 - Anwendungsfall (M&A-DD / Immobilien / Vendor / Arbeitsvertrag / Mietvertrag / Anlage / Eigenwürfel)
 - Optional: Vorlage aus dem Plugin (siehe Skills `vorlage-*`)

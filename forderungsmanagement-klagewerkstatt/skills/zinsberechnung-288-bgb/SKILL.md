@@ -5,7 +5,7 @@ description: "Zinsberechnung nach § 288 BGB: Verbraucherverzug 5 Prozentpunkte 
 
 # Zinsberechnung § 288 BGB
 
-Konkrete Berechnung von Verzugszinsen und der Pauschale nach § 288 BGB fuer den Klageantrag und die Forderungsaufstellung.
+Konkrete Berechnung von Verzugszinsen und der Pauschale nach § 288 BGB für den Klageantrag und die Forderungsaufstellung.
 
 ## Zinssaetze im Ueberblick
 
@@ -78,7 +78,7 @@ Glaeubiger kann hoehere Verzugszinsen nach anderem Rechtsgrund verlangen (z.B. v
 ## Mahnkosten als Verzugsschaden § 280 Abs. 1, 2, § 286 BGB
 
 - Erste Mahnung kostet **nichts** (selbst Verzug auslosend).
-- Folgemahnungen: Schadensersatz fuer tatsaechliche Kosten (Porto, Material).
+- Folgemahnungen: Schadensersatz für tatsaechliche Kosten (Porto, Material).
 - Pauschale 2,50 EUR pro Mahnung in der Praxis akzeptiert (LG Berlin 32 O 188/95).
 - Inkassokosten nur in Hoehe einer 1,3 Geschaeftsgebuehr eines Rechtsanwalts (§ 4 Abs. 5 RDGEG).
 

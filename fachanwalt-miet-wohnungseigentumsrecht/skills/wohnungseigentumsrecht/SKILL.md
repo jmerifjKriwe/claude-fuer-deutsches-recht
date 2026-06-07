@@ -51,7 +51,7 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseige
 6. Wie lange wohnt die Mieterseite — Mietdauer entscheidend für Kündigungsfristen § 573c BGB?
 7. Sind Härtegründe iSv § 574 BGB erkennbar — hohes Alter, schwere Krankheit, fehlender Ersatzwohnraum?
 8. Liegt ein Zeitmietvertrag vor — § 575 BGB Voraussetzungen erfüllt?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -280,7 +280,7 @@ im Schriftsatz live ueber dejure.org verifizieren.
 6. Was ist das Erhöhungsziel in EUR/qm — noch innerhalb Kappungsgrenze und ortsüblicher Vergleichsmiete?
 7. Stimmt der Mieter nicht zu — soll Zustimmungsklage § 558b Abs. 2 BGB erhoben werden?
 8. Staffelmiete § 557a BGB oder Indexmiete § 557b BGB vereinbart — diese schließen § 558 BGB-Erhöhung aus.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -314,7 +314,7 @@ im Schriftsatz live ueber dejure.org verifizieren.
 
 Belegt über bundesgerichtshof.de bzw. dejure.org:
 
-- **BGH, Urt. v. 17.12.2025 – VIII ZR 56/25** — Mietpreisbremse §§ 556d ff. BGB greift nur fuer die Mietvereinbarung bei Mietbeginn; eine spaetere einvernehmliche Mietsenkung im laufenden Mietverhaeltnis faellt nicht in den Anwendungsbereich. Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.2025&Aktenzeichen=VIII+ZR+56/25
+- **BGH, Urt. v. 17.12.2025 – VIII ZR 56/25** — Mietpreisbremse §§ 556d ff. BGB greift nur für die Mietvereinbarung bei Mietbeginn; eine spaetere einvernehmliche Mietsenkung im laufenden Mietverhaeltnis faellt nicht in den Anwendungsbereich. Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.2025&Aktenzeichen=VIII+ZR+56/25
 - **BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24** — Vermieter darf das selbstaendige Beweisverfahren nicht dazu nutzen, vor Erhebung einer Zustimmungsklage § 558b BGB ein Sachverstaendigengutachten zur ortsueblichen Vergleichsmiete bzw. zu Wohnwertmerkmalen zu erzwingen; die Mietfindung ist umfassende Rechtsanwendung. Quelle: https://juris.bundesgerichtshof.de (Az.-Suche)
 - **BGH, Urt. v. 26.03.2025 – VIII ZR 283/23** (parallel VIII ZR 280/23, VIII ZR 281/23, VIII ZR 282/23) — Modernisierungsmieterhoehung nach energetischer Modernisierung § 559 Abs. 1 i.V.m. § 555b Nr. 1 BGB setzt nur eine im Zeitpunkt der Mieterhoehungserklaerung absehbare, dauerhafte Endenergieeinsparung voraus; entscheidend ist eine bauphysikalisch begruendete Prognose, nicht der spaetere tatsaechliche Verbrauch. Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.03.2025&Aktenzeichen=VIII+ZR+283/23 ; openJur (VIII ZR 282/23): https://openjur.de/u/2517641.html
 
@@ -480,7 +480,7 @@ Monats kündigen.
 - Gesetz zur Änderung der Regelungen über die zulässige Miethöhe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163), in Kraft 23.07.2025 — Verlaengerung der Mietpreisbremse bis 31.12.2029: https://www.recht.bund.de/bgbl/1/2025/163/VO.html
 - Verifizierte BGH-Rechtsprechung (Stand 05/2026):
  - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse nur bei Mietbeginn): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.2025&Aktenzeichen=VIII+ZR+56/25
- - BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren fuer Mieterhoehung)
+ - BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren für Mieterhoehung)
  - BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 (Modernisierungsmieterhoehung Prognose Endenergieeinsparung): https://openjur.de/u/2517641.html
 - Schmidt/Futterer Mietrecht, aktuelle Aufl.
 - Blank/Börstinghaus Miete, aktuelle Aufl.
@@ -659,7 +659,7 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 ## 10) BGH-Linien (verifizierte Eckpunkte, Stand 05/2026)
 
 - BGH, Urt. v. 05.12.2018 – VIII ZR 271/17 und VIII ZR 67/18: keine Mietminderung bei blosser Schimmelgefahr wegen zeitgemaesser Bauweise (Waermebruecken in Altbau); Mangelbegriff ist anhand der zur Errichtungszeit geltenden technischen Regelwerke zu bestimmen.
-- BGH, Urt. v. 27.05.2020 – VIII ZR 45/19: zur Reichweite des Mieter-Einsichtsrechts in Belege fuer die Betriebskostenabrechnung (Originale; Belege auch fuer Zahlungsfluss).
+- BGH, Urt. v. 27.05.2020 – VIII ZR 45/19: zur Reichweite des Mieter-Einsichtsrechts in Belege für die Betriebskostenabrechnung (Originale; Belege auch für Zahlungsfluss).
 - Aktuelle 2025/2026-Entscheidungen zu Schimmel/Minderung vor Zitierung live ueber dejure.org/openjur.de/bundesgerichtshof.de verifizieren.
 
 ## Anschluss
@@ -702,7 +702,7 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 - **Wohnungseigentumsgesetz (WEG, Fassung seit 01.12.2020):** Ordnungsmäßige Verwaltung §§ 18 ff. WEG, Versammlung und Beschlussfassung §§ 23, 24 WEG, Beschlussanfechtung § 44 WEG, Verwaltungsbeirat § 29 WEG.
 - **BetrKV** und **HeizkostenV** für Nebenkostenabrechnung.
 - **§ 556d ff. BGB Mietpreisbremse**, soweit landesrechtliche Verordnung vorliegt. Verlaengerung bis 31.12.2029 durch Gesetz v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025).
-- **GEG 2024** (Gebaeudeenergiegesetz, in Kraft 01.01.2024): § 71 GEG 65-Prozent-Pflicht erneuerbare Energien fuer neue Heizungen; § 71f GEG Uebergangsregelung an kommunale Waermeplanung gekoppelt (Gemeinden > 100.000 Einwohner: bis 30.06.2026; > 10.000: bis 30.06.2028 nach § 5 GEG).
+- **GEG 2024** (Gebaeudeenergiegesetz, in Kraft 01.01.2024): § 71 GEG 65-Prozent-Pflicht erneuerbare Energien für neue Heizungen; § 71f GEG Uebergangsregelung an kommunale Waermeplanung gekoppelt (Gemeinden > 100.000 Einwohner: bis 30.06.2026; > 10.000: bis 30.06.2028 nach § 5 GEG).
 - **CO2KostAufG:** Wohngebäude mit Stufenmodell (§§ 5 bis 7 CO2KostAufG); Nichtwohngebäude derzeit § 8 Abs. 1 und 2 CO2KostAufG mit hälftiger Aufteilung bzw. maximal 50 Prozent Mieteranteil. Ein Stufenmodell für Nichtwohngebäude ist nach der Evaluation 04/2026 weiter Prüf- und Entwicklungsthema, aber noch nicht geltendes Abrechnungsmodell.
 
 ## Typische Mandate
@@ -730,11 +730,11 @@ Belegt ueber bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung 
 - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse nur bei Mietbeginn)
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23 (Untervermietung mit Gewinn nicht "berechtigtes Interesse")
 - BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 u.a. (Modernisierungsmieterhoehung / Prognose Endenergieeinsparung)
-- BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren fuer Mieterhoehung)
+- BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren für Mieterhoehung)
 
 **V. Zivilsenat — WEG-Recht:**
 - BGH, Urt. v. 14.02.2025 – V ZR 236/23 (Erstmalige Belastung mit Erhaltungskosten nur bei sachlichem Grund)
-- BGH, Urt. v. 14.02.2025 – V ZR 128/23 (Aenderung Verteilungsschluessel auch fuer Erhaltungsruecklage)
+- BGH, Urt. v. 14.02.2025 – V ZR 128/23 (Aenderung Verteilungsschluessel auch für Erhaltungsruecklage)
 - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Waermepumpe; Vorbefassung und unzumutbarer Nachteil)
 - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Bauliche Veraenderung Klimaanlage; unbillige Benachteiligung)
 - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit bei verspaeteter Zustellung der Anfechtungsklage)
@@ -804,7 +804,7 @@ GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht 
 6. Liegt Nichtigkeit nahe (Beschlusskompetenz fehlt, zwingendes Recht verletzt) — zeitlich unbegrenzte Feststellungsklage?
 7. Streitwert § 49 GKG — Gesamtinteresse aller Eigentümer geschätzt?
 8. Verwalter — wer vertritt die GdWE; liegt Interessenkonflikt des Verwalters vor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -827,8 +827,8 @@ GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht 
 Belegt ueber bundesgerichtshof.de bzw. dejure.org:
 
 - **BGH, Beschl. v. 07.11.2024 – V ZB 6/24** — Bei verspaeteter Klagezustellung durch das Gericht trifft den Anfechtungsklaeger eine Erkundigungsobliegenheit; im Regelfall innerhalb eines Jahres nach Ablauf der Monatsfrist § 45 Satz 1 WEG.
-- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentuemer mit Erhaltungskosten eines nur einem Teil der Eigentuemer dienenden Gebaeudeteils widerspricht idR ordnungsmaessiger Verwaltung; nur bei sachlichem Grund anders. Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2025&nr=140714&linked=urt&Blank=1&file=dokument.pdf
-- **BGH, Urt. v. 14.02.2025 – V ZR 128/23** — Beschlusskompetenz fuer Aenderung des Verteilungsschluessels umfasst auch die Verteilung fuer die Erhaltungsruecklage (§ 16 Abs. 2 Satz 2 WEG). Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23
+- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentuemer mit Erhaltungskosten eines nur einem Teil der Eigentuemer dienenden Gebaeudeteils widerspricht idR ordnungsmäßiger Verwaltung; nur bei sachlichem Grund anders. Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2025&nr=140714&linked=urt&Blank=1&file=dokument.pdf
+- **BGH, Urt. v. 14.02.2025 – V ZR 128/23** — Beschlusskompetenz für Aenderung des Verteilungsschluessels umfasst auch die Verteilung für die Erhaltungsruecklage (§ 16 Abs. 2 Satz 2 WEG). Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23
 - **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Vorbefassungsobliegenheit bei Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG (Waermepumpe): es genuegt, in der Versammlung einen Beschluss erbeten zu haben; die Klagezulaessigkeit haengt nicht davon ab, ob Antragsteller weitere Informationen vorgelegt hat.
 - **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderungen (Klimaanlage): Beurteilung der unbilligen Benachteiligung gem. § 20 Abs. 4 WEG; unmittelbare Auswirkungen sind massgeblich. Dejure: https://dejure.org/2025,9080
 

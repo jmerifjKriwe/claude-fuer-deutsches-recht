@@ -100,7 +100,7 @@ Präzise Fragen z. B.:
 
 ### Aktuelle Rechtsprechung
 
-- **BFH, Urteil vom 03.07.2025 — IV R 6/23**: Bei gemeinsamem Antrag mehrerer Antragsteller (z.B. alle Gesellschafter einer GmbH) zu inhaltlich identischem Sachverhalt darf die Finanzbehoerde nur eine einzige Gebuehr nach § 89 Abs. 3 ff. AO erheben. Mitantragsteller haften als Gesamtschuldner. Volltext ueber BFH-Datenbank (STRE202520244). Relevant fuer die Antragsgestaltung bei mehreren Beteiligten.
+- **BFH, Urteil vom 03.07.2025 — IV R 6/23**: Bei gemeinsamem Antrag mehrerer Antragsteller (z.B. alle Gesellschafter einer GmbH) zu inhaltlich identischem Sachverhalt darf die Finanzbehoerde nur eine einzige Gebuehr nach § 89 Abs. 3 ff. AO erheben. Mitantragsteller haften als Gesamtschuldner. Volltext ueber BFH-Datenbank (STRE202520244). Relevant für die Antragsgestaltung bei mehreren Beteiligten.
 
 ## Workflow
 

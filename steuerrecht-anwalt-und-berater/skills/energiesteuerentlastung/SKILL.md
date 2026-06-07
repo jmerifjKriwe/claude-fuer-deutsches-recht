@@ -18,14 +18,14 @@ description: "Bearbeitung von Entlastungsantraegen nach Energiesteuergesetz und 
 3. Liegt ein anerkanntes Energiemanagementsystem oder Spitzenausgleichsverfahren vor?
 4. Erfuellt das Unternehmen die Voraussetzungen produzierendes Gewerbe iSd § 2 Nr. 3 StromStG?
 5. Sind De-minimis- und EU-Beihilferegeln gewahrt?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **§ 9b StromStG** — Steuerentlastung fuer produzierendes Gewerbe.
+- **§ 9b StromStG** — Steuerentlastung für produzierendes Gewerbe.
 - **§ 10 StromStG** — Spitzenausgleich.
-- **§ 53 EnergieStG** — Entlastung fuer Erdgas.
-- **§ 54 EnergieStG** — Entlastung fuer produzierendes Gewerbe.
+- **§ 53 EnergieStG** — Entlastung für Erdgas.
+- **§ 54 EnergieStG** — Entlastung für produzierendes Gewerbe.
 - **§ 55 EnergieStG** — Spitzenausgleich.
 
 ## Aktuelle Rechtsprechung

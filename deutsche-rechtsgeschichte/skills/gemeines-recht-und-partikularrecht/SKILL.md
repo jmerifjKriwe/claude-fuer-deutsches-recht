@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 1
 
 Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhun
 
 ## Worum es geht
 
-Das Verhaeltnis von gemeinrechtlicher Doktrin (ius commune, roemisch-kanonisch) und territorialem Partikularrecht (Stadtrechte, Landrechte, Feudalrechte) praegt die Rechtswirklichkeit des fruehneuzeitlichen Deutschlands. Das gemeine Recht galt subsidiaar: Es trat zurueck, wenn Partikularrecht vorhanden war. In der Praxis war die Trennung fliessend: Gerichte wandten das gelehrte Recht an, auch wo Partikularrecht bestand. Das ALR 1794 versuchte, in Preussen das Nebeneinander zu beenden. Erst das BGB 1900 schuf endgueltig einen einheitlichen zivilrechtlichen Rechtsraum fuer das gesamte Deutsche Reich.
+Das Verhaeltnis von gemeinrechtlicher Doktrin (ius commune, roemisch-kanonisch) und territorialem Partikularrecht (Stadtrechte, Landrechte, Feudalrechte) praegt die Rechtswirklichkeit des fruehneuzeitlichen Deutschlands. Das gemeine Recht galt subsidiaar: Es trat zurueck, wenn Partikularrecht vorhanden war. In der Praxis war die Trennung fliessend: Gerichte wandten das gelehrte Recht an, auch wo Partikularrecht bestand. Das ALR 1794 versuchte, in Preussen das Nebeneinander zu beenden. Erst das BGB 1900 schuf endgueltig einen einheitlichen zivilrechtlichen Rechtsraum für das gesamte Deutsche Reich.
 
 ## Kernnormen / Kernquellen
 
@@ -47,7 +64,7 @@ Das Verhaeltnis von gemeinrechtlicher Doktrin (ius commune, roemisch-kanonisch) 
 
 - ALR: historische Druckausgaben und ALEX/OeNB
 - Gemeines Recht: Dernburg Pandekten (6. Aufl. 1884-1887) als Schluessellehrbuch
-- EGBGB: gesetze-im-internet.de fuer aktuell geltende Uebergangsvorschriften
+- EGBGB: gesetze-im-internet.de für aktuell geltende Uebergangsvorschriften
 - Coing Handbuch (1973-88): Europaeische Kontextualisierung des gemeinen Rechts
 
 ## Output

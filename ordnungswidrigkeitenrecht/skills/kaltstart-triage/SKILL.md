@@ -5,6 +5,24 @@ description: "Ordnungswidrigkeitenrecht: Kaltstart, Aktenlandkarte, Rollenkläru
 
 # Ordnungswidrigkeitenrecht - Allgemeiner Einstieg
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Hoehe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Aufgabe
 
 Führt in Ordnungswidrigkeitenrecht ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.

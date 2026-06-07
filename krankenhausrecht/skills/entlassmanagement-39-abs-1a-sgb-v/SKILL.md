@@ -23,7 +23,7 @@ Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassmanagement, Pat
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussversorgung sichern — § 39 Abs. 1a SGB V. Kernelemente: schriftliche Patienteneinwilligung, Entlassmanagementplan, befristete Verordnungsbefugnis fuer Arzneimittel, Heil-/Hilfsmittel, Soziotherapie, AU-Bescheinigung; Uebergabe an Vertragsarzt.
+Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussversorgung sichern — § 39 Abs. 1a SGB V. Kernelemente: schriftliche Patienteneinwilligung, Entlassmanagementplan, befristete Verordnungsbefugnis für Arzneimittel, Heil-/Hilfsmittel, Soziotherapie, AU-Bescheinigung; Uebergabe an Vertragsarzt.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegt schriftliche Patienteneinwilligung vor (Modul der Aufnahme oder gesondert)?
@@ -40,7 +40,7 @@ Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussver
 - **SGB XI** Pflegeueberleitung.
 - **PatientenrechteG / BGB §§ 630a ff.** Behandlungsvertrag, Aufklaerung.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Einwilligung einholen:** Schriftliche oder dokumentierte Einwilligung zum Entlassmanagement bei Aufnahme oder spaetestens vor Entlassung.
 2. **Bedarfsabschaetzung:** Pflegeeinstufung, Reha-Bedarf, Soziotherapie, Hilfsmittel, Heilmittel, Arzneimittel.
 3. **Entlassplan erstellen:** Konkrete Massnahmen, Ansprechpartner, Termine.

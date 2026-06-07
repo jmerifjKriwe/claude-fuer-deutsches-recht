@@ -97,7 +97,7 @@ Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (d
 
 - soldatengesetz-rechtsstellung-grundpflichten
 - disziplinarverfahren-intake
-- truppendienstgericht-zustaendigkeit-verfahren
+- truppendienstgericht-zuständigkeit-verfahren
 - gerichtliches-disziplinarverfahren-soldat
 - wehrstrafrecht-fahnenflucht-gehorsamsverweigerung-schnittstelle
 - rechtsbeistand-im-disziplinarverfahren

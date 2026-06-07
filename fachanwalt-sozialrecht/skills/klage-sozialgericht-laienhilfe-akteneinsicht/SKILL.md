@@ -13,9 +13,9 @@ description: "Klage Sozialgericht Laienhilfe Akteneinsicht im Plugin Fachanwalt 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `klage-sozialgericht` | Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden. §§ 87 ff. SGG Klagefrist. Prüfraster: Klagefrist 1 Monat nach Widerspruchsbescheid § 87 Abs. 1 SGG kein Anwaltszwang vor SG beA-Versandpflicht sachliche Zuständigkeit § 8 SGG örtliche Zuständigkeit § 57 SGG PKH-Antrag § 73a SGG. Output: Klageschrift SG mit Anlagenverzeichnis Beweisangeboten und PKH-Antrag. Abgrenzung zu eilantrag-sozialrecht (Eilrechtsschutz) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsstufe). |
-| `laienhilfe-akteneinsicht-laie` | Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-arbeitslosengeld-sperrzeit` | Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-asylblg` | Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-akteneinsicht-laie` | Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-arbeitslosengeld-sperrzeit` | Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-asylblg` | Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -141,7 +141,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `laienhilfe-akteneinsicht-laie`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Akteneinsicht Laie
 
@@ -164,7 +164,7 @@ Dieser Skill erklaert **Akteneinsicht Laie** so, dass auch Menschen ohne juristi
 - Akteneinsicht im Gerichtsverfahren: § 120 SGG – durch das Gericht; bei Bevollmaechtigtem auch Aktenversendung in dessen Buero.
 - Schwerbehindertenakten / medizinische Gutachten: § 25 Abs. 3 SGB X – ggf. eingeschraenkt; bei psychiatrischen Gutachten Recht auf Vermittlung durch Arzt, wenn Schaden droht.
 - Datenschutz Dritter: § 25 Abs. 3 SGB X – Daten Dritter koennen geschwaerzt werden.
-- Praxis-Tipp: Antrag schriftlich, mit Aktenzeichen und Angabe "zur Wahrnehmung rechtlicher Interessen". Bei Behoerde i.d.R. innerhalb 4 Wochen Reaktion. Bei Verzoegerung Untaetigkeitsmitteilung mit Frist. Akte vollstaendig kopieren lassen, weil im Widerspruchs-/Klageverfahren Akteneinsicht Grundlage jeder Stellungnahme ist.
+- Praxis-Tipp: Antrag schriftlich, mit Aktenzeichen und Angabe "zur Wahrnehmung rechtlicher Interessen". Bei Behörde i.d.R. innerhalb 4 Wochen Reaktion. Bei Verzoegerung Untaetigkeitsmitteilung mit Frist. Akte vollstaendig kopieren lassen, weil im Widerspruchs-/Klageverfahren Akteneinsicht Grundlage jeder Stellungnahme ist.
 
 ## Erst sortieren
 
@@ -219,7 +219,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-arbeitslosengeld-sperrzeit`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Arbeitslosengeld Sperrzeit
 
@@ -298,7 +298,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-asylblg`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Asylblg
 
@@ -358,7 +358,7 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
 ## AsylbLG - Themenspezifika
-- **Rechtsgrundlage:** Asylbewerberleistungsgesetz (AsylbLG); zustaendig: regelmaessig Sozialamt der Kommune; bei Aufnahmeeinrichtung Land. Klage zum Sozialgericht (§ 51 I Nr. 6a SGG).
+- **Rechtsgrundlage:** Asylbewerberleistungsgesetz (AsylbLG); zuständig: regelmaessig Sozialamt der Kommune; bei Aufnahmeeinrichtung Land. Klage zum Sozialgericht (§ 51 I Nr. 6a SGG).
 - **Personenkreis § 1 AsylbLG:** Asylbewerber, Geduldete (§ 60a AufenthG), Personen mit Aufenthaltsgestattung, vollziehbar Ausreisepflichtige.
 - **Leistungsstufen:**
  - **Grundleistungen § 3 AsylbLG** in den ersten 36 Monaten (regelmaessig Sachleistungen oder Geldleistungen, ergaenzende Leistungen Bildung-und-Teilhabe wie SGB II).

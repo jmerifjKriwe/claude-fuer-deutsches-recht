@@ -1,18 +1,18 @@
 ---
 name: stellungnahme-zum-bundestag-anhoerung
-description: "Vorbereitung einer Anhoerung im federfuehrenden Ausschuss des Bundestages. Beschreibt typische Anhoerungssituation NKR-Vertretung muendliche Eingangsaussage Vorbereitung Folienpaket Antworten auf Abgeordnetenfragen und Folge-Stellungnahme. Mit Mustersaetzen Frage-Antwort-Vorlagen und Dramaturgie-Hinweisen."
+description: "Vorbereitung einer Anhörung im federfuehrenden Ausschuss des Bundestages. Beschreibt typische Anhörungssituation NKR-Vertretung muendliche Eingangsaussage Vorbereitung Folienpaket Antworten auf Abgeordnetenfragen und Folge-Stellungnahme. Mit Mustersaetzen Frage-Antwort-Vorlagen und Dramaturgie-Hinweisen."
 ---
 
-# NKR-Stellungnahme zum Bundestag (Anhoerung)
+# NKR-Stellungnahme zum Bundestag (Anhörung)
 
 ## Worum geht es konkret
 
-Bei wesentlichen Vorhaben laedt der federfuehrende Ausschuss den NKR zur Anhoerung. Diese ist neben der schriftlichen Stellungnahme eine zentrale oeffentliche Wirksamkeit des NKR. Der Skill bereitet Eingangsaussage, Folien und Antworten vor.
+Bei wesentlichen Vorhaben laedt der federfuehrende Ausschuss den NKR zur Anhörung. Diese ist neben der schriftlichen Stellungnahme eine zentrale öffentliche Wirksamkeit des NKR. Der Skill bereitet Eingangsaussage, Folien und Antworten vor.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Ausschuss laedt NKR zur Anhoerung
-- Vorbereitung des Anhoerungstermins
+- Ausschuss laedt NKR zur Anhörung
+- Vorbereitung des Anhörungstermins
 - Eingangsaussage muss geschrieben werden
 - Antworten auf typische Abgeordnetenfragen brauchen Schablonen
 
@@ -21,14 +21,14 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 ## Rechtlicher und methodischer Rahmen
 
 - **NKRG** § 6 — Stellungnahme an Bundestag
-- **GO BT** §§ 70 ff. — Anhoerungen im Ausschuss
-- **NKR-Jahresbericht** — Praxis der Anhoerungen
+- **GO BT** §§ 70 ff. — Anhörungen im Ausschuss
+- **NKR-Jahresbericht** — Praxis der Anhörungen
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Vorbereitung
 
-1. Schriftliche Stellungnahme vor Anhoerung uebersandt
+1. Schriftliche Stellungnahme vor Anhörung uebersandt
 2. Eingangsaussage (5-10 min) verfassen
 3. Folienpaket (maximal 6 Folien) mit Tabellen
 4. Q&A-Vorbereitung: typische Fragen, Antwort-Schablonen
@@ -67,7 +67,7 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
-- (Innensicht: was vermeiden in Anhoerung)
+- (Innensicht: was vermeiden in Anhörung)
 - Politische Bewertung (Abgrenzung beachten)
 - Personliche Meinungen statt NKR-Position
 - Ueberlange Eingangsaussage
@@ -78,7 +78,7 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 
 | Format | Plus | Minus |
 |---|---|---|
-| Sehr kurze Eingangsaussage (3-5 min) | mehr Raum fuer Q&A | weniger inhaltliche Klarheit |
+| Sehr kurze Eingangsaussage (3-5 min) | mehr Raum für Q&A | weniger inhaltliche Klarheit |
 | Standard (8-10 min) | balance | klassisch |
 | Lang (15 min) | umfassend | wenig Q&A-Zeit |
 
@@ -94,7 +94,7 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 >
 > Allerdings hat der NKR erhebliche Bedenken zur konkreten Ausgestaltung. Drei Punkte:
 >
-> Erstens. Die monatliche Lebensbescheid-Pflicht erzeugt unverhaeltnismaessigen Erfuellungsaufwand. Bei rund 1,8 Mio im Handelsregister eingetragenen Gesellschaften und einem ausgewiesenen Aufwand von rund 180 Euro pro Jahr und Gesellschaft betraegt der Erfuellungsaufwand fuer die Wirtschaft rund 320 Mio Euro jaehrlich. Eine jaehrliche Bestaetigung mit ereignisorientierter Pflicht-Nachmeldung wuerde den Aufwand auf rund 80 Mio Euro reduzieren.
+> Erstens. Die monatliche Lebensbescheid-Pflicht erzeugt unverhaeltnismäßigen Erfuellungsaufwand. Bei rund 1,8 Mio im Handelsregister eingetragenen Gesellschaften und einem ausgewiesenen Aufwand von rund 180 Euro pro Jahr und Gesellschaft betraegt der Erfuellungsaufwand für die Wirtschaft rund 320 Mio Euro jaehrlich. Eine jaehrliche Bestaetigung mit ereignisorientierter Pflicht-Nachmeldung wuerde den Aufwand auf rund 80 Mio Euro reduzieren.
 >
 > Zweitens. Der Entwurf sieht drei parallele technische Standards vor. Der NKR empfiehlt, sich auf eine zentrale Loesung ueber das Handelsregistergericht zu konzentrieren, die das Once-Only-Prinzip umsetzt.
 >
@@ -109,10 +109,10 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 - "Der NKR bietet an, im Rahmen einer Folge-Stellungnahme zu konkretisierten Aenderungsantraegen erneut Stellung zu nehmen."
 - "Fuer Rueckfragen steht das Sekretariat des NKR jederzeit zur Verfuegung."
 
-## Typische Fehler in Anhoerungen
+## Typische Fehler in Anhörungen
 
 - Politische Bewertung statt methodischer Position
-- Spekulationen ueber andere Anhoerungsgaeste
+- Spekulationen ueber andere Anhörungsgaeste
 - Folien mit zu viel Text
 - Kein klares Bild der Hauptempfehlungen
 - Auf Fragen unklar oder weitschweifig antworten
@@ -123,11 +123,11 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 - `nkr-stellungnahme-mahnender-charakter-grenzen`
 - `nkr-stellungnahme-pressepolitik-und-jahresbericht`
 - `nkr-verfahrensgang-referentenentwurf-bis-bundestag`
-- `legistik-werkstatt/spezial-bundestag-fristen-form-und-zustaendigkeit`
+- `legistik-werkstatt/spezial-bundestag-fristen-form-und-zuständigkeit`
 
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
 - GO BT §§ 70 ff.
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Praxis der Anhoerungen
+- NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Praxis der Anhörungen
 - Live verifizieren ueber [www.bundestag.de](https://www.bundestag.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

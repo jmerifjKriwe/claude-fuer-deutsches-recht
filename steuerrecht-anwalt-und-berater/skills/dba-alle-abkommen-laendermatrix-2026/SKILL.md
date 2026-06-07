@@ -55,7 +55,7 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 - **VAE und Saudi-Arabien**: kein umfassendes DBA (kuendigung VAE 31.12.2021; Saudi-Arabien nicht im Einkommensteuer-DBA-Netz). Nur Spezialabkommen pruefen.
 - **Belarus / Iran / Syrien**: Sanktionsrechtliche Beschraenkungen (EU-Sanktionsregimes) gehen DBA vor — pruefen.
 - **Ehemalige UdSSR-Staaten**: einzelne DBA mit Fortwirkung (Russland, Ukraine, Belarus, Kasachstan, Usbekistan, Aserbaidschan etc.); pruefen, ob nationales Recht der Fortwirkung folgt.
-- **Ehemalige Jugoslawien-Staaten**: Fortwirkung Jugoslawien-DBA fuer Bosnien-Herzegowina, Nordmazedonien, Kosovo; eigene DBA fuer Slowenien, Kroatien, Serbien-Montenegro, Albanien — Fortgeltung im Einzelfall.
+- **Ehemalige Jugoslawien-Staaten**: Fortwirkung Jugoslawien-DBA für Bosnien-Herzegowina, Nordmazedonien, Kosovo; eigene DBA für Slowenien, Kroatien, Serbien-Montenegro, Albanien — Fortgeltung im Einzelfall.
 
 ## Trade-off-Tabelle
 
@@ -70,7 +70,7 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 - **Memo schreibt "DBA gilt", ohne BGBl-Stelle zu nennen**.
 - **MLI-Status nicht erwaehnt**, obwohl beide Staaten ratifiziert haben und Wirksamkeitsdatum erreicht ist.
 - **Fortwirkungs-DBA (UdSSR/Jugoslawien) nicht geprueft** bei Nachfolgestaaten.
-- **Suspendierung Russland uebersehen** fuer Veranlagungszeitraeume ab 2024.
+- **Suspendierung Russland uebersehen** für Veranlagungszeitraeume ab 2024.
 - **Sanktionsrecht (EU, US-OFAC, BAFA) nicht beruecksichtigt** bei Iran, Belarus, Russland.
 - **Erbschaftsteuer-DBA mit Einkommensteuer-DBA verwechselt** — getrennte Abkommensreihen.
 - **EU/EWR-Status falsch**: Norwegen/Island/Liechtenstein sind EWR, aber nicht EU — MTRL/ZinsLizenzRL gelten nicht direkt.
@@ -113,7 +113,7 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 2. **DBA-Text** ueber bundesfinanzministerium.de beziehen.
 3. **MLI-Status** ueber OECD-Matching-Database pruefen.
 4. **Regionenrouter-Skill** als Pfad B nutzen.
-5. **All-Country-Memo-Generator** fuer das Memo selbst.
+5. **All-Country-Memo-Generator** für das Memo selbst.
 6. **Querverweis auf relevante Querschnitts-Skills** (Methodenartikel, Quellensteuer, MAP).
 
 ## Qualitäts-Hardening

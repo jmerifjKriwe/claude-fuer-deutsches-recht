@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-pflegeheim-brandabschnitte
-description: "Bauueberwachung nach HOAI LPH 8 fuer Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM fuer Pflegeheimbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM für Pflegeheimbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Pflegeheim Brandabschnitte (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM fuer Pflegeheimbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM für Pflegeheimbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ Bauueberwachung nach HOAI LPH 8 fuer Pflegeheime und Seniorenresidenzen — Bran
 
 Pflegeheime sind Sonderbauten nach LBO mit erhoehten Anforderungen an Fluchtwegsicherung und Brandschutz.
 Die Bauueberwachung nach HOAI LPH 8 prueft Brandabschnittsgrenzen, Rauchschutztueren, Pflegezimmer-Barrierefreiheit und Schallschutz.
-Besonderen Schwerpunkt bilden Flucht- und Rettungswege fuer Menschen mit eingeschraenkter Mobilitaet.
+Besonderen Schwerpunkt bilden Flucht- und Rettungswege für Menschen mit eingeschraenkter Mobilitaet.
 
 ## Bauwerk und Auftrag
 
@@ -36,7 +36,7 @@ Besonderen Schwerpunkt bilden Flucht- und Rettungswege fuer Menschen mit eingesc
 3. Flurbreite Fluchtweg: min. 2.0 m licht nach Pflege-Richtlinie NRW oder LBO-Sonderbauvorschrift
 4. Barrierefreie Pflegezimmer: Bewegungsflaeche 150 cm x 150 cm, Tueroeffnung min. 90 cm lichte Breite
 5. Rauchmeldernetz: Rauch- und Brandmeldeanlage DIN 14675 Klasse 3, Aufschaltung BMA-Zentrale und Feuerwehr
-6. Aufzug fuer Liegebetten: min. 1.10 m x 2.10 m Kabinengrundriss, DIN EN 81-70 Barrierefreiheit
+6. Aufzug für Liegebetten: min. 1.10 m x 2.10 m Kabinengrundriss, DIN EN 81-70 Barrierefreiheit
 
 ## Normen und Rechtsrahmen
 
@@ -59,7 +59,7 @@ Besonderen Schwerpunkt bilden Flucht- und Rettungswege fuer Menschen mit eingesc
 ## Foto-, Video- und Dokumentenanalyse
 
 - PlanRadar Pflegeheim: Brandschutz-Mangel mit Foto, Kategorie Tueren/Fluchtwege/BMA, Verantwortlicher
-- Drohnenflug Aussenanlagen: Rampen, Wege, Stellplaetze, Beleuchtung fuer barrierefreies Konzept
+- Drohnenflug Aussenanlagen: Rampen, Wege, Stellplaetze, Beleuchtung für barrierefreies Konzept
 - Brandmeldeanlage Abnahmedokumentation: Melderlistenprotokoll, Funktionspruefung je Raum und Zone
 - Fotos Brandschutztuer Feststellanlage: Ausloeser, Rauchschutzprofil, Zulassung Z-6.20 am Bauteil
 - Barrierefreiheit-Messung: Schwellenhoehe, Bewegungsflaeche mit Massstab, Haltegriff-Fotodokumentation
@@ -68,9 +68,9 @@ Besonderen Schwerpunkt bilden Flucht- und Rettungswege fuer Menschen mit eingesc
 
 - SAP PM EAM Pflegeheim: Equipment Brandschutztuer, Aufzug, BMA-Zentrale, Wartungsplaene
 - SAP PM Meldung M2: Brandschutztuer klemmt, Schadenscode, Prioritaet 2-Normal, Verantwortlicher
-- PlanRadar Sammelreport: Maengelreport je Gewerk (Brandschutz/Barrierefreiheit/TGA) fuer Betreiber
+- PlanRadar Sammelreport: Maengelreport je Gewerk (Brandschutz/Barrierefreiheit/TGA) für Betreiber
 - RIB iTWO: Schlusskostenfeststellung Pflegeheim, Gewerk-Abrechnung, Nachtragsprotokoll
-- Dalux BIM-Betrieb: Brandabschnittsgrenzen im IFC-Modell fuer Betreiber-Facility-Management
+- Dalux BIM-Betrieb: Brandabschnittsgrenzen im IFC-Modell für Betreiber-Facility-Management
 
 ## Typische Fallstricke
 

@@ -125,7 +125,7 @@ Aggregierter Bericht alle drei Monate mit:
 
 Bevor die Monitoring-Konfiguration eingerichtet wird, klaere:
 1. Sind alle relevanten Konkurrenten-Anmelder-Namen (inkl. Tochtergesellschaften und Strohmann-Kanzleien) erfasst?
-2. Welche CPC/IPC-Klassen und Schluesselbegriffe sollen fuer das Keyword-Monitoring eingesetzt werden?
+2. Welche CPC/IPC-Klassen und Schluesselbegriffe sollen für das Keyword-Monitoring eingesetzt werden?
 3. Ist eine Einspruchsfrist-Ueberwachung (9 Monate nach Erteilung, § 59 PatG / Art. 99 EPU) eingerichtet?
 4. Wird die 18-Monats-Veroeffentlichungsverzoegerung in der Strategieplanung beruecksichtigt?
 

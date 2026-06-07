@@ -47,7 +47,7 @@ konsultation:
  eigentuemer: "[Name / Team]"
 ```
 
-Datei schreiben: `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/comment-tracker.yaml`
+Datei schreiben: `~/.claude/plugins/config/claude-für-deutsches-recht/regulatorisches-recht/comment-tracker.yaml`
 
 ### 2. Relevanzprüfung
 
@@ -127,7 +127,7 @@ einreichungsbestaetigung: "[Aktenzeichen / Eingangsbestätigung]"
 
 ## Zentrale Normen (Paragrafenkette)
 
-§§ 47-51 GGO (Verbands-Anhoerung, Stellungnahme-Verfahren) — Art. 41 GRCh (Recht auf gute Verwaltung, Anhoerungsrecht) — §§ 28, 29 VwVfG (Anhoerungsrecht im Verwaltungsverfahren) — §§ 2, 3 UmwRG (Verbandsklage, Stellungnahme)
+§§ 47-51 GGO (Verbands-Anhörung, Stellungnahme-Verfahren) — Art. 41 GRCh (Recht auf gute Verwaltung, Anhörungsrecht) — §§ 28, 29 VwVfG (Anhörungsrecht im Verwaltungsverfahren) — §§ 2, 3 UmwRG (Verbandsklage, Stellungnahme)
 
 ## Quellenregel
 

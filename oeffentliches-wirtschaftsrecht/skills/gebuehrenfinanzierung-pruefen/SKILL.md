@@ -3,7 +3,7 @@ name: gebuehrenfinanzierung-pruefen
 description: "Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Gebührenfinanzierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Gebuehrenfinanzierung Pruefen
+# Gebührenfinanzierung Pruefen
 
 ## Arbeitsbereich
 
@@ -19,7 +19,7 @@ description: "Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Geb
 
 ## Arbeitsauftrag
 
-Gebuehrenfinanzierung Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Öffentliches Wirtschaftsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Gebührenfinanzierung Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Öffentliches Wirtschaftsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 

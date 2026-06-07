@@ -12,9 +12,9 @@ description: "Laienhilfe Vollmacht Betreuung Widerspruch im Plugin Fachanwalt So
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-vollmacht-betreuung-angehoerige` | Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-widerspruch-einfach` | Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-wohngeld-kinderzuschlag-schnittstelle` | Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-vollmacht-betreuung-angehoerige` | Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-widerspruch-einfach` | Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-wohngeld-kinderzuschlag-schnittstelle` | Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 | `long-covid-akte-und-tagebuch` | Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.; Normanker: SGB X §§ 20 und 21 und 25; SGG § 84, § 87; SGB VI/SGB IX/SGB V je nach Ziel; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ description: "Laienhilfe Vollmacht Betreuung Widerspruch im Plugin Fachanwalt So
 
 ## 1. `laienhilfe-vollmacht-betreuung-angehoerige`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Vollmacht Betreuung Angehoerige
 
@@ -97,7 +97,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-widerspruch-einfach`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Widerspruch Einfach
 
@@ -166,7 +166,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-wohngeld-kinderzuschlag-schnittstelle`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Wohngeld Kinderzuschlag Schnittstelle
 

@@ -18,7 +18,7 @@ description: "Geschaeftsfuehrung ohne Auftrag (negotiorum gestio) im ALR. Skill 
 
 ## Rechtsfolgen
 
-- Aufwendungsersatz fuer den Geschaeftsfuehrer.
+- Aufwendungsersatz für den Geschaeftsfuehrer.
 - Bei pflichtwidriger Geschaeftsfuehrung Schadensersatz an Geschaeftsherrn.
 
 ## Sonderfaelle

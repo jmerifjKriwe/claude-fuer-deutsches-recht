@@ -43,9 +43,9 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Executive Summary KI-Richtlinie erstellen | Summary nach Schema; Template unten |
-| Variante A — Nur fuer Fuehrungsebene kein Technik-Detail | Managementfassung ohne technische Spezifikationen |
+| Variante A — Nur für Fuehrungsebene kein Technik-Detail | Managementfassung ohne technische Spezifikationen |
 | Variante B — Summary soll Mandanten ueberzeugen nicht intern | Externe Kommunikations-Version; Nutzen betonen |
-| Variante C — Summary fuer Regulierungsbehoerde | Regulierungskonforme Darstellung; Compliance-Sprache |
+| Variante C — Summary für Regulierungsbehoerde | Regulierungskonforme Darstellung; Compliance-Sprache |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -75,7 +75,7 @@ Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegeb
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -98,8 +98,8 @@ Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungna
 2. Wie umfangreich ist die KI-Nutzungsrichtlinie — was muss im Summary priorisiert werden?
 3. Sind kritische Nutzungsfaelle bekannt — muss das Summary sie explizit adressieren?
 4. Soll das Summary als eigenstaendiges Dokument oder als Richtlinien-Deckblatt verwendet werden?
-5. Wird das Summary zum Compliance-Nachweis gegenueber Mandanten oder Behoerden verwendet?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+5. Wird das Summary zum Compliance-Nachweis gegenueber Mandanten oder Behörden verwendet?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Executive Summary KI-Nutzungsrichtlinie
 **Adressat:** Kanzlei-Fuehrung / alle Mitarbeiter — Tonfall: klar, begrenzend, essentiell

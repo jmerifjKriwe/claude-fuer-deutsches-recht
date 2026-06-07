@@ -32,7 +32,7 @@ description: "Franchise Warenbezugsbindung im Franchiserecht im Franchiserecht: 
 
 ## Aufgabe
 
-Skill fuer Warenbezugsbindung und VBE.
+Skill für Warenbezugsbindung und VBE.
 
 ## Norm
 
@@ -53,7 +53,7 @@ Skill fuer Warenbezugsbindung und VBE.
 
 ### Postvertragliche Konkurrenzklausel
 - Maximal 1 Jahr.
-- Nur fuer Raeume des verlassenen Franchisestandorts.
+- Nur für Raeume des verlassenen Franchisestandorts.
 
 ## Sonderfaelle
 

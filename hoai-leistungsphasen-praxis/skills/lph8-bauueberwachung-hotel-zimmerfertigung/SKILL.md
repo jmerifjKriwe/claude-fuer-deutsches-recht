@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-hotel-zimmerfertigung
-description: "Bauueberwachung nach HOAI LPH 8 fuer Hotelneubauten mit modular vorgefertigten Zimmern — Modulverbindungen Stahlrahmen und Betonkern, Schallschutzanforderungen nach DIN 4109 Schallschutzklasse IV, Sprinkler-Anlage nach DIN EN 12845, barrierefreie Zimmer nach DIN 18040-1 und Energieeffizienz-Anforderungen nach GEG 2023. Praxisnahe Maengeldokumentation mit Dalux und SAP-PM im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Hotelneubauten mit modular vorgefertigten Zimmern — Modulverbindungen Stahlrahmen und Betonkern, Schallschutzanforderungen nach DIN 4109 Schallschutzklasse IV, Sprinkler-Anlage nach DIN EN 12845, barrierefreie Zimmer nach DIN 18040-1 und Energieeffizienz-Anforderungen nach GEG 2023. Praxisnahe Maengeldokumentation mit Dalux und SAP-PM im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Hotel Zimmerfertigung (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Hotelneubauten mit modular vorgefertigten Zimmern — Modulverbindungen Stahlrahmen und Betonkern, Schallschutzanforderungen nach DIN 4109 Schallschutzklasse IV, Sprinkler-Anlage nach DIN EN 12845, barrierefreie Zimmer nach DIN 18040-1 und Energieeffizienz-Anforderungen nach GEG 2023. Praxisnahe Maengeldokumentation mit Dalux und SAP-PM. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Hotelneubauten mit modular vorgefertigten Zimmern — Modulverbindungen Stahlrahmen und Betonkern, Schallschutzanforderungen nach DIN 4109 Schallschutzklasse IV, Sprinkler-Anlage nach DIN EN 12845, barrierefreie Zimmer nach DIN 18040-1 und Energieeffizienz-Anforderungen nach GEG 2023. Praxisnahe Maengeldokumentation mit Dalux und SAP-PM. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

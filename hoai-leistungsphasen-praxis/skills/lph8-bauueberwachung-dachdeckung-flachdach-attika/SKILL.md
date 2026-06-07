@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-dachdeckung-flachdach-attika
-description: "Bauueberwachung HOAI LPH 8 fuer Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Flachdach und Attika
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -31,7 +31,7 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 
 1. Untergrundpruefung: Feuchtegehalt Traegerdaemmung mit Feuchtemessgeraet Trotec T660, Grenzwert kleiner 2 Prozent Masseanteil, Nivellierkontrolle Gefaelle mindestens 2 Prozent
 2. Dampfsperre Verlegekontrolle: SD-Klasse nach DIN 4108-3, Stossstellen Nahtbreite mindestens 100 mm, Anschluesse an Attikainnenseite mindestens 150 mm hochgezogen
-3. Daemmung Verlegepruefung: Stossversetzte Verlegung 2-lagig, Fugen versetzt 250 mm, Stufe am Attikaanschluss fuer Spritzwasserschutz
+3. Daemmung Verlegepruefung: Stossversetzte Verlegung 2-lagig, Fugen versetzt 250 mm, Stufe am Attikaanschluss für Spritzwasserschutz
 4. Abdichtungslage Verlegepruefung: Querstoss Nahtbreite 100 mm, Laengsstoss 80 mm, Vollverklebung oder Heissverschweissung kontrolliert, Nahtfestigkeit Schraelschnitt-Test
 5. Attikaabdeckung Blechanschluss: Aluminium oder Zinkblech, Klemmleiste Einstand 40 mm, Stosslaenge versetzt, Dehnungsfuge alle 1.5 m Abdeckung, Winddichtheit
 6. Notablauf-Kontrolle: Einlaufkorb freigelegt, Lage Tiefpunkt korrekt, Durchfluss-Querschnitt DN 70 mindestens, Dachwasser-Notablauf zusaetzlich 30 cm ueber Dachhaut
@@ -42,7 +42,7 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Bauueberwachung Hochbau Dach
 - VOB/C DIN 18531 Abdichtung von Daecher und Balkonen: Abdichtungsklassen W1-W3, Nutzungsklassen, Aufbauregeln
 - ZVDH Flachdach-Richtlinie 2016: Gefaelle, Daemmung, Dampfsperre, Anschluesse, Attikaabdeckung
-- DIN 4108-2:2013-02 Mindestwärmeschutz: Wärmedaemmung Dach, Mindestwiderstand fuer Taupunkt-Sicherheit
+- DIN 4108-2:2013-02 Mindestwärmeschutz: Wärmedaemmung Dach, Mindestwiderstand für Taupunkt-Sicherheit
 - DIN 18339:2019-09 Klempnerarbeiten: Blechabdeckungen, Kehlen, Tropfkanten, Dehnungsfugen Attikaabdeckung
 
 ## Prueferaster und Kontrollpunkte
@@ -66,7 +66,7 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 
 - SAP PM Meldungsart M2 Abdichtungsmangel: Equipment-Nr Dach-ID, Schadenscode D003 Nahtunterdichtigkeit, Ursachencode U008 zu kurze Nahtueberdeckung
 - SAP PS Netzplan: DAMPF-010 Dampfsperre, DAEMM-020 Waermedaemmung, ABDICHT-030 Abdichtungslage, ATTIKA-040 Attikaabdeckung, ABLAUF-050 Notablaeufe
-- BIM360 Dach-Dokumentation: Thermografie-Foto an Dachoberflaechen-Bauteil-ID verknuepft, Exportpaket fuer Facility Management
+- BIM360 Dach-Dokumentation: Thermografie-Foto an Dachoberflaechen-Bauteil-ID verknuepft, Exportpaket für Facility Management
 - Dalux Abnahmecheckliste Flachdach: Punkte Gefaelle, Nahtbreite, Attikaanschluss, Ablauf, Thermografie-Ergebnis, Export als Abnahmeprotokoll
 - Workflow: IR-Hotspot markiert, Kernbohrung 50 mm zur Feuchtigkeitskontrolle, Reparatur, Nachthermografie, Mangel geschlossen
 
@@ -79,7 +79,7 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 
 ## Output
 
-IR-Thermografie-Bericht Flachdach mit Hotspot-Lageplan. Gefaellekontroll-Protokoll Lasernivelliermessung. Nahtfestigkeitspruef-Protokoll je 100 qm. Attikaabdeckung-Abnahmeprotokoll. Bautagebuch Dachdeckerarbeiten. SAP-PM-Equipment-ID Dach fuer Facility Management. Abnahmeprotokoll nach VOB/B § 12 mit Sachverstaendigen-Unterschrift.
+IR-Thermografie-Bericht Flachdach mit Hotspot-Lageplan. Gefaellekontroll-Protokoll Lasernivelliermessung. Nahtfestigkeitspruef-Protokoll je 100 qm. Attikaabdeckung-Abnahmeprotokoll. Bautagebuch Dachdeckerarbeiten. SAP-PM-Equipment-ID Dach für Facility Management. Abnahmeprotokoll nach VOB/B § 12 mit Sachverstaendigen-Unterschrift.
 
 ## Hinweise zur Qualitaetssicherung
 

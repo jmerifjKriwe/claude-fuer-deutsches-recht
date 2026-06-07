@@ -57,7 +57,7 @@ Dieser Skill prüft, ob ein Grundstück eine notwendige Verbindung zum öffentli
 
 - Streitstrang mit Anspruchsrichtung.
 - Benötigte Beweise.
-- Risiko fuer Mandant und Gegenseite.
+- Risiko für Mandant und Gegenseite.
 - Deeskalierender naechster Schritt.
 - Gerichtlicher naechster Schritt, falls Vergleich scheitert.
 

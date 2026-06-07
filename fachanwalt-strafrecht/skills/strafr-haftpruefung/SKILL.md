@@ -226,13 +226,13 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 - **Normen-/Quellenanker:** StPO.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -260,7 +260,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -388,5 +388,5 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Strategie-Entscheidungen** brauchen Mandantenfreigabe vorab und schriftlich: Strafbefehl Einspruch / Verteidigungslinie / Gestaendnisbereitschaft / Verstaendigung § 257c StPO / TOA § 46a StGB / Rechtsmittelverzicht.
 - **Kosten transparent machen:** RVG-Verguetung (insb. Hauptverhandlungstermine, Akteneinsicht VV 4100 ff. RVG); Honorarvereinbarung § 3a RVG schriftlich; Pflichtverteidigung §§ 140-141 StPO Kostenfolgen Mandant bei Verurteilung.
 - **Haftbesuch / Verteidigergespraech in JVA:** schriftliche Vorbereitung; bei U-Haft ungestoerter Verteidigerkontakt § 148 StPO (Ausnahme: Untersagung bei §§ 129a, 129b StGB Verdacht).
-- **Schweigepflichtentbindung** fuer Aerzte/Therapeuten nur eng abgrenzen.
+- **Schweigepflichtentbindung** für Aerzte/Therapeuten nur eng abgrenzen.
 - **Sprachbarriere**: Dolmetscher § 187 GVG zwingend; bei Auslaender Pflichtverteidigerbestellung § 140 II StPO erweitert.

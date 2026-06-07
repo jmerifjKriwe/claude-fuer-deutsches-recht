@@ -19,18 +19,18 @@ Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team. Die Prüfun
 
 ## Aufgabe
 
-Skill fuer Beförderungskaskade — Organisationsmissbrauch (Red Flag).
+Skill für Beförderungskaskade — Organisationsmissbrauch (Red Flag).
 
 ## Was ist Befoerderungskaskade?
 
 - Mehrere Beamte werden hintereinander befoerdert.
-- Oft fuer eine geplante Spitzenposition mit zwischengeschalteten Steigerungen.
+- Oft für eine geplante Spitzenposition mit zwischengeschalteten Steigerungen.
 
 ## Missbrauchsindizien
 
 - Beförderung in voneinander unabhaengigen Statusaemtern hintereinander zur Position X.
 - Vorgaben an Beurteilungen zur Steuerung der Auswahl.
-- "Stellenparkplatz" fuer Bewerber X.
+- "Stellenparkplatz" für Bewerber X.
 - BVerwG-Linie zur Manipulation.
 
 ## Konkurrentenschutz

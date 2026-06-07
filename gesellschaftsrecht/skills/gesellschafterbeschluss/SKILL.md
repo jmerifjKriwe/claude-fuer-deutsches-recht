@@ -68,7 +68,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 9 | Anfechtungsklage | Frist: 1 Monat ab Beschlussfassung analog § 246 Abs. 1 AktG; Klage gegen Gesellschaft; LG am Sitz | Fristnotiz anlegen! |
 | 10 | Heilung | § 242 AktG (Einberufungsmängel nach 3 Jahren); nicht bei § 241 Nr. 3 und 5 AktG | Heilung möglich → Abwarten sinnvoll? |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Sachverhalt aufnehmen:** Gesellschaftsvertrag/Satzung lesen; Gesellschafterkreis und Stimmrechte ermitteln.
 2. **Einberufung prüfen:** Ladungsform, Ladungsfrist, Tagesordnung auf Vollständigkeit.

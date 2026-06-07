@@ -1,13 +1,13 @@
 ---
 name: strafmilderung-49-stgb-zwingend-fakultativ
-description: "Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persoenliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persönliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafmilderung — § 49 StGB
 
 ## Arbeitsbereich
 
-Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persoenliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persönliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -49,7 +49,7 @@ Das Gericht kann nach pflichtgemaessem Ermessen die Strafe **bis zum gesetzliche
 
 - **§ 23 Abs. 2 StGB** — Versuch (kann gemildert werden); wenn das Gericht milden moechte, milderts nach § 49 Abs. 1 StGB. (Bei Versuch ist die Milderung selbst fakultativ, aber wenn gemildert, dann nach Abs. 1.)
 - **§ 27 Abs. 2 StGB** — Beihilfe: Strafe ist **zwingend** nach § 49 Abs. 1 StGB zu mildern.
-- **§ 28 Abs. 1 StGB** — Bei fehlenden strafbegruendenden persoenlichen Merkmalen des Teilnehmers Milderung nach § 49 Abs. 1 StGB.
+- **§ 28 Abs. 1 StGB** — Bei fehlenden strafbegruendenden persönlichen Merkmalen des Teilnehmers Milderung nach § 49 Abs. 1 StGB.
 - **§ 17 Satz 2 StGB** — Vermeidbarer Verbotsirrtum: Milderung **kann** nach § 49 Abs. 1 StGB erfolgen.
 - **§ 21 StGB** — Verminderte Schuldfaehigkeit: Milderung **kann** nach § 49 Abs. 1 StGB.
 - **§ 46a StGB** — TOA oder Schadenswiedergutmachung: Strafmilderung nach § 49 Abs. 1 StGB **oder** bei Strafe nicht ueber 1 Jahr **Absehen von Strafe**; vgl. `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung`.
@@ -86,7 +86,7 @@ Das Gericht kann nach pflichtgemaessem Ermessen die Strafe **bis zum gesetzliche
  - Mindestmass: bei Ausgangsmindeststrafe von 2 Jahren ermaessigt auf 6 Monate.
 - Konkreter Strafrahmen nach Mehrfachmilderung: 6 Monate bis ca. 8 Jahre 5 Monate. **BGH-Aktenzeichen zur Berechnungstechnik der mehrfachen Milderung vor Zitat verifizieren in dejure.org/openjur.de.**
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 1. Welche Strafmilderungsnorm liegt vor (§ 17, 21, 23 Abs. 2, 27 Abs. 2, 28 Abs. 1, 35 Abs. 2, 46a, 46b StGB)?
 2. Verweist die Norm auf § 49 Abs. 1 oder Abs. 2 StGB?
@@ -101,7 +101,7 @@ Das Gericht kann nach pflichtgemaessem Ermessen die Strafe **bis zum gesetzliche
 - **Milderung uebersehen**: Beihilfe nach § 27 Abs. 2 StGB ist **zwingend**.
 - **Mehrere Milderungen** falsch verkettet: jede Milderung wird auf das Ergebnis der vorigen angewendet.
 - **§ 49 Abs. 2 statt Abs. 1** verwendet, obwohl Norm Abs. 1 vorschreibt.
-- **§ 46a StGB** ohne Pruefung, ob Strafrahmen "nicht ueber 1 Jahr" auch fuer den **konkret** drohenden Bereich gilt (siehe Fachmodul).
+- **§ 46a StGB** ohne Pruefung, ob Strafrahmen "nicht ueber 1 Jahr" auch für den **konkret** drohenden Bereich gilt (siehe Fachmodul).
 
 ## Querverweise
 

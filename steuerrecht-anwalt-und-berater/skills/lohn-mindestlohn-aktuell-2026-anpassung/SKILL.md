@@ -83,7 +83,7 @@ Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung d
 ### Phase 4 — Branchen-Mindestloehne
 
 - In manchen Branchen tariflich hoehere Mindestloehne (z.B. Pflege, Bau).
-- Brancheninspezifische Verordnungen (z.B. Mindestlohn fuer Pflege).
+- Brancheninspezifische Verordnungen (z.B. Mindestlohn für Pflege).
 - AG der Branche muss tariflichen Wert zahlen.
 
 ### Phase 5 — Mandantenkommunikation

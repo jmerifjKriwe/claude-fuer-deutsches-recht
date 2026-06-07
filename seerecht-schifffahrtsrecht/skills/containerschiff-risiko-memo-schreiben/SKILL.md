@@ -1,13 +1,13 @@
 ---
 name: containerschiff-risiko-memo-schreiben
-description: "Containerschiff: Gesamtrisikobewertung fuer Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Containerschiff: Gesamtrisikobewertung für Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Containerschiff – Risiko-Memo schreiben
 
 ## Arbeitsbereich
 
-Containerschiff: Gesamtrisikobewertung fuer Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Containerschiff: Gesamtrisikobewertung für Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,20 +26,20 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Container
 3. Hauptrisiken identifizieren: Wertverfall; Reeder-Insolvenz; Vorrangglaeubigerrechte; Wrackpflicht.
 4. Handlungsoptionen mit Kosten-Nutzen-Analyse formulieren.
 5. Zeitkritische Massnahmen priorisieren: Arrest; Versicherungspruefung; ISM-Status.
-6. Empfehlungsmatrix fuer Entscheidungstraeger erstellen.
+6. Empfehlungsmatrix für Entscheidungstraeger erstellen.
 
 ## Rechtsrahmen
 - HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2; InsO §§ 49-51 Absonderung; WSG §§ 1-12 Wrackpflicht; ZPO §§ 864-871 Zwangsversteigerung.
 
 ## Prüfraster
-- Ist aktueller Schiffswert fuer Containerlinienfrachtschiff dokumentiert?
+- Ist aktueller Schiffswert für Containerlinienfrachtschiff dokumentiert?
 - Sind alle Vorrangglaeubigerrechte (gesetzliche Schiffsglaeubigerrechte) bekannt?
 - Ist Wrackbeseitigungs-Versicherungsdeckung bestaetigt?
 - Ist Insolvenzwahrscheinlichkeit des Reeders bewertet?
 - Sind Handlungsoptionen mit Zeitplan und Kosten aufgelistet?
 
 ## Typische Fallstricke
-- Schiffswertgutachten fuer Containerlinienfrachtschiff veraltet; Marktpreise schwanken stark.
+- Schiffswertgutachten für Containerlinienfrachtschiff veraltet; Marktpreise schwanken stark.
 - Memo ohne Priorisierung zeitkritischer Massnahmen fuehrt zu Untaetigkeit.
 - Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
 

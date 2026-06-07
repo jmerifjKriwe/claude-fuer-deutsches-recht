@@ -91,7 +91,7 @@ description: "E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bi
 
 ## Strategie und Praxis-Tipps
 
-- E-Bilanz ist Standard fuer alle Bilanzierer.
+- E-Bilanz ist Standard für alle Bilanzierer.
 - Bei groesseren Mandanten DATEV-E-Bilanz-Modul mit automatischer Taxonomie-Zuordnung.
 - Pflicht-Felder strikt einhalten — Sendung wird sonst abgelehnt.
 - Taxonomie-Updates zum 1. Januar jeden Jahres einspielen.

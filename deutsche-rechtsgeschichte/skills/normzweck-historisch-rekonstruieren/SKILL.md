@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Normzweck historisch rekonstruieren. Wi
 
 Deutsche Rechtsgeschichte: Normzweck historisch rekonstruieren. Wie man den historischen Regelungszweck einer Norm aus Materialien, Parlamentsdebatten und zeitgenoessischer Literatur erschliesst. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Normzweck historisch rekonstruieren. Wie man den hist
 
 ## Worum es geht
 
-Die historische Normzweckrekonstruktion (genetische Auslegung) fragt: Was wollten die Normgeber mit dieser Regelung erreichen? Quellen sind: (1) Gesetzgebungsmaterialien (Mugdan fuer BGB, Bundesrats- und Reichstagsprotokolle), (2) zeitgenoessische Kommentarliteratur (erste Kommentare nach Inkrafttreten), (3) Entwurfsbegruendungen (heute BT-Drucksachen), (4) Parlamentsdebatten. Grenzen: Der Wille einer Vielzahl von Parlamentariern ist heterogen. Das BVerfG akzeptiert historische Auslegung als eine von vier Methoden. BGH-Rspr. nutzt sie regelmaessig fuer BGB-Auslegung.
+Die historische Normzweckrekonstruktion (genetische Auslegung) fragt: Was wollten die Normgeber mit dieser Regelung erreichen? Quellen sind: (1) Gesetzgebungsmaterialien (Mugdan für BGB, Bundesrats- und Reichstagsprotokolle), (2) zeitgenoessische Kommentarliteratur (erste Kommentare nach Inkrafttreten), (3) Entwurfsbegruendungen (heute BT-Drucksachen), (4) Parlamentsdebatten. Grenzen: Der Wille einer Vielzahl von Parlamentariern ist heterogen. Das BVerfG akzeptiert historische Auslegung als eine von vier Methoden. BGH-Rspr. nutzt sie regelmaessig für BGB-Auslegung.
 
 ## Kernnormen / Kernquellen
 
@@ -27,7 +44,7 @@ Die historische Normzweckrekonstruktion (genetische Auslegung) fragt: Was wollte
 - **BVerfGE 62, 1** (1982): Historische Auslegung als anerkannte Methode
 - **BGB § 133**: Wille des Erklaerenden, Grundlage der Normzweckrekonstruktion
 - **GG Art. 76 ff.**: Gesetzgebungsverfahren, das Normzweck-Quellen erzeugt
-- **Bundesrats-Stellungnahmen**: Sekundaerquelle fuer Normzweck
+- **Bundesrats-Stellungnahmen**: Sekundaerquelle für Normzweck
 
 ## Akteure und Institutionen
 
@@ -47,7 +64,7 @@ Die historische Normzweckrekonstruktion (genetische Auslegung) fragt: Was wollte
 ## Methodik
 
 - Mugdan: Motive (Bd. I-V) und Protokolle (Bd. VI), Band und Seite
-- Reichstagsprotokolle: reichstagsprotokolle.de fuer Parlamentsdebatten
+- Reichstagsprotokolle: reichstagsprotokolle.de für Parlamentsdebatten
 - BT-Drucksachen (neuere Gesetze): bundestag.de/dokumente/parlamentsarchiv
 - BVerfGE und BGH: bverfg.de und bgh.de
 

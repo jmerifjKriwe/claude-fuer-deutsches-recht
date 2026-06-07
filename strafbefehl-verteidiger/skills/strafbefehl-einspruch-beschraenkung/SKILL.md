@@ -22,7 +22,7 @@ Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. Schuldspruch w
 1. **Ist der Schuldspruch unstreitig?** — Beschraenkung nur sinnvoll wenn der Mandant die Tat einraeumt und nur die Rechtsfolgen angreift.
 2. **Welche Rechtsfolge soll angehoben werden?** — Tagessatzhoehe zu hoch (Einkommen falsch berechnet)? Tagessatzanzahl unverhältnismaessig? Fahrverbot unverhältnismaessig? Einziehung anfechtbar?
 3. **Risiko der Verstaerkungs-Verurteilung?** — Im beschraenkten Einspruchsverfahren kann das Gericht auch hoeher bestrafen als im Strafbefehl angesetzt (kein Verboeschungsverbot bei Rechtsfolgen-Einspruch!).
-4. **Verjaehrung/Tilgung:** Schuldspruch-Rechtskraft beschleunigt Eintrag ins Bundeszentralregister.
+4. **Verjährung/Tilgung:** Schuldspruch-Rechtskraft beschleunigt Eintrag ins Bundeszentralregister.
 5. **Kostenrisiko:** Beschraenkt-Einspruch verringert Verfahrensaufwand, Kostenlast bleibt bei Verurteilung.
 
 ## Zentrale Normen
@@ -33,7 +33,7 @@ Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. Schuldspruch w
 - **§ 44 StGB** — Fahrverbot als strafrechtliche Nebenfolge (1 bis 6 Monate)
 - **§ 73 StGB** — Einziehung von Tatertraegen
 - **§ 331 StPO** — kein Verboeschungsverbot bei Berufung auf Rechtsfolgen; im Einspruchsverfahren analoge Diskussion
-- **§ 46 StGB** — Strafzumessungserwägungen (Grundlage fuer Tagessatzanzahl)
+- **§ 46 StGB** — Strafzumessungserwägungen (Grundlage für Tagessatzanzahl)
 
 ## Aktuelle Rechtsprechung
 
@@ -61,7 +61,7 @@ Risikopruefung vor Beschraenkung:
 - Mandant ueber Risiko aufgeklaert? → Schriftliche Bestaetigung
 ```
 
-## Nachweis Nettoeinkommen fuer Tagessatz-Reduktion
+## Nachweis Nettoeinkommen für Tagessatz-Reduktion
 
 **Dokumente die angefordert werden sollten:**
 - Lohnabrechnung letzter 3 Monate
@@ -109,4 +109,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Beschraenkt-Einspruch nur nach ausdruecklicher Mandantenanweisung.
 - Schriftliche Aufklaerung ueber Rechtskraft des Schuldspruchs und Verboescherungs-Risiko.
 - Einkommensnachweise vor der Hauptverhandlung vollstaendig einreichen.
-- Frist § 410 Abs. 1 StPO (2 Wochen) beachten — gilt auch fuer beschraenkten Einspruch.
+- Frist § 410 Abs. 1 StPO (2 Wochen) beachten — gilt auch für beschraenkten Einspruch.

@@ -3,7 +3,7 @@ name: sammelgenehmigung-export-schulung
 description: "Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen EU001-EU008, nationale AGG, globale Einzelgenehmigungen; Voraussetzungen ICP, Berichtspflichten und Ablauf des Antragsverfahrens ueber ELAN-K2. Output: Sammelgenehmigungsantrag und Nutzungsprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Sammelgenehmigungen und AGG fuer Dual-Use-Exporte: Beantragung und Nutzung
+# Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung
 
 ## Arbeitsbereich
 
@@ -19,18 +19,18 @@ Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen
 
 ## Mandantenfall
 
-- Exporteur exportiert regelmaessig Dual-Use-Gueter in NATO-Laender; AGG EU001 genuegt oder globale Einzelgenehmigung noetig?
+- Exporteur exportiert regelmaessig Dual-Use-Gueter in NATO-Länder; AGG EU001 genuegt oder globale Einzelgenehmigung noetig?
 - Unternehmen hat staerkeres ICP und moechte globale Genehmigung BAFA beantragen.
 - Sammelgenehmigung ausgelaufen; Lieferung steht an; Notfallverfahren?
 
 ## Erste Schritte
 
 1. Gueter und Bestimmungslaender bestimmen; AGGs EU001-EU008 auf Anwendbarkeit pruefen.
-2. Ausschlusslisten der AGGs pruefen: Gueter und Laender, die explizit ausgeschlossen sind.
-3. ICP-Anforderungen fuer globale Einzelgenehmigung bei BAFA pruefen.
-4. BAFA-Antrag ueber ELAN-K2 aufbereiten: Gueter, Laender, Werte, ICP-Nachweis.
+2. Ausschlusslisten der AGGs pruefen: Gueter und Länder, die explizit ausgeschlossen sind.
+3. ICP-Anforderungen für globale Einzelgenehmigung bei BAFA pruefen.
+4. BAFA-Antrag ueber ELAN-K2 aufbereiten: Gueter, Länder, Werte, ICP-Nachweis.
 5. Berichtspflichten bei Nutzung von AGG und globaler Genehmigung planen (Jahresbericht BAFA).
-6. Genehmigungsnutzungs-Protokoll fuer jede Sendung fuehren.
+6. Genehmigungsnutzungs-Protokoll für jede Sendung fuehren.
 
 ## Rechtsrahmen
 
@@ -38,20 +38,20 @@ Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen
 - **AWV §§ 8-14**: Nationale Allgemeine Genehmigungen (AGG).
 - **§ 11 AWV**: Globale Einzelgenehmigung und Anforderungen.
 - **§ 26 AWV**: Berichtspflichten bei Nutzung von Genehmigungen.
-- **BAFA-Merkblatt Genehmigungsverfahren**: Verfahrensanforderungen fuer ELAN-K2.**
+- **BAFA-Merkblatt Genehmigungsverfahren**: Verfahrensanforderungen für ELAN-K2.**
 
 ## Pruef-Raster
 
 - [ ] AGG EU001-EU008 auf Gueter und Bestimmungslaender geprueft?
 - [ ] Ausschlusslisten der AGGs vollstaendig durchsucht?
-- [ ] ICP-Anforderungen fuer globale Genehmigung erfuellt und nachgewiesen?
+- [ ] ICP-Anforderungen für globale Genehmigung erfuellt und nachgewiesen?
 - [ ] Jahresbericht-Pflicht bei AGG/globaler Genehmigung bekannt und geplant?
-- [ ] Nutzungsprotokoll fuer jede Sendung unter Sammelgenehmigung gefuehrt?
+- [ ] Nutzungsprotokoll für jede Sendung unter Sammelgenehmigung gefuehrt?
 - [ ] Ablaufdatum der Genehmigung im Kalender?
 
 ## Typische Fallstricke
 
-- AGG EU001 und EU002 haben lange Ausschlusslisten fuer Laender; UAE, Tuerkei oft ausgeschlossen.
+- AGG EU001 und EU002 haben lange Ausschlusslisten für Länder; UAE, Tuerkei oft ausgeschlossen.
 - Berichtspflichten nicht erfuellt; BAFA kann Genehmigung entziehen.
 - Nutzungsprotokoll fehlt; bei Pruefung Nachweis nicht moeglich.
 - Globale Genehmigung abgelaufen; Zeitlucke zwischen altem und neuem Antrag.
@@ -60,7 +60,7 @@ Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

@@ -117,8 +117,8 @@ und Graphit (Pantone 432 C; RGB 84/96/105) beansprucht.
 Bevor die Bildmarke eingereicht wird, klaere:
 1. Wird die Marke in Farbe oder schwarzweiss angemeldet (Farbschutz = enger, s/w = breiter Schutz)?
 2. Sind alle Bildelemente eigenstaendig unterscheidungskraeftig oder nur in Kombination?
-3. Ist die Vienna-Classification-Einordnung geprueft (relevant fuer spaetere Aehnlichkeitsrecherchen)?
-4. Sind die Bilddateien in Vektorqualitaet vorhanden (JPG/PNG min. 800x800 px reicht fuer DPMA, aber Vektor ist besser)?
+3. Ist die Vienna-Classification-Einordnung geprueft (relevant für spaetere Aehnlichkeitsrecherchen)?
+4. Sind die Bilddateien in Vektorqualitaet vorhanden (JPG/PNG min. 800x800 px reicht für DPMA, aber Vektor ist besser)?
 
 ## Aktuelle Rechtsprechung
 

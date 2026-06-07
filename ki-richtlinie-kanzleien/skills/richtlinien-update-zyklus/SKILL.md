@@ -42,7 +42,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Update-Zyklus-Protokoll fuer KI-Richtlinie erstellen | Update-Protokoll nach Schema; Template unten |
+| Standard — Update-Zyklus-Protokoll für KI-Richtlinie erstellen | Update-Protokoll nach Schema; Template unten |
 | Variante A — Richtlinie noch sehr neu kein Update noetig | Minimal-Protokoll; Update-Trigger definieren |
 | Variante B — Update bereits faellig Aenderungen schon identifiziert | Delta-Update durchfuehren; Protokoll rueckwirkend anlegen |
 | Variante C — Automatisierter Update-Trigger per Monitoring | Automatisierungs-Protokoll statt manueller Zyklusfestlegung |
@@ -80,7 +80,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -104,7 +104,7 @@ Dieser Skill selbst ist Teil des Update-Zyklus: Falls neue EU-Zeitpläne oder In
 3. Sind neue KI-Systeme eingefuehrt worden, die noch nicht in der Richtlinie abgedeckt sind?
 4. Haben sich regulatorische Anwendungsdaten geaendert (KI-VO Stufenplan bis 2026)?
 5. Ist der Betriebsrat bei Richtlinien-Aenderungen neu einzubinden?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Update-Zyklus-Protokoll
 **Adressat:** KI-Governance-Verantwortlicher — Tonfall: strukturiert, prozessorientiert

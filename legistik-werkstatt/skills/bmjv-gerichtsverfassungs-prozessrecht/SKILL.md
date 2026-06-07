@@ -1,11 +1,11 @@
 ---
 name: bmjv-gerichtsverfassungs-prozessrecht
-description: "Sachbereich Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV: Normbestand (GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.); Akteure (BMJV; Bundesgerichte; Justizverwaltungen der Laender.); EU-Bezug (EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung)."
+description: "Sachbereich Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV: Normbestand (GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.); Akteure (BMJV; Bundesgerichte; Justizverwaltungen der Länder.); EU-Bezug (EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung)."
 ---
 
 # Gerichtsverfassungs- und Prozessrecht (BMJV)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -22,9 +22,9 @@ Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verw
 
 ## Akteure und Aufsicht
 
-BMJV; Bundesgerichte; Justizverwaltungen der Laender.
+BMJV; Bundesgerichte; Justizverwaltungen der Länder.
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -34,9 +34,9 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 ## Typische Legistik-Aufgaben
 
-Zustaendigkeit; Instanzenzug; elektronischer Rechtsverkehr; Beweisaufnahme; Vollstreckung; internationale Rechtshilfe.
+Zuständigkeit; Instanzenzug; elektronischer Rechtsverkehr; Beweisaufnahme; Vollstreckung; internationale Rechtshilfe.
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -48,9 +48,26 @@ Schrittfolge fuer den Normgeber:
 
 ## Stolpersteine und Pruefpunkte
 
-Foederale Kompetenz fuer Gerichtsorganisation; Effektiver Rechtsschutz; Sprachenwahl.
+Foederale Kompetenz für Gerichtsorganisation; Effektiver Rechtsschutz; Sprachenwahl.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 
@@ -60,7 +77,7 @@ Sachfeld-Kompass:
 Sachfeld: Gerichtsverfassungs- und Prozessrecht
 Ressort: BMJV
 Kernnormen: GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.
-Akteure/Aufsicht: BMJV; Bundesgerichte; Justizverwaltungen der Laender.
+Akteure/Aufsicht: BMJV; Bundesgerichte; Justizverwaltungen der Länder.
 EU/Voelkerrecht: EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.
 Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
 Stolpersteine: <Sachfeld-spezifisch>
@@ -75,7 +92,7 @@ Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

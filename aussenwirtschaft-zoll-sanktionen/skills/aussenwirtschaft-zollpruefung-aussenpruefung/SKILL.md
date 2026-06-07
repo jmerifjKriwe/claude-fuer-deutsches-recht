@@ -21,16 +21,16 @@ Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Pruefu
 
 - Hauptzollamt kuendigt Zollaußenpruefung an; Unternehmen hat 4 Wochen Vorbereitungszeit.
 - Pruefung fokussiert auf Zollwert von Konzerntransaktionen; Verrechnungspreisdokumentation bereitstellen.
-- Nach Pruefung Nacherhebungsbescheid fuer Zollwert-Unterdeklaration; Einspruch vorbereiten.
+- Nach Pruefung Nacherhebungsbescheid für Zollwert-Unterdeklaration; Einspruch vorbereiten.
 
 ## Erste Schritte
 
-1. Pruefungsankuendigung analysieren: Pruefungszeitraum Pruefungsschwerpunkte zustaendige Pruefstelle.
+1. Pruefungsankuendigung analysieren: Pruefungszeitraum Pruefungsschwerpunkte zuständige Pruefstelle.
 2. Dokumentenarchiv aufbauen: Zollanmeldungen Rechnungen Ursprungsdokumente Genehmigungen.
 3. Interne Vorabpruefung: Typische Schwachstellen (Zollwert Praeferenz KN-Einreihung) analysieren.
 4. Prueferempfang vorbereiten: Ansprechpartner bestimmen Auskunftspersonen schulen.
 5. Nacherhebungsrisiko kalkulieren und Rueckstellungen pruefen.
-6. Rechtsberatung einschalten fuer komplexe Sachverhalte und Einspruchsstrategie.
+6. Rechtsberatung einschalten für komplexe Sachverhalte und Einspruchsstrategie.
 
 ## Rechtsrahmen
 
@@ -43,11 +43,11 @@ Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Pruefu
 ## Pruef-Raster
 
 - [ ] Pruefungsankuendigung vollstaendig analysiert?
-- [ ] Dokumentenarchiv fuer Pruefungszeitraum vollstaendig?
+- [ ] Dokumentenarchiv für Pruefungszeitraum vollstaendig?
 - [ ] Interne Vorabpruefung auf Schwachstellen abgeschlossen?
 - [ ] Ansprechpartner und Auskunftspersonen bestimmt und geschult?
 - [ ] Nacherhebungsrisiko quantifiziert und Rueckstellungen geprueft?
-- [ ] Rechtsberatung fuer Einspruchsstrategie eingeschaltet?
+- [ ] Rechtsberatung für Einspruchsstrategie eingeschaltet?
 
 ## Typische Fallstricke
 
@@ -60,7 +60,7 @@ Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Pruefu
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Pruefungsvorbereitungs-Checkliste mit Dokumentenanforderungen, Risikobewertungsmatrix fuer Pruefungsschwerpunkte und Einspruchs-Strategie-Memo.
+Pruefungsvorbereitungs-Checkliste mit Dokumentenanforderungen, Risikobewertungsmatrix für Pruefungsschwerpunkte und Einspruchs-Strategie-Memo.
 
 ## Quellen
 

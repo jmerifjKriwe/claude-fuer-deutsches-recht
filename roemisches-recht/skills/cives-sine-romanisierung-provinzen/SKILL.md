@@ -9,6 +9,23 @@ description: "Cives sine suffragio und municipia sine iure suffragii: roemische 
 
 Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,12 +36,12 @@ Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger un
 
 ## Aufgabe
 
-Skill fuer Halbbuergerschaft.
+Skill für Halbbuergerschaft.
 
 ## Cives sine suffragio
 
 - Buerger mit ius commercii und ius conubii, ohne ius suffragii und ohne ius honorum.
-- Erstmals geschaffen 338 v. Chr. fuer Anagnia und andere besiegte Staedte des Latinerkriegs.
+- Erstmals geschaffen 338 v. Chr. für Anagnia und andere besiegte Staedte des Latinerkriegs.
 
 ## Municipia sine iure suffragii
 
@@ -40,7 +57,7 @@ Skill fuer Halbbuergerschaft.
 ## Rechtshistorische Bedeutung
 
 - Erster Schritt zur Reichseinheit.
-- Vorbild fuer die spaetere universelle Buergerschaftsverleihung.
+- Vorbild für die spaetere universelle Buergerschaftsverleihung.
 
 ## Pruefraster
 

@@ -1,13 +1,13 @@
 ---
 name: verfahren
-description: "Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Prüfraster: Akteneinsicht, Widerspruchs-Begründung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Prüfraster: Akteneinsicht, Widerspruchs-Begründung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz
 
 ## Arbeitsbereich
 
-Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Prüfraster: Akteneinsicht, Widerspruchs-Begründung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Prüfraster: Akteneinsicht, Widerspruchs-Begründung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -24,8 +24,8 @@ Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vor
 3. Besteht sofortige Vollziehbarkeit / aufschiebende Wirkung nach § 80 VwGO?
 4. Wurde ein Vorverfahren durchgefuehrt oder ist es entbehrlich (§ 68 I 2 VwGO)?
 5. Soll Eilschutz (§ 80 V VwGO oder § 123 VwGO) beantragt werden?
-6. Welche Behoerde ist Bescheidsgegner und vor welchem VG ist Klage zu erheben?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+6. Welche Behörde ist Bescheidsgegner und vor welchem VG ist Klage zu erheben?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -37,7 +37,7 @@ Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vor
 - § 80 II Nr. 2 VwGO — Sofortvollzug bei Verkehrszeichen kraft Gesetzes
 - § 80 V VwGO — Antrag auf Wiederherstellung oder Anordnung der aufschiebenden Wirkung
 - § 123 VwGO — Vorlaeufiger Rechtsschutz bei Leistungs- und Feststellungsbegehren
-- § 28 VwVfG — Anhoerungspflicht vor belastendem Verwaltungsakt
+- § 28 VwVfG — Anhörungspflicht vor belastendem Verwaltungsakt
 - § 68 VwGO — Vorverfahren (Widerspruch) als Zulassungsvoraussetzung
 
 ## Aktuelle Rechtsprechung
@@ -47,7 +47,7 @@ Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vor
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -56,7 +56,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. **Sofortvollzug pruefen:** Verkehrszeichen vollziehbar kraft Gesetzes (§ 80 II Nr. 2 VwGO) — bei konkretem Vollzugsschaden Eilantrag § 80 V VwGO
 4. **Widerspruch einlegen:** Schriftlich bei Ausgangsbehorde; aufschiebende Wirkung beachten
 5. **Akteneinsicht beantragen:** § 29 VwVfG bei Widerspruchsbehoerde; vollstaendige Verfahrensakte anfordern
-6. **Widerspruchsbegruendung:** Formelle Fehler (Anhoerung §§ 28, 45 VwVfG) + materielle Fehler (Ermessen, Verhaeltnismaessigkeit)
+6. **Widerspruchsbegruendung:** Formelle Fehler (Anhörung §§ 28, 45 VwVfG) + materielle Fehler (Ermessen, Verhaeltnismaessigkeit)
 7. **Klagefrist sichern:** 1 Monat nach Zustellung Widerspruchsbescheid (§ 74 VwGO) im Kalender
 8. **Eilantrag wenn noetig:** § 80 V VwGO beim VG; Interessenabwaegung, Glaubhaftmachung
 9. **Klage beim VG:** Anfechtungsklage § 42 VwGO; Verpflichtungsklage bei abgelehnter Genehmigung
@@ -87,7 +87,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Widerspruch im Verkehrs-Infrastrukturrechts-Verfahren | Widerspruch nach Schema; Template unten |
 | Variante A — Widerspruchsverfahren ausgeschlossen direkte Klage | Klagefrist pruefen; direkt zum Verwaltungsgericht |
-| Variante B — Behoerde zeigt Kooperationsbereitschaft | Informelles Gespraech zuerst; Widerspruch nur bei Ablehnung |
+| Variante B — Behörde zeigt Kooperationsbereitschaft | Informelles Gespraech zuerst; Widerspruch nur bei Ablehnung |
 | Variante C — Mandant will Verfahren verzoegern taktisch | Vollstaendiger Widerspruch mit allen Gruenden; Zeit gewinnen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -120,10 +120,10 @@ Zur Begruendung wird Folgendes ausgefuehrt:
 
 1. Formelle Rechtswidrigkeit
  Der angefochtene Bescheid ist ohne die nach § 28 I VwVfG erforderliche
- vorherige Anhoerung ergangen. [...]
+ vorherige Anhörung ergangen. [...]
 
 2. Materielle Rechtswidrigkeit
- Die Behoerde hat ihr Ermessen nach § 45 StVO fehlerhaft ausgeubt, weil [...]
+ Die Behörde hat ihr Ermessen nach § 45 StVO fehlerhaft ausgeubt, weil [...]
  Der Grundsatz der Verhaeltnismaessigkeit (Art. 20 III GG) ist verletzt, weil [...]
 
 Wir beantragen, den Bescheid vom [DATUM] aufzuheben.
@@ -138,7 +138,7 @@ Mit freundlichen Gruessen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

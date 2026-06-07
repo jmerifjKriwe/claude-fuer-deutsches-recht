@@ -35,11 +35,11 @@ Verzugszinsen B2C: 5 Prozentpunkte ueber Basiszinssatz (§ 288 Abs. 1 BGB).
 
 **§ 569 Abs. 3 BGB Sonderregel Wohnraum**:
 - Nr. 1: kumuliert mit Folgemonat erheblich, wenn ueber Monatsmiete.
-- **Nr. 2 Schonfristzahlung**: Kuendigung wird **unwirksam**, wenn Vermieter innerhalb von 2 Monaten nach Rechtshaengigkeit Raeumungsklage befriedigt wird ODER oeffentliche Stelle Befriedigung erklaert.
+- **Nr. 2 Schonfristzahlung**: Kuendigung wird **unwirksam**, wenn Vermieter innerhalb von 2 Monaten nach Rechtshaengigkeit Raeumungsklage befriedigt wird ODER öffentliche Stelle Befriedigung erklaert.
 
 **Achtung: Schonfristzahlung gilt nur einmal in 2 Jahren** (§ 569 Abs. 3 Nr. 2 S. 2 BGB).
 
-**Schonfrist gilt NICHT fuer ordentliche Kuendigung** wegen Pflichtverletzung (BGH VIII ZR 261/06).
+**Schonfrist gilt NICHT für ordentliche Kuendigung** wegen Pflichtverletzung (BGH VIII ZR 261/06).
 
 ## Strategie Kombi-Klage
 
@@ -87,7 +87,7 @@ Es wird beantragt:
 | Raeumungsklage Geschaeft | Jahresmiete | § 41 Abs. 2 GKG |
 | Kombi | Addition (§ 5 ZPO) |  |
 
-## Sachliche und oertliche Zustaendigkeit
+## Sachliche und oertliche Zuständigkeit
 
 - Wohnraummiete: **ausschliesslich** AG (§ 23 Nr. 2a GVG), unabhaengig vom Streitwert.
 - Oertlich: ausschliesslicher Gerichtsstand der belegenen Sache (§ 29a ZPO).

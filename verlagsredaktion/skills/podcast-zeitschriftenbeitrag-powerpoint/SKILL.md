@@ -1,13 +1,13 @@
 ---
 name: podcast-zeitschriftenbeitrag-powerpoint
-description: "Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle fuer einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle für einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Podcast zu Zeitschriftenbeitrag
 
 ## Arbeitsbereich
 
-Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle fuer einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle für einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 1. Eigener Podcast (Selbstverwertung) oder Fremdpodcast (Zitatschranke)?
 2. Liegt das Transkript vor oder muss es erstellt werden?
 3. Welche Episode genau, mit Datum, Folgennummer, Zeitstempel der Aussage?
-4. Ist die Aussage essentiell fuer die These oder Schmuck?
+4. Ist die Aussage essentiell für die These oder Schmuck?
 
 ## Material- bzw. Sachrahmen
 
@@ -37,7 +37,7 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 - Sprecherbiografie (wer spricht, in welcher Funktion).
 - Bei Eigenverwertung: Vereinbarungen mit Co-Sprechern.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Quellnachweis vollstaendig sichern.** Podcast-Titel, Folge, Datum, Plattform, URL, Zeitstempel der zitierten Aussage. URL stabil? RSS-Feed-Eintrag archivieren (z. B. Wayback Machine), weil Podcasts geloescht werden koennen.
 2. **Zitatschranke § 51 UrhG pruefen** bei Fremdpodcast: Zitat dient einem inhaltlichen Bezug, nicht der Ausschmueckung; Umfang ist auf das Belegnoetige beschraenkt.
@@ -63,13 +63,13 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 
 ## Mustertexte / Vorlagen
 
-**Fussnoten-Vorlage fuer Podcast-Zitat:**
+**Fussnoten-Vorlage für Podcast-Zitat:**
 
 > Schmidt, "Diskussion zur 3-Saeulen-Regel", in: Podcast "Strafrecht aktuell", Folge 47, 12.05.2026, Min. 18:33, abrufbar unter [URL], zuletzt abgerufen am 02.06.2026.
 
 **Klaerungs-Email an Sprecher (bei Fremdpodcast):**
 
-> Sehr geehrte Frau Schmidt, wir wuerden Ihre Aussage aus Folge 47 Ihres Podcasts "Strafrecht aktuell" vom 12.05.2026 (Min. 18:33 ff.) als Zitatbeleg in einem Aufsatz fuer die NJW verwerten. Das Zitat lautet woertlich: "[Zitat]". Wir stuetzen uns auf § 51 UrhG. Eine kurze Bestaetigung Ihrerseits, dass Sinn und Aussage zutreffend wiedergegeben sind, waere uns hilfreich.
+> Sehr geehrte Frau Schmidt, wir wuerden Ihre Aussage aus Folge 47 Ihres Podcasts "Strafrecht aktuell" vom 12.05.2026 (Min. 18:33 ff.) als Zitatbeleg in einem Aufsatz für die NJW verwerten. Das Zitat lautet woertlich: "[Zitat]". Wir stuetzen uns auf § 51 UrhG. Eine kurze Bestaetigung Ihrerseits, dass Sinn und Aussage zutreffend wiedergegeben sind, waere uns hilfreich.
 
 ## Typische Fehler / Pitfalls
 
@@ -81,7 +81,7 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 
 ## Querverweise
 
-- `verl-audio-transkript-zu-fachbeitrag` - direkter Schwester-Skill fuer eigene Audioquellen.
+- `verl-audio-transkript-zu-fachbeitrag` - direkter Schwester-Skill für eigene Audioquellen.
 - `quellen-zitate-fundstellencheck` - Quellenpruefung allgemein.
 - `rechtecheck-urhg-verlg` - § 51 UrhG vertieft.
 - `verl-zeitschriftenartikel-leitfaden` - Zielformat.
@@ -90,7 +90,7 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 ## Quellen Stand 06/2026
 
 - UrhG § 51 (Zitatschranke), § 63 (Quellenangabe), [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
-- KUG § 22 fuer Persoenlichkeitsrecht.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- KUG § 22 für Persoenlichkeitsrecht.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-- Wayback Machine, [https://web.archive.org](https://web.archive.org), fuer URL-Archivierung.
+- Wayback Machine, [https://web.archive.org](https://web.archive.org), für URL-Archivierung.

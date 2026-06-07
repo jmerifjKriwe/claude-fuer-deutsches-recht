@@ -25,17 +25,17 @@ Ein Fachaufsatz hat einen bestimmten Stilraum: Gutachten- oder Urteilsstil, klar
 
 Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
 
-1. Welche Stilebene fuer welches Format (Aufsatz: knapper Sachstil; Anmerkung: zugespitzt; Editorial: persoenlich)?
-2. Hausregel fuer Tonalitaet (NJW: knapp und sachlich; ZIP: pointiert; JuS: didaktisch zugaenglich)?
+1. Welche Stilebene für welches Format (Aufsatz: knapper Sachstil; Anmerkung: zugespitzt; Editorial: persoenlich)?
+2. Hausregel für Tonalitaet (NJW: knapp und sachlich; ZIP: pointiert; JuS: didaktisch zugaenglich)?
 3. KI-Verdacht (Autorin hat KI eingesetzt - markieren oder Hinweis geben)?
 
 ## Material- bzw. Sachrahmen
 
 - Manuskript nach Lektorat.
 - Vergleichsbeispiele aus juengeren Heften derselben Zeitschrift.
-- Hausregel fuer Tonalitaet.
+- Hausregel für Tonalitaet.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Stilraum festlegen.** In einem Satz: welcher Ton soll im Text durchhalten.
 2. **Stichprobe lesen.** Zufaellig 3 Absaetze aus erster, mittlerer und letzter Manuskripthaelfte - faellt eine Stelle aus dem Stilraum?
@@ -79,7 +79,7 @@ Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
 
 **Anschreiben (Stilcheck):**
 
-> Sehr geehrte Frau Dr. Mueller, beim Stilcheck haben wir 14 Stoerstellen markiert (siehe Anlage). Davon sind 7 KI-typische Floskeln, die wir vor Druck schliessen sollten; 4 Stellen mit Marketingsprache; 3 Umgangssprachfaelle. Bitte Freigabe oder Korrektur bis 19.06.2026. Sollte KI im Manuskript eingesetzt worden sein, bitten wir um kurze Transparenz - das ist intern wichtig fuer unsere Qualitaetsdokumentation.
+> Sehr geehrte Frau Dr. Mueller, beim Stilcheck haben wir 14 Stoerstellen markiert (siehe Anlage). Davon sind 7 KI-typische Floskeln, die wir vor Druck schliessen sollten; 4 Stellen mit Marketingsprache; 3 Umgangssprachfaelle. Bitte Freigabe oder Korrektur bis 19.06.2026. Sollte KI im Manuskript eingesetzt worden sein, bitten wir um kurze Transparenz - das ist intern wichtig für unsere Qualitaetsdokumentation.
 
 **KI-Verdacht-Indikatoren:**
 
@@ -116,4 +116,4 @@ Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
 - Reiners, Stilkunst, 21. Aufl. 2022 (zur deutschen Stilistik).
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.

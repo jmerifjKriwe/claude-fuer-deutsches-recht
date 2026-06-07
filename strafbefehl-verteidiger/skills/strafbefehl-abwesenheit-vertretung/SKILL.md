@@ -67,7 +67,7 @@ Hauptverhandlungstermin: [DATUM]
 Antrag auf Entbindung von der Erscheinungspflicht nach § 411 Abs. 2 StPO
 
 Ich beantrage meinen Mandanten [NAME] von der Pflicht zum
-persoenlichen Erscheinen in der Hauptverhandlung am [DATUM]
+persönlichen Erscheinen in der Hauptverhandlung am [DATUM]
 zu entbinden.
 
 Begruendung: Der Sachverhalt ist unstreitig. Es werden lediglich

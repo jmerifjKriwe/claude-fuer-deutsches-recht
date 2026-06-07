@@ -1,11 +1,11 @@
 ---
 name: bmukn-naturschutz-und-artenschutzrecht
-description: "Sachbereich Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (BNatSchG; NatschGesetze der Laender; CITES; BJagdG (Schnittstelle).); Akteure (BfN; UBA; Laender-Naturschutzbehoerden; Untere Naturschutzbehoerden.); EU-Bezug (FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung)."
+description: "Sachbereich Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (BNatSchG; NatschGesetze der Länder; CITES; BJagdG (Schnittstelle).); Akteure (BfN; UBA; Länder-Naturschutzbehoerden; Untere Naturschutzbehoerden.); EU-Bezug (FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung)."
 ---
 
 # Naturschutz- und Artenschutzrecht (BMUKN)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -16,15 +16,15 @@ description: "Sachbereich Naturschutz- und Artenschutzrecht im Geschaeftsbereich
 
 ## Normbestand
 
-Kernbestand des Sachfelds: BNatSchG; NatschGesetze der Laender; CITES; BJagdG (Schnittstelle).
+Kernbestand des Sachfelds: BNatSchG; NatschGesetze der Länder; CITES; BJagdG (Schnittstelle).
 
 Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
-BfN; UBA; Laender-Naturschutzbehoerden; Untere Naturschutzbehoerden.
+BfN; UBA; Länder-Naturschutzbehoerden; Untere Naturschutzbehoerden.
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -36,7 +36,7 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 Schutzgebietsausweisung; FFH-Pruefung; Artenschutzgutachten; Eingriffsregelung.
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -52,6 +52,23 @@ Wiederherstellungs-VO; Konflikt Planung versus Naturschutz; FFH-Vertraegelichkei
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Sachfeld-Kompass:
@@ -59,8 +76,8 @@ Sachfeld-Kompass:
 ```
 Sachfeld: Naturschutz- und Artenschutzrecht
 Ressort: BMUKN
-Kernnormen: BNatSchG; NatschGesetze der Laender; CITES; BJagdG (Schnittstelle).
-Akteure/Aufsicht: BfN; UBA; Laender-Naturschutzbehoerden; Untere Naturschutzbehoerden.
+Kernnormen: BNatSchG; NatschGesetze der Länder; CITES; BJagdG (Schnittstelle).
+Akteure/Aufsicht: BfN; UBA; Länder-Naturschutzbehoerden; Untere Naturschutzbehoerden.
 EU/Voelkerrecht: FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).
 Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
 Stolpersteine: <Sachfeld-spezifisch>
@@ -75,7 +92,7 @@ Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

@@ -15,7 +15,7 @@ description: "DBA Deutschland Zypern 2011. Anwendungsfall Holding-Konstruktionen
 
 ## Kernsachverhalt
 
-Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) ersetzte das aeltere DBA und folgt OECD-MA 2010. Zypern ist EU-Mitglied (Beitritt 01.05.2004, Euro 01.01.2008) und Standort fuer Holding-Konstruktionen, Schifffahrt und Investmentstrukturen. Zypriotische Koerperschaftsteuer: 12,5 Prozent (Pillar-Two-Mindeststeuer 15 Prozent ab 01.01.2024 verschiebt die Vorteilhaftigkeit).
+Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) ersetzte das aeltere DBA und folgt OECD-MA 2010. Zypern ist EU-Mitglied (Beitritt 01.05.2004, Euro 01.01.2008) und Standort für Holding-Konstruktionen, Schifffahrt und Investmentstrukturen. Zypriotische Koerperschaftsteuer: 12,5 Prozent (Pillar-Two-Mindeststeuer 15 Prozent ab 01.01.2024 verschiebt die Vorteilhaftigkeit).
 
 ## Kaltstart-Rueckfragen
 
@@ -93,7 +93,7 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 
 ### Erstattungsverfahren zypriotische Quellensteuer
 
-- **Zustaendigkeit**: zypriotische **Tax Department** (Phorologia, frueher: Inland Revenue Department). Aktuelle Zustaendigkeit auf **mof.gov.cy** und **tax.gov.cy** pruefen.
+- **Zuständigkeit**: zypriotische **Tax Department** (Phorologia, frueher: Inland Revenue Department). Aktuelle Zuständigkeit auf **mof.gov.cy** und **tax.gov.cy** pruefen.
 - **Antragsformulare**: zypriotische DBA-Formulare — **konkrete Formularnummern vom Anwender mit aktuellem Stand auf tax.gov.cy zu verifizieren**.
 - **Frist**: nach zypriotischem Assessment and Collection of Taxes Law regelmaessig **sechs Jahre**.
 - **Bearbeitungsdauer**: 6-18 Monate.
@@ -114,7 +114,7 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 |---|---|---|---|
 | Zypern-Holding (KSt 12,5 Prozent) vs. DE-Direkthaltung nach Pillar Two | 12,5 Prozent KSt; ab 2024 Pillar Two Top-Up auf 15 Prozent; CFC bei passiven Einkuenften | DE-Direkthaltung mit voller KSt | bei vollem Substrat in CY noch sinnvoll; bei Briefkasten Verlagerung |
 | Schachteldividende CY-Ltd an DE-Mutter ueber DBA vs. EU-MTRL | Zypern erhebt regelmaessig 0 Prozent Quellensteuer auf Dividenden | EU-MTRL 0 Prozent vorrangig | regelmaessig 0 Prozent — keine Erstattung erforderlich |
-| IP-Box Zypern fuer Lizenzgestaltungen | reduzierte effektive Belastung Lizenzeinkuenfte; aber § 4j EStG-Lizenzschranke beim deutschen Zahler bei Nichterfullung Nexus | Lizenz ueber DE-Standort | bei Nexus-konformer Forschungs-/Entwicklungstaetigkeit in CY guenstig; sonst § 4j EStG-Versagung |
+| IP-Box Zypern für Lizenzgestaltungen | reduzierte effektive Belastung Lizenzeinkuenfte; aber § 4j EStG-Lizenzschranke beim deutschen Zahler bei Nichterfullung Nexus | Lizenz ueber DE-Standort | bei Nexus-konformer Forschungs-/Entwicklungstaetigkeit in CY guenstig; sonst § 4j EStG-Versagung |
 | Tonnage Tax Schifffahrt vs. ordentliche KSt | Tonnage-System effektiv sehr niedrige Belastung — Pillar Two pruefen | Standard-KSt | bei Reederei-Strukturen Tonnage-System Standard; aber Pillar-Two-Folgen |
 
 ## Edge Cases — was Pruefer triggert

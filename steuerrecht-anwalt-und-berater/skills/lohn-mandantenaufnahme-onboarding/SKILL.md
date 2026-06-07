@@ -23,7 +23,7 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 4. Welcher Lohnsteuer-Anmelde-Zeitraum (monatlich, vierteljaehrlich, jaehrlich)?
 5. Bestehen ueberbetriebliche Tarifvertraege?
 6. Gibt es eine Betriebsvereinbarung zu Loehnen, Tantiemen, bAV?
-7. Welche Berufsgenossenschaft ist zustaendig?
+7. Welche Berufsgenossenschaft ist zuständig?
 8. Gibt es Sondervergueteungen (Sachbezuege, Dienstwagen, JobRad, bAV)?
 
 ## Rechtlicher Rahmen
@@ -60,7 +60,7 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 |---|---|
 | Firma, Rechtsform, Sitz | Handelsregister-Auszug |
 | Steuer-Nr und Steuer-Id | Finanzamtsbescheid |
-| Betriebsstaetten-Nummer (BSN) | Bundesagentur fuer Arbeit |
+| Betriebsstaetten-Nummer (BSN) | Bundesagentur für Arbeit |
 | Berufsgenossenschaft + Mitgliedsnummer | BG-Bescheid |
 | Krankenkassen-Schluessel | Krankenkasse |
 | Versorgungswerk (falls einschlaegig) | Berufsverband |
@@ -93,7 +93,7 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 
 ### Phase 4 — SV-Anmeldung
 
-- Anmeldung des Arbeitnehmers bei der Krankenkasse (zugleich fuer RV und PV).
+- Anmeldung des Arbeitnehmers bei der Krankenkasse (zugleich für RV und PV).
 - Meldung Beschaeftigungsbeginn binnen 6 Wochen (§ 28a SGB IV).
 - Bei Minijob: Anmeldung bei Minijob-Zentrale (Knappschaft-Bahn-See).
 - Sofortmeldung in Sonderbranchen (§ 28a Abs. 4 SGB IV): Bau, Gaststaette, Fleischwirtschaft.

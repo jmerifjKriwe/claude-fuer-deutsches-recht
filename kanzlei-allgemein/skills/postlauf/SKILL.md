@@ -28,7 +28,7 @@ Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingänge beA-Journa
 
 ## Zentrale Normen
 - § 173 ZPO — Zeitpunkt der beA-Zustellung: Eingang im Empfangspostfach
-- § 174 Abs. 4 ZPO — Elektronisches Empfangsbekenntnis: Datum massgebend fuer Fristbeginn
+- § 174 Abs. 4 ZPO — Elektronisches Empfangsbekenntnis: Datum massgebend für Fristbeginn
 - Art. 7 PostModG — Vier-Tages-Zustellungsfiktion seit 01.01.2025
 - § 51 BRAO — Haftung bei Organisationspflichtverletzung im Postlauf
 

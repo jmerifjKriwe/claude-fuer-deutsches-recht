@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - Registerauszüge, Gesellschafterliste, Satzung, Geschäftsordnungen und Vollmachten.
@@ -119,7 +119,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Spezialfuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme und Register nach MoPeG und HGB.
+Spezialfür KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme und Register nach MoPeG und HGB.
 
 ## Triage — klaere vor Beginn
 
@@ -127,18 +127,18 @@ Spezialfuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Ha
 2. Soll eine Kommanditistenstellung uebertragen werden — Anteilsuebertragung, Teileintritt, Erhöhung Einlage?
 3. Wie hoch ist die Hafteinlage und die tatsaechlich geleistete Einlage — sind Haftungsvoraussetzungen (§§ 171-172 HGB) durch Einlagenrueckgewaehr veraendert worden?
 4. Sind Vollmachten und Vertretungsregelungen aktuell — wer ist Komplementaer und wie wird er vertreten?
-5. Gilt das Gesellschaftsregister nach MoPeG (GbR-Register) — Eintragungspflicht fuer GbR?
+5. Gilt das Gesellschaftsregister nach MoPeG (GbR-Register) — Eintragungspflicht für GbR?
 6. Gibt es Fondsstrukturen (z.B. Investmentkommanditgesellschaft § 124 KAGB)?
 
 ## Zentrale Rechtsgrundlagen
 
 - §§ 161-177 HGB — KG: Kommanditistenhaftung bis zur Hoehe der Einlage; Haftung erneut auflebt nach Rueckgewaehr (§ 172 Abs. 4 HGB)
 - §§ 171-172 HGB — Haftung des Kommanditisten: nur bis zur Einlage; haftet erneut, wenn Einlage herabgesetzt oder zurueckgezahlt wird
-- § 706 BGB n.F. (MoPeG) — Gesellschaftsregister fuer GbR; Eintragungspflicht ab 01.01.2024; Grundstuckserwerb nur als eingetragene GbR (eGbR) moeglich
+- § 706 BGB n.F. (MoPeG) — Gesellschaftsregister für GbR; Eintragungspflicht ab 01.01.2024; Grundstuckserwerb nur als eingetragene GbR (eGbR) moeglich
 - §§ 705-740 BGB n.F. (MoPeG) — modernisiertes Personengesellschaftsrecht ab 01.01.2024
-- § 124 KAGB — Investmentkommanditgesellschaft (InvKG): Sonderform fuer Fondsvehikel; Aufsicht BaFin
-- §§ 1 Abs. 3, 48 ff. HGB — Prokura und Handelsvollmacht: massgeblich fuer Vertretung in der KG
-- § 16 GmbHG analog fuer Kommanditistenwechsel — Gesellschafterliste-Gedanke: Eintragung im HR als Legitimationsakt
+- § 124 KAGB — Investmentkommanditgesellschaft (InvKG): Sonderform für Fondsvehikel; Aufsicht BaFin
+- §§ 1 Abs. 3, 48 ff. HGB — Prokura und Handelsvollmacht: massgeblich für Vertretung in der KG
+- § 16 GmbHG analog für Kommanditistenwechsel — Gesellschafterliste-Gedanke: Eintragung im HR als Legitimationsakt
 
 ## Aktuelle Rechtsprechung
 
@@ -147,10 +147,10 @@ Spezialfuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Ha
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Rechtsform und Gesellschaftsvertrag pruefen:** aktueller HR-Auszug HRA, Gesellschaftsvertrag, Kommanditistenliste
-2. **Haftungslage klaren:** Hafteinlage vs. tatsaechlich geleistete Einlage; Einlagenrueckgewaehr-Pruefung (§ 172 Abs. 4 HGB) fuer alle relevanten Zahlungen der letzten 5 Jahre
+2. **Haftungslage klaren:** Hafteinlage vs. tatsaechlich geleistete Einlage; Einlagenrueckgewaehr-Pruefung (§ 172 Abs. 4 HGB) für alle relevanten Zahlungen der letzten 5 Jahre
 3. **Vertretungsmacht feststellen:** Komplementaer (in GmbH & Co. KG: GmbH-Geschaftsfuehrer); Prokura; Gesamtvertretung?
 4. **Kommanditistenwechsel (falls vorgesehen):** Abtretungsvertrag, HR-Anmeldung, Gesellschaftsvertrag-Zustimmungspflicht pruefen
 5. **MoPeG-Compliance:** GbR-Register geprueft? Bei Grundstucksbesitz: Eintragung als eGbR erforderlich (§ 706 BGB n.F.)
@@ -162,7 +162,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Einlage unter Hafteinlage → § 172 Abs. 4 HGB → Aussenhaftung wieder aufgelebt → Red Flag
 - Kommanditanteilsuebertragung → Gesellschaftsvertrag Zustimmungsklausel? → Ja: Zustimmung aller Gesellschafter
 - GbR mit Grundstueck → MoPeG § 706 BGB n.F. → Eintragung als eGbR erforderlich vor Eigentumsuebergang
-- InvKG § 124 KAGB → BaFin zustaendig → besondere Anforderungen an Verwaltung und Anleger
+- InvKG § 124 KAGB → BaFin zuständig → besondere Anforderungen an Verwaltung und Anleger
 
 ## Output-Template: KG-Checkliste
 

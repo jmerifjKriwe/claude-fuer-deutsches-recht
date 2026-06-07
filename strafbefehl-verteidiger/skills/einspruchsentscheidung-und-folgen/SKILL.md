@@ -61,7 +61,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
  - **Schlechterstellungsverbot bei Beschraenkung Rechtsfolgenausspruch:** Verschlechterungsverbot reformatio in peius gilt nicht im Strafbefehlsverfahren absolut; aber zumindest darf die Verteidigung darauf vertrauen, dass innerhalb der Schuldspruch-Bindung das Strafmass nicht drastisch steigt.
 - **Nebenfolgen pruefen:**
  - **Fahrverbot § 44 StGB:** bis 6 Monate; Mandantenbedeutung Beruf, Familie.
- - **Entziehung Fahrerlaubnis § 69 StGB:** im Strafbefehl regelmaessig nicht (komplexe Pruefung); ggf. vorlaeufige Entziehung § 111a StPO im laufenden Verfahren.
+ - **Entziehung Fahrerlaubnis § 69 StGB:** im Strafbefehl regelmaessig nicht (komplexe Pruefung); ggf. vorläufige Entziehung § 111a StPO im laufenden Verfahren.
  - **Einziehung § 73 ff. StGB:** Wertersatz bei Vermoegensvorteilen aus Tat.
  - **BZRG-Eintragspflicht** § 32 BZRG: 90+ TS / Freiheitsstrafe.
 - **Wiedereinsetzung § 44 StPO bei verspaetetem Einspruch:** unverschuldete Versaeumung; 1 Woche ab Wegfall Hindernis; restriktive BGH-Linie.

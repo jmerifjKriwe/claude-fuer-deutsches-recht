@@ -87,7 +87,7 @@ Wenn mehrere § 49 Abs. 1 StGB-Milderungen zusammentreffen (z.B. Beihilfe + verm
 
 - **Regelbeispiel automatisch angenommen**: Auch wenn ein Regelbeispiel erfuellt ist, muss eine **Gesamtbetrachtung** ergeben, dass die "Indiz-Wirkung" nicht entkraeftet ist (BGH st. Rspr.; Az vor Zitat verifizieren).
 - **§ 49 Abs. 1 StGB falsch berechnet**: Hoechstmass 3/4 (Freiheitsstrafe), Mindeststrafe entfaellt oder reduziert nach § 49 Abs. 1 Nr. 2 und 3 StGB. Bei lebenslang: 3 bis 15 Jahre (§ 49 Abs. 1 Nr. 1 StGB).
-- **§ 28 StGB uebersehen** bei Beihilfe-/Anstifter-Pruefung: fehlende strafbegruendende persoenliche Merkmale fuehren zwingend zur Strafmilderung nach § 49 Abs. 1 StGB.
+- **§ 28 StGB uebersehen** bei Beihilfe-/Anstifter-Pruefung: fehlende strafbegruendende persönliche Merkmale fuehren zwingend zur Strafmilderung nach § 49 Abs. 1 StGB.
 - **Doppelverwertung** zwischen Regelbeispiel und § 46 StGB: Umstaende, die das Regelbeispiel begruenden, duerfen nicht noch einmal als strafschaerfender Faktor angefuehrt werden.
 
 ## Querverweise

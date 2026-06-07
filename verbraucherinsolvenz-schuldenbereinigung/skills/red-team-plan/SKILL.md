@@ -1,6 +1,6 @@
 ---
 name: red-team-plan
-description: "Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung."
+description: "Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung."
 ---
 
 # Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.

@@ -1,6 +1,6 @@
 ---
 name: schulbusaufsicht-und-befoerderungssicherheit
-description: "Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verkehrssicherung im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verkehrssicherung im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulbusaufsicht und Beförderungssicherheit

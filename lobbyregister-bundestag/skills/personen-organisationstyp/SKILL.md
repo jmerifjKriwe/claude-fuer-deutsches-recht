@@ -31,7 +31,7 @@ Den richtigen Registertraeger auswaehlen, damit nicht Einzelpersonen falsch regi
 ## Leitfragen
 
 1. Wer tritt nach aussen auf?
-2. Handelt eine Person im eigenen Namen oder fuer eine Organisation?
+2. Handelt eine Person im eigenen Namen oder für eine Organisation?
 3. Gibt es mehrere Traeger, Netzwerkpartner oder Plattformstrukturen?
 
 ## Quellenanker
@@ -41,7 +41,7 @@ Den richtigen Registertraeger auswaehlen, damit nicht Einzelpersonen falsch regi
 Bei einer unselbststaendigen Zweigniederlassung ist zuerst der Rechtstraeger zu bestimmen. Die Handelsregistereintragung der Zweigniederlassung macht sie nicht automatisch zu einer eigenen juristischen Person. Der Skill soll deshalb die Eintragungseinheit, die Frankfurter oder Berliner Anschrift, die betrauten Personen und die Kosten-/Taetigkeitszuordnung auseinanderhalten. Eine zweite Registrierung der Zweigniederlassung darf nur als Pruefoption vorbereitet werden, nicht als selbstverstaendlicher Portal-Schritt.
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 

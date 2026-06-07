@@ -122,21 +122,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `elsj-einfache-sprache` | Kanzlei oder Behoerde will juristischen Text für normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklärte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11… |
+| `elsj-einfache-sprache` | Kanzlei oder Behörde will juristischen Text für normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklärte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11… |
 | `elsj-juristische-sicherung` | Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt verloren gehen: Rechte Pflichten Fristen Betraege Rechtsfolgen Ausnahmen. Normen §§ 133 157 BGB Auslegungspflicht. Prüfraster Rechte-Vollständigkeit… |
-| `elsj-kommandocenter` | Kanzlei oder Behoerde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl… |
-| `elsj-leichte-sprache` | Kanzlei oder Behoerde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur… |
+| `elsj-kommandocenter` | Kanzlei oder Behörde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl… |
+| `elsj-leichte-sprache` | Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur… |
 | `elsj-qualitaetsgate` | Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprache vor Veröffentlichung prüfen. Verstaendlichkeit Gliederung Glossar Zielgruppenpassung juristische Vollständigkeit offene Nutzergruppen-Prüfung. Normen… |
 
 ## Worum geht es?
 
-Juristische Texte — Bescheide, Vertraege, Urteile, Merkblaetter — sind fuer viele Buergerinnen und Buerger schwer verstaendlich. Dieses Plugin unterstuetzt Kanzleien und Behoerden dabei, solche Texte in Einfache Sprache (Zielniveau B1) oder Leichte Sprache (Zielniveau A2 gemaess BITV 2.0) zu uebertragen, ohne dabei Rechtsinhalt, Fristen oder Rechtswirkungen zu verlieren.
+Juristische Texte — Bescheide, Vertraege, Urteile, Merkblaetter — sind für viele Buergerinnen und Buerger schwer verstaendlich. Dieses Plugin unterstuetzt Kanzleien und Behörden dabei, solche Texte in Einfache Sprache (Zielniveau B1) oder Leichte Sprache (Zielniveau A2 gemaess BITV 2.0) zu uebertragen, ohne dabei Rechtsinhalt, Fristen oder Rechtswirkungen zu verlieren.
 
 Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absicherung: Vereinfachungen muessen stets gegen das Original geprueft werden. Das Qualitaetsgate am Ende des Workflows sichert die Konformitaet vor Veroeffentlichung.
 
 ## Wann brauchen Sie diese Skill?
 
-- Eine Behoerde will Bescheide oder Widerspruchsbeschluesse fuer Buerger mit eingeschraenkter Lesekompetenz aufbereiten.
+- Eine Behörde will Bescheide oder Widerspruchsbeschluesse für Buerger mit eingeschraenkter Lesekompetenz aufbereiten.
 - Eine Kanzlei erklaert Mandanten verstaendlich, welche Rechte und Pflichten ein Vertrag begruendet.
 - Ein Unternehmen muss seine Datenschutzerklaerung barrierefrei gestalten (BITV 2.0, WCAG 2.1).
 - Ein Pflegeheim oder eine Sozialeinrichtung will Heimvertraege in Leichte Sprache uebersetzen.
@@ -146,20 +146,20 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 
 - **Einfache Sprache** — Schriftsprachliche Vereinfachung auf ca. Niveau B1 des Europaeischen Referenzrahmens; kurze Saetze, gebraeuchliche Woerter, aktive Formulierungen.
 - **Leichte Sprache** — Stark vereinfachte Sprache auf Niveau A2 nach BITV 2.0 und dem Regelwerk des Netzwerks Leichte Sprache; standardisierte Regeln zu Wortlaenge, Satzstruktur und Bildunterstuetzung.
-- **BITV 2.0** — Barrierefreie-Informationstechnik-Verordnung; verpflichtet oeffentliche Stellen zur barrierefreien Gestaltung digitaler Angebote einschliesslich Leichter Sprache.
+- **BITV 2.0** — Barrierefreie-Informationstechnik-Verordnung; verpflichtet öffentliche Stellen zur barrierefreien Gestaltung digitaler Angebote einschliesslich Leichter Sprache.
 - **Rechtsinhalt-Sicherung** — Pruefung, dass nach der Vereinfachung keine Rechte, Pflichten, Fristen oder Rechtsfolgen verloren gegangen sind.
 - **Qualitaetsgate** — Abschlusspruefung vor Veroeffentlichung: Verstaendlichkeit, Gleichgewicht zum Original, Glossar-Konsistenz, Barrierefreiheit.
 - **Zielgruppe** — Definierte Personengruppe (z. B. Menschen mit Lernschwierigkeiten, Buerger ohne Rechtskenntnisse), nach der Schwierigkeitsgrad und Modus gewaehlt werden.
 
 ## Rechtsgrundlagen
 
-- § 11 BGG (Barrierefreiheitsgebot oeffentlicher Stellen)
+- § 11 BGG (Barrierefreiheitsgebot öffentlicher Stellen)
 - BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung
-- § 3 BMAS-Richtlinie zu Leichter Sprache in Behoerden
+- § 3 BMAS-Richtlinie zu Leichter Sprache in Behörden
 - Art. 7 Abs. 2 DSGVO (Anforderungen an Einwilligungserklaerungen in verstaendlicher Sprache)
-- § 305 Abs. 2 BGB (Einbeziehungsvoraussetzungen fuer AGB — Deutlichkeitsgebot)
+- § 305 Abs. 2 BGB (Einbeziehungsvoraussetzungen für AGB — Deutlichkeitsgebot)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Wer ist die Zielgruppe des vereinfachten Textes?
 2. Modus festlegen: Einfache Sprache (B1) oder Leichte Sprache (A2)?
@@ -170,8 +170,8 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 ## Skill-Tour (was gibt es hier?)
 
 - `elsj-kommandocenter` — Navigationszentrum: Zielgruppe und Modus klaeren, starten, alle Skills koordinieren.
-- `elsj-einfache-sprache` — Juristischen Text auf Einfache Sprache Niveau B1 uebertragen fuer Buerger ohne Fachkenntnisse.
-- `elsj-leichte-sprache` — Juristischen Text auf Leichte Sprache Niveau A2 uebertragen fuer Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen.
+- `elsj-einfache-sprache` — Juristischen Text auf Einfache Sprache Niveau B1 uebertragen für Buerger ohne Fachkenntnisse.
+- `elsj-leichte-sprache` — Juristischen Text auf Leichte Sprache Niveau A2 uebertragen für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen.
 - `elsj-juristische-sicherung` — Sicherstellt, dass kein Rechtsinhalt (Rechte, Pflichten, Fristen, Betraege, Rechtsfolgen) bei der Vereinfachung verloren geht.
 - `elsj-qualitaetsgate` — Abschlusspruefung der vereinfachten Fassung vor Veroeffentlichung auf Verstaendlichkeit, Glaeubigkeit und Vollstaendigkeit.
 
@@ -185,7 +185,7 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 
 ## Typische Fehler
 
-- Zielgruppe nicht definiert: Text wird zu stark oder zu wenig vereinfacht, weil unklar ist, fuer wen er bestimmt ist.
+- Zielgruppe nicht definiert: Text wird zu stark oder zu wenig vereinfacht, weil unklar ist, für wen er bestimmt ist.
 - Rechtsinhalt-Sicherung uebersprungen: Fristen oder Rechtswirkungen gehen in der Vereinfachung unter.
 - Einfache und Leichte Sprache verwechselt: Leichte Sprache hat deutlich strengere Regeln (Satzlaenge, Bildunterstuetzung, Glossar).
 - Qualitaetsgate nicht durchgefuehrt: Vereinfachter Text wird veroeffentlicht, ohne auf Korrektheit geprueft zu werden.

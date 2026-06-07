@@ -108,7 +108,7 @@ Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zu
 
 ## Edge Cases und Was-Pruefer-Triggert
 
-- **IT-Outsourcing-Konstellationen**: ukrainische IT-Spezialisten arbeiten weiter remote fuer westeuropaeische Auftraggeber, oft ueber ukrainische Service-Gesellschaften (FOP — privater Unternehmer mit Sondersteuersystem 5 Prozent Umsatzsteuer). DBA-Berechtigung und § 50a EStG bei Vergueterscharakter pruefen.
+- **IT-Outsourcing-Konstellationen**: ukrainische IT-Spezialisten arbeiten weiter remote für westeuropaeische Auftraggeber, oft ueber ukrainische Service-Gesellschaften (FOP — privater Unternehmer mit Sondersteuersystem 5 Prozent Umsatzsteuer). DBA-Berechtigung und § 50a EStG bei Vergueterscharakter pruefen.
 - **A1-Bescheinigung Sozialversicherung**: Ukraine ist NICHT EU/EWR — EU-VO 883/2004 nicht anwendbar. Bilaterales Sozialversicherungsabkommen DE-UA (Abkommen vom 23.10.2018 ueber Soziale Sicherheit, in Kraft 11/2018 vom Anwender zu verifizieren) regelt.
 - **Pflege-Arbeitnehmer aus Ukraine in DE**: vor 2022 ueblich; seit Februar 2022 oft Fluechtlingsstatus statt Arbeitserlaubnis.
 - **MLI**: vom Anwender mit BMF-Verzeichnis zu verifizieren; bei Neufassung DBA wahrscheinlich BEPS-Standards integriert.
@@ -132,9 +132,9 @@ Ukrainischer IT-Spezialist mit Wohnsitz Kyiv, FOP-Status, erbringt Software-Dien
 - DE-Auftraggeber Aufwand als BA abzugsfaehig.
 - Praxis: kriegsbedingt oft Verzoegerungen, Devisenkontrolle bei Eingang in UA. Bei Fluechtlings-IT-Spezialisten mit Wohnsitz DE: unbeschraenkte Steuerpflicht DE, deutsche Lohn- bzw. Einkommensteuer.
 
-## Ausgabeformat fuer Mandanten-Memo Ukraine
+## Ausgabeformat für Mandanten-Memo Ukraine
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (IT-Outsourcing, Pflege, Fluechtling, Holding), Zeitraum mit Kriegsbezug.
 2. **Frage(n)**: Besteuerungsrecht, Tie-Breaker bei Fluechtlingen, Devisenkontrolle, Sanktionsstatus.

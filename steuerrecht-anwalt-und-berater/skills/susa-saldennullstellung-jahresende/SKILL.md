@@ -38,7 +38,7 @@ Zum Jahresende muessen die Erfolgskonten (Klasse 4-8 SKR 03, Klasse 4-7 SKR 04) 
 
 **§ 252 HGB** — Bewertungsgrundsaetze.
 
-**§ 5 EStG** — Massgeblichkeit Handels- fuer Steuerbilanz.
+**§ 5 EStG** — Massgeblichkeit Handels- für Steuerbilanz.
 
 **§ 11 EStG** — Zufluss-Abfluss-Prinzip (bei EUER).
 
@@ -93,7 +93,7 @@ Saldo Konto 9999 (Gewinn/Verlust) → Konto 2000 (Bilanzgewinn) [GmbH]
 ### Phase 6 — Dokumentation
 
 - Jahresabschluss-Mappe mit Schlussbilanz und GuV.
-- Schluss-SuSa als Beleg fuer Schliessung.
+- Schluss-SuSa als Beleg für Schliessung.
 - Eroeffnungsbilanz Folgejahr (analytisch).
 
 ## Output

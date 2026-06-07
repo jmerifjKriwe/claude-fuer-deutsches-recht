@@ -1,13 +1,13 @@
 ---
 name: amtsangemessene-alimentation-bverfg
-description: "Skill zur Pruefung der amtsangemessenen Alimentation der Beamten Richter und Soldaten nach Art. 33 Abs. 5 GG. Skill arbeitet das fuenfstufige Pruefungsschema des BVerfG ab mit den Indikatoren Tarifabstand Preisentwicklung Versorgungsempfaenger Vergleich zu anderen Besoldungsgruppen Familienzuschlag und Mindestabstand zur Grundsicherung. Liefert Bausteine fuer Widerspruch gegen Besoldung und fuer Vorlageantrag an das BVerfG durch das Verwaltungsgericht. Klaert die Konstellationen Bund und Land seit der Foederalismusreform und die statischen Besoldungsanpassungen einzelner Laender im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Pruefung der amtsangemessenen Alimentation der Beamten Richter und Soldaten nach Art. 33 Abs. 5 GG. Skill arbeitet das fuenfstufige Pruefungsschema des BVerfG ab mit den Indikatoren Tarifabstand Preisentwicklung Versorgungsempfaenger Vergleich zu anderen Besoldungsgruppen Familienzuschlag und Mindestabstand zur Grundsicherung. Liefert Bausteine für Widerspruch gegen Besoldung und für Vorlageantrag an das BVerfG durch das Verwaltungsgericht. Klaert die Konstellationen Bund und Land seit der Foederalismusreform und die statischen Besoldungsanpassungen einzelner Länder im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Amtsangemessene Alimentation — Pruefschema BVerfG
 
 ## Arbeitsbereich
 
-Skill zur Pruefung der amtsangemessenen Alimentation der Beamten Richter und Soldaten nach Art. 33 Abs. 5 GG. Skill arbeitet das fuenfstufige Pruefungsschema des BVerfG ab mit den Indikatoren Tarifabstand Preisentwicklung Versorgungsempfaenger Vergleich zu anderen Besoldungsgruppen Familienzuschlag und Mindestabstand zur Grundsicherung. Liefert Bausteine fuer Widerspruch gegen Besoldung und fuer Vorlageantrag an das BVerfG durch das Verwaltungsgericht. Klaert die Konstellationen Bund und Land seit der Foederalismusreform und die statischen Besoldungsanpassungen einzelner Laender. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Pruefung der amtsangemessenen Alimentation der Beamten Richter und Soldaten nach Art. 33 Abs. 5 GG. Skill arbeitet das fuenfstufige Pruefungsschema des BVerfG ab mit den Indikatoren Tarifabstand Preisentwicklung Versorgungsempfaenger Vergleich zu anderen Besoldungsgruppen Familienzuschlag und Mindestabstand zur Grundsicherung. Liefert Bausteine für Widerspruch gegen Besoldung und für Vorlageantrag an das BVerfG durch das Verwaltungsgericht. Klaert die Konstellationen Bund und Land seit der Foederalismusreform und die statischen Besoldungsanpassungen einzelner Länder. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -33,7 +33,7 @@ Skill zur Pruefung, ob die Besoldung eines Beamten oder Richters dem Grundsatz d
 ## 3. Ablauf / Checkliste
 
 ### a) Erste Stufe — Pruefkriterien
-- Das BVerfG hat in seiner staendigen Rechtsprechung mehrere Indikatoren etabliert, die im Zusammenwirken eine Vermutung der Unteralimentation begruenden koennen. Genannt werden u. a. Tarifentwicklung im oeffentlichen Dienst, Verbraucherpreisindex, Vergleich zur Grundsicherung, Abstand zur naechstniedrigeren Besoldungsgruppe, Familienzuschlag fuer das dritte und jedes weitere Kind.
+- Das BVerfG hat in seiner staendigen Rechtsprechung mehrere Indikatoren etabliert, die im Zusammenwirken eine Vermutung der Unteralimentation begruenden koennen. Genannt werden u. a. Tarifentwicklung im öffentlichen Dienst, Verbraucherpreisindex, Vergleich zur Grundsicherung, Abstand zur naechstniedrigeren Besoldungsgruppe, Familienzuschlag für das dritte und jedes weitere Kind.
 
 ### b) Zweite Stufe — Gesamtbetrachtung
 - Auf der zweiten Stufe ist eine Gesamtbetrachtung anzustellen, die auch qualitative Aspekte (Statusrelevanz, Mindestabstand zur Grundsicherung, Hergebrachte Grundsaetze) einbezieht.
@@ -46,7 +46,7 @@ Skill zur Pruefung, ob die Besoldung eines Beamten oder Richters dem Grundsatz d
 - Klage zum VG; Aussetzung des Verfahrens und Vorlage an das BVerfG nach Art. 100 Abs. 1 GG, wenn das VG von der Verfassungswidrigkeit ueberzeugt ist.
 
 ### e) Foederalismusreform 2006
-- Die Besoldung der Landes- und Kommunalbeamten ist seit der Foederalismusreform Sache der Laender. Daraus folgen unterschiedliche Anpassungspfade. Verfassungswidrigkeit ist landesspezifisch zu pruefen.
+- Die Besoldung der Landes- und Kommunalbeamten ist seit der Foederalismusreform Sache der Länder. Daraus folgen unterschiedliche Anpassungspfade. Verfassungswidrigkeit ist landesspezifisch zu pruefen.
 
 ## 4. Quellenpflicht
 
@@ -58,7 +58,7 @@ Skill zur Pruefung, ob die Besoldung eines Beamten oder Richters dem Grundsatz d
 
 - Widerspruchsschrift gegen Besoldungsfestsetzung.
 - Memoraster mit den BVerfG-Indikatoren.
-- Vorbereitendes Schreiben fuer Klage am VG mit Antrag auf Vorlage an das BVerfG.
+- Vorbereitendes Schreiben für Klage am VG mit Antrag auf Vorlage an das BVerfG.
 
 ## 6. Verifizierte Quellenanker
 

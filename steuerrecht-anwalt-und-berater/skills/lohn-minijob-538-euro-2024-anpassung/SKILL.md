@@ -81,7 +81,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 - Grundsatz: Minijob ist RV-pflichtig.
 - AN-Beitrag: Differenz zwischen 15 Prozent AG-Pauschale und vollem RV-Beitragssatz (Differenz ca. 3,6 Prozent).
 - Opt-out moeglich: AN beantragt schriftlich Befreiung von RV-Pflicht.
-- Antrag wirkt ab Beginn des Folgemonats; nicht ruecknahmemoeglich fuer den Minijob.
+- Antrag wirkt ab Beginn des Folgemonats; nicht ruecknahmemoeglich für den Minijob.
 
 ### Phase 4 — Anmeldung Minijob-Zentrale
 
@@ -113,7 +113,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 - 538 EUR (Stand 01.01.2024) ist nicht statisch — bei MiLo-Erhoehung neue Grenze; jeweils zum Stichtag pruefen.
 - Bei wesentlichen Sonderzahlungen Auslegung als regelmaessig im Jahresdurchschnitt — sonst Grenzverletzung.
 - Opt-out RV nur bei verstanden vom AN — Nachteil: keine Anrechnung auf RV-Anwartschaft.
-- Mehrfache Minijobs: AG haftet nur fuer eigenen Minijob; AN-Pruefpflicht aber.
+- Mehrfache Minijobs: AG haftet nur für eigenen Minijob; AN-Pruefpflicht aber.
 - StBVV: Minijob in Lohnpauschale; komplexe Sonderfaelle (Sonderzahlungen) Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Minijob-Konfiguration prueft automatisch Grenze; bei MiLo-Update jaehrlich anpassen.
 

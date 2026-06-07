@@ -1,13 +1,13 @@
 ---
 name: freiheitsstrafe-strafmass-geldstrafe
-description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte fuer typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Freiheitsstrafe — Strafmass pruefen
 
 ## Arbeitsbereich
 
-Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte fuer typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -47,7 +47,7 @@ Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkret
  - Ueber 2 Jahre: keine Bewaehrung mehr.
 - Verteidigung achtet darauf, ob ein Strafmass moeglichst unter 2 Jahre (und idealerweise unter 1 Jahr) liegt.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 1. **Konkreten Strafrahmen** feststellen (vgl. `strafrahmen-und-strafzumessungsstufen`).
 2. **Schuldrahmen-Spielraum** bilden: untere und obere Grenze schuldangemessener Strafe.
@@ -80,7 +80,7 @@ Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbez
 - Strafmilderungsgruende konsequent aufzeigen: §§ 46a, 17, 21 StGB.
 - Lange Verfahrensdauer ruegen und Kompensation einfordern.
 - Bewaehrungsperspektive sichern: Argumente zur Sozialprognose vorbereiten.
-- Wirtschaftliche und persoenliche Verhaeltnisse substantiiert vortragen.
+- Wirtschaftliche und persönliche Verhaeltnisse substantiiert vortragen.
 
 ## Antrags-Strategie Staatsanwaltschaft
 

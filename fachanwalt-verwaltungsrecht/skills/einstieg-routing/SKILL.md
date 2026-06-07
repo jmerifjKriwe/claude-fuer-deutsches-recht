@@ -23,7 +23,7 @@ Dieser Einstieg routet **Fachanwalt Verwaltungsrecht** vom ersten Sachverhalt zu
 - `schnittstelle-verpflichtungsklage-verwaltungsrecht` — Schnittstelle Verpflichtungsklage Verwaltungsrecht
 - `verwr-folgenbeseitigung-planfeststellung-grossvorhaben` — Verwr Folgenbeseitigung Planfeststellung Grossvorhaben
 - `verwr-verwaltungsverfahren-eilantrag-abs-energietrassen` — Verwr Verwaltungsverfahren Eilantrag Abs Energietrassen
-- `vorlaeufiger-vwvfg-vergleichsverhandlung-strategie` — Vorlaeufiger Vwvfg Vergleichsverhandlung Strategie
+- `vorläufiger-vwvfg-vergleichsverhandlung-strategie` — Vorlaeufiger Vwvfg Vergleichsverhandlung Strategie
 - `vwr-eilrechtsschutz-widerspruch-klage` — Vwr Eilrechtsschutz Widerspruch Klage
 
 ## Arbeitsweg

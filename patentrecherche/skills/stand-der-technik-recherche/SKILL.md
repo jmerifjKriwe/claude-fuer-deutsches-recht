@@ -111,7 +111,7 @@ Empfehlung an die Patentanwältin:
 Bevor die Recherche begonnen wird, klaere:
 1. Was ist der Prioritaetszeitpunkt — nach diesem Datum relevante Dokumente sind nicht massgeblich (§ 3 I PatG)?
 2. Gibt es bekannte Vorveröffentlichungen durch den Mandanten selbst (Messevortrag, Dissertation, Produktkatalog)?
-3. Sind Nicht-Patent-Literatur (NPL) — Aufsaetze, Normen, Konferenz-Proceedings — fuer das Technikgebiet besonders relevant?
+3. Sind Nicht-Patent-Literatur (NPL) — Aufsaetze, Normen, Konferenz-Proceedings — für das Technikgebiet besonders relevant?
 4. Welcher Fachmann ist massgeblich (IPC/CPC-basierte Einordnung des Technikgebiets)?
 
 ## Aktuelle Rechtsprechung

@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -131,7 +131,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 35-43 GWB** — Zusammenschlusskontrolle; Aufgreifschwellen; Anmeldepflicht
 - **§ 36 GWB** — Untersagungsvoraussetzungen; erhebliche Behinderung wirksamen Wettbewerbs
 - **§ 41 GWB** — Vollzugsverbot; bis zur Freigabe kein Vollzug; Bussgeld bis 10 % Weltumsatz
-- **Art. 1-21 FKVO (EG) 139/2004** — EU-Fusionskontrolle; Aufgreifschwellen; Alleinzustaendigkeit
+- **Art. 1-21 FKVO (EG) 139/2004** — EU-Fusionskontrolle; Aufgreifschwellen; Alleinzuständigkeit
 - **§§ 55 ff. AWG i.V.m. §§ 55 ff. AWV** — Aussenhandelsgesetz; Investitionspruefung
 - **SektSchV (Sicherheitsueberprueefungsverordnung)** — Sektoren Kritische Infrastruktur; KRITIS-Unternehmen
 - **§ 56 AWV** — Meldefrist 2 Monate ab sicherem Abschluss; Erwerb ab 10 % bei kritischen Sektoren
@@ -153,7 +153,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - ODER: 3. Aufgreifschwelle: Kaufpreis > 400 Mio. EUR + erhebliche Inlandstaetigkeit (§ 35 Ia GWB)
 
 ### EU-Kommission (Art. 1 FKVO)
-- Tier 1: Weltumsatz > 5 Mrd. EUR + EU-Umsatz > 250 Mio. EUR fuer mind. zwei Beteiligte
+- Tier 1: Weltumsatz > 5 Mrd. EUR + EU-Umsatz > 250 Mio. EUR für mind. zwei Beteiligte
 - Tier 2: Weltumsatz > 2.5 Mrd. EUR + EU-Umsatz > 100 Mio. EUR in mind. drei Mitgliedstaaten
 
 ### Vollzugsverbot (§ 41 GWB / Art. 7 FKVO)
@@ -172,24 +172,24 @@ Kein Vollzug bis zur Freigabe oder Ablauf der Pruefdauer. Ausnahme: vorherige Ge
 
 Meldefrist: 2 Monate nach Vertragsschluss. Pruefdauer: 4 Monate (verlaengerbar).
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Schwellentest** — Umsatzzahlen beider Parteien errechnen; GWB/FKVO/Drittlaender-Schwellen pruefen
 2. **FDI-Check** — Nationalitaet des Erwerbers; Sektor der Zielgesellschaft; AWV-Schwellen
 3. **Timeline festlegen** — Anmeldezeitpunkt (post-Signing); Pruefdauer Phase I (4 Wochen GWB; 25 Werktage FKVO)
 4. **Gun-Jumping-Protokoll** — Informationsaustausch beschraenken bis Freigabe; Clean Team wenn noetig
 5. **Anmeldungsformulare** — Bundeskartellamt: Formular A/B; EU-Kommission: Form CO/Short Form
-6. **Pre-notification Contacts** — informelle Voranfrage bei Behoerde; Zeitplan abklaeren
+6. **Pre-notification Contacts** — informelle Voranfrage bei Behörde; Zeitplan abklaeren
 7. **Anmeldung einreichen** — mit vollstaendigen Informationen; Kooperationspflicht
 8. **Phase-II-Risiko bewerten** — wenn Bedenken: Abhilfemassnahmen (Auflagen) verhandeln
 9. **Freigabe-Erlangung dokumentiert** → dann Closing freigeben
 
-## Entscheidungsbaum: Zustaendigkeit
+## Entscheidungsbaum: Zuständigkeit
 
 ```
 Umsaetze erreichen EU-Schwellen (FKVO Tier 1 oder 2)?
- → Ja: EU-Kommission zustaendig (One-Stop-Shop)
- → Ausnahme: Art. 9 FKVO Verweisung an nationale Behoerde beantragt?
+ → Ja: EU-Kommission zuständig (One-Stop-Shop)
+ → Ausnahme: Art. 9 FKVO Verweisung an nationale Behörde beantragt?
  → Nein: GWB-Schwellen erreicht?
  → Ja: Bundeskartellamt; ggf. simultane Nicht-EU-Anmeldungen
  → Nein: Keine Anmeldepflicht — trotzdem FDI-Screening pruefen!
@@ -218,11 +218,11 @@ Datum: [DATUM]
  Genehmigungspflicht: [Ja/Nein/Unsicher]
 
 3. TIMELINE
- | Meilenstein | Datum | Zustaendigkeit |
+ | Meilenstein | Datum | Zuständigkeit |
  |------------|-------|---------------|
  | Signing | [Datum] | Deal-Team |
  | Anmeldung | [Datum] | Kartellrecht-Team |
- | Phase-I-Frist | [Datum] | Behoerde |
+ | Phase-I-Frist | [Datum] | Behörde |
  | Voraussichtliches Closing | [Datum] | Alle |
 
 4. EMPFEHLUNG
@@ -234,7 +234,7 @@ Datum: [DATUM]
 - Vollzugsverbot missachtet — Gun Jumping; Bussgeld bis 10 % Weltumsatz
 - FDI-Meldefrist verpasst (2 Monate nach Vertragsschluss) → BMWK kann nachtraegliche Untersagung erwaegen
 - Phase-II-Risiko unterschaetzt → Closing verzoegert sich 6-18 Monate
-- Drittland-Anmeldungen (USA, China) vergessen → Separates Vollzugsverbot in diesen Laendern
+- Drittland-Anmeldungen (USA, China) vergessen → Separates Vollzugsverbot in diesen Ländern
 - SektSchV-Pruefung bei Ruestungsunternehmen vergessen → Genehmigungspflicht verpasst
 
 ## Quellen

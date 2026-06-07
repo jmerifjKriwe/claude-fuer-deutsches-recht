@@ -1,20 +1,20 @@
 ---
 name: rom-i
-description: "ROM I im Internationalen Wirtschaftsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Vertragsparteien aus verschiedenen Laendern streiten über. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "ROM I im Internationalen Wirtschaftsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Vertragsparteien aus verschiedenen Ländern streiten über. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # ROM I
 
 ## Arbeitsbereich
 
-**ROM I** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Vertragsparteien aus verschiedenen Laendern streiten über. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**ROM I** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Vertragsparteien aus verschiedenen Ländern streiten über. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-internationales-wirtschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-internationales-wirtschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit` | Vertragsparteien aus verschiedenen Laendern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4 charakteristische Leistung Sondervorschriften Verbrauchervertraege Art. 6 Befoerderung Art. 5 Arbeitsvertraege Art. 8 international zwingende Eingriffsnormen Art. 9 ordre public Art. 21. Output: Rechtsanwendbarkeits-Analyse. Abgrenzung zu fachanwalt-iwr-brussels-ia-zuständigkeit (gerichtliche Zuständigkeit) und gerichtsstand-und-rechtswahl-prüfen. |
+| `fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit` | Vertragsparteien aus verschiedenen Ländern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4 charakteristische Leistung Sondervorschriften Verbrauchervertraege Art. 6 Befoerderung Art. 5 Arbeitsvertraege Art. 8 international zwingende Eingriffsnormen Art. 9 ordre public Art. 21. Output: Rechtsanwendbarkeits-Analyse. Abgrenzung zu fachanwalt-iwr-brussels-ia-zuständigkeit (gerichtliche Zuständigkeit) und gerichtsstand-und-rechtswahl-prüfen. |
 
 ## Arbeitsweg
 
@@ -97,7 +97,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 3. `fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit`
 
-**Fokus:** Vertragsparteien aus verschiedenen Laendern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4 charakteristische Leistung Sondervorschriften Verbrauchervertraege Art. 6 Befoerderung Art. 5 Arbeitsvertraege Art. 8 international zwingende Eingriffsnormen Art. 9 ordre public Art. 21. Output: Rechtsanwendbarkeits-Analyse. Abgrenzung zu fachanwalt-iwr-brussels-ia-zuständigkeit (gerichtliche Zuständigkeit) und gerichtsstand-und-rechtswahl-prüfen.
+**Fokus:** Vertragsparteien aus verschiedenen Ländern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4 charakteristische Leistung Sondervorschriften Verbrauchervertraege Art. 6 Befoerderung Art. 5 Arbeitsvertraege Art. 8 international zwingende Eingriffsnormen Art. 9 ordre public Art. 21. Output: Rechtsanwendbarkeits-Analyse. Abgrenzung zu fachanwalt-iwr-brussels-ia-zuständigkeit (gerichtliche Zuständigkeit) und gerichtsstand-und-rechtswahl-prüfen.
 
 # Rom-I-Anwendbarkeit
 
@@ -108,7 +108,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Liegt eine ausdrückliche oder konkludente Rechtswahl vor und welche Form hat sie?
 4. Wo hat der Erbringer der charakteristischen Leistung seinen gewöhnlichen Aufenthalt?
 5. Liegen Eingriffsnormen (Embargo, Sanktionen, Devisenrecht) am Erfüllungsort vor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

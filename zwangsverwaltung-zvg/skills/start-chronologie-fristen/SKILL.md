@@ -135,7 +135,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `zvg-konten-kassenfuehrung` | Kontenführung und Buchführung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG… |
 | `zvg-miet-und-pachtverwaltung` | Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsuebernahme und Zahlungseinzug. Anwendungsfall Zwangsverwalter uebernimmt bestehende Mietverhältnisse und muss diese weiter verwalten. Normen §… |
 | `zvg-mieteinzug-rueckstaende` | Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Anwendungsfall Mieter zahlt nicht und Zwangsverwalter muss Rückstande einziehen oder Klage einleiten. Normen § 152 ZVG Mieteinzugspflicht § 543 BGB fristlose… |
-| `zvg-oeffentliche-lasten` | Öffentliche Lasten und grundstuecksbezogene Abgaben in der Zwangsverwaltung. Anwendungsfall Grundsteuer Erschließungsgebuhren oder Beitraege werden fällig und Zwangsverwalter muss prüfen ob und in welchem Rang zu… |
+| `zvg-öffentliche-lasten` | Öffentliche Lasten und grundstuecksbezogene Abgaben in der Zwangsverwaltung. Anwendungsfall Grundsteuer Erschließungsgebuhren oder Beitraege werden fällig und Zwangsverwalter muss prüfen ob und in welchem Rang zu… |
 | `zvg-portal-recherche` | Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG… |
 | `zvg-quality-gate` | Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG… |
 | `zvg-raeumung-kuendigung` | Räumung Kündigung und Besitzkonflikte in der Zwangsverwaltung. Anwendungsfall Schuldner weigert sich auszuziehen oder Mieter soll nach Zwangsverwaltungsende kündigt werden. Normen § 150 ZVG Besitzrecht § 543 BGB… |
@@ -164,10 +164,10 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 
 - **Beschlagnahme** — Rechtliche Wirkung der Anordnung der Zwangsverwaltung: Der Schuldner verliert die Verfuegungsmacht ueber Fruechte und Nutzungen (§§ 146 148 ZVG).
 - **Zwangsverwalter** — Vom Vollstreckungsgericht bestellte Person, die das Objekt im Interesse der Glaeubiger verwaltet (§§ 150 ff. ZVG).
-- **Treuhandkonto** — Getrenntes Konto fuer Einnahmen und Ausgaben der Zwangsverwaltung; Zwangsverwalter fuehrt es treuhänderisch.
+- **Treuhandkonto** — Getrenntes Konto für Einnahmen und Ausgaben der Zwangsverwaltung; Zwangsverwalter fuehrt es treuhänderisch.
 - **Rechnungslegung** — Pflicht des Zwangsverwalters nach § 161 ZVG, dem Gericht jaehrlich Rechenschaft ueber Einnahmen und Ausgaben abzulegen.
 - **Verteilungsplan** — Verteilung der Einnahmen nach gesetzlicher Rangfolge des § 155 ZVG auf Kosten, Glaeubiger und sonstige Berechtigte.
-- **Geringstes Gebot** — Mindestgebot in der Zwangsversteigerung nach § 74a ZVG: Massstab fuer 7/10-Grenze und Zuschlagsversagung.
+- **Geringstes Gebot** — Mindestgebot in der Zwangsversteigerung nach § 74a ZVG: Massstab für 7/10-Grenze und Zuschlagsversagung.
 - **Absonderungsrecht** — Recht eines Glaeubigers, Befriedigung aus einem bestimmten Gegenstand vorrangig zu verlangen (§ 49 InsO im Kontext der Insolvenzschnittstelle).
 - **Rangklassen** — Gesetzliche Rangfolge der Befriedigung im ZVG-Verfahren nach § 10 ZVG.
 
@@ -184,7 +184,7 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - § 165 InsO — Absonderungsrecht des Grundpfandglaeubigers
 - § 823 BGB — Verkehrssicherungspflicht bei Objektmaengeln
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Bestellungsbeschluss pruefen und Objektcockpit anlegen (Aktenanlage, Beteiligtenregister, Mieterliste, Treuhandkonto).
 2. Besitzerlangung vor Ort protokollieren und Gericht informieren.
@@ -195,7 +195,7 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 ## Skill-Tour (was gibt es hier?)
 
 - `zvg-aktenanlage-objektcockpit` — Aktenanlage und Objektcockpit aufbauen: Objektkarte, Beteiligtenregister, Mieterliste und Fristen.
-- `zvg-berichtswesen-gericht` — Besitzerlangungsbericht, Sachstandsbericht und Entscheidungsvorlagen fuer das Vollstreckungsgericht erstellen.
+- `zvg-berichtswesen-gericht` — Besitzerlangungsbericht, Sachstandsbericht und Entscheidungsvorlagen für das Vollstreckungsgericht erstellen.
 - `zvg-besitzuebernahme` — Besitzerlangung am Objekt protokollieren: Vor-Ort-Termin, Objektbeschreibung, Schluesselliste und Gericht informieren.
 - `zvg-bestellung-beschlagnahme` — Bestellungsbeschluss und Beschlagnahme rechtlich pruefen: Vollstaendigkeitsvermerk und naechste Schritte.
 - `zvg-betriebskosten-hausgeld` — Betriebskosten, WEG-Hausgeld und laufende Objektkosten pruefen und abrechnen.
@@ -207,7 +207,7 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - `zvg-konten-kassenfuehrung` — Treuhandkonto und Buchfuehrung: Einnahmen, Ausgaben, Saldo und Belegverzeichnis.
 - `zvg-miet-und-pachtverwaltung` — Miet- und Pachtverwaltung einschliesslich Vertragsuebernahme und Zahlungseinzug.
 - `zvg-mieteinzug-rueckstaende` — Mietrueckstaende einziehen: Mahnung, Ratenvereinbarung, Klage und Einzugsnachweis.
-- `zvg-oeffentliche-lasten` — Grundsteuer, Erschliessungsgebuehren und oeffentliche Abgaben in der Rangklassenlogik behandeln.
+- `zvg-öffentliche-lasten` — Grundsteuer, Erschliessungsgebuehren und öffentliche Abgaben in der Rangklassenlogik behandeln.
 - `zvg-portal-recherche` — ZVG-Portal-Recherche zu Versteigerungsterminen, Gutachten-Downloads und Terminlisten.
 - `zvg-quality-gate` — Qualitaetsgate vor Versand oder Rechnungslegung: Ampelstatus und Freigabeentscheidung.
 - `zvg-raeumung-kuendigung` — Raeumung, Kuendigung und Besitzkonflikte mit Schuldner oder Mieter bearbeiten.
@@ -231,7 +231,7 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - Vorausverfuegungen des Schuldners (Mietvorauszahlungen, Abtretungen) nicht geprueft; unbekannte Belastungen reduzieren auszahlbare Einnahmen.
 - Mietrueckstaende zu lange belassen ohne Mahnung und Klageeinleitung; Forderungspraeskription und Insolvenz des Mieters drohen.
 - Rechnungslegung ohne vollstaendige Belegpruefung; Gericht fordert Nachbesserungen.
-- Bei Aufhebung der Zwangsverwaltung kein Uebergabebericht fuer das Versteigerungsverfahren erstellt.
+- Bei Aufhebung der Zwangsverwaltung kein Uebergabebericht für das Versteigerungsverfahren erstellt.
 - Versicherungsschutz erst nach Schadenfall geprueft; rueckwirkende Deckungsluecken sind unvermeidlich.
 
 ## Querverweise
@@ -239,7 +239,7 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - `insolvenzverwaltung` — Bei Insolvenz des Schuldners; Absonderungsrechte und Masseschnittstelle.
 - `immobilienrechtspraxis` — Fuer mietrechtliche Grundlagen und Vertragsanalyse.
 - `aktenauszug-gerichtsverfahren` — Fuer schnelle Einarbeitung in das zugrunde liegende Vollstreckungsverfahren.
-- `kanzlei-allgemein` — Allgemeines Kanzlei-Workflow-Plugin fuer Fristen und Schriftsaetze.
+- `kanzlei-allgemein` — Allgemeines Kanzlei-Workflow-Plugin für Fristen und Schriftsaetze.
 
 ## Quellen und Aktualitaet
 

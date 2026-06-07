@@ -1,13 +1,13 @@
 ---
 name: themenscout-rechtsentwicklung
-description: "Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und Gesetzgebungsverfahren als Themenkandidaten fuer Aufsaetze und Heftaufmacher im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und Gesetzgebungsverfahren als Themenkandidaten für Aufsaetze und Heftaufmacher im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Themenscout Rechtsentwicklung
 
 ## Arbeitsbereich
 
-Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und Gesetzgebungsverfahren als Themenkandidaten fuer Aufsaetze und Heftaufmacher. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und Gesetzgebungsverfahren als Themenkandidaten für Aufsaetze und Heftaufmacher. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -23,7 +23,7 @@ Eine Fachzeitschrift lebt davon, fruehzeitig die Themen zu sehen, ueber die in 4
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn fuer die periodische Themenfindung (woechentlich / monatlich) oder bei punktueller Frage "was sollte ins Heft 09/2026?". Klaeren Sie:
+Sie brauchen ihn für die periodische Themenfindung (woechentlich / monatlich) oder bei punktueller Frage "was sollte ins Heft 09/2026?". Klaeren Sie:
 
 1. Welches Rechtsgebiet / welche Zeitschriften (NJW Allgemein, NZA Arbeitsrecht, ZIP Insolvenz, BB Wirtschaft)?
 2. Welcher Zeithorizont (4 Wochen Aufmacher, 12 Wochen Quartalsplanung)?
@@ -38,13 +38,13 @@ Sie brauchen ihn fuer die periodische Themenfindung (woechentlich / monatlich) o
 - Gesetzgebungsverfahren auf Bundes- und EU-Ebene.
 - BMF-Schreiben, BAFin-Mitteilungen, BNetzA-Verfuegungen.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
-1. **Quellenscan periodisch.** Frei zugaengliche Quellen: bundesgerichtshof.de Pressemitteilungen; bundesverfassungsgericht.de Entscheidungen und anhaengige Verfahren; curia.europa.eu fuer EuGH; bmf.de Schreiben; bundesregierung.de Gesetzentwuerfe.
+1. **Quellenscan periodisch.** Frei zugaengliche Quellen: bundesgerichtshof.de Pressemitteilungen; bundesverfassungsgericht.de Entscheidungen und anhaengige Verfahren; curia.europa.eu für EuGH; bmf.de Schreiben; bundesregierung.de Gesetzentwuerfe.
 2. **Klassifikation.** Pro Treffer: Aktenzeichen, Datum, Gegenstand in einem Satz, Bedeutung (1-5), Eilbeduerftigkeit (1-5), Verlagseignung (Aufsatz / Anmerkung / Editorial).
 3. **Trendlinien aufspueren.** Mehrere Entscheidungen zum gleichen Themenkreis innerhalb 6-12 Monaten? Hinweise auf Linienaenderung der Rspr.?
-4. **Autoren-Matching.** Wer ist dafuer prädestiniert? Profilseite Autorin, vorherige Aufsaetze.
-5. **Themenbrief.** Konzentrat fuer die Redaktionssitzung: Thema, Anlass, mögliche Autorin, Format, Heft.
+4. **Autoren-Matching.** Wer ist dafür prädestiniert? Profilseite Autorin, vorherige Aufsaetze.
+5. **Themenbrief.** Konzentrat für die Redaktionssitzung: Thema, Anlass, mögliche Autorin, Format, Heft.
 6. **Triage-Entscheidung in der Sitzung** (siehe `verl-redaktionssitzung-vorbereiten`).
 
 ## Trade-off-Matrix
@@ -104,7 +104,7 @@ Quellen-URL: https://www.bundesgerichtshof.de/...
 
 - `verl-trend-radar-rechtsgebiete` - rechtsgebietsuebergreifender Trend.
 - `verl-redaktionssitzung-vorbereiten` - Themen bringen in die Sitzung.
-- `verl-redaktionsmemo-jahresplanung` - fuer Jahresplanung.
+- `verl-redaktionsmemo-jahresplanung` - für Jahresplanung.
 - `verl-ideenpool-und-priorisierung` - Backlog-Verwaltung.
 - `entscheidungsmonitor-rechtsstand` - laufender Monitor (bestehender Skill).
 
@@ -117,4 +117,4 @@ Quellen-URL: https://www.bundesgerichtshof.de/...
 - BMF-Schreiben, [https://www.bundesfinanzministerium.de](https://www.bundesfinanzministerium.de).
 - Bundesgesetzblatt online, [https://www.recht.bund.de/bgbl/](https://www.recht.bund.de/bgbl/).
 - Bundesrat / Bundestag Drucksachen, [https://dip.bundestag.de](https://dip.bundestag.de).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.

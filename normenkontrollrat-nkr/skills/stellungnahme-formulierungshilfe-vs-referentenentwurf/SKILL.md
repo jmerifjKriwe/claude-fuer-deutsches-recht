@@ -32,13 +32,13 @@ Rueckfrage nur wenn unklar: *"Liegt eine Formulierungshilfe der Bundesregierung 
 
 ## Rechtlicher und methodischer Rahmen
 
-- **NKRG** § 4 — Befassungspflicht (formal nur fuer Regierungsvorhaben)
+- **NKRG** § 4 — Befassungspflicht (formal nur für Regierungsvorhaben)
 - **GGO** § 62 — Befassungspflicht vor Kabinett
 - **GO BT** §§ 75 ff. — Initiativen aus der Mitte des Bundestages
 - **Praxis** — faktische NKR-Beteiligung bei Formulierungshilfen
 - **NKR-Jahresbericht** — wiederholte Mahnungen zur Umgehungsproblematik
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. Identifikation
 
@@ -50,7 +50,7 @@ Rueckfrage nur wenn unklar: *"Liegt eine Formulierungshilfe der Bundesregierung 
 
 - Formelle Pflicht? -> nein (Initiative aus der Mitte des BT)
 - Faktische Praxis? -> ja, in der Regel wird der NKR informell oder formell befasst
-- Ggf. Anhoerung im Ausschuss als formales Aequivalent
+- Ggf. Anhörung im Ausschuss als formales Aequivalent
 
 ### 3. Methodische Besonderheiten
 
@@ -84,7 +84,7 @@ Rueckfrage nur wenn unklar: *"Liegt eine Formulierungshilfe der Bundesregierung 
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Der NKR ist mit dem Vorhaben in Form einer Formulierungshilfe der Bundesregierung an die Koalitionsfraktionen befasst worden. Die foermliche Befassungspflicht nach NKRG ist insoweit zwar nicht ausgeloest, der NKR nimmt jedoch in Wahrnehmung seiner Aufgabe Stellung."
-- "Der NKR weist darauf hin, dass die mit der Formulierungshilfe vorgesehene Regelung gemaess Inhalt und Umfang einem Referentenentwurf entspricht und sich deshalb an den methodischen Anforderungen fuer Regierungsentwuerfe messen lassen muss."
+- "Der NKR weist darauf hin, dass die mit der Formulierungshilfe vorgesehene Regelung gemaess Inhalt und Umfang einem Referentenentwurf entspricht und sich deshalb an den methodischen Anforderungen für Regierungsentwuerfe messen lassen muss."
 - "Der NKR empfiehlt, die im Rahmen der Formulierungshilfe noch nicht vollstaendige Darstellung des Erfuellungsaufwands im weiteren Beratungsverlauf des Bundestages durch die Bundesregierung zu ergaenzen."
 - "Der NKR wird auf das Phaenomen der wiederholten Inanspruchnahme von Formulierungshilfen ohne vollstaendige methodische Darstellung in seinem naechsten Jahresbericht eingehen."
 

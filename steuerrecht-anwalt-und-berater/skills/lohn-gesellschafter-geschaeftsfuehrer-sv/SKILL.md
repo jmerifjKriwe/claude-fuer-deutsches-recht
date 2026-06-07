@@ -52,7 +52,7 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 ### Phase 1 — Kriterien-Pruefung
 
-| Kriterium | Spricht fuer selbstaendig | Spricht fuer abhaengig |
+| Kriterium | Spricht für selbstaendig | Spricht für abhaengig |
 |---|---|---|
 | Kapitalbeteiligung | Mehrheit | Minderheit |
 | Stimmrechte | Mehrheit oder Sperrminoritaet | Minderheit ohne Sperre |
@@ -68,7 +68,7 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 - Formular V0027.
 - Beilagen: Gesellschaftsvertrag, GF-Vertrag, Gesellschafterliste.
 - Bearbeitungszeit ca. 3-6 Monate.
-- Bescheid bindet auch fuer Krankenkasse und FA.
+- Bescheid bindet auch für Krankenkasse und FA.
 
 ### Phase 3 — Wirkung bei selbstaendig
 
@@ -89,7 +89,7 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 - Fremd-Geschaeftsfuehrer (keine Kapitalbeteiligung): in der Regel abhaengig.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Geschaeftsfuehrer mit echter Sperrminoritaet ueber satzungsmaessige Beschluesse (typisch >25 Prozent bei Mehrheitsklauseln; einzelfallabhaengig): selbstaendig.
+- Geschaeftsfuehrer mit echter Sperrminoritaet ueber satzungsmäßige Beschluesse (typisch >25 Prozent bei Mehrheitsklauseln; einzelfallabhaengig): selbstaendig.
 - 50/50-GGF mit zwei Gesellschaftern und Vetoposition: selbstaendig (kein Beschluss gegen ihn moeglich).
 - Wichtig: Stimmrechtsvereinbarungen ausserhalb der Satzung (Pool-Vertrag) werden vom BSG seit ca. 2015 nicht mehr als Sperrminoritaet anerkannt.
 
@@ -97,21 +97,21 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 - Bei DRV-Pruefung: rueckwirkende Nachforderung 4 Jahre.
 - Saeumniszuschlag 1 Prozent pro Monat.
-- AG haftet fuer AN- und AG-Anteil.
+- AG haftet für AN- und AG-Anteil.
 - Strafrechtlich § 266a StGB-Risiko bei Vorsatz.
 
 ## Output
 
 - Statusfeststellungs-Antrag DRV.
 - Bescheid mit Statusfeststellung.
-- Mandanten-Notiz fuer Lohnabrechnung.
+- Mandanten-Notiz für Lohnabrechnung.
 - Lohnabrechnung mit korrekter SV-Behandlung.
 
 ## Strategie und Praxis-Tipps
 
 - Statusfeststellung bei jedem GGF zwingend empfehlen — Rechtssicherheit.
 - Bei Familien-GmbH besonders sorgfaeltig — BSG hat hier mehrfach gewechselt.
-- Satzungsmaessige Sperrminoritaet (Hoehe je nach Gesellschaftsvertrag, typisch >25 Prozent) ist nach BSG-Linie die sichere Trennlinie zu Selbstaendigkeit; Stimmrechtsvereinbarungen ausserhalb der Satzung reichen nicht.
+- Satzungsmäßige Sperrminoritaet (Hoehe je nach Gesellschaftsvertrag, typisch >25 Prozent) ist nach BSG-Linie die sichere Trennlinie zu Selbstaendigkeit; Stimmrechtsvereinbarungen ausserhalb der Satzung reichen nicht.
 - Bei spaeterer Aenderung (Verkauf Anteile, neue Gesellschaftervereinbarung): Statusfeststellung wiederholen.
 - StBVV: Statusfeststellung als Zusatzauftrag mit Zeithonorar (komplex).
 - DATEV-Tipp: DATEV LODAS bei GGF separate Personengruppen-Schluessel; bei "selbstaendig" Lohnabrechnung manuell konfigurieren.

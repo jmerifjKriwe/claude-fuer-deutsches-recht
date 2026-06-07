@@ -36,7 +36,7 @@ Verknüpfe ArbnErfG-Fragen mit Anmelder- und Rechtekette.
 
 ### Anwendbares Recht
 - **§ 13 GebrMG**: Recht des Anmelders / Erfinders.
-- **ArbnErfG (Arbeitnehmererfindungsgesetz)**: greift auch fuer Gebrauchsmuster (§ 1 Abs. 1 ArbnErfG: "Erfindung im Sinne dieses Gesetzes sind nur patentfaehige und gebrauchsmusterfaehige Erfindungen").
+- **ArbnErfG (Arbeitnehmererfindungsgesetz)**: greift auch für Gebrauchsmuster (§ 1 Abs. 1 ArbnErfG: "Erfindung im Sinne dieses Gesetzes sind nur patentfaehige und gebrauchsmusterfaehige Erfindungen").
 
 ### Pflichten des Arbeitnehmers
 - **§ 5 ArbnErfG**: Meldepflicht der Diensterfindung an den Arbeitgeber unverzueglich.
@@ -46,7 +46,7 @@ Verknüpfe ArbnErfG-Fragen mit Anmelder- und Rechtekette.
 - **§§ 9-11 ArbnErfG**: Verguetung nach Massgabe der Verguetungsrichtlinie.
 - Berechnungsfaktoren: erfinderische Leistung, Bedeutung der Erfindung, Aufgabenstellung im Betrieb.
 
-### Wichtig fuer Gebrauchsmuster
+### Wichtig für Gebrauchsmuster
 - Auch wenn das Gebrauchsmuster nicht materiell geprueft wird: Verguetungspflicht des Arbeitgebers besteht.
 - Auch bei "freier Erfindung" (§ 4 Abs. 3 ArbnErfG) Anbietungspflicht.
 

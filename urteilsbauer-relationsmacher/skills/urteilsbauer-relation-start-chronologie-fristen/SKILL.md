@@ -142,22 +142,22 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `revisionsfest-pruefen` | Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründe Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung.… |
 | `schulung-urteilsbauer` | Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele,… |
 | `tatbestand-zivil-schreiben` | Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Richter muss den Prozessstoff sachlich und knapp wiedergeben. Normen: § 313 Abs. 2 ZPO (Tatbestand-Anforderungen), § 314 ZPO (Beweiskraft des Tatbestands).… |
-| `tenor-bauen-zivil` | Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO… |
+| `tenor-bauen-zivil` | Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorläufige Vollstreckbarkeit), § 511 ZPO… |
 | `vollrelation-langfassung` | Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung… |
-| `vorlaeufige-vollstreckbarkeit` | Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO… |
+| `vorläufige-vollstreckbarkeit` | Anordnung zur vorläufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO… |
 | `zulaessigkeit-pruefen` | Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Referendar prüft Prüfstation Zulässigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zuständigkeit), §§ 12 ff. ZPO (örtliche… |
 
 ## Worum geht es?
 
-Das Plugin ist eine Urteils- und Beschluss-Werkstatt fuer Richter, Referendare und Rechtspfleger. Es begleitet den vollstaendigen vom Aktenintake ueber die Relation (Entscheidungsunterlage) bis zum fertigen Urteil als DOCX-Dokument im offiziellen Gerichtslayout. Das Plugin stuetzt die Pruefung von Zulaessigkeit, Anspruchsgrundlagen, Beweiswuerdigung und Kostenentscheidung sowie Rechtsmittelbelehrung.
+Das Plugin ist eine Urteils- und Beschluss-Werkstatt für Richter, Referendare und Rechtspfleger. Es begleitet den vollstaendigen vom Aktenintake ueber die Relation (Entscheidungsunterlage) bis zum fertigen Urteil als DOCX-Dokument im offiziellen Gerichtslayout. Das Plugin stuetzt die Pruefung von Zulaessigkeit, Anspruchsgrundlagen, Beweiswuerdigung und Kostenentscheidung sowie Rechtsmittelbelehrung.
 
-Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), internationales Privatrecht (IPR), CISG-Sachverhalte, kollidierende AGB und die vorlaeufige Vollstreckbarkeit ab. Ausbildungsmodule unterstuetzen Referendare bei der Vollrelation nach Schulstandard.
+Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), internationales Privatrecht (IPR), CISG-Sachverhalte, kollidierende AGB und die vorläufige Vollstreckbarkeit ab. Ausbildungsmodule unterstuetzen Referendare bei der Vollrelation nach Schulstandard.
 
 ## Wann brauchen Sie diese Skill?
 
 - Richter hat neue Zivilakte und will Ueberblick gewinnen, Verfahrensstand klaeren und Anspruchsgrundlagen identifizieren.
-- Referendar oder Assessorkandidat erstellt Relation oder Vollrelation fuer Examensvorbereitung.
-- Richter muss Beweiswuerdigung nach § 286 ZPO verschriftlichen und dafuer gegliederten Abschnitt in den Entscheidungsgruenden erzeugen.
+- Referendar oder Assessorkandidat erstellt Relation oder Vollrelation für Examensvorbereitung.
+- Richter muss Beweiswuerdigung nach § 286 ZPO verschriftlichen und dafür gegliederten Abschnitt in den Entscheidungsgruenden erzeugen.
 - Gericht erstellt Beschluss (PKH, Streitwert, Hinweis nach § 139 ZPO) oder Versaumnisurteil.
 - Internationaler Kaufvertrag mit CISG- oder IPR-Bezug muss rechtlich eingeordnet werden.
 
@@ -166,11 +166,11 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - **Relation** — Richterliche Entscheidungsunterlage; strukturierte Zusammenfassung von Sach- und Streitstand, Beweisaufnahme und rechtlicher Wuerdigung.
 - **Tatbestand (§ 313 Abs. 2 ZPO)** — Pflichtbestandteil des Urteils; sachliche Darstellung des Parteivorbringens ohne Wertung.
 - **Entscheidungsgruende (§ 313 Abs. 3 ZPO)** — Rechtliche und tatsaechliche Begruendung des Tenors.
-- **Tenor** — Urteilsausspruch; entscheidet ueber Hauptsache, Kosten und vorlaeufige Vollstreckbarkeit.
+- **Tenor** — Urteilsausspruch; entscheidet ueber Hauptsache, Kosten und vorläufige Vollstreckbarkeit.
 - **Beweiswuerdigung (§ 286 ZPO)** — Freie Wuerdigung des Ergebnisses der Beweisaufnahme; Kernaufgabe des Gerichts.
-- **Vollrelation** — Ausfuehrliche Relation nach Schulstandard fuer Referendars- und Assessor-Pruefung.
+- **Vollrelation** — Ausfuehrliche Relation nach Schulstandard für Referendars- und Assessor-Pruefung.
 - **FamFG** — Gesetz ueber das Verfahren in Familiensachen; regelt Beschlussverfahren in Familiengericht-Sachen.
-- **CISG** — UN-Kaufrecht (Convention on Contracts for the International Sale of Goods); gilt fuer grenzueberschreitende Kaufvertraege zwischen Unternehmern aus Vertragsstaaten.
+- **CISG** — UN-Kaufrecht (Convention on Contracts for the International Sale of Goods); gilt für grenzueberschreitende Kaufvertraege zwischen Unternehmern aus Vertragsstaaten.
 
 ## Rechtsgrundlagen
 
@@ -185,10 +185,10 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - CISG — UN-Kaufrecht
 - Rom I-VO, Rom II-VO — Anwendbares Recht bei grenzueberschreitenden Sachverhalten
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Aktenintake: Akte einlesen, Verfahrensstand und Sachverhalt strukturieren.
-2. Zulaessigkeit pruefen: Gerichtliche Zustaendigkeit, Rechtsschutzinteresse, Prozessvoraussetzungen.
+2. Zulaessigkeit pruefen: Gerichtliche Zuständigkeit, Rechtsschutzinteresse, Prozessvoraussetzungen.
 3. Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bestimmen.
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
 5. Tenor, Tatbestand, Entscheidungsgruende, Kostenentscheidung und Rechtsmittelbelehrung nacheinander oder geblockt erstellen.
@@ -196,29 +196,29 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 ## Skill-Tour (was gibt es hier?)
 
 - `aktenintake-zivil` — Eingehende Zivilakte strukturieren und Ueberblick gewinnen.
-- `zulaessigkeit-pruefen` — Zulaessigkeit der Zivilklage systematisch pruefen: Zustaendigkeit, Prozessfaehigkeit, Rechtsschutzinteresse.
+- `zulaessigkeit-pruefen` — Zulaessigkeit der Zivilklage systematisch pruefen: Zuständigkeit, Prozessfaehigkeit, Rechtsschutzinteresse.
 - `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bei Anspruchskonkurrenz bestimmen.
 - `relation-zivil` — Zivilrechtliche Relation nach klassischer Relationstechnik erstellen (Kurz- oder Langfassung).
-- `vollrelation-langfassung` — Vollstaendige Relation im Schulstandard fuer Referendar- und Assessorpruefung.
+- `vollrelation-langfassung` — Vollstaendige Relation im Schulstandard für Referendar- und Assessorpruefung.
 - `beweiswuerdigung-mit-richter-input` — Strukturierte Beweiswuerdigung nach § 286 ZPO mit Richter-Input ausformulieren.
 - `beweisbeschluss-vorbereiten` — Beweisbeschluss nach § 359 ZPO vorbereiten.
 - `tatbestand-zivil-schreiben` — Tatbestand nach § 313 Abs. 2 ZPO sachlich und knapp ausformulieren.
 - `entscheidungsgruende-zivil-schreiben` — Entscheidungsgruende im Urteilsstil schreiben.
-- `tenor-bauen-zivil` — Tenor konstruieren: Hauptsache, Kosten, vorlaeufige Vollstreckbarkeit.
+- `tenor-bauen-zivil` — Tenor konstruieren: Hauptsache, Kosten, vorläufige Vollstreckbarkeit.
 - `kostenentscheidung-bauen` — Kostenentscheidung nach §§ 91 ff. ZPO erstellen und Kostenquote bestimmen.
-- `vorlaeufige-vollstreckbarkeit` — Richtige Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708 ff. ZPO bestimmen.
+- `vorläufige-vollstreckbarkeit` — Richtige Anordnung zur vorläufigen Vollstreckbarkeit nach §§ 708 ff. ZPO bestimmen.
 - `rechtsmittelbelehrung-zivil` — Rechtsmittelbelehrung nach §§ 232 ff. 511 ff. 567 ff. ZPO korrekt formulieren.
 - `beschluss-bauen-zpo` — Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, § 139 ZPO-Hinweis, Kostenfestsetzung.
 - `berufungsfest-pruefen` — Fertiges Urteil gegen haeufigste Aufhebungsgruende selbst pruefen.
 - `revisionsfest-pruefen` — Revision-Zulassung und absolute Revisionsgruende nach § 547 ZPO pruefen.
-- `familienrichter-spezifika` — FamFG-Besonderheiten fuer Beschluss statt Urteil; Familiengericht-spezifische Normen.
+- `familienrichter-spezifika` — FamFG-Besonderheiten für Beschluss statt Urteil; Familiengericht-spezifische Normen.
 - `cisg-pruefen` — UN-Kaufrecht auf Anwendbarkeit und Eingreifen pruefen.
 - `internationales-privatrecht` — Anwendbares Recht bei grenzueberschreitenden Sachverhalten bestimmen (Rom I, Rom II).
 - `incoterms-und-gefahruebergang` — Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertrag pruefen.
 - `kollidierende-agb-pruefen` — Battle of the Forms bei beiderseitigen AGB im B2B-Verkehr loesen.
 - `dsgvo-rechtswidriges-produkt` — Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit pruefen.
 - `dokumente-rendern-urteil-docx` — Fertiges Urteil als DOCX im offiziellen Gerichtslayout rendern.
-- `schulung-urteilsbauer` — Schulungs-Trainerleitfaden fuer Ausbilder von Proberichtern und Referendaren.
+- `schulung-urteilsbauer` — Schulungs-Trainerleitfaden für Ausbilder von Proberichtern und Referendaren.
 
 ## Worauf besonders achten
 

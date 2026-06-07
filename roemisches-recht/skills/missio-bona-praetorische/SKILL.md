@@ -7,7 +7,7 @@ description: "Missio in bona: praetorische Einweisung des Glaeubigers in das Ver
 
 ## Aufgabe
 
-Skill fuer die missio in bona als praetorisches Vollstreckungsinstrument.
+Skill für die missio in bona als praetorisches Vollstreckungsinstrument.
 
 ## Rechtsquelle
 
@@ -36,7 +36,7 @@ Skill fuer die missio in bona als praetorisches Vollstreckungsinstrument.
 
 ## Abgrenzung missio in possessionem rei servandae causa
 
-- Sicherungsmissio fuer einzelnes Vermoegensobjekt zur Vermeidung des Verlusts (z. B. einsturzgefaehrdete Haus, missio damni infecti).
+- Sicherungsmissio für einzelnes Vermoegensobjekt zur Vermeidung des Verlusts (z. B. einsturzgefaehrdete Haus, missio damni infecti).
 
 ## Pruefraster
 
@@ -44,6 +44,23 @@ Skill fuer die missio in bona als praetorisches Vollstreckungsinstrument.
 2. Welche Glaeubigerstellung?
 3. Bonorum venditio bevorsteht oder vollzogen?
 4. Quellenmatrix in D. 42.4 / 42.5?
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

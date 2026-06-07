@@ -1,6 +1,6 @@
 ---
 name: ust-vorsteuerabzug-15-ustg
-description: "Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG — Unternehmereigenschaft Leistungsbezug fuer das Unternehmen ordnungsgemaesse Rechnung Ausschlusstatbestaende und EuGH-Rechtsprechung zum formellen Mangel. Anwendungsfall Aussenpruefung versagt Vorsteuerabzug wegen formeller Rechnungsmaengel fehlender Leistungsbeschreibung oder Verdacht auf Karussellgeschaeft. Behandelt § 15 UStG iVm § 14 UStG MwStSystRL und der nationale Ausgleich durch § 14a UStG. Output Pruefraster und Argumentationsmuster. Abgrenzung zu fa-stu-ust-rechnungspflicht-14-ustg."
+description: "Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG — Unternehmereigenschaft Leistungsbezug für das Unternehmen ordnungsgemaesse Rechnung Ausschlusstatbestaende und EuGH-Rechtsprechung zum formellen Mangel. Anwendungsfall Aussenpruefung versagt Vorsteuerabzug wegen formeller Rechnungsmaengel fehlender Leistungsbeschreibung oder Verdacht auf Karussellgeschaeft. Behandelt § 15 UStG iVm § 14 UStG MwStSystRL und der nationale Ausgleich durch § 14a UStG. Output Pruefraster und Argumentationsmuster. Abgrenzung zu fa-stu-ust-rechnungspflicht-14-ustg."
 ---
 
 # Vorsteuerabzug — § 15 UStG materielle und formelle Voraussetzungen
@@ -14,11 +14,11 @@ description: "Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG — Unt
 ## Triage — kläre vor der Bearbeitung
 
 1. Hat der Mandant Unternehmereigenschaft iSd § 2 UStG mit nachhaltiger Taetigkeit?
-2. Wurde die Leistung fuer das Unternehmen bezogen (Mindestnutzung 10 Prozent § 15 Abs. 1 S. 2 UStG)?
+2. Wurde die Leistung für das Unternehmen bezogen (Mindestnutzung 10 Prozent § 15 Abs. 1 S. 2 UStG)?
 3. Liegt eine ordnungsgemaesse Rechnung mit Pflichtangaben § 14 § 14a UStG vor?
 4. Gibt es einen Ausschluss § 15 Abs. 1a UStG (Repraesentationsaufwendungen)?
 5. Sind die Rechnungen rueckwirkend berichtigungsfaehig (EuGH Senatex)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

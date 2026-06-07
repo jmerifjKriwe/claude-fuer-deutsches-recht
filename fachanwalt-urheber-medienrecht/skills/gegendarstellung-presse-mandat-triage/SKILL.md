@@ -47,7 +47,7 @@ Das Recht auf Gegendarstellung ist ein Sonderrecht der Pressegesetzgebung: Es er
 8. Ist das Medium bundesweit verbreitet oder regional; wer ist die zuständige Landespressebehörde?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -292,7 +292,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Bevor der Gegendarstellungsanspruch geltend gemacht wird, klaere:
 1. Handelt es sich um eine Tatsachenbehauptung (Gegendarstellungsrecht) oder eine Meinungsaeusserung (nur § 1004 BGB i.V.m. §§ 823 I BGB)?
 2. Ist die Gegendarstellung unmittelbar an den Veroeffentlichungsort gerichtet (§ 11 LPG des betreffenden Bundeslandes)?
-3. Ist die Frist fuer die Gegendarstellung eingehalten (in den meisten Bundeslaendern: 3 Monate ab Kenntnis)?
+3. Ist die Frist für die Gegendarstellung eingehalten (in den meisten Bundeslaendern: 3 Monate ab Kenntnis)?
 4. Ist die Gegendarstellung auf den Kern der falschen Tatsachenbehauptung beschraenkt (keine eigene Stellungnahme oder Kommentar)?
 
 ## Aktuelle Rechtsprechung
@@ -324,7 +324,7 @@ Bevor der Gegendarstellungsanspruch geltend gemacht wird, klaere:
 - § 97a UrhG — Abmahnung, Kostenerstattung, Streitwertdeckel Privatpersonen § 97a Abs. 3 UrhG
 - §§ 22, 23 KUG — Recht am eigenen Bild (Einwilligung + Ausnahmen)
 - §§ 823 Abs. 1, 1004 BGB i.V.m. Art. 2 Abs. 1, 1 Abs. 1 GG — Persoenlichkeitsrecht
-- §§ 195, 199 BGB, § 102 UrhG — Verjaehrung 3 Jahre ab Kenntnis
+- §§ 195, 199 BGB, § 102 UrhG — Verjährung 3 Jahre ab Kenntnis
 - Art. 6 DSA — Haftungsprivileg Plattform (notice and take down)
 - VGG §§ 92 ff. — Schiedsstelle, § 128 VGG — Klage OLG Muenchen
 
@@ -350,7 +350,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Lizenzvertrag | `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` |
 | Software Open-Source-Compliance | `gewerblicher-rechtsschutz/open-source-pruefung` |
 
-## Schritt-fuer-Schritt-Triage-Workflow
+## Schritt-für-Schritt-Triage-Workflow
 
 ```
 Schritt 1: Sachgebiet bestimmen (s. Routing-Matrix)
@@ -414,15 +414,15 @@ Naechste Schritte:[MASSNAHME 1] bis [DATUM]
 
 1. **Schriftsatztyp:** Abmahnung, einstweiliger Verfuegungsantrag, Unterlassungsklage, Schadensersatzklage oder Gegendarstellungsverlangen?
 2. **Anspruchsgrundlage:** § 97 UrhG? §§ 22, 23 KUG i.V.m. § 823 BGB? §§ 823 Abs. 1, 1004 BGB (Persoenlichkeitsrecht)?
-3. **Zustaendigkeit:** § 105 UrhG (spezialisierte Kammern); LG am Niederlassungsort des Mediums (bei Persoenlichkeitsrecht oft LG Hamburg oder Berlin).
-4. **Fristen:** Verjaehrungs-Check (§§ 195, 199 BGB, § 102 UrhG); bei Gegendarstellung LPG-Frist.
+3. **Zuständigkeit:** § 105 UrhG (spezialisierte Kammern); LG am Niederlassungsort des Mediums (bei Persoenlichkeitsrecht oft LG Hamburg oder Berlin).
+4. **Fristen:** Verjährungs-Check (§§ 195, 199 BGB, § 102 UrhG); bei Gegendarstellung LPG-Frist.
 5. **Beweislage:** Verletzungsnachweis (Screenshot mit Zeitstempel, Wayback Machine), Lizenz-Nachweis, Originalwerk-Nachweis.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
 Urheberrecht:
-§ 97 Abs. 1 UrhG (Unterlassung) → § 97 Abs. 2 UrhG (Schadensersatz lizenzanalog) → § 97a UrhG (Abmahnung) → § 102 UrhG (Verjaehrung) → § 13 UrhG (Urhebernennung, ggf. Verdoppelung)
+§ 97 Abs. 1 UrhG (Unterlassung) → § 97 Abs. 2 UrhG (Schadensersatz lizenzanalog) → § 97a UrhG (Abmahnung) → § 102 UrhG (Verjährung) → § 13 UrhG (Urhebernennung, ggf. Verdoppelung)
 
 KUG / Persoenlichkeitsrecht:
 §§ 22, 23 KUG (Einwilligung Bild) → § 823 Abs. 1 BGB i.V.m. Art. 2 Abs. 1 GG (Persoenlichkeitsrecht) → § 1004 BGB analog (Unterlassung) → § 253 BGB (immaterieller Schadensersatz)
@@ -442,7 +442,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### A. Rubrum
 
 - Parteien (bei Urheberrecht: Urheber/Rechteinhaber vs. Verletzer)
-- Zustaendigkeit: § 105 UrhG-Konzentration pruefen; bei Presserecht LG Hamburg/Berlin/Frankfurt
+- Zuständigkeit: § 105 UrhG-Konzentration pruefen; bei Presserecht LG Hamburg/Berlin/Frankfurt
 
 ### B. Antraege Urheberrecht
 
@@ -489,7 +489,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Urheberrecht Schriftsatz verfassen | Schriftsatz-Template; Template unten |
 | Variante A — Einstweilige Verfuegung Urheberrecht | Verfuegungsantrag; Dringlichkeit begruenden |
-| Variante B — Bereicherungsrechtlicher Anspruch | § 812 BGB nach § 102a UrhG-Verjaehrung |
+| Variante B — Bereicherungsrechtlicher Anspruch | § 812 BGB nach § 102a UrhG-Verjährung |
 | Variante C — EGMR / Menschenrechts-Dimension | Art. 10 EMRK Kunstfreiheit bei Parodie / Satire |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -517,7 +517,7 @@ Wir fordern Sie auf, bis spaetestens [DATUM, 7-10 Werktage]:
 
 1. Die beigefu egte Unterlassungserklaerung zu unterzeichnen und uns zu uebersenden.
 2. Schadenersatz in Hoehe von [BETRAG] EUR zu zahlen (Lizenzanalogie nach MFM).
-3. Ihre Anwaltsgebuehren fuer diese Abmahnung ([BETRAG] EUR) zu erstatten.
+3. Ihre Anwaltsgebuehren für diese Abmahnung ([BETRAG] EUR) zu erstatten.
 
 Bei Nichterfullung werden wir unverzueglich Antrag auf Erlass einer
 einstweiligen Verfuegung stellen.

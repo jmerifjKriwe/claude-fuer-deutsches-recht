@@ -152,7 +152,7 @@ the German tax authorities.
 - `stb-sanierungsgewinn-3a-estg-grundtatbestand`
 - `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
 - `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-- `stb-sanierungsgewinn-zustaendigkeiten-fa-betriebspruefung`
+- `stb-sanierungsgewinn-zuständigkeiten-fa-betriebspruefung`
 
 ## Quellen Stand 06/2026
 

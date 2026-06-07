@@ -72,7 +72,7 @@ Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüft die AGB-Kont
 
 ### Praxiskonsequenzen
 - Auftragsbestaetigung mit eigenen AGB sollte ausdruecklich auf bisherige Kommunikation Bezug nehmen, um Rechtsklarheit ueber Vertragsinhalt zu schaffen.
-- Spaetere Erfuellungshandlungen werden im Zweifel als konkludentes Einverstaendnis gewertet, aber nur fuer Kernpunkte.
+- Spaetere Erfuellungshandlungen werden im Zweifel als konkludentes Einverstaendnis gewertet, aber nur für Kernpunkte.
 
 ### Pruefraster
 1. Welche AGB-Set lagen wann vor?

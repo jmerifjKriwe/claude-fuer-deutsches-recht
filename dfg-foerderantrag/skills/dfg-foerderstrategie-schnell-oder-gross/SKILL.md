@@ -118,6 +118,23 @@ Danach eine klare Empfehlung ausgeben, nicht alle Wege gleichwertig nebeneinande
 - SPP-Andocken ignorieren, obwohl ein passendes Programm läuft — Reviewer fragen explizit nach.
 - "Wir warten auf den nächsten Hauptausschuss" — Sachbeihilfe ist jederzeit einreichbar, das Warten kostet Monate.
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Freiheits- und Strukturanker.
+- `Art. 91b Abs. 1 GG` — Kooperation von Bund und Ländern bei Wissenschaft/Forschung.
+- `§ 23 BHO` — Zuwendungen als Haushaltsinstrument.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Pruefung von Zuwendungen.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit und professionelle Verantwortung.
+- `DFG-Kodex Leitlinie 7` — Phasenuebergreifende Qualitaetssicherung.
+- `DFG-Kodex Leitlinie 14` — Autorschaft und Ergebnisverantwortung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 - **Empfehlung A** — schnellster tragfähiger Antrag mit Volumen, Modulen, Begutachtungs-Zeitschätzung.

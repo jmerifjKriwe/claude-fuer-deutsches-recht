@@ -15,10 +15,10 @@ description: "Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszin
 
 1. Welcher Zinstatbestand greift (§ 233a § 234 § 235 § 237 AO oder § 240 AO)?
 2. Wann beginnt der Zinslauf — Karenzzeit 15 Monate nach Ablauf des Veranlagungszeitraums?
-3. Ist der Zinssatz fuer den gesamten Zinslauf bereits an die BVerfG-Rechtsprechung angepasst (Zinslauf ab 1. Januar 2019: 1,8 Prozent jaehrlich)?
-4. Liegen besondere Erlassgruende vor (§ 227 AO sachliche oder persoenliche Billigkeit)?
+3. Ist der Zinssatz für den gesamten Zinslauf bereits an die BVerfG-Rechtsprechung angepasst (Zinslauf ab 1. Januar 2019: 1,8 Prozent jaehrlich)?
+4. Liegen besondere Erlassgruende vor (§ 227 AO sachliche oder persönliche Billigkeit)?
 5. Sind die Zinsen Folge einer Hinterziehung — dann zwingend § 235 AO unabhaengig von der Aussetzung?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

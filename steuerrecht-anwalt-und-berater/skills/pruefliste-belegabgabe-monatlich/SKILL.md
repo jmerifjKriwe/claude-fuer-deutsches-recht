@@ -21,7 +21,7 @@ Die Belegabgabe-Disziplin des Mandanten ist Erfolgsfaktor der Monatsabschluss-Ro
 2. Welche Frequenz vereinbart (taeglich, woechentlich, monatlich)?
 3. Welche Mandantenbranche und Belegvolumen?
 4. Welche Sondervorgaenge in der Periode (Reisekosten, Geschenke)?
-5. Welche Frist fuer Belegabgabe?
+5. Welche Frist für Belegabgabe?
 6. Welche Eskalation bei Verspaetung?
 7. Welche Wiederkehrenden Belegart (Mieten, Versicherungen)?
 8. Welcher Eskalationsstand?
@@ -50,7 +50,7 @@ Mandant: [Firma]
 Monat: [Monat]
 
 A. BANK
-[ ] Alle Bankauszuege fuer den Monat
+[ ] Alle Bankauszuege für den Monat
 [ ] PSD2-Online-Banking-Anbindung funktioniert
 [ ] Ueberweisungen mit Verwendungszweck
 
@@ -106,11 +106,11 @@ Mahnstand: [keine / 1. / 2. Mahnung]
 - Stufe 3: Mandantenakte mit Vermerk; ggf. Honorar-Aufschlag.
 - Stufe 4: Mandantenniederlegung (§ 627 BGB) im Extremfall.
 
-### Phase 4 — Belege fuer wiederkehrende Vorgaenge
+### Phase 4 — Belege für wiederkehrende Vorgaenge
 
 - Miet-, Pacht-, Leasing-Vertraege als Stamm-Dokumente einmalig erfassen (jaehrliche Anpassung pruefen).
 - Versicherungs-Bescheide jaehrlich (Pruefung Versicherungssumme, Beitragsanpassung).
-- Dauerauftraege fuer Strom, Heizung, Wasser, Telekommunikation (Buchung als wiederkehrend); Jahresabrechnungen separat erfassen.
+- Dauerauftraege für Strom, Heizung, Wasser, Telekommunikation (Buchung als wiederkehrend); Jahresabrechnungen separat erfassen.
 
 ### Phase 5 — Bei Verlust eines Beleges
 

@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-sanktionsumgehung-red-zoll
-description: "Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke fuer Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke für Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanktionsumgehung: Red Flags erkennen und bewerten
 
 ## Arbeitsbereich
 
-Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke fuer Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke für Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,7 +20,7 @@ Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 
 ## Mandantenfall
 
 - Bestellung von Dual-Use-Elektronik aus UAE in ungewoehnlich grosser Menge; aehnliche Bestellung vor 6 Monaten nach Russland.
-- Zahlungseingang ueber kasachischen Finanzintermediaer fuer Lieferung an tuerkisches Unternehmen.
+- Zahlungseingang ueber kasachischen Finanzintermediaer für Lieferung an tuerkisches Unternehmen.
 - Handelsvertreter schlaegt ungewoehnliche Lieferoute ueber Armenien vor; Preiszuschlag erklaert.
 
 ## Erste Schritte
@@ -52,7 +52,7 @@ Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 
 ## Typische Fallstricke
 
 - Einzelne Red Flags koennen harmlos sein; Gesamtbild ist entscheidend.
-- Spaeteres 'Nichtwissen wollen' bei offensichtlichen Red Flags reicht fuer Leichtfertigkeits-Strafbarkeit.
+- Spaeteres 'Nichtwissen wollen' bei offensichtlichen Red Flags reicht für Leichtfertigkeits-Strafbarkeit.
 - Zwischenhaendler in Umgehungslaendern muessen nicht bos handelnd sein; aber Sorgfaltsmassnahmen zwingend.
 - No-Russia-Clause im Vertrag genuegt nicht; aktives Monitoring der Compliance noetig.
 
@@ -60,7 +60,7 @@ Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

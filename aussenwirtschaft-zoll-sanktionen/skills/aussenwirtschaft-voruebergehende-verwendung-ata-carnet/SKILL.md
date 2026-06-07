@@ -19,7 +19,7 @@ Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Ko
 
 ## Mandantenfall
 
-- Messebauer transportiert Ausstellungsexponate nach Dubai; ATA-Carnet fuer Nicht-EU-Land beantragen.
+- Messebauer transportiert Ausstellungsexponate nach Dubai; ATA-Carnet für Nicht-EU-Land beantragen.
 - Filmproduktion nimmt Kameraausruestung zum Drehen nach Kanada mit; ATA-Carnet Berufsausruestung.
 - Maschinenexporteur bringt Demonstrationsgeraet nach Japan; Zollabruf und Wiedereinf uehrung.
 
@@ -27,7 +27,7 @@ Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Ko
 
 1. Bestimmungsland pruefen: ATA-Carnet-Partnerland (WCO-Mitglied) oder EU-Bewilligung voruebergehende Verwendung?
 2. Warenart pruefen: Messeware Berufsausruestung Transportmittel oder Ersatzteile?
-3. ATA-Carnet bei zustaendiger Handelskammer (IHK) beantragen; Buergschaftshoehe kalkulieren.
+3. ATA-Carnet bei zuständiger Handelskammer (IHK) beantragen; Buergschaftshoehe kalkulieren.
 4. Carnet vollstaendig ausfuellen; Warenliste mit HS-Codes Werten und Seriennummern.
 5. Ausreise: Carnet bei Abgangszollstelle abstempeln lassen.
 6. Wiedereinf uehrung innerhalb der Gueltigkeitsdauer; Gegenzeichnung bei Rieder eintrittszollstelle.
@@ -35,10 +35,10 @@ Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Ko
 ## Rechtsrahmen
 
 - **UZK Art. 250-262**: Voruebergehende Verwendung als EU-Zollverfahren.
-- **Istanbul-Konvention (1990)**: Voelkerrechtliche Grundlage fuer ATA-Carnet-System.
-- **UZK-DA Art. 322 ff.**: Voraussetzungen fuer Bewilligung voruebergehende Verwendung.
+- **Istanbul-Konvention (1990)**: Voelkerrechtliche Grundlage für ATA-Carnet-System.
+- **UZK-DA Art. 322 ff.**: Voraussetzungen für Bewilligung voruebergehende Verwendung.
 - **UZK Art. 79**: Zollschuldentstehung bei Nichtrueckfuehr.
-- **ATA-Convention Annex B.2 (Messe)**: Spezifische Regeln fuer Ausstellungsgueter.
+- **ATA-Convention Annex B.2 (Messe)**: Spezifische Regeln für Ausstellungsgueter.
 
 ## Pruef-Raster
 
@@ -60,7 +60,7 @@ Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Ko
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

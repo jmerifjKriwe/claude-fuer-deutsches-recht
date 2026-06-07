@@ -22,10 +22,10 @@ Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will D
 1. Faellt die Anlage unter die 12. BImSchV (Stoerfall-Verordnung) — Grundpflichten (Anhang I Spalte 1) oder erweiterte Pflichten (Anhang I Spalte 2)?
 2. Sind gefaehrliche Stoffe (Anhang I 12. BImSchV) in welchen Mengen vorhanden?
 3. Liegt ein Stoerfall bereits vor oder geht es um praeventive Compliance?
-4. Wurden die zustaendige Behoerde und die Oeffentlichkeit informiert (§§ 19, 20 BImSchV)?
-5. Besteht eine Anordnung der Behoerde (§ 17 BImSchG) auf Grundlage Sicherheitsmangel?
+4. Wurden die zuständige Behörde und die Oeffentlichkeit informiert (§§ 19, 20 BImSchV)?
+5. Besteht eine Anordnung der Behörde (§ 17 BImSchG) auf Grundlage Sicherheitsmangel?
 6. Ist Bauleitplanung in der Naehe geplant — Sicherheitsabstandsproblem?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -33,7 +33,7 @@ Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will D
 - **§ 7 Abs. 1 Nr. 5 BImSchG** — Anforderungen an Anlagen Sicherheitsbericht
 - **§ 16 BImSchV (12. BImSchV)** — Sicherheitsbericht Pflichtinhalt (Gefahrenquellen, Schutz-/Notfallkonzept)
 - **§ 17 BImSchV** — Bericht nach Stoerfall (Untersuchungspflicht, Massnahmen)
-- **§ 19 BImSchV** — Stoerfallanzeige bei Behoerde (unverzueglich)
+- **§ 19 BImSchV** — Stoerfallanzeige bei Behörde (unverzueglich)
 - **§ 20 BImSchV** — Unterrichtung Oeffentlichkeit (Angaben Anlagen-Website)
 - **Art. 13 Seveso-III-Richtlinie (2012/18/EU)** — Sicherheitsabstaende Raumordnung
 - **§ 50 BImSchG** — Trennungsgebot Gebiete mit schweren Unfaellen und Wohnnutzung
@@ -47,7 +47,7 @@ Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will D
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -56,18 +56,18 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. **Stoerfall-Relevanz pruefen**: Mengen gefaehrlicher Stoffe nach Anhang I 12. BImSchV — Spalte 1 oder 2.
 2. **Sicherheitskonzept Grundpflichten**: § 8 12. BImSchV — schriftliches Konzept Verhuetung Stoerfaelle.
 3. **Sicherheitsbericht Erweiterte Pflichten**: § 16 12. BImSchV — Inhalt: Stoffe, Anlage, Risiken, Notfallplanung; Prueflauf alle 5 Jahre.
-4. **Anzeige/Genehmigung**: § 4 BImSchG, § 9 12. BImSchV — Behoerde informieren vor Betriebsbeginn.
+4. **Anzeige/Genehmigung**: § 4 BImSchG, § 9 12. BImSchV — Behörde informieren vor Betriebsbeginn.
 5. **Sicherheitsabstand pruefen**: KAS-18-Leitfaden BG Chemie; Abstand zu schutzbeduerftigen Gebieten ermitteln.
-6. **Notfallplan**: § 10 12. BImSchV — interner Alarm- und Notfallplan; externe Information an Behoerde.
+6. **Notfallplan**: § 10 12. BImSchV — interner Alarm- und Notfallplan; externe Information an Behörde.
 7. **Unterrichtung Oeffentlichkeit**: § 20 12. BImSchV — Anlage-Website Sicherheitsinformationen.
 
 ### B) Reaktion auf Stoerfall
 
-1. **Sofortanzeige**: § 19 12. BImSchV — unverzueglich an Behoerde, Feuerwehr, Umweltamt.
+1. **Sofortanzeige**: § 19 12. BImSchV — unverzueglich an Behörde, Feuerwehr, Umweltamt.
 2. **Ursachenuntersuchung**: § 17 12. BImSchV — Bericht innerhalb angemessener Frist.
 3. **Massnahmenumsetzung**: Wiederholungsvermeidung; Dokumentation.
 4. **Bussgeld-Abwehr**: § 62 BImSchG — schuldlose Pflichtverletzung, technisches Versagen ohne Vorwerfbarkeit?
-5. **Kommunikation Behoerde**: Kooperationsbereitschaft zeigen; Massnahmenplan vorlegen.
+5. **Kommunikation Behörde**: Kooperationsbereitschaft zeigen; Massnahmenplan vorlegen.
 
 ### Entscheidungsbaum Stoerfallrelevanz
 
@@ -91,13 +91,13 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Standard — Stellungnahme nach Storfallmeldung erstellen | Stellungnahme nach Schema; Template unten |
 | Variante A — Stoeranfall noch laufend keine Stellungnahme moeglich | Krisenkommunikation zuerst; Stellungnahme nach Abschluss |
 | Variante B — Stoeranfall ohne Schaden nur formale Meldepflicht | Minimale Meldung; Stellungnahme kurzgefasst |
-| Variante C — Behoerde droht Betriebsuntersagung | Dringlichkeit erhoehen; Stellungnahme mit Massnahmenplan |
+| Variante C — Behörde droht Betriebsuntersagung | Dringlichkeit erhoehen; Stellungnahme mit Massnahmenplan |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template: Stellungnahme nach Stoerfallanzeige
 
-**Adressat:** Zustaendige Behoerde — Tonfall: sachlich-kooperativ
+**Adressat:** Zustaendige Behörde — Tonfall: sachlich-kooperativ
 
 ```
 An die [BEHOERDE]
@@ -118,7 +118,7 @@ II. Sofortmassnahmen
 2. Evakuierung Gefahrenbereich ab [UHRZEIT].
 3. Auftrag Dekontamination an [FIRMA] erteilt.
 
-III. Ursache (vorlaeufige Einschaetzung)
+III. Ursache (vorläufige Einschaetzung)
 [Beschreibung technischer Ursache, menschliches Versagen / hoeherer Gewalt].
 
 IV. Massnahmen zur Wiederholung-Vermeidung
@@ -138,7 +138,7 @@ Anlagen: Lageplan, Stofffliessschema, Messprotokoll
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -150,7 +150,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Schriftliches Sicherheitskonzept | JA | JA | § 8 12. BImSchV |
 | Sicherheitsbericht | NEIN | JA | § 16 12. BImSchV |
 | Notfallplan intern | JA | JA | § 10 Abs. 1 |
-| Extern. Notfallplan Behoerde | NEIN | JA | § 10 Abs. 2 |
+| Extern. Notfallplan Behörde | NEIN | JA | § 10 Abs. 2 |
 | Dominoeffekt-Pruefung | NEIN | JA | § 14 12. BImSchV |
 | Oeffentlichkeits-Information | NEIN | JA | § 20 12. BImSchV |
 | Sicherheitsabstand | JA | JA | § 50 BImSchG |
@@ -159,5 +159,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - `umweltrecht-immissionsschutz-bimschg` — BImSchG-Genehmigungsrahmen
 - `umweltrecht-bussgeld-sanktionen` — Bussgeld nach Stoerfall
-- `umweltrecht-verfahren` — Klageverfahren gegen Behoerdenanordnung
+- `umweltrecht-verfahren` — Klageverfahren gegen Behördenanordnung
 - `umweltrecht-transaktionen-dd` — Stoerfall-Risiken in M&A

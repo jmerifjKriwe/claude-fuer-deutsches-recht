@@ -1,13 +1,13 @@
 ---
 name: gesinderecht-staatshaftung
-description: "Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes fuer Schaeden Haftung der Herrschaft fuer Handlungen des Gesindes. Liefert Pruefraster im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes für Schaeden Haftung der Herrschaft für Handlungen des Gesindes. Liefert Pruefraster im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pralr Gesinderecht Zeugnis Und Haftung
 
 ## Arbeitsbereich
 
-Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes fuer Schaeden Haftung der Herrschaft fuer Handlungen des Gesindes. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes für Schaeden Haftung der Herrschaft für Handlungen des Gesindes. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorla
 - Bei verschuldetem Schaden Ersatzpflicht.
 - Lohnabzug als Aufrechnungsmoeglichkeit.
 
-## Haftung der Herrschaft fuer Gesinde
+## Haftung der Herrschaft für Gesinde
 
 - Bei rechtswidrigen Handlungen des Gesindes im Dienst der Herrschaft Mithaftung.
 - Anleihe an die roemische actio noxalis / actio institoria.

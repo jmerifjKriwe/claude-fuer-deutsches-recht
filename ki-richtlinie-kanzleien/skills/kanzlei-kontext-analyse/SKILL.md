@@ -60,7 +60,7 @@ Die Kontextanalyse sollte bei wesentlichen Änderungen der Kanzleistruktur (Fusi
 - § 43a Abs. 2 BRAO — Verschwiegenheit (kanzleigroessen-unabhaengig)
 - § 43e BRAO — IT-Dienstleister-Regelung
 - § 45 BRAO — Interessenkonflikt-Verbot
-- Art. 28 DSGVO — AVV-Pflicht fuer alle Kanzleigroessen
+- Art. 28 DSGVO — AVV-Pflicht für alle Kanzleigroessen
 - § 26 BDSG — Beschaeftigtendatenschutz (bei Mitarbeiter-KI)
 
 ## Triage zu Beginn

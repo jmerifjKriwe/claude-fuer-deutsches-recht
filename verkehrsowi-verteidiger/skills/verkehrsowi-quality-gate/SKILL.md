@@ -26,7 +26,7 @@ Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV 
 □ Bussgeldbescheid auf Pflichtinhalt § 66 OWiG geprueft?
 □ OWi oder Strafrecht? (Grenzwert BAK § 316 StGB vs. § 24a StVG)
 □ Einspruch beschraenkt (§ 67 Abs. 2) oder unbeschraenkt?
-□ Mandant hat Anhoerungsbogen NICHT ausgefuellt?
+□ Mandant hat Anhörungsbogen NICHT ausgefuellt?
 □ Einspruchsschreiben: Name, Az., Zustellungsdatum, Datum, Unterschrift?
 □ Akteneinsicht inklusive Messakte beantragt?
 □ Einspruch per Fax mit EB versendet, Eingang bestaetigt?
@@ -42,7 +42,7 @@ AMPEL: GRUEN alle Punkte erfuellt / ROT Frist abgelaufen
 □ Rohmessdaten vorhanden oder Verweigerung dokumentiert?
 □ Sachverstaendigenantrag formuliert (wenn konkrete Angriffspunkte)?
 □ Fahreridentifikation geprueft (Foto-Qualitaet)?
-□ Verjaehrung geprueft (§ 26 Abs. 3 StVG, § 33 OWiG)?
+□ Verjährung geprueft (§ 26 Abs. 3 StVG, § 33 OWiG)?
 □ Zustellungsfehler geprueft?
 □ Haertefall-Argumentation vorbereitet (wenn Fahrverbot)?
 □ Punkte-Flensburg geprueft (neuer Stand nach Eintragung)?

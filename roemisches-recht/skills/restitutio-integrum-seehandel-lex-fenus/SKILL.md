@@ -19,7 +19,7 @@ Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vo
 
 ## Aufgabe
 
-Skill fuer Minderjaehrigenschutz im roemischen Recht.
+Skill für Minderjaehrigenschutz im roemischen Recht.
 
 ## Rechtsquelle
 

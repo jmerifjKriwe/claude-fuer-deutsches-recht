@@ -19,7 +19,7 @@ Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und 
 
 ## Aufgabe
 
-Skill fuer Marken- und IP-Lizenzierung im Franchise.
+Skill für Marken- und IP-Lizenzierung im Franchise.
 
 ## Markenlizenz
 
@@ -40,13 +40,13 @@ Skill fuer Marken- und IP-Lizenzierung im Franchise.
 
 ## Software-Lizenz
 
-- Software fuer Kassensysteme, Lagerverwaltung, CRM.
+- Software für Kassensysteme, Lagerverwaltung, CRM.
 - AGB-rechtliche Pruefung der Lizenzbedingungen.
 
 ## Postvertragliche Pflichten
 
 - Rueckgabe / Loeschung der Marke und Trade Dress.
-- Wettbewerbsverbot fuer Know-How-Nutzung.
+- Wettbewerbsverbot für Know-How-Nutzung.
 
 ## Pruefraster
 

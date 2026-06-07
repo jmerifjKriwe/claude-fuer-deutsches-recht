@@ -107,7 +107,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - https://www.gesetze-im-internet.de/svg/ — SVG §§ 53–56
 - https://dejure.org/gesetze/SVG
 - https://www.bverwg.de
-- https://www.bundeswehr.de/de/organisation/personal/bundesamt-fuer-das-personalmanagement
+- https://www.bundeswehr.de/de/organisation/personal/bundesamt-für-das-personalmanagement
 
 ## Qualitätsgate
 

@@ -152,7 +152,7 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 
 - Glaeubiger hat rechtskraeftiges Urteil oder anderen vollstreckbaren Titel und muss entscheiden, welche Vollstreckungsart am sinnvollsten ist.
 - Glaeubiger kennt weder Konto noch Arbeitgeber des Schuldners und muss Vermoegensauskunft oder Drittauskunft beantragen.
-- Schuldner hat unrechtmaessigen PfUeB erhalten oder ist besonders schutzbeduerftig (Krankheit, Suizidrisiko) und will Vollstreckungsschutz.
+- Schuldner hat unrechtmäßigen PfUeB erhalten oder ist besonders schutzbeduerftig (Krankheit, Suizidrisiko) und will Vollstreckungsschutz.
 - Vermieter hat rechtskraeftiges Raeumungsurteil und muss Gerichtsvollzieher beauftragen.
 - Glaeubiger will Immobilie des Schuldners versteigern lassen (ZVG-Antrag).
 
@@ -164,8 +164,8 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - **P-Konto** — Pfaendungsschutzkonto; schuetzt Existenzminimum des Schuldners bei Kontopfaendung (§ 850k ZPO).
 - **Pfaendungsfreigrenze (§ 850c ZPO)** — Betrag des Arbeitseinkommens, der pfaendungsfrei bleibt; Pfaendungstabelle wird regelmaessig angepasst.
 - **Vermoegensauskunft (§ 802c ZPO)** — Pflicht des Schuldners, vollstaendiges Vermoegen zu offenbaren; frueherer Name: Eidesstattliche Versicherung.
-- **ZVG** — Zwangsversteigerungsgesetz; Grundlage fuer Immobilienvollstreckung durch Versteigerung.
-- **EuKtPVO** — EU-Kontenpfaendungsverordnung (VO 655/2014); ermoeglicht vorlaeufige Kontenpfaendung in EU-Mitgliedstaaten.
+- **ZVG** — Zwangsversteigerungsgesetz; Grundlage für Immobilienvollstreckung durch Versteigerung.
+- **EuKtPVO** — EU-Kontenpfaendungsverordnung (VO 655/2014); ermoeglicht vorläufige Kontenpfaendung in EU-Mitgliedstaaten.
 
 ## Rechtsgrundlagen
 
@@ -182,7 +182,7 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - VO (EU) 655/2014 (EuKtPVO) — EU-Kontenpfaendung
 - § 201 InsO — Vollstreckung aus Tabellenauszug nach Insolvenz
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Glaeubiger-Seite (Vollstreckung einleiten) oder Schuldner-Seite (Vollstreckung abwehren)?
 2. Titelstatus pruefen: Liegt ein vollstreckbarer Titel mit Klausel und Zustellung vor (§§ 704, 724, 750 ZPO)?
@@ -196,9 +196,9 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - `zv-mahnbescheid-online` — Mahnbescheid online beantragen und Vollstreckungsbescheid erwaerken nach §§ 688 ff. ZPO.
 - `zv-vollstreckungsbescheid-folge` — Nach Mahnbescheid: Vollstreckungsbescheid beantragen oder auf Widerspruch reagieren.
 - `zv-titel-klausel-zustellung` — Formale Trias pruefen: vollstreckbarer Titel, Vollstreckungsklausel, Zustellung an Schuldner.
-- `zv-pfueb-bank` — PfUeB fuer Bankkonto beantragen; Drittschuldner-Erklarung, P-Konto-Schutz.
-- `zv-pfueb-arbeitsentgelt` — PfUeB fuer Arbeitseinkommen; Pfaendungsfreigrenze nach § 850c ZPO berechnen.
-- `zv-pfueb-mieter-finanzamt` — PfUeB fuer Mietforderung, Steuererstattung oder sonstige Drittschuldner-Forderung.
+- `zv-pfueb-bank` — PfUeB für Bankkonto beantragen; Drittschuldner-Erklarung, P-Konto-Schutz.
+- `zv-pfueb-arbeitsentgelt` — PfUeB für Arbeitseinkommen; Pfaendungsfreigrenze nach § 850c ZPO berechnen.
+- `zv-pfueb-mieter-finanzamt` — PfUeB für Mietforderung, Steuererstattung oder sonstige Drittschuldner-Forderung.
 - `zv-pfaendungstabelle-2025` — Pfaendungsfreien Betrag nach aktueller Pfaendungstabelle (Stand 2025) konkret berechnen.
 - `zv-kontensuche-drittschuldner` — § 802l-Kontensuche und Drittauskunft wenn Konto oder Arbeitgeber des Schuldners unbekannt sind.
 - `zv-vermoegensauskunft-gv` — Vermoegensauskunft nach § 802c ZPO durch Gerichtsvollzieher beantragen.
@@ -208,7 +208,7 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - `zv-zvg-antrag-glaeubiger` — ZVG-Antrag auf Zwangsversteigerung oder Zwangsverwaltung bei Immobilien.
 - `zv-tabellenauszug-201-inso` — Vollstreckung aus Insolvenz-Tabellenauszug nach § 201 InsO nach Verfahrensende.
 - `zv-eu-kontenpfaendung-655-2014` — Vorlaeufige EU-Kontenpfaendung nach EuKtPVO bei EU-Auslandskonto des Schuldners.
-- `zv-vollstreckungsschutz-haertefall-765a` — Haertefall-Schutzantrag fuer besonders schutzbeduerftige Schuldner nach § 765a ZPO.
+- `zv-vollstreckungsschutz-haertefall-765a` — Haertefall-Schutzantrag für besonders schutzbeduerftige Schuldner nach § 765a ZPO.
 - `zv-abwehr-schuldner` — Schuldner-Abwehrmassnahmen: sofortige Beschwerde, Vollstreckungserinnerung, Haertefall, P-Konto.
 - `zv-elektronische-zustellung-2027` — Digitalisierung der Zwangsvollstreckung ab 2026/2027: neue Pflichten und Verfahren.
 
@@ -217,7 +217,7 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - Formale Trias ist zwingend: Titel, Klausel und Zustellung muessen vollstaendig vorliegen, bevor Vollstreckung beginnt (§ 750 ZPO).
 - P-Konto-Schutz gilt automatisch, wenn Schuldner P-Konto eingerichtet hat; Glaeubiger muss Freibetrag-Erhoehung separat anfechten.
 - Pfaendungsfreigrenzen werden jaehrlich angepasst (§ 850c ZPO); immer aktuelle Tabelle verwenden.
-- EU-Kontenpfaendung nach EuKtPVO setzt Zustaendigkeit eines deutschen Gerichts voraus; Antrag hat eigene Formalien.
+- EU-Kontenpfaendung nach EuKtPVO setzt Zuständigkeit eines deutschen Gerichts voraus; Antrag hat eigene Formalien.
 - Haertefall-Antrag nach § 765a ZPO hemmt Vollstreckung nur bei sofortiger Antragstellung vor dem Vollstreckungstermin.
 
 ## Typische Fehler
@@ -225,8 +225,8 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - Vollstreckung ohne Zustellung an Schuldner begonnen: § 750 ZPO erfordert vorherige oder gleichzeitige Zustellung; fehlende Zustellung macht Vollstreckungsmassnahme anfechtbar.
 - Pfaendungsfreigrenze falsch berechnet: Falsche Steuerklasse oder Unterhaltspflichten nicht beruecksichtigt; Schuldner kann Erinnerung einlegen.
 - Gerichtsvollzieher-Auftrag zu spaet gestellt: Mobiliarsachen koennen veraessert oder abhandengekommen sein.
-- Verjaehrung des Titels uebersehen: Vollstreckungsverjaeaehrung nach § 197 BGB betraegt 30 Jahre ab Urteil; Mahnbescheide koennen kuerzere Fristen haben.
-- EU-Kontenpfaendung ohne Zustaendigkeitspruefung: Deutsche Gerichte sind nur zustaendig wenn Deutschland Vollstreckungsmitgliedstaat ist.
+- Verjährung des Titels uebersehen: Vollstreckungsverjaeaehrung nach § 197 BGB betraegt 30 Jahre ab Urteil; Mahnbescheide koennen kuerzere Fristen haben.
+- EU-Kontenpfaendung ohne Zuständigkeitspruefung: Deutsche Gerichte sind nur zuständig wenn Deutschland Vollstreckungsmitgliedstaat ist.
 
 ## Querverweise
 
@@ -239,7 +239,7 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - Stand: 05/2026
 - ZPO, ZVG, InsO in aktuell geltender Fassung
 - Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110 vom 11.04.2025), gueltig 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
-- Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): ab 01.01.2026 Amtsgerichts-Zustaendigkeit bis 10.000 EUR (§ 23 GVG n.F.), Berufungssumme 1.000 EUR (§ 511 Abs. 2 ZPO n.F.); Uebergangsvorschrift § 47 EGZPO.
+- Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): ab 01.01.2026 Amtsgerichts-Zuständigkeit bis 10.000 EUR (§ 23 GVG n.F.), Berufungssumme 1.000 EUR (§ 511 Abs. 2 ZPO n.F.); Uebergangsvorschrift § 47 EGZPO.
 - EuKtPVO (VO 655/2014) unmittelbar anwendbar.
 
 ## Qualitäts-Hardening

@@ -37,11 +37,11 @@ Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen
 - Vorgaengerbeitraege zum gleichen Thema (Konfliktlinien).
 - Hauseigene Justiziariats-Richtlinien.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Risikoflaechen identifizieren:**
  - Mandantenbezug (Anwaltsmandat).
- - Konkret benannte Dritte (Richter, Anwaelte, Behoerden, Unternehmen).
+ - Konkret benannte Dritte (Richter, Anwaelte, Behörden, Unternehmen).
  - Tatsachenbehauptungen (vs. Wertungen).
  - Anschuldigungen / Vorwuerfe.
  - Datenschutz-relevante Angaben.
@@ -82,12 +82,12 @@ Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen
 
 **Anschreiben (Aussagensicherheit):**
 
-> Sehr geehrte Frau Dr. Schmidt, bei der inhaltlichen Sicherheitspruefung Ihres Aufsatzes haben wir vier Stellen markiert, die wir vor Druck mit Ihnen besprechen wollen (siehe Anlage). Insbesondere bitten wir um (1) Mandantenfreigabe schriftlich fuer den Fallbezug S. 3, (2) Beleg fuer die Aussage zur Parteilichkeit S. 7, (3) Konkretisierung des Vorwurfs gegen die BAFin S. 18 mit Quelle. Die Stelle S. 12 (Mandantenname) bitten wir, vor Druck zu anonymisieren. Rueckmeldung bitte bis 19.06.2026.
+> Sehr geehrte Frau Dr. Schmidt, bei der inhaltlichen Sicherheitspruefung Ihres Aufsatzes haben wir vier Stellen markiert, die wir vor Druck mit Ihnen besprechen wollen (siehe Anlage). Insbesondere bitten wir um (1) Mandantenfreigabe schriftlich für den Fallbezug S. 3, (2) Beleg für die Aussage zur Parteilichkeit S. 7, (3) Konkretisierung des Vorwurfs gegen die BAFin S. 18 mit Quelle. Die Stelle S. 12 (Mandantenname) bitten wir, vor Druck zu anonymisieren. Rueckmeldung bitte bis 19.06.2026.
 
 **Eskalations-Notiz an Justiziariat:**
 
 ```
-Manuskript: Schmidt, "[Titel]" fuer NJW 14/2026
+Manuskript: Schmidt, "[Titel]" für NJW 14/2026
 Risikostufe: hoch
 Risikoart: Personenkritik an Richter, Mandantenbezug
 Anlagen: Manuskript, anonymisierte Beteiligten-Tabelle, vorgesehene Druckfassung

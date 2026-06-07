@@ -16,7 +16,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 | `strafr-dysfunk-verschleppungsabsicht-abgrenzen` | Verschleppungsabsicht nach § 244 Abs. 3 Satz 3 StPO als Sonderfall der Ablehnung von Beweisantraegen sauber abgrenzen. Doppelte Voraussetzung des Gerichts. Antrag wuerde nicht wesentlich zur Sachaufklaerung beitragen und Antragsteller weiss das. Auch der Reformvorschlag der StPO-Reformkommission BMJ wuerde das Tatbestandsbild verschaerfen aber nicht jeden spaeten Antrag als verschleppend behandeln. Konkrete Substantiierungspflicht der Kammer. |
 | `strafr-dysfunk-vorwurf-einordnen` | Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dysfunktionaler Strafverteidigung erhebt. Sauber unterscheiden zwischen dysfunktionaler Verteidigung mit verdeckter Strategie und zielfuehrender harter Konfliktverteidigung. Begriff hat keinen Eingriffstatbestand und ist kein Rechtsbegriff. Empirische Datenlage zeigt geringe Fallzahlen. Pruefen ob konkrete Handlung gegen § 137 Abs. 1 StPO oder Standesrecht verstoesst oder nur unbequem ist. Reaktion souveraen dokumentieren ohne defensive Eskalation. |
 | `strafr-dysfunk-wahlverteidigerausschluss-138a` | Wahlverteidigerausschluss nach § 138a StPO abwehren. Antrag muss konkrete tatbestandliche Voraussetzungen substantiieren. § 138a Abs. 1 Nr. 1 bis 3 StPO erfasst Tatverstrickung, Strafverletzungen oder Sicherheitsgefahren. Ausschluss ist ultima ratio und beruehrt das Beistandsrecht nach § 137 Abs. 1 StPO. Verteidigung gegen den Ausschlussantrag mit Bezug zu Beweisanforderungen Verhaeltnismaessigkeit und Verfahrensschutz. |
-| `strafr-revision-pruefung-spezial` | Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster fuer Revisionsbegruendung. |
+| `strafr-revision-pruefung-spezial` | Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster für Revisionsbegruendung. |
 
 ## Arbeitsweg
 
@@ -45,7 +45,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 - § 176 GVG: Aufrechterhaltung der Ordnung in der Sitzung durch Vorsitzenden. Wortentzug ist zulaessig wenn andere Mittel erschoepft.
 - § 177 GVG: Sitzungsausschluss bei Stoerung. Nach historischer Linie seit 1921 keine Zwangsmittel gegen Verteidiger.
 - § 178 GVG: Ordnungsgeld bei Ungebuehr.
-- § 138a StPO als spezifisches Instrument fuer Wahlverteidiger-Ausschluss.
+- § 138a StPO als spezifisches Instrument für Wahlverteidiger-Ausschluss.
 
 ## Verteidigerstellung
 
@@ -61,7 +61,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 ## Mandantenkommunikation
 
 - Bei Sitzungsunterbrechung Mandant informieren, dass dies eine Massnahme des Gerichts ist und die Verteidigungsstrategie davon nicht gestoppt wird.
-- Kurze Aktennotiz fuer den Mandanten.
+- Kurze Aktennotiz für den Mandanten.
 
 ## Pitfalls
 
@@ -206,7 +206,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 ## Praktisches Vorgehen
 
 - Schriftliche Stellungnahme gegen den Ausschlussantrag. Tatsachenbestreitung wo moeglich. Eidesstattliche Versicherung wenn sinnvoll.
-- Bei muendlicher Anhoerung: Sachvortrag mit Aktenstellen und Zeugen.
+- Bei muendlicher Anhörung: Sachvortrag mit Aktenstellen und Zeugen.
 - Bei Beschluss in der Hauptverhandlung: sofortige Beschwerde § 138d StPO pruefen.
 
 ## Pitfalls
@@ -228,7 +228,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 ## 5. `strafr-revision-pruefung-spezial`
 
-**Fokus:** Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster fuer Revisionsbegruendung.
+**Fokus:** Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster für Revisionsbegruendung.
 
 # StrafR: Revisionspruefung
 
@@ -236,13 +236,13 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 - **Normen-/Quellenanker:** StPO.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -270,7 +270,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

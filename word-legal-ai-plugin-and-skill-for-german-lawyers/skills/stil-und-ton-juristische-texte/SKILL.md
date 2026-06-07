@@ -1,13 +1,13 @@
 ---
 name: stil-und-ton-juristische-texte
-description: "Adressatengerechte Schreibhygiene fuer juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behoerdenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stil und Ton juristischer Texte
 
 ## Arbeitsbereich
 
-Adressatengerechte Schreibhygiene fuer juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behoerdenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am En
 ## Eingaben
 
 - Textentwurf oder Textaufgabe
-- Adressat (Mandant, Gegenseite, Gericht, Behoerde, intern)
+- Adressat (Mandant, Gegenseite, Gericht, Behörde, intern)
 - Anlass (Erstkontakt, Mahnung, Vergleichsangebot, Schriftsatz, Memo)
 - Ggf. Praeferenz des Mandats (formell, vertraulich, deeskalierend)
 
@@ -37,7 +37,7 @@ Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am En
 - § 43a Abs. 3 BRAO: Sachlichkeitsgebot. Anwalt darf nicht herabwuerdigen oder beleidigen.
 - § 11 BORA: Mandantenkommunikation. Klar und unverzueglich.
 - CLAUDE.md im Repository: Sie-Form als Standardregister; Du-Form nur, wenn Mandat es vorgibt.
-- Methodische Grundlage: Gutachtenstil fuer Memos, Urteilsstil fuer Schriftsaetze. Siehe `references/methodik-buergerliches-recht.md`.
+- Methodische Grundlage: Gutachtenstil für Memos, Urteilsstil für Schriftsaetze. Siehe `references/methodik-buergerliches-recht.md`.
 
 ## Ablauf / Checkliste
 
@@ -55,7 +55,7 @@ Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am En
 | Mandant | Mandantenbrief, gegliedert | Klar, beratend, nicht herablassend | "Wir empfehlen, dass Sie ..." |
 | Gegenseite | Anwaltsschreiben | Kuehl, praezise, mit Frist | "Wir fordern Sie auf, bis zum ..." |
 | Gericht | Schriftsatz, Urteilsstil | Knapp, sachlich, beweisbar | "Die Klage ist begruendet, weil ..." |
-| Behoerde | Antragsschrift, sachlich | Nuechtern, formal, ohne Polemik | "Es wird beantragt, ..." |
+| Behörde | Antragsschrift, sachlich | Nuechtern, formal, ohne Polemik | "Es wird beantragt, ..." |
 | Intern (Memo) | Gutachtenstil | Pruefend, abwaegend | "Es koennte ... Dazu muesste ..." |
 | Gegenanwalt | Schriftverkehr Anwalt zu Anwalt | Kollegial-distanziert | "Sehr geehrte Frau Kollegin, ..." |
 
@@ -79,13 +79,13 @@ Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am En
 
 **Memo (Gutachtenstil):** "Es koennte ein Anspruch der A gegen B aus § 280 Abs. 1 BGB bestehen. Dazu muesste ein Schuldverhaeltnis zwischen A und B vorliegen ..."
 
-**Behoerdenbrief:** "Mit anliegender Vollmacht zeige ich an, dass ich die Rechte des Herrn Mustermann wahrnehme. Es wird beantragt, Akteneinsicht zu gewaehren. Eine Reaktion bis zum 12. Juni 2026 wird erbeten."
+**Behördenbrief:** "Mit anliegender Vollmacht zeige ich an, dass ich die Rechte des Herrn Mustermann wahrnehme. Es wird beantragt, Akteneinsicht zu gewaehren. Eine Reaktion bis zum 12. Juni 2026 wird erbeten."
 
 ## Typische Drafting-Fehler
 
 - **Mandantenbrief in Schriftsatzsprache.** "Anspruchsgrundlagen", "Tatbestandsmerkmale", "Subsumtion" gehoeren nicht in den Mandantenbrief, es sei denn, der Mandant ist Volljurist.
 - **Schriftsatz mit Polemik.** "Es ist schlichtweg unverstaendlich" verstoesst gegen § 43a Abs. 3 BRAO.
-- **Behoerdenbrief mit Wertungen.** Verwaltung mag kuehle Sachlichkeit.
+- **Behördenbrief mit Wertungen.** Verwaltung mag kuehle Sachlichkeit.
 - **Memo ohne Kurzantwort.** Gutachtenstil ohne Ergebnissatz ist unlesbar.
 - **Gegenseitenbrief ohne Frist.** Ohne Frist keine Verzugswirkung.
 - **Bratwurst-Saetze.** Saetze ueber drei Zeilen sind nur in der Hauptbegruendung eines Schriftsatzes vertretbar, und auch dort selten.
@@ -111,9 +111,9 @@ Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am En
 
 ## Quellen (Stand 05/2026)
 
-- § 43a Abs. 3 BRAO; § 11 BORA. gesetze-im-internet.de und brak.de fuer aktuelle Fassung.
-- CLAUDE.md im Repository fuer Sie-Form und Methodikvorgaben.
-- `references/methodik-buergerliches-recht.md` fuer Gutachtenstil und Urteilsstil.
+- § 43a Abs. 3 BRAO; § 11 BORA. gesetze-im-internet.de und brak.de für aktuelle Fassung.
+- CLAUDE.md im Repository für Sie-Form und Methodikvorgaben.
+- `references/methodik-buergerliches-recht.md` für Gutachtenstil und Urteilsstil.
 
 ## Qualitäts-Hardening
 

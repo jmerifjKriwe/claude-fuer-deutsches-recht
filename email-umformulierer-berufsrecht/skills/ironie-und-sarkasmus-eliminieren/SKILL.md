@@ -1,6 +1,6 @@
 ---
 name: ironie-und-sarkasmus-eliminieren
-description: "Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklärung der Aenderungen. Abgrenzung: nicht für offene persoenliche Angriffe (persoenlichen-angriff-entschaerfen)."
+description: "Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklärung der Aenderungen. Abgrenzung: nicht für offene persönliche Angriffe (persönlichen-angriff-entschaerfen)."
 ---
 
 # Ironie und Sarkasmus eliminieren

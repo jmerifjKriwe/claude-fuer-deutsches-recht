@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Mater
 
 Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schluessel zur historischen Auslegung des BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste 
 
 ## Worum es geht
 
-Die Entstehung des BGB erstreckte sich ueber 26 Jahre (1874-1900). Die Erste Kommission (1874-1888) erarbeitete den Ersten Entwurf, der als zu pandektistisch und weltfremd kritisiert wurde (Gierke, Menger). Die Zweite Kommission (1890-1895) ueberarbeitete ihn. Die Materialien (Motive und Protokolle) wurden von Benno Mugdan in sechs Baenden zusammengefasst (Mugdan, Die gesamten Materialien zum BGB, 1899). Die Materialien sind die wichtigste Quelle fuer die historische Auslegung des BGB. Das BGB trat am 1. Januar 1900 in Kraft (RGBl. 1896, 195).
+Die Entstehung des BGB erstreckte sich ueber 26 Jahre (1874-1900). Die Erste Kommission (1874-1888) erarbeitete den Ersten Entwurf, der als zu pandektistisch und weltfremd kritisiert wurde (Gierke, Menger). Die Zweite Kommission (1890-1895) ueberarbeitete ihn. Die Materialien (Motive und Protokolle) wurden von Benno Mugdan in sechs Baenden zusammengefasst (Mugdan, Die gesamten Materialien zum BGB, 1899). Die Materialien sind die wichtigste Quelle für die historische Auslegung des BGB. Das BGB trat am 1. Januar 1900 in Kraft (RGBl. 1896, 195).
 
 ## Kernnormen / Kernquellen
 
@@ -47,16 +64,16 @@ Die Entstehung des BGB erstreckte sich ueber 26 Jahre (1874-1900). Die Erste Kom
 ## Methodik
 
 - Mugdan Bde. I-VI: Motive (Bd. I-V) und Protokolle (Bd. VI) mit Bandnummer und Seite zitieren
-- BGB: gesetze-im-internet.de fuer aktuelle Fassung; historisch RGBl. 1896, 195
+- BGB: gesetze-im-internet.de für aktuelle Fassung; historisch RGBl. 1896, 195
 - BVerfGE und BGH zur Auslegungsbedeutung der Materialien: bverfg.de, bgh.de
 - Keine vereinfachten Paraphrasen ohne Quellenangabe aus den Motiven
 
 ## Output
 
 - Zeitleiste BGB-Entstehung: 1874-1900
-- Mugdan-Navigator: Welcher Band fuer welches BGB-Buch
+- Mugdan-Navigator: Welcher Band für welches BGB-Buch
 - Kernkritik Menger und Gierke: Was wurde aufgenommen, was abgelehnt?
 
 ## Quellenregel
 
-Mugdan 6 Bde. (1899): Bandangabe und Seite. BGB-Text: gesetze-im-internet.de. RGBl. 1896, 195: ALEX/OeNB fuer Originalfassung. BGH und BVerfG zur Materialienauslegung: bgh.de und bverfg.de.
+Mugdan 6 Bde. (1899): Bandangabe und Seite. BGB-Text: gesetze-im-internet.de. RGBl. 1896, 195: ALEX/OeNB für Originalfassung. BGH und BVerfG zur Materialienauslegung: bgh.de und bverfg.de.

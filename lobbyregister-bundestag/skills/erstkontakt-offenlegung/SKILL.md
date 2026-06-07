@@ -31,8 +31,8 @@ Sicherstellen, dass der erste Kontakt transparent und nicht irrefuehrend erfolgt
 ## Leitfragen
 
 1. Ist die Organisation eingetragen?
-2. Wird im eigenen Namen oder fuer Auftraggeber gehandelt?
-3. Welcher Satz passt fuer E-Mail, Telefon, Termin oder Veranstaltung?
+2. Wird im eigenen Namen oder für Auftraggeber gehandelt?
+3. Welcher Satz passt für E-Mail, Telefon, Termin oder Veranstaltung?
 
 ## Offenlegungspflichten beim Erstkontakt (§ 5 LobbyRG + Verhaltenskodex)
 
@@ -91,13 +91,13 @@ Der **Verhaltenskodex** (Anlage zu § 5 LobbyRG) verlangt bei Erstkontakt mit Ma
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 
 ## Output
 
-Kontaktbausteine fuer E-Mail, Telefonnotiz, Meeting-Intro und Nachfassmail mit Pruefhinweis.
+Kontaktbausteine für E-Mail, Telefonnotiz, Meeting-Intro und Nachfassmail mit Pruefhinweis.
 
 ## Qualitaetsgate
 

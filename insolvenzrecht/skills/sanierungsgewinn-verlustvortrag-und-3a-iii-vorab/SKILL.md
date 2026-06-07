@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-verlustvortrag-und-3a-iii-vorab
-description: "Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-fuer-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag aufzehrt, ist die Steuerfreiheit faktisch sichergestellt — Erlassantrag bleibt formell sinnvoll, materiell aber entbehrlich. Mit Berechnungsschemata und Excel-tauglicher Tabelle im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-für-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag aufzehrt, ist die Steuerfreiheit faktisch sichergestellt — Erlassantrag bleibt formell sinnvoll, materiell aber entbehrlich. Mit Berechnungsschemata und Excel-tauglicher Tabelle im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab pruefen
 
 ## Arbeitsbereich
 
-Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-fuer-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag aufzehrt, ist die Steuerfreiheit faktisch sichergestellt — Erlassantrag bleibt formell sinnvoll, materiell aber entbehrlich. Mit Berechnungsschemata und Excel-tauglicher Tabelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-für-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag aufzehrt, ist die Steuerfreiheit faktisch sichergestellt — Erlassantrag bleibt formell sinnvoll, materiell aber entbehrlich. Mit Berechnungsschemata und Excel-tauglicher Tabelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -29,7 +29,7 @@ Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor I
 
 Paragraph 3a Absatz 3 EStG ordnet eine zwingende Verrechnungsreihenfolge zwischen dem Sanierungsertrag und den Minderungspositionen an. Wer die Reihenfolge nicht vorab durchgerechnet hat, weiss nicht, wie hoch der **steuerbare Restbetrag** ist, der dann ggf. eine Steuer ausloest — und ob das Steuerrisiko ueberhaupt im sechs-, sieben- oder achtstelligen Bereich liegt.
 
-Dieser Skill macht eine **Schritt-fuer-Schritt-Modellrechnung**, die der Steuerberater des Schuldners gemeinsam mit dem Insolvenzverwalter aufsetzt. Ziel: vor Plan-Einreichung steht eine belastbare Zahl im Raum.
+Dieser Skill macht eine **Schritt-für-Schritt-Modellrechnung**, die der Steuerberater des Schuldners gemeinsam mit dem Insolvenzverwalter aufsetzt. Ziel: vor Plan-Einreichung steht eine belastbare Zahl im Raum.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -54,9 +54,9 @@ Kaltstart-Fragen:
 - Paragraph 8 KStG — Anwendung des EStG-Verlustabzugs auf Koerperschaften.
 - Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG — gewerbesteuerliche Parallel-Regelung mit eigenstaendiger Verrechnungsmechanik.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
-Die Verrechnungslogik laeuft in drei Stufen. Die folgende Tabelle zeigt das Grundmuster fuer Koerperschaften (GmbH, AG); fuer transparente Personengesellschaften ist die Logik auf Gesellschafterebene zu spiegeln.
+Die Verrechnungslogik laeuft in drei Stufen. Die folgende Tabelle zeigt das Grundmuster für Koerperschaften (GmbH, AG); für transparente Personengesellschaften ist die Logik auf Gesellschafterebene zu spiegeln.
 
 | Stufe | Position | Behandlung nach Paragraph 3a Absatz 3 EStG |
 |---|---|---|
@@ -97,7 +97,7 @@ Die Verrechnungslogik laeuft in drei Stufen. Die folgende Tabelle zeigt das Grun
 
 **Beispiel 1 — Szenario A:** GmbH, KSt-Verlustvortrag 8.000.000 EUR. Sanierungsertrag aus Plan 5.000.000 EUR. Stufe 1: 5.000.000. Stufe 2a Sanierungskosten 200.000. Stufe 2b KSt-Verlustvortrag verbraucht in Hoehe von 4.800.000. Restsanierungsertrag: 0. Verbleibender KSt-Verlustvortrag nach Sanierung: 3.200.000. **Materiell keine Steuer** aus dem Verzicht.
 
-**Beispiel 2 — Szenario B:** GmbH, KSt-Verlustvortrag 1.500.000 EUR. Sanierungsertrag 5.000.000. Stufe 2a Sanierungskosten 200.000. Stufe 2b Verlustvortrag verbraucht: 1.500.000. Restsanierungsertrag: 3.300.000. Dieser Restbetrag ist nach Paragraph 3a Absatz 1 EStG steuerfrei, wenn die vier Voraussetzungen Paragraph 3a Absatz 2 EStG erfuellt sind. Andernfalls: Steuer rund 0,8 bis 1,0 Mio. EUR (KSt plus GewSt) — fuer den Plan in der Regel toedlich.
+**Beispiel 2 — Szenario B:** GmbH, KSt-Verlustvortrag 1.500.000 EUR. Sanierungsertrag 5.000.000. Stufe 2a Sanierungskosten 200.000. Stufe 2b Verlustvortrag verbraucht: 1.500.000. Restsanierungsertrag: 3.300.000. Dieser Restbetrag ist nach Paragraph 3a Absatz 1 EStG steuerfrei, wenn die vier Voraussetzungen Paragraph 3a Absatz 2 EStG erfuellt sind. Andernfalls: Steuer rund 0,8 bis 1,0 Mio. EUR (KSt plus GewSt) — für den Plan in der Regel toedlich.
 
 **Beispiel 3 — Szenario C:** GmbH, kein Verlustvortrag (junges Unternehmen mit hohem Forderungsverzicht). Sanierungsertrag 2.000.000. Stufe 2a Sanierungskosten 100.000. Restsanierungsertrag: 1.900.000. Nur Paragraph 3a Absatz 1 EStG schuetzt — die vier Voraussetzungen muessen wasserdicht dokumentiert sein.
 
@@ -134,12 +134,12 @@ Im Plugin `insolvenzrecht`:
 - `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
 - `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Vorrats- und Antragsmechanik.
 - `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack` — GewSt-Parallelitaet.
-- `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` — Haftung Verwalter bei Versaeumnis.
+- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftung Verwalter bei Versaeumnis.
 
 In anderen Plugins:
 
 - `steuerrecht-anwalt-und-berater` — allgemeine Verlustabzugs-Mechanik.
-- `liquiditaetsplanung` — Schwester-Skill fuer Cash-Sicht.
+- `liquiditaetsplanung` — Schwester-Skill für Cash-Sicht.
 
 ## Quellen Stand 06/2026
 

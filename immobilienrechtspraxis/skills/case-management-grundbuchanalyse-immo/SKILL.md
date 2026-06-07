@@ -122,7 +122,7 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 - "Fasse das 80-Seiten-Gutachten in einer Seite zusammen mit
  Bezug zum Fall."
 
-## Aktuelle Rechtsprechung — Leitsaetze fuer Case-Management
+## Aktuelle Rechtsprechung — Leitsaetze für Case-Management
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 45 WEG: Anfechtungsklage muss innerhalb eines Monats ab Beschlussfassung erhoben und innerhalb zweier Monate ab Beschlussfassung begruendet werden; beide Fristen sind materiell-rechtliche Ausschlussfristen.
@@ -136,7 +136,7 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 | Betriebskosten-Einwendung | § 556 Abs. 3 Satz 5 BGB | 12 Monate nach Zugang |
 | Vorkaufsrecht Gemeinde | §§ 24 ff. BauGB | 2 Monate nach Mitteilung |
 | Mietkaution-Abrechnung | § 551 Abs. 3 BGB | Ca. 6 Monate nach Auszug |
-| Verjaehrung Mietforderung | §§ 195, 199 BGB | 3 Jahre ab Jahresende |
+| Verjährung Mietforderung | §§ 195, 199 BGB | 3 Jahre ab Jahresende |
 
 <!-- AUDIT 27.05.2026 — Bundle 033 —
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

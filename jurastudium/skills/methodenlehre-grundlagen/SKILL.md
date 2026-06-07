@@ -116,7 +116,7 @@ Wer eine Auslegung gegen den Wortlaut, eine Analogie, eine Reduktion vornimmt, *
 
 ## Querverweise
 
-- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-oeffentliches-recht` — fachspezifische Vertiefung.
+- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-öffentliches-recht` — fachspezifische Vertiefung.
 - `subsumtionslehre` — wenn nach Auslegung subsumiert wird.
 - `gutachten-uebung` — Methodenlehre als Begründungsteil in der Klausur.
 

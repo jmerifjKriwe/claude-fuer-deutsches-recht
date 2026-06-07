@@ -26,7 +26,7 @@ Das Familienrecht des BGB 1900 spiegelte das 19. Jahrhundert: Eheliche Schluesse
 - **BGB § 1354 a.F.** (1900): Maennliches Entscheidungsrecht in Eheangelegenheiten (bis 1957)
 - **WRV Art. 119** (1919): Gleichberechtigung der Eheleute, Programmsatz
 - **GG Art. 3 Abs. 2** (1949): Verbot der Benachteiligung wegen des Geschlechts
-- **BVerfGE 3, 225** (1953): Frist fuer Gesetzgeber zur Umsetzung Art. 3 II GG
+- **BVerfGE 3, 225** (1953): Frist für Gesetzgeber zur Umsetzung Art. 3 II GG
 - **Gleichberechtigungsgesetz 1957 (BGBl. I 1957, 609)**: Aufhebung maennlicher Vorrechte
 - **EheRG 1976 (BGBl. I 1976, 1421)**: Zerruttungsprinzip statt Verschuldensprinzip
 

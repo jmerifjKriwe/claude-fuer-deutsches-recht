@@ -151,7 +151,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Dieses Plugin unterstuetzt Mieter, Vermieter, Hausverwaltungen und deren Anwaelte bei allen praxisrelevanten Fragen des deutschen Mietrechts. Es deckt Wohnraummiete und Gewerberaummiete ab: Mieterhoehungsverlangen, Mietsenkungsverlangen nach Mietpreisbremse, Nebenkostenpruefung, Kuendigungsrecht (Eigenbedarf, Zahlungsverzug), Kautionsrueckforderung, WEG-Beschlussanfechtung und Klageentwurf zum Amtsgericht.
 
-Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fuer Bundeslaender, Top- und Universitaetsstaedte. Es werden ausschliesslich amtliche Quellen verwendet; keine Schaetzdaten oder Onlineportale.
+Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen für Bundeslaender, Top- und Universitaetsstaedte. Es werden ausschliesslich amtliche Quellen verwendet; keine Schaetzdaten oder Onlineportale.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -163,7 +163,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Ortsuebliche Vergleichsmiete** — Die uebliche Miete fuer Wohnungen vergleichbarer Art, Groesse, Ausstattung und Lage; Massstab fuer Mieterhoehungen nach § 558 BGB.
+- **Ortsuebliche Vergleichsmiete** — Die uebliche Miete für Wohnungen vergleichbarer Art, Groesse, Ausstattung und Lage; Massstab für Mieterhoehungen nach § 558 BGB.
 - **Kappungsgrenze** — Maximale prozentuale Erhoehung innerhalb von drei Jahren; regelmaessig 20 %, in Spannungsgebieten 15 %.
 - **Mietpreisbremse** — §§ 556d ff. BGB; Neuvermietungsmiete darf in Gebieten mit angespanntem Wohnungsmarkt die ortsuebliche Vergleichsmiete um nicht mehr als 10 % uebersteigen.
 - **Qualifizierter Mietspiegel** — Mietspiegel, der nach wissenschaftlichen Grundsaetzen erstellt und anerkannt wurde (§ 558d BGB); hat Vermutungswirkung.
@@ -182,9 +182,9 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
 - § 573c BGB — Kuendigungsfristen
 - § 551 BGB — Begrenzung und Anlage der Mietkaution
 - §§ 44 ff. WEG — Beschlussanfechtung und -klage (nach WEG-Reform 2020)
-- § 29a ZPO — Ausschliessliche Zustaendigkeit Amtsgericht bei Wohnraum
+- § 29a ZPO — Ausschliessliche Zuständigkeit Amtsgericht bei Wohnraum
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Vermieter oder Mieter, Wohnraum oder Gewerbe, Bestandsmiete oder Neuabschluss.
 2. Phase des Mandats bestimmen: Mieterhoehung, Nebenkostenstreit, Kuendigung, Kaution, WEG oder Klage.
@@ -200,7 +200,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
 
 **Datenerhebung**
 
-- `lage-und-ausstattung-erheben` — Strukturierte Datenerhebung fuer Mietspiegel-Einordnung: Adresse, Baujahr, Wohnflaeche, Ausstattungsmerkmale.
+- `lage-und-ausstattung-erheben` — Strukturierte Datenerhebung für Mietspiegel-Einordnung: Adresse, Baujahr, Wohnflaeche, Ausstattungsmerkmale.
 - `mietspiegel-quellen` — Prueft ortsuebliche Vergleichsmiete anhand amtlicher Mietspiegel-Quellen pro Bundesland und Stadttyp.
 
 **Mieterhoehung (Vermieter)**
@@ -215,7 +215,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
 
 **Nebenkostenabrechnung**
 
-- `nebenkostenabrechnung-erstellen` — Rechtssichere Betriebskostenabrechnung fuer Vermieter nach § 556 BGB und BetrKV.
+- `nebenkostenabrechnung-erstellen` — Rechtssichere Betriebskostenabrechnung für Vermieter nach § 556 BGB und BetrKV.
 - `nebenkostenabrechnung-pruefen` — Betriebskostenabrechnung auf Frist, Form, Umlagefaehigkeit, Verteilerschluessel und HeizkostenV pruefen.
 
 **Kuendigung**
@@ -225,20 +225,20 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
 
 **Kaution**
 
-- `mietkaution-rueckforderung` — Prueft Rueckforderungsanspruch: Hoechstgrenze, Anlagepflicht, Abrechnungsfrist, Einbehalt und Verjaehrung.
+- `mietkaution-rueckforderung` — Prueft Rückforderungsanspruch: Hoechstgrenze, Anlagepflicht, Abrechnungsfrist, Einbehalt und Verjährung.
 
 **Kommunikation und WEG**
 
-- `mieteranfragen-beantworten` — Beantwortung von Mieteranfragen sachlich und rechtlich korrekt fuer Vermieter und Hausverwaltungen.
+- `mieteranfragen-beantworten` — Beantwortung von Mieteranfragen sachlich und rechtlich korrekt für Vermieter und Hausverwaltungen.
 - `weg-beschluss-anfechten` — Prueft Beschlussanfechtungs- und Nichtigkeitsklage nach §§ 44 ff. WEG 2020 mit Monatsfrist.
 
 **Klage**
 
-- `klageentwurf-amtsgericht` — Klageschrift zum Amtsgericht in Mietsachen: Zustaendigkeit, Streitwert, Antraege und Beweisangebote.
+- `klageentwurf-amtsgericht` — Klageschrift zum Amtsgericht in Mietsachen: Zuständigkeit, Streitwert, Antraege und Beweisangebote.
 
 ## Worauf besonders achten
 
-- **Ausschliesslich amtliche Mietspiegel verwenden.** Das Plugin nutzt nur offiziell anerkannte Quellen; Onlineportale sind keine zulaessige Begruendung fuer Mieterhoehungsverlangen.
+- **Ausschliesslich amtliche Mietspiegel verwenden.** Das Plugin nutzt nur offiziell anerkannte Quellen; Onlineportale sind keine zulaessige Begruendung für Mieterhoehungsverlangen.
 - **Kappungsgrenze gilt relativ zum letzten Mieterhoehungsverlangen.** Dreijahresfrist und prozentuale Grenze sind getrennt zu pruefen; Kappungsgrenze in Spannungsgebieten 15 % nach Landesrecht.
 - **Kuendigungsbegruendung bei Eigenbedarf muss konkret sein.** Zu abstrakte Begruendungen fuehren zur Unwirksamkeit der Kuendigung; Skill `eigenbedarfskuendigung-erstellen` sichert den Mindestinhalt.
 - **WEG-Anfechtungsfrist laeuft hart.** Ein Monat nach Beschlussfassung (§ 45 WEG); danach nur noch Nichtigkeitsklage bei gravierenden Maengeln.
@@ -266,7 +266,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
  - BGH, Urt. v. 09.07.2025 – Az. VIII ZR 287/23 — Schonfristzahlung § 569 Abs. 3 Nr. 2 BGB heilt nur fristlose, nicht ordentliche Kuendigung. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.07.2025&Aktenzeichen=VIII+ZR+287/23
  - BGH, Urt. v. 24.09.2025 – Az. VIII ZR 289/23 — Anforderungen an Eigenbedarfsbegruendung § 573 Abs. 3 BGB; Eigenbedarf wirksam auch bei spaeterem Verkauf.
  - BGH, Urt. v. 27.11.2024 – Az. VIII ZR 159/23 — qES-Wohnraumkuendigung und Zugang (siehe schriftform-und-textform-bgb).
-- Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318): ab 01.01.2026 § 23 GVG i.V.m. neuen Wertgrenzen wirkt auf Raeumungsklagen und mietrechtliche Zahlungsklagen; AG bleibt aber fuer Wohnraummietsachen ohne Streitwertgrenze zustaendig (§ 23 Nr. 2a GVG).
+- Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318): ab 01.01.2026 § 23 GVG i.V.m. neuen Wertgrenzen wirkt auf Raeumungsklagen und mietrechtliche Zahlungsklagen; AG bleibt aber für Wohnraummietsachen ohne Streitwertgrenze zuständig (§ 23 Nr. 2a GVG).
 
 ## Qualitäts-Hardening
 

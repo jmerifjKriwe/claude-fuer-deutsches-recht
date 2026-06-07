@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Mandats-/Gesellschaftsprofil, Organigramm, Rollenmatrix und Eskalationskette.
@@ -107,7 +107,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. Welche Workstreams sind erforderlich: Legal, Tax, Financial, Regulatory, HR?
 2. Transakitionsgrösse und Zeitrahmen → Kapazitaetsbedarf einschaetzen
-3. Interessenkonflikt-Check fuer alle Teammitglieder durchgefuehrt?
+3. Interessenkonflikt-Check für alle Teammitglieder durchgefuehrt?
 4. Externe Berater erforderlich: Investmentbank, Steuerberater, WP-Gesellschaft?
 5. Budget-Freigabe vorhanden? Stundenrahmen pro Workstream?
 6. Need-to-know-Restriktionen: Wer darf auf welche Informationen zugreifen (Insider-Log, Clean Room)?
@@ -140,10 +140,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Financial DD (extern) | WP [Firm] | [NAME] | [h] | Koordiniert |
 | PMO / Koordination | Senior Assoc. | [NAME] | [h] | Aktiv |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Mandatsskizze erstellen** — Scope, Zeitplan, Komplexitaet abschaetzen
-2. **Konfliktpruefung fuer alle Kandidaten** — § 43a BRAO; alle Parteien und Affiliates checken
+2. **Konfliktpruefung für alle Kandidaten** — § 43a BRAO; alle Parteien und Affiliates checken
 3. **Team-Auswahl** — nach Expertise, Kapazitaet, Insider-Log-Faehigkeit
 4. **Rollenverteilung und Briefing** — jeder weiss seinen Scope; Need-to-know-Restriktionen
 5. **Stundenplan und Budget** — wochentliche Stunden-Reports; Abweichungen frueh melden
@@ -185,7 +185,7 @@ Strategische Fragen → [Fuehrender Partner NAME]
 
 ## Rote Schwellen
 
-- Konfliktpruefung nicht fuer alle Teammitglieder → § 43a BRAO Kanzlei-Haftung
+- Konfliktpruefung nicht für alle Teammitglieder → § 43a BRAO Kanzlei-Haftung
 - Insider-Log unvollstaendig → Art. 18 MAR; BaFin-Bussgeld; Compliance-Risiko
 - Kein Need-to-know-Protokoll → Clean-Room-Verletzung; Kartellrecht-Risiko
 - Budget-Ueberschreitung nicht fruehzeitig kommuniziert → Mandantenunzufriedenheit; Honorarstreit

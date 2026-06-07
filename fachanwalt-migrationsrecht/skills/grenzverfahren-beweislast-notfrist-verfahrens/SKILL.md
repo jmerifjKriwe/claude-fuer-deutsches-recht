@@ -1,6 +1,6 @@
 ---
 name: grenzverfahren-beweislast-notfrist-verfahrens
-description: "Grenzverfahren Beweislast Notfrist Verfahrens im Migrationsrecht: prüft konkret Grenzverfahren, Notfrist, Verfahrens, Asylsuchender muss zum BAMF zur Anhoerung und Anwalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Grenzverfahren Beweislast Notfrist Verfahrens im Migrationsrecht: prüft konkret Grenzverfahren, Notfrist, Verfahrens, Asylsuchender muss zum BAMF zur Anhörung und Anwalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Grenzverfahren Beweislast Notfrist Verfahrens
@@ -15,7 +15,7 @@ description: "Grenzverfahren Beweislast Notfrist Verfahrens im Migrationsrecht: 
 | `spezial-grenzverfahren-beweislast-und-darlegungslast` | Grenzverfahren: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-notfrist-compliance-dokumentation-und-akte` | Notfrist: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verfahrens-behoerden-gericht-und-registerweg` | Verfahrens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `asyl-anhoerung-vorbereiten` | Asylsuchender muss zum BAMF zur Anhoerung und Anwalt bereitet die Schilderung der Fluchtgründe vor. Prüfraster § 25 AsylG Bedeutung der Anhoerung Verfolgungs-Schilderung nach GFK-Schutzgründen politische Verfolgung subsidiaerem Schutz Abschiebeverboten § 60 AufenthG. Dublin-III-Prüfung Schutzsuche im Erstland. Beweismittel Atteste Dokumente Zeugen Dolmetscher-Auswahl Verfahrensbeistand für unbegleitete Minderjaehrige. Output strukturierter Vorbereitungsleitfaden mit Anhoerungsprotokoll-Checkliste und Korrekturrrecht. Abgrenzung: fachanwalt-migrationsrecht-bamf-anhoerung-strategie für behordliche Kommunikation. |
+| `asyl-anhoerung-vorbereiten` | Asylsuchender muss zum BAMF zur Anhörung und Anwalt bereitet die Schilderung der Fluchtgründe vor. Prüfraster § 25 AsylG Bedeutung der Anhörung Verfolgungs-Schilderung nach GFK-Schutzgründen politische Verfolgung subsidiaerem Schutz Abschiebeverboten § 60 AufenthG. Dublin-III-Prüfung Schutzsuche im Erstland. Beweismittel Atteste Dokumente Zeugen Dolmetscher-Auswahl Verfahrensbeistand für unbegleitete Minderjaehrige. Output strukturierter Vorbereitungsleitfaden mit Anhörungsprotokoll-Checkliste und Korrekturrrecht. Abgrenzung: fachanwalt-migrationsrecht-bamf-anhoerung-strategie für behordliche Kommunikation. |
 
 ## Arbeitsweg
 
@@ -160,7 +160,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `asyl-anhoerung-vorbereiten`
 
-**Fokus:** Asylsuchender muss zum BAMF zur Anhoerung und Anwalt bereitet die Schilderung der Fluchtgründe vor. Prüfraster § 25 AsylG Bedeutung der Anhoerung Verfolgungs-Schilderung nach GFK-Schutzgründen politische Verfolgung subsidiaerem Schutz Abschiebeverboten § 60 AufenthG. Dublin-III-Prüfung Schutzsuche im Erstland. Beweismittel Atteste Dokumente Zeugen Dolmetscher-Auswahl Verfahrensbeistand für unbegleitete Minderjaehrige. Output strukturierter Vorbereitungsleitfaden mit Anhoerungsprotokoll-Checkliste und Korrekturrrecht. Abgrenzung: fachanwalt-migrationsrecht-bamf-anhoerung-strategie für behordliche Kommunikation.
+**Fokus:** Asylsuchender muss zum BAMF zur Anhörung und Anwalt bereitet die Schilderung der Fluchtgründe vor. Prüfraster § 25 AsylG Bedeutung der Anhörung Verfolgungs-Schilderung nach GFK-Schutzgründen politische Verfolgung subsidiaerem Schutz Abschiebeverboten § 60 AufenthG. Dublin-III-Prüfung Schutzsuche im Erstland. Beweismittel Atteste Dokumente Zeugen Dolmetscher-Auswahl Verfahrensbeistand für unbegleitete Minderjaehrige. Output strukturierter Vorbereitungsleitfaden mit Anhörungsprotokoll-Checkliste und Korrekturrrecht. Abgrenzung: fachanwalt-migrationsrecht-bamf-anhoerung-strategie für behordliche Kommunikation.
 
 # Asyl-Anhörung beim BAMF vorbereiten
 
@@ -176,7 +176,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 8. Welche Beweismittel (Fotos, Atteste, Anzeigencopies, Zeugen) können zur Anhörung mitgebracht werden?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -253,7 +253,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Asyl-Anhoerung vorbereiten | Anhoerungsprotokoll und Checkliste; Template unten |
+| Standard — Asyl-Anhörung vorbereiten | Anhörungsprotokoll und Checkliste; Template unten |
 | Variante A — Dublin-III-Uebertragung droht | Suspensivantrag; einstweilige Massnahme VG pruefen |
 | Variante B — Vulnerable Person | Besondere Verfahrensgarantien Art. 24 VerfahrensRL; medizinisches Gutachten |
 | Variante C — Folgeantrag statt Erstantrag | § 71 AsylG neue Umstaende darlegen; Huerden beachten |
@@ -458,7 +458,7 @@ Mit freundlichen Grüßen
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
-## Output-Template: Vorbereitungs-Checkliste Asyl-Anhoerung
+## Output-Template: Vorbereitungs-Checkliste Asyl-Anhörung
 
 **Adressat:** Intern (Anwaltskanzlei) / Mandant
 **Tonfall:** Strukturiert-verfahrensrechtlich
@@ -466,7 +466,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 ANHOERUNGSVORBEREITUNG — CHECKLISTE
 Mandant: [NAME, geb. DATUM, Staatsang.]
-BAMF-Anhoerung: [DATUM, UHRZEIT, BAMF-Aussenstelle]
+BAMF-Anhörung: [DATUM, UHRZEIT, BAMF-Aussenstelle]
 Bevollmaechtigte Kanzlei: [NAME]
 
 A. LOGISTIK (bis 2 Tage vor Termin)
@@ -478,7 +478,7 @@ A. LOGISTIK (bis 2 Tage vor Termin)
 
 B. UNTERLAGEN (gesammelt und kopiert)
 [ ] Identitätsdokumente (Pass / Ausweis / Geburtsurkunde)
-[ ] Laenderkunde-Berichte (AA, UNHCR, EASO) — Anlage 1
+[ ] Länderkunde-Berichte (AA, UNHCR, EASO) — Anlage 1
 [ ] Attest Trauma / Erkrankung — Anlage 2
 [ ] Sonstige Beweismittel — Anlage 3
 

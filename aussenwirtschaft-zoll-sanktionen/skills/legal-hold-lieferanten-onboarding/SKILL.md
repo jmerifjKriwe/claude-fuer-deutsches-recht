@@ -1,13 +1,13 @@
 ---
 name: legal-hold-lieferanten-onboarding
-description: "Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behoerden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behörden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Legal Hold und Datenextraktion bei Aussenwirtschafts-Ermittlungen
 
 ## Arbeitsbereich
 
-Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behoerden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behörden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittl
 
 ## Mandantenfall
 
-- BAFA kuendigt Aussenpruefung an; Legal Hold fuer alle Exportdaten der letzten 5 Jahre notwendig.
+- BAFA kuendigt Aussenpruefung an; Legal Hold für alle Exportdaten der letzten 5 Jahre notwendig.
 - OFAC-Anfrage zu Transaktionen; US-eDiscovery-Standards und deutsches Datenschutzrecht kollidieren.
 - Interne Investigation nach Hinweisgeber-Meldung; IT-forensische Sicherung vor regulaerer Loeschung noetig.
 
@@ -27,16 +27,16 @@ Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittl
 
 1. Legal-Hold-Anordnung formulieren und an IT, Compliance, Archiv und betroffene Abteilungen senden.
 2. Datenkategorien definieren: ATLAS-Daten, ERP-Exportmodule, E-Mails, Vertraege, EUC, Sanktionsscreening-Logs.
-3. Technische Sicherungsmassnahmen einrichten: Backup-Stopp fuer relevante Datenbereiche.
-4. DSGVO-Rechtsgrundlage fuer Datensicherung pruefen (Art. 6 Abs. 1 lit. c fuer gesetzliche Pflicht).
+3. Technische Sicherungsmassnahmen einrichten: Backup-Stopp für relevante Datenbereiche.
+4. DSGVO-Rechtsgrundlage für Datensicherung pruefen (Art. 6 Abs. 1 lit. c für gesetzliche Pflicht).
 5. Bei US-eDiscovery: Datenschutzkonforme Transfer-Grundlage beachten (SCCs, DSGVO Art. 49).
-6. Protokollierung der gesicherten Datenbestaende mit Hash-Werten fuer Integritaetssicherung.
+6. Protokollierung der gesicherten Datenbestaende mit Hash-Werten für Integritaetssicherung.
 
 ## Rechtsrahmen
 
-- **AWV § 24**: Aufbewahrungspflicht fuer Ausfuhrunterlagen (10 Jahre).
-- **UZK Art. 51**: Aufbewahrungspflicht fuer Zollanmeldungen.
-- **DSGVO Art. 6**: Rechtsgrundlage fuer Datensicherung.
+- **AWV § 24**: Aufbewahrungspflicht für Ausfuhrunterlagen (10 Jahre).
+- **UZK Art. 51**: Aufbewahrungspflicht für Zollanmeldungen.
+- **DSGVO Art. 6**: Rechtsgrundlage für Datensicherung.
 - **§ 146 AO**: Buchfuehrungsunterlagen-Aufbewahrungspflicht.
 - **§ 97 StPO**: Beschlagnahmefreiheit anwaltlicher Unterlagen.
 
@@ -44,9 +44,9 @@ Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittl
 
 - [ ] Legal-Hold-Anordnung alle relevante Datenkategorien erfassend?
 - [ ] IT-Sicherungsmassnahmen zeitnah eingeleitet?
-- [ ] DSGVO-Rechtsgrundlage fuer Datenzugriff geprueft?
+- [ ] DSGVO-Rechtsgrundlage für Datenzugriff geprueft?
 - [ ] US-eDiscovery-Anforderungen mit deutschem Datenschutzrecht abgestimmt?
-- [ ] Integritaets-Hash-Werte fuer gesicherte Datenbestaende erstellt?
+- [ ] Integritaets-Hash-Werte für gesicherte Datenbestaende erstellt?
 - [ ] Aufbewahrungsfristen (AWV 10 Jahre) gegen Legal-Hold-Anforderungen abgeglichen?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittl
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

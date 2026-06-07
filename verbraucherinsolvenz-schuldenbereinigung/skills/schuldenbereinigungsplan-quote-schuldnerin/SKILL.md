@@ -12,9 +12,9 @@ description: "Schuldenbereinigungsplan Quote Schuldnerin im Plugin Verbraucherin
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `schuldenbereinigungsplan-quote` | Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.; Normanker: InsO §§ 305 und 307-309; ZPO §§ 850c ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `schuldnerin-mit-immobilie` | Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.; Normanker: InsO §§ 35 und 49; ZVG; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `selbststaendigkeit-beendet` | Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.; Normanker: InsO § 304 Abs. 1 Satz 2; SGB IV; § 266a StGB als Risiko; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `schuldenbereinigungsplan-quote` | Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.; Normanker: InsO §§ 305 und 307-309; ZPO §§ 850c ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `schuldnerin-mit-immobilie` | Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.; Normanker: InsO §§ 35 und 49; ZVG; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `selbststaendigkeit-beendet` | Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.; Normanker: InsO § 304 Abs. 1 Satz 2; SGB IV; § 266a StGB als Risiko; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Schuldenbereinigungsplan Quote Schuldnerin im Plugin Verbraucherin
 
 ## 1. `schuldenbereinigungsplan-quote`
 
-**Fokus:** Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.; Normanker: InsO §§ 305 und 307-309; ZPO §§ 850c ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.; Normanker: InsO §§ 305 und 307-309; ZPO §§ 850c ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.
 
@@ -66,7 +66,7 @@ InsO §§ 305, 307-309; ZPO §§ 850c ff.. Entscheidend ist immer der aktuelle N
 
 ## 2. `schuldnerin-mit-immobilie`
 
-**Fokus:** Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.; Normanker: InsO §§ 35 und 49; ZVG; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.; Normanker: InsO §§ 35 und 49; ZVG; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.
 
@@ -105,7 +105,7 @@ InsO §§ 35, 49; ZVG; BGB Sicherheiten. Entscheidend ist immer der aktuelle Nor
 
 ## 3. `selbststaendigkeit-beendet`
 
-**Fokus:** Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.; Normanker: InsO § 304 Abs. 1 Satz 2; SGB IV; § 266a StGB als Risiko; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.; Normanker: InsO § 304 Abs. 1 Satz 2; SGB IV; § 266a StGB als Risiko; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.
 

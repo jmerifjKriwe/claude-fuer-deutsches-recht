@@ -13,8 +13,8 @@ Dieser Quellen-Livecheck für **Verkehr Infrastrukturrecht** trennt amtliche Nor
 
 - `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `autonomous-driving-interessen-grossprojekt` — Autonomous Driving Interessen Grossprojekt
-- `foerderung-vergabe-ladeinfrastruktur-planfeststellung` — Foerderung Vergabe Ladeinfrastruktur Planfeststellung
-- `infrastruktur-foerderung-nachhaltige-bahninfrastruktur` — Infrastruktur Foerderung Nachhaltige Bahninfrastruktur
+- `foerderung-vergabe-ladeinfrastruktur-planfeststellung` — Förderung Vergabe Ladeinfrastruktur Planfeststellung
+- `infrastruktur-foerderung-nachhaltige-bahninfrastruktur` — Infrastruktur Förderung Nachhaltige Bahninfrastruktur
 - `infrastrukturrecht-intake-ladeinfrastruktur` — Infrastrukturrecht Intake Ladeinfrastruktur
 - `livecheck-sonderfall-mobilitaetsprojekt-intake` — Livecheck Sonderfall Mobilitaetsprojekt Intake
 - `parkraum-planfeststellung-strassenbahn` — Parkraum Planfeststellung Strassenbahn

@@ -9,6 +9,23 @@ description: "Common-Law-Erklärungen sollen für Mandanten oder Team leichter l
 
 Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -62,7 +79,7 @@ Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf l
 
 ## Vertiefung: Common Law Wit und klassische Wendungen
 
-- **Lord Denning** in Davis Contractors v Fareham UDC [1956] AC 696 — Frustration "not lightly to be invoked to relieve contracting parties of the normal consequences of imprudent commercial bargains." Immer zitierbar fuer skeptische Richter.
+- **Lord Denning** in Davis Contractors v Fareham UDC [1956] AC 696 — Frustration "not lightly to be invoked to relieve contracting parties of the normal consequences of imprudent commercial bargains." Immer zitierbar für skeptische Richter.
 - **Cardozo J** in Palsgraf v Long Island Railroad 248 NY 339 (1928) — "Negligence in the air, so to speak, will not do." Elegant formulierung der Duty-of-care Begrenzung.
 - **Anonymous** in the common law tradition — "Every dog is allowed one bite" — popular summary of scienter rule in dog bite cases (actually now legislated away in most jurisdictions).
 

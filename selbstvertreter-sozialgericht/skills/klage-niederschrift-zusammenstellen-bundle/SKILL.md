@@ -47,13 +47,13 @@ Sie wollen klagen, aber das Schreiben faellt Ihnen schwer. Vielleicht koennen Si
 
 ## In einfacher Sprache
 
-Sie koennen Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schreibt fuer Sie. Sie unterschreiben. Fertig. Das kostet nichts.
+Sie koennen Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schreibt für Sie. Sie unterschreiben. Fertig. Das kostet nichts.
 
 ## Wann brauchen Sie diese Skill?
 
 - Schreiben faellt Ihnen schwer.
 - Sie sprechen besser als Sie schreiben.
-- Sie verstehen die Behoerdensprache nicht.
+- Sie verstehen die Behördensprache nicht.
 - Sie wollen sichergehen, dass alles richtig formuliert ist.
 
 ## Fachbegriffe (kurz erklaert)
@@ -67,7 +67,7 @@ Sie koennen Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schre
 - **§ 90 SGG** — Klage schriftlich oder zur Niederschrift.
 - **§ 91 SGG** — Niederschrift bei einem anderen Gericht moeglich.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Termin organisieren
 
@@ -85,10 +85,10 @@ Manche SG haben offene Sprechstunden, andere arbeiten nur mit Termin.
 
 - Personalausweis oder Pass
 - Bescheid und Widerspruchsbescheid (Original und Kopien)
-- Schriftverkehr mit Behoerde
+- Schriftverkehr mit Behörde
 - Aerztliche Atteste / Berichte
 - Versicherungsnummer / Aktenzeichen
-- Bei Bedarf Adresse der beklagten Behoerde
+- Bei Bedarf Adresse der beklagten Behörde
 
 ### Schritt 3 — Was die Geschaeftsstelle macht
 
@@ -112,14 +112,14 @@ Sie bekommen eine Kopie der Niederschrift. Aufheben! Das ist Ihr Beweis.
 
 ### Schritt 6 — Weiter laeuft alles wie bei schriftlicher Klage
 
-- Klage wird an die beklagte Behoerde zugestellt.
-- Behoerde erwidert.
+- Klage wird an die beklagte Behörde zugestellt.
+- Behörde erwidert.
 - Verfahren laeuft.
 
 ## Worauf Sie besonders achten muessen
 
 - **Klagebegruendung kann nachgereicht werden**: Bei der Niederschrift muessen Sie nicht alle Details liefern. Erst Klage einreichen, Frist sichern; Begruendung folgt schriftlich.
-- **Mitarbeiter sind freundlich**: Auf den Geschaeftsstellen arbeiten Personen, die genau dafuer da sind, Buergern zu helfen.
+- **Mitarbeiter sind freundlich**: Auf den Geschaeftsstellen arbeiten Personen, die genau dafür da sind, Buergern zu helfen.
 - **Sprache**: Wenn Sie Deutsch nicht gut sprechen: Dolmetscher kann moeglich sein (siehe `dolmetscher-beim-sozialgericht-laien`). Vorher anfragen.
 - **Begleitperson**: Sie duerfen jemanden mitnehmen. Familienmitglied, Freund, Sozialberater.
 
@@ -134,7 +134,7 @@ Sie bekommen eine Kopie der Niederschrift. Aufheben! Das ist Ihr Beweis.
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg
 - `klagearten-uebersicht-sgg` — welche Klage
-- `oertliche-zustaendigkeit-57-sgg` — welches SG
+- `oertliche-zuständigkeit-57-sgg` — welches SG
 - `dolmetscher-beim-sozialgericht-laien` — Dolmetscher
 - `terminvorbereitung-laien-checkliste-sozialgericht` — Termin-Tipps
 
@@ -170,7 +170,7 @@ Eine Klage besteht aus mehreren Teilen. Schriftsatz, Anlagen, Verzeichnis. Diese
 
 ## In einfacher Sprache
 
-Sie haben alle Teile. Jetzt machen Sie ein Paket. Das Paket schicken Sie ans Gericht. Wir haken Punkt fuer Punkt ab.
+Sie haben alle Teile. Jetzt machen Sie ein Paket. Das Paket schicken Sie ans Gericht. Wir haken Punkt für Punkt ab.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -180,7 +180,7 @@ Sie haben alle Teile. Jetzt machen Sie ein Paket. Das Paket schicken Sie ans Ger
 ## Fachbegriffe (kurz erklaert)
 
 - **Komplettpaket**: Alles, was eine Klage braucht — Schriftsatz, Anlagen, Verzeichnis.
-- **Abschrift**: Kopie fuer den Gegner.
+- **Abschrift**: Kopie für den Gegner.
 - **Konvolut**: Geheftete Sammlung mehrerer Schriftstuecke.
 
 ## Rechtsgrundlagen
@@ -188,18 +188,18 @@ Sie haben alle Teile. Jetzt machen Sie ein Paket. Das Paket schicken Sie ans Ger
 - **§§ 90 ff. SGG** — Klage und Inhalt.
 - **§ 93 SGG** — Abschriften.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vollstaendigkeits-Checkliste
 
 Pruefen Sie:
 
-- [ ] **Klageschrift** mit Unterschrift (Original fuer das Gericht)
+- [ ] **Klageschrift** mit Unterschrift (Original für das Gericht)
 - [ ] **Antraege** klar formuliert
 - [ ] **Anlagenverzeichnis** am Ende der Klageschrift
 - [ ] **Alle Anlagen** vorhanden und nummeriert (K1, K2, ...)
-- [ ] **Abschriften** fuer Beklagte
-- [ ] **Kopie fuer sich**
+- [ ] **Abschriften** für Beklagte
+- [ ] **Kopie für sich**
 - [ ] **Bezeichnung** der Beklagten korrekt
 - [ ] **Versicherungs-Nummer** / Aktenzeichen genannt
 - [ ] **Versandweg** geklaert (Post / Fax / MJP / persoenlich)
@@ -253,7 +253,7 @@ Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
 
 - **Originalunterschrift**: bei Papierversand auf dem Original — nicht nur Kopie.
 - **Frist sichern**: Versand am letzten Tag riskant; lieber vorher.
-- **Beklagter konkret**: "Jobcenter Stadt X" — nicht "Behoerde XY allgemein".
+- **Beklagter konkret**: "Jobcenter Stadt X" — nicht "Behörde XY allgemein".
 
 ## Typische Fehler
 
@@ -300,11 +300,11 @@ Stand: 05/2026. Praxis der Sozialgerichte.
 
 ## Worum geht es?
 
-Vor dem Sozialgericht gibt es verschiedene Arten von Klagen. Welche fuer Sie passt, haengt davon ab, was Sie wollen. Diese Skill zeigt die wichtigsten Klagearten in einer Uebersicht.
+Vor dem Sozialgericht gibt es verschiedene Arten von Klagen. Welche für Sie passt, haengt davon ab, was Sie wollen. Diese Skill zeigt die wichtigsten Klagearten in einer Uebersicht.
 
 ## In einfacher Sprache
 
-Es gibt mehrere Klage-Arten. Eine fuer Bescheid weg, eine fuer Geld bekommen, eine wenn Behoerde gar nichts tut. Wir helfen Ihnen, die richtige zu finden.
+Es gibt mehrere Klage-Arten. Eine für Bescheid weg, eine für Geld bekommen, eine wenn Behörde gar nichts tut. Wir helfen Ihnen, die richtige zu finden.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -315,10 +315,10 @@ Es gibt mehrere Klage-Arten. Eine fuer Bescheid weg, eine fuer Geld bekommen, ei
 ## Fachbegriffe (kurz erklaert)
 
 - **Anfechtungsklage**: Bescheid soll aufgehoben werden.
-- **Verpflichtungsklage**: Behoerde soll einen begehrten Bescheid erlassen.
-- **Leistungsklage**: Behoerde soll konkret etwas tun oder zahlen.
+- **Verpflichtungsklage**: Behörde soll einen begehrten Bescheid erlassen.
+- **Leistungsklage**: Behörde soll konkret etwas tun oder zahlen.
 - **Feststellungsklage**: Ein Rechtsverhaeltnis soll festgestellt werden.
-- **Untaetigkeitsklage**: Behoerde tut gar nichts seit mindestens 6 Monaten (3 Monaten im Widerspruchsverfahren).
+- **Untaetigkeitsklage**: Behörde tut gar nichts seit mindestens 6 Monaten (3 Monaten im Widerspruchsverfahren).
 
 ## Rechtsgrundlagen
 
@@ -326,7 +326,7 @@ Es gibt mehrere Klage-Arten. Eine fuer Bescheid weg, eine fuer Geld bekommen, ei
 - **§ 55 SGG** — Feststellungsklage.
 - **§ 88 SGG** — Untaetigkeitsklage.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was wollen Sie konkret erreichen?
 
@@ -336,7 +336,7 @@ Es gibt mehrere Klage-Arten. Eine fuer Bescheid weg, eine fuer Geld bekommen, ei
 | Eine Leistung bekommen, die abgelehnt wurde | Verpflichtungsklage |
 | Geld direkt bekommen | Leistungsklage |
 | Klare Antwort auf "Was gilt eigentlich?" | Feststellungsklage |
-| Behoerde tut nichts seit Monaten | Untaetigkeitsklage |
+| Behörde tut nichts seit Monaten | Untaetigkeitsklage |
 
 ### Schritt 2 — Anfechtungsklage (§ 54 Abs. 1 SGG)
 
@@ -348,7 +348,7 @@ Antrag: "Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datu
 
 ### Schritt 3 — Verpflichtungsklage (§ 54 Abs. 1 SGG)
 
-Wann: Sie wollen, dass die Behoerde Ihnen etwas gibt — also einen positiven Bescheid erlaesst.
+Wann: Sie wollen, dass die Behörde Ihnen etwas gibt — also einen positiven Bescheid erlaesst.
 
 Beispiel: Pflegegrad-Hochstufung auf 3 → Klage auf Verpflichtung der Pflegekasse, Pflegegrad 3 festzustellen.
 
@@ -362,7 +362,7 @@ Beispiel: Antrag auf EM-Rente abgelehnt → Klage auf Aufhebung des Ablehnungsbe
 
 ### Schritt 5 — Leistungsklage (§ 54 Abs. 5 SGG)
 
-Wann: Sie wollen, dass die Behoerde konkret etwas tut oder zahlt, ohne dass es einen Bescheid braucht.
+Wann: Sie wollen, dass die Behörde konkret etwas tut oder zahlt, ohne dass es einen Bescheid braucht.
 
 Beispiel: Krankenkasse hat schon zugesagt, aber zahlt nicht → Leistungsklage auf Zahlung von X EUR.
 
@@ -376,7 +376,7 @@ Voraussetzung: Sie haben ein berechtigtes Interesse an der Feststellung.
 
 ### Schritt 7 — Untaetigkeitsklage (§ 88 SGG)
 
-Wann: Behoerde tut nichts seit mindestens
+Wann: Behörde tut nichts seit mindestens
 
 - **6 Monaten** nach Antragstellung (Bescheid steht aus), oder
 - **3 Monaten** nach Widerspruch (Widerspruchsbescheid steht aus).
@@ -427,10 +427,10 @@ Stand: 05/2026. §§ 54, 55, 88 SGG aktuell. Auch bei falscher Klageart hilft da
 
 **Fokus:** Wie Sie Ihre Klage ohne Anwalt sinnvoll begründen. Sachverhalt Rechtsverletzung Beweismittel Antrag Aufbau und Mustertexte für Buerger vor dem Sozialgericht.
 
-# So begruenden Sie Ihre Klage — fuer Laien
+# So begruenden Sie Ihre Klage — für Laien
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `So begruenden Sie Ihre Klage — fuer Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `So begruenden Sie Ihre Klage — für Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -465,14 +465,14 @@ Sie haben geklagt. Jetzt muessen Sie sagen warum. Was ist passiert. Was wollen S
 - **§ 103 SGG** — Amtsermittlungsgrundsatz.
 - **§ 109 SGG** — Sachverstaendigen-Wahlrecht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Aufbau festlegen
 
 Bewaehrt:
 
 1. Sachverhalt (kurz: was war, was ist)
-2. Klaeger-Standpunkt (warum die Behoerde Unrecht hat)
+2. Klaeger-Standpunkt (warum die Behörde Unrecht hat)
 3. Antraege (konkret)
 4. Beweisangebot / Beweisantraege
 5. Anlagenverzeichnis
@@ -482,7 +482,7 @@ Bewaehrt:
 Faktenliste:
 
 - Wer Sie sind (Name, Adresse, Geburtsdatum, Versicherungsnummer)
-- Was Sie beantragt haben (bei welcher Behoerde, wann)
+- Was Sie beantragt haben (bei welcher Behörde, wann)
 - Welcher Bescheid wann erlassen wurde
 - Widerspruch wann eingelegt
 - Widerspruchsbescheid wann
@@ -504,7 +504,7 @@ Ich bin 1972 geboren, 53 Jahre alt, gelernte [Beruf]. Seit 2022 leide ich an [Di
 
 ### Schritt 3 — Klaeger-Standpunkt schreiben
 
-Hier zerlegen Sie die Argumente der Behoerde. Bewaehrte Struktur:
+Hier zerlegen Sie die Argumente der Behörde. Bewaehrte Struktur:
 
 ```
 II. Rechtliche Wuerdigung
@@ -517,7 +517,7 @@ Die Beklagte stuetzt sich auf das sozialmedizinische Gutachten vom [Datum]. Dies
 - [konkret welche Diagnose nicht beruecksichtigt]
 
 2. [Zweiter Angriffspunkt]
-Auch wenn die Beklagte ein Leistungsvermoegen von 3 bis 6 Stunden annimmt, ist der Teilzeitarbeitsmarkt fuer mich verschlossen.
+Auch wenn die Beklagte ein Leistungsvermoegen von 3 bis 6 Stunden annimmt, ist der Teilzeitarbeitsmarkt für mich verschlossen.
 
 3. [Dritter Angriffspunkt]
 Berufsschutz nach § 240 SGB VI scheidet zwar aus (Geburtsjahrgang nach 1.1.1961), aber die Erwerbsminderung im Sinne von § 43 Abs. 2 SGB VI liegt vor.
@@ -587,7 +587,7 @@ Faustregel: 3 bis 8 Seiten reichen meist. Lieber kurz und praezise als lang und 
 ## Worauf Sie besonders achten muessen
 
 - **Tatsachen statt Floskeln**: konkret, mit Datum, Name, Quelle.
-- **Was die Behoerde sagt — was Sie dagegen sagen**: Punkt fuer Punkt entgegnen.
+- **Was die Behörde sagt — was Sie dagegen sagen**: Punkt für Punkt entgegnen.
 - **Beweisanbote machen**: Das Gericht muss von Amts wegen ermitteln, aber konkrete Beweisanbote sind hilfreich.
 - **Hoeflich bleiben**: Keine Beleidigungen.
 
@@ -640,7 +640,7 @@ Wenn Sie das SG-Verfahren ganz oder teilweise gewinnen, muss die Beklagte Ihnen 
 
 ## In einfacher Sprache
 
-Wenn Sie gewinnen, muss die Behoerde Ihnen Geld zurueckzahlen. Anwalt, Fahrt, Porto. Wir zeigen, was alles und wie.
+Wenn Sie gewinnen, muss die Behörde Ihnen Geld zurueckzahlen. Anwalt, Fahrt, Porto. Wir zeigen, was alles und wie.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -652,14 +652,14 @@ Wenn Sie gewinnen, muss die Behoerde Ihnen Geld zurueckzahlen. Anwalt, Fahrt, Po
 - **Aufwendungs-Ersatz**: Erstattung der aussergerichtlichen Kosten.
 - **Notwendigkeit**: Nur notwendige, nicht beliebige Kosten.
 - **Kostenfestsetzungs-Antrag**: Spezielles Verfahren zur Festsetzung.
-- **Auslagenpauschale**: Pauschal-Betrag fuer Porto und Kopien.
+- **Auslagenpauschale**: Pauschal-Betrag für Porto und Kopien.
 
 ## Rechtsgrundlagen
 
 - **§ 193 SGG** — Aussergerichtliche Kosten.
 - **§ 197 SGG** — Festsetzung der Kosten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sie gewonnen haben
 
@@ -678,7 +678,7 @@ NICHT erstattungsfaehig:
 
 - Eigene Stunden (Sie sind keine Profi-Person)
 - Allgemeine Lebensfuehrungskosten
-- Zeit fuer Aktenstudium
+- Zeit für Aktenstudium
 
 ### Schritt 3 — Antrag im Urteil oder spaeter
 
@@ -749,7 +749,7 @@ Bei Teil-Sieg: Quotenrechnung. Beispiel: Sie wollten 1000 EUR, bekommen 500: 50 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 193 SGG aktuell. RVG fuer Anwaltsrechnung pruefen.
+Stand: 05/2026. § 193 SGG aktuell. RVG für Anwaltsrechnung pruefen.
 
 ## Qualitäts-Hardening
 

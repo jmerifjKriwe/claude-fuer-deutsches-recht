@@ -9,6 +9,23 @@ description: "Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). S
 
 Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; militaerische-beschaffung-und-vergaberecht; nato-und-stationierungsrecht; verteidigungstechnologie-export; reservisten-und-zivilschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmvg und legw-bmvg-Themenslug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,7 +37,7 @@ Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: We
 ## Spezialwissen
 
 > Heranfuehrungs-Skill nach `legw-ressort-router`. Politikwissenschaftliche Legistinnen und Legisten
-> bekommen hier das Sachfeld-Verstaendnis fuer das Ressort, bevor sie an Normtext und Begruendung gehen.
+> bekommen hier das Sachfeld-Verstaendnis für das Ressort, bevor sie an Normtext und Begruendung gehen.
 
 ## Ressort-Stammdaten
 
@@ -36,13 +53,13 @@ Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: We
 ### Worum geht es sachlich
 
 Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Dieses Ressort ist nicht primaer Politik; es ist sachverstaendige Verwaltung
-einer Lebenswelt - Behoerden; Verbaende; technische Regeln; europaeische Rechtsakte und
+einer Lebenswelt - Behörden; Verbaende; technische Regeln; europaeische Rechtsakte und
 Vollzugspraxis greifen ineinander.
 
 ### Wer spielt mit
 
 - **Federfuehrendes Referat** (im BMVg)
-- **Nachgeordnete Behoerden und Aufsichten** des Geschaeftsbereichs
+- **Nachgeordnete Behörden und Aufsichten** des Geschaeftsbereichs
 - **Bundesrat-Ausschuss** (bei zustimmungs- oder einspruchspflichtigen Vorhaben)
 - **Bundestags-Fachausschuss** (BMVg-Spiegel)
 - **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
@@ -59,7 +76,7 @@ gerichts-Linie und BVerwG-Linie.
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
  konsistent halten (siehe `terminologie-konsistenz`).
-- **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
+- **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Ländern oder nachgeordneten Behörden;
  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
  (siehe `goldplating-vermeiden`).
@@ -99,7 +116,7 @@ in das Auftragsblatt einpflegen.
 ### Schritt 2 - Spezialfeld waehlen
 
 Aus den fuenf Spezialfeldern (siehe oben) das passende waehlen. Bei Mehrfachbezug: das
-schwerpunktmaessige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
+schwerpunktmäßige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
 
 ### Schritt 3 - Ressortaufgaben-Skill rufen
 
@@ -135,7 +152,7 @@ Naechster Skill: legw-ressortaufgaben-bmvg
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

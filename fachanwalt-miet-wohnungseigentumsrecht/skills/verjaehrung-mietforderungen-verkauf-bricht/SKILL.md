@@ -1,13 +1,13 @@
 ---
 name: verjaehrung-mietforderungen-verkauf-bricht
-description: "Verjaehrung Mietforderungen Verkauf Bricht im Miet- und Wohnungseigentumsrecht: prüft konkret Verjährung Mietforderungen, Kauf bricht nicht Miete, Vermieterzutritt, Versicherungskosten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verjährung Mietforderungen Verkauf Bricht im Miet- und Wohnungseigentumsrecht: prüft konkret Verjährung Mietforderungen, Kauf bricht nicht Miete, Vermieterzutritt, Versicherungskosten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Verjaehrung Mietforderungen Verkauf Bricht
+# Verjährung Mietforderungen Verkauf Bricht
 
 ## Arbeitsbereich
 
-**Verjaehrung Mietforderungen Verkauf Bricht** ordnet den Fall über die tragenden Prüfungslinien: Verjährung Mietforderungen, Kauf bricht nicht Miete, Vermieterzutritt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Verjährung Mietforderungen Verkauf Bricht** ordnet den Fall über die tragenden Prüfungslinien: Verjährung Mietforderungen, Kauf bricht nicht Miete, Vermieterzutritt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

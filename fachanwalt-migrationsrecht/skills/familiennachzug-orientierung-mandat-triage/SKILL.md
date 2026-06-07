@@ -43,7 +43,7 @@ Visum / Aufenthaltstitel für Familienangehörige eines in Deutschland lebenden 
 3. Aufenthaltstitel des Stamm-Inhabers?
 4. Wohnraum / Einkommen Stamm-Inhaber?
 5. Sprachkenntnis Antragsteller?
-6. Heimatland und deutsche Botschaft zustaendig?
+6. Heimatland und deutsche Botschaft zuständig?
 
 ## 2) Familiennachzug nach Konstellation
 
@@ -212,18 +212,18 @@ Deutsche Botschaft [HAUPTSTADT/LAND]
 Visumstelle
 [ADRESSE]
 
-Re: Visumsantrag Familiennachzug fuer [ANTRAGSTELLER NAME, geb. DATUM]
+Re: Visumsantrag Familiennachzug für [ANTRAGSTELLER NAME, geb. DATUM]
  zu [STAMMINHABER NAME, AufenthaltsstT/NE, wohnhaft ADRESSE D]
  Visumantrag-Nr.: [falls vorhanden]
 
 Sehr geehrte Damen und Herren,
 
 wir vertreten [STAMMINHABER NAME] und zeigen die anwaltliche Begleitung
-des Visumsantrags fuer [FAMILIENANGEHOERIGE(R)] an.
+des Visumsantrags für [FAMILIENANGEHOERIGE(R)] an.
 
 I. SACHVERHALT
 [NAME STAMMINHABER] lebt seit [DATUM] in Deutschland (Aufenthaltstitel:
-[Art und Gueltigkeit], Anlage 1). Er beantragt Familiennachzug fuer
+[Art und Gueltigkeit], Anlage 1). Er beantragt Familiennachzug für
 seine Ehegattin / sein Kind [NAME].
 
 II. ANSPRUCHSGRUNDLAGE
@@ -231,9 +231,9 @@ II. ANSPRUCHSGRUNDLAGE
 
 III. VORAUSSETZUNGEN LIEGEN VOR
 a) Lebensunterhalt: Netto-Einkommen [BETRAG EUR] (Einkommensnachweise
- Anlage 2). Der Bedarf fuer 2 Personen betraegt nach Sozialrechtssaetzen
+ Anlage 2). Der Bedarf für 2 Personen betraegt nach Sozialrechtssaetzen
  ca. [BETRAG] EUR. Deckung gegeben.
-b) Wohnraum: [Groesse m2] — ausreichend fuer [X] Personen (Anlage 3: Mietvertrag).
+b) Wohnraum: [Groesse m2] — ausreichend für [X] Personen (Anlage 3: Mietvertrag).
 c) Sprachkenntnis: A1-Zertifikat Anlage 4. [ODER: Ausnahme wegen ...]
 d) Keine Ausweisungsinteressen (§ 5 Abs. 1 Nr. 2 AufenthG).
 
@@ -245,7 +245,7 @@ IV. ANLAGEN
 5. Heiratsurkunde / Geburtsurkunde (beglaubigt und apostilliert)
 [...]
 
-Wir bitten um zeitnahe Bearbeitung und stehen fuer Rueckfragen zur Verfuegung.
+Wir bitten um zeitnahe Bearbeitung und stehen für Rueckfragen zur Verfuegung.
 
 [KANZLEI], [ORT], [DATUM]
 [RA-NAME]
@@ -343,12 +343,12 @@ Bevor losgelegt wird, klaere:
 1. Akute Frist — §-36-AsylG-1-Woche-Frist bereits angelaufen? Wenn ja: Sofort-Eilantrag.
 2. Mandantenstatus exakt — Aufenthaltsgestattung, Duldung, bestehender Titel, EU-Buerger?
 3. Besteht bereits Bescheid — BAMF oder Auslaenderbehoerde?
-4. Familienangehoerige in Deutschland mit Titel — Relevant fuer Art. 6 GG / § 60a AufenthG?
-5. Gesundheitszustand Mandant — Attests-Bedarf fuer Reiseunfaehigkeit / psych. Erkrankung?
+4. Familienangehoerige in Deutschland mit Titel — Relevant für Art. 6 GG / § 60a AufenthG?
+5. Gesundheitszustand Mandant — Attests-Bedarf für Reiseunfaehigkeit / psych. Erkrankung?
 
 ## Output-Template: Orientierungs-Memo Migrationsrecht
 
-**Adressat:** Mandant (zur persoenlichen Erklaerung) oder internes Kanzlei-Memo
+**Adressat:** Mandant (zur persönlichen Erklaerung) oder internes Kanzlei-Memo
 **Tonfall:** Verstaendlich-erklaerend
 
 ```
@@ -386,7 +386,7 @@ Fehler: Skill behauptete das Urteil betreffe AsylRL/DublinVO — falsch.
 Tatsaechlicher Gegenstand: ne bis in idem (Art. 50 GRCh) im Steuerstrafrecht
 (Steuerhinterziehung, Doppelbestrafung durch steuerliche und strafrechtliche Sanktionen).
 Der allgemeine Grundsatz zu Art. 51 GRCh (Anwendungsbereich der Charta) ist korrekt
-und fuer das Migrationsrecht methodisch relevant; Urteil verifiziert auf
+und für das Migrationsrecht methodisch relevant; Urteil verifiziert auf
 dejure.org/2013,2363 (NJW 2013, 1415).
 -->
 
@@ -572,7 +572,7 @@ Sprache / Dolmetscher: [SPRACHE; Dolmetscher erforderlich: ja/nein]
 [ ] Sonstige Eilbeduerftigkeit: [...]
 
 3. VORGANG
-[ ] Asylantrag / BAMF-Anhoerung
+[ ] Asylantrag / BAMF-Anhörung
 [ ] Asyl-Klage
 [ ] Folgeantrag § 71 AsylG
 [ ] Aufenthaltstitel-Antrag / Verlaengerung
@@ -603,20 +603,20 @@ Aktennummer: [AZ]
 - **Normen-/Quellenanker:** AsylG, BVerwG.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -633,10 +633,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

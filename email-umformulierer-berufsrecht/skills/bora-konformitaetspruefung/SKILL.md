@@ -24,7 +24,7 @@ Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Beruf
 
 ## Zentrale Normen
 - § 2 BORA — Verschwiegenheitspflicht (Erweiterung der BRAO-Pflicht auf alle Kommunikationsmittel)
-- § 6 BORA — Sachlichkeitsgebot fuer Aussenauftritt und Werbung
+- § 6 BORA — Sachlichkeitsgebot für Aussenauftritt und Werbung
 - § 12 BORA — Direktkontaktverbot bei anwaltlicher Vertretung der Gegenseite
 - § 25 BORA — Kollegialitaetsgebot
 - § 43a Abs. 2 BRAO — Grundlegende Verschwiegenheitspflicht

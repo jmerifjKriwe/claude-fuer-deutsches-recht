@@ -39,7 +39,7 @@ Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung 
 - **DKR (Deutsche Kodierrichtlinien)** als Auslegungsgrundlage.
 - **SGB V § 109 Abs. 5** Versorgungsauftrag bei Strukturmerkmalen.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Pruefanzeige eingangsdatieren:** Frist § 275c: MD muss innerhalb von 6 Wochen pruefen, Klinik antwortet innerhalb 8 Wochen.
 2. **Pruefthema identifizieren:** Hauptdiagnose, Nebendiagnose, Verweildauer (untere Grenzverweildauer), OPS, Strukturmerkmal?
 3. **Akte komplettieren:** Pflegebericht, Aerztliche Doku, OP-Bericht, Befunde, Anaesthesieprotokoll.
@@ -59,7 +59,7 @@ Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung 
 | schon nachkodieren | korrigierte DRG | Pflicht, dokumentierbar |
 
 ## Praxistipps
-- Pruefquote 2024 ff. liegt klinikspezifisch zwischen 5 % und 15 %; Schlussbewertungsquote relevant fuer Aufschlag/Abschlag (§ 275c Abs. 4 SGB V).
+- Pruefquote 2024 ff. liegt klinikspezifisch zwischen 5 % und 15 %; Schlussbewertungsquote relevant für Aufschlag/Abschlag (§ 275c Abs. 4 SGB V).
 - Strukturpruefungen (Stroke, Onkologie, Geriatrie) sind separat — Verlust gefaehrdet ganze OPS-Abrechnung.
 - 300-EUR-Aufwandspauschale gilt bei "Pruefung ohne Erloesminderung" (BSG, staend. Rspr.).
 - Klage zum SG ist meist Leistungsklage auf Restzahlung, kein Vorverfahren.
@@ -75,7 +75,7 @@ Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung 
 - Frist 8 Wochen zur Akten-Vorlage versaeumt — MD darf dann nach Aktenlage entscheiden.
 - DKR-Stand nicht aktuell; jaehrliche Aktualisierung.
 - Strukturpruefung mit Einzelfallpruefung verwechselt.
-- Nachforderung nicht gegen Verjaehrung gesichert (§ 109 Abs. 5 SGB V, 4 Jahre).
+- Nachforderung nicht gegen Verjährung gesichert (§ 109 Abs. 5 SGB V, 4 Jahre).
 
 ## Querverweise
 - `strukturpruefung-ops-und-md`

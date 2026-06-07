@@ -1,13 +1,13 @@
 ---
 name: commercial-leo-destinations-iss-nachfolge
-description: "Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln fuer Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln für Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Commercial LEO Destinations - ISS-Nachfolge
 
 ## Arbeitsbereich
 
-Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln fuer Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln für Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbi
 
 ## Aufgabe
 
-Skill fuer Mandate aus dem entstehenden Markt kommerzieller LEO-Stationen, die ab ca. 2028-2031 die ISS abloesen werden. Betroffene Akteure: deutsche Forschungsinstitute (DLR, MPG, Helmholtz), Industriepartner (Airbus, OHB, Boeing-Europe), Pharma- und Biotech-Anwender (Mikrogravitationsforschung), Start-ups mit In-Space-Manufacturing.
+Skill für Mandate aus dem entstehenden Markt kommerzieller LEO-Stationen, die ab ca. 2028-2031 die ISS abloesen werden. Betroffene Akteure: deutsche Forschungsinstitute (DLR, MPG, Helmholtz), Industriepartner (Airbus, OHB, Boeing-Europe), Pharma- und Biotech-Anwender (Mikrogravitationsforschung), Start-ups mit In-Space-Manufacturing.
 
 ## Sofortfragen
 
@@ -34,7 +34,7 @@ Skill fuer Mandate aus dem entstehenden Markt kommerzieller LEO-Stationen, die a
 - **Phase 1 (2021-2023)**: Funded Space Act Agreements (SAA) mit Axiom Space, Blue Origin (Orbital Reef), Voyager Space (Starlab), Nanoracks.
 - **Phase 2 (2024-2026)**: Wettbewerb um Anchor-Customer-Status; NASA als Ankerkunde mit bestimmten Crew-Anteilen.
 - **NASA Crew-Anchor-Pflicht**: zwei NASA-Crewmitglieder dauerhaft, vier mit Rotation, bis zu sieben mit Erweiterung.
-- **ISS-Deorbit 2030/31**: NASA Authorization Act 2022 mit Deorbit-Plan; SpaceX-Vertrag 2024 fuer USDV (U.S. Deorbit Vehicle).
+- **ISS-Deorbit 2030/31**: NASA Authorization Act 2022 mit Deorbit-Plan; SpaceX-Vertrag 2024 für USDV (U.S. Deorbit Vehicle).
 
 ## Vertragsarchitektur
 
@@ -46,15 +46,15 @@ Skill fuer Mandate aus dem entstehenden Markt kommerzieller LEO-Stationen, die a
 
 ### Vertragstypen
 - **Hauptvertrag NASA SAA**: vergibt Ankerkunden-Status.
-- **Operator-Customer-Agreement (OCA)**: Service Level fuer Bahnkorrektur, Lebenserhaltungssystem, Crew-Pflege.
+- **Operator-Customer-Agreement (OCA)**: Service Level für Bahnkorrektur, Lebenserhaltungssystem, Crew-Pflege.
 - **Module Hosting Agreement (MHA)**: Anbringung externer Module.
 - **Payload Hosting Agreement (PHA)**: temporaere Experimente an Bord.
 - **Tourism-Vertrag**: spezifische Haftung-, Versicherungs- und Verzichtsklauseln.
 
 ### Anwendbares Recht
 - **Voelkerrecht**: Outer Space Treaty Art. VIII (Eigentum am Modul bleibt beim Registrierungsstaat), Liability Convention Art. III (Verschuldenshaftung im All).
-- **Nationales US-Recht**: 51 U.S.C. § 50901 ff. fuer kommerzielle Raumfahrt; Reciprocal Waivers of Claims (Cross-Waiver) zwingend in NASA SAAs.
-- **EU/Deutschland**: ESA-Konvention 1975 fuer ESA-Module; spaetere Beteiligung am US-Marktrecht.
+- **Nationales US-Recht**: 51 U.S.C. § 50901 ff. für kommerzielle Raumfahrt; Reciprocal Waivers of Claims (Cross-Waiver) zwingend in NASA SAAs.
+- **EU/Deutschland**: ESA-Konvention 1975 für ESA-Module; spaetere Beteiligung am US-Marktrecht.
 
 ## IP-Schutz an Bord
 
@@ -70,7 +70,7 @@ Skill fuer Mandate aus dem entstehenden Markt kommerzieller LEO-Stationen, die a
 - Cargo-Verlust.
 - Modul-Verlust.
 - Liability gegenueber anderen Operatoren (Konjunktionsereignis).
-- Lloyd's LMA-Klauseln fuer Spacelegal-Risiken.
+- Lloyd's LMA-Klauseln für Spacelegal-Risiken.
 
 ## Pruefraster
 
@@ -86,6 +86,6 @@ Skill fuer Mandate aus dem entstehenden Markt kommerzieller LEO-Stationen, die a
 
 - Vertragsentwurf OCA / MHA / PHA.
 - Cross-Waiver-Klausel und Versicherungssatz.
-- IP-Lizenzraster fuer Forschungsdaten.
-- Risiko-Cockpit fuer Aufsichtsrat und Investoren.
-- Talking Points fuer NASA / ESA / DLR-Koordination.
+- IP-Lizenzraster für Forschungsdaten.
+- Risiko-Cockpit für Aufsichtsrat und Investoren.
+- Talking Points für NASA / ESA / DLR-Koordination.

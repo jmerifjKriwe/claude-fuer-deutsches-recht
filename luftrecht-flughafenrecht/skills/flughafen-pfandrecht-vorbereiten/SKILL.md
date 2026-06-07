@@ -1,13 +1,13 @@
 ---
 name: flughafen-pfandrecht-vorbereiten
-description: "Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen. Skill prueft Grundbuchrecht Hypothek Grundschuld GBO LuftVG-Betreiberpflichten und Abgrenzung vom Luftfahrzeugpfandrecht und liefert Sicherungsstrategie-Vermerk fuer Flughafen-Finanzierung im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen. Skill prueft Grundbuchrecht Hypothek Grundschuld GBO LuftVG-Betreiberpflichten und Abgrenzung vom Luftfahrzeugpfandrecht und liefert Sicherungsstrategie-Vermerk für Flughafen-Finanzierung im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Flughafen – Pfandrecht vorbereiten
 
 ## Arbeitsbereich
 
-Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen. Skill prueft Grundbuchrecht Hypothek Grundschuld GBO LuftVG-Betreiberpflichten und Abgrenzung vom Luftfahrzeugpfandrecht und liefert Sicherungsstrategie-Vermerk fuer Flughafen-Finanzierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen. Skill prueft Grundbuchrecht Hypothek Grundschuld GBO LuftVG-Betreiberpflichten und Abgrenzung vom Luftfahrzeugpfandrecht und liefert Sicherungsstrategie-Vermerk für Flughafen-Finanzierung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -19,7 +19,7 @@ Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirks
 
 ## Zweck
 
-Boilerplate ist kein Beiwerk. Salvatorische Klausel, Schriftform, Gerichtsstand und Rechtswahl entscheiden im Streitfall ueber Wirksamkeit, Gerichtszustaendigkeit und anwendbares Recht. Dieser Skill liefert einen Katalog der Standard-Boilerplate-Klauseln mit Wirksamkeitsanalyse, AGB-Risiko und Mustertext.
+Boilerplate ist kein Beiwerk. Salvatorische Klausel, Schriftform, Gerichtsstand und Rechtswahl entscheiden im Streitfall ueber Wirksamkeit, Gerichtszuständigkeit und anwendbares Recht. Dieser Skill liefert einen Katalog der Standard-Boilerplate-Klauseln mit Wirksamkeitsanalyse, AGB-Risiko und Mustertext.
 
 Er ist kein Sammelsurium. Er ordnet, was wirklich gebraucht wird, und kennzeichnet, wo BGH-Rechtsprechung die Reichweite einschraenkt.
 
@@ -27,8 +27,8 @@ Er ist kein Sammelsurium. Er ordnet, was wirklich gebraucht wird, und kennzeichn
 
 - Vertragsart (Individualvertrag oder AGB)
 - Parteien (B2B oder B2C)
-- Sitz der Parteien (fuer Gerichtsstand und Rechtswahl)
-- Streitwert-Erwartung (fuer Schiedsklausel-Erwaegung)
+- Sitz der Parteien (für Gerichtsstand und Rechtswahl)
+- Streitwert-Erwartung (für Schiedsklausel-Erwaegung)
 
 ## Rechtlicher und methodischer Rahmen
 
@@ -60,7 +60,7 @@ oder werden, bleibt die Wirksamkeit der uebrigen Bestimmungen unberuehrt.
 Anstelle der unwirksamen oder undurchfuehrbaren Bestimmung gilt diejenige
 wirksame und durchfuehrbare Regelung als vereinbart, die dem wirtschaftlichen
 Zweck der unwirksamen oder undurchfuehrbaren Bestimmung am naechsten kommt.
-Entsprechendes gilt fuer den Fall, dass dieser Vertrag eine Luecke enthaelt.
+Entsprechendes gilt für den Fall, dass dieser Vertrag eine Luecke enthaelt.
 ```
 
 ### Klausel 2: Schriftformklausel (§ 126 BGB)
@@ -71,7 +71,7 @@ Entsprechendes gilt fuer den Fall, dass dieser Vertrag eine Luecke enthaelt.
 
 ```
 Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform.
-Dies gilt auch fuer die Aufhebung dieser Schriftformklausel selbst.
+Dies gilt auch für die Aufhebung dieser Schriftformklausel selbst.
 Muendliche Nebenabreden bestehen nicht.
 ```
 
@@ -79,12 +79,12 @@ Muendliche Nebenabreden bestehen nicht.
 
 ### Klausel 3: Gerichtsstandsvereinbarung (§ 38 ZPO)
 
-**Voraussetzung:** Beide Parteien Kaufleute, juristische Personen des oeffentlichen Rechts oder oeffentlich-rechtliche Sondervermoegen (§ 38 Abs. 1 ZPO), oder Auslandsbezug. Im B2C unzulaessig (§ 38 Abs. 2, Abs. 3 ZPO).
+**Voraussetzung:** Beide Parteien Kaufleute, juristische Personen des öffentlichen Rechts oder oeffentlich-rechtliche Sondervermoegen (§ 38 Abs. 1 ZPO), oder Auslandsbezug. Im B2C unzulaessig (§ 38 Abs. 2, Abs. 3 ZPO).
 
 **Mustertext (B2B):**
 
 ```
-Ausschliesslicher Gerichtsstand fuer alle Streitigkeiten aus diesem Vertrag
+Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus diesem Vertrag
 ist Berlin.
 ```
 
@@ -106,12 +106,12 @@ Dieser Vertrag unterliegt deutschem Recht unter Ausschluss des UN-Kaufrechts
 **Mustertext:**
 
 ```
-Erfuellungsort fuer Lieferung und Zahlung ist der Sitz des Lieferanten.
+Erfuellungsort für Lieferung und Zahlung ist der Sitz des Lieferanten.
 ```
 
 ### Klausel 6: Bekanntmachungs- bzw. Mitteilungsklausel
 
-**Voraussetzung:** Empfangszustaendigkeit, Form der Erklaerung.
+**Voraussetzung:** Empfangszuständigkeit, Form der Erklaerung.
 
 **Mustertext:**
 
@@ -167,7 +167,7 @@ Faellt unter Klausel 1 (Salvatorische).
 (2) Dieser Vertrag unterliegt deutschem Recht unter Ausschluss des UN-Kaufrechts.
 
 § 15 Erfuellungsort
-Erfuellungsort fuer Lieferung und Zahlung ist der Sitz des Lieferanten.
+Erfuellungsort für Lieferung und Zahlung ist der Sitz des Lieferanten.
 
 § 16 Abtretung
 [Text wie oben]

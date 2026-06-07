@@ -118,7 +118,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - https://www.gesetze-im-internet.de/svg/ — SVG §§ 27–38, 63a ff.
 - https://dejure.org/gesetze/SG
 - https://www.bverwg.de — BVerwG Wehrdienstsenat
-- https://www.bundeswehr.de/de/organisation/personal/bundesamt-fuer-das-personalmanagement
+- https://www.bundeswehr.de/de/organisation/personal/bundesamt-für-das-personalmanagement
 
 ## Qualitätsgate
 

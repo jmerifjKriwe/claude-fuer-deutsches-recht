@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandatsannahme
-description: "Erstgespraech-Leitfaden fuer steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Pruefungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klaeren. Behandelt Mandantenfragebogen Interessenkonflikt § 43a BRAO § 57 StBerG Vollmachtsvarianten Verfahrens- und Strafverteidigungsvollmacht Honorarvereinbarung RVG/StBVV Vergueterungsabrede und Aufklaerungspflichten. Output strukturierter Erstberatungsbogen Vollmachtsmuster und Triage-Checkliste mit Fristampel. Abgrenzung zu fa-stu-rvg-steuerstreit (Honorar im Detail) und anw-fristenbuch-steuerrecht (laufende Fristverwaltung)."
+description: "Erstgespraech-Leitfaden für steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Pruefungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klaeren. Behandelt Mandantenfragebogen Interessenkonflikt § 43a BRAO § 57 StBerG Vollmachtsvarianten Verfahrens- und Strafverteidigungsvollmacht Honorarvereinbarung RVG/StBVV Vergueterungsabrede und Aufklaerungspflichten. Output strukturierter Erstberatungsbogen Vollmachtsmuster und Triage-Checkliste mit Fristampel. Abgrenzung zu fa-stu-rvg-steuerstreit (Honorar im Detail) und anw-fristenbuch-steuerrecht (laufende Fristverwaltung)."
 ---
 
 # Mandatsannahme im Steuerrecht — Erstgespraech und Risiko-Triage
@@ -19,7 +19,7 @@ description: "Erstgespraech-Leitfaden fuer steuerrechtliche Mandate. Anwendungsf
 4. Interessenkonflikt § 43a Abs. 4 BRAO bzw. § 57 Abs. 1 StBerG pruefen (gegenlaeufige Mandate, Konzern, Ehegatten).
 5. Steuerstrafrechtlicher Anfangsverdacht? Dann Belehrung nach § 393 AO und ggf. Schweigen empfehlen.
 6. Wer ist Mandant: natuerliche Person, Personengesellschaft, Kapitalgesellschaft, Insolvenzverwalter, Erbe?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -27,7 +27,7 @@ description: "Erstgespraech-Leitfaden fuer steuerrechtliche Mandate. Anwendungsf
 - **§ 57 StBerG** — Grundpflichten des Steuerberaters; unabhaengige eigenverantwortliche Berufsausuebung.
 - **§§ 80 ff. AO** — Vollmachtswirkung im Besteuerungsverfahren.
 - **§ 62 FGO** — Prozessvollmacht vor dem Finanzgericht.
-- **§ 49b BRAO / § 64 StBerG / RVG / StBVV** — Honorarvereinbarungen, gesetzliche Gebuehren.
+- **§ 49b BRAO / § 64 StBerG / RVG / StBVV** — Honorarvereinbarungen, gesetzliche Gebühren.
 - **§ 393 AO** — Verhaeltnis Besteuerungs- zu Strafverfahren; nemo tenetur.
 
 ## Aktuelle Rechtsprechung

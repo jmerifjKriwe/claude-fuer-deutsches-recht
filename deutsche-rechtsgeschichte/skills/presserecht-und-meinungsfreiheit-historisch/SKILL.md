@@ -35,7 +35,7 @@ Das Presserecht in Deutschland ist durch den Wechsel zwischen Zensur und Freihei
 - **Metternich** (1773-1859): Urheber der Karlsbader Beschluesse 1819 gegen Pressefreiheit
 - **Rudolf Augstein** (1923-2002): Spiegel-Herausgeber, Spiegel-Affaere 1962/66
 - **BVerfG**: Leitentscheidungen zu Art. 5 GG
-- **Landesmediengesetze**: Rundfunkrecht in Laenderkompetenz
+- **Landesmediengesetze**: Rundfunkrecht in Länderkompetenz
 
 ## Typische Streitfragen / Forschungsfragen
 

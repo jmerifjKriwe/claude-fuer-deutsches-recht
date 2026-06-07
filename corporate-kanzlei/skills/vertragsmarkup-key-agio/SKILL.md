@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -123,7 +123,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. Governing Law: Deutsches Recht, englisches Recht, hybrid?
 4. Version: erster Entwurf (Gegenpartei) oder eigener Erstentw. der zurueckgekommen ist?
 5. Schwerpunkte: Kaufpreismechanik, Haftung, Garantien, CoC, Kartellrecht?
-6. Frist fuer Markup-Rueckgabe?
+6. Frist für Markup-Rueckgabe?
 
 ## Zentrale Normen
 
@@ -132,7 +132,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 444 BGB** — Arglist; keine Freizeichnung moeglich
 - **§ 449 BGB** — Eigentumsvorbehalt
 - **§ 138 BGB** — Sittenwidrigkeit bei wucheraehnlichen Haftungsausschluessen
-- **§ 276 III BGB** — Haftung fuer Vorsatz kann nicht vertraglich ausgeschlossen werden
+- **§ 276 III BGB** — Haftung für Vorsatz kann nicht vertraglich ausgeschlossen werden
 
 ## Aktuelle Rechtsprechung
 
@@ -171,21 +171,21 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Typische Verkaefer-Entwurfs-Klauseln die Markup brauchen
 
-1. **Kenntnis-Qualifikation auf alle Warranties** → Kaeufer: kein "Knowledge" fuer Titel-Warranties; nur fuer Business Warranties
+1. **Kenntnis-Qualifikation auf alle Warranties** → Kaeufer: kein "Knowledge" für Titel-Warranties; nur für Business Warranties
 2. **Cap = 10 % des KP** → Kaeufer: Counter-Markup auf 20-30 % mindestens; Fundamental Warranties: 100 %
 3. **Verjährung 12 Monate** → Kaeufer: 24 Monate allg.; Tax 5 Jahre; Titel unbegrenzt
 4. **Sandbagging: Verkaefer-Klausel** → Kaeufer: Anti-Sandbagging streichen oder Kaeufer-freundliche Formulierung einfuegen
-5. **Materality-Qualifier auf alle Business Reps** → Kaeufer: "Materiality Scrape" einfuegen (fuer Haftungsberechnung ignoriert)
+5. **Materality-Qualifier auf alle Business Reps** → Kaeufer: "Materiality Scrape" einfuegen (für Haftungsberechnung ignoriert)
 6. **Indemnity-Ausschluss bei Versicherungsleistung** → Kaeufer: bei W&I-Policy sinnvoll aber nur dann
 7. **Schiedsklausel: nur an einem Ort** → sicherstellen: klar definiert, ICC/DIS, Frankfurt oder Muenchen, 3 Schiedsrichter
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Vertragstype und Kontext** — was liegt vor; Perspektive; Governing Law
 2. **Gesamtlesedurchgang** — Struktur, Kernklauseln, ersten Eindruck
 3. **Key-Issues-Identifikation** — Abweichungen vom Marktstandard markieren; Liste erstellen
 4. **Markup erstellen** — Tracked Changes; klare Kommentare warum; nicht nur Korrektur sondern Begruendung
-5. **Key Issues Memo** — Zusammenfassung der wichtigsten Punkte fuer Mandanten; Prioritaetsstufen: Deal-Breaker / High Priority / Negotiation Position / Market Standard
+5. **Key Issues Memo** — Zusammenfassung der wichtigsten Punkte für Mandanten; Prioritaetsstufen: Deal-Breaker / High Priority / Negotiation Position / Market Standard
 6. **Klientenfreigabe** — Mandant gibt Business-Entscheidungen frei; Anwalt setzt um
 7. **Verhandlung** — Gespraeche zu allen offenen Punkten; Kompromissoptionen vorbereiten
 8. **Finalversion** — Clean Copy; alle geeinigten Punkte eingearbeitet; Signaturseiten pruefen
@@ -212,7 +212,7 @@ PRIORITAET 1 — DEAL-BREAKER/ENTSCHEIDUNGSBEDARF
  Empfehlung: Harte Verhandlungsposition.
 
 1.2 Verjährung Tax Indemnity: Nur 3 Jahre vorgesehen; bei steuerlichen Nachhaftungsrisiken aus Betriebspruefungen zu kurz.
- Empfehlung: 7 Jahre fuer Tax-Themen; unbegrenzt fuer Steuerhinterziehung.
+ Empfehlung: 7 Jahre für Tax-Themen; unbegrenzt für Steuerhinterziehung.
 
 PRIORITAET 2 — HOHE PRIORITAET
 
@@ -233,7 +233,7 @@ NAECHSTE SCHRITTE
 
 - Markup ohne Begruendung — Gegenseite versteht Motiv nicht; Verhandlung ineffektiv
 - AGB-Kontrolle vergessen — unangemessene Klauseln koennen im deutschen Recht unwirksam sein
-- Cap fuer alle Warranties gleichgesetzt — Fundamental-Warranties brauchen hoeheren oder keinen Cap
+- Cap für alle Warranties gleichgesetzt — Fundamental-Warranties brauchen hoeheren oder keinen Cap
 - Schiedsvereinbarung unklar — Vollstreckung im Ausland scheitert an Unwirksamkeit
 - Anti-Sandbagging nicht verhandelt — bei Kaeufer-Kenntnis aus DD kein Warranty-Anspruch
 

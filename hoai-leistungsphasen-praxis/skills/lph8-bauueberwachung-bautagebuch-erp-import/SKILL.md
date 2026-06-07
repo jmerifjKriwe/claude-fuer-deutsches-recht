@@ -19,7 +19,7 @@ Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und ERP-Import-Workflow. Umf
 
 ## Spezialwissen
 
-Das Bautagebuch ist das wichtigste Dokument der Bauueberwachung: Es beweist Witterungsbedingungen, Personalstaerke, Maschineneinsatz und Baumangel zum jeweiligen Datum. Gerichte stuetzen sich bei Bauprozessen regelmassig auf Bautagebuecher als primaere Beweismittel. Die Bauueberwachung in LPH 8 fuehrt das Bautagebuch taeglich digital und importiert die Daten automatisiert in ERP-Systeme fuer Projektcontrolling und Abrechnung.
+Das Bautagebuch ist das wichtigste Dokument der Bauueberwachung: Es beweist Witterungsbedingungen, Personalstaerke, Maschineneinsatz und Baumangel zum jeweiligen Datum. Gerichte stuetzen sich bei Bauprozessen regelmassig auf Bautagebuecher als primaere Beweismittel. Die Bauueberwachung in LPH 8 fuehrt das Bautagebuch taeglich digital und importiert die Daten automatisiert in ERP-Systeme für Projektcontrolling und Abrechnung.
 
 ## Bauwerk und Auftrag
 
@@ -41,8 +41,8 @@ Das Bautagebuch ist das wichtigste Dokument der Bauueberwachung: Es beweist Witt
 - § 650p BGB, § 650q BGB: Architektenvertrag, Pflicht zur Bauueberwachungsdokumentation
 - HOAI 2021 § 34 Anlage 10 LPH 8: Bautagebuch als Grundleistung, Inhalt und Frequenz Taeglich
 - VOB/B § 6 Behinderungen und Unterbrechungen: Behinderungsanzeige Schriftform, Fristen, Kausalitaet
-- BGH-Urteil VII ZR 157/13: Bautagebuch als Beweis fuer Bau-Soll und Ist-Vergleich, Anforderungen Vollstaendigkeit
-- eIDAS-Verordnung EU 910/2014: Elektronische Signatur, Qualifizierte Signatur fuer Rechtssicherheit digitales Bautagebuch
+- BGH-Urteil VII ZR 157/13: Bautagebuch als Beweis für Bau-Soll und Ist-Vergleich, Anforderungen Vollstaendigkeit
+- eIDAS-Verordnung EU 910/2014: Elektronische Signatur, Qualifizierte Signatur für Rechtssicherheit digitales Bautagebuch
 - AHO Heft 9 Leistungen Projektmanagement: Bautagebuch als Informations- und Dokumentationspflicht PM
 
 ## Prueferaster und Kontrollpunkte
@@ -59,7 +59,7 @@ Das Bautagebuch ist das wichtigste Dokument der Bauueberwachung: Es beweist Witt
 - Nevaris Build Bautagebuch: Modul Tagesberichte, DWD-API-Plugin, SAP-Schnittstelle, eIDAS-Signatur, PDF-Export, Archivierung intern oder Cloud
 - RIB iTWO Bautagebuch-Modul: Integration Termin- und Kostencontrolling, Fortschrittsbuchung SAP PS, Behinderungsanzeige-Formular
 - PlanRadar Tagesbericht: Mobil aus Baustelle, Foto-Upload, Gewerk-Filter, SAP-Export CSV, Wetter-Autoimport
-- DWD Open Data API: Stundenwerte Temperatur, Niederschlag, Wind, Format JSON oder CSV, kostenlos fuer kommerzielle Nutzung laut DWD-Nutzungsbedingungen
+- DWD Open Data API: Stundenwerte Temperatur, Niederschlag, Wind, Format JSON oder CSV, kostenlos für kommerzielle Nutzung laut DWD-Nutzungsbedingungen
 - SAP S/4HANA EAM-Schnittstelle: BAPI Bautagebuch-Import, Vorgangsfortschritt aktualisiert, Meilenstein automatisch gesetzt, KPI-Dashboard Fortschritt
 
 ## Meldungserstellung im ERP / SAP
@@ -72,7 +72,7 @@ Das Bautagebuch ist das wichtigste Dokument der Bauueberwachung: Es beweist Witt
 
 ## Typische Fallstricke
 
-- Bautagebuch mehrere Tage nachgeholt: Rechtlich problematisch bei Behinderungsfall, Gericht wertet Nachtraeglichkeit als Indiz fuer Unzuverlaessigkeit
+- Bautagebuch mehrere Tage nachgeholt: Rechtlich problematisch bei Behinderungsfall, Gericht wertet Nachtraeglichkeit als Indiz für Unzuverlaessigkeit
 - Wetterdaten nicht belegt: Nur subjektive Beschreibung, kein DWD-Beleg, Auftraggeber zweifelt Behinderungsanzeige an
 - SAP PS Import-Fehler nicht bemerkt: Fortschritt falsch gebucht, Meilenstein fehlerhaft gesetzt, Zahlungsfreigabe blockiert
 - Fehlende eIDAS-Signatur: Digitales Bautagebuch ohne qualifizierte Signatur nicht rechtssicher, papierhaft gleichwertig besser

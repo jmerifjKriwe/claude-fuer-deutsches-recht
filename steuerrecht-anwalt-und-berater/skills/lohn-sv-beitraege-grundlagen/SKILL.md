@@ -106,7 +106,7 @@ Die Sozialversicherung umfasst vier Hauptzweige: Rentenversicherung (RV), Kranke
 - SV-AG-Anteil als Lohnnebenkosten (Konto 6110 SKR04 / 4130 SKR03 "Gesetzliche soziale Aufwendungen") an Verbindlichkeit Sozialversicherung (3760 SKR04 / 1741 SKR03).
 - SV-AN-Anteil als Abzug vom Brutto-Loehne-Konto: Loehne und Gehaelter (6020 SKR04 / 4120 SKR03) gegen Verbindlichkeit SV (3760 SKR04 / 1741 SKR03).
 - Gesamtsumme an Krankenkasse einheitlich (Gesamt-SV-Beitrag).
-- Faelligkeit: drittletzter Bankarbeitstag des laufenden Monats fuer die voraussichtliche Beitragsschuld (§ 23 Abs. 1 SGB IV); spaetestens Korrektur mit Beitragsnachweis bis 15. des Folgemonats.
+- Faelligkeit: drittletzter Bankarbeitstag des laufenden Monats für die voraussichtliche Beitragsschuld (§ 23 Abs. 1 SGB IV); spaetestens Korrektur mit Beitragsnachweis bis 15. des Folgemonats.
 
 ## Output
 

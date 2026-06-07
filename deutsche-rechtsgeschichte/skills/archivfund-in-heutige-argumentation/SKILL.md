@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argum
 
 Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,18 +44,18 @@ Archivfunde (Notariatsprotokolle, Verwaltungsakten, Gerichtsprotokolle, Parlamen
 - **Landesarchivgesetze**: Je nach Land, Sperrfristen (30 Jahre allg., 10 Jahre nach Tod)
 - **BGB § 133**: Willenserklaerung und Gesetzgeberwille als Auslegungsargument
 - **BVerfGE 62, 1 (1982)**: Historische Auslegung als Methode der Verfassungsinterpretation
-- **Mugdan, Materialien BGB** (1899): Standardreferenz fuer BGB-fachliche Einordnung
+- **Mugdan, Materialien BGB** (1899): Standardreferenz für BGB-fachliche Einordnung
 
 ## Akteure und Institutionen
 
-- **Bundesarchiv Koblenz/Berlin**: Hauptquelle fuer Reichs- und Bundesrecht
+- **Bundesarchiv Koblenz/Berlin**: Hauptquelle für Reichs- und Bundesrecht
 - **Geheimes Staatsarchiv Berlin-Dahlem**: Preussisches Archivgut
 - **Landesarchive** (z. B. NRW, Bayern, Sachsen): Regional-Quellen
 - **MGH-Archiv, Muenchen**: Mittelalterliche Quellen
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. Welchen Beweiswert hat ein Archivfund fuer die Auslegung einer Norm?
+1. Welchen Beweiswert hat ein Archivfund für die Auslegung einer Norm?
 2. Subjektiv-historische vs. objektiv-teleologische Auslegung: Wann hat Gesetzgeberhistorie Vorrang?
 3. Unveroffentlichte Quellen: Wie zitiert man Archivfunde in Schriftsaetzen?
 4. Anachronismus-Falle: Welche zeitgebundenen Konzepte darf man nicht in heutige Auslegung tragen?
@@ -46,15 +63,15 @@ Archivfunde (Notariatsprotokolle, Verwaltungsakten, Gerichtsprotokolle, Parlamen
 
 ## Methodik
 
-- Bundesarchiv-Online: invenio.bundesarchiv.de fuer Erschliessung
-- Archivportal-D: archivportal-d.de fuer Vernetzung der Landesarchive
-- MGH-Online: mgh.de fuer mittelalterliche Quellen
+- Bundesarchiv-Online: invenio.bundesarchiv.de für Erschliessung
+- Archivportal-D: archivportal-d.de für Vernetzung der Landesarchive
+- MGH-Online: mgh.de für mittelalterliche Quellen
 - Archivzitat: Bestand, Signatur, Blaetterzahl; Zugangsdatum wenn digital
 
 ## Output
 
-- Schritt-fuer-Schritt-Schema: Archivfund evaluieren und einbauen
-- Muster: Footnote/Fussnote fuer Archivzitat in Gutachten oder Schriftsatz
+- Schritt-für-Schritt-Schema: Archivfund evaluieren und einbauen
+- Muster: Footnote/Fussnote für Archivzitat in Gutachten oder Schriftsatz
 - Checkliste: Anachronismus-Check vor Argumentationseinsatz
 
 ## Quellenregel

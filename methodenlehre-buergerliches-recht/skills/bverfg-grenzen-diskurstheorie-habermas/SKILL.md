@@ -13,7 +13,7 @@ description: "Bverfg Grenzen Diskurstheorie Habermas im Plugin Methodenlehre Bue
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `bverfg-grenzen-richterlicher-rechtsfortbildung` | Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschreiten. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Stellungnahmen zu richterlicher Eigenmacht. |
-| `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen fuer Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann). |
+| `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen für Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann). |
 | `dworkin-prinzipien-integritaet-zivilrecht` | Überträgt Dworkins Regeln/Prinzipien-Analyse auf zivilrechtliche Auslegung, Generalklauseln, richterliche Rechtsfortbildung und Schriftsatzargumente. |
 | `empirie-im-zivilrecht-quellenkritik` | Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statistiken quellenkritisch bewertet werden und wo die Grenzen zwischen Tatsachenfeststellung und normativer Wertung verlaufen. Geeignet für Sachverständigengutachten, Schadensersatzprozesse und rechtstatsächliche Grundlagenarbeit. |
 | `eu-auslegung-autonom-mehrsprachig` | Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht im Zivilrecht. Das Skill erklärt den methodischen Vorrang der unionsautonomen Begriffsbestimmung vor nationalen Auslegungstraditionen und zeigt, wie bei Divergenzen zwischen den Sprachfassungen des EU-Rechts vorzugehen ist. Geeignet für internationale Vertragsrecht, Verbraucherschutzrecht, Datenschutz und alle Bereiche mit unionsrechtlichem Regelungsrahmen. |
@@ -118,7 +118,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `diskurstheorie-habermas-alexy`
 
-**Fokus:** Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen fuer Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann).
+**Fokus:** Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen für Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann).
 
 # Diskurstheorie und juristische Argumentation (Habermas / Alexy)
 
@@ -160,7 +160,7 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 **Kernthesen Habermas:**
 
-1. **Diskursprinzip.** Gerecht ist eine Norm dann, wenn ihre Folgen und Nebenfolgen, die sich aus ihrer allgemeinen Befolgung fuer die Befriedigung der Interessen jedes Einzelnen voraussichtlich ergeben, von allen Betroffenen zwanglos akzeptiert werden koennen.
+1. **Diskursprinzip.** Gerecht ist eine Norm dann, wenn ihre Folgen und Nebenfolgen, die sich aus ihrer allgemeinen Befolgung für die Befriedigung der Interessen jedes Einzelnen voraussichtlich ergeben, von allen Betroffenen zwanglos akzeptiert werden koennen.
 2. **Demokratie- und Rechtsstaatsprinzip.** Recht legitimiert sich durch demokratische Verfahren plus rechtsstaatliche Verbuergungen.
 3. **Kommunikatives Handeln.** Recht ist Diskursprodukt; es entsteht in argumentativen Verfahren (Gesetzgebung, Gerichtsverfahren).
 
@@ -173,7 +173,7 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 ## Anwendung im deutschen Zivilrecht
 
-**Beispiel Verhaeltnismaessigkeit in der mittelbaren Drittwirkung:** Bei der Konkretisierung von § 138 BGB oder § 242 BGB im Lichte von Grundrechten ist eine Abwaegung erforderlich. Alexys Gewichtungsformel liefert Strukturierungshilfe: Wie intensiv ist der Eingriff in eine Position, wie intensiv der Schutz fuer die andere?
+**Beispiel Verhaeltnismaessigkeit in der mittelbaren Drittwirkung:** Bei der Konkretisierung von § 138 BGB oder § 242 BGB im Lichte von Grundrechten ist eine Abwaegung erforderlich. Alexys Gewichtungsformel liefert Strukturierungshilfe: Wie intensiv ist der Eingriff in eine Position, wie intensiv der Schutz für die andere?
 
 **Beispiel AGB-Inhaltskontrolle (§ 307 BGB):** Die "Unangemessenheit" ist abwaegungsoffener Begriff. Diskurstheoretisch: Welche Klausel koennte ein rationaler Verbraucher unter Gleichgewichtsbedingungen akzeptieren? Diese Frage ist nicht trivial zu beantworten, aber sie strukturiert die Pruefung.
 
@@ -183,7 +183,7 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 **Beispiel Schiedsverfahren und Schiedsspruch:** Diskurstheoretisch betrachtet ist das Schiedsverfahren eine besondere Form des juristischen Diskurses: konsensuale Verfahrenswahl, Anspruch auf rationale Begruendung. Aufhebungsverfahren (§§ 1059 ZPO) kontrolliert die Diskursregeln, nicht den Inhalt.
 
-## Schritt-fuer-Schritt (Alexy-Modell)
+## Schritt-für-Schritt (Alexy-Modell)
 
 **Interne Rechtfertigung:**
 
@@ -208,7 +208,7 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 **Kritik von Niklas Luhmann (Systemtheorie):** Habermas und Alexy unterstellen einen rationalen Diskurs, der in der Wirklichkeit so nicht existiert. Recht ist System, nicht Diskurs.
 
-**Kritik aus der pragmatischen Praxis:** Im echten Anwaltsalltag ist fuer Alexys Modell oft keine Zeit. Es funktioniert in komplexen Verfassungs- oder Grundsatzfaellen, nicht in Routinemandaten.
+**Kritik aus der pragmatischen Praxis:** Im echten Anwaltsalltag ist für Alexys Modell oft keine Zeit. Es funktioniert in komplexen Verfassungs- oder Grundsatzfaellen, nicht in Routinemandaten.
 
 **Kritik aus Critical Legal Studies:** Diskurstheorie unterstellt einen Konsens, der politisch beeinflusst ist. Wer am Diskurs teilnimmt, wer ausgeschlossen ist — das ist Machtfrage.
 

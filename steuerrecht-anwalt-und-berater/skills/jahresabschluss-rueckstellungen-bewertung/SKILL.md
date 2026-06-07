@@ -13,7 +13,7 @@ description: "Rückstellungen Bewertung § 249 HGB. Anwendungsfall Jahresabschlu
 
 ## Kernsachverhalt
 
-Rueckstellungen sind Bilanzposten fuer ungewisse Verbindlichkeiten, drohende Verluste, Aufwendungen fuer abgrenzbare zukuenftige Leistungen. Sie sind Pflichtbestandteil des Jahresabschlusses (§ 249 HGB). Der Steuerberater identifiziert die relevanten Anlaesse, quantifiziert mit Vorsicht und bucht die Rueckstellungen. Steuerlich sind manche Rueckstellungen begrenzt (§ 5 Abs. 4a EStG).
+Rueckstellungen sind Bilanzposten für ungewisse Verbindlichkeiten, drohende Verluste, Aufwendungen für abgrenzbare zukuenftige Leistungen. Sie sind Pflichtbestandteil des Jahresabschlusses (§ 249 HGB). Der Steuerberater identifiziert die relevanten Anlaesse, quantifiziert mit Vorsicht und bucht die Rueckstellungen. Steuerlich sind manche Rueckstellungen begrenzt (§ 5 Abs. 4a EStG).
 
 ## Kaltstart-Rueckfragen
 
@@ -55,7 +55,7 @@ Rueckstellungen sind Bilanzposten fuer ungewisse Verbindlichkeiten, drohende Ver
 | Tantieme / Gratifikation | Vereinbarter Anteil |
 | Urlaubsrueckstellung | (Brutto-Lohn + SV-AG) x Urlaubsanteil |
 | Berufsgenossenschaft | Vorjahres-Beitrag + Anpassung |
-| Pruefungskosten | Honorar fuer JA und USt-VA-Pruefung |
+| Pruefungskosten | Honorar für JA und USt-VA-Pruefung |
 | Aufbewahrung GoBD | Pauschal 10-50 EUR pro AN |
 | Anhaengige Prozesse | Anwaltliche Einschaetzung |
 | Steuer-Rueckstellungen | KSt, GewSt nach Plan |

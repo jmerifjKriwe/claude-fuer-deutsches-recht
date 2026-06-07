@@ -1,13 +1,13 @@
 ---
 name: tutela-fiduciaria-und-pflegevormundschaft-vermoegen
-description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung fuer Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung für Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermoegen
 
 ## Arbeitsbereich
 
-Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung fuer Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung für Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,22 +19,22 @@ Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung fuer Minderjaehr
 
 ## Aufgabe
 
-Skill fuer Vermoegensvormundschaft.
+Skill für Vermoegensvormundschaft.
 
 ## Tutela impuberum
 
-- Vormundschaft fuer Minderjaehrige (impuberes) bis 14 Jahre (Knaben) / 12 Jahre (Maedchen).
+- Vormundschaft für Minderjaehrige (impuberes) bis 14 Jahre (Knaben) / 12 Jahre (Maedchen).
 - Tutor verwaltet das Vermoegen.
 
 ## Tutela mulierum
 
-- Vormundschaft fuer erwachsene Frauen (mulieres sui iuris).
+- Vormundschaft für erwachsene Frauen (mulieres sui iuris).
 - Eingeschraenkt auf Vermoegensverfuegungen (auctoritas).
 - Praktisch bedeutungslos ab dem Prinzipat.
 
 ## Cura minorum
 
-- Pflegevormundschaft fuer 14-25-Jaehrige.
+- Pflegevormundschaft für 14-25-Jaehrige.
 - Optional.
 
 ## Actio tutelae

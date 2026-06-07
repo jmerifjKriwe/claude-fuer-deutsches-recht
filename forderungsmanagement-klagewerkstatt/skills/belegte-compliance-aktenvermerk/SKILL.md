@@ -13,7 +13,7 @@ Wenn eine Forderung nicht weiterverfolgt wird braucht es einen sauberen Aktenver
 |---|---|
 | Klage nicht aufgenommen wegen Aussichtslosigkeit | Aussichtspruefung Begruendung Mandantenhinweis |
 | Mandantin verzichtet auf Klage | Schreiben Mandant Datum Belehrung erfolgt |
-| Verjaehrung eingetreten | Pruefung BGB 195 199 Belege Mandantenhinweis |
+| Verjährung eingetreten | Pruefung BGB 195 199 Belege Mandantenhinweis |
 | Verzicht auf Zwangsvollstreckung | Schuldnerlage Mandantenentscheid |
 
 ## Pflicht-Inhalte
@@ -38,7 +38,7 @@ Schuldner [Name]
 2. Pruefung
 - Anspruchsgrund Paragraph [Norm]
 - Faelligkeit am [Datum]
-- Verjaehrung [Status]
+- Verjährung [Status]
 - Belegstand [hoch mittel gering]
 
 3. Bewertung

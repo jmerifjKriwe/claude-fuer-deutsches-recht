@@ -41,6 +41,23 @@ Konkret zu prüfen:
 - § 14 BNotO (Amtspflichten)
 - § 17 BeurkG (Belehrungspflicht)
 - § 95 BNotO (Disziplinarmaßnahmen)
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 14 Abs. 1 BNotO` — notarielle Amtspflichten.
+- `§ 17 Abs. 1 BeurkG` — Belehrung und Erforschung des Willens.
+- `§ 13 BeurkG` — Vorlesen, Genehmigen, Unterschreiben.
+- `§ 40 BeurkG` — Beglaubigung einer Unterschrift.
+- `§ 53 BeurkG` — Vollzugspflichten.
+- `§ 54a BeurkG` — Verwahrung und Auszahlung.
+- `§ 130a ZPO` — elektronische Dokumente als Schnittstelle.
+- `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
+- `§ 12 HGB` — Registereinreichung.
+- `§ 40 GmbHG` — Gesellschafterliste.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

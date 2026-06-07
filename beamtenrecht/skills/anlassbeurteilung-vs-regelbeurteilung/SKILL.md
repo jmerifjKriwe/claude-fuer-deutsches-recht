@@ -1,13 +1,13 @@
 ---
 name: anlassbeurteilung-vs-regelbeurteilung
-description: "Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des oeffentlichen Dienstes. Skill pruef Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation in der ein Bewerber eine Anlassbeurteilung erhaelt und ein anderer eine alte Regelbeurteilung. Liefert Argumente zur Frage wann Anlassbeurteilung Pflicht ist und wann sie unzulaessig waere. Verweist auf das Schwester-Skill plausibilisierung-gleicher-gesamtnoten und konkurrentenschutz-bestenauslese-art-33-ii-gg im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des öffentlichen Dienstes. Skill pruef Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation in der ein Bewerber eine Anlassbeurteilung erhaelt und ein anderer eine alte Regelbeurteilung. Liefert Argumente zur Frage wann Anlassbeurteilung Pflicht ist und wann sie unzulaessig waere. Verweist auf das Schwester-Skill plausibilisierung-gleicher-gesamtnoten und konkurrentenschutz-bestenauslese-art-33-ii-gg im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anlassbeurteilung vs. Regelbeurteilung — Aktualitaet und Vergleichbarkeit
 
 ## Arbeitsbereich
 
-Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des oeffentlichen Dienstes. Skill pruef Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation in der ein Bewerber eine Anlassbeurteilung erhaelt und ein anderer eine alte Regelbeurteilung. Liefert Argumente zur Frage wann Anlassbeurteilung Pflicht ist und wann sie unzulaessig waere. Verweist auf das Schwester-Skill plausibilisierung-gleicher-gesamtnoten und konkurrentenschutz-bestenauslese-art-33-ii-gg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des öffentlichen Dienstes. Skill pruef Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation in der ein Bewerber eine Anlassbeurteilung erhaelt und ein anderer eine alte Regelbeurteilung. Liefert Argumente zur Frage wann Anlassbeurteilung Pflicht ist und wann sie unzulaessig waere. Verweist auf das Schwester-Skill plausibilisierung-gleicher-gesamtnoten und konkurrentenschutz-bestenauslese-art-33-ii-gg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,13 +19,13 @@ Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverf
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer den haeufigen Streit, ob die Auswahlentscheidung auf einer ausreichend aktuellen, miteinander vergleichbaren Beurteilungsgrundlage beruht. Zwei zentrale Konstellationen: (a) Mandant hat alte Regelbeurteilung, Konkurrent eine frische Anlassbeurteilung; (b) Mandant hat juengere Anlassbeurteilung, Konkurrent steht in Regelbeurteilung. Skill liefert die Argumentationsbausteine.
+Skill für den haeufigen Streit, ob die Auswahlentscheidung auf einer ausreichend aktuellen, miteinander vergleichbaren Beurteilungsgrundlage beruht. Zwei zentrale Konstellationen: (a) Mandant hat alte Regelbeurteilung, Konkurrent eine frische Anlassbeurteilung; (b) Mandant hat juengere Anlassbeurteilung, Konkurrent steht in Regelbeurteilung. Skill liefert die Argumentationsbausteine.
 
 ## 2. Eingaben
 
 - Beurteilungsstichtag der Regelbeurteilung des Dienstherrn (typisch dreijaehriger Turnus, laenderspezifisch)
 - Datum der letzten Beurteilung Mandant und letzter Beurteilung des Konkurrenten
-- Beurteilungsrichtlinie des Dienstherrn (Behoerden-RL, ZBR, VwV)
+- Beurteilungsrichtlinie des Dienstherrn (Behörden-RL, ZBR, VwV)
 - Konkurrentenmitteilung samt Auswahlvermerk
 
 ## 3. Ablauf / Checkliste
@@ -57,7 +57,7 @@ Skill fuer den haeufigen Streit, ob die Auswahlentscheidung auf einer ausreichen
 ## 5. Ausgabeformat
 
 - Pruefvermerk in Memoform mit Spalten "Aktualitaet — Vergleichbarkeit — Massstab — Spielraum".
-- Schriftsatzbaustein "Begruendung Anordnungsanspruch" fuer Konkurrenteneilantrag.
+- Schriftsatzbaustein "Begruendung Anordnungsanspruch" für Konkurrenteneilantrag.
 
 ## 6. Verifizierte Quellenanker
 
@@ -69,4 +69,4 @@ Skill fuer den haeufigen Streit, ob die Auswahlentscheidung auf einer ausreichen
 
 ## 7. Beispiel (Kurzfassung)
 
-Regelbeurteilung Mandant Stichtag vor 4 Jahren, Bewertung "uebertrifft die Anforderungen". Konkurrentin erhielt vor drei Monaten Anlassbeurteilung mit der gleichen Endnote. Skill liefert Argument: entweder Anlassbeurteilung auch fuer Mandant erforderlich oder Auswahlvergleich auf Basis veralteter Regelbeurteilung unzulaessig — Auswahlentscheidung aufzuheben.
+Regelbeurteilung Mandant Stichtag vor 4 Jahren, Bewertung "uebertrifft die Anforderungen". Konkurrentin erhielt vor drei Monaten Anlassbeurteilung mit der gleichen Endnote. Skill liefert Argument: entweder Anlassbeurteilung auch für Mandant erforderlich oder Auswahlvergleich auf Basis veralteter Regelbeurteilung unzulaessig — Auswahlentscheidung aufzuheben.

@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-ofac-sdn-non-sdn
-description: "US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "US-OFAC-Sanktionsregime für deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# US-OFAC-Sanktionen fuer EU-Unternehmen: SDN, Sektoral und Secondary Sanctions
+# US-OFAC-Sanktionen für EU-Unternehmen: SDN, Sektoral und Secondary Sanctions
 
 ## Arbeitsbereich
 
-US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+US-OFAC-Sanktionsregime für deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,24 +27,24 @@ US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen: SDN List, sectoral san
 
 1. US-Nexus feststellen: USD-Transaktion, US-Technologie (EAR/ITAR), US-Person/Unternehmen beteiligt?
 2. SDN-Liste und SSI-Liste (OFAC) auf alle Transaktionsparteien pruefen.
-3. Sektoral sanctions (SSI) pruefen: welche Finanzierungsformen sind fuer SSI-Personen verboten?
-4. Secondary-sanctions-Risiko bewerten: Exposure fuer Drittland-Unternehmen.
-5. EU-Blocking-Statute VO 2271/96 pruefen: gilt es fuer den Sachverhalt? Pflicht zur Befolgung des US-Verbots?
+3. Sektoral sanctions (SSI) pruefen: welche Finanzierungsformen sind für SSI-Personen verboten?
+4. Secondary-sanctions-Risiko bewerten: Exposure für Drittland-Unternehmen.
+5. EU-Blocking-Statute VO 2271/96 pruefen: gilt es für den Sachverhalt? Pflicht zur Befolgung des US-Verbots?
 6. Handlungsempfehlung: Transaktion fortsetzen, anpassen oder abbrechen; Kommunikationsstrategie.
 
 ## Rechtsrahmen
 
-- **50 CFR Parts 500 ff. (OFAC-Vorschriften)**: Grundlage fuer SDN und Sektorsanktionen.
+- **50 CFR Parts 500 ff. (OFAC-Vorschriften)**: Grundlage für SDN und Sektorsanktionen.
 - **VO (EG) 2271/96**: EU-Blocking-Statute gegen extraterritoriale US-Sanktionen.
-- **VO (EU) 2018/1100**: Aktualisierung des Blocking-Statutes fuer Iran-Sanktionen.
+- **VO (EU) 2018/1100**: Aktualisierung des Blocking-Statutes für Iran-Sanktionen.
 - **AWG § 4 Abs. 1 Nr. 4**: Schutz wesentlicher Sicherheitsinteressen als Rechtsgrundlage.
 - **§ 18 AWG**: Strafbarkeit bei Sanktionsverstoss nach deutschem Recht.
 
 ## Pruef-Raster
 
 - [ ] US-Nexus (USD, US-Person, US-Technologie) identifiziert?
-- [ ] SDN-Liste und SSI-Liste fuer alle Parteien geprueft?
-- [ ] Sektorsanktionen fuer relevante Finanzierungsform analysiert?
+- [ ] SDN-Liste und SSI-Liste für alle Parteien geprueft?
+- [ ] Sektorsanktionen für relevante Finanzierungsform analysiert?
 - [ ] Secondary-sanctions-Risiko quantifiziert?
 - [ ] EU-Blocking-Statute Anwendbarkeit geprueft?
 - [ ] Handlungsempfehlung mit Risiko-Abwaegung dokumentiert?
@@ -60,7 +60,7 @@ US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen: SDN List, sectoral san
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

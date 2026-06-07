@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-ersatzteile-dual-exporteur
-description: "Exportkontrollpruefung fuer Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizierungsvermerk und Lieferentscheidung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exportkontrollpruefung für Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizierungsvermerk und Lieferentscheidung im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ersatzteile mit Dual-Use-Risiko: Klassifizierung und Lieferentscheidung
 
 ## Arbeitsbereich
 
-Exportkontrollpruefung fuer Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizierungsvermerk und Lieferentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrollpruefung für Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizierungsvermerk und Lieferentscheidung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,8 +20,8 @@ Exportkontrollpruefung fuer Ersatzteile und Komponenten mit Dual-Use-Potenzial n
 ## Mandantenfall
 
 - Maschinenhersteller liefert Pumpendichtungen nach Iran; Lieferkettenkontrolle zeigt Dual-Use-Potenzial.
-- Elektronikunternehmen sendet Ersatzplatinen an Vertriebspartner in UAE; Weitergabe an Russland befuerchtet.
-- Reparaturauftrag aus Algerien fuer Steuerungskomponente; ML-Listeneinstufung unklar.
+- Elektronikunternehmen sendet Ersatzplatinen an Vertriebspartner in UAE; Weitergabe an Russland befürchtet.
+- Reparaturauftrag aus Algerien für Steuerungskomponente; ML-Listeneinstufung unklar.
 
 ## Erste Schritte
 
@@ -34,7 +34,7 @@ Exportkontrollpruefung fuer Ersatzteile und Komponenten mit Dual-Use-Potenzial n
 
 ## Rechtsrahmen
 
-- **Art. 3 VO (EU) 2021/821**: Genehmigungspflicht fuer gelistete Dual-Use-Gueter.
+- **Art. 3 VO (EU) 2021/821**: Genehmigungspflicht für gelistete Dual-Use-Gueter.
 - **Art. 4 VO (EU) 2021/821**: Catch-All-Genehmigungspflicht bei Kenntnislagen.
 - **Anhang I VO (EU) 2021/821**: Gueterliste inkl. Ersatzteile und Komponenten.
 - **§ 18 AWG**: Strafbarkeit unerlaubter Ausfuhr.
@@ -54,13 +54,13 @@ Exportkontrollpruefung fuer Ersatzteile und Komponenten mit Dual-Use-Potenzial n
 - Ersatzteile koennen hoeherer Kategorie angehoeren als die Anlage selbst.
 - Sammellieferungen von Ersatzteilen koennen zusammen eine vollstaendige Anlage darstellen.
 - UAE und Tuerkei gelten als Umgehungslaender; Catch-All-Risiko erhoht.
-- BAFA-Nullbescheid gilt nur fuer die beschriebene Konfiguration, nicht fuer Varianten.
+- BAFA-Nullbescheid gilt nur für die beschriebene Konfiguration, nicht für Varianten.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

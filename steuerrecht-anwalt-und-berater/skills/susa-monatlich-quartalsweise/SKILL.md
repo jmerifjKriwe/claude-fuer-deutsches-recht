@@ -91,17 +91,17 @@ Tag 30: BWA Quartal versandt
 
 - Erstellungsprotokoll in Mandantenakte (Datum, Bearbeiter, Bemerkungen).
 - Versandprotokoll bei externem Empfaenger.
-- Wiedervorlage fuer Folgemonat/Folgequartal.
+- Wiedervorlage für Folgemonat/Folgequartal.
 
 ## Output
 
 - Periodische SuSa als PDF.
-- Excel-Export fuer interne Auswertung.
+- Excel-Export für interne Auswertung.
 - Erstellungsprotokoll in Mandantenakte.
 
 ## Strategie und Praxis-Tipps
 
-- Monatliche SuSa ist Standard fuer USt-pflichtige Mandanten — auch wenn die VA quartalsweise ist (Kontinuitaet, Krisenfrueherkennung).
+- Monatliche SuSa ist Standard für USt-pflichtige Mandanten — auch wenn die VA quartalsweise ist (Kontinuitaet, Krisenfrueherkennung).
 - Quartalsweise SuSa nur bei klar einfacheren Mandanten.
 - Bei Buchungsverzoegerung Mandanten in Mandantenakte dokumentieren — Haftungsfrage bei Versand verspaeteter Auswertungen.
 - StBVV: Periodische Erstellung in Buchfuehrungspauschale.

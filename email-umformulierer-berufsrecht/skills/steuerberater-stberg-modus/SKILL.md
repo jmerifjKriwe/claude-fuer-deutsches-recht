@@ -24,7 +24,7 @@ Dieser Skill passt den Umformulierungsprozess an die spezifischen Berufspflichte
 - § 57 StBerG — Allgemeine Berufspflichten: Gewissenhaftigkeit, Verschwiegenheit, Sachlichkeit
 - § 57a StBerG — Werbung: sachliche, berufsrechtlich zulaessige Kommunikation
 - § 5 BOStB — Verschwiegenheitspflicht (analog § 2 BORA)
-- § 9 BOStB — Kollegialitaetsgebot fuer Steuerberater
+- § 9 BOStB — Kollegialitaetsgebot für Steuerberater
 
 ## Quellenregel
 

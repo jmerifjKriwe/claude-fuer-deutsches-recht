@@ -23,7 +23,7 @@ Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerde
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern zu (§ 9 KHG). Es bestehen zwei Foerderwege: **Einzelfoerderung** fuer grosse Vorhaben (Bau, Generalsanierung) und **Pauschalfoerderung** fuer wiederkehrende Investitionen (Geraete, kleinere Massnahmen). Daneben Transformationsfonds (KHVVG) und KHZG-Digitalisierungsmittel.
+Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Ländern zu (§ 9 KHG). Es bestehen zwei Foerderwege: **Einzelfoerderung** für grosse Vorhaben (Bau, Generalsanierung) und **Pauschalfoerderung** für wiederkehrende Investitionen (Geraete, kleinere Massnahmen). Daneben Transformationsfonds (KHVVG) und KHZG-Digitalisierungsmittel.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welches Land foerdert, welches Landeskrankenhausgesetz gilt?
@@ -40,14 +40,14 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern 
 - **Subventionsrecht**, Vergaberecht (GWB, VgV, UVgO), Beihilfenrecht EU.
 - **VwVfG §§ 48, 49** Aufhebung/Rueckforderung Foerderbescheid.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Foerdertyp identifizieren:** Einzel, Pauschal, KHZG, Transformationsfonds.
 2. **Foerderfaehigkeit pruefen:** Plankrankenhausstatus, Bedarfsbegruendung, Wirtschaftlichkeit.
 3. **Bauplanung pruefen:** Baugenehmigung, ggf. Planfeststellung (Bauordnungs-/Bauplanungsrecht).
 4. **Antrag stellen:** Landesformular, Anlagen (Kostenberechnung, Bedarfsplan, Wirtschaftlichkeitsuntersuchung).
 5. **Bescheid pruefen:** Nebenbestimmungen § 36 VwVfG, Auflagen, Befristungen.
 6. **Verwendungsnachweis fuehren:** Frist meist 6-12 Monate nach Massnahmenende.
-7. **Rueckforderung abwehren** ( §§ 48, 49 VwVfG): Anhoerung, Vertrauensschutz, Ermessen.
+7. **Rueckforderung abwehren** ( §§ 48, 49 VwVfG): Anhörung, Vertrauensschutz, Ermessen.
 
 ## Trade-off-Matrix
 
@@ -67,7 +67,7 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern 
 
 ## Mustertexte
 **Foerderantrag Einzelmassnahme:**
-> Wir beantragen die Einzelfoerderung nach § 9 KHG i. V. m. § … LKHG fuer das Vorhaben [Name]. Kostenberechnung: … EUR. Bedarfsbegruendung: … Wirtschaftlichkeitsuntersuchung: … Anlagen: Baubeschreibung, Statik, Kostenvoranschlaege.
+> Wir beantragen die Einzelfoerderung nach § 9 KHG i. V. m. § … LKHG für das Vorhaben [Name]. Kostenberechnung: … EUR. Bedarfsbegruendung: … Wirtschaftlichkeitsuntersuchung: … Anlagen: Baubeschreibung, Statik, Kostenvoranschlaege.
 
 **Verteidigungsschreiben gegen Rueckforderung:**
 > Gegen die beabsichtigte Rueckforderung tragen wir vor: 1. Vertrauensschutz nach § 48 Abs. 2 VwVfG (keine Bekanntmachung der Fehleinschaetzung). 2. Ermessensfehler … 3. Verwendungsnachweise vollstaendig erbracht. Beweismittel: …
@@ -88,7 +88,7 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern 
 
 ## Quellen Stand 06/2026
 - KHG § 9 i. d. F. KHVVG.
-- Landeskrankenhausgesetze 16 Laender (Live-Check Landesministerien).
+- Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
 - KHZG (Live-Check BMG, BAS).
 - KHVVG Transformationsfonds (Live-Check BMG).
 - BVerwG, staend. Rspr. zur Investitionsfoerderung; BSG zum Versorgungsauftrag.

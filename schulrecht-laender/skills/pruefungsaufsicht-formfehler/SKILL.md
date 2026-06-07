@@ -1,6 +1,6 @@
 ---
 name: pruefungsaufsicht-formfehler
-description: "Prüft Aufsichtsmängel, Störungen, Täuschungsvorwürfe und Protokolle in Schulprüfungen im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufsichtsmängel, Störungen, Täuschungsvorwürfe und Protokolle in Schulprüfungen im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Prüfungsaufsicht und Formfehler Schule

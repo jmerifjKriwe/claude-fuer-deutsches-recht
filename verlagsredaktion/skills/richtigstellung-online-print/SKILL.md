@@ -1,13 +1,13 @@
 ---
 name: richtigstellung-online-print
-description: "Richtigstellung im Online- und Printmedium: Berichtigungsanspruch, Gegendarstellung nach MStV § 20, Erratum, Online-Korrekturhinweis. Mustertexte fuer alle drei Eskalationsstufen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richtigstellung im Online- und Printmedium: Berichtigungsanspruch, Gegendarstellung nach MStV § 20, Erratum, Online-Korrekturhinweis. Mustertexte für alle drei Eskalationsstufen im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Richtigstellung
 
 ## Arbeitsbereich
 
-Richtigstellung im Online- und Printmedium: Berichtigungsanspruch, Gegendarstellung nach MStV § 20, Erratum, Online-Korrekturhinweis. Mustertexte fuer alle drei Eskalationsstufen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richtigstellung im Online- und Printmedium: Berichtigungsanspruch, Gegendarstellung nach MStV § 20, Erratum, Online-Korrekturhinweis. Mustertexte für alle drei Eskalationsstufen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -34,13 +34,13 @@ Nach Erscheinen eines Beitrags wird eine inhaltliche Korrektur erforderlich: Tip
 ## Rechtlicher und sachlicher Rahmen
 
 - MStV (Medienstaatsvertrag) § 20 - Gegendarstellung in Telemedien mit journalistisch-redaktioneller Praegung; gleiche Aufmachung, gleicher Veroeffentlichungsort.
-- LandesPresseG der Laender - Gegendarstellungspflicht im Printbereich (z. B. § 11 LPresseG NRW).
+- LandesPresseG der Länder - Gegendarstellungspflicht im Printbereich (z. B. § 11 LPresseG NRW).
 - BGB §§ 823, 1004 (analog) - Berichtigungsanspruch ueber das allgemeine Persoenlichkeitsrecht; BGB § 824 Kreditgefaehrdung.
 - BVerfG-Rechtsprechung zur Pflicht zur Berichtigung unwahrer Tatsachenbehauptungen (vgl. zur amtlichen Pruefung unter bundesverfassungsgericht.de).
 - UWG §§ 5, 5a, 8 - Berichtigung bei irrefuehrenden geschaeftlichen Aussagen.
 - Pressekodex (Ziffern 3 und 13) - Richtigstellung als Grundsatz journalistischer Sorgfalt.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Sachverhalt fixieren.** Was wurde behauptet? Was ist Tatsache? Welche Quelle?
 2. **Stufenwahl.**
@@ -123,7 +123,7 @@ gleiches Umfang wie Erstmitteilung]"
 
 Anmerkung der Redaktion:
 Wir sind verpflichtet, die vorstehende Gegendarstellung zu
-veroeffentlichen, ohne Ruecksicht darauf, ob die Tatsachen-
+veröffentlichen, ohne Rücksicht darauf, ob die Tatsachen-
 behauptungen zutreffen.
 ```
 

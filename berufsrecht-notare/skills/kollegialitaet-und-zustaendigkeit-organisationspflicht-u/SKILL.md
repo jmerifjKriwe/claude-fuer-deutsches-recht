@@ -1,13 +1,30 @@
 ---
 name: kollegialitaet-und-zustaendigkeit-organisationspflicht-u
-description: "Notare: kollegialitaet und zustaendigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: kollegialitaet und zuständigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Notare: kollegialitaet und zustaendigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+# Notare: kollegialitaet und zuständigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
 ## Arbeitsbereich
 
-Notare: kollegialitaet und zustaendigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notare: kollegialitaet und zuständigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 14 Abs. 1 BNotO` — notarielle Amtspflichten.
+- `§ 17 Abs. 1 BeurkG` — Belehrung und Erforschung des Willens.
+- `§ 13 BeurkG` — Vorlesen, Genehmigen, Unterschreiben.
+- `§ 40 BeurkG` — Beglaubigung einer Unterschrift.
+- `§ 53 BeurkG` — Vollzugspflichten.
+- `§ 54a BeurkG` — Verwahrung und Auszahlung.
+- `§ 130a ZPO` — elektronische Dokumente als Schnittstelle.
+- `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
+- `§ 12 HGB` — Registereinreichung.
+- `§ 40 GmbHG` — Gesellschafterliste.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -17,7 +34,7 @@ Notare: kollegialitaet und zustaendigkeit - Organisationspflichten, Prävention,
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Notare: kollegialitaet und zustaendigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+## Konkreter Berufsrechtskern: Notare: kollegialitaet und zuständigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 - **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht.
 - **Institutionen:** Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen.
 - **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.

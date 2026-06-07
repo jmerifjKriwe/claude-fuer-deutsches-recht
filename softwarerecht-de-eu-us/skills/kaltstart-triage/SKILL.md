@@ -5,6 +5,24 @@ description: "Startet die Softwarerechtsprüfung für Entwicklung, Lizenz, SaaS,
 
 # Kaltstart Softwarerecht
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 69a UrhG` — Computerprogramme.
+- `§ 69b UrhG` — Arbeitnehmerprogramme.
+- `§ 69c UrhG` — ausschliessliche Rechte.
+- `§ 69d UrhG` — bestimmungsgemaesse Benutzung.
+- `§ 69e UrhG` — Dekompilierung.
+- `§ 31 UrhG` — Einraeumung von Nutzungsrechten.
+- `§ 32 UrhG` — angemessene Verguetung.
+- `§ 305 BGB` — AGB-Einbeziehung.
+- `§ 307 Abs. 1 BGB` — AGB-Inhaltskontrolle.
+- `Art. 5 Abs. 1 DSGVO` — Datenschutz bei Softwarebetrieb.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Zweck
 
 Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.

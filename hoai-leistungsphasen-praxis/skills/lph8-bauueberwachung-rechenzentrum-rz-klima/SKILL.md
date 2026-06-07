@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-rechenzentrum-rz-klima
-description: "Bauueberwachung nach HOAI LPH 8 fuer Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation fuer Rechenzentrum-Betreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation für Rechenzentrum-Betreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Rechenzentrum RZ-Klima (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation fuer Rechenzentrum-Betreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation für Rechenzentrum-Betreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -32,7 +32,7 @@ Messgroessen wie PUE (Power Usage Effectiveness) und DCIE werden durch korrekt i
 ## Erste Schritte auf der Baustelle
 
 1. Untergrundpruefung Traglast: Bodenbelastung Serverracks bis 12 kN/m, Bodenplatten-Nachweis Statik
-2. Doppelbodenmontage: Hoehe 60 cm fuer Kabeltrassen, Trittfestigkeit 4.5 kN nach EN 12825
+2. Doppelbodenmontage: Hoehe 60 cm für Kabeltrassen, Trittfestigkeit 4.5 kN nach EN 12825
 3. Kuehlsystem Prazisionsklimatisierung: CRAC/CRAH Aufstellung, Kuehlwasserleitungen Druckpruefung
 4. USV-Anlage: Inbetriebnahme-Protokoll, Batterietestlauf 100 Prozent Last, Umschaltzeit kleiner 10 ms
 5. Gasloesch-System: Inert-Gas FM-200 oder Novec 1230, Aktivierungstest, Leckrate-Pruefung nach EN 15004

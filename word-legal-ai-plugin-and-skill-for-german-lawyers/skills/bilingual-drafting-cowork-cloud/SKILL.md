@@ -1,13 +1,13 @@
 ---
 name: bilingual-drafting-cowork-cloud
-description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste fuer Konsistenz im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste für Konsistenz im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bilinguales Drafting Deutsch-Englisch
 
 ## Arbeitsbereich
 
-Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste fuer Konsistenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste für Konsistenz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ Im deutschen Wirtschaftsrecht sind bilinguale Vertraege Standard, sobald eine Pa
 2. **Layout**: Tabelle zweispaltig (Side-by-Side) oder gestapelte Saetze (Stacked).
 3. **Sprachklausel**: Welche Fassung gilt bei Widerspruch.
 
-Er bietet Uebersetzungsvorlagen fuer alle Standardklauseln und warnt vor den False Friends, die in deutschen Anwaltsbueros regelmaessig zu falschen Uebersetzungen fuehren.
+Er bietet Uebersetzungsvorlagen für alle Standardklauseln und warnt vor den False Friends, die in deutschen Anwaltsbueros regelmaessig zu falschen Uebersetzungen fuehren.
 
 ## Eingaben
 
@@ -39,7 +39,7 @@ Er bietet Uebersetzungsvorlagen fuer alle Standardklauseln und warnt vor den Fal
 
 - **Vertragssprache**: Privatautonomie. Parteien koennen frei waehlen.
 - **Anwendbares Recht**: Rom I-VO. Bei B2C-Vertraegen Verbraucherschutz im Land des gewoehnlichen Aufenthalts (Art. 6 Rom I-VO).
-- **§ 184 GVG**: Gerichtssprache deutscher Gerichte ist Deutsch. Bei englischen Vertraegen vor deutschen Gerichten: Uebersetzung erforderlich, Kosten regelmaessig zulasten der vorlegenden Partei. Vereinzelte Spezialkammern fuer englischsprachige Verfahren (Hamburg, Frankfurt, Stuttgart).
+- **§ 184 GVG**: Gerichtssprache deutscher Gerichte ist Deutsch. Bei englischen Vertraegen vor deutschen Gerichten: Uebersetzung erforderlich, Kosten regelmaessig zulasten der vorlegenden Partei. Vereinzelte Spezialkammern für englischsprachige Verfahren (Hamburg, Frankfurt, Stuttgart).
 - **§ 293 ZPO**: Auslaendisches Recht muss bewiesen werden. Sachverstaendigengutachten regelmaessig erforderlich, Kosten 10.000 EUR aufwaerts.
 - **CISG (UN-Kaufrecht)**: Bei grenzueberschreitendem Warenkauf automatisch anwendbar, soweit nicht ausgeschlossen.
 
@@ -79,7 +79,7 @@ Er bietet Uebersetzungsvorlagen fuer alle Standardklauseln und warnt vor den Fal
 |---|---|
 | Direkte Vergleichbarkeit | Schwierig bei langen Saetzen |
 | Sauber druckbar | Word-Tabellen werden bei Track Changes unuebersichtlich |
-| Klarheit fuer Verhandler | Hoeher Drafting-Aufwand |
+| Klarheit für Verhandler | Hoeher Drafting-Aufwand |
 
 Wenn Side-by-Side, dann zweispaltige Tabelle ohne Rahmen, Spaltenbreite 50:50, Zeilenabstand 1,15. Jeder Vertragsabschnitt ist eine Tabellenzeile.
 
@@ -150,7 +150,7 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 
 - **Bilingualer Vertragsentwurf** als .docx (Side-by-Side oder Stacked je nach Wahl).
 - **Definitionsverzeichnis** zweispaltig.
-- **Memo zu Sprachklausel und Forum** fuer den Mandanten.
+- **Memo zu Sprachklausel und Forum** für den Mandanten.
 
 ## Beispiel: Sprachklausel mit Forum-Hinweis
 
@@ -160,7 +160,7 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 >
 > (2) Auf diesen Vertrag findet ausschliesslich das Recht der Bundesrepublik Deutschland Anwendung. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
 >
-> (3) Ausschliesslicher Gerichtsstand fuer alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist Frankfurt am Main. Die Parteien koennen davon abweichend ein Schiedsverfahren nach der Schiedsordnung der DIS (Deutsche Institution fuer Schiedsgerichtsbarkeit) vereinbaren; Schiedsort ist in diesem Fall Frankfurt am Main, Schiedssprache Deutsch.
+> (3) Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist Frankfurt am Main. Die Parteien koennen davon abweichend ein Schiedsverfahren nach der Schiedsordnung der DIS (Deutsche Institution für Schiedsgerichtsbarkeit) vereinbaren; Schiedsort ist in diesem Fall Frankfurt am Main, Schiedssprache Deutsch.
 >
 > ### Section 28 Language, Governing Law, Jurisdiction
 >
@@ -172,8 +172,8 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 
 ## Querverweise
 
-- `boilerplate-klauseln-katalog` fuer Schlussbestimmungen
-- `klausel-bibliothek-katalog` fuer bilinguale Klauselbausteine
+- `boilerplate-klauseln-katalog` für Schlussbestimmungen
+- `klausel-bibliothek-katalog` für bilinguale Klauselbausteine
 - `dokumentarchitektur-vertrag-und-schriftsatz`
 - `word-dokument-finish-und-layout` für die Endkontrolle von Tabellen, Seitenumbrüchen und Versandfassung
 

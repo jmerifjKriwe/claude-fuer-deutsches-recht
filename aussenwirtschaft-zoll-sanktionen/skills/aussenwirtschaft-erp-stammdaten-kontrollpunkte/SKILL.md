@@ -3,7 +3,7 @@ name: aussenwirtschaft-erp-stammdaten-kontrollpunkte
 description: "Exportkontroll-Kontrollpunkte in ERP-Systemen (SAP GTS, Oracle GTM): Konfiguration und Qualitaetssicherung exportkontrollrelevanter Stammdaten wie Gueterklassifizierung (ECCN/Dual-Use-Code), Embargo-Blocker, Sanktionslisten-Integration und Dokumentenabruf. Identifiziert typische Konfigurationsfehler. Output: ERP-Stammdaten-Pruefbericht und Korrekturplan im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# ERP-Stammdaten fuer Exportkontrolle: Konfiguration und Qualitaetssicherung
+# ERP-Stammdaten für Exportkontrolle: Konfiguration und Qualitaetssicherung
 
 ## Arbeitsbereich
 
@@ -29,25 +29,25 @@ Exportkontroll-Kontrollpunkte in ERP-Systemen (SAP GTS, Oracle GTM): Konfigurati
 2. Gueterklassifizierungs-Korrektheit pruefen: ECCN, Dual-Use-Code, ALnr (Aussenwirtschaftslistennummer).
 3. Embargo-Lander-Tabelle auf Aktualitaet pruefen.
 4. Sanktionslisten-Update-Prozess validieren: Frequenz und Quellenverifizierung.
-5. Dokumentenablage fuer EUC, Genehmigungen und Screening-Ergebnisse im ERP konfiguriert?
-6. Test-Szenarien fuer bekannte Sperr-Faelle durchfuehren und Ergebnisse protokollieren.
+5. Dokumentenablage für EUC, Genehmigungen und Screening-Ergebnisse im ERP konfiguriert?
+6. Test-Szenarien für bekannte Sperr-Faelle durchfuehren und Ergebnisse protokollieren.
 
 ## Rechtsrahmen
 
-- **Art. 20 VO (EU) 2021/821**: Aufzeichnungspflicht fuer Exportkontrolldokumentation.
+- **Art. 20 VO (EU) 2021/821**: Aufzeichnungspflicht für Exportkontrolldokumentation.
 - **BAFA-Merkblatt ICP**: Anforderungen an IT-seitige Kontrollsysteme.
 - **AWV § 24**: Aufbewahrungspflichten.
-- **§ 14 AWG**: Auskunftspflichten gegenueber Behoerden (BAFA-Audit).
+- **§ 14 AWG**: Auskunftspflichten gegenueber Behörden (BAFA-Audit).
 - **GoBD**: Anforderungen an digitale Buchfuehrungs- und Archivsysteme.
 
 ## Pruef-Raster
 
 - [ ] Alle Dual-Use-Codes und ECCNs aktuell und korrekt eingetragen?
-- [ ] Embargo-Laender-Tabelle tagesaktuel?
+- [ ] Embargo-Länder-Tabelle tagesaktuel?
 - [ ] Sanktionslisten-Update-Frequenz ausreichend (taglich/wochentlich)?
-- [ ] Test-Szenarios fuer Sperr-Faelle bestanden?
-- [ ] Dokumentenablage fuer EUC und Genehmigungen konfiguriert?
-- [ ] Audit-Log fuer alle exportkontrollrelevanten ERP-Aenderungen vorhanden?
+- [ ] Test-Szenarios für Sperr-Faelle bestanden?
+- [ ] Dokumentenablage für EUC und Genehmigungen konfiguriert?
+- [ ] Audit-Log für alle exportkontrollrelevanten ERP-Aenderungen vorhanden?
 
 ## Typische Fallstricke
 
@@ -60,7 +60,7 @@ Exportkontroll-Kontrollpunkte in ERP-Systemen (SAP GTS, Oracle GTM): Konfigurati
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

@@ -1,6 +1,6 @@
 ---
 name: evaluation-und-jahresbericht
-description: "Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen fuer Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen."
+description: "Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen für Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen."
 ---
 
 # NKR-Evaluation und Jahresbericht
@@ -26,7 +26,7 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 - **Erfuellungsaufwand-Leitfaden** Kapitel ex-post
 - **Better Regulation Guidelines** (EU) Tool 22 Evaluation
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Jahresbericht
 
@@ -77,7 +77,7 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Der NKR empfiehlt, eine Evaluierungsklausel aufzunehmen, die [3 / 5] Jahre nach Inkrafttreten die tatsaechlichen Auswirkungen anhand der Indikatoren [Fallzahlen, Aufwand, Zielereichung] ueberprueft."
-- "Der NKR weist darauf hin, dass eine Evaluierungsklausel im Vorhaben fehlt, obwohl der ausgewiesene Erfuellungsaufwand fuer die Wirtschaft die Schwelle von 100 Mio EUR jaehrlich uebersteigt."
+- "Der NKR weist darauf hin, dass eine Evaluierungsklausel im Vorhaben fehlt, obwohl der ausgewiesene Erfuellungsaufwand für die Wirtschaft die Schwelle von 100 Mio EUR jaehrlich uebersteigt."
 - "Im Jahresbericht [Jahr] hatte der NKR auf den hohen Erfuellungsaufwand vergleichbarer Regelungen hingewiesen. Diese Hinweise sind im vorliegenden Vorhaben aufgenommen worden."
 
 ### Jahresbericht-Kapitelueberschriften (Standard)

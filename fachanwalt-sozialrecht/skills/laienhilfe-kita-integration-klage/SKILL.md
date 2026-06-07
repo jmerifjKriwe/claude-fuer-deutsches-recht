@@ -12,10 +12,10 @@ description: "Laienhilfe Kita Integration Klage im Plugin Fachanwalt Sozialrecht
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-kita-integration` | Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-klage-sozialgericht-einfach` | Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-konto-pfaendung-sozialleistungen` | Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-krankengeld-ablauf` | Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-kita-integration` | Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-klage-sozialgericht-einfach` | Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-konto-pfaendung-sozialleistungen` | Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-krankengeld-ablauf` | Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ description: "Laienhilfe Kita Integration Klage im Plugin Fachanwalt Sozialrecht
 
 ## 1. `laienhilfe-kita-integration`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Kita Integration
 
@@ -97,7 +97,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-klage-sozialgericht-einfach`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Klage Sozialgericht Einfach
 
@@ -117,7 +117,7 @@ Dieser Skill erklaert **Klage Sozialgericht Einfach** so, dass auch Menschen ohn
 
 - Klagefrist: § 87 SGG – einen Monat ab Zustellung Widerspruchsbescheid; drei Monate bei fehlender/fehlerhafter Belehrung § 66 SGG.
 - Klagearten: Anfechtungsklage § 54 Abs. 1 SGG (gegen Verwaltungsakt), Verpflichtungsklage § 54 Abs. 1 (auf Erlass VA), Leistungsklage § 54 Abs. 5 (auf konkrete Leistung), Feststellungsklage § 55 SGG.
-- Sachliche Zustaendigkeit: § 51 SGG – Sozialgericht (SG) erstinstanzlich; ortliche Zustaendigkeit § 57 SGG (Wohnsitz Klaeger).
+- Sachliche Zuständigkeit: § 51 SGG – Sozialgericht (SG) erstinstanzlich; ortliche Zuständigkeit § 57 SGG (Wohnsitz Klaeger).
 - Klage zu Protokoll: § 90 SGG – Klage auch zur Niederschrift der Geschaeftsstelle moeglich (besondere Erleichterung Selbstvertreter).
 - Postulationsfaehigkeit: § 73 SGG – vor SG kein Anwaltszwang (vor LSG/BSG anders, § 73 Abs. 4 SGG).
 - Gerichtskostenfreiheit: § 183 SGG – Versicherte, Leistungsempfaenger und Behinderte sind gerichtskostenfrei; nur Anwaltskosten.
@@ -176,7 +176,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-konto-pfaendung-sozialleistungen`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Konto Pfaendung Sozialleistungen
 
@@ -245,7 +245,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-krankengeld-ablauf`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Krankengeld Ablauf
 

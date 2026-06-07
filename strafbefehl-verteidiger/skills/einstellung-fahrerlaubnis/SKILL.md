@@ -9,6 +9,22 @@ description: "Einstellung: Compliance-Dokumentation und Aktenvermerk im Plugin s
 
 Einstellung: Compliance-Dokumentation und Aktenvermerk im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 StGB` — Keine Strafe ohne Gesetz.
+- `§ 15 StGB` — Vorsatz/Fahrlaessigkeit.
+- `§ 16 Abs. 1 StGB` — Tatbestandsirrtum.
+- `§ 17 StGB` — Verbotsirrtum.
+- `§ 46 Abs. 1 StGB` — Strafzumessung.
+- `§ 152 Abs. 2 StPO` — Legalitaetsprinzip/Anfangsverdacht.
+- `§ 160 Abs. 2 StPO` — Ermittlung auch entlastender Umstaende.
+- `§ 244 Abs. 2 StPO` — Aufklaerungspflicht.
+- `§ 261 StPO` — freie richterliche Beweiswuerdigung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

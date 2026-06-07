@@ -64,8 +64,8 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Denkfehler 3: Charta gilt immer.** Falsch. GRCh Art. 51 — nur wenn MS EU-Recht durchfuehrt; sonst gilt das GG/EMRK.
-- **Denkfehler 4: EuGH-Zugang offen fuer Private.** Eng begrenzt. Art. 263 Abs. 4 AEUV: Plaumann-Formel sehr streng; individuelle Betroffenheit kaum nachweisbar. Regelweg: Vorlage Art. 267 AEUV ueber nationales Gericht.
-- **Denkfehler 5: Vollzugsdefizit = Verstoß.** Differenzieren: Anwendungsermessen vs. kein Ermessen; Kommission vs. nationale Behoerde; Art. 258 vs. Staatshaftung.
+- **Denkfehler 4: EuGH-Zugang offen für Private.** Eng begrenzt. Art. 263 Abs. 4 AEUV: Plaumann-Formel sehr streng; individuelle Betroffenheit kaum nachweisbar. Regelweg: Vorlage Art. 267 AEUV ueber nationales Gericht.
+- **Denkfehler 5: Vollzugsdefizit = Verstoß.** Differenzieren: Anwendungsermessen vs. kein Ermessen; Kommission vs. nationale Behörde; Art. 258 vs. Staatshaftung.
 
 ## Leitentscheidungen
 

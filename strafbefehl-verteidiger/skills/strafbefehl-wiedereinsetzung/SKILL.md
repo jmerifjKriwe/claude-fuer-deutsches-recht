@@ -51,7 +51,7 @@ Einspruchsfrist versaeumt?
 │ ├─ Krankheit/Unfall des Mandanten → Attest + eidestattliche Versicherung
 │ ├─ Urlaub/Abwesenheit → Bescheinigung + eidesstattliche Versicherung
 │ ├─ Zustellungsfiktion § 180 ZPO widerlegen (spaetere Kenntnisnahme) → Briefkasten-Nachweis
-│ ├─ Kanzleifehler ohne Verschulden → intern klaeren; Mandant haftet nicht fuer Kanzleifehler
+│ ├─ Kanzleifehler ohne Verschulden → intern klaeren; Mandant haftet nicht für Kanzleifehler
 │ └─ Gericht hat Frist falsch berechnet → BGH-Rechtsprechung zitieren
 └─ Verschulden vorhanden → Wiedereinsetzung abgelehnt; Strafbefehl rechtskraeftig
 

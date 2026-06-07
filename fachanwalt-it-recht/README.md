@@ -51,7 +51,7 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `cloud-vertrag-datenschutz-itr` | Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüft konkret Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence fuer Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalt... |
+| `cloud-vertrag-datenschutz-itr` | Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüft konkret Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence für Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalte... |
 | `cyber-datenschutz` | Cyber Datenschutz im Plugin Fachanwalt It Recht: prüft konkret Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack, Datenschutz-Folgenabschaetzung DSFA nach Art, KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach, Open-Sourc... |
 | `datenschutzrecht-fehlerkatalog` | Datenschutzrecht Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `dma-dsa-dsgvo-fachanwalt-governance` | DMA DSA DSGVO Fachanwalt Governance im Plugin Fachanwalt It Recht: prüft konkret DMA, DSA, DSGVO, Fachanwalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |

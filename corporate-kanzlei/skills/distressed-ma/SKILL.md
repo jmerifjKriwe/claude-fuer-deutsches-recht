@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - 13-Wochen-Liquiditätsplanung, Insolvenzreife-Check und Fortbestehensprognose.
@@ -103,7 +103,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Triage — klaere vor Beginn
 
 1. Ist Insolvenzantrag bereits gestellt (insolvency proceedings) oder Vorfeldphase (pre-insolvency)?
-2. Verkauf durch: Insolvenzverwalter, vorlaeufigen Verwalter, oder Gesellschaft selbst (Eigenverwaltung/StaRUG)?
+2. Verkauf durch: Insolvenzverwalter, vorläufigen Verwalter, oder Gesellschaft selbst (Eigenverwaltung/StaRUG)?
 3. Asset Deal oder Share Deal? (Im Insolvenzfall fast immer Asset Deal — Verbindlichkeiten bleiben bei InsoSchuldner)
 4. Liquiditaetssituation: Wie viele Tage/Wochen hat der Prozess Zeit?
 5. Arbeitnehmer: § 613a BGB; Widerspruchsrecht; Betriebsrat; Sozialplan in der Insolvenz?
@@ -117,7 +117,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 129-147 InsO** — Insolvenzanfechtung; §§ 133, 130 InsO Vorsatz- und Deckungsanfechtung
 - **§ 179a AktG** — Zustimmung HV bei Uebertragung des gesamten Gesellschaftsvermoegen bei AG
 - **§§ 21-34 StaRUG** — Restrukturierungsrahmen; Stabilisierungsanordnung; kein Vollstreckungsschutz ohne Anordnung
-- **§ 613a BGB** — Betriebsuebergang; Haftung Erwerber fuer Altverbindlichkeiten (Ausnahmen in Insolvenz)
+- **§ 613a BGB** — Betriebsuebergang; Haftung Erwerber für Altverbindlichkeiten (Ausnahmen in Insolvenz)
 - **§§ 125-128 InsO** — Interessenausgleich; Sozialplan; Namensliste; erleichterte Kuendigung
 - **§ 35 InsO** — Insolvenzmasse; was faellt dazu?
 
@@ -151,12 +151,12 @@ Im Gegensatz zum normalen M&A ist im Distressed-Fall der Asset Deal Standard:
 ## § 613a BGB im Insolvenzfall
 
 In der Insolvenz gilt § 613a BGB grundsaetzlich weiter. Allerdings:
-- Erwerber haftet nicht fuer rueckstaendige Ansprueche aus der Insolvenz (§ 613a II BGB)
+- Erwerber haftet nicht für rueckstaendige Ansprueche aus der Insolvenz (§ 613a II BGB)
 - Kaeufer kann mit Insolvenzverwalter vor Erwerb bestimmte Arbeitnehmervertraege beenden (§§ 125-128 InsO)
 - Sozialplanvolumen ist in der Insolvenz begrenzt (§ 123 InsO; max. 2.5 Monatsentgelte)
 - Widerspruchsrecht der Arbeitnehmer (§ 613a VI BGB) beachten — Widerspruch verhindert Uebergang
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Erstbewertung** — Informationen von Insolvenzverwalter einholen; Massezustand; Fortfuehrungsprognose
 2. **Schnell-DD** — Schwerpunkte: wesentliche Vertraege CoC/Kuendigungsrecht, Arbeitnehmer, IP, Hauptkunden
@@ -205,7 +205,7 @@ Datum: [DATUM]
 ## Rote Schwellen
 
 - § 133 InsO Anfechtungsrisiko: Kaeufer wusste von Zahlungsunfaehigkeit → Transaktion anfechtbar
-- § 613a BGB-Uebergang vergessen → ungewollte Haftung fuer Arbeitnehmerrueckstaende (§ 613a II)
+- § 613a BGB-Uebergang vergessen → ungewollte Haftung für Arbeitnehmerrueckstaende (§ 613a II)
 - Kein fairer Marktpreisprozess → Insolvenzverwalter-Haftung; Glaeubiger-Schadensersatz
 - Assumed Contracts unvollstaendig — wichtige Kundenvertraege nicht uebertragen
 - Zeitdruck: Signing ohne abgeschlossene DD — Haftungsausschluss im APA muss maximal sein

@@ -19,7 +19,7 @@ Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutz
 
 ## Aufgabe
 
-Skill fuer interdictum fraudatorium und restitutio in integrum.
+Skill für interdictum fraudatorium und restitutio in integrum.
 
 ## Interdictum fraudatorium
 
@@ -37,7 +37,7 @@ Skill fuer interdictum fraudatorium und restitutio in integrum.
 ## Verzahnung
 
 - Restitutio in integrum ob fraudem ist die uebergeordnete Lehre.
-- Actio Pauliana ist die spezifische Aktion fuer Glaeubigeranfechtung.
+- Actio Pauliana ist die spezifische Aktion für Glaeubigeranfechtung.
 - Interdictum fraudatorium sichert den Anspruch waehrend der Verfahrensdauer.
 
 ## Vergleich zu modernem Recht

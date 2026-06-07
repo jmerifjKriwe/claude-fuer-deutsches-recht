@@ -1,25 +1,25 @@
 ---
 name: zahlungsklage-erstellen
-description: "Zahlungsklage erstellen nach §§ 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe § 3 ZPO, Tatbestand, Beweismittel, Anlagenverzeichnis, Unterschrift. Pflichtbestandteile § 253 Abs. 2 ZPO, Belehrung Anwaltszwang § 78 ZPO. Output: vollstaendiges Klageschrift-Geruest fuer AG (bis 10.000 EUR ab 01.01.2026) oder LG."
+description: "Zahlungsklage erstellen nach §§ 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe § 3 ZPO, Tatbestand, Beweismittel, Anlagenverzeichnis, Unterschrift. Pflichtbestandteile § 253 Abs. 2 ZPO, Belehrung Anwaltszwang § 78 ZPO. Output: vollstaendiges Klageschrift-Geruest für AG (bis 10.000 EUR ab 01.01.2026) oder LG."
 ---
 
 # Zahlungsklage erstellen
 
-Konstruktion einer Klageschrift fuer reine Geldforderungen nach §§ 253 ff. ZPO. Diese Anleitung liefert das Geruest, die Pflichtangaben und die typischen Stolperfallen aus der Praxis.
+Konstruktion einer Klageschrift für reine Geldforderungen nach §§ 253 ff. ZPO. Diese Anleitung liefert das Geruest, die Pflichtangaben und die typischen Stolperfallen aus der Praxis.
 
 ## Pflichtbestandteile der Klageschrift (§ 253 Abs. 2 ZPO)
 
 | Bestandteil | Norm | Inhalt |
 |---|---|---|
 | Bezeichnung der Parteien | § 253 Abs. 2 Nr. 1 ZPO | Voller Name, ladungsfaehige Anschrift, gesetzlicher Vertreter (bei juristischen Personen); bei GmbH Geschaeftsfuehrer mit HRB-Auszug |
-| Bezeichnung des Gerichts | § 253 Abs. 2 Nr. 1 ZPO | Sachlich + oertlich zustaendiges Gericht (AG/LG) |
+| Bezeichnung des Gerichts | § 253 Abs. 2 Nr. 1 ZPO | Sachlich + oertlich zuständiges Gericht (AG/LG) |
 | Bestimmter Antrag | § 253 Abs. 2 Nr. 2 ZPO | Zahlung in EUR, Zinsen genau (Hoehe, Zeitraum, Bezugsforderung), Kosten |
 | Bestimmter Gegenstand und Grund | § 253 Abs. 2 Nr. 2 ZPO | Tatbestand mit Lebenssachverhalt |
 | Beweismittel | § 253 Abs. 3 Nr. 1 ZPO | Urkunden, Zeugen mit ladungsfaehiger Anschrift, Sachverstaendige |
 | Streitwertangabe | § 61 GKG, § 3 ZPO | bei Geldforderung Hauptforderung ohne Zinsen + Nebenforderungen ohne Bezifferungspflicht (§ 4 ZPO) |
-| Unterschrift | § 130 Nr. 6 ZPO | Anwalt mit Stempel, beA fuer elektronische Einreichung (§ 130d ZPO Pflicht seit 01.01.2022) |
+| Unterschrift | § 130 Nr. 6 ZPO | Anwalt mit Stempel, beA für elektronische Einreichung (§ 130d ZPO Pflicht seit 01.01.2022) |
 
-## Sachliche Zustaendigkeit (Stand ab 01.01.2026)
+## Sachliche Zuständigkeit (Stand ab 01.01.2026)
 
 | Streitwert | Gericht | Norm |
 |---|---|---|
@@ -55,7 +55,7 @@ Bei Verbraucher als Beklagtem: 5 Prozentpunkte ueber Basiszins (§ 288 Abs. 1 BG
 2. **Hauptleistungspflichten:** Was war geschuldet (Lieferung, Werk, Dienstleistung).
 3. **Erfuellung durch Klaegerin:** Wann geliefert, Abnahme (§ 640 BGB), Rechnungsstellung (§ 14 UStG bei Unternehmer).
 4. **Faelligkeit:** Vertragliche Faelligkeitsregel ODER § 271 BGB (sofort) ODER § 641 BGB (Werklohn nach Abnahme) ODER § 271a BGB (Hoechstfristen B2B 30/60 Tage).
-5. **Verzugseintritt:** Mahnung (§ 286 Abs. 1 BGB) ODER kalendermaessige Bestimmung (§ 286 Abs. 2 Nr. 1 BGB) ODER 30-Tage-Regel B2B nach Rechnungszugang (§ 286 Abs. 3 BGB).
+5. **Verzugseintritt:** Mahnung (§ 286 Abs. 1 BGB) ODER kalendermäßige Bestimmung (§ 286 Abs. 2 Nr. 1 BGB) ODER 30-Tage-Regel B2B nach Rechnungszugang (§ 286 Abs. 3 BGB).
 6. **Stand der Forderung:** Hauptforderung, Teilzahlungen, Restforderung, Verzugszinsen, Mahnkosten.
 
 ## Streitwert berechnen
@@ -84,13 +84,13 @@ Bei Verbraucher als Beklagtem: 5 Prozentpunkte ueber Basiszins (§ 288 Abs. 1 BG
 
 ## Elektronische Einreichung
 
-Seit 01.01.2022 Pflicht ueber beA fuer Rechtsanwaelte (§ 130d ZPO). Format: PDF/A oder durchsuchbares PDF, Signatur durch beA oder qeS.
+Seit 01.01.2022 Pflicht ueber beA für Rechtsanwaelte (§ 130d ZPO). Format: PDF/A oder durchsuchbares PDF, Signatur durch beA oder qeS.
 
 ## B2B-Inkasso-Variante mit Inkassokosten
 
 Nach aussergerichtlichem Mahnvorlauf sind im Antrag zusaetzlich aufzunehmen:
 
-- Inkassokosten als Verzugsschaden BGB 280 286 begrenzt auf RVG-Gebuehren RDG 13c
+- Inkassokosten als Verzugsschaden BGB 280 286 begrenzt auf RVG-Gebühren RDG 13c
 - Verzugskostenpauschale 40 Euro je Forderung nur B2B BGB 288 Abs. 5
 - Verzugszinsen B2B neun Prozentpunkte ueber Basiszinssatz BGB 288 Abs. 2
 
@@ -119,4 +119,4 @@ Verzugskostenpauschale zu zahlen.
 - ZPO § 130d Pflicht-beA [gesetze-im-internet.de/zpo/__130d.html](https://www.gesetze-im-internet.de/zpo/__130d.html)
 - GVG § 23, § 71 [gesetze-im-internet.de/gvg/__23.html](https://www.gesetze-im-internet.de/gvg/__23.html)
 - BGB § 288 Verzugszinsen [gesetze-im-internet.de/bgb/__288.html](https://www.gesetze-im-internet.de/bgb/__288.html)
-- BGBl. 2025 I Nr. 318 (Erhoehung AG-Zustaendigkeit auf 10.000 EUR ab 01.01.2026)
+- BGBl. 2025 I Nr. 318 (Erhoehung AG-Zuständigkeit auf 10.000 EUR ab 01.01.2026)

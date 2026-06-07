@@ -1,13 +1,13 @@
 ---
 name: onboarding-bescheid-lesen-festsetzungsverjaehrung
-description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker fuer Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker für Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Steuerbescheid lesen — die ersten 10 Minuten
 
 ## Arbeitsbereich
 
-Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker fuer Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker für Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -32,7 +32,7 @@ Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — vo
 3. Gibt es eine ordnungsgemaesse Rechtsbehelfsbelehrung (sonst Jahresfrist § 356 Abs. 2 AO)?
 4. Wann ist Bekanntgabe bewirkt (Stempel, Drei-Tages-Fiktion § 122 Abs. 2 AO, ELSTER-Bereitstellung § 122a AO)?
 5. Welche Besteuerungsgrundlagen wurden veraendert; gibt es Erlaeuterungstext am Bescheidende?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -63,11 +63,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | --- | --- | --- |
 | Adressat korrekt | Kopf | sonst Bekanntgabemangel |
 | Steuerart und Zeitraum | Kopf | sonst Inhaltsmangel |
-| Festgesetzter Betrag | Tenor | Basis fuer AdV-Antrag |
+| Festgesetzter Betrag | Tenor | Basis für AdV-Antrag |
 | Vorbehalt der Nachpruefung | Tenor / Erlaeuterungen | jederzeit Aenderung § 164 Abs. 2 AO |
 | Vorlaeufigkeitsvermerk | Erlaeuterungen | Reichweite genau pruefen |
 | Rechtsbehelfsbelehrung | Ende | fehlt oder fehlerhaft → Jahresfrist § 356 Abs. 2 AO |
-| Erlaeuterungstext | letzte Seite | Indikator fuer Streitpunkt |
+| Erlaeuterungstext | letzte Seite | Indikator für Streitpunkt |
 
 ## Abgrenzung zu anderen Skills dieses Plugins
 

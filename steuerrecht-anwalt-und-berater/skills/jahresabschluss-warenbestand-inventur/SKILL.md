@@ -19,7 +19,7 @@ description: "Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jae
 
 1. Welche Branche (Handel, Industrie, Dienstleistung)?
 2. Welche Inventur-Form ist vorgesehen?
-3. Welcher Stichtag fuer Inventur (Bilanzstichtag oder davor/danach)?
+3. Welcher Stichtag für Inventur (Bilanzstichtag oder davor/danach)?
 4. Welche Warengruppen (Roh-, Hilfs-, Betriebsstoffe, Halbfertige, Fertige Waren)?
 5. Welche Bewertungsmethode (FIFO, LIFO, gleitender Mittelpreis)?
 6. Welche Verbrauchsfolgeverfahren (Steuerbilanz nur LIFO unter Voraussetzungen)?

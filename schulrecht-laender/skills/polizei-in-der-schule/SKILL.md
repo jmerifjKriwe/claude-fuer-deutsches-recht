@@ -1,6 +1,6 @@
 ---
 name: polizei-in-der-schule
-description: "Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte und Aussageverhalten im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte und Aussageverhalten im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Polizei in der Schule

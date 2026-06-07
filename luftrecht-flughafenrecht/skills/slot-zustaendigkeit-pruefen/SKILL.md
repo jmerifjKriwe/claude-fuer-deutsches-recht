@@ -1,13 +1,13 @@
 ---
 name: slot-zustaendigkeit-pruefen
-description: "Slot-Mandat: unklar ob Fluko LBA oder Verwaltungsgericht zustaendig ist fuer Slot-Zuweisung Widerspruch oder Klage. Prueft LuftVG §§ 27a-27d FHKV VO EWG 95/93 und Verwaltungsrechtsweg und liefert Zustaendigkeits-Vermerk fuer Slot-Rechtsstreit im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Slot-Mandat: unklar ob Fluko LBA oder Verwaltungsgericht zuständig ist für Slot-Zuweisung Widerspruch oder Klage. Prueft LuftVG §§ 27a-27d FHKV VO EWG 95/93 und Verwaltungsrechtsweg und liefert Zuständigkeits-Vermerk für Slot-Rechtsstreit im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Slot – Zuständigkeit prüfen
 
 ## Arbeitsbereich
 
-Slot-Mandat: unklar ob Fluko LBA oder Verwaltungsgericht zustaendig ist fuer Slot-Zuweisung Widerspruch oder Klage. Prueft LuftVG §§ 27a-27d FHKV VO EWG 95/93 und Verwaltungsrechtsweg und liefert Zustaendigkeits-Vermerk fuer Slot-Rechtsstreit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Slot-Mandat: unklar ob Fluko LBA oder Verwaltungsgericht zuständig ist für Slot-Zuweisung Widerspruch oder Klage. Prueft LuftVG §§ 27a-27d FHKV VO EWG 95/93 und Verwaltungsrechtsweg und liefert Zuständigkeits-Vermerk für Slot-Rechtsstreit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

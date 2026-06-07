@@ -19,14 +19,14 @@ Formuliert Autoren-Rueckmeldungen kollegial und praezise: trennt klar Stops von 
 
 ## Worum geht es konkret
 
-Eine Rueckmeldung an eine Autorin entscheidet ueber die naechste Manuskriptqualitaet und ueber die Beziehung. Schlecht formuliert ist sie patronisierend, unklar, ueberfordernd. Gut formuliert ist sie ein Arbeitsauftrag: was muss zwingend geaendert werden (Stop), was sollte (wuenschenswert), was bleibt als Anregung. Dieser Skill ist die Vorlage fuer kollegial-praezise Rueckmeldungen.
+Eine Rueckmeldung an eine Autorin entscheidet ueber die naechste Manuskriptqualitaet und ueber die Beziehung. Schlecht formuliert ist sie patronisierend, unklar, ueberfordernd. Gut formuliert ist sie ein Arbeitsauftrag: was muss zwingend geaendert werden (Stop), was sollte (wuenschenswert), was bleibt als Anregung. Dieser Skill ist die Vorlage für kollegial-praezise Rueckmeldungen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil, Aussagensicherheit) eine Befund-Rueckmeldung an die Autorin geben. Klaeren Sie:
 
 1. Verhaeltnis zur Autorin (langjaehrig, neu, schwierig)?
-2. Frist fuer die Ueberarbeitung?
+2. Frist für die Ueberarbeitung?
 3. Anzahl der Befunde (10? 50? 100?)?
 4. Welche Befunde sind Stops, welche Wuensche?
 
@@ -36,14 +36,14 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 - Manuskript-Versionsstand.
 - Heftplanung mit Endabgabefrist.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Sortieren** in drei Kategorien:
  - **Stop:** muss zwingend behoben werden (z. B. fehlender Pinpoint, Mandantenname).
  - **Wuenschenswert:** sollte behoben werden (z. B. Stoerwoerter, Synonyme).
  - **Anregung:** kann behoben werden (z. B. zusaetzlicher Beleg).
 2. **Briefaufbau:**
- - Dank fuer das Manuskript, kurzes Statement zum Inhalt (was traegt!).
+ - Dank für das Manuskript, kurzes Statement zum Inhalt (was traegt!).
  - Befund-Aufbau in drei Bloecken: Stops zuerst, dann Wuensche, dann Anregungen.
  - Frist mit Datum.
  - Angebot zur Klaerung (Telefon, Mail, Termin).
@@ -62,7 +62,7 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 
 ## Praxistipps der alten Redaktion
 
-- "Beginnen Sie mit einem ehrlichen Lob - was traegt? Das oeffnet die Tuer fuer die Kritik."
+- "Beginnen Sie mit einem ehrlichen Lob - was traegt? Das oeffnet die Tuer für die Kritik."
 - Nie mehr als 20 Befunde in einer Rueckmeldung. Wenn mehr noetig, in zwei Runden.
 - Stops sind nicht verhandelbar, Wuensche sind es. Das klar kommunizieren.
 - Frist immer mit Datum, nicht "zeitnah" oder "moeglichst bald".
@@ -74,7 +74,7 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 
 > Sehr geehrte Frau Dr. Mueller,
 >
-> vielen Dank fuer Ihr Manuskript "[Titel]", das uns am 02.06.2026 erreicht hat. Wir freuen uns ueber den geplanten Beitrag und insbesondere ueber Ihre praezise Auseinandersetzung mit der EuGH-Linie zur Plattformhaftung.
+> vielen Dank für Ihr Manuskript "[Titel]", das uns am 02.06.2026 erreicht hat. Wir freuen uns ueber den geplanten Beitrag und insbesondere ueber Ihre praezise Auseinandersetzung mit der EuGH-Linie zur Plattformhaftung.
 >
 > Nach Format-, Zitier-, Stil- und Inhalts-Pruefung haben wir folgende Befunde:
 >
@@ -124,5 +124,5 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Allgemeine Korrespondenzregeln: keine spezifische juristische Quelle erforderlich.
 - BRAO § 43a Abs. 2 (bei Mandantenfreigabe).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

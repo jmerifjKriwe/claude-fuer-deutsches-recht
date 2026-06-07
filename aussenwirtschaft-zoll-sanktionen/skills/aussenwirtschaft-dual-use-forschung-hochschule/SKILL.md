@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-dual-use-forschung-hochschule
-description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung fuer akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen fuer Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk fuer Forschungsvorhaben im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung für akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen für Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk für Forschungsvorhaben im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle
 
 ## Arbeitsbereich
 
-Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung fuer akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen fuer Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk fuer Forschungsvorhaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung für akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen für Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk für Forschungsvorhaben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,21 +21,21 @@ Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung fuer akad
 
 - Universitaet kooperiert mit chinesischem Forschungsinstitut; Frage, ob Datenuebertragung genehmigungspflichtig.
 - Doktorand aus Iran erhalt Zugang zu Laboren und Geraeten; Dual-Use-Compliance pruefen.
-- Professor moechte Konferenzbeitrag ueber Laserparameter veroeffentlichen; Dual-Use-Relevanz?
+- Professor moechte Konferenzbeitrag ueber Laserparameter veröffentlichen; Dual-Use-Relevanz?
 
 ## Erste Schritte
 
 1. Forschungsgegenstand und Technologie auf Dual-Use-Listeneintrag pruefen (Anhang I VO 2021/821).
-2. Ausnahme fuer Grundlagenforschung (Art. 2 Nr. 9 VO 2021/821) und oeffentlich zugaengliche Info pruefen.
+2. Ausnahme für Grundlagenforschung (Art. 2 Nr. 9 VO 2021/821) und oeffentlich zugaengliche Info pruefen.
 3. Wissenstransfer an auslaendische Beteiligte als 'Verbringung' oder 'Ausfuhr' einordnen.
-4. Endverwender-Pruefung fuer Auslandsstudierende und Kooperationspartner.
+4. Endverwender-Pruefung für Auslandsstudierende und Kooperationspartner.
 5. Genehmigung bei BAFA beantragen falls kein Ausnahmetatbestand greift.
 6. Hochschulleitung und Forschungsfoerderer ueber Compliance-Anforderungen informieren.
 
 ## Rechtsrahmen
 
-- **Art. 2 Nr. 9 VO (EU) 2021/821**: Ausnahme fuer Grundlagenforschung.
-- **Art. 26 Abs. 1 lit. a VO (EU) 2021/821**: Ausnahme fuer oeffentlich zugaengliche Information.
+- **Art. 2 Nr. 9 VO (EU) 2021/821**: Ausnahme für Grundlagenforschung.
+- **Art. 26 Abs. 1 lit. a VO (EU) 2021/821**: Ausnahme für oeffentlich zugaengliche Information.
 - **AWG §§ 8, 18**: Genehmigungspflicht und Strafbarkeit bei Wissenstransfer.
 - **§ 9 AWV**: Genehmigungsfreie Ausfuhren (Grenzen im akademischen Bereich).
 - **VO (EU) 2021/821 Anhang I Kategorie 5**: Telekommunikation/Informationssicherheit.
@@ -46,7 +46,7 @@ Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung fuer akad
 - [ ] Grundlagenforschungs-Ausnahme sachlich anwendbar?
 - [ ] Publikation nicht bereits vor Genehmigung oeffentlich zugaenglich?
 - [ ] Endverwender auslaendischer Partner geprueft?
-- [ ] Catch-All fuer nicht-gelistete sensitive Technologien geprueft?
+- [ ] Catch-All für nicht-gelistete sensitive Technologien geprueft?
 - [ ] Hochschulleitung und Compliance-Stelle informiert?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung fuer akad
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Pruefvermerk fuer Forschungsvorhaben mit Listeneintrag-Analyse, Ausnahmenbegruendung und Genehmigungsempfehlung, sowie Hochschul-Leitfaden.
+Pruefvermerk für Forschungsvorhaben mit Listeneintrag-Analyse, Ausnahmenbegruendung und Genehmigungsempfehlung, sowie Hochschul-Leitfaden.
 
 ## Quellen
 

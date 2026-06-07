@@ -262,7 +262,7 @@ Kern-Punkte:
 - **EuGH 23.10.2014, C-359/11 (Schulz)**: Preisanpassungsklauseln in Strom-/Gaslieferungsvertraegen nach AVBEltV/GVV — Aenderungen muessen rechtzeitig mitgeteilt werden, Verbraucher muss Kuendigungsrecht haben. Quelle: curia.europa.eu (CELEX 62011CJ0359).
 - **BGH 28.10.2015, VIII ZR 158/11**: Preisanpassung Energielieferungsvertrag — § 5 Abs. 2 GasGVV Transparenz-Anforderungen; AGB-Kontrolle § 307 BGB. Quelle: dejure.org/2015,33580.
 - **BGH 24.03.2010, VIII ZR 178/08**: Preisaenderungsklauseln in Sondervertraegen Strom/Gas — wirksame Indexbindung erfordert klare Berechnungsformel. Quelle: dejure.org/2010,5874.
-- **BGH 09.02.2011, VIII ZR 295/09**: Billigkeit der Leistungsbestimmung § 315 BGB; Beweislast Versorger fuer Billigkeit. Quelle: dejure.org/2011,4286.
+- **BGH 09.02.2011, VIII ZR 295/09**: Billigkeit der Leistungsbestimmung § 315 BGB; Beweislast Versorger für Billigkeit. Quelle: dejure.org/2011,4286.
 - **EuGH 02.09.2021, C-718/18**: Unabhaengigkeit der Bundesnetzagentur als Regulierungsbehoerde. Quelle: curia.europa.eu.
 
 **Gesetzeslage 2026:** EnSiG (Energiesicherungsgesetz) — § 24 Anpassungsklauseln bei Gasmangellage (BGBl. I 2022 S. 1054); EnWG-Novellen 2023/2024.

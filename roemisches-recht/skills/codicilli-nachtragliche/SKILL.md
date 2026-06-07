@@ -1,13 +1,13 @@
 ---
 name: codicilli-nachtragliche
-description: "Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen Recht. Skill behandelt die ad-hoc-Form ihre Bindung an ein bestehendes Testament und die Bedeutung fuer Legate und Fideikommisse. Liefert Quellenmatrix."
+description: "Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen Recht. Skill behandelt die ad-hoc-Form ihre Bindung an ein bestehendes Testament und die Bedeutung für Legate und Fideikommisse. Liefert Quellenmatrix."
 ---
 
 # Rom 148 Codicilli Und Nachtragliche Erbverfuegungen
 
 ## Aufgabe
 
-Skill fuer codicilli als nachtraegliche letztwillige Verfuegungen.
+Skill für codicilli als nachtraegliche letztwillige Verfuegungen.
 
 ## Rechtsquelle
 
@@ -43,6 +43,23 @@ Skill fuer codicilli als nachtraegliche letztwillige Verfuegungen.
 1. Codicilli vorhanden?
 2. Bezug zum Testament?
 3. Inhalt zulaessig?
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

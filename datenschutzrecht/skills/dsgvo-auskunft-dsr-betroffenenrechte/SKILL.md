@@ -14,9 +14,9 @@ description: "DSGVO Auskunft DSR Betroffenenrechte im Datenschutzrecht: prüft k
 | --- | --- |
 | `dsgvo-auskunft` | Auskunftsersuchen nach Art. 15 DSGVO prüfen und beantworten wenn Betroffener Auskunft verlangt. Art. 15 12 DSGVO Betroffenenrechte. Prüfraster: Identitätsnachweis Vollständigkeitsprüfung Auskunftsinhalt Fristen Einschraenkungsgründe. Output: Auskunftserteilung oder Ablehnungsbegrundung. Abgrenzung: nicht für Auskunftsantwort-Gestaltung (dsgvo-auskunft-antwort). |
 | `dsgvo-auskunft-antwort` | DSGVO-Auskunftsantwort an Betroffenen vollständig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Prüfraster: Antwortinhalt Format Fristen Klarheit Weglassungsgründe Begleitschreiben. Output: vollständiges Auskunftsschreiben. Abgrenzung: nicht für Antragseingang und Prüfung (dsgvo-auskunft). |
-| `dsr-betroffenenrechte-prozess-leitfaden` | Leitfaden Betroffenenrechte-Prozess Art. 15 ff. DSGVO: Auskunft, Berichtigung, Loeschung, Datenuebertragbarkeit. Pruefraster fuer Verantwortlichen und Auftragsverarbeiter. |
-| `dsr-internationaler-datentransfer-spezial` | Spezialfall internationaler Datentransfer Art. 44 ff. DSGVO: Angemessenheitsbeschluss, SCC, Transfer Impact Assessment, US-Datenschutzrahmen. Pruefraster fuer Konzern. |
-| `dsr-rechtsgrundlage-bauleiter` | Bauleiter Rechtsgrundlage Art. 6 DSGVO: Einwilligung, Vertrag, Pflicht, Interesse, oeffentliches Interesse. Pruefraster fuer typische Verarbeitungstaetigkeiten. |
+| `dsr-betroffenenrechte-prozess-leitfaden` | Leitfaden Betroffenenrechte-Prozess Art. 15 ff. DSGVO: Auskunft, Berichtigung, Loeschung, Datenuebertragbarkeit. Pruefraster für Verantwortlichen und Auftragsverarbeiter. |
+| `dsr-internationaler-datentransfer-spezial` | Spezialfall internationaler Datentransfer Art. 44 ff. DSGVO: Angemessenheitsbeschluss, SCC, Transfer Impact Assessment, US-Datenschutzrahmen. Pruefraster für Konzern. |
+| `dsr-rechtsgrundlage-bauleiter` | Bauleiter Rechtsgrundlage Art. 6 DSGVO: Einwilligung, Vertrag, Pflicht, Interesse, öffentliches Interesse. Pruefraster für typische Verarbeitungstaetigkeiten. |
 
 ## Arbeitsweg
 
@@ -493,7 +493,7 @@ Thema: DSGVO Art. 82 Schadensersatz — thematisch passend für DSGVO-Kontext
 
 ## 3. `dsr-betroffenenrechte-prozess-leitfaden`
 
-**Fokus:** Leitfaden Betroffenenrechte-Prozess Art. 15 ff. DSGVO: Auskunft, Berichtigung, Loeschung, Datenuebertragbarkeit. Pruefraster fuer Verantwortlichen und Auftragsverarbeiter.
+**Fokus:** Leitfaden Betroffenenrechte-Prozess Art. 15 ff. DSGVO: Auskunft, Berichtigung, Loeschung, Datenuebertragbarkeit. Pruefraster für Verantwortlichen und Auftragsverarbeiter.
 
 # DSR: Betroffenenrechte-Prozess
 
@@ -501,13 +501,13 @@ Thema: DSGVO Art. 82 Schadensersatz — thematisch passend für DSGVO-Kontext
 - **Normen-/Quellenanker:** Art. 15, DSGVO, DSR, BGH, BVerfG.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -535,14 +535,14 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ## 4. `dsr-internationaler-datentransfer-spezial`
 
-**Fokus:** Spezialfall internationaler Datentransfer Art. 44 ff. DSGVO: Angemessenheitsbeschluss, SCC, Transfer Impact Assessment, US-Datenschutzrahmen. Pruefraster fuer Konzern.
+**Fokus:** Spezialfall internationaler Datentransfer Art. 44 ff. DSGVO: Angemessenheitsbeschluss, SCC, Transfer Impact Assessment, US-Datenschutzrahmen. Pruefraster für Konzern.
 
 # DSR: Internationaler Datentransfer
 
@@ -550,13 +550,13 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - **Normen-/Quellenanker:** Art. 44, DSGVO, SCC, US, DSR, BGH, BVerfG.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -584,14 +584,14 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ## 5. `dsr-rechtsgrundlage-bauleiter`
 
-**Fokus:** Bauleiter Rechtsgrundlage Art. 6 DSGVO: Einwilligung, Vertrag, Pflicht, Interesse, oeffentliches Interesse. Pruefraster fuer typische Verarbeitungstaetigkeiten.
+**Fokus:** Bauleiter Rechtsgrundlage Art. 6 DSGVO: Einwilligung, Vertrag, Pflicht, Interesse, öffentliches Interesse. Pruefraster für typische Verarbeitungstaetigkeiten.
 
 # DSR: Rechtsgrundlage Bauleiter
 
@@ -599,13 +599,13 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - **Normen-/Quellenanker:** Art. 6, DSGVO, DSR, Art. 9, Art. 7, Art. 8, EDSA, EU, AO, HGB, GwG.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -633,7 +633,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

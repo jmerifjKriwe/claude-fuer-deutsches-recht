@@ -12,11 +12,11 @@ Die Epochenkarte ist das zentrale Orientierungsinstrument für jeden rechtshisto
 ## Kernnormen / Kernquellen
 
 - **Sachsenspiegel** (ca. 1220-1235): Eike von Repgow, Landrecht und Lehnrecht
-- **ALR 1794**: Allgemeines Landrecht fuer die Preussischen Staaten, ca. 17000 Paragraphen
+- **ALR 1794**: Allgemeines Landrecht für die Preussischen Staaten, ca. 17000 Paragraphen
 - **ADHGB 1861**: Allgemeines Deutsches Handelsgesetzbuch, Vorlaeufer des HGB
 - **BGB 1900** (RGBl. 1896, 195): Inkrafttreten 1. Januar 1900
 - **WRV 1919** (RGBl. 1919, 1383): Weimarer Reichsverfassung
-- **GG 1949** (BGBl. 1949, 1): Grundgesetz fuer die Bundesrepublik Deutschland
+- **GG 1949** (BGBl. 1949, 1): Grundgesetz für die Bundesrepublik Deutschland
 
 ## Akteure und Institutionen
 
@@ -37,9 +37,26 @@ Die Epochenkarte ist das zentrale Orientierungsinstrument für jeden rechtshisto
 ## Methodik
 
 - Epochengrenzen nicht starr setzen: Uebergaenge sind fliessend
-- Quellenpyramide beachten: Gesetzestext, Materialien (Mugdan fuer BGB), Rechtsprechung, Lehre
+- Quellenpyramide beachten: Gesetzestext, Materialien (Mugdan für BGB), Rechtsprechung, Lehre
 - Anachronismus-Falle: Begriffe der heutigen Dogmatik nicht unkritisch auf aeltere Texte anwenden
 - Parallelueberlieferung pruefen: Partikularrecht bestand neben reichsweiten Regelungen
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 
@@ -49,4 +66,4 @@ Die Epochenkarte ist das zentrale Orientierungsinstrument für jeden rechtshisto
 
 ## Quellenregel
 
-Primaerquellen ueber documentArchiv.de (WRV, GG-Urtext), Reichsgesetzblatt via ALEX/OeNB, MGH fuer mittelalterliche Quellen. BGB-Materialien: Mugdan, Die gesamten Materialien zum BGB (6 Bde., 1899). Unsicherheit sichtbar lassen.
+Primaerquellen ueber documentArchiv.de (WRV, GG-Urtext), Reichsgesetzblatt via ALEX/OeNB, MGH für mittelalterliche Quellen. BGB-Materialien: Mugdan, Die gesamten Materialien zum BGB (6 Bde., 1899). Unsicherheit sichtbar lassen.

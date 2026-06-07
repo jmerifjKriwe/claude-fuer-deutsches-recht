@@ -15,7 +15,7 @@ description: "Grundprinzipien des OECD-Musterabkommens 2017 inkl. BEPS-Anpassung
 
 ## Kernsachverhalt
 
-Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller deutschen Doppelbesteuerungsabkommen. Mit den BEPS-Anpassungen 2017 und dem Multilateralen Instrument (MLI) seit 2018 wurden zentrale Vorschriften modifiziert, ohne dass alle bilateralen Abkommen neu verhandelt werden mussten. Dieser Skill bildet das Pruefungsraster, das in jedem laenderspezifischen Skill vorausgesetzt wird, und ist Einstiegspunkt fuer jeden grenzueberschreitenden Steuerfall.
+Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller deutschen Doppelbesteuerungsabkommen. Mit den BEPS-Anpassungen 2017 und dem Multilateralen Instrument (MLI) seit 2018 wurden zentrale Vorschriften modifiziert, ohne dass alle bilateralen Abkommen neu verhandelt werden mussten. Dieser Skill bildet das Pruefungsraster, das in jedem laenderspezifischen Skill vorausgesetzt wird, und ist Einstiegspunkt für jeden grenzueberschreitenden Steuerfall.
 
 ## Kaltstart-Rueckfragen
 
@@ -33,7 +33,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 ### Primaernormen
 
 - **OECD-Musterabkommen 2017** (mit Kommentar). Aufbau in sieben Kapiteln: Anwendungsbereich, Begriffsbestimmungen, Verteilungsartikel, Methodenartikel, besondere Bestimmungen, Schlussbestimmungen, Verstaendigung.
-- **MLI** (Multilateral Convention to Implement Tax Treaty Related Measures, 24.11.2016). Ratifikation durch Deutschland Dezember 2020 (BGBl. 2020 II S. 946), in Kraft fuer Deutschland ab 01.04.2021; Wirksamkeit fuer einzelne DBA abhaengig von kongruenter Notification beider Vertragsstaaten — aktuellen Status im BMF-DBA-Verzeichnis pruefen.
+- **MLI** (Multilateral Convention to Implement Tax Treaty Related Measures, 24.11.2016). Ratifikation durch Deutschland Dezember 2020 (BGBl. 2020 II S. 946), in Kraft für Deutschland ab 01.04.2021; Wirksamkeit für einzelne DBA abhaengig von kongruenter Notification beider Vertragsstaaten — aktuellen Status im BMF-DBA-Verzeichnis pruefen.
 - **OECD-Kommentar** zum MA 2017 (statischer vs. dynamischer Auslegungsansatz; BMF folgt grundsaetzlich dynamischer Auslegung).
 - **§ 2 AO** — Vorrang voelkerrechtlicher Vereinbarungen vor nationalem Recht, soweit unmittelbar anwendbar.
 - **§§ 34c, 34d EStG** — nationale Anrechnungsmethode und Definition auslaendischer Einkuenfte.
@@ -91,7 +91,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 1. Ist Mandant "Person" iSd Art. 3 MA (natuerliche Person, Gesellschaft, sonstige Personenvereinigung)?
 2. Ist die fragliche Steuer eine "unter das Abkommen fallende Steuer" (Art. 2)?
-3. Welche zeitliche Fassung gilt? Bei Anpassung durch MLI: gilt MLI fuer Veranlagungszeitraum?
+3. Welche zeitliche Fassung gilt? Bei Anpassung durch MLI: gilt MLI für Veranlagungszeitraum?
 
 ### Phase 2 — Ansaessigkeit (Art. 4)
 
@@ -139,7 +139,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 ## Strategie und Praxis-Tipps
 
-- Bei Mandantenfaellen mit MLI-Anpassung: stets pruefen, ob die spezifische Norm fuer den jeweiligen Staat angepasst wurde — die MLI-Reservationsregelungen beider Vertragsstaaten muessen kongruieren.
+- Bei Mandantenfaellen mit MLI-Anpassung: stets pruefen, ob die spezifische Norm für den jeweiligen Staat angepasst wurde — die MLI-Reservationsregelungen beider Vertragsstaaten muessen kongruieren.
 - Bei Personengesellschaften: deutsche transparente Sicht kollidiert haeufig mit auslaendischer intransparenter Sicht — BMF-Schreiben 26.09.2014 ist Grundlage.
 - Subject-to-Tax-Klauseln (§ 50d Abs. 9 EStG) gehen DBA-Freistellungen vor — Pruefung, ob das Welteinkommen tatsaechlich versteuert wurde.
 - Bei doppelter Ansaessigkeit bei Gesellschaften ist der Ort der tatsaechlichen Geschaeftsleitung in DBA mit alter Klausel zu pruefen; bei MLI-Anpassung gilt MAP.
@@ -149,15 +149,15 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 - **DBA-Fundstelle immer am Originaltext pruefen**: BMF-Schreiben listen das anwendbare BGBl-II-Aktenzeichen — vor jeder Memo-Endfassung ueber bundesfinanzministerium.de (Bereich Internationales Steuerrecht / Liste der DBA) abgleichen.
 - **MLI-Synopse vor Antragstellung**: OECD-MLI-Matching-Database (oecd.org) zeigt, ob beide Vertragsstaaten zur jeweiligen Norm kongruent reserviert/notifiziert haben. Ohne kongruente Notification keine MLI-Wirkung.
-- **Veranlagungszeitraum exakt fixieren**: MLI tritt nicht "ab Inkrafttreten" wirksam fuer Quellensteuern und Veranlagungssteuern ein, sondern oft mit Versatz (Q1/Q2 nachfolgendes Jahr) — Datum in jeder Memo nennen.
-- **Ansaessigkeitsbescheinigung des Wohnsitz-FA vorab beschaffen**: Standard-Formular des Wohnsitz-FA (auch auslaendischer Behoerden, z.B. IRS Form 6166, HMRC, CFR-1) — Bearbeitung im Heimatstaat dauert oft Wochen; ohne Bescheinigung scheitert die BZSt-Bearbeitung im Erstchecksuche-Schritt.
+- **Veranlagungszeitraum exakt fixieren**: MLI tritt nicht "ab Inkrafttreten" wirksam für Quellensteuern und Veranlagungssteuern ein, sondern oft mit Versatz (Q1/Q2 nachfolgendes Jahr) — Datum in jeder Memo nennen.
+- **Ansaessigkeitsbescheinigung des Wohnsitz-FA vorab beschaffen**: Standard-Formular des Wohnsitz-FA (auch auslaendischer Behörden, z.B. IRS Form 6166, HMRC, CFR-1) — Bearbeitung im Heimatstaat dauert oft Wochen; ohne Bescheinigung scheitert die BZSt-Bearbeitung im Erstchecksuche-Schritt.
 - **Q1-Antragsfenster nutzen**: Antraege beim BZSt im Q1 (Januar bis Maerz) erreichen erfahrungsgemaess kuerzere Bearbeitungszeiten als im Q4 — der Jahresendstau zieht bis Februar/Maerz nach.
 
 ## Trade-off-Tabelle
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Statischer vs. dynamischer OECD-Kommentar | Auslegung nach Kommentar zum Abschlussdatum (statisch) | Auslegung nach aktueller OECD-Kommentar-Fassung (dynamisch, BMF-Linie) | Pfad B fuer deutsche Verwaltung; bei Argumentation pro Mandant Pfad A pruefen |
+| Statischer vs. dynamischer OECD-Kommentar | Auslegung nach Kommentar zum Abschlussdatum (statisch) | Auslegung nach aktueller OECD-Kommentar-Fassung (dynamisch, BMF-Linie) | Pfad B für deutsche Verwaltung; bei Argumentation pro Mandant Pfad A pruefen |
 | MAP vs. EU-Streitbeilegung | Bilaterales Verstaendigungsverfahren Art. 25 MA — flexibler, ohne harte Frist auf Bescheid | EU-DBA-SBG — strikte Fristen, aber Schiedszwang nach 2 Jahren | bei EU-Sachverhalten parallel beide Verfahren, EU-Frist nicht opfern |
 | Freistellung vs. Anrechnung (DBA-Wahl) | Freistellung mit Progressionsvorbehalt | Anrechnung nach § 34c EStG | bei aktiven Einkuenften meist Freistellung; bei passiven/Subject-to-Tax meist Anrechnung |
 | Treaty Override (§ 50d EStG) ignorieren vs. proaktiv adressieren | Memo argumentiert nur DBA, § 50d ausgespart | Memo prueft DBA + § 50d Abs. 3/8/9/10 ausdruecklich | Pfad B — fehlende § 50d-Pruefung ist haeufigster Reviewer-Trigger |
@@ -166,11 +166,11 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 ## Was Reviewer/Pruefer triggert
 
 - **Falsche BGBl-Stelle** zum DBA: Reviewer findet im Original ein abweichendes Datum oder Protokoll. Auch das aktuelle Aenderungsprotokoll mitzitieren.
-- **MLI nicht erwaehnt**, obwohl Norm angepasst wurde: BFH und Pruefer kennen die MLI-Matching-Database. Wer fuer das DBA-USA argumentiert, ohne MLI-Status zu nennen, faellt auf — auch wenn USA MLI nicht ratifiziert haben (genau das ist im Memo festzuhalten).
+- **MLI nicht erwaehnt**, obwohl Norm angepasst wurde: BFH und Pruefer kennen die MLI-Matching-Database. Wer für das DBA-USA argumentiert, ohne MLI-Status zu nennen, faellt auf — auch wenn USA MLI nicht ratifiziert haben (genau das ist im Memo festzuhalten).
 - **Subject-to-Tax-Pruefung uebersprungen**: bei Wohnsitzwechsel in Niedrigsteuerstaaten (Portugal NHR, Italien Impatriati, Spanien Beckham) faellt das Memo, wenn § 50d Abs. 9 EStG nicht durchgesprochen ist.
 - **Personengesellschafts-Qualifikationskonflikt**: deutsche transparente Sicht vs. auslaendische intransparente Sicht — BMF-Schreiben 26.09.2014 nicht erwaehnt.
 - **Aktivitaetsklausel uebersehen**: bei Holding-Strukturen wird Freistellung beantragt, obwohl die Aktivitaetsklausel im DBA passiver Verwaltungstaetigkeit die Anrechnung zuweist.
-- **Zeitlicher Anwendungsbereich**: Memo bezieht sich auf DBA-Fassung, die fuer den Veranlagungszeitraum noch nicht oder nicht mehr galt.
+- **Zeitlicher Anwendungsbereich**: Memo bezieht sich auf DBA-Fassung, die für den Veranlagungszeitraum noch nicht oder nicht mehr galt.
 
 ## Konkretes DBA-Pruefraster (Mustertabelle)
 

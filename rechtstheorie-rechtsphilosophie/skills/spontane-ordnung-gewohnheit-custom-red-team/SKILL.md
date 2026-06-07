@@ -1,6 +1,6 @@
 ---
 name: spontane-ordnung-gewohnheit-custom-red-team
-description: "Red-Team fuer spontane Ordnung, Gewohnheit, Branchenuebung und Custom: erkennt Informationswert, Erwartungsschutz und Evolutionslogik, prueft aber Kartell-, Umwelt-, Drittwirkungs-, Traegheits- und Machtmissbrauchsrisiken."
+description: "Red-Team für spontane Ordnung, Gewohnheit, Branchenuebung und Custom: erkennt Informationswert, Erwartungsschutz und Evolutionslogik, prueft aber Kartell-, Umwelt-, Drittwirkungs-, Traegheits- und Machtmissbrauchsrisiken."
 ---
 
 # Spontane Ordnung, Gewohnheit und Custom: Red-Team
@@ -51,6 +51,23 @@ Spontan entstandene Ordnung ist nicht automatisch gut. Sie kann Informationen b�
 - Arbeitszeit-, Bonus- oder Compliance-Routinen;
 - Umwelt-, Sicherheits- und Datenschutzgewohnheiten;
 - Verwaltungspraxis ohne klare Norm.
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

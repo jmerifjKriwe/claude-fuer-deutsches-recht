@@ -8,7 +8,7 @@ description: "Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, R
 ## Triage zu Beginn
 1. Handelt es sich um eine Ersteinrichtung oder ein Wiederholungsinterview (--redo oder --check-integrations)?
 2. Welche Rechtsform und welcher Kanzleityp liegen vor (Einzelanwalt, PartG, GmbH, Rechtsabteilung)?
-3. Sind datenschutzrechtliche Grundlagen (AVV, TOM, Verarbeitungsverzeichnis) fuer den KI-Einsatz bereits geprueft?
+3. Sind datenschutzrechtliche Grundlagen (AVV, TOM, Verarbeitungsverzeichnis) für den KI-Einsatz bereits geprueft?
 4. Welche technischen Integrationen (beA, E-Mail, DMS, Buchhaltung) sind vorhanden und angebunden?
 
 ## Aktuelle Rechtsprechung
@@ -16,7 +16,7 @@ description: "Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, R
 
 ## Zentrale Normen
 - Art. 28 DSGVO — AVV mit KI-Infrastrukturanbieter: Pflicht bei jeder Auftragsverarbeitung
-- Art. 35 DSGVO — Datenschutz-Folgenabschaetzung bei hohem Risiko fuer Mandantendaten
+- Art. 35 DSGVO — Datenschutz-Folgenabschaetzung bei hohem Risiko für Mandantendaten
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag und erfordern strukturierte Kanzleiorganisation
 - § 203 StGB — Verletzung von Privatgeheimnissen: KI-Skills muessen mandatsgeheimnis-konform konfiguriert sein
 
@@ -37,7 +37,7 @@ Das Interview fragt, was für eine Kanzlei oder Rechtsabteilung betrieben wird, 
 
 ### Kaltstart-Prüfung
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` lesen:
+`~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` lesen:
 - **Existiert nicht** → Interview starten.
 - **Enthält `<!-- EINRICHTUNG PAUSIERT BEI: -->`** → Nutzer begrüßen und Fortsetzung von diesem Abschnitt anbieten.
 - **Enthält `[PLATZHALTER]`-Marker aber keinen Pause-Kommentar** → Template nie abgeschlossen; Neustart oder Fortsetzung von den Platzhaltern anbieten.
@@ -51,7 +51,7 @@ Vor der Orientierung: Falls das Arbeitsverzeichnis sich innerhalb eines Projekts
 
 ### Kanzleiprofil prüfen
 
-Prüfen ob `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.md` existiert:
+Prüfen ob `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-profil.md` existiert:
 - **Existiert:** Lesen. Einzeilige Bestätigung anzeigen: "Sie sind [Name], [Kanzleityp], [Rechtsgebiete]. Richtig? (Oder sagen Sie 'aktualisieren' um das geteilte Profil zu ändern.)" Bei Bestätigung Kanzlei-Fragen überspringen.
 - **Existiert nicht:** Kanzlei-Fragen stellen und in geteiltes Profil schreiben.
 
@@ -150,7 +150,7 @@ Kurz: Profil + installierte Liste + Registry-Präferenzen. Gemäß Template in `
 > - **Einen Skill gegen das Framework prüfen** — Skills-QA durchführen. Ausprobieren: `/kanzlei-builder-hub:skills-qualitätsprüfung`
 
 Abschließen mit:
-> Fertig. Ihre Konfiguration liegt unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` — eine Klartextdatei, die Sie direkt lesen und bearbeiten können. Alles kann geändert werden:
+> Fertig. Ihre Konfiguration liegt unter `~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` — eine Klartextdatei, die Sie direkt lesen und bearbeiten können. Alles kann geändert werden:
 >
 > - Datei direkt bearbeiten für schnelle Änderungen
 > - `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview --redo` für vollständiges Wiederholungsinterview

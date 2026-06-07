@@ -22,9 +22,9 @@ Dieser Skill stellt höfliche, sachliche Formulierungshilfen für internationale
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot gilt sprachunabhaengig
-- Art. 56, 57 AEUV — Dienstleistungsfreiheit fuer grenzueberschreitende Anwaltskorrespondenz
+- Art. 56, 57 AEUV — Dienstleistungsfreiheit für grenzueberschreitende Anwaltskorrespondenz
 - § 184 GVG — Gerichtssprache Deutsch; Ausnahmen bei internationalen Sachverhalten
-- Richtlinie 77/249/EWG — Dienstleistungsrichtlinie fuer Anwaelte (grenzueberschreitend)
+- Richtlinie 77/249/EWG — Dienstleistungsrichtlinie für Anwaelte (grenzueberschreitend)
 
 ## Quellenregel
 

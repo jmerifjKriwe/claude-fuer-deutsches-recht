@@ -19,16 +19,16 @@ Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlic
 
 ## Mandantenfall
 
-- CFO eines Stahlimporteurs fragt nach Kostenplanung fuer CBAM-Zertifikate ab 2026.
-- Importeur hat im Drittland CO2-Abgaben fuer Produktion gezahlt; Anrechnung auf CBAM pruefen.
+- CFO eines Stahlimporteurs fragt nach Kostenplanung für CBAM-Zertifikate ab 2026.
+- Importeur hat im Drittland CO2-Abgaben für Produktion gezahlt; Anrechnung auf CBAM pruefen.
 - Unternehmen moechte CBAM-Zertifikate vorausschauend kaufen; Preisrisiko einschaetzen.
 
 ## Erste Schritte
 
-1. Einfuhrmenge und eingebettete Emissionen (Tonnen CO2e) fuer das Planjahr ermitteln.
+1. Einfuhrmenge und eingebettete Emissionen (Tonnen CO2e) für das Planjahr ermitteln.
 2. Anrechenbare Drittland-CO2-Preise (tatsaechlich gezahlt, dokumentiert) herausrechnen.
 3. Erforderliche Netto-Zertifikatsanzahl berechnen: Emissionen minus Anrechnung.
-4. CBAM-Konto beim nationalen Zustaendigkeitspunkt einrichten (in DE: Zoll/BAFA).
+4. CBAM-Konto beim nationalen Zuständigkeitspunkt einrichten (in DE: Zoll/BAFA).
 5. Zertifikatsbeschaffungsstrategie: Einzelkauf vs. Hedging-Strategie bei ETS-Preisschwankungen.
 6. Jaehrliche Abgabepflicht bis 31. Mai nach Ende des Vorjahrs einplanen.
 
@@ -37,15 +37,15 @@ Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlic
 - **Art. 6-8 VO (EU) 2023/956**: CBAM-Zertifikate, Beschaffung und Abgabe.
 - **Art. 9 VO (EU) 2023/956**: Anrechnung gezahlter CO2-Preise im Drittland.
 - **Art. 22 VO (EU) 2023/956**: Kauf und Verkauf von CBAM-Zertifikaten.
-- **Richtlinie 2003/87/EG ETS**: Bezugspreis fuer CBAM-Zertifikate.
+- **Richtlinie 2003/87/EG ETS**: Bezugspreis für CBAM-Zertifikate.
 - **Art. 26 VO (EU) 2023/956**: Strafzahlungen bei nicht abgegebenen Zertifikaten.
 
 ## Pruef-Raster
 
-- [ ] Emissionsmenge fuer Planjahr kalkuliert?
+- [ ] Emissionsmenge für Planjahr kalkuliert?
 - [ ] Anrechenbare Drittland-CO2-Preise belegt?
 - [ ] CBAM-Konto eingerichtet?
-- [ ] Beschaffungsstrategie fuer Zertifikate bestimmt (Spot vs. Hedging)?
+- [ ] Beschaffungsstrategie für Zertifikate bestimmt (Spot vs. Hedging)?
 - [ ] Abgabepflicht 31. Mai eingeplant?
 - [ ] Strafzahlungsrisiko bei Nichtabgabe bewertet?
 
@@ -60,7 +60,7 @@ Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlic
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

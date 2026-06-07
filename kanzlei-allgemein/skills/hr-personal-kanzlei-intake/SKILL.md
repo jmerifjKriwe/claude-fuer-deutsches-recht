@@ -30,7 +30,7 @@ Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und 
 - §§ 620-630 BGB — Dienstvertrag: Kuendigung, Zeugnis, Grundpflichten
 - § 23 KSchG — Geltungsbereich des Kuendigungsschutzgesetzes ab 10 Beschaeftigte
 - § 3 BUrlG — Gesetzlicher Mindesturlaub (24 Werktage)
-- § 26 BDSG — Datenverarbeitung fuer Zwecke des Beschaeftigungsverhaeltnisses
+- § 26 BDSG — Datenverarbeitung für Zwecke des Beschaeftigungsverhaeltnisses
 
 ## Quellenregel
 

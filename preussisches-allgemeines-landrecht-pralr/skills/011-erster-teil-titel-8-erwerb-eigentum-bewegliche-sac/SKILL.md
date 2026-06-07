@@ -36,7 +36,7 @@ ALR I 8 (in der Eigentumsdefinition) — Eigentumserwerb beweglicher Sachen.
 ## Anders als BGB
 
 - Kein striktes Abstraktionsprinzip.
-- Wirksamkeit des Grundgeschaefts ist Voraussetzung fuer Eigentumserwerb.
+- Wirksamkeit des Grundgeschaefts ist Voraussetzung für Eigentumserwerb.
 
 ## Subsumtionsbeispiel: Kauf eines Pferdes 1830
 

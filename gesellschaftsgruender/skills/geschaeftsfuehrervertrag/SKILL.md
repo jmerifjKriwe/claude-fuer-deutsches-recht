@@ -40,7 +40,7 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 - **§ 6 GmbHG** — Organstellung des Geschaeftsfuehrers
 - **§ 35 GmbHG** — Vertretung der Gesellschaft durch GF
-- **§ 38 GmbHG** — Jederzeits-Abberufung des GF (mit Folgen fuer das Anstellungsverhaeltnis)
+- **§ 38 GmbHG** — Jederzeits-Abberufung des GF (mit Folgen für das Anstellungsverhaeltnis)
 - **§ 43 GmbHG** — Haftung des GF bei Pflichtverstoessen (Fahrlassigkeit, Vorsatz)
 - **§ 46 Nr. 5 GmbHG** — Bestellung des GF durch Gesellschafterbeschluss
 - **§ 626 BGB** — Ausserordentliche Kuendigung aus wichtigem Grund (Dienstverhaeltnis)
@@ -61,11 +61,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 2 | SV-Status bestimmt? | § 7a SGB IV | Statusfeststellungsverfahren empfohlen |
 | 3 | vGA-Fremdvergleich bei Gesellschafter-GF | § 8 Abs. 2 KStG | Angemessene Verguetung; Erdienungszeitraum Pension |
 | 4 | Wettbewerbsverbot mit Karenz? | § 74 II HGB analog | Ohne Karenz: Klausel unverbindlich |
-| 5 | Kuendigung und Befristung | §§ 620, 626 BGB | Sonderkuendigungsrecht fuer wichtige Gruende |
+| 5 | Kuendigung und Befristung | §§ 620, 626 BGB | Sonderkuendigungsrecht für wichtige Gruende |
 | 6 | Kopplung Abberufung-Kuendigung | § 38 GmbHG | Explizit im Vertrag regeln |
 | 7 | D&O-Versicherung vereinbart? | § 43 GmbHG | GF-Haftungsrisiko abgedeckt? |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Vor Notar-Termin:** Vertragsrahmen (Verguetung, Befristung, Ressort) mit Gesellschaftern abstimmen.
 2. **Gesellschafterbeschluss zur Bestellung** (Paragraf 46 Nr. 5 GmbHG) formulieren — separate Beurkundung oder Teil der Gruendung.
@@ -119,13 +119,13 @@ des Folgejahres zu nehmen.
 
 § 5 Wettbewerbsverbot
 (1) Waehrend Vertragsdauer: kein Wettbewerb.
-(2) Nachvertraglich: 12 Monate, fuer Branche [X]
+(2) Nachvertraglich: 12 Monate, für Branche [X]
 in [GEBIET].
 (3) Karenzentschaedigung: 50 % der zuletzt
 monatlich bezogenen Bezuege.
 
 § 6 D&O-Versicherung
-Die Gesellschaft schliesst fuer den GF eine D&O-
+Die Gesellschaft schliesst für den GF eine D&O-
 Versicherung mit einer Deckungssumme von mindestens
 [BETRAG] EUR ab. Eigenbehaltsregelung: [X] EUR.
 
@@ -141,7 +141,7 @@ Grund (§ 626 BGB) jederzeit moeglich.
 - Abberufung ohne Kuendigung: Anstellungsvertrag laeuft weiter; Gehaltsanspruch besteht bis Kuendigungsfrist
 - Wettbewerbsverbot ohne Karenz: unverbindlich; GF kann sofort konkurrenzieren
 - Pensionszusage ohne Fremdvergleich: vGA; Steuernachforderung bis 4 Jahre rueckwirkend
-- SV-Status nicht geprueft: Nachforderung bis 4 Jahre (§ 25 SGB IV); strafrechtliche Risiken fuer GF
+- SV-Status nicht geprueft: Nachforderung bis 4 Jahre (§ 25 SGB IV); strafrechtliche Risiken für GF
 
 ## Quellen und Vertiefung
 

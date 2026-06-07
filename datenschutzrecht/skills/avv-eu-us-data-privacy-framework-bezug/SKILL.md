@@ -1,6 +1,6 @@
 ---
 name: avv-eu-us-data-privacy-framework-bezug
-description: "Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine fuer DPF und Fallback."
+description: "Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine für DPF und Fallback."
 ---
 
 # EU-US Data Privacy Framework (DPF) im AVV
@@ -13,7 +13,7 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 
 - US-Anbieter wird als Auftragsverarbeiter beauftragt oder eingebunden.
 - Pruefung, ob Anbieter unter dem EU-US Data Privacy Framework selbstzertifiziert ist.
-- Vertragsklausel fuer DPF-Nutzung und SCC-Fallback ist erforderlich.
+- Vertragsklausel für DPF-Nutzung und SCC-Fallback ist erforderlich.
 - Aufsichtsbehoerde fragt nach Drittlandtransfer-Absicherung.
 
 ## Rechtlicher Rahmen
@@ -21,9 +21,9 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 ueber die Angemessenheit des Schutzniveaus personenbezogener Daten nach dem EU-US Data Privacy Framework – verifiziert.
 - Art. 45 DSGVO – Angemessenheitsbeschluss.
 - Art. 46 DSGVO – Geeignete Garantien (SCC, BCR) als Fallback.
-- Art. 49 DSGVO – Ausnahmen fuer bestimmte Faelle.
+- Art. 49 DSGVO – Ausnahmen für bestimmte Faelle.
 - Executive Order 14086 vom 07.10.2022 – US-Schutzgarantien (signal intelligence safeguards, DPRC).
-- EuGH C-311/18 (Schrems II) – verifiziert: Vorgaengerregelung Privacy Shield fuer unwirksam erklaert.
+- EuGH C-311/18 (Schrems II) – verifiziert: Vorgaengerregelung Privacy Shield für unwirksam erklaert.
 
 ## Ablauf / Checkliste
 
@@ -31,11 +31,11 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
  - Liste pruefen ueber dataprivacyframework.gov.
  - Status: aktiv ("Active") versus inaktiv ("Inactive Participant").
  - Geltungsbereich der Selbstzertifizierung: HR-Daten und/oder Non-HR-Daten?
- - Im Listing fuer den konkreten Datentypus zertifiziert?
+ - Im Listing für den konkreten Datentypus zertifiziert?
 
 2. **Vertragsabsicherung.**
  - DPF-Selbstzertifizierung des Anbieters wird im AVV ausdruecklich referenziert.
- - SCC nach Beschluss (EU) 2021/914 als Fallback fuer den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
+ - SCC nach Beschluss (EU) 2021/914 als Fallback für den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
  - Transfer Impact Assessment auch bei DPF-Nutzung empfohlen, weil DPF politisch und rechtlich angreifbar bleibt (Schrems-Linie).
 
 3. **Sub-AV-Kette pruefen.**

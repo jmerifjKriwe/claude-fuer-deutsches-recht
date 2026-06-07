@@ -15,7 +15,7 @@ description: "Facto im Plugin Fachanwalt Vergaberecht: prüft konkret De-facto-V
 | `fachanwalt-vergaberecht-de-facto-vergabe-klage` | De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: § 135 GWB (Unwirksamkeit), §§ 160 ff. GWB (Nachprüfungsantrag VK), § 132 GWB (wesentliche Vertragsaenderung). Prüfraster: Aufdeckung der direkten Vergabe, Schadensersatzanspruch § 181 GWB, Unwirksamkeitsklage, Ausnahme-Tatbestaende. Output Klageschrift-Geruest, Schadensbeschreibung. Abgrenzung: Regulaerer Nachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Unterschwelle siehe mandat-triage-vergaberecht. |
 | `fachanwalt-vergaberecht-eignungspruefung` | Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: § 122 GWB (Eignungskriterien), §§ 123 und 124 GWB (Ausschlussgründe), § 125 GWB (Selbstreinigung), § 50 VgV (EEE). Prüfraster: Befähigung, Zuverlässigkeit, wirtschaftliche/finanzielle/technische Leistungsfähigkeit, Eigenerklarung EEE, Selbstreinigung. Output Eignungsnachweis-Paket oder Angriff gegen Ausschluss. Abgrenzung: Gesamtnachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; IT-Sicherheits-Eignung siehe fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2. |
 | `fachanwalt-vergaberecht-freiberufliche-leistungen-hoai` | Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Rechtsanwaelte, Wirtschaftspruefer): Auftraggeber will HOAI- und vergaberechtskonform vergeben. Normen: § 50 VgV (Freiberufliche Leistungen), §§ 73 ff. VgV (Planungswettbewerb), HOAI 2021 (nach EuGH C-377/17 BGH VII ZR 174/19 als Orientierung), RPW 2013. Pruefraster: Verfahrenswahl Verhandlungsverfahren mit/ohne TW, Honorar als Wertungskriterium, Mindest- und Hoechstsaetze nach EuGH-Entscheidung, Planungswettbewerb RPW. Output Verfahrensentwurf, Honorar-Wertungsmodul. Abgrenzung: Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema. |
-| `fachanwalt-vergaberecht-inhouse-interkommunal` | Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: oeffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie ueber eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit fuer Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage. |
+| `fachanwalt-vergaberecht-inhouse-interkommunal` | Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie ueber eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit für Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage. |
 
 ## Arbeitsweg
 
@@ -148,10 +148,10 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 
 ## 9) BGH-/EuGH-Linien (Stand 05/2026, verifiziert curia.europa.eu / openjur.de)
 
-- **EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns)**: Begriff des oeffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen oeffentlichen Rechts. Quelle: curia.europa.eu (CELEX 62007CJ0300).
+- **EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns)**: Begriff des öffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen öffentlichen Rechts. Quelle: curia.europa.eu (CELEX 62007CJ0300).
 - **EuGH 19.12.2018, C-216/17 (Coopservice)**: Ausschreibungspflicht Rahmenvereinbarungen; Volumenbegrenzungen zwingend. Quelle: curia.europa.eu.
 - **EuGH 28.10.2020, C-521/18 (Pegaso)**: Vergabe ohne wettbewerbliches Verfahren — De-facto-Vergabe ist nichtig nach Art. 2d RL 89/665 / § 135 GWB, wenn EU-weite Bekanntmachung pflichtwidrig unterblieben ist. Quelle: curia.europa.eu.
-- **EuGH 27.11.2019, C-402/18 (Tedeschi)**: Direktvergabe — Inhouse-Voraussetzungen § 108 GWB / Art. 12 RL 2014/24 strikt: Kontrolle wie eigene Stelle, > 80% Taetigkeit fuer kontrollierende Behoerde, keine private Kapitalbeteiligung. Quelle: curia.europa.eu.
+- **EuGH 27.11.2019, C-402/18 (Tedeschi)**: Direktvergabe — Inhouse-Voraussetzungen § 108 GWB / Art. 12 RL 2014/24 strikt: Kontrolle wie eigene Stelle, > 80% Taetigkeit für kontrollierende Behörde, keine private Kapitalbeteiligung. Quelle: curia.europa.eu.
 
 Aktuelle OLG-Vergabesenat-Entscheidungen vor Ausgabe per olg-... bzw. openjur.de mit Aktenzeichen und Datum verifizieren.
 
@@ -183,7 +183,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Bestand Auftraggeberpflicht zur Ausschreibung (kein Inhouse, kein In-state)?
 4. Wurde § 135 GWB Feststellungsantrag rechtzeitig gestellt (30 Tage nach Bekanntmachung, max. 6 Monate)?
 5. Alternativ: § 181 GWB Schadensersatz?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Output-Template Antrag Feststellung Unwirksamkeit § 135 GWB
 **Adressat:** Vergabekammer — Tonfall: sachlich-juristisch
@@ -240,7 +240,7 @@ des Auftrags im Amtsblatt der EU gestellt. Hilfsweise binnen
 6. Wird die Eignungsleihe § 47 VgV in Anspruch genommen — liegt Verfügungserklärung des Dritten vor?
 7. Sind die Eignungskriterien verhältnismäßig zum Auftrag (§ 122 Abs. 4 GWB), oder diskriminierend?
 8. Wird die Auswahlentscheidung bei eingeschränkter Teilnehmerzahl (nichtoffenes Verfahren) beanstandet?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -478,7 +478,7 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 - VgV §§ 42–48, 50, 56 (Verfahrensregeln Eignung); §§ 47 (Eignungsleihe), 48 (PQ-Verzeichnis)
 - VO (EU) 2014/24, insbes. Art. 57 (Ausschlussgruende); umgesetzt in §§ 123, 124 GWB
 - EuGH C-376/21 (03.06.2022 — Falschangaben), C-66/22 (21.12.2023 — Wettbewerbsverstoss), C-66/20 (12.05.2022 — Selbstreinigung) — Volltext curia.europa.eu
-- OLG-Vergabesenate (oeffentliche Datenbanken der Landesjustiz)
+- OLG-Vergabesenate (öffentliche Datenbanken der Landesjustiz)
 - VK Bund: bundeskartellamt.de/Vergabe
 
 ## Vertiefung: Triage und Output-Template Eignungspruefung
@@ -603,7 +603,7 @@ EuGH C-377/17 und BGH VII ZR 174/19 ueber curia.europa.eu und bundesgerichtshof.
 
 ## 4. `fachanwalt-vergaberecht-inhouse-interkommunal`
 
-**Fokus:** Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: oeffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie ueber eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit fuer Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
+**Fokus:** Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie ueber eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit für Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
 
 # Inhouse und interkommunale Zusammenarbeit
 
@@ -611,10 +611,10 @@ EuGH C-377/17 und BGH VII ZR 174/19 ueber curia.europa.eu und bundesgerichtshof.
 Inhouse-Geschaeft oder horizontale interkommunale Zusammenarbeit als Ausnahme von der Ausschreibungspflicht pruefen. Fehlt eine Ausnahme, droht De-facto-Vergabe und § 135 GWB-Unwirksamkeit.
 
 ## Einstieg
-1. Wer ist Auftraggeber, wer ist Auftragnehmer (gleicher oeffentlicher Auftraggeber, Tochter, Schwester-Kommune)?
+1. Wer ist Auftraggeber, wer ist Auftragnehmer (gleicher öffentlicher Auftraggeber, Tochter, Schwester-Kommune)?
 2. Beherrschungsstruktur (Anteile, Beirats-/Aufsichtsmehrheit)?
 3. Privater Kapitalanteil am Auftragnehmer?
-4. Wesentlichkeit: Mindestens 80 Prozent Taetigkeit fuer kontrollierende oeffentliche Hand?
+4. Wesentlichkeit: Mindestens 80 Prozent Taetigkeit für kontrollierende öffentliche Hand?
 5. Bei horizontaler Kooperation: gemeinsames Ziel im Gemeinwohlinteresse?
 
 ## Pruefraster Inhouse § 108 Abs. 1-5 GWB
@@ -622,10 +622,10 @@ Inhouse-Geschaeft oder horizontale interkommunale Zusammenarbeit als Ausnahme vo
 Auftraggeber muss aehnliche Kontrolle wie ueber eigene Dienststelle ausueben (Teckal-Doktrin EuGH C-107/98).
 - Personelle Steuerung: Bestellung der Mehrheit der Leitungsorgane.
 - Strategische Steuerung: Weisungsbefugnis.
-- Auch durch gemeinsame Kontrolle mehrerer oeffentlicher Auftraggeber moeglich (§ 108 Abs. 4 GWB).
+- Auch durch gemeinsame Kontrolle mehrerer öffentlicher Auftraggeber moeglich (§ 108 Abs. 4 GWB).
 
 ### 2. Wesentlichkeitstest
-Mindestens 80 Prozent der Taetigkeit des kontrollierten Auftragnehmers fuer die kontrollierende oeffentliche Hand. Restliche Taetigkeiten nur nebenbei (EuGH C-340/04 Carbotermo).
+Mindestens 80 Prozent der Taetigkeit des kontrollierten Auftragnehmers für die kontrollierende öffentliche Hand. Restliche Taetigkeiten nur nebenbei (EuGH C-340/04 Carbotermo).
 
 ### 3. Privatkapital
 Grundsaetzlich keine private Beteiligung. Ausnahme § 108 Abs. 1 Nr. 3 GWB: bestimmte nicht-kontrollierende Beteiligungen aufgrund gesetzlicher Anordnung.
@@ -633,7 +633,7 @@ Grundsaetzlich keine private Beteiligung. Ausnahme § 108 Abs. 1 Nr. 3 GWB: best
 ## Pruefraster Horizontale Kooperation § 108 Abs. 6 GWB
 1. Auftraggeber kooperieren auf vertraglicher Basis.
 2. Kooperation dient gemeinsamem Gemeinwohlziel.
-3. Kooperation wird von rein oeffentlichen Erwaegungen geleitet.
+3. Kooperation wird von rein öffentlichen Erwaegungen geleitet.
 4. Weniger als 20 Prozent der vertragsgegenstaendlichen Taetigkeiten werden am Markt erbracht (EuGH C-480/06 Hamburg-Stadtreinigung).
 
 ## Vertragliche Umsetzung

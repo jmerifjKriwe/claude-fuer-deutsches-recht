@@ -5,6 +5,22 @@ description: "PrALR: Geltungsbereich, subsidiäre Anwendung, Städte, Provinzen,
 
 # Geltungsbereich
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Aufgabe
 
 Beginne jede Anwendung mit Ort, Jahr, Materie und vorrangigem Partikularrecht.
@@ -48,17 +64,17 @@ Pruefung: Erstens gilt Magdeburger Provinzialrecht (Recht der Stadt Magdeburg, b
 
 ### Subsumtionsbeispiel: Bauernguter in Pommern 1880
 Sachverhalt: Bauerngutverkauf.
-Pruefung: Pommersches Provinzialrecht enthaelt Sondervorschriften fuer Bauernguter (Heimstaette, Erbenfolge). Diese sind vor ALR zu beachten.
+Pruefung: Pommersches Provinzialrecht enthaelt Sondervorschriften für Bauernguter (Heimstaette, Erbenfolge). Diese sind vor ALR zu beachten.
 
 ### Methodischer Reflex
 - Beim Quellenvergleich immer pruefen: Welches Provinzialrecht? Welches Stadtrecht? Welches Gewohnheitsrecht?
 - ALR ist nur **default**.
-- Erst nach BGB-Inkrafttreten 1900 wird das Lokalrecht verdraengt — und auch das nur teilweise (Art. 109 EGBGB Vorbehalt fuer Landesrecht).
+- Erst nach BGB-Inkrafttreten 1900 wird das Lokalrecht verdraengt — und auch das nur teilweise (Art. 109 EGBGB Vorbehalt für Landesrecht).
 
 ### Heutige Fortwirkung
 - Bei Erbschaftsfragen vor 1900: alte Provinzialrechte beachten.
 - Bei Grundstuecksrechten vor 1900: Provinzialrechte beachten.
-- In der Praxis selten, aber bei langen Verjaehrungsfristen denkbar (z. B. Erbschaftsansprueche aus alten Adelsfamilien).
+- In der Praxis selten, aber bei langen Verjährungsfristen denkbar (z. B. Erbschaftsansprueche aus alten Adelsfamilien).
 
 ## Ausgabeformat
 

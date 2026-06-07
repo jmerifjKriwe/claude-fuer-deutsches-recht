@@ -19,7 +19,7 @@ Prüfungslinie für klimaklagen verbandsklage umwrg: prüft Normtext, Nutzeranga
 
 ## Zweck
 
-Skill fuer Klimaklagen (BVerfG-Klimabeschluss 1 BvR 2656/18, 24.03.2021), Verbandsklagen anerkannter Umweltvereinigungen nach §§ 1, 2 UmwRG, sowie KSG-Klagen auf Sofortprogramme (BVerwG 30.11.2023, 8 C 7.22). Im Fokus: UVP-/SUP-Pflicht-Streit, BImSchG-Anlagengenehmigungen mit Klimabezug, KSG-Vollzugsklagen.
+Skill für Klimaklagen (BVerfG-Klimabeschluss 1 BvR 2656/18, 24.03.2021), Verbandsklagen anerkannter Umweltvereinigungen nach §§ 1, 2 UmwRG, sowie KSG-Klagen auf Sofortprogramme (BVerwG 30.11.2023, 8 C 7.22). Im Fokus: UVP-/SUP-Pflicht-Streit, BImSchG-Anlagengenehmigungen mit Klimabezug, KSG-Vollzugsklagen.
 
 Zentrale verifizierte Eckentscheidungen: BVerfG 1 BvR 2656/18, BVerwG 8 C 7.22, EGMR Grosse Kammer 09.04.2024 (KlimaSeniorinnen Schweiz, Nr. 53600/20), EuGH C-243/15 + C-664/15 zu Aarhus. Konkrete Aktenzeichen vor Ausgabe ueber bundesverfassungsgericht.de / bverwg.de / curia.europa.eu / echr.coe.int verifizieren.
 
@@ -35,13 +35,13 @@ Zentrale verifizierte Eckentscheidungen: BVerfG 1 BvR 2656/18, BVerwG 8 C 7.22, 
 
 ### Typ 1 — Klimaklage individuelle Verfassungsbeschwerde
 
-- **BVerfG 24.03.2021, 1 BvR 2656/18 u.a. (Klimabeschluss)** — § 3 Abs. 1 S. 2 und § 4 Abs. 1 S. 3 KSG i.V.m. Anlage 2 KSG, soweit sie die nationalen Reduktionsziele fuer Zeitraeume nach 2030 nicht hinreichend konkretisieren, sind mit Grundrechten (intertemporaler Freiheitsschutz) unvereinbar. Quelle: bundesverfassungsgericht.de / dejure.org/2021,7050.
+- **BVerfG 24.03.2021, 1 BvR 2656/18 u.a. (Klimabeschluss)** — § 3 Abs. 1 S. 2 und § 4 Abs. 1 S. 3 KSG i.V.m. Anlage 2 KSG, soweit sie die nationalen Reduktionsziele für Zeitraeume nach 2030 nicht hinreichend konkretisieren, sind mit Grundrechten (intertemporaler Freiheitsschutz) unvereinbar. Quelle: bundesverfassungsgericht.de / dejure.org/2021,7050.
 - **Argumentation:** intertemporale Freiheits-Sicherung — heutige unzureichende Klimapolitik beschränkt künftige Freiheits-Spielräume
 
 ### Typ 2 — Klimaklage gegen Bundesregierung
 
 - Verwaltungsgerichtliche Klage auf Erlass von Klimaschutz-Maßnahmen
-- **BVerwG 30.11.2023, 8 C 7.22** (Klage DUH/BUND auf Klimaschutz-Sofortprogramm § 8 KSG 2021): Aktivlegitimation und Klagebefugnis der nach § 3 UmwRG anerkannten Umweltvereinigungen fuer den Klimaschutzprogramm-Anspruch nach KSG. Quelle: bverwg.de — Pressemitteilung 79/2023.
+- **BVerwG 30.11.2023, 8 C 7.22** (Klage DUH/BUND auf Klimaschutz-Sofortprogramm § 8 KSG 2021): Aktivlegitimation und Klagebefugnis der nach § 3 UmwRG anerkannten Umweltvereinigungen für den Klimaschutzprogramm-Anspruch nach KSG. Quelle: bverwg.de — Pressemitteilung 79/2023.
 - OVG Berlin-Brandenburg (Vorinstanzen DUH/BUND vs. BMU) — Aktenzeichen vor Ausgabe verifizieren ueber berlin.de/justiz
 - KSG-Aenderungsgesetz 2024 (BGBl. I 2024 S. 251) — Sofortprogramm-Mechanismus § 8 KSG modifiziert (Sektorenzielung gelockert, jahresbezogene Sektorgrenze ueberarbeitet)
 
@@ -81,7 +81,7 @@ Zentrale verifizierte Eckentscheidungen: BVerfG 1 BvR 2656/18, BVerwG 8 C 7.22, 
 
 - Verbandsklage ohne eigene Rechtsverletzung
 - Aarhus-Konvention Art. 9 Abs. 2 — VO/RL 2003/35/EG
-- **EuGH 08.11.2016, C-243/15 (Lesoochranárske)**: Aarhus-Konvention Art. 9 Abs. 3 verlangt effektiven Rechtsschutz fuer Umweltverbaende; nationales Recht muss unionsrechtskonform ausgelegt werden. Quelle: curia.europa.eu.
+- **EuGH 08.11.2016, C-243/15 (Lesoochranárske)**: Aarhus-Konvention Art. 9 Abs. 3 verlangt effektiven Rechtsschutz für Umweltverbaende; nationales Recht muss unionsrechtskonform ausgelegt werden. Quelle: curia.europa.eu.
 - **EuGH 20.12.2017, C-664/15 (Protect)**: Umweltverband muss zumindest objektive Rechtsverletzungen ruegen koennen; Aarhus Art. 9 Abs. 3 ist unmittelbar anwendbar. Quelle: curia.europa.eu.
 
 ### Materielle Anforderungen Klage-Erfolg
@@ -126,7 +126,7 @@ Quelle: bundesverfassungsgericht.de (Volltext) / dejure.org/2021,7050. Nachfolge
 
 ### Klage gegen UVP-Pflicht-Verneinung
 
-- **BVerwG 18.07.2019, 7 C 26.17**: Verfahrensfehler bei UVP-Vorpruefung begruenden Klagerecht nach § 4 UmwRG; Aufhebung jedoch nur bei moeglicher Kausalitaet fuer das Ergebnis.
+- **BVerwG 18.07.2019, 7 C 26.17**: Verfahrensfehler bei UVP-Vorpruefung begruenden Klagerecht nach § 4 UmwRG; Aufhebung jedoch nur bei moeglicher Kausalitaet für das Ergebnis.
 - **BVerwG 17.12.2020, 4 C 5.19**: Umfang und Anforderungen artenschutzrechtliche Pruefung (saP); klimaschutzrechtliche Belange im Rahmen § 5 BImSchG-Vorsorge.
 - Anhörungs-Mangel begründet selbstständig Klage (§ 4 Abs. 1, 1a UmwRG)
 
@@ -159,7 +159,7 @@ Quelle: bundesverfassungsgericht.de (Volltext) / dejure.org/2021,7050. Nachfolge
 
 - Zugang zu Gerichten für Umweltverbände
 - Effektivitätsprinzip
-- **EuGH 08.11.2016, C-243/15 (Lesoochranárske)**: Art. 9 Abs. 3 Aarhus-Konvention verpflichtet zur unionsrechtskonformen Auslegung; effektiver Rechtsschutz fuer Umweltverbaende. Quelle: curia.europa.eu.
+- **EuGH 08.11.2016, C-243/15 (Lesoochranárske)**: Art. 9 Abs. 3 Aarhus-Konvention verpflichtet zur unionsrechtskonformen Auslegung; effektiver Rechtsschutz für Umweltverbaende. Quelle: curia.europa.eu.
 - **EuGH 20.12.2017, C-664/15 (Protect)**: Art. 9 Abs. 3 Aarhus-Konvention unmittelbar anwendbar — Verband muss objektive Rechtsverletzung ruegen koennen. Quelle: curia.europa.eu.
 
 ### Compliance-Komitee

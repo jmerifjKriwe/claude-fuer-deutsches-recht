@@ -29,7 +29,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -142,13 +142,13 @@ Bereitet Management Presentations, Expert Calls und Transkripte für DD und SPA-
 ## Triage
 
 1. Handelt es sich um eine Management Presentation, einen Expert Call mit Sachverstaendigem oder ein Kunden-Interview?
-2. Ist das Transkript fuer SPA-Garantien oder fuer Disclosure-Zwecke relevant?
-3. Liegt eine Vertraulichkeitsvereinbarung (NDA) fuer den Expert Call vor?
+2. Ist das Transkript für SPA-Garantien oder für Disclosure-Zwecke relevant?
+3. Liegt eine Vertraulichkeitsvereinbarung (NDA) für den Expert Call vor?
 4. Handelt es sich um einen Expert Call mit Personen, die moeglicherweise Insiderinformationen haben (boersennotiertes Unternehmen)?
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 17-18 GeschGehG — Vertraulichkeit in Expert Calls: Informationen sind Geschaeftsgeheimnisse; Grundlage muss NDA sein
+- §§ 17-18 GeschGehG — Vertraulichkeit in Expert Calls: Informationen sind Geschäftsgeheimnisse; Grundlage muss NDA sein
 - Art. 7, 10 MAR — Expert Calls mit Management boersennotierter Zielgesellschaft: koennen Insiderinformationen uebertragen; Expert muss auf MAR-Pflichten hingewiesen werden
 - § 101 UrhG — Transkription: urheberrechtliche Fragen bei automatisierter Transkription
 - §§ 201 StGB — unbefugte Tonbandaufnahmen im Gespraech sind strafbar; Einwilligung aller Teilnehmer erforderlich
@@ -160,11 +160,11 @@ Bereitet Management Presentations, Expert Calls und Transkripte für DD und SPA-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Einwilligung sichern:** alle Teilnehmer muessen Aufzeichnung genehmigen; bei boersennotierten Gesellschaften: MAR-Hinweis
 2. **Expert Call vorbereiten:** Frageliste, Due-Diligence-Scope, Vertraulichkeitsstufe
-3. **Transkription und Zusammenfassung:** Key Statements extrahieren; Material-Statements fuer SPA-Garantien oder Disclosure kennzeichnen
+3. **Transkription und Zusammenfassung:** Key Statements extrahieren; Material-Statements für SPA-Garantien oder Disclosure kennzeichnen
 4. **Insiderliste pruefen:** bei boersennotiertem Zielobjekt: Teilnehmer in Insiderliste (Art. 18 MAR) eintragen
 5. **Integration in DD-Report:** Key Findings aus Expert Call in Workstream-Findings einpflegen
 
@@ -179,9 +179,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

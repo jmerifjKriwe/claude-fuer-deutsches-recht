@@ -25,7 +25,7 @@ Zwoelftafelrecht: Delikt, Busse, Talion und Komposition.
 
 - **Iniuria**: Beleidigung — Pauschalstrafe 25 Asses (anfangs 12 Asses).
 - **Membrum ruptum**: schwere Koerperverletzung — Talion ("si membrum rupsit, ni cum eo pacit, talio esto") mit Wiederlohnung-Moeglichkeit.
-- **Os fractum**: gebrochener Knochen — fixe Geldstrafe (z. B. 300 Asses fuer Freie, 150 fuer Sklaven).
+- **Os fractum**: gebrochener Knochen — fixe Geldstrafe (z. B. 300 Asses für Freie, 150 für Sklaven).
 
 ## Talion vs. Komposition
 
@@ -35,7 +35,7 @@ Zwoelftafelrecht: Delikt, Busse, Talion und Komposition.
 ## Dauerhafte Bedeutung
 
 - Erste klare Schadensersatzregeln.
-- Privatstrafrecht vor oeffentlicher Strafverfolgung.
+- Privatstrafrecht vor öffentlicher Strafverfolgung.
 
 ## Subsumtionsbeispiel: Beleidigung
 

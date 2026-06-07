@@ -38,7 +38,7 @@ Anlagenkonten der Klasse 0 (SKR 03) bzw. 0xxx-1xxx (SKR 04) zeigen die Buchwerte
 
 **§ 7g EStG** — Sonderabschreibung KMU.
 
-**§ 7b EStG** — Sonderabschreibung Mietwohnungsneubau (5 % p.a. fuer 4 Jahre; Bauantrag nach 31.12.2022 und vor 01.10.2029; EH-40 mit QNG-Siegel Pflicht; aktiv bis 2029).
+**§ 7b EStG** — Sonderabschreibung Mietwohnungsneubau (5 % p.a. für 4 Jahre; Bauantrag nach 31.12.2022 und vor 01.10.2029; EH-40 mit QNG-Siegel Pflicht; aktiv bis 2029).
 
 **§ 6 Abs. 2 EStG** — Geringwertige Wirtschaftsgueter; Wertgrenze 800 EUR netto (stabil seit 2018; keine Anhebung beschlossen, Stand 2026).
 
@@ -46,7 +46,7 @@ Anlagenkonten der Klasse 0 (SKR 03) bzw. 0xxx-1xxx (SKR 04) zeigen die Buchwerte
 
 ### Standards
 
-- BMF AfA-Tabellen (massgeblich: BMF-Schreiben vom 15.12.2000, BStBl 2000 I S. 1532 fuer allgemein verwendbare Anlagegueter; branchenspezifische Tabellen abrufbar unter bundesfinanzministerium.de).
+- BMF AfA-Tabellen (massgeblich: BMF-Schreiben vom 15.12.2000, BStBl 2000 I S. 1532 für allgemein verwendbare Anlagegueter; branchenspezifische Tabellen abrufbar unter bundesfinanzministerium.de).
 - IDW PS 480.
 - DATEV/Addison Anlagenbuchhaltungs-Module.
 
@@ -93,8 +93,8 @@ Buero-Ausstattung 15.000 6.000 9.000 — — 1.500 7.500
 
 ### Phase 5 — Sonder-AfA und § 6b EStG
 
-- § 7g EStG: Sonderabschreibung fuer KMU bis 40 % (fuer Anschaffungen ab 01.01.2024), IAB bis 50 %; Gewinngrenze 200.000 EUR im Vorjahr (§ 7g Abs. 6 EStG, stabile Rechtslage seit JStG 2020).
-- § 7b EStG: Sonderabschreibung Wohnungsneubau (befristete Foerderung; aktuelle Geltungsdauer Stand 2026 pruefen).
+- § 7g EStG: Sonderabschreibung für KMU bis 40 % (für Anschaffungen ab 01.01.2024), IAB bis 50 %; Gewinngrenze 200.000 EUR im Vorjahr (§ 7g Abs. 6 EStG, stabile Rechtslage seit JStG 2020).
+- § 7b EStG: Sonderabschreibung Wohnungsneubau (befristete Förderung; aktuelle Geltungsdauer Stand 2026 pruefen).
 - § 6b EStG Ruecklage: bei Veraeusserung Grund und Boden, Gebaeude — Uebertragung auf Reinvestitionen.
 
 ### Phase 6 — Reporting
@@ -107,14 +107,14 @@ Buero-Ausstattung 15.000 6.000 9.000 — — 1.500 7.500
 
 - Anlagenspiegel mit Zugaengen, Abgaengen, AfA.
 - Hauptbuch-Anlagenspiegel-Abstimmung.
-- AfA-Buchungsbeleg fuer SuSa.
+- AfA-Buchungsbeleg für SuSa.
 
 ## Strategie und Praxis-Tipps
 
 - Anlagenspiegel und Hauptbuch sollten quartalsweise abgestimmt werden.
 - GWG-Pool optional (§ 6 Abs. 2a EStG) — bietet Vereinfachung mit Sammelposten-Abschreibung ueber fuenf Jahre.
 - Beim Investitionsabzugsbetrag nach § 7g EStG: Quote 50 Prozent vorab abziehbar, Hoechstbetrag 200.000 EUR; Gewinngrenze 200.000 EUR (stabile Rechtslage seit JStG 2020, § 7g Abs. 1 EStG).
-- Sonderabschreibungen § 7b EStG: befristet fuer Bauantraege nach 31.12.2022 und vor 01.10.2029 (EH-40-Standard Pflicht); aktiv bis 2029.
+- Sonderabschreibungen § 7b EStG: befristet für Bauantraege nach 31.12.2022 und vor 01.10.2029 (EH-40-Standard Pflicht); aktiv bis 2029.
 - StBVV: Anlagenbuchhaltung als separater Auftrag oder in Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV-Anlagenbuchhaltung mit automatischer 1/12-AfA-Buchung in der SuSa (Klickpfad: Anlagenbuchfuehrung → Abschreibungsbuchungen → Buchungsstapel an Rechnungswesen uebergeben).
 
@@ -134,7 +134,7 @@ Stand: 05/2026.
 - EStG §§ 6, 7, 7b, 7g.
 - BMF AfA-Tabellen.
 - IDW PS 480.
-- Hinweis: § 7b EStG Foerderung laeuft bis Bauantraege vor 01.10.2029; keine gesetzliche Aenderung 2026.
+- Hinweis: § 7b EStG Förderung laeuft bis Bauantraege vor 01.10.2029; keine gesetzliche Aenderung 2026.
 - Hinweis: § 7g EStG Sonder-AfA 40 Prozent und IAB 50 Prozent seit JStG 2020 stabil.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (§ 7b bis 2029, GWG 800 EUR stabil, Sammelposten 250-1000 EUR stabil, § 7g 40%/50% stabil, BMF AfA-Tabelle AV 15.12.2000), 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->

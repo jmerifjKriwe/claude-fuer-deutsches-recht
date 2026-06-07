@@ -1,13 +1,13 @@
 ---
 name: roh-research-zu-essay
-description: "Verdichtet unstrukturierten Recherchewust einer Autorin zu einem zitierfaehigen Essay oder Diskussionsbeitrag fuer juristisches Fachformat im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verdichtet unstrukturierten Recherchewust einer Autorin zu einem zitierfaehigen Essay oder Diskussionsbeitrag für juristisches Fachformat im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Roh-Research zu Essay
 
 ## Arbeitsbereich
 
-Verdichtet unstrukturierten Recherchewust einer Autorin zu einem zitierfaehigen Essay oder Diskussionsbeitrag fuer juristisches Fachformat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verdichtet unstrukturierten Recherchewust einer Autorin zu einem zitierfaehigen Essay oder Diskussionsbeitrag für juristisches Fachformat. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,11 +19,11 @@ Verdichtet unstrukturierten Recherchewust einer Autorin zu einem zitierfaehigen 
 
 ## Worum geht es konkret
 
-Eine Autorin schickt 80 Seiten Notizen, fotografierte Buchseiten, ausgedruckte Urteile mit Anstreichungen, Zwischenueberschriften ohne Struktur. Sie soll daraus ein Essay machen. Sie - als Redaktion - muessen entscheiden, ob das ein Essay-Auftrag ist, eine Vorhauerarbeit fuer die Autorin oder eine echte Co-Autorenschaft, die im Druck transparent zu machen waere.
+Eine Autorin schickt 80 Seiten Notizen, fotografierte Buchseiten, ausgedruckte Urteile mit Anstreichungen, Zwischenueberschriften ohne Struktur. Sie soll daraus ein Essay machen. Sie - als Redaktion - muessen entscheiden, ob das ein Essay-Auftrag ist, eine Vorhauerarbeit für die Autorin oder eine echte Co-Autorenschaft, die im Druck transparent zu machen waere.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle fuer einen Verlagstext dienen sollen. Klaeren Sie zu Beginn:
+Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle für einen Verlagstext dienen sollen. Klaeren Sie zu Beginn:
 
 1. Wer schreibt am Ende - Autorin allein, Sie mit, Co-Autorenschaft?
 2. Welches Format (Essay, Diskussionsbeitrag, Editorial, Blickwinkel)?
@@ -37,7 +37,7 @@ Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle fuer eine
 - Stichwortlisten, Mindmaps.
 - Hinweise auf Lieblings-Pinpoints der Autorin.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Rollenklaerung schriftlich.** Vor Beginn: schreibe ich auch oder strukturiere ich nur? Die Antwort entscheidet ueber Urhebernennung im Druck.
 2. **These suchen.** Den Stoff einmal komplett lesen, dann auf eine halbe Seite die moegliche These notieren. Mit Autorin abstimmen.
@@ -67,15 +67,15 @@ Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle fuer eine
 
 **Rueckmeldung an Autorin nach erster Sichtung:**
 
-> Sehr geehrte Frau Dr. Schmidt, anbei der Strukturvorschlag fuer Ihren geplanten Essay zu "[Thema]". Wir schlagen folgende Gliederung vor (siehe Anlage). Aus dem uebersandten Material liesse sich folgende Hauptthese entwickeln: "[These in 1-2 Saetzen]". Bitte teilen Sie uns mit, ob (1) Sie selbst auf dieser Basis weiterschreiben oder (2) wir eine Erstfassung erarbeiten sollen (Co-Autorenschaft, gesonderte Vereinbarung). 12 Pinpoints sind noch zu schliessen, Liste in der Anlage. Rueckmeldung bitte bis 19.06.2026.
+> Sehr geehrte Frau Dr. Schmidt, anbei der Strukturvorschlag für Ihren geplanten Essay zu "[Thema]". Wir schlagen folgende Gliederung vor (siehe Anlage). Aus dem uebersandten Material liesse sich folgende Hauptthese entwickeln: "[These in 1-2 Saetzen]". Bitte teilen Sie uns mit, ob (1) Sie selbst auf dieser Basis weiterschreiben oder (2) wir eine Erstfassung erarbeiten sollen (Co-Autorenschaft, gesonderte Vereinbarung). 12 Pinpoints sind noch zu schliessen, Liste in der Anlage. Rueckmeldung bitte bis 19.06.2026.
 
-**Gliederungsskizze fuer Essay:**
+**Gliederungsskizze für Essay:**
 
 ```
 1. Anlass / Einstieg (aktuelles Urteil, gesetzliche Aenderung, Streit)
 2. Hauptthese (1-2 Saetze)
 3. Gegenposition skizzieren
-4. Argumente fuer die These (mit Pinpoints)
+4. Argumente für die These (mit Pinpoints)
 5. Ausblick / Konsequenzen
 6. Pointierter Schluss
 ```
@@ -91,9 +91,9 @@ Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle fuer eine
 ## Querverweise
 
 - `verl-email-konvolute-zu-fachbeitrag` - aehnliche Verdichtungsaufgabe.
-- `verl-themenscout-rechtsentwicklung` - fuer Anlassrecherche.
+- `verl-themenscout-rechtsentwicklung` - für Anlassrecherche.
 - `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `lektorat-struktur-redaktion` - fuer Gliederungsarbeit.
+- `lektorat-struktur-redaktion` - für Gliederungsarbeit.
 - `honorar-vertrag-royalties-triage` - bei Co-Autorenschaft.
 
 ## Quellen Stand 06/2026
@@ -102,5 +102,5 @@ Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle fuer eine
 - Verlagsgesetz, [https://www.gesetze-im-internet.de/verlg/](https://www.gesetze-im-internet.de/verlg/).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022, zur Strukturarbeit.
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023, zum Essay-Aufbau.

@@ -43,7 +43,7 @@ description: "Athletenvertrag im Sportrecht: prüft konkret Athlet steht vor NAD
 8. In welchem Verfahrensstadium ist das Mandat (NADA-Anhörung, DK-Entscheidung, DIS-Schiedsgericht, CAS)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

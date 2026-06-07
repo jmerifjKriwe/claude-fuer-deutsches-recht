@@ -295,4 +295,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
-- `dsv-interne-dokumentation-art-33-abs-5` deckt die Dokumentation auch fuer gemeldete Faelle ab.
+- `dsv-interne-dokumentation-art-33-abs-5` deckt die Dokumentation auch für gemeldete Faelle ab.

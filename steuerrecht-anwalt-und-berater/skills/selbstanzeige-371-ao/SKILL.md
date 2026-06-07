@@ -18,7 +18,7 @@ description: "Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO — Voll
 3. Kann der Hinterziehungsbetrag innerhalb der gesetzten Frist gezahlt werden (§ 371 Abs. 3 AO)?
 4. Liegt der Hinterziehungsbetrag ueber 25 000 Euro je Tat — § 398a AO Zuschlag 10 bis 20 Prozent zu beachten?
 5. Welche Beratungsalternative bestuende (§ 153 AO Berichtigung wenn Tatbestand des § 370 fehlt)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -50,7 +50,7 @@ An das Finanzamt [ORT]
 Selbstanzeige gemaess § 371 AO
 
 Namens und in Vollmacht meines Mandanten [NAME], [ADRESSE], erstatte ich hiermit
-Selbstanzeige und Berichtigung gemaess § 371 AO bzw. § 153 AO fuer folgende Steuerarten und Zeitraeume:
+Selbstanzeige und Berichtigung gemaess § 371 AO bzw. § 153 AO für folgende Steuerarten und Zeitraeume:
 
 Einkommensteuer 20XX bis 20YY
 Umsatzsteuer 20XX bis 20YY

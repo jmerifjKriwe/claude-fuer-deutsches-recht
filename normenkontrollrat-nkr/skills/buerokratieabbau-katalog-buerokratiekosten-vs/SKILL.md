@@ -1,13 +1,13 @@
 ---
 name: buerokratieabbau-katalog-buerokratiekosten-vs
-description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten fuer One-in-one-out-Gegenrechnung und fuer Empfehlungen in der Stellungnahme im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung und für Empfehlungen in der Stellungnahme im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege
 
 ## Arbeitsbereich
 
-Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten fuer One-in-one-out-Gegenrechnung und fuer Empfehlungen in der Stellungnahme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung und für Empfehlungen in der Stellungnahme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. S
 
 ## Worum geht es konkret
 
-Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill sammelt sie als Standardrepertoire fuer Empfehlungen in NKR-Stellungnahmen und fuer One-in-one-out-Gegenrechnung.
+Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill sammelt sie als Standardrepertoire für Empfehlungen in NKR-Stellungnahmen und für One-in-one-out-Gegenrechnung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -42,11 +42,11 @@ Rueckfrage nur wenn unklar: *"Soll der Vorschlag in einer aktuellen Stellungnahm
 
 ### Muster 1 — Schwellenwerte
 
-Statt Pflicht fuer alle: Pflicht nur ab Schwellenwert (Beschaeftigte, Umsatz, Bilanzsumme, Transaktionsvolumen).
+Statt Pflicht für alle: Pflicht nur ab Schwellenwert (Beschaeftigte, Umsatz, Bilanzsumme, Transaktionsvolumen).
 
 ### Muster 2 — Bagatell-Ausnahmen
 
-Komplette Befreiung fuer Kleinstfaelle.
+Komplette Befreiung für Kleinstfaelle.
 
 ### Muster 3 — Once-Only / Datenwiederverwendung
 
@@ -76,7 +76,7 @@ Pflichten, die parallel zu EU-Vorgaben bestehen, harmonisieren.
 
 Frequenzreduktion bei vergleichbarem Effekt.
 
-### Muster 10 — Ausnahmen fuer kleine Branchen
+### Muster 10 — Ausnahmen für kleine Branchen
 
 Branchenspezifische Befreiung, sofern Risiko gering.
 
@@ -88,11 +88,11 @@ Alte Normen, die durch neuere ersetzt sind, ausdruecklich aufheben.
 
 Vorhaben mit Wirksamkeitsunsicherheit befristen.
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Belastung identifizieren** (welche Pflicht? welcher Aufwand?)
 2. **Geeignetes Muster aus Katalog** waehlen
-3. **Konkretisierung** fuer das Vorhaben
+3. **Konkretisierung** für das Vorhaben
 4. **Aufwandsreduktion schaetzen** (Vorher / Nachher)
 5. **Empfehlung** in Stellungnahme formulieren
 6. **Bei One-in-one-out**: Gegenrechnung dokumentieren

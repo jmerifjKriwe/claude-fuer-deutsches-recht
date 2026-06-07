@@ -176,5 +176,5 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 <!-- AUDIT 27.05.2026
 Datum 01.07.2010 (nicht 20.05.2010), aber mit falschem Thema: real handelt das Urteil von
 Vorteilsausgleichung/Steuervorteile, nicht von Drittwiderspruchsklage § 771 ZPO (WRONG_TOPIC).
-Halluzinierte Referenz geloescht. Keine Ersatzquelle fuer § 771 ZPO-Leitentscheidung ergaenzt.
+Halluzinierte Referenz geloescht. Keine Ersatzquelle für § 771 ZPO-Leitentscheidung ergaenzt.
 -->

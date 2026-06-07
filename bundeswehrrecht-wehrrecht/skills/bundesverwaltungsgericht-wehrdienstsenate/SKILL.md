@@ -90,7 +90,7 @@ Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Re
 
 ## Querverweise
 
-- truppendienstgericht-zustaendigkeit-verfahren
+- truppendienstgericht-zuständigkeit-verfahren
 - wehrbeschwerdeordnung-beschwerde-frist-form
 - eilverfahren-konkurrentenstreit-wehrdienstsenat
 - weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht

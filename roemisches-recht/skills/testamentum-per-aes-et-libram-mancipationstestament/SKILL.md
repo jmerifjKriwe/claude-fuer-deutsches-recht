@@ -19,7 +19,7 @@ Testamentum per aes et libram: das mancipationstestament als klassische Form. Sk
 
 ## Aufgabe
 
-Skill fuer das Mancipationstestament.
+Skill für das Mancipationstestament.
 
 ## Rechtsquelle
 

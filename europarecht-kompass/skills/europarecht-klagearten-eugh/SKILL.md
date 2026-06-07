@@ -78,7 +78,7 @@ Bevor losgelegt wird, klaere:
 - **Art. 263 AEUV** — Nichtigkeitsklage; Fristen; Klagebefugnis privilegierter/nicht-privilegierter Klager
 - **Art. 265 AEUV** — Untaetigkeitsklage; Voraussetzungen: vorherige Aufforderung + 2 Monate Nichtreagieren
 - **Art. 268 AEUV iVm Art. 340 AEUV** — Amtshaftungsklage; hinreichend qualifizierter Rechtsverstoss; Schaden; Kausalitaet
-- **Art. 267 AEUV** — Vorabentscheidungsverfahren als indirekter Rechtsschutz-Weg fuer Private
+- **Art. 267 AEUV** — Vorabentscheidungsverfahren als indirekter Rechtsschutz-Weg für Private
 - **Art. 278 AEUV** — Vorlaufiger Rechtsschutz beim EuGH (Antrag auf Aussetzung)
 - **EuGH-Satzung Art. 56** — Frist Rechtsmittel gegen EuG-Urteile: 2 Monate
 

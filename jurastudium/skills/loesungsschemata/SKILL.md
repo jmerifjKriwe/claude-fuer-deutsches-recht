@@ -174,7 +174,7 @@ Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studierende
 ## Querverweise
 
 - `subsumtionslehre` — Schemata strukturieren, aber die Subsumtion **innerhalb** jedes Schemapunkts ist das eigentliche Lernziel.
-- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-oeffentliches-recht` — fachspezifischer Hintergrund.
+- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-öffentliches-recht` — fachspezifischer Hintergrund.
 - `gutachten-uebung` — Schema in der Klausur anwenden.
 - `tatbestaende-lernen` — Definitionen, ohne die Schemata leer bleiben.
 

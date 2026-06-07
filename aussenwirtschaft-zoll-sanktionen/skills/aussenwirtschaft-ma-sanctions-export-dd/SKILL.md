@@ -30,7 +30,7 @@ Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen: Identifizieru
 3. Historische BAFA-Pruefungen und Sanktionsscreening-Prozesse analysieren.
 4. ICP-Qualitaet bewerten: Struktur, gelebte Praxis, Luecken.
 5. Sanktionsexposure quantifizieren: aktive Kundenbeziehungen, laufende Vertraege, offene Verbindlichkeiten.
-6. M&A-Reps-and-Warranties und Ruecktrittsklauseln fuer Exportkontroll-Risiken formulieren.
+6. M&A-Reps-and-Warranties und Ruecktrittsklauseln für Exportkontroll-Risiken formulieren.
 
 ## Rechtsrahmen
 
@@ -46,8 +46,8 @@ Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen: Identifizieru
 - [ ] BAFA-Pruefungshistorie und Ergebnisse analysiert?
 - [ ] ICP-Qualitaet bewertet und Luecken dokumentiert?
 - [ ] Sanktionsexposure quantifiziert (Kundenbeziehungen, Vertraege)?
-- [ ] Haftungsrisiken fuer Kaeufer bewertet und in Kaufpreis reflektiert?
-- [ ] M&A-Reps-and-Warranties fuer Exportkontrollrisiken formuliert?
+- [ ] Haftungsrisiken für Kaeufer bewertet und in Kaufpreis reflektiert?
+- [ ] M&A-Reps-and-Warranties für Exportkontrollrisiken formuliert?
 
 ## Typische Fallstricke
 
@@ -60,7 +60,7 @@ Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen: Identifizieru
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

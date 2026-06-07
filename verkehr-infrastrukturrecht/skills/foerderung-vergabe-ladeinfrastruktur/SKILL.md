@@ -1,13 +1,13 @@
 ---
 name: foerderung-vergabe-ladeinfrastruktur
-description: "Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Prüfraster: Foerderfähigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Prüfung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Länderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Prüfraster: Foerderfähigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Prüfung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Foerderrecht und Vergabe — Verkehrsinfrastruktur
 
 ## Arbeitsbereich
 
-Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Prüfraster: Foerderfähigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Prüfung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Länderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Prüfraster: Foerderfähigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Prüfung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 
 ## Triage zu Beginn
 
-1. **Foerderung oder Vergabe?** — Foerderrecht: Zuwendungsbescheid nach GVFG/LStrG/BVWP; Vergaberecht: Ausschreibung und Zuschlag bei oeffentlichen Auftraggebern.
+1. **Förderung oder Vergabe?** — Foerderrecht: Zuwendungsbescheid nach GVFG/LStrG/BVWP; Vergaberecht: Ausschreibung und Zuschlag bei öffentlichen Auftraggebern.
 2. **EU-Schwellenwert ueberschritten?** — Vergabe: EU-weit ab 5.382.000 EUR (Bauleistungen 2024), 221.000 EUR (Liefer-/Dienstleistungen Kommunen), 143.000 EUR (Bundesbehörden) — beeinflusst welches Vergaberecht gilt.
 3. **Ruegefrist nach § 160 GWB beachtet?** — Ruege muss unverzueglich nach Erkennbarkeit des Verstosses bei dem Auftraggeber eingelegt werden; Praeklusion!
 4. **Zweckbindungsfrist?** — GVFG-gefoerderte Anlagen typischerweise 25 Jahre Zweckbindung; vorzeitige Aenderung erfordert Zustimmung.
@@ -27,7 +27,7 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 
 ## Zentrale Normen
 
-- **§ 3 GVFG** — Foerderung von Nahverkehrsinfrastruktur; Bundesmittel
+- **§ 3 GVFG** — Förderung von Nahverkehrsinfrastruktur; Bundesmittel
 - **§§ 23, 44 BHO** — Allgemeines Zuwendungsrecht des Bundes; Nebenbestimmungen
 - **§§ 97 ff. GWB** — Vergaberecht; Grundsaetze des Vergabeverfahrens
 - **§§ 106 ff. GWB** — Schwellenwerte
@@ -43,7 +43,7 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Vergabe
+## Schritt-für-Schritt-Vergabe
 
 1. **Schwellenwert pruefen:** EU-weite Ausschreibung oder national?
 2. **Vergabebekanntmachung analysieren:** Eignungskriterien, Zuschlagskriterien, Fristen.
@@ -52,13 +52,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. **Nachpruefungsantrag:** Vergabekammer beim Bundeskartellamt (EU-Schwellenwert) oder Landesvergabebehoerde.
 6. **Beschwerde OLG:** gegen Entscheidung der Vergabekammer.
 
-## Schritt-fuer-Schritt-Foerderung
+## Schritt-für-Schritt-Förderung
 
 1. **Foerderantrag pruefen:** Vollstaendigkeit, Fristen, Nachweise.
 2. **Zuwendungsbescheid erhalten:** Nebenbestimmungen pruefen (Auflagen, Bedingungen, Widerrufsvorbehalt).
 3. **Zweckbindungsfrist dokumentieren:** Foerdergegenstand definieren und schriftlich festhalten.
 4. **Verwendungsnachweis rechtzeitig einreichen:** GVFG-Fristen beachten.
-5. **Bei Rueckforderung:** Anhoerung, Widerspruch, Verwaltungsgerichtsklage.
+5. **Bei Rueckforderung:** Anhörung, Widerspruch, Verwaltungsgerichtsklage.
 
 ## Harte Leitplanken
 

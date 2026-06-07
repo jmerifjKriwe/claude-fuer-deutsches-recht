@@ -55,7 +55,7 @@ Wenn kein Einzel-Länderskill existiert, baut dieser Skill einen länderbezogene
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Aktuelles DBA (z.B. UK 2010) vs. Fortwirkungs-Altabkommen | aktuelles DBA, MLI-modifiziert | Altabkommen (z.B. UdSSR-DBA fuer ehemalige UdSSR-Staaten) | bei Mandat Klarheit ueber zeitliche Anwendung schaffen |
+| Aktuelles DBA (z.B. UK 2010) vs. Fortwirkungs-Altabkommen | aktuelles DBA, MLI-modifiziert | Altabkommen (z.B. UdSSR-DBA für ehemalige UdSSR-Staaten) | bei Mandat Klarheit ueber zeitliche Anwendung schaffen |
 | Direkter Bezug Drittstaat vs. EU-Zwischengesellschaft | Direktbezug — DBA-Hoechstsatz | EU-Holding mit MTRL/ZinsLizenzRL | bei Substanz Pfad B; bei reiner Steuergestaltung scheitert an § 50d Abs. 3 EStG |
 | Anrechnung § 34c EStG vs. MAP | unilateral nach DE-Erklaerung | bilateral bei Streitfaellen | bei klarem DBA-Anspruch Pfad A; bei strittiger Qualifikation MAP |
 | Sanktionsrecht hinnehmen vs. Beratung verweigern | technische Steuerberatung trotz Sanktionsfolgen | Mandatsablehnung wegen Sanktionsrisiko | bei Iran/Belarus/Russland: erst Sanktionsrecht klaeren (BAFA, OFAC) |
@@ -67,7 +67,7 @@ Wenn kein Einzel-Länderskill existiert, baut dieser Skill einen länderbezogene
 - **MLI-Status uebersehen** — auch wenn USA MLI nicht ratifiziert haben, gehoert das ins Memo.
 - **Sanktionsrechtliche Beschraenkung uebersehen**: EU-Verordnungen 2014/833, 2022/263 (Russland-Sanktionen), Belarus-Sanktionen — gehen DBA vor.
 - **VAE-DBA noch zitiert** trotz Kuendigung 31.12.2021.
-- **Brexit-Folgen nicht beruecksichtigt**: keine MTRL/ZinsLizenzRL fuer UK-Verbindungen.
+- **Brexit-Folgen nicht beruecksichtigt**: keine MTRL/ZinsLizenzRL für UK-Verbindungen.
 - **Service-Permanent-Establishment** bei Indien/China nicht geprueft — eigene Tatbestaende.
 - **Limitation-on-Benefits (LOB)** bei US-DBA nicht geprueft — eigenstaendiger Anti-Missbrauchs-Tatbestand neben PPT.
 

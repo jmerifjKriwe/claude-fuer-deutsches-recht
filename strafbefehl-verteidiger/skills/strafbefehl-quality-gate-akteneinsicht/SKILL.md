@@ -19,7 +19,7 @@ Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fri
 
 ## Zweck
 
-Dieses Kommandocenter ist der Einstiegspunkt fuer alle Mandate im Strafbefehlsverfahren. Es erfasst den Mandats-Kontext, bewertet die Dringlichkeit und routet zur richtigen Subskill-Anleitung.
+Dieses Kommandocenter ist der Einstiegspunkt für alle Mandate im Strafbefehlsverfahren. Es erfasst den Mandats-Kontext, bewertet die Dringlichkeit und routet zur richtigen Subskill-Anleitung.
 
 ## Sofort-Triage bei Mandatsaufnahme
 
@@ -41,7 +41,7 @@ Dieses Kommandocenter ist der Einstiegspunkt fuer alle Mandate im Strafbefehlsve
 | Frist laeuft in 4-7 Tagen | GELB | Einspruch und Akteneinsicht parallel |
 | Frist > 7 Tage | GRUEN | Strukturierte Bearbeitung |
 | Frist abgelaufen, keine Wiedereinsetzungsgruende | ROT | Strafbefehl rechtskraeftig |
-| Frist abgelaufen, Grund fuer Wiedereinsetzung | GELB | Wiedereinsetzungsantrag § 44 StPO |
+| Frist abgelaufen, Grund für Wiedereinsetzung | GELB | Wiedereinsetzungsantrag § 44 StPO |
 
 ## Routing-Matrix
 

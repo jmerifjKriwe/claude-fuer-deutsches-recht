@@ -39,7 +39,7 @@ description: "Gewrechts Geschgehg KI Faevvollzug EV im Plugin Fachanwalt Gewerbl
 6. Welches Ziel verfolgt die Mandantschaft — einstweilige Verfügung, Schadensersatz, Strafanzeige oder Verteidigung gegen Vorwürfe?
 7. Ist die Information möglicherweise auch urheberrechtlich oder patentrechtlich geschützt (Softwarecode, technische Erfindung)?
 8. Handelt es sich um einen Sachverhalt mit Auslandsbezug (Wirtschaftsspionage, ausländischer Wettbewerber, grenzüberschreitende M&A)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -333,7 +333,7 @@ Bevor die Schutzstrategie entwickelt wird, klaere:
 6. Ab wann soll die KI-Nutzung starten — Art. 50 KI-VO gilt ab 2.8.2026?
 7. Liegt bereits ein Abmahnschreiben vor, oder soll präventive Compliance aufgebaut werden?
 8. Werden KI-generierte Inhalte als urheberrechtlich geschützt vermarktet oder beansprucht?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -444,7 +444,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — KI-VO Art. 50 Compliance fuer GenAI sicherstellen | Drei-Phasen-Workflow; Schriftsatzbausteine unten |
+| Standard — KI-VO Art. 50 Compliance für GenAI sicherstellen | Drei-Phasen-Workflow; Schriftsatzbausteine unten |
 | Variante A — Mandant ist nur Nutzer kein Anbieter | Reduzierte Pflichten; Art. 50 Abs. 4 GenAI-Kennzeichnung pruefen |
 | Variante B — Hochrisiko-KI zusaetzlich betroffen | Art. 9-16 KI-VO zusaetzlich pruefen; Konformitaetsbewertung noetig |
 | Variante C — DeepFake-Generierung des Mandanten | Besonderes Risiko Art. 50 Abs. 2 und 3; Kennzeichnungspflicht strikt |

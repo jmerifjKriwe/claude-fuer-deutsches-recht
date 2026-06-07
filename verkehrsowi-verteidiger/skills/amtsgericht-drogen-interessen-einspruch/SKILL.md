@@ -62,13 +62,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  Erscheinenspflicht:
  - Sie sind grundsaetzlich verpflichtet, persoenlich zu erscheinen (§ 73 OWiG).
  - Befreiung von Erscheinenspflicht moeglich bei Vertretung durch Verteidiger mit Vollmacht (§ 73 II OWiG).
- - Empfehlung: persoenliches Erscheinen, da Eindruck Betroffener strafmildernd / freisprechend wirken kann.
+ - Empfehlung: persönliches Erscheinen, da Eindruck Betroffener strafmildernd / freisprechend wirken kann.
 
  Mitnehmen:
  - Personalausweis.
  - Fuehrerschein.
  - Versicherungsnachweis Rechtsschutz (falls vorhanden).
- - Entscheidungsrelevante Unterlagen (Lohnabrechnung fuer Geldbussen-Bemessung).
+ - Entscheidungsrelevante Unterlagen (Lohnabrechnung für Geldbussen-Bemessung).
 
  Strategie / Erwartungshorizont:
  - Best Case: Freispruch / Einstellung gemaess § 47 OWiG.
@@ -88,7 +88,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Kostenhinweis RVG OWi:**
  - VV 5100 (Grundgebuehr), 5103 (Verfahrensgebuehr Verteidiger im OWi-Verfahren), 5109 (Verfahrensgebuehr Einspruchsverfahren), 5110-5115 (Terminsgebuehr).
  - Bei Rechtsschutzversicherung: Wartezeit pruefen; Selbstbeteiligung; Strafrechtsschutz nur ohne Vorsatz.
-- **Mandantenfreigabe schriftlich** fuer alle Entscheidungen: Einspruch / Ruecknahme / Beschraenkung / Vertretung / Verstaendigung.
+- **Mandantenfreigabe schriftlich** für alle Entscheidungen: Einspruch / Rücknahme / Beschraenkung / Vertretung / Verstaendigung.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren
 

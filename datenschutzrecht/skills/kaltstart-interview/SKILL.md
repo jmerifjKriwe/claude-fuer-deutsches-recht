@@ -19,7 +19,7 @@ Dieses Interview richtet das Plugin auf Ihre konkrete Datenschutzpraxis aus: Wer
 ## Ablauf
 
 1. **Voraussetzungs-Check.**
- - `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/CLAUDE.md` prüfen.
+ - `~/.claude/plugins/config/claude-für-deutsches-recht/datenschutzrecht/CLAUDE.md` prüfen.
  - Wenn befüllt (keine `[PLATZHALTER]`) und kein `--redo`: Bestätigung einholen, bevor überschrieben wird.
  - Wenn altes Cache-Profil unter `~/.claude/plugins/cache/…` vorhanden: automatisch übertragen, dem Nutzer mitteilen.
 
@@ -136,7 +136,7 @@ Federführende Aufsichtsbehoerde: [BEHOERDE]
 DSB: [NAME, intern/extern]
 Hauptrolle: Verantwortlicher / Auftragsverarbeiter / beide
 Hauptverarbeitungstaetigkeiten: [KURZBESCHREIBUNG]
-Drittlandtransfers: [ja/nein; Laender]
+Drittlandtransfers: [ja/nein; Länder]
 AVV-Playbook: konfiguriert / nicht konfiguriert
 Systemliste: konfiguriert / nicht konfiguriert
 Naechste Schritte: [LISTE]

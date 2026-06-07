@@ -44,7 +44,7 @@ Bei EU-Mitgliedstaaten zusätzlich EU-DBA-Streitbeilegungsgesetz prüfen. MAP un
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
 - **Frist im konkreten DBA pruefen**: viele DBA setzen 3 Jahre ab erster Mitteilung der Massnahme. EU-DBA-SBG: 3 Jahre ab erster Mitteilung. Frist nicht verpassen — Verlust des Anspruchs.
-- **Zustaendige Behoerde DE**: BMF (Bundesministerium der Finanzen, Bereich Internationales Steuerrecht — Referate IV B 2 / IV B 5; aktuelle Referatszustaendigkeit vom Anwender ueber bundesfinanzministerium.de verifizieren). Antrag schriftlich oder ueber elektronische Kommunikation des BMF — Standardweg vom Anwender mit aktueller BMF-Verfahrensbeschreibung abzugleichen.
+- **Zustaendige Behörde DE**: BMF (Bundesministerium der Finanzen, Bereich Internationales Steuerrecht — Referate IV B 2 / IV B 5; aktuelle Referatszuständigkeit vom Anwender ueber bundesfinanzministerium.de verifizieren). Antrag schriftlich oder ueber elektronische Kommunikation des BMF — Standardweg vom Anwender mit aktueller BMF-Verfahrensbeschreibung abzugleichen.
 - **MAP-Antrag-Struktur**: Sachverhalt, Doppelbesteuerung-Berechnung, betroffene DBA-Artikel, Argumentation, Bescheide aller Staaten, Beleg-Anlagen.
 - **Doppelbesteuerung rechnerisch quantifizieren**: ohne konkrete Zahlen (Bemessungsgrundlage Staat A, Bemessungsgrundlage Staat B, Steuersaetze, Bescheide) wird der Antrag nicht effizient bearbeitet.
 - **Nationale Rechtsbehelfe parallel sichern**: Einspruch beim FA innerhalb 1 Monat, Klage beim FG, ggf. AdV-Antrag. MAP-Antrag suspendiert nicht automatisch die nationale Bestandskraft.
@@ -58,7 +58,7 @@ Bei EU-Mitgliedstaaten zusätzlich EU-DBA-Streitbeilegungsgesetz prüfen. MAP un
 | MAP Art. 25 MA (bilateral) vs. EU-DBA-SBG | flexibler; ohne Schiedszwang | strenge Fristen; Schiedszwang nach 2 Jahren | bei EU-Sachverhalten beide parallel — EU-Frist nicht opfern |
 | MAP vor Bestandskraft DE-Bescheid vs. nach | vor: nationale Rechtsbehelfe noch offen | nach: nur MAP-Korrektur moeglich | vor Bestandskraft frueh stellen |
 | Nationale Klage allein vs. MAP | unilaterale Korrektur | bilaterale Korrektur — bindet beide Staaten | bei Doppelbesteuerung MAP, nationale Klage parallel |
-| Verstaendigung mit Behoerdenbeschluss vs. Schiedsverfahren | Verhandlungsergebnis (Konsens) | Schiedsverfahren (Zwangsentscheidung) | erst Verhandlung versuchen — Schiedsverfahren nur bei Verweigerung |
+| Verstaendigung mit Behördenbeschluss vs. Schiedsverfahren | Verhandlungsergebnis (Konsens) | Schiedsverfahren (Zwangsentscheidung) | erst Verhandlung versuchen — Schiedsverfahren nur bei Verweigerung |
 | MAP-Verfahren oeffentlich vs. vertraulich | regelmaessig vertraulich, keine Veroeffentlichung | — | Vertraulichkeit ist Standardregel — kein Praezedenz-Effekt |
 
 ## Was Reviewer/Pruefer triggert
@@ -66,8 +66,8 @@ Bei EU-Mitgliedstaaten zusätzlich EU-DBA-Streitbeilegungsgesetz prüfen. MAP un
 - **MAP-Antrag-Frist versaeumt** — Verlust des Anspruchs.
 - **Doppelbesteuerung nicht quantifiziert** — Antrag wird zurueckgewiesen oder verzoegert bearbeitet.
 - **Nationale Bestandskraft nicht beachtet** — Bescheid wird bestandskraeftig, waehrend MAP laeuft.
-- **EU-Sachverhalt nur als MAP gestellt** ohne EU-DBA-SBG — Frist fuer Schiedszwang verfaellt.
-- **Zustaendige Behoerde falsch adressiert** — Antrag verbleibt im Postlauf.
+- **EU-Sachverhalt nur als MAP gestellt** ohne EU-DBA-SBG — Frist für Schiedszwang verfaellt.
+- **Zustaendige Behörde falsch adressiert** — Antrag verbleibt im Postlauf.
 - **Bescheide aller Staaten fehlen** als Anlage — Pruefer kann Doppelbesteuerung nicht nachvollziehen.
 - **Argumentation nur national** ohne DBA-Bezug — MAP-Antrag wird inhaltlich abgelehnt.
 - **Verrechnungspreis-Korrespondenzanpassung Art. 9 Abs. 2 nicht beantragt** — bei VP-Korrekturen Pflicht.
@@ -99,7 +99,7 @@ Sachverhalt: DE-Tochter (BG: 100k EUR Gewinn) bezieht Management-Fee 200k EUR vo
 
 (**Werte sind Beispiel — Art. 9 DBA-USA und MAP-Praxis live abrufen.**)
 
-## Frist- und Zustaendigkeitsblatt (Mustertabelle)
+## Frist- und Zuständigkeitsblatt (Mustertabelle)
 
 | Frage | Antwort / Verifikationsquelle |
 |---|---|
@@ -107,9 +107,9 @@ Sachverhalt: DE-Tochter (BG: 100k EUR Gewinn) bezieht Management-Fee 200k EUR vo
 | Frist im DBA | konkret pruefen (oft 3 Jahre) |
 | EU-DBA-SBG anwendbar? | bei EU-Sachverhalt: ja; bei Drittstaat: nein |
 | Frist EU-DBA-SBG | 3 Jahre ab erster Mitteilung |
-| Zustaendige Behoerde DE | BMF, Internationales Steuerrecht |
-| Zustaendige Behoerde Ausland | je Staat (vom Anwender mit aktuellem OECD-Verzeichnis abzugleichen) |
-| Sprache Antrag | DE oder EN; je nach Zustaendigkeit |
+| Zustaendige Behörde DE | BMF, Internationales Steuerrecht |
+| Zustaendige Behörde Ausland | je Staat (vom Anwender mit aktuellem OECD-Verzeichnis abzugleichen) |
+| Sprache Antrag | DE oder EN; je nach Zuständigkeit |
 | Parallel-Verfahren | nationaler Einspruch / Klage / AdV / EU-DBA-SBG |
 
 ## Parallelverfahrens-Strategie
@@ -130,7 +130,7 @@ Sachverhalt: DE-Tochter (BG: 100k EUR Gewinn) bezieht Management-Fee 200k EUR vo
 An: Bundesministerium der Finanzen
  Wilhelmstrasse 97
  10117 Berlin
- z.Hd. [Referat fuer Internationales Steuerrecht — aktuelles Referat aus BMF-Internet]
+ z.Hd. [Referat für Internationales Steuerrecht — aktuelles Referat aus BMF-Internet]
 
 Betreff: Antrag auf Einleitung eines Verstaendigungsverfahrens nach Art. 25 DBA-[Land]
 
@@ -149,8 +149,8 @@ eines Verstaendigungsverfahrens nach Art. 25 DBA-[Land].
 [Welcher Artikel; warum Doppelbesteuerung]
 
 4. Antrag
-Es wird beantragt, dass das BMF Verstaendigung mit der zustaendigen
-Behoerde von [Staat] aufnimmt mit dem Ziel der Korrektur ...
+Es wird beantragt, dass das BMF Verstaendigung mit der zuständigen
+Behörde von [Staat] aufnimmt mit dem Ziel der Korrektur ...
 
 Anlagen:
 - Steuerbescheid DE vom [...]

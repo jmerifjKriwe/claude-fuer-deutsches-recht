@@ -145,4 +145,4 @@ Mandatsbezug: Mandant will neue Marke anmelden und fragt: Kann ich „XYZ" als M
 - `markenrecherche` – Vertiefung Kollisionsrecherche
 - `gewr-markenanmeldung-bauleiter` – Anmeldeprozess
 - `unterlassungsverlangen` – Reaktion auf Abmahnung
-- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Widerspruch
+- `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Widerspruch

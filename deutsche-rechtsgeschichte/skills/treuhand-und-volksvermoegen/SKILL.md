@@ -41,8 +41,8 @@ Die Treuhandanstalt (THA) wurde mit dem Treuhandgesetz vom 17. Juni 1990 (GBl. I
 1. Treuhandgesetz 1990: War die THA demokratisch legitimiert?
 2. Privatisierungsgeschwindigkeit: Zu schnell? Haette man Betriebe sanieren sollen?
 3. Westdeutsche Kaeufer: War die Privatisierung ein Ausverkauf der ostdeutschen Wirtschaft?
-4. THA-Schulden: Wer traegt die Verantwortung fuer 250 Milliarden DM Schulden?
-5. Soziale Folgekosten: War die THA fuer die hohe Ostarbeitslosigkeit der 1990er mitverantwortlich?
+4. THA-Schulden: Wer traegt die Verantwortung für 250 Milliarden DM Schulden?
+5. Soziale Folgekosten: War die THA für die hohe Ostarbeitslosigkeit der 1990er mitverantwortlich?
 
 ## Methodik
 

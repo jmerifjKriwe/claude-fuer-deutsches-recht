@@ -1,13 +1,13 @@
 ---
 name: dienstunfaehigkeit-amtsaerztliches
-description: "Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gutachtens den Schutzbereich des Personlichkeitsrechts und die Folgen der Verweigerung der Untersuchung. Liefert Pruefraster und Schriftsatzbausteine fuer Widerspruch und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gutachtens den Schutzbereich des Personlichkeitsrechts und die Folgen der Verweigerung der Untersuchung. Liefert Pruefraster und Schriftsatzbausteine für Widerspruch und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Amtsaerztliches Gutachten Dienstunfaehigkeit
 
 ## Arbeitsbereich
 
-Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gutachtens den Schutzbereich des Personlichkeitsrechts und die Folgen der Verweigerung der Untersuchung. Liefert Pruefraster und Schriftsatzbausteine fuer Widerspruch und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gutachtens den Schutzbereich des Personlichkeitsrechts und die Folgen der Verweigerung der Untersuchung. Liefert Pruefraster und Schriftsatzbausteine für Widerspruch und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert 
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbesondere im Streit ueber Auswahl, Reichweite und Verwertbarkeit des amtsaerztlichen Gutachtens.
+Skill für Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbesondere im Streit ueber Auswahl, Reichweite und Verwertbarkeit des amtsaerztlichen Gutachtens.
 
 ## 2. Eingaben
 

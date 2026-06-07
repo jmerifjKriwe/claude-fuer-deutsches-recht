@@ -1,6 +1,6 @@
 ---
 name: avv-cloud-und-subverarbeitung-art-28-iv
-description: "Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster fuer Sub-AV-Listen."
+description: "Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster für Sub-AV-Listen."
 ---
 
 # Cloud und Sub-Auftragsverarbeitung Art. 28 Abs. 2 und Abs. 4 DSGVO
@@ -51,7 +51,7 @@ Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerwe
 
 5. **Drittlandbezug.**
  - Sub-AV im Drittland: zusaetzlich SCC Beschluss (EU) 2021/914 (Module C2P oder P2P, je nach Konstellation).
- - DPF nur fuer US-Sub-AV mit aktiver Selbstzertifizierung.
+ - DPF nur für US-Sub-AV mit aktiver Selbstzertifizierung.
  - TIA nach EDSA-Empfehlungen 01/2020.
 
 ## Mustertext / Template
@@ -66,13 +66,13 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 >
 > (4) Im Fall eines berechtigten Widerspruchs, den der Auftragsverarbeiter nicht durch zumutbare technische oder organisatorische Massnahmen ausraeumen kann, ist der Verantwortliche zur ausserordentlichen Kuendigung des Hauptvertrags und dieses Auftragsverarbeitungsvertrags berechtigt.
 >
-> (5) Der Auftragsverarbeiter schliesst mit jedem Sub-Auftragsverarbeiter einen Vertrag im Sinne des Art. 28 Abs. 4 DSGVO, der dem Sub-Auftragsverarbeiter im Wesentlichen die gleichen Datenschutzpflichten auferlegt wie sie in diesem Vertrag fuer den Auftragsverarbeiter festgelegt sind. Der Auftragsverarbeiter haftet gegenueber dem Verantwortlichen fuer die Erfuellung der Pflichten durch den Sub-Auftragsverarbeiter unveraendert weiter.
+> (5) Der Auftragsverarbeiter schliesst mit jedem Sub-Auftragsverarbeiter einen Vertrag im Sinne des Art. 28 Abs. 4 DSGVO, der dem Sub-Auftragsverarbeiter im Wesentlichen die gleichen Datenschutzpflichten auferlegt wie sie in diesem Vertrag für den Auftragsverarbeiter festgelegt sind. Der Auftragsverarbeiter haftet gegenueber dem Verantwortlichen für die Erfuellung der Pflichten durch den Sub-Auftragsverarbeiter unveraendert weiter.
 >
-> (6) Auf Anforderung des Verantwortlichen legt der Auftragsverarbeiter den Sub-Auftragsverarbeiter-Vertrag in einer Form vor, die berechtigte Geschaeftsgeheimnisse des Sub-Auftragsverarbeiters wahrt (z. B. mit Schwaerzungen)."
+> (6) Auf Anforderung des Verantwortlichen legt der Auftragsverarbeiter den Sub-Auftragsverarbeiter-Vertrag in einer Form vor, die berechtigte Geschäftsgeheimnisse des Sub-Auftragsverarbeiters wahrt (z. B. mit Schwaerzungen)."
 
 ## Typische Drafting-Fehler
 
-- Allgemeine Genehmigung "fuer alle gegenwaertigen und zukuenftigen Sub-AV ohne Information" – nicht Art. 28 Abs. 2 DSGVO-konform.
+- Allgemeine Genehmigung "für alle gegenwaertigen und zukuenftigen Sub-AV ohne Information" – nicht Art. 28 Abs. 2 DSGVO-konform.
 - Liste der Sub-AV nicht aktuell, kein Aenderungsverfahren definiert.
 - Frist zu kurz (z. B. 7 Tage) – Einspruchsrecht faktisch ausgehoehlt.
 - Back-to-Back-Vertrag nicht abgeschlossen oder nicht nachweisbar.

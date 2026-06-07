@@ -21,7 +21,7 @@ Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgef
 
 1. **Forderungsart:** Kaufpreis, Werkverguetung, Schadensersatz, Darlehensrueckzahlung oder sonstiger Anspruch?
 2. **Faelligkeit:** Ist die Forderung bereits fällig und durchsetzbar (§ 271 BGB)?
-3. **Verjaehrung:** Ist die dreijährige Regelverjährung (§ 195 BGB) gewährt oder droht sie?
+3. **Verjährung:** Ist die dreijährige Regelverjährung (§ 195 BGB) gewährt oder droht sie?
 4. **BATNA:** Was ist die beste Alternative zum Mahnschreiben (gerichtliches Mahnverfahren, Klage, Verhandlung)?
 5. **Vertraulichkeitsfilter:** Dürfen mandatsbezogene Daten in das eingesetzte KI-System eingespielt werden?
 

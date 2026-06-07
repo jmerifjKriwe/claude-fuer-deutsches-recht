@@ -1,13 +1,13 @@
 ---
 name: manuskript-merkwuerdige-formate-rettung
-description: "Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dateien und KI-generiertem Wust; legt saubere Konvertierungspfade fuer die Verlagsredaktion im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dateien und KI-generiertem Wust; legt saubere Konvertierungspfade für die Verlagsredaktion im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Manuskript-Rettung aus merkwuerdigen Formaten
 
 ## Arbeitsbereich
 
-Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dateien und KI-generiertem Wust; legt saubere Konvertierungspfade fuer die Verlagsredaktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dateien und KI-generiertem Wust; legt saubere Konvertierungspfade für die Verlagsredaktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Autorinnen und Autoren liefern selten in der Form, die der Verlag braucht. Diese
 Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anfuehrungszeichen, gemischte Bullet-Stile, eingefrorene Tabellen, "smart quotes" im Quelltext, Word-Felder mit fehlenden Verweisen oder offenkundige LLM-Artefakte (Drei-Strich-Listen, Halbsatzbruch nach jedem zweiten Absatz). Klaeren Sie kurz:
 
 1. Welches Quellformat liegt vor (.doc, .docx, .odt, .md, .tex, .rtf, .pdf, gemischt)?
-2. Welches Zielformat braucht die Produktion (Verlags-DOCX-Vorlage, InDesign-XML, LaTeX-Klasse, XML-Auszeichnung fuer Online-Kommentar)?
+2. Welches Zielformat braucht die Produktion (Verlags-DOCX-Vorlage, InDesign-XML, LaTeX-Klasse, XML-Auszeichnung für Online-Kommentar)?
 3. Sind im Quelltext aktive Verweise / Felder / Track-Changes / Kommentare zu erhalten?
 4. Wie hoch ist der KI-Verdacht (gleichfoermiger Absatzrhythmus, fehlende Pinpoints, "in der Regel"-Floskeln)?
 
@@ -36,7 +36,7 @@ Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anf
 - Verlagsvorlage (.dotx oder Style-Sheet).
 - Hinweisliste vom Autor zu Spezialzeichen, Sonderschreibweisen, Logos.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Sicherungskopie ablegen.** Original nie ueberschreiben. Arbeitsdatei kopieren, Versionsstand im Dateinamen (`Mueller-Aufsatz_v1-eingang.docx`).
 2. **Format identifizieren.** Bei .doc unbedingt einmal in LibreOffice oder Word neu als .docx speichern, bevor weitere Tools darauf zugreifen.
@@ -54,7 +54,7 @@ Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anf
 | Aufwand | gering bei sauberen Quellen | hoch | A wenn .md/.tex/.docx eindeutig |
 | Risiko | Verlust von Sonderformaten | langsame Drift | B wenn Tabellen / Felder kritisch |
 | Reproduzierbar | ja, Skriptbasis | nein | A bei Serienkonvertierung |
-| KI-Verdacht | Pandoc loescht nichts | Lektorat kann markieren | B fuer redaktionelle Beurteilung |
+| KI-Verdacht | Pandoc loescht nichts | Lektorat kann markieren | B für redaktionelle Beurteilung |
 
 ## Praxistipps der alten Redaktion
 
@@ -67,7 +67,7 @@ Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anf
 
 **Anschreiben bei Format-Defekt:**
 
-> Sehr geehrte Frau Dr. Mueller, Ihr Manuskript zu "Drittwirkung der Grundrechte" ist am 12.06.2026 eingegangen. Bei der technischen Eingangspruefung sind uns folgende Punkte aufgefallen, die wir vor dem Lektorat bereinigen muessten: (1) gemischte Anfuehrungszeichen, (2) zerschossene Verweise in Fussnoten 14, 27 und 41, (3) Tabelle 2 auf S. 18 ist als Bild eingefuegt. Wir wuerden Schritt 1 und 2 inhouse bereinigen; fuer Schritt 3 bitten wir um die Originaltabelle als .xlsx bis 19.06.2026. Mit freundlichen Gruessen, Redaktion NJW
+> Sehr geehrte Frau Dr. Mueller, Ihr Manuskript zu "Drittwirkung der Grundrechte" ist am 12.06.2026 eingegangen. Bei der technischen Eingangspruefung sind uns folgende Punkte aufgefallen, die wir vor dem Lektorat bereinigen muessten: (1) gemischte Anfuehrungszeichen, (2) zerschossene Verweise in Fussnoten 14, 27 und 41, (3) Tabelle 2 auf S. 18 ist als Bild eingefuegt. Wir wuerden Schritt 1 und 2 inhouse bereinigen; für Schritt 3 bitten wir um die Originaltabelle als .xlsx bis 19.06.2026. Mit freundlichen Gruessen, Redaktion NJW
 
 **Pandoc-Pipeline (Bash-Snippet):**
 
@@ -102,7 +102,7 @@ Output: Mueller-Aufsatz_v2-clean.docx
 ## Querverweise
 
 - `workflow-dokumentenintake` - allgemeiner Intake-im Plugin.
-- `workflow-kaltstart-und-routing` - fuer die erste Weiche.
+- `workflow-kaltstart-und-routing` - für die erste Weiche.
 - `verl-zeitschriftenartikel-leitfaden` - wenn das Manuskript ein Zeitschriftenaufsatz wird.
 - `lektorat-struktur-redaktion` - Anschluss-Skill nach erfolgter Bereinigung.
 - `verl-formatvorlage-check-autor-manuskript` - strenger Formatvorlagen-Check als naechster Schritt.
@@ -111,5 +111,5 @@ Output: Mueller-Aufsatz_v2-clean.docx
 
 - Pandoc User Guide, [https://pandoc.org/MANUAL.html](https://pandoc.org/MANUAL.html) (Stand: laufend).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024, Kapitel "Anfuehrungszeichen, Bindestrich, Sonderzeichen".
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016, S. 23 ff. zur Konsistenz bei Pinpoints.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, S. 23 ff. zur Konsistenz bei Pinpoints.
 - UrhG, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/) - Hinweis: bei Uebernahme fremder Tabellen / Grafiken aus PDF stets §§ 51, 63 UrhG pruefen.

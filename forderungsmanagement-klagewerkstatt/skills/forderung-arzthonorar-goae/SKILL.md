@@ -1,6 +1,6 @@
 ---
 name: forderung-arzthonorar-goae
-description: "Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-Ziffer und Steigerungsfaktor Regel-Schwellenwert sowie bei Ueberschreitung mit schriftlicher Begruendung. Verjaehrung § 195 BGB drei Jahre. Beweislast Steigerung beim Arzt. Klageweg AG oder LG nach § 23 GVG."
+description: "Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-Ziffer und Steigerungsfaktor Regel-Schwellenwert sowie bei Ueberschreitung mit schriftlicher Begruendung. Verjährung § 195 BGB drei Jahre. Beweislast Steigerung beim Arzt. Klageweg AG oder LG nach § 23 GVG."
 ---
 
 # Arzthonorar nach GOAE und GOZ
@@ -13,7 +13,7 @@ Geltendmachung des Honoraranspruchs aus Behandlungsvertrag mit Privatpatient. GK
 |---|---|
 | Privatbehandlung Arzt | § 630a BGB Behandlungsvertrag + GOAE |
 | Privatbehandlung Zahnarzt | § 630a BGB + GOZ |
-| Privatbehandlung Heilberuf (Hebamme, Logo) | je nach Gebuehrenordnung |
+| Privatbehandlung Heilberuf (Hebamme, Logo) | je nach Gebührenordnung |
 | IGeL-Leistungen GKV-Patient | § 18 BMV-Ä Vereinbarung + GOAE |
 
 ## Faelligkeit § 12 GOAE
@@ -35,7 +35,7 @@ Faelligkeit tritt **erst mit ordnungsgemaesser Rechnungserteilung** ein. Vor Ert
 
 | Bereich | Faktor | Voraussetzung |
 |---|---|---|
-| Regelfall (Schwellenwert) | 2,3 (1,8 fuer techn. Leistungen Labor) | keine Begruendung |
+| Regelfall (Schwellenwert) | 2,3 (1,8 für techn. Leistungen Labor) | keine Begruendung |
 | Erhoehung 1,0 - 2,3 | bis 2,3 | keine schriftliche Begruendung |
 | Ueberschreitung 2,3 - 3,5 | bis 3,5 | schriftliche Begruendung (Schwierigkeit, Zeitaufwand) |
 | Ueber 3,5 (Hoechstsatz) | mehr als 3,5 | Vereinbarung im Voraus schriftlich (§ 2 GOAE) |
@@ -80,7 +80,7 @@ Datum   GOAE-Ziff.   Bezeichnung       Faktor   Betrag
 
 Bei Faktor > 2,3 Begruendung: ... (falls anwendbar)
 Beihilfefaehig: ja
-Beleg fuer PKV/Beihilfe: bitte Original einreichen.
+Beleg für PKV/Beihilfe: bitte Original einreichen.
 ```
 
 ## Klageantrag und Streitwert
@@ -89,14 +89,14 @@ Wie reine Geldforderung. Streitwert = Hauptforderung ohne Zinsen (§ 3 ZPO i.V.m
 
 **Beispiel:** EUR 1.245,60 Hauptforderung → AG (ab 01.01.2026 unter 10.000 EUR, § 23 Nr. 1 GVG), kein Anwaltszwang.
 
-## Verjaehrung
+## Verjährung
 
 | Anspruch | Frist | Norm |
 |---|---|---|
 | Honoraranspruch Arzt | 3 Jahre | § 195 BGB |
 | Beginn | Schluss des Jahres mit Faelligkeit | § 199 Abs. 1 BGB |
 
-Verjaehrung beginnt **erst** mit Rechnungsstellung (Faelligkeitsausloeser § 12 GOAE). Vorsicht: Arzt darf Rechnung nicht beliebig verzoegern, sonst u.U. Treu und Glauben (§ 242 BGB).
+Verjährung beginnt **erst** mit Rechnungsstellung (Faelligkeitsausloeser § 12 GOAE). Vorsicht: Arzt darf Rechnung nicht beliebig verzoegern, sonst u.U. Treu und Glauben (§ 242 BGB).
 
 ## Datenschutz
 

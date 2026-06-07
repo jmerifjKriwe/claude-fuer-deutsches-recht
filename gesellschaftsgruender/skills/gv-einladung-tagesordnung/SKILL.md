@@ -34,7 +34,7 @@ Klaere vor Erstellung der Einladung:
 3. **Welche Fristen gelten?** Gesetzlich: 1 Woche (§ 51 I GmbHG); Satzungsverlaengerung pruefen.
 4. **Elektronischer Versand zugelassen?** Nur wenn Satzung das vorsieht (§ 51 II GmbHG).
 5. **Streitige Versammlung erwartet?** Notar hinzuziehen; eingeschriebener Brief mit Rueckschein.
-6. **Auslaendische Gesellschafter?** Bilinguale Einladung; § 5 BeurkG fuer Beurkundungen.
+6. **Auslaendische Gesellschafter?** Bilinguale Einladung; § 5 BeurkG für Beurkundungen.
 
 ## Zentrale Normen
 
@@ -65,7 +65,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 5 | Beschlussvorlagen beigefuegt? | Satzung (haeufig) | Fehlen kann Anfechtungsrisiko erhoehen |
 | 6 | Jahresabschluss bei ordentl. GV beigefuegt? | § 42a GmbHG | Fehlende Unterlage = Anfechtbarkeit |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Termin festlegen:** Raeumliche und zeitliche Kapazitaet; Mindestfrist (≥ 1 Woche + 3 Tage Poststlaufzeit) rueckwaerts rechnen.
 2. **Tagesordnung entwerfen:** Jeden Beschluss konkret benennen; keine Generalklauseln.
@@ -112,7 +112,7 @@ TOP 3: Beschluss ueber Gewinnverwendung
  Beschlussvorlage: "Der Jahresueberschuss von
  [BETRAG] EUR wird [thesauriert / ausgeschuettet]."
 
-TOP 4: Entlastung der Geschaeftsfuehrung fuer das
+TOP 4: Entlastung der Geschaeftsfuehrung für das
  Geschaeftsjahr [JAHR]
  Beschlussvorlage: "Den Geschaeftsfuehrern wird
  Entlastung erteilt."
@@ -167,7 +167,7 @@ Anlage: [RELEVANTE DOKUMENTE]
 ## Rote Schwellen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Vage Tagesordnung fuer wichtige Beschluesse: Anfechtbarkeit (OLG Muenchen 2022)
+- Vage Tagesordnung für wichtige Beschluesse: Anfechtbarkeit (OLG Muenchen 2022)
 - Elektronischer Versand ohne Satzungs-Ermaechtigung: Anfechtbarkeit (§ 51 II GmbHG)
 
 ## Quellen und Vertiefung

@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeitspruefung-warum
-description: "Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen fuer die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt."
+description: "Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt."
 ---
 
 # NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln
@@ -26,7 +26,7 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 - **HdR** Teil A.III — Begruendungspflichten
 - **Subsidiaritaetsprinzip** Art. 5 EUV (bei EU-Bezug)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. Problemdefinition
 
@@ -37,12 +37,12 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 
 ### 2. Marktversagen-Test (bei Wirtschaftsregelung)
 
-- Klassisches Marktversagen: Information, externe Effekte, oeffentliche Gueter, Marktmacht
+- Klassisches Marktversagen: Information, externe Effekte, öffentliche Gueter, Marktmacht
 - Korrigieren Markt oder Selbstregulierung das Problem nicht?
 
 ### 3. Subsidiaritaet (vertikal)
 
-- Loesen Laender oder Kommunen das Problem nicht?
+- Loesen Länder oder Kommunen das Problem nicht?
 - Loest die EU es nicht?
 
 ### 4. Vorhandene Regelung
@@ -58,7 +58,7 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 ### 6. Wirksamkeitsprognose
 
 - Kann die geplante Regelung das Problem ueberhaupt loesen?
-- Welche Begruendung dafuer?
+- Welche Begruendung dafür?
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 

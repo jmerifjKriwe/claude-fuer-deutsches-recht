@@ -101,7 +101,7 @@ Objekttabelle und ein einheitliches Risikoschema.
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
 
 - **BGH 15.04.2021, V ZB 175/20**: Grundbucheintragung — Bewilligung muss bestimmten Inhalt aufweisen; bei Auflassungsvormerkung Konkretisierung des gesicherten Anspruchs erforderlich. Quelle: dejure.org/2021,14528.
-- **BGH 17.09.2021, V ZR 12/21**: WEMoG-Reform; Bauliche Veraenderungen § 20 WEG; Folgen fuer Grundbucheintragungen bei Sondernutzungsrechten. Quelle: dejure.org/2021,30989.
+- **BGH 17.09.2021, V ZR 12/21**: WEMoG-Reform; Bauliche Veraenderungen § 20 WEG; Folgen für Grundbucheintragungen bei Sondernutzungsrechten. Quelle: dejure.org/2021,30989.
 - **BGH 25.02.2016, V ZR 244/14**: Loeschungsfaehiges Grundpfandrecht — Voraussetzungen § 1183 BGB. Quelle: dejure.org/2016,5478.
 - **BGH 07.07.2022, V ZB 21/22**: Notarielle Beurkundungsbefugnis ueber Grundstuecksgeschaefte gem. § 311b BGB. Quelle: dejure.org/2022,18504.
 
@@ -110,7 +110,7 @@ Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifi
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## — Schritt fuer Schritt
+## — Schritt für Schritt
 
 1. **Grundbuchauszuege anfordern** — aktuell (ggf. amtliches Datumsstempel pruefen); bei Portfolio: Grundbuchamts-CSV abrufen
 2. **Abt. I — Eigentuemerkette** — Luecken im Eigentumsuebergang? Erbfolgenachweis (Erbschein/Erbvertrag) aktuell?

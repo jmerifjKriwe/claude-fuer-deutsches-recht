@@ -28,8 +28,22 @@ Einfuhr Ausfuhr Durchfuhr wird nicht als abstraktes Schema beantwortet, sondern 
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 BtMG` — Betäubungsmittelbegriff und Anlagenbezug.
+- `§ 3 BtMG` — Erlaubnispflicht.
+- `§ 29 Abs. 1 BtMG` — Grundtatbestaende.
+- `§ 29a Abs. 1 BtMG` — nicht geringe Menge/Abgabe an Minderjaehrige.
+- `§ 30 Abs. 1 BtMG` — Verbrechenstatbestaende.
+- `§ 30a Abs. 1 BtMG` — bewaffnete/organisierte Konstellationen.
+- `§ 31 BtMG` — Aufklaerungshilfe.
+- `§ 35 BtMG` — Zurueckstellung der Strafvollstreckung.
+- `§ 36 BtMG` — Anrechnung Therapie.
+- `§ 94 StPO` — Sicherstellung/Beschlagnahme.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - BtMG, BtMVV, Medizinalcannabis, Apotheken-/Arzneimittelrecht
 - Erlaubnis, Verschreibung, Substitution, Besitz/Handel, Einziehung
 - Strafrecht/OWi, Berufsrecht, Fahreignung, Aufsicht

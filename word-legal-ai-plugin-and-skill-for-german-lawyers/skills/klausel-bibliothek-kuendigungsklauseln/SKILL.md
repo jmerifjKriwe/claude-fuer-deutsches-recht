@@ -1,13 +1,13 @@
 ---
 name: klausel-bibliothek-kuendigungsklauseln
-description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klauselbibliothek-Katalog
 
 ## Arbeitsbereich
 
-Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,14 +19,14 @@ Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer deutsche Wirtschaftsvert
 
 ## Zweck
 
-Dieser Skill ist ein abrufbarer Katalog fertiger Klauselbausteine fuer deutsche Wirtschaftsvertraege. Er ersetzt nicht das Drafting, sondern beschleunigt es: Stelle nicht jeden Vertrag bei null auf, sondern starte mit getesteten Bausteinen und passe sie an die konkrete Mandatsfrage an.
+Dieser Skill ist ein abrufbarer Katalog fertiger Klauselbausteine für deutsche Wirtschaftsvertraege. Er ersetzt nicht das Drafting, sondern beschleunigt es: Stelle nicht jeden Vertrag bei null auf, sondern starte mit getesteten Bausteinen und passe sie an die konkrete Mandatsfrage an.
 
 Jeder Baustein hat:
 - **Verwendungshinweis** (B2B / B2C / beides)
 - **AGB-Risiko** (gruen / gelb / rot)
 - **Alternative mild** (verhandlungsoffen)
 - **Alternative scharf** (Verhandlungsmaximum)
-- **Englische Fassung** fuer bilinguale Vertraege
+- **Englische Fassung** für bilinguale Vertraege
 
 ## Eingaben
 
@@ -46,7 +46,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 2. Schlagen Sie in `references/klausel-bibliothek.md` nach.
 3. Pruefen Sie das Verwendungsfeld (B2B / B2C / beides).
 4. Pruefen Sie die AGB-Ampel. Bei rot: AGB-Skill `agb-konforme-klauseln-305-310-bgb` konsultieren.
-5. Waehlen Sie mild oder scharf je nach Verhandlungsstrategie.
+5. Wählen Sie mild oder scharf je nach Verhandlungsstrategie.
 6. Passen Sie die Variablen an (Fristen, Betraege, Parteien).
 7. Pruefen Sie die Konsistenz mit anderen Klauseln (Definitionen, Querverweise).
 
@@ -80,15 +80,15 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 
 > ### § X Haftung
 >
-> (1) Die Parteien haften einander fuer Schaeden, die auf Vorsatz oder grober Fahrlaessigkeit beruhen, unbegrenzt.
+> (1) Die Parteien haften einander für Schaeden, die auf Vorsatz oder grober Fahrlaessigkeit beruhen, unbegrenzt.
 >
 > (2) Fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit haftet jede Partei unbegrenzt.
 >
-> (3) Im Uebrigen haftet jede Partei nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), die fuer die Erreichung des Vertragszwecks unverzichtbar sind und auf deren Einhaltung die andere Partei regelmaessig vertrauen darf; in diesem Fall ist die Haftung der Hoehe nach auf den vertragstypischen und vorhersehbaren Schaden begrenzt.
+> (3) Im Uebrigen haftet jede Partei nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), die für die Erreichung des Vertragszwecks unverzichtbar sind und auf deren Einhaltung die andere Partei regelmaessig vertrauen darf; in diesem Fall ist die Haftung der Hoehe nach auf den vertragstypischen und vorhersehbaren Schaden begrenzt.
 >
 > (4) Die Haftung nach Abs. 3 ist je Schadensereignis auf einen Betrag von EUR [...] begrenzt; die Haftung im Vertragsjahr ist insgesamt auf einen Betrag von EUR [...] begrenzt.
 >
-> (5) Eine Haftung fuer entgangenen Gewinn und mittelbare Schaeden ist im Rahmen der Begrenzung nach Abs. 3 und 4 ausgeschlossen.
+> (5) Eine Haftung für entgangenen Gewinn und mittelbare Schaeden ist im Rahmen der Begrenzung nach Abs. 3 und 4 ausgeschlossen.
 >
 > (6) Die Haftung nach dem Produkthaftungsgesetz bleibt unberuehrt.
 
@@ -118,7 +118,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 >
 > (1) Bei schuldhafter Verletzung der Geheimhaltungspflicht gemaess § Y schuldet die verletzende Partei der anderen Partei eine Vertragsstrafe in Hoehe von EUR 25.000 pro Einzelverstoss.
 >
-> (2) Bei einem Dauerverstoss ist die Vertragsstrafe fuer jeden angefangenen Monat des Verstosses gesondert zu zahlen, hoechstens jedoch sechsmal je Pflichtverletzung.
+> (2) Bei einem Dauerverstoss ist die Vertragsstrafe für jeden angefangenen Monat des Verstosses gesondert zu zahlen, hoechstens jedoch sechsmal je Pflichtverletzung.
 >
 > (3) Die Geltendmachung eines weitergehenden Schadensersatzes bleibt vorbehalten. Die Vertragsstrafe ist auf den Schadensersatzanspruch anzurechnen.
 
@@ -134,13 +134,13 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 >
 > ### § 2 Geheimhaltungspflicht
 >
-> (1) Die Empfangende Partei verpflichtet sich, Vertrauliche Informationen vertraulich zu behandeln, nicht ohne vorherige schriftliche Zustimmung der Offenlegenden Partei an Dritte weiterzugeben und ausschliesslich fuer die in diesem Vertrag genannten Zwecke zu verwenden.
+> (1) Die Empfangende Partei verpflichtet sich, Vertrauliche Informationen vertraulich zu behandeln, nicht ohne vorherige schriftliche Zustimmung der Offenlegenden Partei an Dritte weiterzugeben und ausschliesslich für die in diesem Vertrag genannten Zwecke zu verwenden.
 >
-> (2) Die Empfangende Partei darf Vertrauliche Informationen nur solchen Mitarbeitern, Beratern und Vertragspartnern zugaenglich machen, die fuer die Vertragsdurchfuehrung notwendigerweise davon Kenntnis haben muessen ("need to know") und die in vergleichbarer Weise zur Geheimhaltung verpflichtet sind.
+> (2) Die Empfangende Partei darf Vertrauliche Informationen nur solchen Mitarbeitern, Beratern und Vertragspartnern zugaenglich machen, die für die Vertragsdurchfuehrung notwendigerweise davon Kenntnis haben muessen ("need to know") und die in vergleichbarer Weise zur Geheimhaltung verpflichtet sind.
 >
 > ### § 3 Ausnahmen
 >
-> Die Geheimhaltungspflicht gilt nicht fuer Informationen, die:
+> Die Geheimhaltungspflicht gilt nicht für Informationen, die:
 >
 > a) der Empfangenden Partei zum Zeitpunkt der Offenlegung bereits rechtmaessig bekannt waren;
 > b) ohne Verschulden der Empfangenden Partei der Oeffentlichkeit zugaenglich werden;
@@ -149,7 +149,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 >
 > ### § 4 Dauer
 >
-> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht fuer eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Fuer Geschaeftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
+> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht für eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Fuer Geschäftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
 
 ### Force Majeure
 
@@ -157,7 +157,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 
 > ### § X Hoehere Gewalt
 >
-> (1) Keine Partei haftet fuer die Nichterfuellung oder verspaetete Erfuellung ihrer Verpflichtungen aus diesem Vertrag, soweit die Nichterfuellung oder Verspaetung auf einem Ereignis hoeherer Gewalt beruht.
+> (1) Keine Partei haftet für die Nichterfuellung oder verspaetete Erfuellung ihrer Verpflichtungen aus diesem Vertrag, soweit die Nichterfuellung oder Verspaetung auf einem Ereignis hoeherer Gewalt beruht.
 >
 > (2) Ereignisse hoeherer Gewalt sind solche, die ausserhalb des zumutbaren Einflussbereichs der betroffenen Partei liegen und trotz Anwendung der im Verkehr erforderlichen Sorgfalt nicht abgewendet werden konnten, insbesondere: Naturkatastrophen, Epidemien und Pandemien, kriegerische Auseinandersetzungen, Terrorakte, behoerdliche Anordnungen mit Auswirkung auf die Vertragserfuellung, allgemeine Energie- und Rohstoffknappheit, Streiks und Aussperrungen, sofern nicht von der betroffenen Partei verschuldet, sowie Cyber-Angriffe auf wesentliche Infrastruktur.
 >
@@ -173,7 +173,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 >
 > (1) Dieser Vertrag unterliegt ausschliesslich dem Recht der Bundesrepublik Deutschland. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
 >
-> (2) Ausschliesslicher Gerichtsstand fuer alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Sitz der Auftraggeberin. Die Auftraggeberin ist berechtigt, die Auftragnehmerin auch an deren allgemeinem Gerichtsstand zu verklagen.
+> (2) Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Sitz der Auftraggeberin. Die Auftraggeberin ist berechtigt, die Auftragnehmerin auch an deren allgemeinem Gerichtsstand zu verklagen.
 
 ### Schriftformklausel mit Ausnahme der Schriftformklausel
 
@@ -181,7 +181,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 
 > ### § X Aenderungen, Schriftform
 >
-> (1) Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch fuer die Aufhebung oder Aenderung dieser Schriftformklausel.
+> (1) Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch für die Aufhebung oder Aenderung dieser Schriftformklausel.
 >
 > (2) Die Schriftform ist gewahrt durch eine eigenhaendig oder mittels qualifizierter elektronischer Signatur unterzeichnete Vertragsurkunde, die in einem einheitlichen Dokument oder in mehreren gleichlautenden Ausfertigungen vorliegt.
 >
@@ -193,12 +193,12 @@ Die Bibliothek wird regelmaessig aktualisiert. Aenderungen in der Gesetzgebung (
 
 ## Querverweise
 
-- `agb-konforme-klauseln-305-310-bgb` fuer AGB-Pruefung
-- `boilerplate-klauseln-katalog` fuer Standardklauseln-Drafting
-- `bilingual-drafting-deutsch-englisch` fuer Uebersetzungen
-- `defensive-drafting-fallen-erkennen` fuer Verteidigungsformulierungen
-- `vertragsstrafe-339-bgb` fuer Pruefung der Vertragsstrafe
-- `haftungsausschluss-und-haftungsbegrenzung` fuer Haftungsklauseln
+- `agb-konforme-klauseln-305-310-bgb` für AGB-Pruefung
+- `boilerplate-klauseln-katalog` für Standardklauseln-Drafting
+- `bilingual-drafting-deutsch-englisch` für Uebersetzungen
+- `defensive-drafting-fallen-erkennen` für Verteidigungsformulierungen
+- `vertragsstrafe-339-bgb` für Pruefung der Vertragsstrafe
+- `haftungsausschluss-und-haftungsbegrenzung` für Haftungsklauseln
 
 ## Quellen (Stand 05/2026)
 

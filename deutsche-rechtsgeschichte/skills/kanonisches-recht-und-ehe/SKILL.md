@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretu
 
 Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Co
 
 ## Worum es geht
 
-Das kanonische Recht (kirchliches Recht) hatte fuer das Eherecht bis ins 19. Jahrhundert pragende Bedeutung. Das Decretum Gratiani (ca. 1140) systematisierte das Kirchenrecht erstmals. Der Corpus Iuris Canonici (Editio Romana 1582) blieb bis 1917 die massgebliche Quellensammlung. Das Tridentinum (Konzil von Trient, 1545-1563) schuf mit dem Dekret Tametsi die Voraussetzungen fuer die katholische Pflichtform der Ehe. Die Einfuehrung der obligatorischen Zivilehe im Deutschen Reich 1874 (RGBl. 1874, 47) loeste das Eherecht aus dem kirchlichen Monopol. Das BGB 1900 kodifizierte das saekularisierte Eherecht.
+Das kanonische Recht (kirchliches Recht) hatte für das Eherecht bis ins 19. Jahrhundert pragende Bedeutung. Das Decretum Gratiani (ca. 1140) systematisierte das Kirchenrecht erstmals. Der Corpus Iuris Canonici (Editio Romana 1582) blieb bis 1917 die massgebliche Quellensammlung. Das Tridentinum (Konzil von Trient, 1545-1563) schuf mit dem Dekret Tametsi die Voraussetzungen für die katholische Pflichtform der Ehe. Die Einfuehrung der obligatorischen Zivilehe im Deutschen Reich 1874 (RGBl. 1874, 47) loeste das Eherecht aus dem kirchlichen Monopol. Das BGB 1900 kodifizierte das saekularisierte Eherecht.
 
 ## Kernnormen / Kernquellen
 
@@ -48,7 +65,7 @@ Das kanonische Recht (kirchliches Recht) hatte fuer das Eherecht bis ins 19. Jah
 
 - Corpus Iuris Canonici: historische Editionen (Friedberg 1879-1881)
 - Tametsi-Dekret: Konzilsakten von Trient, historische Edition
-- BGB §§ 1303 ff.: gesetze-im-internet.de fuer aktuelle Fassung; historisch Mugdan Bd. IV
+- BGB §§ 1303 ff.: gesetze-im-internet.de für aktuelle Fassung; historisch Mugdan Bd. IV
 - Reichsgesetzblatt 1874: ALEX/OeNB
 
 ## Output

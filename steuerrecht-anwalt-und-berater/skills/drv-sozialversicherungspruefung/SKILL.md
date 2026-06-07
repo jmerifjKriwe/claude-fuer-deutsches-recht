@@ -1,6 +1,6 @@
 ---
 name: drv-sozialversicherungspruefung
-description: "Steuerberater-Begleitung der DRV-Sozialversicherungsprüfung nach § 28p SGB IV. Anwendungsfall Mandant-GmbH erhaelt DRV-Prüfankündigung oder Prüfung laeuft bereits. Prüfungsschwerpunkte Statusfeststellung GF Scheinselbstständigkeit Mini- und Midijobs Phantomlohn Mindestlohn BAGB. Strafbarkeit § 266a StGB vorenthaltene Arbeitnehmer-Beitraege Haftungsrisiko GF § 69 AO Lohnsteuer-Aussenprüfung Verknuepfung. Output Mitwirkungsdokumentation Anhoerungsschreiben Widerspruchsvorlage. Abgrenzung zu anw-gf-haftung-69-ao-nicht-abgeführte-steuern GF-Haftung Steuer."
+description: "Steuerberater-Begleitung der DRV-Sozialversicherungsprüfung nach § 28p SGB IV. Anwendungsfall Mandant-GmbH erhaelt DRV-Prüfankündigung oder Prüfung laeuft bereits. Prüfungsschwerpunkte Statusfeststellung GF Scheinselbstständigkeit Mini- und Midijobs Phantomlohn Mindestlohn BAGB. Strafbarkeit § 266a StGB vorenthaltene Arbeitnehmer-Beitraege Haftungsrisiko GF § 69 AO Lohnsteuer-Aussenprüfung Verknuepfung. Output Mitwirkungsdokumentation Anhörungsschreiben Widerspruchsvorlage. Abgrenzung zu anw-gf-haftung-69-ao-nicht-abgeführte-steuern GF-Haftung Steuer."
 ---
 
 # DRV-Sozialversicherungsprüfung — Steuerberater-Begleitung

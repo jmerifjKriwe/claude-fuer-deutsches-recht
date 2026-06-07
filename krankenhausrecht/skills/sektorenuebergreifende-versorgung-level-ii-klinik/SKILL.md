@@ -40,7 +40,7 @@ Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenueber
 - **MVZ-Recht § 95 SGB V** Medizinische Versorgungszentren.
 - **G-BA-Beschluesse** zu sektorenuebergreifenden Versorgungsformen.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Versorgungsmodell entwerfen:** Welche Leistungen ambulant, welche kurzstationaer, welche stationaer?
 2. **Strukturmerkmale pruefen:** Personal (Aerzte/Pflege 24/7 oder erweitert), Geraete, OP, Notfallaufnahme.
 3. **Kooperationsmodelle:** MVZ-Anbindung, Praxen, Telemedizin, Rettungsdienst-Kooperation.
@@ -60,9 +60,9 @@ Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenueber
 
 ## Praxistipps
 - Level Ii ist konzeptionell mit Notaufnahme + ambulant-stationaerer Versorgung verbunden — Strukturanforderungen bleiben sportlich.
-- Hybrid-DRG-Katalog ist die wirtschaftliche Achse; Personal/Geraete fuer haeufige Hybrid-DRG-Eingriffe vorhalten.
+- Hybrid-DRG-Katalog ist die wirtschaftliche Achse; Personal/Geraete für haeufige Hybrid-DRG-Eingriffe vorhalten.
 - Kooperationsvertraege schriftlich, mit Steuerungsstruktur und Vertretungsregeln.
-- Transformationsfonds (50 Mrd. EUR) ist die wichtigste Foerderquelle fuer Level-Ii-Umbau.
+- Transformationsfonds (50 Mrd. EUR) ist die wichtigste Foerderquelle für Level-Ii-Umbau.
 - Bei Reduzierung von vollstationaerer Versorgung Personalplan und betriebsuebergangsrechtliche Fragen pruefen.
 
 ## Mustertexte
@@ -70,7 +70,7 @@ Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenueber
 > Konzept Level Ii-Klinik [Standort]. 1. Versorgungsauftrag: Grund-/Regelversorgung. 2. Leistungsgruppen: LG 14 Allg. Innere, LG 15 Geriatrie, LG 12 Notfall. 3. Strukturmerkmale: Personal …, Geraete …, Notfallaufnahme …. 4. Kooperationen: MVZ [Name], Praxis [Name], Telemedizin [Anbieter]. 5. Verguetungsmix: 50 % Hybrid-DRG, 30 % DRG, 20 % AOP. 6. Investitionsplan / Transformationsfondsantrag.
 
 **Antrag Transformationsfonds (Skizze):**
-> Wir beantragen Mittel aus dem Transformationsfonds nach KHVVG fuer den Umbau zur Level Ii-Klinik. Konzept Anlage 1; Bedarfsbegruendung Anlage 2; Wirtschaftlichkeit Anlage 3; Kofinanzierung Land Anlage 4.
+> Wir beantragen Mittel aus dem Transformationsfonds nach KHVVG für den Umbau zur Level Ii-Klinik. Konzept Anlage 1; Bedarfsbegruendung Anlage 2; Wirtschaftlichkeit Anlage 3; Kofinanzierung Land Anlage 4.
 
 ## Typische Fehler
 - Level Ii als reine Ambulanz-Ausweichloesung verstanden — Strukturmerkmale Notfall bleiben.

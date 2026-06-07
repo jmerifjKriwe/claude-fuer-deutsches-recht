@@ -35,7 +35,7 @@ description: "Erstgespraech Mandatsannahme Abmahnung UWG im Plugin Fachanwalt Ge
 
 1. Liegt eine **Abmahnung, einstweilige Verfuegung oder Fristmitteilung** vor? Wenn ja: Datum feststellen und sofort Kalender-Alarm setzen.
 2. Welches **Schutzrecht** ist betroffen: Marke (MarkenG), Design (DesignG), Patent (PatG), Gebrauchsmuster (GebrMG) oder lauterkeitsrechtlicher Anspruch (UWG)?
-3. Sind **mehrere Parteien** am Sachverhalt beteiligt, fuer die ein Interessenkonflikt bestehen koennte (§ 43a Abs. 4 BRAO, § 3 BORA)?
+3. Sind **mehrere Parteien** am Sachverhalt beteiligt, für die ein Interessenkonflikt bestehen koennte (§ 43a Abs. 4 BRAO, § 3 BORA)?
 4. Ist der Mandant eine **juristische Person** → Handelsregister, Transparenzregister, wirtschaftlich Berechtigte pruefen (§§ 10 ff. GwG).
 5. Was ist das **Endziel** des Mandanten in einem Satz?
 
@@ -43,7 +43,7 @@ description: "Erstgespraech Mandatsannahme Abmahnung UWG im Plugin Fachanwalt Ge
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster fuer Marken-, Patent-, Design- und Wettbewerbsrecht:
+Standard-Fragenraster für Marken-, Patent-, Design- und Wettbewerbsrecht:
 
 - Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
@@ -56,15 +56,15 @@ Standard-Fragenraster fuer Marken-, Patent-, Design- und Wettbewerbsrecht:
 - Konflikt-Check ueber Mandantensystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis, bei juristischer Person Handelsregister-/Transparenzregisterauszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG fuer RA-Mandate).
+- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
 
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, Behoerde.
+- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, Behörde.
 - Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Bereich Marken-, Patent-, Design- und Wettbewerbsrecht:
 
@@ -78,7 +78,7 @@ Standard-Streitwerte im Bereich Marken-, Patent-, Design- und Wettbewerbsrecht:
 Drei Weichen am Ende des Erstgespraechs:
 
 - **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzustaendig oder Konflikt.
+- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
 ## Zentrale Rechtsprechung
@@ -100,7 +100,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjaehrung, Ausschlussfristen, Beweisanforderungs-Fristen).
+2. **Frist-Liste** (Sofortfristen, Verjährung, Ausschlussfristen, Beweisanforderungs-Fristen).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
 4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
 5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
@@ -136,7 +136,7 @@ Naechste Schritte: 1. [MASSNAHME] bis [DATUM] — 2. [MASSNAHME] bis [DATUM]
 ```
 Sehr geehrte/r Frau/Herr [NAME],
 
-vielen Dank fuer unser heutiges Gespraech. Ich fasse die wesentlichen Punkte zusammen:
+vielen Dank für unser heutiges Gespraech. Ich fasse die wesentlichen Punkte zusammen:
 
 1. Sachverhalt: [Kurzbeschreibung]
 2. Handlungsbedarf: [Welche Schritte eingeleitet werden]
@@ -149,7 +149,7 @@ Mit freundlichen Gruessen
 [KANZLEI / NAME]
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ```
 Schritt 1: Frist identifizieren
@@ -205,7 +205,7 @@ Schritt 7: E-Mail-Zusammenfassung binnen 48 h
 
 Mandantin kommt am Donnerstag, Frist laeuft am Montag. Handlungs-Sequenz:
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behoerdenportal).
+1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
 2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO) als Reserve dokumentieren.
 3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
 4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten — aber transparent kommunizieren.
@@ -215,7 +215,7 @@ Mandantin kommt am Donnerstag, Frist laeuft am Montag. Handlungs-Sequenz:
 Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen):
 
 1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl — Spielraum fuer Verjaehrungs- und Ausschlussfristen identifizieren.
+2. Chronologischer Verlauf als Zeitstrahl — Spielraum für Verjährungs- und Ausschlussfristen identifizieren.
 3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
 
 ### Konstellation C: Interessenkonflikt-Naehe
@@ -235,13 +235,13 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang:
 | UWG-Verfuegungsantrag | Dringlichkeit (max. 4 Wochen Kenntniswahrung) | § 12 Abs. 1 UWG |
 | Einspruch DPMA (Patent) | 9 Monate ab Erteilung | § 59 Abs. 1 PatG |
 | Nichtigkeitsklage Patent | keine Frist (solange Patent laeuft) | § 81 PatG |
-| Verjaehrung UWG/MarkenG | 3 Jahre ab Kenntnis | §§ 195, 199 BGB |
+| Verjährung UWG/MarkenG | 3 Jahre ab Kenntnis | §§ 195, 199 BGB |
 | Verjaerungs-Hemmung | Klage, Mahnbescheid, Verhandlung | § 204 BGB |
 
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` — fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` — fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+- `vergleichsverhandlung-strategie` — für den Fall, dass aussergerichtliche Loesung angestrebt wird.
+- `schriftsatzkern-substantiierung` — für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 
 ## 2. `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg`
 
@@ -257,7 +257,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang:
 6. Hat die Gegenseite eine Schutzschrift beim Zentralen Schutzschriftenregister hinterlegt?
 7. Besteht UWG-Anspruchskonkurrenz mit Marken- oder Designrecht?
 8. Welcher Streitwert und damit welche Kostenrisiken sind realistisch?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -567,7 +567,7 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 
 - Bei Marken-/Patentstreit mit Auslandsbezug
 - Neutrale Mediatoren WIPO Geneva
-- Kostenguenstiger als Klage in mehreren Laendern
+- Kostenguenstiger als Klage in mehreren Ländern
 - 60-90 Tage Verfahren, vertraulich
 
 ### Pfad 4 — WIPO Arbitration
@@ -582,7 +582,7 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 - § 12 UWG einstweilige Verfuegung — Selbstwiderlegungsfrist beachten (max. 4 Wochen Kenntnis)
 - Erbieten Sicherheitsleistung bei Eilverfahren
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ```
 Schritt 1: Abmahnung formal pruefen

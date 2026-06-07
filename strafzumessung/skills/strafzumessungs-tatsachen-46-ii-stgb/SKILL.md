@@ -1,13 +1,13 @@
 ---
 name: strafzumessungs-tatsachen-46-ii-stgb
-description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persoenliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafzumessungstatsachen — § 46 Abs. 2 StGB
 
 ## Arbeitsbereich
 
-Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persoenliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -23,7 +23,7 @@ Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie bereiten den Schlussvortrag vor und brauchen ein Geruest fuer die Strafzumessungsargumentation.
+- Sie bereiten den Schlussvortrag vor und brauchen ein Geruest für die Strafzumessungsargumentation.
 - Sie schreiben oder reviewen einen Strafzumessungsabschnitt in einem Urteilsentwurf.
 - Sie pruefen eine Strafzumessungsruege: Welche Tatsachen sind uebersehen, welche unzulaessig gewertet?
 
@@ -36,7 +36,7 @@ Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (
 
 ## Strafzumessungs-Grundsatz
 
-Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld** oder die zu erwartenden **Wirkungen fuer das kuenftige Leben** beeinflusst. Reines Charakter-Urteil ueber den Taeter ohne Tatbezug ist unzulaessig.
+Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld** oder die zu erwartenden **Wirkungen für das kuenftige Leben** beeinflusst. Reines Charakter-Urteil ueber den Taeter ohne Tatbezug ist unzulaessig.
 
 ## Katalog-Aufschluesselung
 
@@ -83,23 +83,23 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 - **Hilfe bei der Aufklaerung** (§§ 31 BtMG, 46b StGB — Kronzeugenregelung).
 - **Belastendes Nachtatverhalten**: Verdunkelungsversuche, Drohungen gegen Zeugen, Verleumdung des Opfers in der Hauptverhandlung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
-1. **Tatsachenmaterial sammeln**: Akte, Anhoerung, Sozialbericht, BZRG-Auszug, Einkommensdaten.
+1. **Tatsachenmaterial sammeln**: Akte, Anhörung, Sozialbericht, BZRG-Auszug, Einkommensdaten.
 2. **Katalog durchgehen**: Jede der sieben Gruppen pruefen; nur substantiierte Tatsachen.
 3. **Gewichtung**: Pro Gruppe Pluspunkte (zugunsten) und Minuspunkte (zulasten) explizit machen.
 4. **Sondernormen**: § 46a StGB (TOA), § 46b StGB (Aufklaerungshilfe), § 17 StGB (Verbotsirrtum), §§ 20, 21 StGB (Schuldminderung).
 5. **Doppelverwertungs-Pruefung**: Welche Tatsache ist schon Tatbestandsmerkmal?
 6. **Zusammenfuegen**: Gesamtbild aus Schuld + Praevention im Schuldrahmen.
 
-## Beispielformulierungen fuer Verteidigung
+## Beispielformulierungen für Verteidigung
 
 - "Der Angeklagte hat sich aus akuter wirtschaftlicher Not zur Tat hinreissen lassen; eine einschlaegige Vorbelastung fehlt vollstaendig."
 - "Das Gestaendnis hat dem Gericht eine umfangreiche Beweisaufnahme erspart; in der Folge hat sich der Angeklagte aktiv um eine Ausgleichszahlung an die Geschaedigte bemueht."
 - "Die berufsrechtlichen Folgen treffen den Angeklagten mit ueberdurchschnittlicher Haerte, da seine Approbation infrage steht."
 - "Die Verfahrensdauer von [X] Jahren ist als rechtsstaatswidrige Verzoegerung iSv Art. 6 EMRK zu kompensieren."
 
-## Beispielformulierungen fuer Anklage
+## Beispielformulierungen für Anklage
 
 - "Die Tat zeichnet sich durch ein hohes Mass an krimineller Energie aus; der Angeklagte hat ueber Monate hinweg geplant."
 - "Die Geschaedigte leidet unter posttraumatischer Belastungsstoerung; die Tatfolgen sind ueber das Tatbestandsmerkmal der Koerperverletzung hinaus erheblich."

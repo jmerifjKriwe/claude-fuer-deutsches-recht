@@ -1,24 +1,24 @@
 ---
 name: actio-pauliana-voraussetzungen
-description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften fuer Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster."
+description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster."
 ---
 
 # Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht
 
 ## Aufgabe
 
-Skill fuer die Beweislastfragen bei der actio Pauliana.
+Skill für die Beweislastfragen bei der actio Pauliana.
 
 ## Beweislast
 
-- Glaeubiger traegt die Beweislast fuer:
+- Glaeubiger traegt die Beweislast für:
  - eventus damni
  - consilium fraudis des Schuldners
  - scientia oder conscientia des Dritten (bei entgeltlich)
 
 ## Indizienbeweis
 
-- Verkauf zu marktnotorisch zu niedrigem Preis: Indiz fuer scientia.
+- Verkauf zu marktnotorisch zu niedrigem Preis: Indiz für scientia.
 - Verkauf unter Freunden in zeitlicher Naehe zur Insolvenz.
 - Verschwiegene Geschaefte ueber Mittelsmaenner.
 

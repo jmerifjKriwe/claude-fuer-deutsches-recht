@@ -32,9 +32,9 @@ Das Staatsangehoerigkeitsrecht ist ein zentrales Instrument staatlicher Identita
 ## Akteure und Institutionen
 
 - **Reichstag 1913**: Gesetzgebungsakt RuStAG
-- **Vertriebenenverbande**: Lobby fuer Spaetaussiedler-Recht
+- **Vertriebenenverbande**: Lobby für Spaetaussiedler-Recht
 - **Bundesinnenministerium**: Staatsangehoerigkeitsrecht
-- **BVerfG**: GG Art. 116 Auslegung fuer Nachkommen
+- **BVerfG**: GG Art. 116 Auslegung für Nachkommen
 
 ## Typische Streitfragen / Forschungsfragen
 

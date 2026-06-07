@@ -12,7 +12,7 @@ ALR Zweiter Teil, Fuenfter Titel (Vom Gesinde) enthaelt mehrere Bestimmungen zum
 ### Schluesselparagraphen (Wortlaut sinngemaess)
 
 - **ALR II 5 § 196**: "Sklaverei soll in den koeniglichen Staaten nicht geduldet werden."
-- **ALR II 5 § 197**: "Sklaven, welche aus auswaertigen Laendern in die koeniglichen Staaten gebracht werden, sind, sobald sie die Grenze ueberschreiten, fuer frei zu erklaeren."
+- **ALR II 5 § 197**: "Sklaven, welche aus auswaertigen Ländern in die koeniglichen Staaten gebracht werden, sind, sobald sie die Grenze ueberschreiten, für frei zu erklaeren."
 - **ALR II 5 § 198 ff.**: ergaenzende Regelungen zu Pflichten der ehemaligen Herrschaft und zum spaeteren Aufenthaltsstatus.
 
 Wortlaut vor konkretem Zitat im Digitalisat (z. B. opinioiuris.de, Universitaetsbibliothek-Digitalisate) live verifizieren — die Paragraphennummerierung weicht zwischen Editionen 1794/1804 leicht ab.
@@ -30,7 +30,7 @@ In der Diskussion (auch bei juristischen Laien) taucht haeufig die Vorstellung a
 
 Moegliche Quellen dieser Vorstellung:
 - **Verwechselung mit dem englischen Common Law**: dort wurde im Somerset-Fall (Court of King's Bench, **22.06.1772**, Lord Mansfield) entschieden, dass Sklaven auf englischem Boden frei seien. Eine ausdrueckliche Jahresfrist gab es dort ebenfalls nicht.
-- **Verwechselung mit dem franzoesischen Code Noir und der "freie Luft"-Klausel** im Edit de juin 1716 (geaendert 1738), wo eine **Drei-Jahres-Frist** fuer Reisende mit Sklaven aus den Kolonien zentral war, vor deren Ablauf der Sklavenstatus erhalten blieb. Diese Frist wirkte gegenlaeufig zum spaeteren ALR.
+- **Verwechselung mit dem franzoesischen Code Noir und der "freie Luft"-Klausel** im Edit de juin 1716 (geaendert 1738), wo eine **Drei-Jahres-Frist** für Reisende mit Sklaven aus den Kolonien zentral war, vor deren Ablauf der Sklavenstatus erhalten blieb. Diese Frist wirkte gegenlaeufig zum spaeteren ALR.
 - **Anlage und Aufenthaltsregelung**: Im ALR gab es Bestimmungen zur **gesinderechtlichen Bindung** des frueher Versklavten an die ehemalige Herrschaft als Dienender. Diese gesinderechtliche Bindung war typischerweise auf **ein Jahr** angelegt (Jahresvertrag des Gesindes). Daraus mag der "1-Jahres"-Eindruck stammen — er bezieht sich aber auf die **gesinderechtliche Folgebindung**, nicht auf den Sklavenstatus selbst.
 
 Im Ergebnis: Der Sklavenstatus erlischt im ALR **sofort** mit Grenzuebertritt. Eine etwaige Jahresfrist betrifft nur die gesinderechtliche Anschlussbindung nach altem Dienstrecht.

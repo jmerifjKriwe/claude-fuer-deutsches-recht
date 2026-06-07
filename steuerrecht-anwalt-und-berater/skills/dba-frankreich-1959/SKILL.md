@@ -35,7 +35,7 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 - **DBA Deutschland-Frankreich vom 21.07.1959** (BGBl. 1961 II S. 397/398) mit Aenderungsprotokollen: 09.06.1969, 28.09.1989, 20.12.2001, 31.03.2015 (BGBl. 2015 II S. 1332/1335).
 - **OECD-MA** zur Auslegungshilfe.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
-- **MLI**: Deutschland und Frankreich sind Unterzeichnerstaaten; MLI wirksam fuer DBA-FR ab 01.01.2025 (BGBl. 2025 II Nr. 5) — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
+- **MLI**: Deutschland und Frankreich sind Unterzeichnerstaaten; MLI wirksam für DBA-FR ab 01.01.2025 (BGBl. 2025 II Nr. 5) — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
 - **Grenzgaengervereinbarung** (Verwaltungsvereinbarung Deutschland-Frankreich vom 16.02.2006) — massgebend im Original.
 
 ### Leitentscheidungen und BMF-Schreiben
@@ -120,11 +120,11 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 
 ### Erstattungsverfahren franzoesische Quellensteuer (retenue a la source)
 
-- **Zustaendigkeit**: franzoesische Erstattung durch **Service des Impots des Non-Residents (SIPNR)** in Noisy-le-Grand. Aktuelle Zustaendigkeit auf **impots.gouv.fr** pruefen.
-- **Antragsformulare**: in der Praxis verbreitete franzoesische Formulare **Cerfa 5000** (Antrag Quellensteuerentlastung/Reduktion auf DBA-Hoechstsatz; "Attestation de residence") und **Cerfa 5001** (Antrag Erstattung Dividenden bei Streubesitz); fuer Zinsen Cerfa 5002, fuer Lizenzen Cerfa 5003 — **konkrete Formularnummern und Bezeichnungen sind vom Anwender mit aktuellem Stand auf impots.gouv.fr zu verifizieren** (Cerfa-Nummern werden periodisch geaendert).
+- **Zuständigkeit**: franzoesische Erstattung durch **Service des Impots des Non-Residents (SIPNR)** in Noisy-le-Grand. Aktuelle Zuständigkeit auf **impots.gouv.fr** pruefen.
+- **Antragsformulare**: in der Praxis verbreitete franzoesische Formulare **Cerfa 5000** (Antrag Quellensteuerentlastung/Reduktion auf DBA-Hoechstsatz; "Attestation de residence") und **Cerfa 5001** (Antrag Erstattung Dividenden bei Streubesitz); für Zinsen Cerfa 5002, für Lizenzen Cerfa 5003 — **konkrete Formularnummern und Bezeichnungen sind vom Anwender mit aktuellem Stand auf impots.gouv.fr zu verifizieren** (Cerfa-Nummern werden periodisch geaendert).
 - **Frist**: nach franzoesischem CGI (Code General des Impots) und Livre des procedures fiscales regelmaessig **bis 31. Dezember des zweiten Folgejahres** nach Steuerentrichtung — knappe Frist!
 - **Bearbeitungsdauer SIPNR**: typischerweise 12-36 Monate; bei strittigen Faellen erheblich laenger. Anwaltliche Vertretung empfohlen bei groesseren Erstattungsbetraegen.
-- **Online-Portal**: **impots.gouv.fr** mit eigenem Bereich "Particuliers / international" und "Professionnels"; Online-Steuerkonto fuer Nichtansaessige.
+- **Online-Portal**: **impots.gouv.fr** mit eigenem Bereich "Particuliers / international" und "Professionnels"; Online-Steuerkonto für Nichtansaessige.
 
 ### Lokaler Steuerberater-Kontakt
 
@@ -156,7 +156,7 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 - **45-Tage-Schaedlichkeit mit Krankheitstagen verwechselt**: Krankheits- und Urlaubstage sind regelmaessig NICHT schaedlich; nur Dienstreisen/Tagungen/Schulungen zaehlen — Konkrete Zaehlung aus Verwaltungsvereinbarung 16.02.2006.
 - **Securite Sociale vs. private Pension**: franzoesische gesetzliche Renten ("Caisse Nationale d'Assurance Vieillesse") werden in der Praxis als Kassenstaat-Pensionen behandelt; berufsstaendische Caisses (AGIRC-ARRCO) gesondert.
 - **Erbschaftsteuer-DBA vs. Einkommensteuer-DBA**: Mandanten verwechseln regelmaessig die beiden DBA — Erbschaftsteuer-DBA (BGBl. 2007 II S. 900) erfasst nur ErbSt/SchenkSt, nicht laufende Einkuenfte.
-- **Konsultationsvereinbarung 20.03.2025 (BMF 19.05.2025)**: Anwendung Kassenstaatsprinzip Art. 14 Abs. 1 fuer ehemalige franzoesische Bedienstete — bei aelteren Mandanten-Memos vor 2025 pruefen.
+- **Konsultationsvereinbarung 20.03.2025 (BMF 19.05.2025)**: Anwendung Kassenstaatsprinzip Art. 14 Abs. 1 für ehemalige franzoesische Bedienstete — bei aelteren Mandanten-Memos vor 2025 pruefen.
 
 ## Berechnungsbeispiel — Grenzgaenger Elsass-DE
 
@@ -170,7 +170,7 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 
 ## Berechnungsbeispiel — Dividende FR-SA an DE-Privatperson (Streubesitz)
 
-> Mandant in DE wohnhaft, Dividende 10.000 EUR aus FR-SA. FR-Quellensteuer 12,8 Prozent (nationaler Standardsatz) = 1.280 EUR. DBA-Hoechstsatz fuer Streubesitz = 15 Prozent — nationale 12,8 Prozent darunter, keine Erstattung.
+> Mandant in DE wohnhaft, Dividende 10.000 EUR aus FR-SA. FR-Quellensteuer 12,8 Prozent (nationaler Standardsatz) = 1.280 EUR. DBA-Hoechstsatz für Streubesitz = 15 Prozent — nationale 12,8 Prozent darunter, keine Erstattung.
 >
 > Schritt 1: DE-Abgeltungsteuer 25 Prozent + 5,5 Prozent Soli = 26,375 Prozent von 10.000 = 2.637,50 EUR.
 >

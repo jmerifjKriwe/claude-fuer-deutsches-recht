@@ -26,7 +26,7 @@ description: "AGB bei Vereinen und Verbaenden. Skill klaert die AGB-rechtliche P
 
 ### Ausschluss
 - Klausel zum Ausschluss "ohne Begruendung" unwirksam.
-- BGH II ZR 30/10: Verfahrensgrundsaetze zwingend (Anhoerung, Rechtsschutz).
+- BGH II ZR 30/10: Verfahrensgrundsaetze zwingend (Anhörung, Rechtsschutz).
 
 ### Vereinsstrafen
 - Vertragsstrafe in Satzung wirksam, soweit angemessen.

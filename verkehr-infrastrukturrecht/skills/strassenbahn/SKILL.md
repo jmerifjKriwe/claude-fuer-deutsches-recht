@@ -1,13 +1,13 @@
 ---
 name: strassenbahn
-description: "Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz). Prüfraster: Konzessionsvoraussetzungen, Planfeststellungsverfahren, Direktvergabe-Zulassigkeit, Laerm-/Erschuetterungsschutz Anwohner. Output Konzessionsantrag-Prüfung, Planfeststellungs-Einwendung. Abgrenzung: Planfeststellung Schiene siehe verkehr-infrastrukturrecht-planfeststellung; Foerderung siehe verkehr-infrastrukturrecht-foerderung-vergabe im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz). Prüfraster: Konzessionsvoraussetzungen, Planfeststellungsverfahren, Direktvergabe-Zulassigkeit, Laerm-/Erschuetterungsschutz Anwohner. Output Konzessionsantrag-Prüfung, Planfeststellungs-Einwendung. Abgrenzung: Planfeststellung Schiene siehe verkehr-infrastrukturrecht-planfeststellung; Förderung siehe verkehr-infrastrukturrecht-foerderung-vergabe im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strassenbahn und OEPNV — Infrastrukturrecht
 
 ## Arbeitsbereich
 
-Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz). Prüfraster: Konzessionsvoraussetzungen, Planfeststellungsverfahren, Direktvergabe-Zulassigkeit, Laerm-/Erschuetterungsschutz Anwohner. Output Konzessionsantrag-Prüfung, Planfeststellungs-Einwendung. Abgrenzung: Planfeststellung Schiene siehe verkehr-infrastrukturrecht-planfeststellung; Foerderung siehe verkehr-infrastrukturrecht-foerderung-vergabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz). Prüfraster: Konzessionsvoraussetzungen, Planfeststellungsverfahren, Direktvergabe-Zulassigkeit, Laerm-/Erschuetterungsschutz Anwohner. Output Konzessionsantrag-Prüfung, Planfeststellungs-Einwendung. Abgrenzung: Planfeststellung Schiene siehe verkehr-infrastrukturrecht-planfeststellung; Förderung siehe verkehr-infrastrukturrecht-foerderung-vergabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,8 +27,8 @@ Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder 
 
 ## Zentrale Normen
 
-- **§ 9 PBefG** — Genehmigung fuer Strassenbahn und Obus; Mindestanforderungen
-- **§ 28 PBefG** — Planfeststellung und Plangenehmigung fuer Strassenbahnlinien
+- **§ 9 PBefG** — Genehmigung für Strassenbahn und Obus; Mindestanforderungen
+- **§ 28 PBefG** — Planfeststellung und Plangenehmigung für Strassenbahnlinien
 - **§ 39 PBefG** — Linienbuendelung; Koordinierung von OEPNV-Linien
 - **§ 8a PBefG** — Direktvergabe; Ausnahme von der Ausschreibungspflicht
 - **VO (EG) 1370/2007** — Oeffentliche Personenverkehrsdienste; Direktvergabe-Voraussetzungen
@@ -42,7 +42,7 @@ Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Planfeststellung Strassenbahn
+## Schritt-für-Schritt-Planfeststellung Strassenbahn
 
 1. **Trassenauswahl prufen:** Wurden Alternativen ernsthaft geprueft?
 2. **Einwendung formulieren:** Laerm, Erschuetterungen, Eigentumseingriff, Sichtbeziehungen.

@@ -99,7 +99,7 @@ Das Wehrstrafgesetz (WStG) ergänzt das StGB um spezifische soldatische Tatbest�
 - befehl-verweigern-gewissensnot-rechtswidrigkeit
 - entlassung-auf-eigenen-antrag
 - gerichtliches-disziplinarverfahren-soldat
-- truppendienstgericht-zustaendigkeit-verfahren
+- truppendienstgericht-zuständigkeit-verfahren
 - kriegsdienstverweigerung-verfahren
 
 ## Quellen Stand 06/2026

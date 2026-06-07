@@ -46,7 +46,7 @@ Hier verbindet sich Schadensrecht (ALR I 6) mit Vertragsrecht (ALR I 11), Gefahr
 - **ALR I 11 §§ 87-115** Gefahrtragung beim Kauf: Periculum nach Übergabe.
 - **ALR I 11 §§ 120-180** Mietzins- und Pachtgefahr.
 - **ALR I 13 §§ 1 ff.** Verwahrung; eingeengte Haftung des Verwahrers.
-- **Einl. §§ 74, 75 ALR** als Sondernormen fuer Aufopferung.
+- **Einl. §§ 74, 75 ALR** als Sondernormen für Aufopferung.
 
 ### Heutige Fortwirkung
 - Gefahrtragung im Kaufrecht: § 446 BGB ist konzeptionell ALR-nah.

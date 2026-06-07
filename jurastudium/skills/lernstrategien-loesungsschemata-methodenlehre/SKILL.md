@@ -27,8 +27,8 @@ Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfa
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 195 BGB — Regelverjaehrung: Muster-Anker fuer Spaced Repetition im Schuldrecht
-- §§ 242 StGB, 263 StGB — Strafrecht-Standardtatbestaende fuer Interleaving-Uebungen
+- § 195 BGB — Regelverjaehrung: Muster-Anker für Spaced Repetition im Schuldrecht
+- §§ 242 StGB, 263 StGB — Strafrecht-Standardtatbestaende für Interleaving-Uebungen
 - §§ 40, 42 VwGO — VwR-Klageart-Pruefung als wiederkehrendes Interleaving-Element
 - §§ 133, 157 BGB — Auslegung als Kern-Kompetenz: muss durch aktiven Abruf gelernt werden
 

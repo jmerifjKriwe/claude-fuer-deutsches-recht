@@ -1,6 +1,6 @@
 ---
 name: nichtigkeit-125-ao
-description: "Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertatbestand oder Anhoerungsmangel von Verfassungsrang. Behandelt Pruefraster Abgrenzung zur Rechtswidrigkeit Antrag auf Nichtigkeitsfeststellung Anwendung im Klage- und Vollstreckungsverfahren. Output Antragsmuster Nichtigkeitsfeststellung. Abgrenzung zu fa-stu-onboarding-bescheid-lesen und fa-stu-finanzgerichtsklage-78-fgo."
+description: "Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertatbestand oder Anhörungsmangel von Verfassungsrang. Behandelt Pruefraster Abgrenzung zur Rechtswidrigkeit Antrag auf Nichtigkeitsfeststellung Anwendung im Klage- und Vollstreckungsverfahren. Output Antragsmuster Nichtigkeitsfeststellung. Abgrenzung zu fa-stu-onboarding-bescheid-lesen und fa-stu-finanzgerichtsklage-78-fgo."
 ---
 
 # Nichtigkeit eines Steuerbescheids — § 125 AO
@@ -14,11 +14,11 @@ description: "Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids 
 ## Triage — kläre vor der Bearbeitung
 
 1. Leidet der Bescheid an einem besonders schweren Fehler iSd § 125 Abs. 1 AO?
-2. Ist der Fehler offenkundig — fuer einen verstaendigen Beobachter erkennbar?
+2. Ist der Fehler offenkundig — für einen verstaendigen Beobachter erkennbar?
 3. Liegt einer der Sondertatbestaende des § 125 Abs. 2 AO vor (Schriftform Zustellungsmangel Bestimmtheit Inhalt)?
-4. Ist die Nichtigkeit fuer den Mandanten guenstig oder waere ein Einspruch klueger?
+4. Ist die Nichtigkeit für den Mandanten guenstig oder waere ein Einspruch klueger?
 5. Vollstreckung laeuft — sofortige Vollstreckungsabwehr nach § 218 AO durch Nichtigkeitseinrede?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

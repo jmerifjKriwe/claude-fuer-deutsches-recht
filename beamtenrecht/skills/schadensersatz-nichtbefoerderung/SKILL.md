@@ -1,13 +1,13 @@
 ---
 name: schadensersatz-nichtbefoerderung
-description: "Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Beanstandung der Auswahl wegen Aemterstabilitaet nicht mehr greift. Behandelt das Erfordernis vorheriger Geltendmachung im Eilverfahren. Liefert Bausteine fuer Anspruchsschreiben und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Beanstandung der Auswahl wegen Aemterstabilitaet nicht mehr greift. Behandelt das Erfordernis vorheriger Geltendmachung im Eilverfahren. Liefert Bausteine für Anspruchsschreiben und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schadensersatz wegen Nichtbefoerderung
 
 ## Arbeitsbereich
 
-Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Beanstandung der Auswahl wegen Aemterstabilitaet nicht mehr greift. Behandelt das Erfordernis vorheriger Geltendmachung im Eilverfahren. Liefert Bausteine fuer Anspruchsschreiben und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidriger Nichtbefoerderung. Klaert Anspruchsgrundlage Pflichtverletzung Verschulden Schaden Kausalitaet und die hypothetische Befoerderungslage. Behandelt die Konstellation in der ein Konkurrent bereits ernannt und die Beanstandung der Auswahl wegen Aemterstabilitaet nicht mehr greift. Behandelt das Erfordernis vorheriger Geltendmachung im Eilverfahren. Liefert Bausteine für Anspruchsschreiben und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur Pruefung des beamtenrechtlichen Schadensersatzanspruchs bei rechtswidr
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Mandanten, die in einer Konkurrentenauswahl unterlegen waren, deren Konkurrent inzwischen ernannt ist und bei denen sich nachtraeglich heraussstellt, dass die Auswahlentscheidung rechtsfehlerhaft war. Wegen Aemterstabilitaet bleibt nur der Sekundaeranspruch auf Schadensersatz.
+Skill für Mandanten, die in einer Konkurrentenauswahl unterlegen waren, deren Konkurrent inzwischen ernannt ist und bei denen sich nachtraeglich heraussstellt, dass die Auswahlentscheidung rechtsfehlerhaft war. Wegen Aemterstabilitaet bleibt nur der Sekundaeranspruch auf Schadensersatz.
 
 ## 2. Eingaben
 
@@ -46,13 +46,13 @@ Skill fuer Mandanten, die in einer Konkurrentenauswahl unterlegen waren, deren K
 - Auch ideeller Schaden grundsaetzlich nicht erfasst.
 
 ### e) Kausalitaet
-- "Hypothetische Auswahl" — der Mandant muss bei fehlerfreiem Verfahren in einen rechtmaessigen Auswahlvorgang einbezogen worden waeren und ueberwiegend wahrscheinlich ausgewaehlt worden sein. Bei mehreren gleichwertigen Konkurrenten kann die Kausalitaet entfallen.
+- "Hypothetische Auswahl" — der Mandant muss bei fehlerfreiem Verfahren in einen rechtmäßigen Auswahlvorgang einbezogen worden waeren und ueberwiegend wahrscheinlich ausgewaehlt worden sein. Bei mehreren gleichwertigen Konkurrenten kann die Kausalitaet entfallen.
 
 ### f) Pflicht zur vorrangigen Inanspruchnahme des Primaerrechtsschutzes
 - Wer einen offensichtlich aussichtsreichen Eilantrag nach § 123 VwGO unterlassen hat, kann sich nicht auf den Sekundaeranspruch berufen. Das BVerwG verlangt vorrangiges Bemuehen um den Primaeranspruch (ständige Rechtsprechung, konkret vor Zitat frei prüfen).
 
-### g) Verjaehrung und Antragsfristen
-- Beamtenrechtliche Geltendmachung im Vorverfahren erforderlich. Verjaehrungsfrist nach BGB analog drei Jahre — Einzelheiten landesrechtlich pruefen.
+### g) Verjährung und Antragsfristen
+- Beamtenrechtliche Geltendmachung im Vorverfahren erforderlich. Verjährungsfrist nach BGB analog drei Jahre — Einzelheiten landesrechtlich pruefen.
 
 ## 4. Quellenpflicht
 
@@ -75,4 +75,4 @@ Skill fuer Mandanten, die in einer Konkurrentenauswahl unterlegen waren, deren K
 
 ## 7. Beispiel (Kurzfassung)
 
-Konkurrent wurde 2024 zum A15 ernannt; Anlassbeurteilung des Mandanten war wegen unterlassenen Beurteilungsbeitrags rechtswidrig. Mandant hatte zuvor erfolgreich Eilantrag gestellt, der unterlag nur wegen unzureichender Glaubhaftmachung. Skill liefert Anspruchsschreiben und Schadensberechnung A14 zu A15-Differenz fuer zwoelf Monate plus Auswirkung auf Versorgung.
+Konkurrent wurde 2024 zum A15 ernannt; Anlassbeurteilung des Mandanten war wegen unterlassenen Beurteilungsbeitrags rechtswidrig. Mandant hatte zuvor erfolgreich Eilantrag gestellt, der unterlag nur wegen unzureichender Glaubhaftmachung. Skill liefert Anspruchsschreiben und Schadensberechnung A14 zu A15-Differenz für zwoelf Monate plus Auswirkung auf Versorgung.

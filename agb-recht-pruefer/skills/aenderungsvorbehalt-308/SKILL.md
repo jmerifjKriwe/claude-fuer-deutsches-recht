@@ -52,7 +52,7 @@ description: "Norm- und Dogmatik-Skill für Änderungsvorbehalt 308: prüft die 
 - Wirksam: Anpassung gekoppelt an Indizes (etwa StatBA-Verbraucherpreisindex) mit transparenter Formel und Kuendigungsrecht.
 
 ### Update-Klauseln neu (§ 327f BGB)
-- Seit 01.01.2022 in Kraft: § 327f BGB regelt die Aktualisierungspflicht fuer digitale Produkte. AGB-Klauseln, die diese Pflicht unterlaufen, sind unwirksam.
+- Seit 01.01.2022 in Kraft: § 327f BGB regelt die Aktualisierungspflicht für digitale Produkte. AGB-Klauseln, die diese Pflicht unterlaufen, sind unwirksam.
 - BGH-Folgejudikate sind im Aufbau; Pruefung Az live verifizieren.
 
 ### Weitere relevante AGB-Klauseln § 308 BGB

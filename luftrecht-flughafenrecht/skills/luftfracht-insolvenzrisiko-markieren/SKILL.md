@@ -1,13 +1,13 @@
 ---
 name: luftfracht-insolvenzrisiko-markieren
-description: "Luftfrachtfuehrer oder grosser Luftfracht-Spediteur zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Frachtfuehrer-Pfandrecht HGB § 440 Montreal Convention Haftungsgrenzen und liefert Risikoampel fuer Fracht-Glaeubiger im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Luftfrachtfuehrer oder grosser Luftfracht-Spediteur zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Frachtfuehrer-Pfandrecht HGB § 440 Montreal Convention Haftungsgrenzen und liefert Risikoampel für Fracht-Glaeubiger im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Luftfracht – Insolvenzrisiko markieren
 
 ## Arbeitsbereich
 
-Luftfrachtfuehrer oder grosser Luftfracht-Spediteur zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Frachtfuehrer-Pfandrecht HGB § 440 Montreal Convention Haftungsgrenzen und liefert Risikoampel fuer Fracht-Glaeubiger. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Luftfrachtfuehrer oder grosser Luftfracht-Spediteur zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Frachtfuehrer-Pfandrecht HGB § 440 Montreal Convention Haftungsgrenzen und liefert Risikoampel für Fracht-Glaeubiger. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

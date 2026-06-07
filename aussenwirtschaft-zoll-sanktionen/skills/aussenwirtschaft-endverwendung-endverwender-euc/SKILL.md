@@ -27,7 +27,7 @@ Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaec
 
 1. EUC-Formular auf Vollstaendigkeit pruefen: Endverwender-Name und -Adresse, Verwendungszweck, Unterschrift und Firmenstempel.
 2. Authentizitaetspruefung: Unternehmensregister, Web-Praesenz, Gegencheck mit Handelspartnern.
-3. Abgleich der EUC-Angaben mit technischer Spezifikation; plausibel fuer zivilen Verwendungszweck?
+3. Abgleich der EUC-Angaben mit technischer Spezifikation; plausibel für zivilen Verwendungszweck?
 4. Red Flags der BAFA-Checkliste abarbeiten: Staatsunternehmen, Ruestungsnaeehe, ungewoehnliche Spezifikation.
 5. BAFA-Anfrage an Exporteur oder Nachfrage-Schreiben an Endverwender wenn Luecken.
 6. Ergebnis und Entscheidung im Compliance-System dokumentieren.
@@ -60,7 +60,7 @@ Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaec
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

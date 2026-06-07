@@ -67,7 +67,7 @@ Kooperationen mit US-Brands haben mehrere rechtliche Besonderheiten:
 ## Normen und Quellen
 
 - § 3a UStG: https://www.gesetze-im-internet.de/ustg_1980/__3a.html
-- DBA Deutschland-USA (Art. 14): https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_bis_G/Vereinigte-Staaten-von-Amerika-USA/2022-06-Einkommensteuer-DBA-Deutschland-USA.pdf
+- DBA Deutschland-USA (Art. 14): https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Länder_A_bis_G/Vereinigte-Staaten-von-Amerika-USA/2022-06-Einkommensteuer-DBA-Deutschland-USA.pdf
 - IRS W-8BEN: https://www.irs.gov/pub/irs-pdf/fw8ben.pdf
 - DSGVO Art. 46: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
 

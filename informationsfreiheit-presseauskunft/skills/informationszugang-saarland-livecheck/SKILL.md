@@ -28,8 +28,21 @@ Informationszugang Saarland Livecheck wird nicht als abstraktes Schema beantwort
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 IFG` — Anspruch auf Informationszugang beim Bund.
+- `§ 3 IFG` — Schutz besonderer öffentlicher Belange.
+- `§ 5 IFG` — personenbezogene Daten.
+- `§ 6 IFG` — geistiges Eigentum und Betriebs-/Geschäftsgeheimnisse.
+- `§ 7 IFG` — Antrag und Verfahren.
+- `§ 10 IFG` — Gebühren und Auslagen.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - IFG Bund, IFGGebV und Fachinformationsgesetze
 - Landes-IFG/Transparenzgesetze oder Ersatzwege in No-IFG-Ländern
 - UIG, VIG, Pressegesetze, Art. 5 GG, Art. 10 EMRK

@@ -69,10 +69,10 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 - Quelle: ALR Erster Teil, Titel 6, §§ 56-58.
 - Norm: Tierhalterhaftung des Bauern.
 - Subsumtion: Bauer ist Halter; Schaden durch Tier; Verschulden vermutet (auch bei "geboten" gehaltenem Hund leichte Haftung).
-- Rechtsfolge: Heilkosten zu ersetzen; Verdienstausfall fuer den Postboten.
+- Rechtsfolge: Heilkosten zu ersetzen; Verdienstausfall für den Postboten.
 
 **Heute**:
-- § 833 BGB Tierhalterhaftung; ggf. § 833 Satz 2 (Nutztier-Privileg). Heute strenger als ALR weil Verschuldensunabhaengig fuer Luxustiere.
+- § 833 BGB Tierhalterhaftung; ggf. § 833 Satz 2 (Nutztier-Privileg). Heute strenger als ALR weil Verschuldensunabhaengig für Luxustiere.
 
 ### Beispiel: Eheliche Vermoegenstrennung 1850
 

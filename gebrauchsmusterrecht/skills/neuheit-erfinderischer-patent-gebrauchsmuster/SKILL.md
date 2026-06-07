@@ -36,7 +36,7 @@ Arbeite mit Merkmalstabelle und Quellenbelegen; Eintragung beim DPMA ersetzt die
 
 ### § 3 GebrMG Neuheit
 - Stand der Technik umfasst alles vor dem Anmelde- oder Prioritaetstag der Oeffentlichkeit Zugaengliche.
-- **§ 3 Abs. 2 GebrMG: Neuheitsgnade von 6 Monaten** fuer eigene Veroeffentlichungen vor der Anmeldung (wesentlicher Unterschied zum Patent!).
+- **§ 3 Abs. 2 GebrMG: Neuheitsgnade von 6 Monaten** für eigene Veroeffentlichungen vor der Anmeldung (wesentlicher Unterschied zum Patent!).
 
 ### § 4 GebrMG Erfinderischer Schritt
 - Niedrigere Schwelle als die erfinderische Taetigkeit im Patentrecht (§ 4 PatG).

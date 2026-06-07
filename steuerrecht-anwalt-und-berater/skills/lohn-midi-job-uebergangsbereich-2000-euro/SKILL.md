@@ -56,7 +56,7 @@ Der Uebergangsbereich (umgangssprachlich Midi-Job) liegt zwischen 538,01 EUR (St
 ### Phase 2 — Faktor-F-Berechnung
 
 - § 20 Abs. 2 SGB IV i.V.m. § 163 Abs. 10 SGB VI: Reduzierung des SV-pflichtigen Entgelts bei Brutto im Uebergangsbereich.
-- Faktor F = (Gesamt-SV-Beitragssatz Minijob-Pauschal) / (Gesamt-SV-Beitragssatz regulaer). F wird jaehrlich vom Bundesministerium fuer Arbeit bekanntgemacht.
+- Faktor F = (Gesamt-SV-Beitragssatz Minijob-Pauschal) / (Gesamt-SV-Beitragssatz regulaer). F wird jaehrlich vom Bundesministerium für Arbeit bekanntgemacht.
 - F wird im Lohn-Programm automatisch berechnet; jaehrliche Aktualisierung bei Aenderung der Beitragssaetze.
 
 ### Phase 3 — Beitragsberechnung

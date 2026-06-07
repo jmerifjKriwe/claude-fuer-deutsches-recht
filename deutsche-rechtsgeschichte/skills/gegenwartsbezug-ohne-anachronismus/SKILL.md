@@ -19,11 +19,11 @@ Deutsche Rechtsgeschichte: Gegenwartsbezug ohne Anachronismus. Methodisches Rues
 
 ## Worum es geht
 
-Anachronismus ist die unzulässige Anwendung von Konzepten einer Epoche auf eine andere. In der Rechtsgeschichte sind haeufige Anachronismen: Schuldrecht-BGB-Kategorien auf roemisches Recht anwenden, NS-Recht mit moderner Menschenrechtsdoktrin messen ohne Kontextualisierung, Weimarer Parteienrecht mit GG-Massstab beurteilen. Korrekter Gegenwartsbezug hingegen benennt: (1) das historische Konzept in seinem Kontext, (2) die historische Kritik, (3) den Unterschied zum heutigen Recht, (4) was das fuer heutige Argumente bedeutet. Savignys Auslegungskanons, die historische Auslegung (genetische Interpretation), und die Kontinuitaetsfrage sind Kernfelder.
+Anachronismus ist die unzulässige Anwendung von Konzepten einer Epoche auf eine andere. In der Rechtsgeschichte sind haeufige Anachronismen: Schuldrecht-BGB-Kategorien auf roemisches Recht anwenden, NS-Recht mit moderner Menschenrechtsdoktrin messen ohne Kontextualisierung, Weimarer Parteienrecht mit GG-Massstab beurteilen. Korrekter Gegenwartsbezug hingegen benennt: (1) das historische Konzept in seinem Kontext, (2) die historische Kritik, (3) den Unterschied zum heutigen Recht, (4) was das für heutige Argumente bedeutet. Savignys Auslegungskanons, die historische Auslegung (genetische Interpretation), und die Kontinuitaetsfrage sind Kernfelder.
 
 ## Kernnormen / Kernquellen
 
-- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Massstab fuer Gegenwartsbezug
+- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Massstab für Gegenwartsbezug
 - **BVerfGE 62, 1** (1982): Historische Auslegung als Methode
 - **Savigny, System Bd. I** (1840): Vier Kanons inkl. historische Auslegung
 - **BGB § 133 und § 157**: Auslegungsnormen mit historischem Hintergrund
@@ -40,14 +40,14 @@ Anachronismus ist die unzulässige Anwendung von Konzepten einer Epoche auf eine
 1. Wann ist historische Auslegung zwingend, wann nur ergaenzend?
 2. BGB-Materialien und heutige Anwendung: Ist der Wille der Kommission von 1900 noch massgeblich?
 3. Verfassungsgeschichte und GG-Auslegung: Darf man Weimarer Vorentscheidungen einbeziehen?
-4. NS-Kontinuitaet als Argument: Ist Verweis auf NS-Vorlaeufernormen fuer heutige Auslegung erlaubt?
-5. Europaeisches Recht und Rechtsgeschichte: Gilt der Anachronismus-Einwand auch fuer EU-Rechts-Geschichte?
+4. NS-Kontinuitaet als Argument: Ist Verweis auf NS-Vorlaeufernormen für heutige Auslegung erlaubt?
+5. Europaeisches Recht und Rechtsgeschichte: Gilt der Anachronismus-Einwand auch für EU-Rechts-Geschichte?
 
 ## Methodik
 
 - Anachronismus-Test: Vor jeder historischen Argumentation pruefen
 - Historische Auslegung: Mugdan-Materialien, Reichstagsprotokolle
-- BVerfGE und BGH: bverfg.de und bgh.de fuer Leitlinien historischer Auslegung
+- BVerfGE und BGH: bverfg.de und bgh.de für Leitlinien historischer Auslegung
 - Kontextualisierung: Immer Epoche und Rechtsrahmen des Quellen explizit nennen
 
 ## Output

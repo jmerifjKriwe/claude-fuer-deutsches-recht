@@ -34,13 +34,13 @@ Krankenhaushygiene wird in mehreren Ebenen geregelt: IfSG (Bund), KRINKO-/RKI-Em
 
 ## Rechtlicher Rahmen
 - **IfSG §§ 6, 7, 23, 36** Meldepflicht, Hygienestandards, Surveillance.
-- **KRINKO-Empfehlungen** (Kommission fuer Krankenhaushygiene am RKI).
+- **KRINKO-Empfehlungen** (Kommission für Krankenhaushygiene am RKI).
 - **Landeshygieneverordnungen** (z. B. HygMedVO NRW, BayMedHygV, BWMedHygV).
 - **MedHygV** des Landes — Pflicht Hygienefachkraft, Hygienekommission.
-- **TRBA, TRGS** (Technische Regeln) fuer Beruflichen Biostoff- und Gefahrstoffschutz.
+- **TRBA, TRGS** (Technische Regeln) für Beruflichen Biostoff- und Gefahrstoffschutz.
 - **MD-Strukturpruefung** kann Hygienenachweise pruefen.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Hygieneorganisation pruefen:** Hygienefachkraft, Hygienebeauftragter Arzt, Hygienekommission, KRINKO-konformer Hygieneplan.
 2. **Surveillance dokumentieren:** Nosokomiale Infektionen, MRE-Befunde, KISS-Module.
 3. **Ausbruchsmanagement:** Frueherkennung, Meldung Gesundheitsamt § 6 IfSG, Massnahmen (Isolation, Kohortenpflege, Sanierung).

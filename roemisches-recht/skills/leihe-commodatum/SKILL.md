@@ -61,13 +61,13 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 - Eigentum bleibt beim Verleiher.
 
 ### Haftungsmasstab
-- Custodia-Haftung des Entleihers: er haftet auch fuer Zufall, soweit kein Casus maior.
+- Custodia-Haftung des Entleihers: er haftet auch für Zufall, soweit kein Casus maior.
 - D. 13.6.5.4 — Haftung "exactissima diligentia" (hoechste Sorgfalt).
 
 ### Subsumtionsbeispiel: Geliehenes Pferd geht im Feldzug verloren
 Sachverhalt: A leiht B ein Pferd; B wird auf einem Feldzug ueberfallen; Pferd entlaeuft.
 - **Roemisch**: Custodia-Haftung; Diebstahl ist nicht casus maior; B haftet. Ausnahme: Feindangriff = vis maior (D. 13.6.18).
-- **BGB**: § 598 BGB Leihvertrag; **Entleiher haftet voll fuer jede Fahrlaessigkeit** nach allgemeinen Regeln (§§ 280, 276 BGB) — insbesondere muss er die Sache pflegen und zurueckgeben (§ 604 BGB). Bei Diebstahl durch einfache Fahrlaessigkeit (z. B. unverschlossen abgestellt) haftet B regelmaessig auf Schadensersatz. NICHT zu verwechseln mit § 599 BGB: dieser begrenzt die Haftung des **Verleihers** auf Vorsatz und grobe Fahrlaessigkeit (weil unentgeltlich gibt) — Entleiher bleibt der vollen Sorgfaltspflicht unterworfen.
+- **BGB**: § 598 BGB Leihvertrag; **Entleiher haftet voll für jede Fahrlaessigkeit** nach allgemeinen Regeln (§§ 280, 276 BGB) — insbesondere muss er die Sache pflegen und zurueckgeben (§ 604 BGB). Bei Diebstahl durch einfache Fahrlaessigkeit (z. B. unverschlossen abgestellt) haftet B regelmaessig auf Schadensersatz. NICHT zu verwechseln mit § 599 BGB: dieser begrenzt die Haftung des **Verleihers** auf Vorsatz und grobe Fahrlaessigkeit (weil unentgeltlich gibt) — Entleiher bleibt der vollen Sorgfaltspflicht unterworfen.
 
 ### Pflichten des Entleihers
 - Pflegliche Behandlung.

@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und
 
 Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfra
 
 ## Aufgabe
 
-Skill fuer den Einigungsvertrag 31.08.1990 und die Rechts-/Vermoegensueberleitung.
+Skill für den Einigungsvertrag 31.08.1990 und die Rechts-/Vermoegensueberleitung.
 
 ## Einigungsvertrag
 
@@ -37,13 +54,13 @@ Skill fuer den Einigungsvertrag 31.08.1990 und die Rechts-/Vermoegensueberleitun
 
 - BRD-Recht gilt im Beitrittsgebiet.
 - Ausnahmen: bestimmte DDR-Vorschriften bleiben (Anlage II) bis zur Aufhebung.
-- Sondervorschriften fuer Versorgung Familienrecht Sozialrecht.
+- Sondervorschriften für Versorgung Familienrecht Sozialrecht.
 
-## Vermoegensgesetz 23.09.1990
+## Vermögensgesetz 23.09.1990
 
-- Grundsatz: "Rueckgabe vor Entschaedigung" fuer Enteignungen in der SBZ/DDR.
+- Grundsatz: "Rueckgabe vor Entschaedigung" für Enteignungen in der SBZ/DDR.
 - Ausnahmen: Bodenreform 1945-1949 (Sowjetbesatzungszone) — KEINE Rueckgabe.
-- Frist fuer Antraege.
+- Frist für Antraege.
 
 ## Sachenrechtsbereinigungsgesetz 21.09.1994
 

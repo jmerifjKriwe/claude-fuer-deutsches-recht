@@ -30,7 +30,7 @@ description: "Kaltstart-Interview für das Steuerberater-Plugin um Praxisprofil 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
-1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` prüfen.
+1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` prüfen.
 2. Falls vorhanden und ohne `[PLATZHALTER]`-Marker: bestätigen, dass das Praxisprofil schon befüllt ist, und Modus erfragen (`--redo` für vollständiges Neu-Interview).
 3. Falls nicht vorhanden oder mit Platzhaltern: das Kaltstart-Interview unten durchführen.
 4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
@@ -96,7 +96,7 @@ Beim Prüfen: nur `✓` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreic
 
 ## Ausgabe
 
-Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` geschrieben. Anschließend zeigen:
+Das Praxisprofil wird in `~/.claude/plugins/config/claude-für-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` geschrieben. Anschließend zeigen:
 
 - Was eingerichtet wurde
 - Welche Skills jetzt sinnvoll als nächstes laufen können:

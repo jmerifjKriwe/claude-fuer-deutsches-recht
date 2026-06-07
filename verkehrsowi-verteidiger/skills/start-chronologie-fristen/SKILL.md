@@ -125,7 +125,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `verkehrsowi-aktenanlage` | Akte im Verkehrs-OWi-Mandat anlegen und strukturieren: Neues Mandat Bußgeldbescheid oder Fahrverbot-Drohung. Normen: § 46 OWiG i.V.m. StPO, § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67 OWiG (Einspruch). Prüfraster:… |
 | `verkehrsowi-akteneinsicht-messakte` | Akteneinsicht in die Messakte beantragen und systematisch auswerten; BVerfG 2 BvR 1616/18 und 2 BvR 1167/20 zur Rohmessdatenpflicht. |
 | `verkehrsowi-alkohol-drogen-24a` | Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 1a StVG (THC 3.5 ng/ml seit 22.8.2024), § 24a Abs. 2 StVG (Wirkstoffnachweis), KCanG (1.4.2024). |
-| `verkehrsowi-anhoerung-bussgeldbescheid` | Anhoerung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhoerungsbogen oder Bußgeldbescheid erhalten. Normen: § 55 OWiG (Anhoerung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67… |
+| `verkehrsowi-anhoerung-bussgeldbescheid` | Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhörungsbogen oder Bußgeldbescheid erhalten. Normen: § 55 OWiG (Anhörung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67… |
 | `verkehrsowi-beweisverwertung-standardisiert` | BGHSt 39, 291 zum standardisierten Messverfahren; konkrete Angriffspunkte gegen die Verwertbarkeit. |
 | `verkehrsowi-fahreridentifizierung` | Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG… |
 | `verkehrsowi-fristen-einspruch` | Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bußgeldbescheids. Normen: § 67 OWiG (Einspruch 2 Wochen ab Zustellung), §§ 33 OWiG, 177-182 ZPO (Zustellungsfiktion), § 52 OWiG… |
@@ -145,13 +145,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin begleitet Verkehrs-Ordnungswidrigkeitsmandate von der ersten Anhoerung bis zur Rechtsbeschwerde. Es richtet sich an Rechtsanwaelte, die Mandanten bei Bussgeldbescheiden, Fahrverboten, Punkteeintragungen und Verfahren vor dem Amtsgericht vertreten. Abgedeckt werden Geschwindigkeitsmessungen, Rotlicht-OWi, Abstandsverfahren, Handyverstaesse, Alkohol und Drogen am Steuer, Fahreridentifizierung sowie die Beweisverwertung standardisierter Messverfahren.
+Dieses Plugin begleitet Verkehrs-Ordnungswidrigkeitsmandate von der ersten Anhörung bis zur Rechtsbeschwerde. Es richtet sich an Rechtsanwaelte, die Mandanten bei Bussgeldbescheiden, Fahrverboten, Punkteeintragungen und Verfahren vor dem Amtsgericht vertreten. Abgedeckt werden Geschwindigkeitsmessungen, Rotlicht-OWi, Abstandsverfahren, Handyverstaesse, Alkohol und Drogen am Steuer, Fahreridentifizierung sowie die Beweisverwertung standardisierter Messverfahren.
 
-Das Plugin folgt dem Verfahrensablauf: Anhoerung → Bussgeldbescheid → Einspruch → Akteneinsicht/Messakte → Hauptverhandlung → ggf. Rechtsbeschwerde. Jede Phase hat eigene Fristen und Verteidigungsstrategien.
+Das Plugin folgt dem Verfahrensablauf: Anhörung → Bussgeldbescheid → Einspruch → Akteneinsicht/Messakte → Hauptverhandlung → ggf. Rechtsbeschwerde. Jede Phase hat eigene Fristen und Verteidigungsstrategien.
 
 ## Wann brauchen Sie diese Skill?
 
-- Mandant erhaelt Anhoerungsbogen oder Bussgeldbescheid wegen Geschwindigkeitsueberschreitung und braucht sofortige Beratung zu Einspruchsfrist und Strategie.
+- Mandant erhaelt Anhörungsbogen oder Bussgeldbescheid wegen Geschwindigkeitsueberschreitung und braucht sofortige Beratung zu Einspruchsfrist und Strategie.
 - Mandant ist auf den Fuehrerschein beruflich angewiesen und soll Fahrverbot erhalten — Haertefall-Argumentation pruefen.
 - Anwalt hat Akteneinsicht beantragt und will Messakte auf Verfahrensfehler untersuchen.
 - Mandant bestreitet Fahrereigenschaft — Fahreridentifizierungsstrategie entwickeln.
@@ -159,14 +159,14 @@ Das Plugin folgt dem Verfahrensablauf: Anhoerung → Bussgeldbescheid → Einspr
 
 ## Fachbegriffe (kurz erklaert)
 
-- **OWiG** — Gesetz ueber Ordnungswidrigkeiten; Rahmengesetz fuer alle Ordnungswidrigkeitsverfahren einschliesslich VerkehrsOWi.
-- **StVG** — Strassenverkehrsgesetz; § 24 StVG Grundnorm fuer Verkehrsordnungswidrigkeiten, § 25 StVG Fahrverbot.
+- **OWiG** — Gesetz ueber Ordnungswidrigkeiten; Rahmengesetz für alle Ordnungswidrigkeitsverfahren einschliesslich VerkehrsOWi.
+- **StVG** — Strassenverkehrsgesetz; § 24 StVG Grundnorm für Verkehrsordnungswidrigkeiten, § 25 StVG Fahrverbot.
 - **FAER** — Fahreignungsregister; Punkteregister in Flensburg beim Kraftfahrt-Bundesamt.
 - **Messakte** — Vollstaendige Unterlagen zum Messvorgang: Eichschein, Rohmessdaten, Geraetefoto, Aufstellprotokoll.
 - **Standardisiertes Messverfahren** — Pruefstandsgerechtes Verfahren mit amtlich anerkanntem Messgeraet; Gerichte duerfen auf Beweiswert vertrauen, solange keine konkreten Fehlerhinweise vorliegen.
 - **Verfolgungsverjaehrung** — Nach §§ 26 StVG und 31 ff. OWiG: Verjaeht die Tat, kann kein Bussgeld mehr verhaengt werden.
 - **Rechtsbeschwerde** — Rechtsmittel nach § 79 OWiG zum Oberlandesgericht gegen Urteil des Amtsgerichts im OWi-Verfahren.
-- **Haertefall** — Ausnahme vom Fahrverbot nach § 25 StVG, wenn unverhieltnisgemaessige berufliche Folgen drohen.
+- **Haertefall** — Ausnahme vom Fahrverbot nach § 25 StVG, wenn unverhieltnisgemäßige berufliche Folgen drohen.
 
 ## Rechtsgrundlagen
 
@@ -179,7 +179,7 @@ Das Plugin folgt dem Verfahrensablauf: Anhoerung → Bussgeldbescheid → Einspr
 - §§ 62-66 OWiG (Akteneinsicht im OWi-Verfahren)
 - BKatV (Bussgeldkatalogverordnung mit Regelbuessgeldern und Fahrverboten)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Aktenanlage und Mandat aufnehmen: Tatvorwurf, Verfahrensstadium, Fristen erfassen (`verkehrsowi-aktenanlage`).
 2. Einspruchsfrist pruefen: Zwei Wochen ab Zustellung des Bussgeldbescheids — Fristwahrung hat Vorrang (`verkehrsowi-fristen-einspruch`).
@@ -189,9 +189,9 @@ Das Plugin folgt dem Verfahrensablauf: Anhoerung → Bussgeldbescheid → Einspr
 
 ## Skill-Tour (was gibt es hier?)
 
-- `verkehrsowi-kommandocenter` — Zentrales Steuerungsmodul: schnelle Orientierung fuer jedes OWi-Mandat vom Intake bis zur Strategie.
+- `verkehrsowi-kommandocenter` — Zentrales Steuerungsmodul: schnelle Orientierung für jedes OWi-Mandat vom Intake bis zur Strategie.
 - `verkehrsowi-aktenanlage` — Akte im VerkehrsOWi-Mandat anlegen und strukturieren.
-- `verkehrsowi-anhoerung-bussgeldbescheid` — Reaktion auf Anhoerungsbogen oder Bussgeldbescheid strategisch vorbereiten.
+- `verkehrsowi-anhoerung-bussgeldbescheid` — Reaktion auf Anhörungsbogen oder Bussgeldbescheid strategisch vorbereiten.
 - `verkehrsowi-fristen-einspruch` — Einspruchsfrist berechnen und wahren; Fristversaeumnis-Risiken erkennen.
 - `verkehrsowi-akteneinsicht-messakte` — Vollstaendige Messakte anfordern und auf Verfahrensfehler und Eichluecken pruefen.
 - `verkehrsowi-messverfahren-geschwindigkeit` — Geschwindigkeitsmessungen (TraffiStar, Riegl, ESO) auf Verwertbarkeit angreifen.
@@ -208,7 +208,7 @@ Das Plugin folgt dem Verfahrensablauf: Anhoerung → Bussgeldbescheid → Einspr
 - `verkehrsowi-quality-gate` — Checkliste vor Einspruch, nach Akteneingang und vor Hauptverhandlung durchlaufen.
 - `verkehrsowi-mandantenkommunikation` — Mandant verstaendlich ueber Verfahren, Kosten und Aussichten informieren.
 - `verkehrsowi-rechtsprechungsrecherche` — OLG-Entscheidungen zu Messverfahren, Rohmessdaten und Fahrverboten recherchieren.
-- `verkehrsowi-simulation-training` — Simulationstraining fuer OWi-Mandate: Messverfahren, Rotlicht, Handy, Alkohol, Fahreridentifizierung.
+- `verkehrsowi-simulation-training` — Simulationstraining für OWi-Mandate: Messverfahren, Rotlicht, Handy, Alkohol, Fahreridentifizierung.
 
 ## Worauf besonders achten
 
@@ -221,7 +221,7 @@ Das Plugin folgt dem Verfahrensablauf: Anhoerung → Bussgeldbescheid → Einspr
 ## Typische Fehler
 
 - Einspruch ohne gleichzeitige Akteneinsicht: Verteidigung beginnt blind ohne Kenntnis der Messumstaende.
-- Schweigen im Anhoerungsbogen unterlassen: Mandant macht Angaben, die spaeter als Beweismittel verwendet werden.
+- Schweigen im Anhörungsbogen unterlassen: Mandant macht Angaben, die spaeter als Beweismittel verwendet werden.
 - Fahreridentifizierungsstrategie zu spaet entwickelt: Fotoabgleich wird im Bussgeldbescheid bereits verwendet und nicht mehr angegriffen.
 - Haertefall nicht rechtzeitig vorgetragen: Amtsgericht prueft von Amts wegen nicht — Vortrag Sache des Verteidigers.
 - Rechtsbeschwerde ohne Zulassungsgrund: Nur bei Verfahrensfehlern oder Rechtsfragen von grundsaetzlicher Bedeutung zulaessig.

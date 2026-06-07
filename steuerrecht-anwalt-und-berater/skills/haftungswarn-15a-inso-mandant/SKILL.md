@@ -141,8 +141,8 @@ Ich empfehle Ihnen mit Nachdruck:
  drohende Zahlungsunfaehigkeit) gegen das Regelinsolvenzverfahren
  abzuwaegen.
 
-Ich stehe zur Mandatsuebernahme fuer das Insolvenzantragsverfahren oder
-fuer ein Sanierungsverfahren auf Grundlage einer gesonderten
+Ich stehe zur Mandatsuebernahme für das Insolvenzantragsverfahren oder
+für ein Sanierungsverfahren auf Grundlage einer gesonderten
 Verguetungsvereinbarung zur Verfuegung.
 
 Bitte bestaetigen Sie den Eingang dieses Schreibens und teilen Sie mir

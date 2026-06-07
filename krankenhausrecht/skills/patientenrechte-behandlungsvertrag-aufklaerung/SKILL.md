@@ -40,7 +40,7 @@ Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltn
 - **MBO-Aerzte** (Berufsordnung) — Aufklaerungsstandards.
 - **StGB §§ 223 ff., 203** Strafbarkeit Koerperverletzung ohne wirksame Einwilligung; Schweigepflicht.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Behandlungsvertrag klaeren:** Wer ist Vertragspartner (Krankenhaus, Wahlarzt, Belegarzt)?
 2. **Aufklaerungspflicht pruefen:** Diagnose, Risiken, Alternativen, wirtschaftliche Aufklaerung; Zeitpunkt (ausreichender Vorlauf).
 3. **Einwilligung verifizieren:** Schriftform empfohlen, dokumentierte Eigenentscheidung, Einwilligungsfaehigkeit.
@@ -69,7 +69,7 @@ Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltn
 > Datum, Patient, Diagnose: …, geplante Behandlung: …, Risiken: …, Alternativen: …, wirtschaftliche Aufklaerung (Wahlleistung): …, Aerztl. Aufklaerer (Name, Facharzt), Patient hat Fragen gestellt: …, Einwilligung: ja/nein, Unterschriften.
 
 **Antwort auf Einsichtsbegehren:**
-> Sehr geehrte/r [Patient/Anwalt], wir haben Ihr Einsichtsbegehren erhalten. Die vollstaendige Patientenakte wird Ihnen [Datum] uebermittelt. Bei Loeschungs- und Geheimhaltungswuenschen Dritter (Pflegende, andere Patienten) sind Schwaerzungen moeglich. Gebuehrenhinweis: …
+> Sehr geehrte/r [Patient/Anwalt], wir haben Ihr Einsichtsbegehren erhalten. Die vollstaendige Patientenakte wird Ihnen [Datum] uebermittelt. Bei Loeschungs- und Geheimhaltungswuenschen Dritter (Pflegende, andere Patienten) sind Schwaerzungen moeglich. Gebührenhinweis: …
 
 ## Typische Fehler
 - Wirtschaftliche Aufklaerung Wahlleistung nicht dokumentiert — § 17 Abs. 2 KHEntgG-Vertrag unwirksam.

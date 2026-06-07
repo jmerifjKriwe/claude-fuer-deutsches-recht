@@ -15,7 +15,7 @@ Dieser Dokumenten-Intake für **Energierecht** ordnet Anlagen, Registerdaten, Ko
 - `energierecht-emobility-wasserstoff-energievertraege` — Energierecht Emobility Wasserstoff Energievertraege
 - `energierecht-netz-speicher-projektfinanzierung-transaktionen-dd` — Energierecht Netz Speicher Projektfinanzierung Transaktionen Dd
 - `energierecht-vertrieb-marktrollen-waerme-quartier-wettbewerb` — Energierecht Vertrieb Marktrollen Waerme Quartier Wettbewerb
-- `er-bess-abstandsflaechen-baurecht-brandenburg-behoerdenstrategie` — Er Bess Abstandsflaechen Baurecht Brandenburg Behoerdenstrategie
+- `er-bess-abstandsflaechen-baurecht-brandenburg-behoerdenstrategie` — Er Bess Abstandsflaechen Baurecht Brandenburg Behördenstrategie
 - `er-bess-brandschutz-co-location-datenschutz-video` — Er Bess Brandschutz Co Location Datenschutz Video
 - `er-bess-epc-fca-agnes-finanzierung-bankability-kapazitaetsmarkt` — Er Bess Epc Fca Agnes Finanzierung Bankability Kapazitaetsmarkt
 - `er-bess-er-bess-er-einfuehrung-er-fusion` — Er Bess Er Bess Er Einfuehrung Er Fusion
@@ -24,7 +24,7 @@ Dieser Dokumenten-Intake für **Energierecht** ordnet Anlagen, Registerdaten, Ko
 - `er-bess-kritis-marktrollen-bilanzkreis-naturschutz-artenschutz` — Er Bess Kritis Marktrollen Bilanzkreis Naturschutz Artenschutz
 - `er-bess-netzentgelte-output-board-physische-sicherheit-power-emv` — Er Bess Netzentgelte Output Board Physische Sicherheit Power Emv
 - `er-bess-ppa-projektakte-rechtsmittel-nachbarabwehr-regelenergie` — Er Bess Ppa Projektakte Rechtsmittel Nachbarabwehr Regelenergie
-- `er-fusion-buergerbeteiligung-foerderung-beihilfe-netzanschluss` — Er Fusion Buergerbeteiligung Foerderung Beihilfe Netzanschluss
+- `er-fusion-buergerbeteiligung-foerderung-beihilfe-netzanschluss` — Er Fusion Buergerbeteiligung Förderung Beihilfe Netzanschluss
 
 ## Arbeitsweg
 

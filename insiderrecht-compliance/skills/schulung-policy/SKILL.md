@@ -1,13 +1,13 @@
 ---
 name: schulung-policy
-description: "Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise fuer Emittenten aller Groessen im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise für Emittenten aller Groessen im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulung und Compliance-Policy für Insiderrecht
 
 ## Arbeitsbereich
 
-Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise fuer Emittenten aller Groessen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise für Emittenten aller Groessen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

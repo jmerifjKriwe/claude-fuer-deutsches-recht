@@ -1,13 +1,13 @@
 ---
 name: erschwerniszulage-vollzugsdienst
-description: "Skill zu Erschwerniszulagen fuer Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zu Erschwerniszulagen für Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erschwerniszulage Vollzugsdienst und Sonderdienste
 
 ## Arbeitsbereich
 
-Skill zu Erschwerniszulagen fuer Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zu Erschwerniszulagen für Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zu Erschwerniszulagen fuer Polizei Justizvollzug Feuerwehr Bundeswehr und 
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte im Vollzugsdienst (Polizei, Justizvollzug, Feuerwehr, Zoll) und Soldaten, die Anspruch auf Erschwerniszulagen geltend machen wollen. Anwendung bei strittiger Hoehe oder Verweigerung der Zulage durch den Dienstherrn.
+Skill für Beamte im Vollzugsdienst (Polizei, Justizvollzug, Feuerwehr, Zoll) und Soldaten, die Anspruch auf Erschwerniszulagen geltend machen wollen. Anwendung bei strittiger Hoehe oder Verweigerung der Zulage durch den Dienstherrn.
 
 ## 2. Eingaben
 
@@ -32,7 +32,7 @@ Skill fuer Beamte im Vollzugsdienst (Polizei, Justizvollzug, Feuerwehr, Zoll) un
 ## 3. Ablauf / Checkliste
 
 ### a) Anspruchsgrundlagen
-- Erschwerniszulagenverordnung (EZulV, Bund) bzw. landesrechtliche Aequivalente. Zulagen fuer Wechselschicht, Nachtdienst, Sonn- und Feiertagsdienst, Tauchdienst, Hoehenarbeit, Sprengstoff, Dienst zu ungewoehnlichen Zeiten.
+- Erschwerniszulagenverordnung (EZulV, Bund) bzw. landesrechtliche Aequivalente. Zulagen für Wechselschicht, Nachtdienst, Sonn- und Feiertagsdienst, Tauchdienst, Hoehenarbeit, Sprengstoff, Dienst zu ungewoehnlichen Zeiten.
 
 ### b) Definition Wechselschicht
 - Im Wechsel zwischen mindestens drei Schichten (Frueh, Spaet, Nacht). Faustregel: in einem Bemessungszeitraum nicht weniger als bestimmte Nachtdienststunden.

@@ -155,8 +155,8 @@ IV. GLAUBHAFTMACHUNG
 
 Bevor der Eilantrag gestellt wird, klaere:
 1. Ist die Beweissicherung vollstaendig (Fotos mit Zeitstempel, Testkauf, Ausstellerdaten)?
-2. Ist das Gericht des Messeorts zustaendig (LG Berlin/Frankfurt/Duesseldorf/Muenchen I)?
-3. Wann endet die Messe — genuegt die Zeit fuer Antrag und Erlass noch am Messtag?
+2. Ist das Gericht des Messeorts zuständig (LG Berlin/Frankfurt/Duesseldorf/Muenchen I)?
+3. Wann endet die Messe — genuegt die Zeit für Antrag und Erlass noch am Messtag?
 4. Hat der Verletzer moglicherweise bereits eine Schutzschrift im ZSSR hinterlegt?
 5. Handelt es sich um Produktpiraterie (direkte einstweilige Verfuegung) oder Zeichenaehnlichkeit (zuerst Abmahnung pruefe)?
 

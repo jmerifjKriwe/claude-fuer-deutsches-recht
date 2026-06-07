@@ -1,13 +1,13 @@
 ---
 name: mobbing-fuersorgepflicht-78-bbg
-description: "Skill zu Mobbing im oeffentlichen Dienst und zur Fuersorgepflicht des Dienstherrn nach § 78 BBG bzw. § 45 BeamtStG. Klaert den Mobbingbegriff die Pflicht zur Aufklaerung und zur Massnahme im Konfliktfall die Beweislast bei systematischer Schikane und das Verhaeltnis zu strafrechtlichen Tatbestaenden Noetigung Beleidigung Stalking. Behandelt typische Konstellationen Mobbing durch Vorgesetzten Bossing durch Kollegen Mobbing in der Behoerde mit politischem Kontext. Liefert Pruefraster Antragsmuster und Schadensersatzansprueche im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zu Mobbing im öffentlichen Dienst und zur Fuersorgepflicht des Dienstherrn nach § 78 BBG bzw. § 45 BeamtStG. Klaert den Mobbingbegriff die Pflicht zur Aufklaerung und zur Massnahme im Konfliktfall die Beweislast bei systematischer Schikane und das Verhaeltnis zu strafrechtlichen Tatbestaenden Noetigung Beleidigung Stalking. Behandelt typische Konstellationen Mobbing durch Vorgesetzten Bossing durch Kollegen Mobbing in der Behörde mit politischem Kontext. Liefert Pruefraster Antragsmuster und Schadensersatzansprueche im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Mobbing und Fuersorgepflicht im oeffentlichen Dienst
+# Mobbing und Fuersorgepflicht im öffentlichen Dienst
 
 ## Arbeitsbereich
 
-Skill zu Mobbing im oeffentlichen Dienst und zur Fuersorgepflicht des Dienstherrn nach § 78 BBG bzw. § 45 BeamtStG. Klaert den Mobbingbegriff die Pflicht zur Aufklaerung und zur Massnahme im Konfliktfall die Beweislast bei systematischer Schikane und das Verhaeltnis zu strafrechtlichen Tatbestaenden Noetigung Beleidigung Stalking. Behandelt typische Konstellationen Mobbing durch Vorgesetzten Bossing durch Kollegen Mobbing in der Behoerde mit politischem Kontext. Liefert Pruefraster Antragsmuster und Schadensersatzansprueche. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zu Mobbing im öffentlichen Dienst und zur Fuersorgepflicht des Dienstherrn nach § 78 BBG bzw. § 45 BeamtStG. Klaert den Mobbingbegriff die Pflicht zur Aufklaerung und zur Massnahme im Konfliktfall die Beweislast bei systematischer Schikane und das Verhaeltnis zu strafrechtlichen Tatbestaenden Noetigung Beleidigung Stalking. Behandelt typische Konstellationen Mobbing durch Vorgesetzten Bossing durch Kollegen Mobbing in der Behörde mit politischem Kontext. Liefert Pruefraster Antragsmuster und Schadensersatzansprueche. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zu Mobbing im oeffentlichen Dienst und zur Fuersorgepflicht des Dienstherr
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, die sich am Arbeitsplatz dauerhaft schikaniert sehen und Schutz, Anpassung der Arbeitsbedingungen, Versetzung oder Schadensersatz verlangen.
+Skill für Beamte, die sich am Arbeitsplatz dauerhaft schikaniert sehen und Schutz, Anpassung der Arbeitsbedingungen, Versetzung oder Schadensersatz verlangen.
 
 ## 2. Eingaben
 
@@ -32,15 +32,15 @@ Skill fuer Beamte, die sich am Arbeitsplatz dauerhaft schikaniert sehen und Schu
 ## 3. Ablauf / Checkliste
 
 ### a) Mobbingbegriff
-- Systematisches, fortgesetztes Anfeinden, Schikanieren oder Diskriminieren am Arbeitsplatz mit dem Ziel oder Effekt der Schaedigung der beruflichen oder persoenlichen Stellung.
+- Systematisches, fortgesetztes Anfeinden, Schikanieren oder Diskriminieren am Arbeitsplatz mit dem Ziel oder Effekt der Schaedigung der beruflichen oder persönlichen Stellung.
 - Einzelne unkollegiale Handlungen reichen nicht; entscheidend ist das Muster.
 
 ### b) Fuersorgepflicht des Dienstherrn
 - § 78 BBG bzw. § 45 BeamtStG i.V.m. Landesrecht: Pflicht zum Schutz von Gesundheit und Wuerde der Beamtinnen und Beamten.
-- Konkrete Pflicht zur Aufklaerung, Anhoerung, Ermittlung, Trennung der Konfliktparteien, Versetzung gegebenenfalls.
+- Konkrete Pflicht zur Aufklaerung, Anhörung, Ermittlung, Trennung der Konfliktparteien, Versetzung gegebenenfalls.
 
 ### c) Beweislast
-- Beamter muss Indizien fuer Mobbingmuster vortragen; bei substantiierter Darlegung Beweiserleichterung. Verstoss gegen Fuersorgepflicht ergibt sich aus Unterlassen des Dienstherrn.
+- Beamter muss Indizien für Mobbingmuster vortragen; bei substantiierter Darlegung Beweiserleichterung. Verstoss gegen Fuersorgepflicht ergibt sich aus Unterlassen des Dienstherrn.
 
 ### d) Massnahmen
 - Antrag auf Versetzung des Mobbers oder eigene Versetzung.

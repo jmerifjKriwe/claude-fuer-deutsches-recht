@@ -18,7 +18,7 @@ description: "Bearbeitung der Kapitaleinkuenfte und der Abgeltungsteuer — § 2
 3. Greift Guenstigerpruefung § 32d Abs. 6 EStG?
 4. Wurde Quellensteuer DBA-konform angerechnet?
 5. Werbungskostenabzug § 20 Abs. 9 EStG beschraenkt — bei Antragsveranlagung?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

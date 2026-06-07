@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Registerauszüge, Gesellschafterliste, Satzung, Geschäftsordnungen und Vollmachten.
@@ -109,15 +109,15 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. Welche Mandatsdaten werden verarbeitet (anonym, pseudonymisiert, im Klartext)?
 3. Werden Daten an externe Server uebertragen? (Datenschutz; Mandatsgeheimnis)
 4. Muss der Mandant ueber KI-Einsatz informiert werden?
-5. Wer traegt Verantwortung fuer KI-generierte Ergebnisse (Qualitatskontrolle)?
+5. Wer traegt Verantwortung für KI-generierte Ergebnisse (Qualitatskontrolle)?
 6. EU-KI-VO (AI Act): In welche Risikoklasse faellt der Anwendungsfall?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
 - **§ 43a BRAO** — Verschwiegenheitspflicht; mandatsrelevante Daten duerfen nicht an Dritte weitergegeben werden
 - **§ 2 BORA** — Berufsrechtliche Sorgfalt; KI-Ergebnisse muessen qualitaetsgesichert werden
-- **Art. 6, 9 DSGVO** — Rechtsgrundlage fuer Datenverarbeitung; besondere Kategorien; Auftragsverarbeitung (Art. 28)
+- **Art. 6, 9 DSGVO** — Rechtsgrundlage für Datenverarbeitung; besondere Kategorien; Auftragsverarbeitung (Art. 28)
 - **EU-KI-VO (AI Act, Verordnung (EU) 2024/1689)** — Hochrisiko-KI-Systeme (Art. 6); verbotene KI (Art. 5); Transparenzpflichten
 - **§ 93 AktG / § 43 GmbHG** — BJR: Entscheidungen auf KI-Basis muessen angemessen begruendet und kontrolliert sein
 
@@ -129,7 +129,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## KI-Risikoklassen (EU-KI-VO): Relevanz fuer Kanzleien
+## KI-Risikoklassen (EU-KI-VO): Relevanz für Kanzleien
 
 | Risikoklasse | Beispiele | Anforderungen |
 |---|---|---|
@@ -140,7 +140,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Kanzlei-Anwendungen (Dokumentenanalyse, Rechercheassistenz): meist minimales bis begrenztes Risiko, wenn kein Endentscheid delegiert wird.
 
-## DSGVO-Compliance fuer KI-Werkzeuge
+## DSGVO-Compliance für KI-Werkzeuge
 
 | Pruefpunkt | Anforderung | Massnahme |
 |---|---|---|
@@ -150,7 +150,7 @@ Kanzlei-Anwendungen (Dokumentenanalyse, Rechercheassistenz): meist minimales bis
 | Auskunft Betroffener | Art. 15 DSGVO | Mandant kann Auskunft verlangen |
 | Privacy by Design | Art. 25 DSGVO | Keine unnoetigen Daten; Pseudonymisierung |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 

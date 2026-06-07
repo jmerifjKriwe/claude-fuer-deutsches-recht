@@ -163,7 +163,7 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - **Shift of Fiduciary Duties** — Verschiebung der Treuepflichten vom Eigentuemer-Interesse zum Glaeubiger-Interesse bei drohender Insolvenz.
 - **Restrukturierungsbeauftragter** — vom Gericht bestellter Sachwalter nach § 73 StaRUG; Pflicht-Bestellung bei bestimmten Plantypen.
 - **DSCR** — Debt Service Coverage Ratio; einer der zentralen Krisenfruehindikator-KPIs.
-- **IDW S 6** — Standard des Instituts der Wirtschaftspruefer fuer Sanierungskonzepte.
+- **IDW S 6** — Standard des Instituts der Wirtschaftspruefer für Sanierungskonzepte.
 
 ## Rechtsgrundlagen
 
@@ -178,7 +178,7 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - § 43 GmbHG — Sorgfaltspflicht und Haftung des GmbH-Geschaeftsfuehrers
 - § 93 AktG — Vorstandshaftung
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Geschaeftsfuehrer/Vorstand, Rechtsberater, Glaeubiger oder Restrukturierungsberater?
 2. Phase des Mandats bestimmen: Fruehwarnung (Krisenstadium Eins bis Drei), drohende ZU/StaRUG-Zugangsberechtigung, Restrukturierungsplan oder Insolvenznaehe (§ 15a InsO)?
@@ -194,19 +194,19 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — IDW-S-6-Krisenstadien diagnostizieren und Massnahmenkorridore bestimmen.
 - `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — StaRUG-Zugangsberechtigung nach § 18 InsO pruefen und dokumentieren.
 - `fortbestehensprognose-zweistufig` — Zweistufige Fortbestehensprognose nach IDW S 11 (Fortfuehrungswille + Faehigkeit) erstellen.
-- `integrierte-planung-guv-bilanz-cashflow` — Konsistentes Drei-Statement-Modell (GuV/Bilanz/Cashflow) fuer StaRUG-Planung erstellen.
+- `integrierte-planung-guv-bilanz-cashflow` — Konsistentes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen.
 - `rollierende-liquiditaetsplanung-24-monate-template` — 24-Monats-Liquiditaets-Forecast mit woechentlicher Granularitaet und Stresstests.
 - `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Triggerlogik § 15a InsO, Maximalfrist drei Wochen, Handlungsoptionen.
 - `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Haftungsrisiken des GF bei Krisenversagen und Enthaftungsstrategien.
-- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Krisenprotokoll-Templates und Sitzungsvorlagen fuer Haftungsschutz.
+- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Krisenprotokoll-Templates und Sitzungsvorlagen für Haftungsschutz.
 - `pflichtenkollision-und-shift-of-fiduciary-duties` — Shift of Fiduciary Duties: wann Glaeubigerinteressen Vorrang haben.
 - `paragraph-102-starug-warnpflicht-bei-rechtsberatern` — Eigene Haftungsrisiken des Beraters bei Krisenmandat und Warnpflicht-Ausloeser.
-- `mandantenbrief-warnung-paragraph-102-starug-template` — Warnbrief-Templates fuer alle drei Eskalationsstufen nach § 102 StaRUG.
+- `mandantenbrief-warnung-paragraph-102-starug-template` — Warnbrief-Templates für alle drei Eskalationsstufen nach § 102 StaRUG.
 - `restrukturierungsplan-architektur-paragraph-7ff-starug` — StaRUG-Restrukturierungsplan aufbauen: Planbestandteile, Gruppenbildung, Mehrheiten.
 - `cross-class-cram-down-und-absolute-priority` — Gerichtliche Planbestaetigung gegen ablehnende Glaeubiger-Gruppen nach § 26 StaRUG.
 - `stabilisierungsanordnung-und-vollstreckungssperre` — Vollstreckungsschutz nach §§ 49-59 StaRUG beantragen.
 - `restrukturierungsbeauftragter-und-sachwalter` — Bestellung, Aufgaben und Honorar des Restrukturierungsbeauftragten nach § 73 StaRUG.
-- `restructuring-lounge-impulsvortrag-toolkit` — Toolkit fuer Impulsvortraege zu Krisenfrueherkennung und StaRUG.
+- `restructuring-lounge-impulsvortrag-toolkit` — Toolkit für Impulsvortraege zu Krisenfrueherkennung und StaRUG.
 
 ## Worauf besonders achten
 
@@ -218,10 +218,10 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 
 ## Typische Fehler
 
-- Krisenstadien werden uebersprungen: Ohne Diagnose nach IDW S 6 fehlt die Grundlage fuer das Massnahmenkonzept; Gerichte und Glaeubigerausschuesse erwarten die Stadien-Einordnung.
+- Krisenstadien werden uebersprungen: Ohne Diagnose nach IDW S 6 fehlt die Grundlage für das Massnahmenkonzept; Gerichte und Glaeubigerausschuesse erwarten die Stadien-Einordnung.
 - Fruehwarnsystem nur auf dem Papier: § 1 StaRUG verlangt ein funktionierendes System, nicht nur ein Dokument; fehlende Protokolle belegen die Pflichtverletzung.
 - Warnbrief ohne Quittung: Ohne Empfangsbestaetigung laesst sich die Pflichterfuellung nach § 102 StaRUG im Haftungsprozess nicht beweisen.
-- Liquiditaetsplanung zu grob: Monatliche Granularitaet genuegt fuer die naechsten drei Monate nicht; woechentliche Granularitaet ist Mindeststandard in der akuten Krise.
+- Liquiditaetsplanung zu grob: Monatliche Granularitaet genuegt für die naechsten drei Monate nicht; woechentliche Granularitaet ist Mindeststandard in der akuten Krise.
 - Cram-Down ohne Schlechterstellungsverbot-Nachweis beantragt: Das Gericht wird den Antrag zurueckweisen, wenn der Schlechterstellungstest nicht dokumentiert ist.
 
 ## Querverweise

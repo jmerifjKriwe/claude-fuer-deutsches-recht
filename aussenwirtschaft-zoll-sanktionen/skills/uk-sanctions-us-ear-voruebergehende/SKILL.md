@@ -1,13 +1,13 @@
 ---
 name: uk-sanctions-us-ear-voruebergehende
-description: "UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung fuer Transaktionen mit UK-Bezug im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung für Transaktionen mit UK-Bezug im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit
 
 ## Arbeitsbereich
 
-UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung fuer Transaktionen mit UK-Bezug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung für Transaktionen mit UK-Bezug. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -34,10 +34,10 @@ UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Ric
 
 ## Rechtsrahmen
 
-- **Sanctions and Anti-Money Laundering Act (SAMLA) 2018 (UK)**: Ermaechtigunsgrundlage fuer UK-Sanktionen.
-- **OFSI (Office of Financial Sanctions Implementation)**: UK-Behoerde fuer Finanzsanktionsvollzug.
+- **Sanctions and Anti-Money Laundering Act (SAMLA) 2018 (UK)**: Ermaechtigunsgrundlage für UK-Sanktionen.
+- **OFSI (Office of Financial Sanctions Implementation)**: UK-Behörde für Finanzsanktionsvollzug.
 - **UK Consolidated Sanctions List**: Massgebliche UK-Sanktionsliste nach Brexit.
-- **VO (EU) 833/2014**: EU-Referenz fuer Divergenzanalyse.
+- **VO (EU) 833/2014**: EU-Referenz für Divergenzanalyse.
 - **AWG § 1**: Territorialer Anwendungsbereich des deutschen Rechts bei UK-Transaktionen.
 
 ## Pruef-Raster
@@ -59,7 +59,7 @@ UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Ric
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -83,12 +83,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-UK-EU-Sanktionsvergleich mit Divergenz-Tabelle, OFSI-Lizenz-Bewertung und Koordinationsprotokoll fuer Konzern-Compliance.
+UK-EU-Sanktionsvergleich mit Divergenz-Tabelle, OFSI-Lizenz-Bewertung und Koordinationsprotokoll für Konzern-Compliance.
 
 ## Quellen
 

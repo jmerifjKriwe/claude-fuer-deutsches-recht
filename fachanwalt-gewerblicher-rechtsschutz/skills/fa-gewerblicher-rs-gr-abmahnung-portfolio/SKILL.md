@@ -396,7 +396,7 @@ Dieser Skill steuert die systematische Pflege eines Schutzrechtsportfolios: Fris
 5. Output: Portfolioaudit-Tabelle, Fristenplan, Kostenschätzung, Strategiememo?
 
 ## Plugin-Kontext
-Anschluss-Skills: `spezial-markenanmeldung-compliance-dokumentation-und-akte`, `spezial-rechtsschutz-fristen-form-und-zustaendigkeit`, `workflow-fristen-und-risikoampel`.
+Anschluss-Skills: `spezial-markenanmeldung-compliance-dokumentation-und-akte`, `spezial-rechtsschutz-fristen-form-und-zuständigkeit`, `workflow-fristen-und-risikoampel`.
 
 ## Quellenregel
 - DPMA: [dpma.de](https://www.dpma.de); EUIPO: [euipo.europa.eu](https://euipo.europa.eu); EPA: [epo.org](https://www.epo.org).

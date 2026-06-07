@@ -19,7 +19,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 ## Rechtlicher Rahmen
 
 - Art. 28 DSGVO – auch im Konzern keine Privilegierung; jede juristische Person ist eigenstaendige Verantwortliche.
-- Erwaegungsgrund 48 DSGVO – Berechtigtes Interesse an konzerninternem Datenaustausch fuer interne Verwaltungszwecke.
+- Erwaegungsgrund 48 DSGVO – Berechtigtes Interesse an konzerninternem Datenaustausch für interne Verwaltungszwecke.
 - Erwaegungsgrund 36 DSGVO – Niederlassung und Verantwortlichkeit im Konzern.
 - Art. 26 DSGVO – Joint Controller, falls gemeinsame Zweckentscheidung.
 - Art. 47 DSGVO – Verbindliche interne Datenschutzvorschriften (BCR).
@@ -30,7 +30,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 1. **Konzernstruktur erfassen.**
  - Mutter, Toechter, Schwestern, Gemeinschaftsunternehmen.
  - Wer ist Vertragspartner des Dienstleisters?
- - Wer ist tatsaechlicher Verantwortlicher fuer die Daten?
+ - Wer ist tatsaechlicher Verantwortlicher für die Daten?
 
 2. **Vertragsstrukturen vergleichen.**
 
@@ -39,7 +39,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
  | Hauptvertrag der Mutter mit Beitrittsmechanik | Mutter unterzeichnet, Toechter treten bei | Konzernlizenz Cloud-Dienst |
  | Rahmen-AVV mit Einzelbestellungen | Jede Gesellschaft schliesst eigenen AVV unter Rahmen ab | Multi-Country-Rollout |
  | Multilateraler AVV | Alle Konzerngesellschaften unterzeichnen gemeinsam | Wenige Gesellschaften, hohe Datenkritikalitaet |
- | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter fuer Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
+ | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter für Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
 
 3. **Rollenmix klaeren.**
  - Mutter als Auftragsverarbeiterin der Toechter setzt voraus, dass die Mutter weisungsgebunden ist.
@@ -47,8 +47,8 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
  - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: weite Auslegung gemeinsamer Verantwortlichkeit.
 
 4. **Drittlandbezug pruefen.**
- - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 fuer jede Konzerngesellschaft im Drittland.
- - DPF nur fuer US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
+ - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 für jede Konzerngesellschaft im Drittland.
+ - DPF nur für US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
 
 5. **Beitrittsmechanik (Docking Clause).**
  - Vergleichbar dem Mechanismus in den EU-SCC nach Beschluss (EU) 2021/914.
@@ -65,15 +65,15 @@ Konzern-AVV-Klauseln (Auszug):
 >
 > § 1 Verarbeitungstaetigkeiten
 >
-> Die Verarbeitung erfolgt fuer jede Konzerngesellschaft im Umfang der jeweils mit dieser geschlossenen Bestellung. Anlage 1 (Beschreibung der Verarbeitung) wird je Konzerngesellschaft befuellt.
+> Die Verarbeitung erfolgt für jede Konzerngesellschaft im Umfang der jeweils mit dieser geschlossenen Bestellung. Anlage 1 (Beschreibung der Verarbeitung) wird je Konzerngesellschaft befuellt.
 >
 > § 2 Weisungsrechte und Weisungsregister
 >
-> Jede Konzerngesellschaft erteilt Weisungen ausschliesslich fuer die sie betreffenden Verarbeitungen. Konzernweit gueltige Weisungen werden vom Konzern-Datenschutzbeauftragten dokumentiert. Der Auftragsverarbeiter fuehrt fuer jede Konzerngesellschaft ein eigenes Weisungsregister.
+> Jede Konzerngesellschaft erteilt Weisungen ausschliesslich für die sie betreffenden Verarbeitungen. Konzernweit gueltige Weisungen werden vom Konzern-Datenschutzbeauftragten dokumentiert. Der Auftragsverarbeiter fuehrt für jede Konzerngesellschaft ein eigenes Weisungsregister.
 >
 > § 3 Konzerngesamtleitung und Kommunikation
 >
-> Die Muttergesellschaft uebt fuer die beigetretenen Konzerngesellschaften die Funktion der zentralen Anlaufstelle aus, soweit dies mit der jeweiligen Konzerngesellschaft schriftlich vereinbart ist. Die Pflichten und Rechte aus Art. 28 DSGVO bestehen unabhaengig davon im Verhaeltnis Auftragsverarbeiter zu jeweiliger Konzerngesellschaft fort.
+> Die Muttergesellschaft uebt für die beigetretenen Konzerngesellschaften die Funktion der zentralen Anlaufstelle aus, soweit dies mit der jeweiligen Konzerngesellschaft schriftlich vereinbart ist. Die Pflichten und Rechte aus Art. 28 DSGVO bestehen unabhaengig davon im Verhaeltnis Auftragsverarbeiter zu jeweiliger Konzerngesellschaft fort.
 >
 > § 4 Beitritt und Austritt von Konzerngesellschaften
 >

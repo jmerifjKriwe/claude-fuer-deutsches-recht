@@ -37,7 +37,7 @@ ALR II 11-12 (Kirche und Schule) und ALR II 19 (Armenwesen).
 
 Bauer schickt Kind nicht zur Schule.
 - **ALR II 12**: Schulpflicht; Sanktion ueber Polizey.
-- **Heute**: Schulgesetze der Laender mit Schulpflicht (Art. 7 GG).
+- **Heute**: Schulgesetze der Länder mit Schulpflicht (Art. 7 GG).
 
 ## Heutige Fortwirkung
 

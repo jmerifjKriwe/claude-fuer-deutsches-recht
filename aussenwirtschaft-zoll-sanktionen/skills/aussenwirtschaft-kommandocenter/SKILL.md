@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-kommandocenter
-description: "Steuerungsmodul fuer Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationsplan im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationsplan im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kommandocenter Aussenwirtschaft: Mehrfach-Sachverhalts-Steuerung
 
 ## Arbeitsbereich
 
-Steuerungsmodul fuer Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationsplan. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -25,25 +25,25 @@ Steuerungsmodul fuer Mandanten mit mehreren parallelen Aussenwirtschafts-Sachver
 
 ## Erste Schritte
 
-1. Alle offenen Aussenwirtschafts-Sachverhalte mit Status, Fristen und Zustaendigkeit erfassen.
+1. Alle offenen Aussenwirtschafts-Sachverhalte mit Status, Fristen und Zuständigkeit erfassen.
 2. Prioritaetenbewertung: Strafrisiko, Fristen, Geldwert, Reputationsschaden.
 3. Ressourcen zuordnen: externe Berater, interne Experten, IT-Kapazitaet.
-4. Kritische-Pfad-Analyse fuer zeitkritische Verfahren.
-5. Eskalationsprozess und Berichtslinien fuer Geschaeftsfuehrung definieren.
+4. Kritische-Pfad-Analyse für zeitkritische Verfahren.
+5. Eskalationsprozess und Berichtslinien für Geschaeftsfuehrung definieren.
 6. Woechentliche Statusuebersicht und Fristen-Dashboard einrichten.
 
 ## Rechtsrahmen
 
-- **AWG § 14**: Auskunftspflichten mit Fristen gegenueber Behoerden.
+- **AWG § 14**: Auskunftspflichten mit Fristen gegenueber Behörden.
 - **UZK Art. 22**: Bescheidfrist bei Bewilligungsantraegen.
 - **AWV § 61**: Meldefristen AWV-Zahlungsmeldungen.
-- **BAFA-Verfahrensordnung**: Bearbeitungsfristen fuer Genehmigungsantraege.
+- **BAFA-Verfahrensordnung**: Bearbeitungsfristen für Genehmigungsantraege.
 - **§ 130 OWiG**: Organisationspflichtverletzung als Bussgelstatbestand.
 
 ## Pruef-Raster
 
 - [ ] Alle offenen Sachverhalte vollstaendig erfasst?
-- [ ] Fristen fuer Behoerdenverfahren identifiziert und im Kalender eingetragen?
+- [ ] Fristen für Behördenverfahren identifiziert und im Kalender eingetragen?
 - [ ] Prioritaetenbewertung nach Risikokategorien durchgefuehrt?
 - [ ] Ressourcenzuordnung realistisch und bestaetigt?
 - [ ] Eskalationsweg zur Geschaeftsfuehrung definiert?
@@ -60,7 +60,7 @@ Steuerungsmodul fuer Mandanten mit mehreren parallelen Aussenwirtschafts-Sachver
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

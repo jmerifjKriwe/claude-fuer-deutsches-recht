@@ -42,7 +42,7 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 6. Wurde die Untere Bodenschutzbehörde (UWB) bereits informiert? Besteht behördliche Anordnung nach § 9 BBodSchG?
 7. Wer ist der zivilrechtliche Auftragnehmer — Generalunternehmer, Nachunternehmer, Bauherr in Eigenregie?
 8. Bestehen Versicherungen (Bauherren-Haftpflicht, Umwelthaftpflicht § 1 UmweltHG, Betriebshaftpflicht)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -70,7 +70,7 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---------|-------------|-------|-------------|--------|
-| BVerwG | 7 C 36.04 | 16.03.2006 | Sanierungspflicht § 4 BBodSchG — Zustandsstoererhaftung des Eigentuemers besteht auch ohne eigenes Verschulden; Verhaeltnismaessigkeit der Behoerden-Anordnung | bverwg.de |
+| BVerwG | 7 C 36.04 | 16.03.2006 | Sanierungspflicht § 4 BBodSchG — Zustandsstoererhaftung des Eigentuemers besteht auch ohne eigenes Verschulden; Verhaeltnismaessigkeit der Behörden-Anordnung | bverwg.de |
 | BVerfG | 1 BvR 242/91 | 16.02.2000 | Zustandshaftung Grundstueckseigentuemer — verfassungsrechtliche Grenze bei Unverhaeltnismaessigkeit ueberbordender Kosten gegenueber Verkehrswert | bundesverfassungsgericht.de |
 | BGH | VII ZR 175/13 | 27.03.2014 | Baugrundrisiko traegt grundsaetzlich der Besteller (Beistellungspflicht § 645 BGB); Aufklaerungspflichten gemildert bei nicht-erkennbaren Risiken | dejure.org/2014,5860 |
 | BGH (V. Zivilsenat, st. Rspr.) | Aufklaerungspflicht zu Altlasten | — | Schadensersatz bei verschwiegener Altlast bei Grundstueckskauf, c.i.c. § 311 Abs. 2 BGB; konkrete Aktenzeichen vor Ausgabe per dejure.org verifizieren | dejure.org / BGH-Datenbank |
@@ -190,7 +190,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Standard — Bodenkontamination beim Aushub entdeckt | Sofortmassnahmen-Checkliste und Schriftverkehr-Bausteine unten |
 | Variante A — Auftraggeber kannte Kontamination | GewaeHrleistungs-Ausschluss pruefen; § 444 BGB analog |
 | Variante B — Auftragnehmer hat Kontamination verursacht | Haftung nach § 4 BBodSchG; Schadensersatzklage vorbereiten |
-| Variante C — Behoerdenanordnung laeuft | Verwaltungsrechtlicher Weg parallel; Sofortvollzug pruefen |
+| Variante C — Behördenanordnung laeuft | Verwaltungsrechtlicher Weg parallel; Sofortvollzug pruefen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -596,7 +596,7 @@ Stand: 05/2026. SOBau 2020. § 18 VOB/B unverändert. BGH-Linien stabil. Bei VOB
 4. **Mangelerscheinungen**: Beschreibung, Lichtbilder, SV-Gutachten? Kausalität zu Werk des AN?
 5. **Mängelrechte**: Nacherfüllung noch möglich oder Frist abgelaufen? Selbstvornahme, Minderung, Rücktritt, Schadensersatz?
 6. **Verjährung**: Fristlauf seit Abnahme — 5 Jahre BGB / 4 Jahre VOB/B?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

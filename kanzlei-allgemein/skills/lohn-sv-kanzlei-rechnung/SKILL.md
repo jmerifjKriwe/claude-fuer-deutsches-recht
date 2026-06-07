@@ -20,7 +20,7 @@ Bereitet Lohnabrechnung Sozialversicherungsmeldungen und Payroll-Übergabe für 
 ## Triage zu Beginn
 1. Welcher Monat und welche Mitarbeiter werden abgerechnet?
 2. Gibt es Sonderzahlungen (Bonus, Gratifikation, Weihnachtsgeld) in diesem Monat?
-3. Sind Minijobber oder Werkstudenten dabei, fuer die Sonderregeln gelten?
+3. Sind Minijobber oder Werkstudenten dabei, für die Sonderregeln gelten?
 4. Sollen die Daten an DATEV, Lexware oder einen Steuerberater uebergeben werden?
 
 ## Aktuelle Rechtsprechung

@@ -47,7 +47,7 @@ Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach 
 
 ### Linie 3: Qualifizierte elektronische Signatur — wirksam (ArbG Gera)
 
-- ArbG Gera, Urt. v. 03.07.2024 – Az. 2 Ca 936/23 — qES per DocuSign-qES wahrt die Schriftform des § 14 Abs. 4 TzBfG; § 623 BGB greift nur fuer Kuendigung und Aufhebungsvertrag und sperrt die elektronische Form dort, nicht aber bei der Befristungsabrede selbst. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=ArbG+Gera&Datum=03.07.2024&Aktenzeichen=2+Ca+936/23
+- ArbG Gera, Urt. v. 03.07.2024 – Az. 2 Ca 936/23 — qES per DocuSign-qES wahrt die Schriftform des § 14 Abs. 4 TzBfG; § 623 BGB greift nur für Kuendigung und Aufhebungsvertrag und sperrt die elektronische Form dort, nicht aber bei der Befristungsabrede selbst. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=ArbG+Gera&Datum=03.07.2024&Aktenzeichen=2+Ca+936/23
 - Eine über DocuSign eingesetzte qualifizierte elektronische Signatur (qES) erfüllt die Voraussetzungen des § 126a BGB.
 - Damit ist die Schriftform nach § 14 Abs. 4 TzBfG durch die elektronische Form ersetzt.
 - Die Befristungsabrede ist formwirksam.
@@ -55,7 +55,7 @@ Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach 
 
 ### Hinweis zum Vierten Buerokratieentlastungsgesetz (BEG IV)
 
-Mit dem Vierten Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024) wurde § 14 Abs. 4 TzBfG mit Wirkung ab 01.01.2025 dahin ergaenzt, dass die Befristungsabrede grundsaetzlich in Textform abgeschlossen werden kann, sofern kein Tarifvertrag entgegensteht. Fuer das Schriftformerfordernis bei Befristungen vor 2025 sowie fuer Faelle, in denen das Tarifrecht weiterhin Schriftform verlangt, bleibt die qES-Rechtsprechung relevant. Quelle: https://www.gvw.com/aktuelles/blog/detail/buerokratieentlastungsgesetz-beschlossen-weg-frei-fuer-digitale-arbeitsvertraege
+Mit dem Vierten Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024) wurde § 14 Abs. 4 TzBfG mit Wirkung ab 01.01.2025 dahin ergaenzt, dass die Befristungsabrede grundsaetzlich in Textform abgeschlossen werden kann, sofern kein Tarifvertrag entgegensteht. Fuer das Schriftformerfordernis bei Befristungen vor 2025 sowie für Faelle, in denen das Tarifrecht weiterhin Schriftform verlangt, bleibt die qES-Rechtsprechung relevant. Quelle: https://www.gvw.com/aktuelles/blog/detail/buerokratieentlastungsgesetz-beschlossen-weg-frei-für-digitale-arbeitsvertraege
 
 ### Was bedeutet das praktisch?
 
@@ -197,5 +197,5 @@ Befristungsende Klage erheben (§ 17 TzBfG — Entfristungsklage).
 - → `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb`
 - → `kuendigung-per-schriftsatz-zustellung-formfragen`
 - → `textform-paragraph-126b-bgb-dauerhafter-datentraeger`
-- → `form-checker-fuer-vertrag-oder-willenserklaerung`
+- → `form-checker-für-vertrag-oder-willenserklaerung`
 - → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`

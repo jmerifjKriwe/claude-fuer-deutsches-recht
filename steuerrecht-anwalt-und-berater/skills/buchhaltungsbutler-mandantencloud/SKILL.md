@@ -13,7 +13,7 @@ description: "BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandan
 
 ## Kernsachverhalt
 
-BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Buchhaltungsloesungen fuer Mandanten, die ihre Buchfuehrung weitgehend selbst betreiben. Sie bieten Beleg-Scan, Bank-Abruf, automatische Buchungs-Vorschlaege. Der Steuerberater erhaelt Daten ueber DATEV-Export oder andere Schnittstellen. Vorteil: Mandant traegt einen Teil der Arbeit; Nachteil: Daten-Qualitaet variabel.
+BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Buchhaltungsloesungen für Mandanten, die ihre Buchfuehrung weitgehend selbst betreiben. Sie bieten Beleg-Scan, Bank-Abruf, automatische Buchungs-Vorschlaege. Der Steuerberater erhaelt Daten ueber DATEV-Export oder andere Schnittstellen. Vorteil: Mandant traegt einen Teil der Arbeit; Nachteil: Daten-Qualitaet variabel.
 
 ## Kaltstart-Rueckfragen
 
@@ -30,7 +30,7 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 
 ### Phase 1 — System-Wahl
 
-| Tool | Geeignet fuer |
+| Tool | Geeignet für |
 |---|---|
 | BuchhaltungsButler | KMU mit hohem Belegaufkommen |
 | sevDesk | Solo-Selbstaendige, Kleinunternehmer |

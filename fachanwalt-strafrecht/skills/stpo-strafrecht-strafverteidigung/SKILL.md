@@ -202,12 +202,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ## Zeugenbeistand / internationaler Bezug Bausteine
-- **Rechtsgrundlage Zeugenbeistand § 68b StPO:** anwaltliche Hilfe fuer Zeugen in der Vernehmung; auf Antrag oder von Amts wegen bei besonderer Schutzbeduerftigkeit; Ablehnung in eng begrenzten Faellen.
+- **Rechtsgrundlage Zeugenbeistand § 68b StPO:** anwaltliche Hilfe für Zeugen in der Vernehmung; auf Antrag oder von Amts wegen bei besonderer Schutzbeduerftigkeit; Ablehnung in eng begrenzten Faellen.
 - **Anwaltsbestellung Zeugen § 68b II StPO:** Beiordnung wenn Zeugenrechte (insb. §§ 52, 55 StPO) ohne Beistand nicht wahrgenommen werden koennen.
 - **Schutzrechte Zeugen StPO:**
  - **§ 52 StPO Zeugnisverweigerungsrecht Angehoeriger:** Verlobte / Ehegatten / Lebenspartner / Geschwister bis 3. Grad / Verschwaegerte; muss vor Vernehmung belehrt werden.
  - **§ 53 StPO Berufsgeheimnistraeger:** Anwaelte, Aerzte, Geistliche, Journalisten.
- - **§ 55 StPO Auskunftsverweigerung wegen Selbstbelastung:** bei Strafverfolgungsrisiko fuer Zeugen / Angehoerige.
+ - **§ 55 StPO Auskunftsverweigerung wegen Selbstbelastung:** bei Strafverfolgungsrisiko für Zeugen / Angehoerige.
  - **§ 68 StPO Pruefung Anonymitaet** bei gefaehrdeten Zeugen.
 - **Internationaler Zeugenbeistand:**
  - **Auslaendischer Zeuge im Inland:** Dolmetscher § 185 GVG; ggf. videovernehmung.
@@ -219,7 +219,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Adhaesionsverfahren §§ 403-406c StPO:**
  - Zivilrechtliche Anspruchsverfolgung Geschaedigte im Strafverfahren.
  - Stadium: bis Eroeffnungsbeschluss zu beantragen.
-- **Nebenklage §§ 395-402 StPO** fuer Verletzte:
+- **Nebenklage §§ 395-402 StPO** für Verletzte:
  - Antrag bei AG / LG.
  - **§ 395 StPO Anschlussberechtigte:** insb. bei §§ 174-184k, 211, 212, 223 StGB, OWi mit erheblicher Verletzung.
  - **§ 397a StPO Beiordnung Rechtsanwalt** kostenlos bei besonderer Schutzbeduerftigkeit (insbesondere Sexualdelikte, schwere Koerperverletzungen).

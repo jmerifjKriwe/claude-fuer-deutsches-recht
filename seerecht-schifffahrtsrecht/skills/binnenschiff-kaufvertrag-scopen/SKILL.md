@@ -1,13 +1,13 @@
 ---
 name: binnenschiff-kaufvertrag-scopen
-description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag fuer Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Binnenschiff – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag fuer Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,30 +21,30 @@ Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufv
 Ein Investor kauft ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff; Risiken aus Altlasten und Zertifikatsmängeln sind zu identifizieren. Ein Reeder veräußert ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff unter Zeitdruck; Gewährleistungsausschlüsse sind zu prüfen. Eine Bank finanziert den Kauf und möchte Vertragsrisiken kennen.
 
 ## Erste Schritte
-1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen fuer Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
+1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
 2. Lastenuebergang pruefen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
 3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan pruefen.
 4. Zertifikatsstatus klaeren: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
 5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
-6. Escrow-Mechanismus fuer simultane Zahlung und Eigentumsuebergang aufsetzen.
+6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 
 ## Rechtsrahmen
-- BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. ADN-Gefahrgut Binnenwasserstrassen; RheinSchPersV; CESNI-Standards.
+- BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. ADN-Gefahrgut Binnenwasserstrassen; RheinSchPersV; CESNI-Standards.
 
 ## Prüfraster
 - Sind alle Hypotheken und Lasten vor Eigentumsuebergang abzuloesen?
 - Enthaelt der Kaufvertrag eine umfassende Freistellungsklausel?
 - Sind Zertifikate (Klasse/ISM/MLC) als Closing-Bedingungen definiert?
 - Ist der Gewaehrleistungsausschluss rechtswirksam?
-- Ist Escrow-Mechanismus fuer simultane Transaktion vorgesehen?
+- Ist Escrow-Mechanismus für simultane Transaktion vorgesehen?
 
 ## Typische Fallstricke
-- Kaeufer haftet mit Binnenmotorgueterschiff; Tanker oder Fahrgastschiff fuer Altschulden bis zur Loeschung.
+- Kaeufer haftet mit Binnenmotorgueterschiff; Tanker oder Fahrgastschiff für Altschulden bis zur Loeschung.
 - Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
 - Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
 
 ## Output
-Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste fuer Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
+Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
 
 ## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
 International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.

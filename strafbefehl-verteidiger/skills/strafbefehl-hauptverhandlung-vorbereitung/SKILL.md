@@ -33,7 +33,7 @@ Hauptverhandlung nach § 411 StPO bei Einspruch. Termin Vorbereitungspflichten. 
 - **§ 258 StPO** — Schlussvortrag; Verteidiger hat das letzte Wort
 - **§ 24 StPO** — Ablehnung eines Richters wegen Befangenheit
 - **§ 46 StGB** — Strafzumessungserwaeungen; Grundlage des Plaedoyers
-- **§ 267 StPO** — Urteilsgruende; Grundlage fuer spaetere Revision
+- **§ 267 StPO** — Urteilsgruende; Grundlage für spaetere Revision
 
 ## Aktuelle Rechtsprechung
 
@@ -48,7 +48,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. **Einlassung finalisieren** — schriftlich vorbereiten, mit Mandant durchgehen, Reihenfolge festlegen.
 3. **Beweisantraege formulieren** — pro Antrag: Beweisthema + Beweismittel + Relevanz.
 4. **Plaedoyer vorbereiten** — Strafzumessungsargumente strukturieren: mildernde Umstaende, keine Vorstrafe, Schadenswiedergutmachung.
-5. **Befangenheitsantrag vorbereiten** — wenn Anzeichen fuer Voreingenommenheit des Richters.
+5. **Befangenheitsantrag vorbereiten** — wenn Anzeichen für Voreingenommenheit des Richters.
 6. **Mandant ueber Ablauf der HV informieren** — Aufruf, Vernehmung, Beweisaufnahme, Plaedoyer, Letztes Wort.
 
 ## Entscheidungsbaum in der HV
@@ -76,7 +76,7 @@ Nach Beweisaufnahme:
 Beweisthema: [Was soll bewiesen werden?]
 Beweismittel: [Zeuge / Sachverstaendiger / Urkunde — konkret benennen]
 Erwartetes Ergebnis: [Was wird die Beweisaufnahme zeigen?]
-Relevanz fuer das Verfahren: [Warum ist das entscheidungserheblich?]
+Relevanz für das Verfahren: [Warum ist das entscheidungserheblich?]
 Gestuetzt auf: § 244 Abs. 2 StPO (Amtsaufklaerungspflicht) /
  § 244 Abs. 4 StPO (Sachverstaendigen-Antrag)
 ```

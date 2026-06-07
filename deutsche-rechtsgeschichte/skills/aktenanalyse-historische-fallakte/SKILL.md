@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakt
 
 Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,17 +62,17 @@ Die historische Fallakte ist eine Primearquelle ersten Ranges. Sie besteht typis
 
 ## Methodik
 
-- Bundesarchiv: invenio.bundesarchiv.de fuer Findbuecher
+- Bundesarchiv: invenio.bundesarchiv.de für Findbuecher
 - Akten-Kurrentschrift: Palaeographie-Hilfsmittel (Volkskundliche Beratung, Lehrbucher)
-- ZPO 1877: gesetze-im-internet.de fuer historische Aktenstruktur-Verstaendnis
+- ZPO 1877: gesetze-im-internet.de für historische Aktenstruktur-Verstaendnis
 - Archivzitat: Bestand, Signatur, Blattnummer
 
 ## Output
 
-- Schritt-fuer-Schritt-Anleitung historische Aktenanalyse
-- Musterzitat fuer Archivakte in wissenschaftlichem Text
+- Schritt-für-Schritt-Anleitung historische Aktenanalyse
+- Musterzitat für Archivakte in wissenschaftlichem Text
 - Aktenstruktur-Tabelle: typische Bestandteile einer Gerichtsakte 1880-1933
 
 ## Quellenregel
 
-Bundesarchiv: invenio.bundesarchiv.de. Aktenbestaende: Bestand, Signatur, Blattnummer. GVG und ZPO: gesetze-im-internet.de (fuer Aktenstruktur-Kontext). Keine ungeprueften Transkriptionen aus unbekannten Quellen.
+Bundesarchiv: invenio.bundesarchiv.de. Aktenbestaende: Bestand, Signatur, Blattnummer. GVG und ZPO: gesetze-im-internet.de (für Aktenstruktur-Kontext). Keine ungeprueften Transkriptionen aus unbekannten Quellen.

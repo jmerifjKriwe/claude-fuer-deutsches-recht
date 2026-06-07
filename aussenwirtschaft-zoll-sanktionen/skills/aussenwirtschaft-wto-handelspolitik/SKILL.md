@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-wto-handelspolitik
-description: "WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext fuer Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung fuer Unternehmen bei EU-Massnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk und handelspolitisches Risikoradar im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung für Unternehmen bei EU-Massnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk und handelspolitisches Risikoradar im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # WTO-Handelspolitik: GATT Schutzmassnahmen und EU-Handelsverteidigung
 
 ## Arbeitsbereich
 
-WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext fuer Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung fuer Unternehmen bei EU-Massnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk und handelspolitisches Risikoradar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung für Unternehmen bei EU-Massnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk und handelspolitisches Risikoradar. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext fuer Importzuschlaege A
 1. Massnahme identifizieren: Antidumping Ausgleichszoll oder Schutzmasnahme? EU-Amtsblatt und TARIC pruefen.
 2. WTO-Rechtsgrundlage bestimmen: ADA SCM-Abkommen oder SG-Abkommen.
 3. Unternehmensbeteiligung: Als Einfulirer Exporteur oder Produzent von der Massnahme betroffen?
-4. Verfahrensrechte in EU-Untersuchung: Fragebogen Auskunftspflicht Akteneinsicht Anhoerung.
+4. Verfahrensrechte in EU-Untersuchung: Fragebogen Auskunftspflicht Akteneinsicht Anhörung.
 5. WTO-Streitbeilegung: Nur Staatsebene moeglich; nationales Unternehmen kann nur Regierung um Klage bitten.
 6. Risikoradar erstellen: Laufende WTO-Streitverfahren gegen EU und potenzielle Massnahmen.
 
@@ -36,7 +36,7 @@ WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext fuer Importzuschlaege A
 
 - **GATT Art. VI**: Antidumping und Ausgleichszoelle.
 - **GATT Art. XIX**: Schutzmasnahmenklausel (Safeguards).
-- **WTO-Antidumping-Abkommen (ADA)**: Verfahrens- und Substanzregeln fuer AD-Massnahmen.
+- **WTO-Antidumping-Abkommen (ADA)**: Verfahrens- und Substanzregeln für AD-Massnahmen.
 - **VO (EU) 2016/1036 (EU-AD-GVO)**: EU-Antidumpingverfahren.
 - **VO (EU) 2015/478 (EU-SG-VO)**: EU-Schutzmasnahmenverfahren.
 
@@ -47,11 +47,11 @@ WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext fuer Importzuschlaege A
 - [ ] Unternehmen als interessierte Partei im EU-Verfahren angemeldet?
 - [ ] Fragebogen-Antwort fristgerecht und vollstaendig eingereicht?
 - [ ] WTO-Streitbeilegungsoptionen auf Regierungsebene bewertet?
-- [ ] Handelspolitisches Risikoradar fuer kuenftige Massnahmen erstellt?
+- [ ] Handelspolitisches Risikoradar für kuenftige Massnahmen erstellt?
 
 ## Typische Fallstricke
 
-- Fristen fuer Fragebogen-Einreichung in EU-Verfahren sind kurz; Verpaessung schliesst von Verfahren aus.
+- Fristen für Fragebogen-Einreichung in EU-Verfahren sind kurz; Verpaessung schliesst von Verfahren aus.
 - WTO-Streitbeilegung nur durch Staaten; Unternehmen haben keinen direkten Klagezugang.
 - Schutzmassnahmen und Antidumping-Zoelle koennen kumulativ auf dieselbe Ware angewendet werden.
 - Circumvention-Ermittlungen koennen Massnahmen auf Drittland-Exporteure ausdehnen.
@@ -60,7 +60,7 @@ WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext fuer Importzuschlaege A
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-WTO-Kontext-Vermerk mit Massnahmen-Analyse, Verfahrensrechte-Checkliste und handelspolitisches Risikoradar fuer laufende und potenzielle Massnahmen.
+WTO-Kontext-Vermerk mit Massnahmen-Analyse, Verfahrensrechte-Checkliste und handelspolitisches Risikoradar für laufende und potenzielle Massnahmen.
 
 ## Quellen
 

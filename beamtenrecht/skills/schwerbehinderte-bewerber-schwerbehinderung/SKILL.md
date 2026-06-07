@@ -1,13 +1,13 @@
 ---
 name: schwerbehinderte-bewerber-schwerbehinderung
-description: "Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung der Schwerbehindertenvertretung nach §§ 178 179 SGB IX und die Indizwirkung von Verstoessen im AGG-Entschaedigungsprozess. Liefert Pruefraster Schriftsatzbausteine fuer Eilantrag Entschaedigungsforderung und Konkurrentenklage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Pruefung der Pflichten öffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung der Schwerbehindertenvertretung nach §§ 178 179 SGB IX und die Indizwirkung von Verstoessen im AGG-Entschaedigungsprozess. Liefert Pruefraster Schriftsatzbausteine für Eilantrag Entschaedigungsforderung und Konkurrentenklage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Schwerbehinderte Bewerber im oeffentlichen Dienst — § 165 SGB IX
+# Schwerbehinderte Bewerber im öffentlichen Dienst — § 165 SGB IX
 
 ## Arbeitsbereich
 
-Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung der Schwerbehindertenvertretung nach §§ 178 179 SGB IX und die Indizwirkung von Verstoessen im AGG-Entschaedigungsprozess. Liefert Pruefraster Schriftsatzbausteine fuer Eilantrag Entschaedigungsforderung und Konkurrentenklage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Pruefung der Pflichten öffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung der Schwerbehindertenvertretung nach §§ 178 179 SGB IX und die Indizwirkung von Verstoessen im AGG-Entschaedigungsprozess. Liefert Pruefraster Schriftsatzbausteine für Eilantrag Entschaedigungsforderung und Konkurrentenklage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber bei Bewerbungen schwe
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer schwerbehinderte oder gleichgestellte Bewerber im oeffentlichen Dienst. Klaert die zwingenden Verfahrenspflichten der oeffentlichen Arbeitgeber, insbesondere die Einladungspflicht und das Zusammenwirken mit Schwerbehindertenvertretung und Gleichstellungsbeauftragten.
+Skill für schwerbehinderte oder gleichgestellte Bewerber im öffentlichen Dienst. Klaert die zwingenden Verfahrenspflichten der öffentlichen Arbeitgeber, insbesondere die Einladungspflicht und das Zusammenwirken mit Schwerbehindertenvertretung und Gleichstellungsbeauftragten.
 
 ## 2. Eingaben
 
@@ -37,12 +37,12 @@ Skill fuer schwerbehinderte oder gleichgestellte Bewerber im oeffentlichen Diens
 - Bei Konzentrationsbewerbungen ueber zentrale Stellen sind die Pflichten nicht gemindert.
 
 ### b) Interne Besetzung
-- § 165 Sätze 1 und 2 SGB IX: vor externer Ausschreibung Pruefpflicht, ob die Stelle intern mit schwerbehinderten Personen besetzt werden kann (Vermittlungsvorschlag der Bundesagentur fuer Arbeit; interner Aufruf).
+- § 165 Sätze 1 und 2 SGB IX: vor externer Ausschreibung Pruefpflicht, ob die Stelle intern mit schwerbehinderten Personen besetzt werden kann (Vermittlungsvorschlag der Bundesagentur für Arbeit; interner Aufruf).
 
 ### c) Beteiligung Schwerbehindertenvertretung
-- § 178 Abs. 2 SGB IX: Unterrichtungs- und Anhoerungsrecht in allen Angelegenheiten, die Schwerbehinderte betreffen, einschliesslich Bewerbungen.
+- § 178 Abs. 2 SGB IX: Unterrichtungs- und Anhörungsrecht in allen Angelegenheiten, die Schwerbehinderte betreffen, einschliesslich Bewerbungen.
 - § 179 SGB IX Behinderungen der Vertrauensperson sanktioniert.
-- Verstoss = Verfahrensfehler mit Indizwirkung fuer Diskriminierung.
+- Verstoss = Verfahrensfehler mit Indizwirkung für Diskriminierung.
 
 ### d) Eignung
 - Schwerbehinderung als solche ist kein Eignungsmangel.
@@ -60,7 +60,7 @@ Skill fuer schwerbehinderte oder gleichgestellte Bewerber im oeffentlichen Diens
 
 ## 5. Ausgabeformat
 
-- Pruefraster Verfahrenspflichten oeffentlicher Arbeitgeber.
+- Pruefraster Verfahrenspflichten öffentlicher Arbeitgeber.
 - AGG-Entschaedigungsschreiben.
 - Konkurrenteneilantrag.
 
@@ -74,4 +74,4 @@ Skill fuer schwerbehinderte oder gleichgestellte Bewerber im oeffentlichen Diens
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Grad der Behinderung 60 bewirbt sich auf A12-Stelle im Bundesministerium. Wird nicht zum Vorstellungsgespraech eingeladen; Absage ohne Begruendung. Skill liefert Indizienanalyse, AGG-Entschaedigungsschreiben mit Zwei-Monats-Frist und Begruendung des Anordnungsanspruchs fuer Eilantrag.
+Mandant Grad der Behinderung 60 bewirbt sich auf A12-Stelle im Bundesministerium. Wird nicht zum Vorstellungsgespraech eingeladen; Absage ohne Begruendung. Skill liefert Indizienanalyse, AGG-Entschaedigungsschreiben mit Zwei-Monats-Frist und Begruendung des Anordnungsanspruchs für Eilantrag.

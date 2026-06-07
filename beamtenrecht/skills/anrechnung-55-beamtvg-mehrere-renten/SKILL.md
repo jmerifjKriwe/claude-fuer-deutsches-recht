@@ -19,7 +19,7 @@ Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 Be
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Versorgungsempfaenger, die neben der Beamtenversorgung Renten aus der gesetzlichen Rentenversicherung, einer berufsstaendischen Versorgungseinrichtung oder einer auslaendischen Versorgung beziehen.
+Skill für Versorgungsempfaenger, die neben der Beamtenversorgung Renten aus der gesetzlichen Rentenversicherung, einer berufsstaendischen Versorgungseinrichtung oder einer auslaendischen Versorgung beziehen.
 
 ## 2. Eingaben
 

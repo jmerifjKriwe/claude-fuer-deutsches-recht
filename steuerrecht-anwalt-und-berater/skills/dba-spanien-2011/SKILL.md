@@ -45,7 +45,7 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 
 ### Ansaessigkeit (Art. 4)
 - OECD-Tie-Breaker.
-- "Beckham-Regelung" (Sonderregelung Spanien fuer Zugezogene): pruefen ob Steueransaessigkeit voll oder beschraenkt — konkret pruefen, ob unter DBA "ansaessig".
+- "Beckham-Regelung" (Sonderregelung Spanien für Zugezogene): pruefen ob Steueransaessigkeit voll oder beschraenkt — konkret pruefen, ob unter DBA "ansaessig".
 
 ### Betriebsstaette (Art. 5)
 - Bauausfuehrung **12 Monate**.
@@ -74,7 +74,7 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-1. DBA 1966 fuer Alt-Zeitraeume bis 2012; DBA 2011 ab 2013.
+1. DBA 1966 für Alt-Zeitraeume bis 2012; DBA 2011 ab 2013.
 
 ### Phase 2 — Ansaessigkeit
 1. Tie-Breaker.
@@ -108,7 +108,7 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 
 ### Erstattungsverfahren spanische Quellensteuer
 
-- **Zustaendigkeit**: spanische Erstattung durch **Agencia Estatal de Administracion Tributaria (AEAT)**, Oficina Nacional de Gestion Tributaria. Aktuelle Zustaendigkeit auf **agenciatributaria.gob.es** pruefen.
+- **Zuständigkeit**: spanische Erstattung durch **Agencia Estatal de Administracion Tributaria (AEAT)**, Oficina Nacional de Gestion Tributaria. Aktuelle Zuständigkeit auf **agenciatributaria.gob.es** pruefen.
 - **Antragsformulare**: spanische Modelos zur Quellensteuer-Erstattung; in der Praxis verbreitete Bezeichnungen "Modelo 210" (Steuer auf Einkuenfte Nichtansaessiger) sowie spezifische Erstattungsformulare — **konkrete Modelo-Nummern und Verfahren vom Anwender mit aktuellem Stand auf agenciatributaria.gob.es zu verifizieren**.
 - **Frist**: nach spanischem LGT (Ley General Tributaria) regelmaessig **vier Jahre** ab Steuerentrichtung.
 - **Bearbeitungsdauer AEAT**: 12-36 Monate; nach den Aenderungen seit 2020 fortgesetzt langwierig.
@@ -134,7 +134,7 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 
 ## Edge Cases — was Pruefer triggert
 
-- **Beckham-Regelung (Regimen Especial)**: spanische Sonderbesteuerung fuer Zuzuegler (maximal 6 Jahre, 24 Prozent Flat-Tax auf spanische Einkuenfte); fraglich, ob Beckham-Status zur DBA-Ansaessigkeit fuehrt. Konkrete Pruefung nach Art. 4 DBA-ES erforderlich.
+- **Beckham-Regelung (Regimen Especial)**: spanische Sonderbesteuerung für Zuzuegler (maximal 6 Jahre, 24 Prozent Flat-Tax auf spanische Einkuenfte); fraglich, ob Beckham-Status zur DBA-Ansaessigkeit fuehrt. Konkrete Pruefung nach Art. 4 DBA-ES erforderlich.
 - **DRV-Renten an Mallorca**: Wohnsitzstaat-Prinzip Art. 17 — Spanien hat Besteuerungsrecht. Aufgrund von Informationsaustausch wird die spanische Besteuerung zunehmend durchgesetzt. Bei Doppelbesteuerung Verstaendigungsverfahren.
 - **Wechsel DBA 1966 → DBA 2011 (ab 01.01.2013)**: Mandanten-Memos vor 2013 referenzieren Freistellung mit Progression bei Immobilien; ab 2013 Anrechnung. Veranlagungszeitraum-Wechsel zentral.
 - **ETVE-Holding** (entidad de tenencia de valores extranjeros): substanz-pflichtig nach spanischem Recht — DBA-Berechtigung vorhanden, aber § 50d Abs. 3 EStG-Substanztest gleichwohl Pflicht.
@@ -160,7 +160,7 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 >
 > Schritt 1: Tie-Breaker Art. 4 DBA-ES: ansaessig ES.
 >
-> Schritt 2: Art. 17 DBA-ES: Wohnsitzstaat-Prinzip fuer gesetzliche Renten — Spanien hat Besteuerungsrecht.
+> Schritt 2: Art. 17 DBA-ES: Wohnsitzstaat-Prinzip für gesetzliche Renten — Spanien hat Besteuerungsrecht.
 >
 > Schritt 3: Deutsche Quellensteuer auf DRV-Rente nach § 22 EStG ggf. einbehalten (oder beschraenkt steuerpflichtig); Erstattungsantrag in DE (BZSt-NRA-Verfahren) bei Ansaessigkeitsbescheinigung der AEAT.
 >

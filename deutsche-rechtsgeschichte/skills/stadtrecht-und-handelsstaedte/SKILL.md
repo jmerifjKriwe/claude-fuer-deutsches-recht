@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittel
 
 Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,10 +48,10 @@ Das mittelalterliche Stadtrecht entstand als Privileg der Stadtgruender (Landesh
 
 ## Akteure und Institutionen
 
-- **Stadtraete** der Handelsstaedte: Normgeber fuer Stadtrecht
-- **Schoeffen (Magdeburg)**: Rechtsfinder und Obergericht fuer ausgestrahle Rechte
+- **Stadtraete** der Handelsstaedte: Normgeber für Stadtrecht
+- **Schoeffen (Magdeburg)**: Rechtsfinder und Obergericht für ausgestrahle Rechte
 - **Hansetage**: Beschlussgremium des Hansebundes
-- **Kaufmannsgilden**: Privatrechtliche Normgeber fuer Handelsbrauch
+- **Kaufmannsgilden**: Privatrechtliche Normgeber für Handelsbrauch
 
 ## Typische Streitfragen / Forschungsfragen
 

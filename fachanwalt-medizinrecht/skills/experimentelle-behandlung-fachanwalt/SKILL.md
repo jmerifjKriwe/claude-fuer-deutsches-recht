@@ -200,7 +200,7 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 - Erwerbsminderungs-Rente bei Dauerschaden
 - Schmerzensgeld nach BGH-Schmerzensgeld-Tabelle
 
-## 7) Verjaehrung
+## 7) Verjährung
 
 - 3 Jahre ab Kenntnis Patient
 - Hoechstens 30 Jahre ab Eintritt der Verletzung
@@ -250,7 +250,7 @@ Bevor losgelegt wird, kläre sofort:
 - Sachverhalt ungeklärt → Schlichtung zuerst
 - Verjährung in < 3 Monaten → sofort Hemmungsmaßnahme (Güteantrag, Klage)
 - Tod des Patienten → Erbenklage; Schmerzensgeld vererbt (§ 253 BGB n.F.)
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -279,8 +279,8 @@ Sachverhalt: [Behandlung Datum Einrichtung Fehler]
 Naechste Schritte:
 1. Anforderung der vollstaendigen Patientenakte bei [EINRICHTUNG] § 630g BGB
  Frist: 14 Tage — wir schreiben heute noch.
-2. Schlichtungsantrag bei der [AERZTEKAMMER] — kostenlos; hemmt Verjaehrung.
-3. Verjaehrungsfrist beachten: Aktuell laeuft sie bis [DATUM].
+2. Schlichtungsantrag bei der [AERZTEKAMMER] — kostenlos; hemmt Verjährung.
+3. Verjährungsfrist beachten: Aktuell laeuft sie bis [DATUM].
 Kosten: [STREITWERT] — Ihre Rechtsschutzversicherung pruefe ich.
 Mit freundlichen Gruessen
 [KANZLEI]
@@ -471,7 +471,7 @@ Bevor losgelegt wird, kläre:
 - Wirtschaftlichkeitsprüfung → Praxisbesonderheiten konkret belegen; Vergleichsgruppe rügen
 - Zulassungsentziehung → Verhältnismäßigkeit (Ruhen als mildere Maßnahme); Eilantrag § 86b SGG
 - Regress-Bescheid → Widerspruch beim Berufungsausschuss; parallel Aussetzung beantragen
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -480,7 +480,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Widerspruch Honorarbescheid KV | Widerspruchsschreiben; Template unten |
-| Variante A — Richtgroessen-Regress droht | Beratung vor Bescheid; Stellungnahme im Anhoerungs-Stadium |
+| Variante A — Richtgroessen-Regress droht | Beratung vor Bescheid; Stellungnahme im Anhörungs-Stadium |
 | Variante B — Zulaessige Mehrfachabrechnung streitig | GOAe / EBM-Kommentar pruefen; Nachweisdokumentation |
 | Variante C — Zulassungsentziehung droht | Sofortiger Widerspruch + Eilantrag; Strafverfahren koordinieren |
 

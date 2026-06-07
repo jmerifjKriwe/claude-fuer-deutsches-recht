@@ -239,7 +239,7 @@ Diese Prüfungslinie führt einen systematischen Fristencheck durch und bewertet
 5. Output: Fristenkontroll-Tabelle ausgefüllt, Risikoampel je Frist, Eskalationshinweise?
 
 ## Anschluss-Skills
-- `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` – Normen zu Fristen.
+- `spezial-rechtsschutz-fristen-form-und-zuständigkeit` – Normen zu Fristen.
 - `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV-Fristen.
 - `gr-portfolio-pflege-workflow` – Portfolio-Fristen.
 

@@ -1,13 +1,13 @@
 ---
 name: handelsregister-elektronische-zustellung
-description: "Fachmodul fuer Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen."
+description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen."
 ---
 
 # NKR-Handelsregister und elektronische Zustellung
 
 ## Worum geht es konkret
 
-Vorhaben mit Bezug auf das Handelsregister und elektronische Zustellungswege gehoeren zu den methodisch komplexesten NKR-Pruefungen. Sie verbinden Gesellschaftsrecht, ZPO, OZG, eIDAS-VO, beA und die dezentrale Registerstruktur in Deutschland. Dieser Skill ist auch die methodische Grundlage fuer die Testakte des Plugins (ElErrHandRegG).
+Vorhaben mit Bezug auf das Handelsregister und elektronische Zustellungswege gehoeren zu den methodisch komplexesten NKR-Pruefungen. Sie verbinden Gesellschaftsrecht, ZPO, OZG, eIDAS-VO, beA und die dezentrale Registerstruktur in Deutschland. Dieser Skill ist auch die methodische Grundlage für die Testakte des Plugins (ElErrHandRegG).
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -37,7 +37,7 @@ Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle einge
 - AG, KGaA, OHG, KG, e.K.: jeweils kleinere Segmente
 - Auslaendische Gesellschaften mit deutscher Zweigniederlassung: kleinere Teilmenge
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. Adressatenkreis
 
@@ -103,10 +103,10 @@ Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle einge
 
 - "Das Vorhaben betrifft alle im Handelsregister eingetragenen Gesellschaften (rund 1,8 Mio nach Unternehmensregister Statistisches Bundesamt) sowie auslaendische Gesellschaften mit deutscher Zweigniederlassung."
 - "Der NKR begruesst die Zielsetzung, die elektronische Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften zu verbessern und damit Verfahren zu beschleunigen."
-- "Der NKR weist darauf hin, dass die vorgesehene dezentrale Architektur einen erheblichen Mehraufwand fuer die Wirtschaft und die Verwaltung verursacht. Eine zentrale Loesung ueber das Handelsregistergericht im Sinne des Once-Only-Prinzips waere praktikabler."
+- "Der NKR weist darauf hin, dass die vorgesehene dezentrale Architektur einen erheblichen Mehraufwand für die Wirtschaft und die Verwaltung verursacht. Eine zentrale Loesung ueber das Handelsregistergericht im Sinne des Once-Only-Prinzips waere praktikabler."
 - "Die vorgesehene monatliche Lebensbescheid-Pflicht ist aus Sicht des NKR unverhaeltnismaessig. Eine jaehrliche Bestaetigung mit ereignisorientierter Nachmeldepflicht erreicht das Regelungsziel mit deutlich geringerem Erfuellungsaufwand."
 - "Der NKR empfiehlt, das vorgesehene Verfahren mit dem OZG-Portalverbund, dem beA-System und der EUDI-Wallet zu verknuepfen und die Standards XOEV und FIM anzuwenden."
-- "Der NKR empfiehlt, fuer auslaendische Gesellschaften mit deutscher Zweigniederlassung den Anschluss an das Business Registers Interconnection System (BRIS) zu pruefen, anstatt einen separaten Inlandsvertreter zu fordern."
+- "Der NKR empfiehlt, für auslaendische Gesellschaften mit deutscher Zweigniederlassung den Anschluss an das Business Registers Interconnection System (BRIS) zu pruefen, anstatt einen separaten Inlandsvertreter zu fordern."
 
 ### Spezielle Aufwandsberechnung (Beispiel ElErrHandRegG)
 
@@ -130,7 +130,7 @@ Ersparnis: rund **240 Mio EUR jaehrlich**.
 ## Typische Fehler in Ressort-Entwuerfen
 
 - Fallzahlen ohne Quelle (Mikrozensus statt Unternehmensregister)
-- "Geringer Mehraufwand fuer die Wirtschaft" trotz monatlicher Pflicht
+- "Geringer Mehraufwand für die Wirtschaft" trotz monatlicher Pflicht
 - Auslaendische Gesellschaften nicht adressiert
 - Mehrere Standards parallel ohne Schnittstellen-Spezifikation
 - Konsequenz Loeschung aus Handelsregister ohne Abstufung

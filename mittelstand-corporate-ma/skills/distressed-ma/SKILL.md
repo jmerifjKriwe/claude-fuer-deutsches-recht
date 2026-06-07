@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - 13-Wochen-Liquiditätsplanung, Insolvenzreife-Check und Fortbestehensprognose.
@@ -121,7 +121,7 @@ Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan
 ## Triage — klaere vor Strukturentscheidung
 
 1. Welcher Krisenstatus besteht — drohende Zahlungsunfaehigkeit (§ 18 InsO), Zahlungsunfaehigkeit (§ 17 InsO) oder Ueberschuldung (§ 19 InsO)?
-2. Wurde bereits ein Insolvenzantrag gestellt? Gibt es einen vorlaeufigen Insolvenzverwalter?
+2. Wurde bereits ein Insolvenzantrag gestellt? Gibt es einen vorläufigen Insolvenzverwalter?
 3. Laeuft ein StaRUG-Verfahren — Restrukturierungsplan, Restrukturierungsbeauftragter, Moratorium?
 4. Welche Erwerbsstruktur ist geplant — Asset Deal aus der Insolvenz, uebertragende Sanierung, Share Deal mit Sanierungsplan, Insolvenzplan mit Debt-Equity-Swap?
 5. Gibt es wesentliche Sicherheiten (Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte), die in den Erwerb einbezogen werden muessen?
@@ -131,11 +131,11 @@ Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan
 
 - §§ 17-19 InsO — Insolvenztatbestaende: Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit, Ueberschuldung
 - § 15a InsO — Antragspflicht: 3 Wochen bei Zahlungsunfaehigkeit; 6 Wochen bei Ueberschuldung
-- § 15b InsO — Haftung fuer masseschmaeIernde Zahlungen nach Insolvenzreife
+- § 15b InsO — Haftung für masseschmaeIernde Zahlungen nach Insolvenzreife
 - §§ 129-147 InsO — Insolvenzanfechtung: Nachteilsbewusstsein, Vorsatzanfechtung (§ 133 InsO), Sicherungsanfechtung (§ 135 InsO); Frist bis zu 10 Jahre
 - §§ 163, 233 InsO — Uebertragender Sanierung: Veraeusserung des Unternehmens durch Insolvenzverwalter
 - §§ 217-269 InsO — Insolvenzplan: Sanierungsplan mit Debt-Equity-Swap; Glaeubigerzustimmung
-- §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfaehigkeit voraus; kein oeffentliches Verfahren noetig
+- §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfaehigkeit voraus; kein öffentliches Verfahren noetig
 - § 613a BGB — Betriebsuebergang bei Asset Deal: Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes; Widerspruchsrecht
 
 ## Aktuelle Rechtsprechung
@@ -145,14 +145,14 @@ Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Krisencheck:** Insolvenztatbestand (§§ 17-19 InsO) bestimmen; Antragspflicht (§ 15a InsO) und Fristen pruefen; Liquiditaetsvorschau anfordern
 2. **Strukturwahl:** Asset Deal / uebertragende Sanierung vs. Share Deal aus der Insolvenz vs. StaRUG-Plan vs. Insolvenzplan
 3. **Anfechtungsrisiko-Analyse:** § 133 InsO (Vorsatz), § 135 InsO (Sicherheiten, Gesellschafterdarlehen), § 131 InsO (kongruente/inkongruente Deckung) — kritischer Zeitraum 4 Jahre rueckwirkend
 4. **Sicherheitenlage kartieren:** Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte, Eigentumsvorbehalt — welche Sicherheiten werden mit erworben?
 5. **§ 613a BGB-Pruefung:** welche Arbeitnehmer uebernommen? Informationspflicht, Widerspruchsrecht (Frist: mind. 1 Monat); bei Nicht-Information: Schadensersatz
-6. **Insolvenzverwalter-Interface:** oeffentliche Bekanntmachung, Angebot, Glaeubigerzustimmung, Insolvenzgericht; due diligence im eingeschraenkten Datenraum
+6. **Insolvenzverwalter-Interface:** öffentliche Bekanntmachung, Angebot, Glaeubigerzustimmung, Insolvenzgericht; due diligence im eingeschraenkten Datenraum
 7. **W&I und Closing-Risiko:** W&I bei Distressed meist ausgeschlossen; stattdessen: Disclosure-basierter Haftungsausschluss, MAC-Trigger im SPA
 8. **Liquiditaetsampel und CP-Kalender:** Mindestliquiditaet bis Closing sichern; CPs pruefen (Insolvenzgericht-Genehmigung, Glaeubigerzustimmung)
 
@@ -160,7 +160,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Antrag noch nicht gestellt → Zahlungsunfaehigkeit vorhanden → Antragspflicht § 15a InsO → sofort Insolvenzverwaltung informieren
 - Vorlaeufige Insolvenz → Zustimmungsvorbehalt des vorl. IV → Asset Deal nur mit dessen Zustimmung wirksam
-- StaRUG laufend → kein oeffentliches Verfahren → Restrukturierungsplan muss Wertpruefung bestehen
+- StaRUG laufend → kein öffentliches Verfahren → Restrukturierungsplan muss Wertpruefung bestehen
 - Asset Deal → § 613a BGB → Informationspflicht → Arbeitnehmer Widerspruchsrecht 1 Monat
 
 ## Output-Template: Distressed-M&A-Timeline

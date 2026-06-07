@@ -3,11 +3,11 @@ name: umwelt-owi-verjaehrung-berechnen
 description: "Umwelt-OWi: Verjährung berechnen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Umwelt Owi Verjaehrung Berechnen
+# Umwelt Owi Verjährung Berechnen
 
 ## Arbeitsbereich
 
-Spezialthema **Umwelt Owi Verjaehrung Berechnen** im Ordnungswidrigkeitenrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Umwelt Owi Verjährung Berechnen** im Ordnungswidrigkeitenrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Umwelt Owi Verjaehrung Berechnen** im Ordnungswidrigkeitenrecht. 
 
 ## Arbeitsauftrag
 
-Umwelt Owi Verjaehrung Berechnen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Ordnungswidrigkeitenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Umwelt Owi Verjährung Berechnen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Ordnungswidrigkeitenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 
@@ -27,8 +27,22 @@ Umwelt Owi Verjaehrung Berechnen wird nicht als abstraktes Schema beantwortet, s
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Hoehe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
 - Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
 - Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde

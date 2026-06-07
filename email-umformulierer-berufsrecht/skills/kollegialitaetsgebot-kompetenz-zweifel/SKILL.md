@@ -25,8 +25,8 @@ Dieser Skill prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kolleg
 
 ## Triage zu Beginn
 1. Wer ist Adressat des Schreibens: Kollege direkt, Mandant ueber den Kollegen oder Gericht?
-2. Bezieht sich die Aeusserung auf fachliche Kritik (zulaessig) oder auf persoenliche Eigenschaften (unzulaessig)?
-3. Ist die Aeusserung ueber den Kollegen notwendig fuer den sachlichen Inhalt des Schreibens?
+2. Bezieht sich die Aeusserung auf fachliche Kritik (zulaessig) oder auf persönliche Eigenschaften (unzulaessig)?
+3. Ist die Aeusserung ueber den Kollegen notwendig für den sachlichen Inhalt des Schreibens?
 4. Hat die Gegenseite ihrerseits das Kollegialitaetsgebot verletzt — und verleitet das zur Erwiderung?
 
 ## Aktuelle Rechtsprechung

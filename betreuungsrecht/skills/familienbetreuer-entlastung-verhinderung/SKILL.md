@@ -9,8 +9,24 @@ description: "Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderung
 
 Für Angehörige, die gut betreuen wollen, aber nicht untergehen dürfen.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen und Erforderlichkeit.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis, keine Vorratsbetreuung.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung und Selbstbestimmung.
+- `§ 1823 BGB` — Vertretungsmacht des Betreuers.
+- `§ 1831 BGB` — Genehmigung bei freiheitsentziehenden Massnahmen.
+- `§ 1832 BGB` — aerztliche Zwangsmassnahmen.
+- `§ 1848 BGB` — Rechnungslegung und Vermögensübersicht.
+- `§ 274 FamFG` — Beteiligte im Betreuungsverfahren.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverstaendigengutachten.
+- `§ 5 BtOG` — Informations- und Beratungspflichten der Behörde.
+- `§ 8 BtOG` — Unterstützungsangebot zur Betreuungsvermeidung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 BtOG §§ 15 ff., 22, 23; BGB Betreuerauswahl/Änderung; FamFG.
 
 ## Arbeitsfragen

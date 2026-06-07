@@ -28,7 +28,7 @@ Sie haben einen Bescheid, der Sie belastet. Zum Beispiel eine Sanktion. Sie woll
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Belastender Verwaltungsakt**: Eine Entscheidung der Behoerde, die Sie benachteiligt.
+- **Belastender Verwaltungsakt**: Eine Entscheidung der Behörde, die Sie benachteiligt.
 - **Aufhebung**: Bescheid wird zerstoert, gilt nicht mehr.
 - **Beschwer**: Sie sind betroffen.
 
@@ -39,11 +39,11 @@ Sie haben einen Bescheid, der Sie belastet. Zum Beispiel eine Sanktion. Sie woll
 - **§ 92 SGG** — Inhalt der Klage.
 - **§ 95 SGG** — Streitgegenstand: der Bescheid in Gestalt des Widerspruchsbescheids.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob es ein Verwaltungsakt ist
 
-Anfechtungsklage geht nur gegen Verwaltungsakte (offizielle Entscheidungen der Behoerde). Briefe ohne Regelung sind keine VA, dagegen keine Anfechtung.
+Anfechtungsklage geht nur gegen Verwaltungsakte (offizielle Entscheidungen der Behörde). Briefe ohne Regelung sind keine VA, dagegen keine Anfechtung.
 
 ### Schritt 2 — Vorverfahren beruecksichtigen
 
@@ -61,7 +61,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde]
+[Behörde]
 [Adresse]
 
 — Beklagte —
@@ -81,7 +81,7 @@ I. Sachverhalt
 
 II. Rechtliche Wuerdigung
 Der Bescheid ist rechtswidrig, weil:
-1. [Verfahrensfehler — z.B. Anhoerung nach § 24 SGB X nicht erfolgt]
+1. [Verfahrensfehler — z.B. Anhörung nach § 24 SGB X nicht erfolgt]
 2. [Sachliche Fehler — z.B. wichtige Tatsachen uebersehen]
 3. [Rechtsfehler — z.B. falsche Auslegung des § 31 SGB II]
 
@@ -106,7 +106,7 @@ Anlagen:
 
 ### Schritt 5 — Beklagte einbeziehen
 
-Beklagte ist die Behoerde, deren Bescheid Sie angreifen — nicht der einzelne Sachbearbeiter. Beispiel: Bei Buergergeld das Jobcenter Stadt X.
+Beklagte ist die Behörde, deren Bescheid Sie angreifen — nicht der einzelne Sachbearbeiter. Beispiel: Bei Buergergeld das Jobcenter Stadt X.
 
 ### Schritt 6 — Wenn der Bescheid mehrere Teile hat
 

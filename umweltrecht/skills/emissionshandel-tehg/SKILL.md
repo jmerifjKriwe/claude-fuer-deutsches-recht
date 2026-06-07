@@ -45,7 +45,7 @@ Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehr
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **TEHG-Pflicht pruefen**: Anlage 1 TEHG — Taetigkeitskategorie, Schwellenwert (z.B. Feuerungsanlage > 20 MW thermisch).
 2. **Genehmigungs-/Monitoring-Antrag**: § 4 TEHG-Genehmigung + Monitoring-Plan gemaess MVO/DEHSt.
@@ -53,7 +53,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 4. **Jaehrliches Monitoring**: Emissionen messen/berechnen, von akkreditiertem Pruefstelle verifizieren lassen.
 5. **Emissionsbericht 31. Maerz**: DEHSt-Einreichung.
 6. **Abgabe 30. April**: Berechtigungen (EUAs) im EUTL-Konto abbuchen; fehlende Berechtigungen zukaufen (Spot oder Forward).
-7. **Bei Zuteilungsbescheid-Angriff**: Widerspruch DEHSt, Klageverwaltungsgericht Berlin (§ 88 VwGO, auschliessliche Zustaendigkeit VG Berlin).
+7. **Bei Zuteilungsbescheid-Angriff**: Widerspruch DEHSt, Klageverwaltungsgericht Berlin (§ 88 VwGO, auschliessliche Zuständigkeit VG Berlin).
 
 ### Entscheidungsbaum Abgabe-Ruckstand
 
@@ -84,7 +84,7 @@ I. Hiermit legen wir namens und in Vollmacht des Anlagenbetreibers
  Widerspruch gegen den Zuteilungsbescheid vom [DATUM] ein.
 
 II. Sachverhalt
-Die DEHSt hat fuer die Handelsperiode 2021-2030 eine kostenlose
+Die DEHSt hat für die Handelsperiode 2021-2030 eine kostenlose
 Zuteilung von [X] EUAs/Jahr festgesetzt. Unsere Berechnung
 auf Basis der ZuV 2020 und der Benchmark-Daten ergibt jedoch
 [Y] EUAs/Jahr.
@@ -105,11 +105,11 @@ Anlagen: Produktionsdaten, Pruefstellen-Bericht, Benchmark-Berechnung
 
 ## Vertiefung: BEHG Nationaler Emissionshandel
 
-- Gilt fuer Brennstofflieferanten (Waerme, Verkehr, Gebaeude, Kleingewerbe nicht unter EU-ETS).
+- Gilt für Brennstofflieferanten (Waerme, Verkehr, Gebaeude, Kleingewerbe nicht unter EU-ETS).
 - Festpreis-Phase bis 2025: 25 EUR/t CO2 (2021), schrittweise auf 55 EUR/t (2025).
 - Ab 2026: Mengenhandel im Preiskorridor 55-65 EUR/t.
 - Abgabe-Pflicht: Berechtigungszertifikate (nEHS-Zertifikate) bis 31. Juli des Folgejahres.
-- DEHSt fuer nEHS-Registerueberwachung zustaendig.
+- DEHSt für nEHS-Registerueberwachung zuständig.
 
 ## Fristen-Ueberblick
 

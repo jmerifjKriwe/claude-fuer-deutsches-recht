@@ -45,7 +45,7 @@ Eine elektronische Einreichung kann Schriftformersatz sein — aber nur unter be
 
 - **Elektronisches Dokument**: Datei (PDF, anderer Format), die elektronisch uebermittelt wird.
 - **Qualifizierte elektronische Signatur (qeS)**: Elektronische Signatur mit Sicherheits-Zertifikat — gleichwertig handschriftlicher Unterschrift.
-- **Sicherer Uebermittlungsweg**: Vom Gesetz anerkannte Form der Uebermittlung (beA fuer Anwaelte, MJP fuer Buerger).
+- **Sicherer Uebermittlungsweg**: Vom Gesetz anerkannte Form der Uebermittlung (beA für Anwaelte, MJP für Buerger).
 
 ## Rechtsgrundlagen
 
@@ -55,7 +55,7 @@ Eine elektronische Einreichung kann Schriftformersatz sein — aber nur unter be
 - **§ 130b ZPO** — Form der gerichtlichen Entscheidungen.
 - **§ 174 ZPO** — Zustellung an Anwaelte ueber beA.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche elektronischen Wege gibt es?
 
@@ -96,7 +96,7 @@ Speichern Sie die Bestaetigung.
 
 ### Schritt 6 — Wirkung des Eingangs
 
-§ 130a V ZPO: Das elektronische Dokument ist eingegangen, sobald es auf der fuer den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Datum/Uhrzeit der Speicherung ist Eingang.
+§ 130a V ZPO: Das elektronische Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Datum/Uhrzeit der Speicherung ist Eingang.
 
 Auch um 23:59 Uhr eines Frist-Tags eingereicht ist fristwahrend (sofern Bestaetigung).
 
@@ -109,7 +109,7 @@ Wenn die Uebermittlung versagt:
 
 ### Schritt 8 — Pflicht oder Wahl?
 
-§ 130d ZPO verpflichtet **Anwaelte und Behoerden** zur elektronischen Einreichung. Buerger sind **nicht** verpflichtet — koennen weiter Papier. Aber elektronisch ist praktisch oft besser.
+§ 130d ZPO verpflichtet **Anwaelte und Behörden** zur elektronischen Einreichung. Buerger sind **nicht** verpflichtet — koennen weiter Papier. Aber elektronisch ist praktisch oft besser.
 
 ## Worauf Sie besonders achten muessen
 
@@ -133,7 +133,7 @@ Wenn die Uebermittlung versagt:
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 130a ZPO seit Gesetz zur Foerderung des elektronischen Rechtsverkehrs (FoeRV) erweitert. § 130d ZPO Anwaltszwang elektronisch — Buerger weiter wahlfrei.
+Stand: 05/2026. § 130a ZPO seit Gesetz zur Förderung des elektronischen Rechtsverkehrs (FoeRV) erweitert. § 130d ZPO Anwaltszwang elektronisch — Buerger weiter wahlfrei.
 
 ## Qualitäts-Hardening
 
@@ -151,7 +151,7 @@ Stand: 05/2026. § 130a ZPO seit Gesetz zur Foerderung des elektronischen Rechts
 
 ## Worum geht es?
 
-Fax war jahrzehntelang der Standard fuer kurzfristige Einreichungen im Justizalltag. Auch heute ist es nicht tot — viele Gerichte halten Fax-Anschluesse. Fuer Buerger ist Fax oft eine pragmatische Loesung, wenn die Frist droht und MJP nicht eingerichtet ist. Aber: Fax ist fehleranfaellig und nicht uneingeschraenkt rechtssicher. Diese Skill zeigt die Grenzen.
+Fax war jahrzehntelang der Standard für kurzfristige Einreichungen im Justizalltag. Auch heute ist es nicht tot — viele Gerichte halten Fax-Anschluesse. Fuer Buerger ist Fax oft eine pragmatische Loesung, wenn die Frist droht und MJP nicht eingerichtet ist. Aber: Fax ist fehleranfaellig und nicht uneingeschraenkt rechtssicher. Diese Skill zeigt die Grenzen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -171,7 +171,7 @@ Fax war jahrzehntelang der Standard fuer kurzfristige Einreichungen im Justizall
 - **§ 130a ZPO** — Elektronisches Dokument (Fax faellt grundsaetzlich darunter, wenn Anforderungen erfuellt).
 - **§ 167 ZPO** — Rueckwirkung Zustellung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Fax-Nummer des Gerichts ermitteln
 
@@ -229,7 +229,7 @@ Fax ist Ueberbrueckung — wenn Sie laufend Schriftsaetze einreichen, richten Si
 
 - "Ich sende und vergesse Sendebericht." → Beweisfrei.
 - "Ich sehe nur 'gesendet' im Display." → "Gesendet" heisst nicht "empfangen". Sendebericht "OK" ist entscheidend.
-- "Fax statt MJP fuer staendige Einreichung." → Auf Dauer zu fehleranfaellig. Wenden Sie sich an MJP.
+- "Fax statt MJP für staendige Einreichung." → Auf Dauer zu fehleranfaellig. Wenden Sie sich an MJP.
 
 ## Querverweise
 
@@ -264,12 +264,12 @@ Seit Anfang 2024 koennen Buerger **Mein Justizpostfach (MJP)** nutzen, um Schrif
 
 - Sie wollen Klage oder Schriftsatz elektronisch einreichen.
 - Sie haben noch kein MJP-Konto und wollen es einrichten.
-- Sie wollen wissen, ob MJP fuer alle Gerichte funktioniert.
+- Sie wollen wissen, ob MJP für alle Gerichte funktioniert.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Mein Justizpostfach (MJP)**: Buergerportal zur sicheren Kommunikation mit Gerichten und Behoerden.
-- **BundID**: Bundeseinheitliches Login der Verwaltung — Voraussetzung fuer MJP.
+- **Mein Justizpostfach (MJP)**: Buergerportal zur sicheren Kommunikation mit Gerichten und Behörden.
+- **BundID**: Bundeseinheitliches Login der Verwaltung — Voraussetzung für MJP.
 - **EGVP (Elektronisches Gerichts- und Verwaltungspostfach)**: Das technische Netz, in dem MJP eingebettet ist.
 - **Sicherer Uebermittlungsweg**: Form, die § 130a ZPO als gleichwertig zur Schriftform anerkennt.
 
@@ -277,9 +277,9 @@ Seit Anfang 2024 koennen Buerger **Mein Justizpostfach (MJP)** nutzen, um Schrif
 
 - **§ 130a ZPO** — Elektronisches Dokument.
 - **§ 130a III ZPO** — Sicherer Uebermittlungsweg.
-- **§ 130d ZPO** — Pflicht zur elektronischen Einreichung **fuer Anwaelte**. Buerger sind nicht zur elektronischen Einreichung verpflichtet — koennen aber.
+- **§ 130d ZPO** — Pflicht zur elektronischen Einreichung **für Anwaelte**. Buerger sind nicht zur elektronischen Einreichung verpflichtet — koennen aber.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — BundID einrichten
 
@@ -287,7 +287,7 @@ Vor MJP brauchen Sie eine **BundID**. Diese ist Voraussetzung.
 
 - URL: id.bund.de.
 - Identifizierung wahlweise: nPA (neuer Personalausweis) mit AusweisApp, oder Elster-Zertifikat, oder Benutzername+Passwort (geringere Vertrauensstufe).
-- Hoechste Vertrauensstufe ("Niveau hoch") ist fuer rechtssichere MJP-Nutzung erforderlich.
+- Hoechste Vertrauensstufe ("Niveau hoch") ist für rechtssichere MJP-Nutzung erforderlich.
 
 ### Schritt 2 — MJP-Konto aktivieren
 
@@ -300,7 +300,7 @@ Vor MJP brauchen Sie eine **BundID**. Diese ist Voraussetzung.
 Jedes Gericht hat eine EGVP-Adresse. Im MJP-Portal koennen Sie nach Empfaenger suchen:
 
 - "Amtsgericht Musterstadt" eingeben.
-- Korrekte Behoerde auswaehlen.
+- Korrekte Behörde auswaehlen.
 
 ### Schritt 4 — Schriftsatz vorbereiten
 
@@ -328,7 +328,7 @@ Fuer Buerger reicht **einfache Signatur + MJP/Niveau hoch**.
 
 - Nachricht abschicken.
 - Sie erhalten eine **Eingangsbestaetigung** (= Empfangsbekenntnis des Gerichts).
-- Bewahren Sie diese auf — sie ist Ihr Beweis fuer rechtzeitigen Eingang.
+- Bewahren Sie diese auf — sie ist Ihr Beweis für rechtzeitigen Eingang.
 
 ### Schritt 8 — Bestaetigung lesen
 
@@ -340,15 +340,15 @@ Pruefen Sie:
 
 ## Worauf Sie besonders achten muessen
 
-- **Niveau "hoch" der BundID** ist Pflicht fuer rechtssichere Einreichung.
-- **Eingangsbestaetigung speichern**: Beweis fuer Fristwahrung.
+- **Niveau "hoch" der BundID** ist Pflicht für rechtssichere Einreichung.
+- **Eingangsbestaetigung speichern**: Beweis für Fristwahrung.
 - **Datum und Uhrzeit zaehlen**: Eingang vor 24:00 Uhr des letzten Frist-Tags reicht.
 - **Kein Anwaltszwang elektronisch**: § 130d ZPO verpflichtet Anwaelte — nicht Buerger. Sie duerfen weiterhin Papier verwenden.
 - **Anzeigen pruefen**: Manche Gerichte beantragen Korrektur, wenn Datei-Form falsch.
 
 ## Typische Fehler
 
-- "Ich nutze einfache BundID-Stufe (Benutzername)." → Reicht **nicht** fuer rechtssichere Einreichung; Niveau "hoch" benoetigt.
+- "Ich nutze einfache BundID-Stufe (Benutzername)." → Reicht **nicht** für rechtssichere Einreichung; Niveau "hoch" benoetigt.
 - "Ich schicke einen Scan." → Scan ist okay, aber PDF/A bevorzugt; Lesbarkeit pruefen.
 - "Email reicht doch auch." → Klassische Email ohne Signatur ist **kein** sicherer Uebermittlungsweg. Nicht fristwahrend!
 

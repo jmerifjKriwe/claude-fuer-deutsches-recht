@@ -29,11 +29,11 @@ AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die 
 - §§ 305-310 BGB AGB-Recht.
 - P2B-Verordnung (EU) 2019/1150 Plattform-Business-Verordnung.
 - DSA-Verordnung (EU) 2022/2065.
-- DMA-Verordnung (EU) 2022/1925 fuer Gatekeeper.
+- DMA-Verordnung (EU) 2022/1925 für Gatekeeper.
 
 ## Plattform-AGB
 
-- App Store-AGB Apple: Provision 30 Prozent (15 Prozent fuer kleine Entwickler) — DMA-Pflicht zur Alternative.
+- App Store-AGB Apple: Provision 30 Prozent (15 Prozent für kleine Entwickler) — DMA-Pflicht zur Alternative.
 - Google Play-AGB: aehnlich, mit DMA-Pflicht.
 - Amazon Marketplace: Allgemeine Verkaufsbedingungen mit Sanktionen.
 

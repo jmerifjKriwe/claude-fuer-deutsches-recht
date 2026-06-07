@@ -34,7 +34,7 @@ Dieser Skill liefert die Verweistechnik: interne Verweise auf Klauseln und Anlag
 
 - § 305 Abs. 2 BGB: Einbeziehung von AGB. Verweis auf AGB muss klar und auffindbar sein.
 - §§ 133, 157 BGB: Auslegung. Defekte Verweise werden gegen den Verwender ausgelegt (§ 305c Abs. 2 BGB).
-- Zitierweise nach `references/zitierweise.md` fuer externe Verweise auf Rechtsprechung und Literatur.
+- Zitierweise nach `references/zitierweise.md` für externe Verweise auf Rechtsprechung und Literatur.
 - Technische Umsetzung: Wenn Word genutzt wird, reichen normale Querverweise oder eine bewusste manuelle Endkontrolle. Keine Makros, kein VBA, keine Automatisierungslogik.
 
 ## Ablauf / Checkliste
@@ -168,7 +168,7 @@ zur Geheimhaltung.
 § 7 Haftung
 (1) Der Lieferant haftet nach Massgabe dieses § 7 in Verbindung mit
  § 6 (Maengelhaftung).
-(2) Die Haftung fuer Geheimhaltungsverstoesse richtet sich nach § 8
+(2) Die Haftung für Geheimhaltungsverstoesse richtet sich nach § 8
  (Geheimhaltung) und Anlage 8 (Geheimhaltungsregeln).
 (3) Im Uebrigen ist die Haftung ausgeschlossen.
 ```
@@ -183,7 +183,7 @@ zur Geheimhaltung.
 ## Quellen (Stand 05/2026)
 
 - § 305 Abs. 2 BGB, § 305c Abs. 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
-- `references/zitierweise.md` fuer externe Verweise.
+- `references/zitierweise.md` für externe Verweise.
 - Normale Word-Querverweise können helfen; Makros, VBA und Office-Automatisierung sind für diesen Skill bewusst ausgeschlossen.
 
 ## Qualitäts-Hardening

@@ -44,7 +44,7 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 
 ### Ansaessigkeit (Art. 4)
 - OECD-Tie-Breaker.
-- **Aliyah-Steuerstatus** (Olim Chadashim, Neueinwanderer): Nach israelischem Steuerrecht geniessen Neueinwanderer nach Meldung bei der israelischen Steuerbehoerde fuer einen begrenzten Zeitraum eine weitgehende Steuerbefreiung auslaendischer Einkuenfte (in der Literatur regelmaessig mit 10 Jahren beschrieben; aktuelle Dauer und Anwendungsumfang nach israelischem Steuerrecht im Einzelfall pruefen). DBA-Berechtigung und Subject-to-Tax nach § 50d Abs. 9 EStG pruefen.
+- **Aliyah-Steuerstatus** (Olim Chadashim, Neueinwanderer): Nach israelischem Steuerrecht geniessen Neueinwanderer nach Meldung bei der israelischen Steuerbehoerde für einen begrenzten Zeitraum eine weitgehende Steuerbefreiung auslaendischer Einkuenfte (in der Literatur regelmaessig mit 10 Jahren beschrieben; aktuelle Dauer und Anwendungsumfang nach israelischem Steuerrecht im Einzelfall pruefen). DBA-Berechtigung und Subject-to-Tax nach § 50d Abs. 9 EStG pruefen.
 
 ### Betriebsstaette (Art. 5)
 - Bauausfuehrung **12 Monate**.
@@ -63,7 +63,7 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 
 ### Besonderheiten
 - **Software-Lizenzen**: nach OECD-MA-Kommentar Lizenzeinkuenfte; Israel hat IT-Schwerpunkt; Abgrenzung Software-Lizenz vs. Software-Standardware (Art. 7 vs. Art. 12) sorgfaeltig fuehren.
-- **Aliyah-Status (Olim Chadashim)**: Steuerbefreiung auslaendischer Einkuenfte fuer Neueinwanderer (Dauer und konkrete Beguenstigungstatbestaende nach aktuellem israelischem Steuerrecht pruefen; in der Literatur mit 10 Jahren referenziert). Folgen fuer DBA-Anwendung: DBA-Berechtigung (Ansaessigkeit i.S. Art. 4) und deutsches FA prueft § 50d Abs. 9 EStG Subject-to-Tax-Rueckfall bei Nichtbesteuerung in Israel.
+- **Aliyah-Status (Olim Chadashim)**: Steuerbefreiung auslaendischer Einkuenfte für Neueinwanderer (Dauer und konkrete Beguenstigungstatbestaende nach aktuellem israelischem Steuerrecht pruefen; in der Literatur mit 10 Jahren referenziert). Folgen für DBA-Anwendung: DBA-Berechtigung (Ansaessigkeit i.S. Art. 4) und deutsches FA prueft § 50d Abs. 9 EStG Subject-to-Tax-Rueckfall bei Nichtbesteuerung in Israel.
 - **Pensionen** Art. 17: gesetzliche Renten Wohnsitzstaat; Beamtenpensionen Kassenstaat.
 - **Diplomaten und religioese Bedienstete**: Sonderregelungen.
 
@@ -106,16 +106,16 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 
 - **Erstattungsverfahren IL → DE-Mandant**: Antrag bei Rashut HaMisim (Israel Tax Authority); Online-Portal "Aplikatziah Tashlumim" oder "Maamad Atzma'i" (vom Anwender mit aktuellem Stand des israelischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der israelischen Steuerbehoerde "Te'udat Toshavut le-Mas" als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch, Hebraeisch und Englisch (DBA-Israel 2014 als modernes DBA trilingual; englischer Text als praktische Pivot-Sprache).
-- **Lokaler Berater**: Bei israelischen Engagements zwingend einen israelischen Steuerberater ("Yo'etz Mas" oder "Ro'eh Heshbon") hinzuziehen — IL hat sehr komplexe Aliyah-Sonderregeln und ein Hightech-Sondersteuerregime fuer "Preferred Enterprise" (Yatzira Mu'edefet).
-- **Apostille**: ZWINGEND bei Drittstaat Israel; Haager Uebereinkommen anwendbar (IL ist Vertragsstaat). Apostille fuer deutsche Urkunden ueber die jeweiligen Bundeslaender; israelische Urkunden ueber das israelische Justizministerium.
+- **Lokaler Berater**: Bei israelischen Engagements zwingend einen israelischen Steuerberater ("Yo'etz Mas" oder "Ro'eh Heshbon") hinzuziehen — IL hat sehr komplexe Aliyah-Sonderregeln und ein Hightech-Sondersteuerregime für "Preferred Enterprise" (Yatzira Mu'edefet).
+- **Apostille**: ZWINGEND bei Drittstaat Israel; Haager Uebereinkommen anwendbar (IL ist Vertragsstaat). Apostille für deutsche Urkunden ueber die jeweiligen Bundeslaender; israelische Urkunden ueber das israelische Justizministerium.
 - **Aliyah-Status erfordert Erklaerung gegenueber Mas Hachnasa**: Neueinwanderer muessen sich bei der israelischen Einkommensteuerbehoerde registrieren, um Aliyah-Steuerbefreiung zu nutzen.
 
 ## Edge Cases und Was-Pruefer-Triggert
 
-- **§ 50a EStG Kuenstler/Sportler Israel-Verhaeltnis**: bei israelischen Kuenstlern/Sportlern in DE (z.B. Klezmer-Musiker, Tanzgruppen) Quellensteuerabzug § 50a EStG; ermaessigt nach Art. 17 DBA — 15 Prozent fuer Kuenstler/Sportler-Einkuenfte. Bei Hightech-Vortraegen / Konferenzen sorgfaeltige Abgrenzung von selbstaendiger Arbeit Art. 14.
-- **Aliyah-Status (Olim Chadashim)**: Israelische Sonderregelung — auslaendische Einkuenfte fuer 10 Jahre nach Aliyah steuerbefreit (Stand 05/2026 vom Anwender zu verifizieren). Subject-to-Tax § 50d Abs. 9 EStG: bei Nicht-Besteuerung in IL faellt DE-Besteuerung zurueck — typisches Pruefer-Triggert.
+- **§ 50a EStG Kuenstler/Sportler Israel-Verhaeltnis**: bei israelischen Kuenstlern/Sportlern in DE (z.B. Klezmer-Musiker, Tanzgruppen) Quellensteuerabzug § 50a EStG; ermaessigt nach Art. 17 DBA — 15 Prozent für Kuenstler/Sportler-Einkuenfte. Bei Hightech-Vortraegen / Konferenzen sorgfaeltige Abgrenzung von selbstaendiger Arbeit Art. 14.
+- **Aliyah-Status (Olim Chadashim)**: Israelische Sonderregelung — auslaendische Einkuenfte für 10 Jahre nach Aliyah steuerbefreit (Stand 05/2026 vom Anwender zu verifizieren). Subject-to-Tax § 50d Abs. 9 EStG: bei Nicht-Besteuerung in IL faellt DE-Besteuerung zurueck — typisches Pruefer-Triggert.
 - **Software-Lizenz vs. Standardware**: BMF differenziert Software-Lizenz (Art. 12 DBA, 0 Prozent IL-QSt) und Standardware-Lieferung (Art. 7 DBA, Unternehmensgewinne). Bei Cloud-/SaaS-Modellen Pruefung der Vertragsstruktur — oft Mischformen.
-- **Hightech-Sondersteuerregime "Preferred Enterprise"**: israelische KSt-Sonderregelung fuer Hightech-Unternehmen mit Vorzugssatz (8 oder 12 Prozent — vom Anwender mit aktuellem IL-Steuerrecht zu verifizieren). AStG-Niedrigsteuer-Schwelle 15 Prozent — CFC pruefen bei deutschen Anteilseignern.
+- **Hightech-Sondersteuerregime "Preferred Enterprise"**: israelische KSt-Sonderregelung für Hightech-Unternehmen mit Vorzugssatz (8 oder 12 Prozent — vom Anwender mit aktuellem IL-Steuerrecht zu verifizieren). AStG-Niedrigsteuer-Schwelle 15 Prozent — CFC pruefen bei deutschen Anteilseignern.
 - **Startups Israel**: viele israelische Startups werden von US-Investoren gehalten; bei DE-Anteilseignern Hybridstrukturen pruefen.
 - **MLI**: vom Anwender mit BMF-Verzeichnis zu verifizieren.
 
@@ -129,17 +129,17 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 
 ## Berechnungsbeispiel
 
-DE-Software-AG bezieht Lizenzgebuehr 100.000 EUR von israelischer Hightech-Gesellschaft fuer Software-Lizenz:
+DE-Software-AG bezieht Lizenzgebuehr 100.000 EUR von israelischer Hightech-Gesellschaft für Software-Lizenz:
 
 - IL-QSt: 0 Prozent nach Art. 12 DBA-Israel 2014 (Software-Lizenz mit BZSt-Freistellungsbescheinigung im Voraus).
 - DE-Einkunft: 100.000 EUR Lizenzgebuehr; KSt+SolZ rund 15,825 Prozent = 15.825 EUR plus GewSt rund 14 Prozent = 14.000 EUR. Gesamt DE rund 29.825 EUR.
 - Praxis: Software-Lizenz vs. Cloud-Standardware — Pruefer hinterfragt bei "Software as a Service"-Modellen; Vertragsdokumentation muss Lizenzcharakter klarstellen.
 
-Bei Aliyah-Mandant: deutsche Beratungsgesellschaft (KapGes) mit Anteilseignern, die Aliyah machen — Wegzugsbesteuerung § 6 AStG auf Anteile, IL Drittland (keine EU/EWR-Stundung); aber Aliyah-Status macht IL-Einkuenfte fuer 10 Jahre steuerfrei in IL. § 50d Abs. 9 EStG-Subject-to-Tax-Pruefung — bei Nicht-Besteuerung Rueckfall DE-Besteuerung.
+Bei Aliyah-Mandant: deutsche Beratungsgesellschaft (KapGes) mit Anteilseignern, die Aliyah machen — Wegzugsbesteuerung § 6 AStG auf Anteile, IL Drittland (keine EU/EWR-Stundung); aber Aliyah-Status macht IL-Einkuenfte für 10 Jahre steuerfrei in IL. § 50d Abs. 9 EStG-Subject-to-Tax-Pruefung — bei Nicht-Besteuerung Rueckfall DE-Besteuerung.
 
-## Ausgabeformat fuer Mandanten-Memo Israel
+## Ausgabeformat für Mandanten-Memo Israel
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Hightech, Software-Lizenz, Aliyah, Beteiligung, Pension), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, Aliyah-Status, Software-Lizenz vs. Standardware, Subject-to-Tax.

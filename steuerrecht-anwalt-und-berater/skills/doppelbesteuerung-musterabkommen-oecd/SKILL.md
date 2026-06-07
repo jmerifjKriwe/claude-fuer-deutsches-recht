@@ -1,6 +1,6 @@
 ---
 name: doppelbesteuerung-musterabkommen-oecd
-description: "Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des OECD-Musterabkommens — Wohnsitz nach Art. 4 Betriebsstaette Art. 5 Unternehmensgewinne Art. 7 Dividenden Zinsen Lizenzgebuehren und Vermeidungsmethoden Anrechnung Freistellung. Anwendungsfall Mandant hat grenzueberschreitende Einkuenfte oder Wegzugskonstellation und das Finanzamt fordert deutsche Besteuerung trotz Auslandsbezuegen. Behandelt Begriff der Ansaessigkeit Tie-Breaker Betriebsstaettenbegriff und unilaterale Anrechnungsregeln § 34c EStG. Output DBA-Pruefraster mit Schritt fuer Schritt Anleitung. Abgrenzung zu fa-stu-wegzugsteuer-6-astg und fa-stu-quellensteuer-50a-estg."
+description: "Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des OECD-Musterabkommens — Wohnsitz nach Art. 4 Betriebsstaette Art. 5 Unternehmensgewinne Art. 7 Dividenden Zinsen Lizenzgebuehren und Vermeidungsmethoden Anrechnung Freistellung. Anwendungsfall Mandant hat grenzueberschreitende Einkuenfte oder Wegzugskonstellation und das Finanzamt fordert deutsche Besteuerung trotz Auslandsbezuegen. Behandelt Begriff der Ansaessigkeit Tie-Breaker Betriebsstaettenbegriff und unilaterale Anrechnungsregeln § 34c EStG. Output DBA-Pruefraster mit Schritt für Schritt Anleitung. Abgrenzung zu fa-stu-wegzugsteuer-6-astg und fa-stu-quellensteuer-50a-estg."
 ---
 
 # Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA
@@ -18,11 +18,11 @@ description: "Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des 
 3. Wo ist der Steuerpflichtige ansaessig — Tie-Breaker nach Art. 4 OECD-MA?
 4. Methode der Vermeidung der Doppelbesteuerung im konkreten DBA — Freistellung oder Anrechnung?
 5. Greifen Treaty-Override-Regeln § 50d EStG oder § 50i EStG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **OECD-Musterabkommen** — interpretativer Leitfaden fuer deutsche DBA.
+- **OECD-Musterabkommen** — interpretativer Leitfaden für deutsche DBA.
 - **§ 1 EStG** — unbeschraenkte Steuerpflicht.
 - **§ 49 EStG** — beschraenkt steuerpflichtige Einkuenfte.
 - **§ 34c EStG** — Anrechnung auslaendischer Steuern.

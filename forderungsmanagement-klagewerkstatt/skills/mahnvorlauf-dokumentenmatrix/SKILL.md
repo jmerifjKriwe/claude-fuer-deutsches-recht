@@ -33,7 +33,7 @@ Der Mahnvorlauf entscheidet ueber Verzugsbeginn und ueber Erstattung der Inkasso
 | E-Mail | Eingangs- und Lesebestaetigung erforderlich |
 | beA Schriftsatz | Empfangsbekenntnis |
 
-## Mustertexte fuer Mahnstufen
+## Mustertexte für Mahnstufen
 
 ```
 Stufe 1 sachlicher Reminder

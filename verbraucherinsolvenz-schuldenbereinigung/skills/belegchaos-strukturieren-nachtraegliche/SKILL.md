@@ -38,7 +38,7 @@ description: "Belegchaos Strukturieren Nachtraegliche im Plugin Verbraucherinsol
 
 ## Aufgabe
 
-Skill fuer Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
+Skill für Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 
 ## Ausgangslage
 
@@ -51,7 +51,7 @@ Skill fuer Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 ### Schritt 1: Sortieren in Kategorien
 - Forderungen (Mahnungen, Rechnungen, Vollstreckungsbescheide).
 - Vertraege (Mietvertrag, Kreditvertrag, Telefonvertrag).
-- Behoerden (Finanzamt, Krankenkasse, Sozialamt).
+- Behörden (Finanzamt, Krankenkasse, Sozialamt).
 - Konten (Bankauszuege, Sparbuecher).
 - Einkommen (Gehaltsabrechnungen, Sozialleistungen).
 - Sonstiges (Schriftverkehr, Notizen).
@@ -68,7 +68,7 @@ Skill fuer Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 - Anfrage an bekannte Glaeubiger nach aktuellem Forderungsstand.
 
 ### Schritt 4: Forderungen pruefen
-- Verjaehrung (§§ 195, 199 BGB; vollstreckbare Titel 30 Jahre § 197 BGB).
+- Verjährung (§§ 195, 199 BGB; vollstreckbare Titel 30 Jahre § 197 BGB).
 - Bestreitbare Forderungen.
 - Doppelte Forderungen.
 
@@ -95,7 +95,7 @@ Skill fuer Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 
 1. Belege vollstaendig?
 2. Glaeubigerliste sauber?
-3. Verjaehrungspruefung erfolgt?
+3. Verjährungspruefung erfolgt?
 4. Vermoegensaufstellung erstellt?
 5. Einkommensberechnung erstellt?
 
@@ -120,7 +120,7 @@ Skill fuer Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 
 ## Aufgabe
 
-Skill fuer nachtraeglich auftauchende Glaeubiger.
+Skill für nachtraeglich auftauchende Glaeubiger.
 
 ## Norm
 
@@ -129,7 +129,7 @@ Skill fuer nachtraeglich auftauchende Glaeubiger.
 
 ## Wirkung
 
-- Restschuldbefreiung wirkt auch fuer Glaeubiger, die ihre Forderung nicht angemeldet haben.
+- Restschuldbefreiung wirkt auch für Glaeubiger, die ihre Forderung nicht angemeldet haben.
 
 ## Ausnahmen § 302 InsO
 
@@ -140,7 +140,7 @@ Skill fuer nachtraeglich auftauchende Glaeubiger.
 - Forderung aus vorsaetzlicher unerlaubter Handlung (§§ 823 ff. BGB).
 
 ### Nr. 3: Unterhaltsforderungen
-- Unterhalt fuer Zeitraum vor Insolvenzverfahren.
+- Unterhalt für Zeitraum vor Insolvenzverfahren.
 
 ### Nr. 4: Geldstrafen Geldbussen
 - Geldstrafen und Geldbussen.
@@ -150,7 +150,7 @@ Skill fuer nachtraeglich auftauchende Glaeubiger.
 1. Forderung angemeldet?
 2. Wenn nicht: Aussnahme nach § 302 InsO?
 3. Vorsatz / Arglist?
-4. Verjaehrung?
+4. Verjährung?
 
 ## Output
 
@@ -170,7 +170,7 @@ Skill fuer nachtraeglich auftauchende Glaeubiger.
 
 ## Aufgabe
 
-Skill fuer Pfaendungsschutzkonto.
+Skill für Pfaendungsschutzkonto.
 
 ## Norm
 
@@ -180,7 +180,7 @@ Skill fuer Pfaendungsschutzkonto.
 ## Grundfreibetrag
 
 - Aktueller Grundfreibetrag 2024: 1.499,99 Euro/Monat (live im Mandat verifizieren).
-- Erhoehungsbetraege fuer Unterhaltsverpflichtungen.
+- Erhoehungsbetraege für Unterhaltsverpflichtungen.
 
 ## Erhoehungsbetraege
 

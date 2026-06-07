@@ -55,7 +55,7 @@ Das Urheberrecht im Bereich KI entwickelt sich rasch weiter — insbesondere dur
 ## Zentrale Normen (Paragrafenkette)
 - § 2 Abs. 2 UrhG — Persoenliche geistige Schoepfung (KI-Output faellt nicht darunter)
 - § 44b UrhG — Text-und-Data-Mining-Schranke (Opt-out-Vorbehalt)
-- Art. 4 DSM-RL (EU 2019/790) — Text-und-Data-Mining fuer KI-Training
+- Art. 4 DSM-RL (EU 2019/790) — Text-und-Data-Mining für KI-Training
 - § 97 UrhG — Schadensersatz bei Urheberrechtsverletzung durch Trainingsdaten
 - § 72 UrhG — Lichtbildschutz (grenz zur KI-generierten Bildkreation)
 
@@ -79,7 +79,7 @@ ohne hinreichende menschliche Gestaltung nicht urheberrechtlich geschuetzt
 (§ 2 Abs. 2 UrhG). Die Kanzlei erhaelt kein Urheberrecht an reinen KI-Outputs.
 
 (2) Trainingsdaten: KI-Systeme duerfen nur mit Trainingsdaten betrieben werden,
-fuer die die Nutzungsrechte vorliegen oder die unter § 44b UrhG fallen.
+für die die Nutzungsrechte vorliegen oder die unter § 44b UrhG fallen.
 
 (3) Fremdinhalte in Prompts: Das Einlesen urheberrechtlich geschuetzter Drittwerke
 in KI-Systeme ist nur zulaessig, wenn kein Opt-out nach Art. 4 DSM-RL erklaert

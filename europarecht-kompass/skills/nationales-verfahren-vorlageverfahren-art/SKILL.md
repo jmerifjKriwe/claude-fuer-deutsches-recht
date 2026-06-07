@@ -100,7 +100,7 @@ erschwert EU-Recht-Durchsetzung unverhältnismaessig]
 
 Folge:
 Das Gericht ist verpflichtet, die nationale Verfahrensregel unangewendet
-zu lassen (EuGH Rewe; Costa/ENEL) oder vorlaeufigen Rechtsschutz zu
+zu lassen (EuGH Rewe; Costa/ENEL) oder vorläufigen Rechtsschutz zu
 gewaehren (Zuckerfabrik).
 
 Vorlage Art. 267 AEUV:

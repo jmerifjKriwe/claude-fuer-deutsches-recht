@@ -27,9 +27,9 @@ Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iMessage WhatsAp
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 51 BRAO — Haftung fuer Organisationspflichtverletzungen im Kanzleibetrieb
+- § 51 BRAO — Haftung für Organisationspflichtverletzungen im Kanzleibetrieb
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: alle Eingaenge unterliegen dem Mandatsgeheimnis
-- § 173 ZPO — Zustellungszeitpunkt bei beA-Eingang (massgebend fuer Fristbeginn)
+- § 173 ZPO — Zustellungszeitpunkt bei beA-Eingang (massgebend für Fristbeginn)
 - Art. 5 Abs. 1 lit. f DSGVO — Integritaet und Vertraulichkeit bei der Verarbeitung von Mandantendaten
 
 ## Quellenregel

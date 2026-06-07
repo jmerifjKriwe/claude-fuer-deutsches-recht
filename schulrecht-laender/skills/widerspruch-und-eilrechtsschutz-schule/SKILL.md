@@ -1,6 +1,6 @@
 ---
 name: widerspruch-und-eilrechtsschutz-schule
-description: "Baut Widerspruch und Eilantrag im Schulrecht im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Widerspruch und Eilantrag im Schulrecht im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerspruch Und Eilrechtsschutz Schule

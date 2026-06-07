@@ -5,6 +5,24 @@ description: "Römisches Recht: Buergschaft Und Sicherheiten. Geführter Fachmod
 
 # Buergschaft Und Sicherheiten
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Arbeitsauftrag
 
 Dieser Skill bearbeitet **Buergschaft Und Sicherheiten** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
@@ -58,7 +76,7 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 
 ### Drei Buergschaftsformen
 1. **Sponsio**: alt-zivilrechtlich, nur cives Romani; per stipulationem.
-2. **Fidepromissio**: oeffene fuer Peregrini.
+2. **Fidepromissio**: oeffene für Peregrini.
 3. **Fideiussio**: nachklassisch; vererbbar; Standard ab Justinian.
 
 ### Privilegien
@@ -66,12 +84,12 @@ Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit G
 - **Beneficium excussionis** (Justinian Novelle 4): Buerge kann verlangen, dass Glaeubiger zuerst Hauptschuldner klagt.
 
 ### Subsumtionsbeispiel: Eine Buergin (SC Velleianum)
-Sachverhalt: Anna verbuergt sich fuer ihren Bruder; Glaeubiger klagt Anna.
+Sachverhalt: Anna verbuergt sich für ihren Bruder; Glaeubiger klagt Anna.
 - **Roemisch**: SC Velleianum (ca. 46 n. Chr.) — Frauen-Intercessio ist unklagbar; exceptio SC Velleiani. D. 16.1.
 - **BGB**: keine Geschlechts-Sondernorm mehr; aber: BGH XI ZR 56/93 / BVerfG zu Ehegattenbuergschaften — § 138 BGB Sittenwidrigkeit bei kraesser Vermoegensueberforderung.
 
 ### Subsumtionsbeispiel: Mehrere Buergen
-Sachverhalt: 3 Buergen fuer 300; Glaeubiger verlangt von A allein 300.
+Sachverhalt: 3 Buergen für 300; Glaeubiger verlangt von A allein 300.
 - **Roemisch klassisch (vor Justinian)**: solidarische Haftung; A muss zahlen, regress gegen B und C.
 - **Justinian**: beneficium divisionis; jeder schuldet nur 100.
 - **BGB**: § 769 BGB Mitbuergschaft als Gesamtschuldner; A zahlt 300, hat Regress nach § 426 BGB.

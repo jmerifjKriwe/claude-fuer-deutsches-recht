@@ -31,13 +31,13 @@ ALR I 13/14/16: Darlehen, Verwahrung, Leihe — Realvertraege.
 
 - **Depositum**: dolus + culpa lata.
 - **Mutuum**: kein Haftungsgrad (Eigentumserwerb).
-- **Commodatum**: custodia (auch fuer Zufall).
+- **Commodatum**: custodia (auch für Zufall).
 
 ## Subsumtionsbeispiel: Geliehene Sense verschwindet 1840
 
 A leiht Sense von B; verschwindet im Heuschober.
 - **ALR I 16**: custodia-Haftung; A haftet auch ohne Verschulden, ausser vis maior.
-- **BGB**: § 598 BGB Leihe; A haftet fuer Vorsatz/Fahrlaessigkeit § 280 BGB.
+- **BGB**: § 598 BGB Leihe; A haftet für Vorsatz/Fahrlaessigkeit § 280 BGB.
 
 ## Heutige Fortwirkung
 

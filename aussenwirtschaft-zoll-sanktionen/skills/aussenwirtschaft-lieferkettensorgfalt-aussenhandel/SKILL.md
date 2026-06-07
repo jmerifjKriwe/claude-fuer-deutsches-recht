@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-lieferkettensorgfalt-aussenhandel
-description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix fuer Import-Lieferkette im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix für Import-Lieferkette im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lieferkettensorgfaltspflichten im Aussenhandel: LkSG und CSDDD
 
 ## Arbeitsbereich
 
-Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix fuer Import-Lieferkette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix für Import-Lieferkette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,12 +21,12 @@ Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lief
 
 - Importeur bezieht Textilien aus Bangladesch; LkSG-Risikoanalyse und Massnahmenplan erforderlich.
 - Elektronikhersteller importiert Rohstoffe aus Kongo (Mineralien); Konfliktmineralien und LkSG-Pflichten.
-- CSDDD-Umsetzung erfordert Due Diligence fuer gesamte Lieferkette inkl. Unterlieferanten.
+- CSDDD-Umsetzung erfordert Due Diligence für gesamte Lieferkette inkl. Unterlieferanten.
 
 ## Erste Schritte
 
-1. LkSG-Pflichtenzeitplan pruefen: Ab wann anwendbar (Mitarbeiterzahl) fuer das Unternehmen?
-2. Risikobranchen und Hochrisikolaender fuer Import-Lieferkette identifizieren.
+1. LkSG-Pflichtenzeitplan pruefen: Ab wann anwendbar (Mitarbeiterzahl) für das Unternehmen?
+2. Risikobranchen und Hochrisikolaender für Import-Lieferkette identifizieren.
 3. Abstracted Due Diligence: direkte Lieferanten bewerten (Tier 1); Tier-2-Priorierung.
 4. Praezisierte Risikoanalyse bei Hochrisikobranchen (Textil, Elektronik, Rohstoffe).
 5. Praventionsmassnahmen und Abhilfemassnahmen dokumentieren.
@@ -36,16 +36,16 @@ Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lief
 
 - **LkSG §§ 3-10**: Sorgfaltspflichten, Risikoanalyse, Massnahmen und Berichtspflicht.
 - **EU-CSDDD (2024/1760)**: EU-weite Sorgfaltspflichten ab Umsetzungsfrist.
-- **VO (EU) 2017/821**: Konfliktmineralien-Verordnung fuer bestimmte Erze.
+- **VO (EU) 2017/821**: Konfliktmineralien-Verordnung für bestimmte Erze.
 - **§ 24 LkSG**: Bussgeldbewehrung bei Verstoss gegen Sorgfaltspflichten.
 - **VO (EU) 2021/821 Art. 4**: Schnittstelle Dual-Use-Catch-All zu LkSG.**
 
 ## Pruef-Raster
 
 - [ ] LkSG-Anwendbarkeit geprueft (Mitarbeiterzahl, Umsatz)?
-- [ ] Risikoanalyse fuer Import-Lieferkette vollstaendig und dokumentiert?
+- [ ] Risikoanalyse für Import-Lieferkette vollstaendig und dokumentiert?
 - [ ] Hochrisikolieferanten identifiziert und mit verstaerkter Sorgfalt geprueft?
-- [ ] Massnahmenplan fuer identifizierte Risiken vorhanden?
+- [ ] Massnahmenplan für identifizierte Risiken vorhanden?
 - [ ] Beschwerdemechanismus implementiert?
 - [ ] Jahresbericht nach § 10 LkSG erstellt und veroeffentlicht?
 
@@ -60,7 +60,7 @@ Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lief
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-LkSG-Risikomatrix fuer Import-Lieferkette, Massnahmenplan, Beschwerdemechanismus-Beschreibung und Jahresbericht-Gliederung.
+LkSG-Risikomatrix für Import-Lieferkette, Massnahmenplan, Beschwerdemechanismus-Beschreibung und Jahresbericht-Gliederung.
 
 ## Quellen
 

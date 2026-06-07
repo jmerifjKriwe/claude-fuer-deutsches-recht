@@ -94,7 +94,7 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 - **SI-KSt 22 Prozent (Stand 2025, vom Anwender mit aktuellem slowenischem Steuerrecht zu verifizieren)**: ueber AStG-Niedrigsteuerschwelle 15 Prozent — keine CFC-Probleme.
 - **Tourismusimmobilien Adria-Kueste (Piran, Portoroz)**: HR-Konkurrenz bei Belegenheitsbesteuerung; bei Vermietung Anlage V-AUS in DE.
-- **Holding-Substanz § 50d Abs. 3 EStG**: SI-Holding nur fuer Adria-Tourismus ohne operatives Geschaeft — Substanz dokumentieren.
+- **Holding-Substanz § 50d Abs. 3 EStG**: SI-Holding nur für Adria-Tourismus ohne operatives Geschaeft — Substanz dokumentieren.
 - **EU-Mitglied seit 2004, Euro seit 2007**: lange EU-Integration; alle EU-Richtlinien voll anwendbar.
 - **MLI ab VZ 2021**: PPT-Klausel anwendbar — Treaty-Shopping versagt.
 
@@ -104,7 +104,7 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 |---|---|---|---|
 | Dividenden-Schachtel 25 vs. 10 Prozent | DBA-SI: 5 Prozent ab 25 Prozent Beteiligung | EU-MTRL: 0 Prozent ab 10 Prozent | EU-MTRL vorrangig — § 43b EStG |
 | Lizenzgebuehr 5 Prozent DBA vs. 0 Prozent EU | DBA-SI: 5 Prozent SI-QSt | EU-ZinsLizenzRL: 0 Prozent bei Verbundenheit, 25 Prozent Beteiligung, 2 Jahre | EU-ZinsLizenzRL vorrangig bei verbundenen Unternehmen |
-| Adria-Tourismusimmobilie in SI vs. HR | SI: 22 Prozent KSt nach SI-Recht, ueber AStG-Schwelle | HR: niedrigere Pauschalsteuer fuer Vermietung, EU-Mitgliedschaft seit 2013 | bei reiner Tourismusimmobilie HR oft guenstiger; bei operativer Hotel-Holding SI wegen EU-Reife und Substanz pragmatischer |
+| Adria-Tourismusimmobilie in SI vs. HR | SI: 22 Prozent KSt nach SI-Recht, ueber AStG-Schwelle | HR: niedrigere Pauschalsteuer für Vermietung, EU-Mitgliedschaft seit 2013 | bei reiner Tourismusimmobilie HR oft guenstiger; bei operativer Hotel-Holding SI wegen EU-Reife und Substanz pragmatischer |
 
 ## Berechnungsbeispiel
 
@@ -126,9 +126,9 @@ Variante mit EU-ZinsLizenzRL spart 1.500 EUR SI-QSt und vermeidet Anrechnungsver
 5. **Audit-Vorbereitung**: bei SI-Pruefung sorgfaeltige Verrechnungspreisdokumentation; bei DE-FA-Pruefung § 50d Abs. 3 EStG-Substanznachweis.
 6. **Schlussbescheid**: SI-FA gewaehrt Erstattung; DE-FA setzt nachversteuerten Resteuerbetrag fest; Verstaendigungsverfahren bei Auslegungsdifferenzen.
 
-## Ausgabeformat fuer Mandanten-Memo Slowenien
+## Ausgabeformat für Mandanten-Memo Slowenien
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Automotive-Zulieferer, Tourismus-Beteiligung, Holding), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, Quellensteuer, EU-Recht-Anwendung.

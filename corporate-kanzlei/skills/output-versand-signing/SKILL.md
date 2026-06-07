@@ -30,7 +30,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -112,14 +112,14 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. Signing-Verfahren: Physisch im selben Raum, virtuell (PDF-Signaturseiten), oder hybrid?
 4. Wie viele Vertragsparteien und Anlagen mussen unterzeichnet werden?
 5. Zeitpunkt: Simultanes Signing mit Closing oder getrennt (Signing jetzt; Closing spaeter)?
-6. Notar: Beteiligt fuer GmbH-Anteile (§ 15 GmbHG) oder Beurkundungspflicht sonst?
+6. Notar: Beteiligt für GmbH-Anteile (§ 15 GmbHG) oder Beurkundungspflicht sonst?
 
 ## Zentrale Normen
 
 - **§ 126 BGB** — gesetzliche Schriftform; eigenaendige Unterschrift; Original-Urkunde
 - **§ 126a BGB** — elektronische Form; qualifizierte elektronische Signatur nach eIDAS; ersetzt § 126 wenn zulässig
 - **§ 127 BGB** — gewillkuerte Schriftform; durch Parteien vereinbart; Auslegungsfragen
-- **§ 128 BGB** — notarielle Beurkundung; zwingend fuer § 15 GmbHG (GmbH-Anteile), § 925 BGB (Immobilien), § 2317 BGB (Erbvertraege)
+- **§ 128 BGB** — notarielle Beurkundung; zwingend für § 15 GmbHG (GmbH-Anteile), § 925 BGB (Immobilien), § 2317 BGB (Erbvertraege)
 - **§ 1 ff. eIDAS-VO (EU) 910/2014** — qualifizierte elektronische Signatur; grenzueberschreitend anerkannt
 - **§§ 1-14 BeurkG** — notarielle Beurkundung; Voraussetzungen; Form
 
@@ -151,10 +151,10 @@ Risiken:
 - Falsche Version unterschrieben → nur die unterzeichnete Version ist verbindlich; pruefe Hash
 - Fehler in Signaturseite → ggf. Neuunterzeichnung
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Execution Version finalisieren** — final; kein Track Changes; FINAL-Bezeichnung; ggf. Hash
-2. **Signaturseiten vorbereiten** — fuer jede Vertragspartei; Hinweis auf Gesamtversion
+2. **Signaturseiten vorbereiten** — für jede Vertragspartei; Hinweis auf Gesamtversion
 3. **Signing-Prozess koordinieren** — Datum/Uhrzeit; Notar wenn erforderlich; Counterpart-Anweisungen
 4. **Vollmachten pruefen** — wer ist zeichnungsberechtigt; Handelsregister-Vertreter pruefen
 5. **Signing durchfuehren** — physisch oder virtuell; Protokoll erstellen

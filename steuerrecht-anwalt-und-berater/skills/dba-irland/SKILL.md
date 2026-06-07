@@ -100,11 +100,11 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 
 ### Erstattungsverfahren irische Quellensteuer
 
-- **Zustaendigkeit**: irische Erstattung durch **Revenue Commissioners**, International Claims Section. Aktuelle Zustaendigkeit auf **revenue.ie** pruefen.
+- **Zuständigkeit**: irische Erstattung durch **Revenue Commissioners**, International Claims Section. Aktuelle Zuständigkeit auf **revenue.ie** pruefen.
 - **Antragsformulare**: irische DBA-Antragsformulare; in der Praxis verbreitet "Form IC-Form" / DT-Forms — **konkrete Formularnummern und Bezeichnungen vom Anwender mit aktuellem Stand auf revenue.ie zu verifizieren**.
 - **Frist**: nach irischem Tax Consolidation Act regelmaessig **vier Jahre** ab Steuerjahr-Ende.
 - **Bearbeitungsdauer Revenue**: 6-18 Monate.
-- **Online-Portal**: **revenue.ie** mit MyAccount fuer Privatpersonen und ROS (Revenue Online Service) fuer Unternehmen/Berater.
+- **Online-Portal**: **revenue.ie** mit MyAccount für Privatpersonen und ROS (Revenue Online Service) für Unternehmen/Berater.
 - **Sprache**: EN.
 
 ### Lokaler Steuerberater-Kontakt
@@ -121,7 +121,7 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 |---|---|---|---|
 | Irland-Holding mit IP-Lizenzen vs. Verlagerung nach DE | irische KSt 12,5 Prozent; ab 2024 Pillar Two Top-Up zu 15 Prozent; § 4j EStG-Lizenzschranke beim Empfaenger DE pruefen | DE-Holding mit voller KSt 15 Prozent + GewSt | bei stabilem Geschaeftsbetrieb in IE Substanz vorhalten; bei reinen Lizenz-Vehikeln Verlagerung |
 | Schachteldividende IE-Ltd an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt; Erstattung Revenue | 0 Prozent via Freistellung vorab | EU-MTRL vorzugswuerdig |
-| Lizenzgebuehr aus DE an IE-Tochter (Cross-Charge) vs. interne Verrechnung | DBA 0 Prozent fuer Lizenz; aber § 4j EStG-Lizenzschranke beim deutschen Zahler pruefen (Versagung des BA-Abzugs bei niedriger Besteuerung beim Empfaenger) | interne Verrechnung ohne Lizenz | § 4j EStG erfasst irische IP-Box-Strukturen mit Substanzdefizit; bei Nexus-konformer Forschung in IE unschaedlich |
+| Lizenzgebuehr aus DE an IE-Tochter (Cross-Charge) vs. interne Verrechnung | DBA 0 Prozent für Lizenz; aber § 4j EStG-Lizenzschranke beim deutschen Zahler pruefen (Versagung des BA-Abzugs bei niedriger Besteuerung beim Empfaenger) | interne Verrechnung ohne Lizenz | § 4j EStG erfasst irische IP-Box-Strukturen mit Substanzdefizit; bei Nexus-konformer Forschung in IE unschaedlich |
 | CFC § 7 AStG bei niedriger Besteuerung (12,5 Prozent unter 15-Prozent-Schwelle ab 2024) | Hinzurechnungsbesteuerung in DE | bei aktivem Geschaeftsbetrieb keine Hinzurechnung | Aktiv-Katalog § 8 AStG strikt pruefen |
 
 ## Edge Cases — was Pruefer triggert

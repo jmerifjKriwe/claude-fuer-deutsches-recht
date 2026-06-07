@@ -1,13 +1,13 @@
 ---
 name: behoerdenkommunikation-reputationsschutz
-description: "Behoerdenkommunikation Reputationsschutz im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Behördenkommunikation mit Reputationsschutz, Kooperation oder Schweigen strategisch wählen, Behördenuntätigkeit und Beschwerdegegner, Erledigung mit der Aufsicht verhandeln. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Behördenkommunikation Reputationsschutz im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Behördenkommunikation mit Reputationsschutz, Kooperation oder Schweigen strategisch wählen, Behördenuntätigkeit und Beschwerdegegner, Erledigung mit der Aufsicht verhandeln. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Behoerdenkommunikation Reputationsschutz
+# Behördenkommunikation Reputationsschutz
 
 ## Arbeitsbereich
 
-**Behoerdenkommunikation Reputationsschutz** ordnet den Fall über die tragenden Prüfungslinien: Behördenkommunikation mit Reputationsschutz, Kooperation oder Schweigen strategisch wählen, Behördenuntätigkeit und Beschwerdegegner. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Behördenkommunikation Reputationsschutz** ordnet den Fall über die tragenden Prüfungslinien: Behördenkommunikation mit Reputationsschutz, Kooperation oder Schweigen strategisch wählen, Behördenuntätigkeit und Beschwerdegegner. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |

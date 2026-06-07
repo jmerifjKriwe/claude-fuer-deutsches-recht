@@ -1,13 +1,13 @@
 ---
 name: containerschiff-kaufvertrag-scopen
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag fuer Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Containerschiff – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag fuer Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,12 +21,12 @@ Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft
 Ein Investor kauft ein Containerlinienfrachtschiff; Risiken aus Altlasten und Zertifikatsmängeln sind zu identifizieren. Ein Reeder veräußert ein Containerlinienfrachtschiff unter Zeitdruck; Gewährleistungsausschlüsse sind zu prüfen. Eine Bank finanziert den Kauf und möchte Vertragsrisiken kennen.
 
 ## Erste Schritte
-1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen fuer Containerlinienfrachtschiff.
+1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Containerlinienfrachtschiff.
 2. Lastenuebergang pruefen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
 3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan pruefen.
 4. Zertifikatsstatus klaeren: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
 5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
-6. Escrow-Mechanismus fuer simultane Zahlung und Eigentumsuebergang aufsetzen.
+6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 
 ## Rechtsrahmen
 - HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. SOLAS Chapter VI Gefahrgut; IMO DG-Code; Container-Gewichtsverifikation VGM.
@@ -36,15 +36,15 @@ Ein Investor kauft ein Containerlinienfrachtschiff; Risiken aus Altlasten und Ze
 - Enthaelt der Kaufvertrag eine umfassende Freistellungsklausel?
 - Sind Zertifikate (Klasse/ISM/MLC) als Closing-Bedingungen definiert?
 - Ist der Gewaehrleistungsausschluss rechtswirksam?
-- Ist Escrow-Mechanismus fuer simultane Transaktion vorgesehen?
+- Ist Escrow-Mechanismus für simultane Transaktion vorgesehen?
 
 ## Typische Fallstricke
-- Kaeufer haftet mit Containerlinienfrachtschiff fuer Altschulden bis zur Loeschung.
+- Kaeufer haftet mit Containerlinienfrachtschiff für Altschulden bis zur Loeschung.
 - Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
 - Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
 
 ## Output
-Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste fuer Containerlinienfrachtschiff.
+Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste für Containerlinienfrachtschiff.
 
 ## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
 International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.

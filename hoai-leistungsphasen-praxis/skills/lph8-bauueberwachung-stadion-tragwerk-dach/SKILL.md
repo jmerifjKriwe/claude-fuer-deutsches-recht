@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-stadion-tragwerk-dach
-description: "Bauueberwachung nach HOAI LPH 8 fuer Stadien und Grossveranstaltungsstaetten — Membrandach-Montage nach DIN EN 13782, Tragseil-Spannungsprotokoll, Stahltribueuen-Schweissnahtpruefung nach DIN EN ISO 5817, Brandschutzkonzept Sonderbau Versammlungsstaette nach MVStaettVO sowie KARO-Zertifizierung Fangtragwerk. Praxisnahe Koordination mit BIM360 und SAP PM fuer Stadionbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Stadien und Grossveranstaltungsstaetten — Membrandach-Montage nach DIN EN 13782, Tragseil-Spannungsprotokoll, Stahltribueuen-Schweissnahtpruefung nach DIN EN ISO 5817, Brandschutzkonzept Sonderbau Versammlungsstaette nach MVStaettVO sowie KARO-Zertifizierung Fangtragwerk. Praxisnahe Koordination mit BIM360 und SAP PM für Stadionbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Stadion Tragwerk Dach (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Stadien und Grossveranstaltungsstaetten — Membrandach-Montage nach DIN EN 13782, Tragseil-Spannungsprotokoll, Stahltribueuen-Schweissnahtpruefung nach DIN EN ISO 5817, Brandschutzkonzept Sonderbau Versammlungsstaette nach MVStaettVO sowie KARO-Zertifizierung Fangtragwerk. Praxisnahe Koordination mit BIM360 und SAP PM fuer Stadionbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Stadien und Grossveranstaltungsstaetten — Membrandach-Montage nach DIN EN 13782, Tragseil-Spannungsprotokoll, Stahltribueuen-Schweissnahtpruefung nach DIN EN ISO 5817, Brandschutzkonzept Sonderbau Versammlungsstaette nach MVStaettVO sowie KARO-Zertifizierung Fangtragwerk. Praxisnahe Koordination mit BIM360 und SAP PM für Stadionbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -43,7 +43,7 @@ Fangtraegerkonstruktionen und Membranen erfordern Fadenspannungs-Messungen und H
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
 - MVStaettVO Muster-Versammlungsstaettenverordnung: Sicherheitsanforderungen Grossveranstaltungsstaetten
-- DIN EN 13782 Fliegende Bauten - Zelte: Berechnung und Membranauslegung fuer temporaere Tragwerke
+- DIN EN 13782 Fliegende Bauten - Zelte: Berechnung und Membranauslegung für temporaere Tragwerke
 - DIN EN ISO 5817 Schweissnaehte Stahl: Bewertungsgruppen, Imperfektionen
 - DIN EN 1263-1 Fangnetze: Sicherheitseinrichtungen, Netzversuche, KARO-Zertifizierung
 
@@ -76,14 +76,14 @@ Fangtraegerkonstruktionen und Membranen erfordern Fadenspannungs-Messungen und H
 
 - Membranspannung unterschritten: Faltenbildung, Wassersaecke bei Regen, Last-Umverteilung Tragwerk
 - Schweissnahtfehler Stahltribuene: unentdeckt fuehrt zu Ermuedungsrissen, Sperrung Tribueune
-- Fluchtwegebreite zu schmal: Behoerde verweigert Betriebsgenehmigung, Nacharbeiten teuer
+- Fluchtwegebreite zu schmal: Behörde verweigert Betriebsgenehmigung, Nacharbeiten teuer
 - KARO-Fangnetz ohne Zertifizierung: Betrieb ohne Sicherheitsnachweis, Nutzungsuntersagung
 
 ## Output
 
 Membranspannungsprotokoll je Feld. Schweissnahtueberwachungsbericht VT/UT.
 Fangnetz KARO-Pruefprotokoll. Spielfeldbeleuchtungs-Lux-Messung. Brandschutz-Abnahme MVStaettVO.
-Abnahmeprotokoll Stadion Sonderbau. BIM360 As-Built-Dokumentation fuer Betreiber.
+Abnahmeprotokoll Stadion Sonderbau. BIM360 As-Built-Dokumentation für Betreiber.
 
 ## Quellen
 

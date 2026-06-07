@@ -34,7 +34,7 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe — keine Einwaende, Bemer
 | 5 — Bedenken | "Der NKR hat erhebliche Bedenken im Hinblick auf [Aspekt]." | substantielle Kritik |
 | 6 — Mahnender Charakter | "Der NKR weist nachdruecklich darauf hin, dass ..." | hoechste Stufe |
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Empfehlungen formulieren** — nummeriert, konkret, ohne politische Wertung
 2. **Eskalationsstufe waehlen** — passend zum Befund
@@ -56,14 +56,14 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe — keine Einwaende, Bemer
 | Methodik vollstaendig, Verbesserung moeglich | 2-3 (Bemerkungen / Empfehlungen) | konstruktiv |
 | Methodik teilweise mangelhaft | 4 (Einwaende) | Nachforderung |
 | Methodik wesentlich mangelhaft | 5 (Bedenken) | Aufforderung Nachbesserung |
-| Politisch heikel | 6 (Mahnung) | oeffentliche Resonanz |
+| Politisch heikel | 6 (Mahnung) | öffentliche Resonanz |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
 ### Empfehlungen (Standardformulierung)
 
 > "Der NKR empfiehlt insbesondere
-> 1. die Lebensbescheid-Pflicht von monatlich auf jaehrlich umzustellen, da der monatliche Turnus den Erfuellungsaufwand fuer die Wirtschaft mehrfach ohne entsprechenden Mehrnutzen erhoeht;
+> 1. die Lebensbescheid-Pflicht von monatlich auf jaehrlich umzustellen, da der monatliche Turnus den Erfuellungsaufwand für die Wirtschaft mehrfach ohne entsprechenden Mehrnutzen erhoeht;
 > 2. eine zentrale Loesung ueber das Handelsregistergericht zu pruefen, die das Once-Only-Prinzip erfuellt;
 > 3. einen Schwellenwert zur Entlastung von Kleinst- und Kleinunternehmen aufzunehmen;
 > 4. eine Evaluierungsklausel mit Frist 3 Jahre vorzusehen, die insbesondere die tatsaechlichen Fallzahlen und Erfuellungsaufwand-Werte ueberprueft."

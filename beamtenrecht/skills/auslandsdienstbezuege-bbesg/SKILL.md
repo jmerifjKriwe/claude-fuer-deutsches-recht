@@ -19,14 +19,14 @@ Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwen
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte im Auswaertigen Dienst, in Auslandsentsendung der Bundespolizei, der Bundeswehr und in zwischenstaatlichen oder ueberstaatlichen Einrichtungen (NATO, EU, UN). Klaert Auslandsdienstbezuege, Kaufkraftausgleich, Auslandszuschlag, Mietzuschuss und Auslandskinderzuschlag.
+Skill für Beamte im Auswaertigen Dienst, in Auslandsentsendung der Bundespolizei, der Bundeswehr und in zwischenstaatlichen oder ueberstaatlichen Einrichtungen (NATO, EU, UN). Klaert Auslandsdienstbezuege, Kaufkraftausgleich, Auslandszuschlag, Mietzuschuss und Auslandskinderzuschlag.
 
 ## 2. Eingaben
 
 - Auslandsdienststelle und Posten-Kategorisierung
 - Familienstand und Anzahl Kinder am Dienstort und im Inland
 - Mietvertrag am Dienstort, Mietniveau
-- Schulbesuch der Kinder (oeffentliche oder private Auslandsschule)
+- Schulbesuch der Kinder (öffentliche oder private Auslandsschule)
 - Hardship-Stufe des Postens
 
 ## 3. Ablauf / Checkliste
@@ -36,11 +36,11 @@ Skill fuer Beamte im Auswaertigen Dienst, in Auslandsentsendung der Bundespolize
 - Pruefung der korrekten Eingruppierung des Mandanten.
 
 ### b) Mietzuschuss (§ 54 BBesG)
-- Mietzuschuss fuer den Anteil der Miete, der einen Selbstbehalt uebersteigt.
+- Mietzuschuss für den Anteil der Miete, der einen Selbstbehalt uebersteigt.
 - Berechnung in Anlehnung an Mietniveau-Tabellen des Auswaertigen Amtes.
 
 ### c) Auslandskinderzuschlag (§ 56 BBesG)
-- Pauschale je Kind am Dienstort, ggf. erhoeht in Laendern mit hohen Schul- oder Lebenshaltungskosten.
+- Pauschale je Kind am Dienstort, ggf. erhoeht in Ländern mit hohen Schul- oder Lebenshaltungskosten.
 - Auslandsschulgeld erstattungsfaehig nach Rahmenbedingungen.
 
 ### d) Kaufkraftausgleich (§ 55 BBesG)
@@ -61,7 +61,7 @@ Skill fuer Beamte im Auswaertigen Dienst, in Auslandsentsendung der Bundespolize
 ## 5. Ausgabeformat
 
 - Berechnungstabelle Auslandsbezuege.
-- Antragsschreiben fuer Mietzuschuss oder Kaufkraftausgleich.
+- Antragsschreiben für Mietzuschuss oder Kaufkraftausgleich.
 
 ## 6. Verifizierte Quellenanker
 

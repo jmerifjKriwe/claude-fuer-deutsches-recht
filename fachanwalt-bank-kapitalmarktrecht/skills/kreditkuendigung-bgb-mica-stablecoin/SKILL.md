@@ -240,7 +240,7 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 6. **Gibt es bereits einen Whitepaper-Entwurf?** — Basis des BaFin-Antrags; ESMA-Leitlinien für Inhalt sind zu beachten.
 7. **Plant der Emittent grenzüberschreitend tätig zu sein?** — EU-Pass nach Zulassung; Notifizierung an ESMA-Register erforderlich.
 8. **Sind Staking, Lending oder DeFi-Komponenten vorgesehen?** — Zusätzliche Regulierungsebenen (MiFID, AIFMD, ggf. MiCA Art. 50); gesonderte Einschätzung nötig.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -396,7 +396,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — MiCA Art. 16-Zulassung fuer Stablecoin beantragen | Antragsbausteine nach Template unten |
+| Standard — MiCA Art. 16-Zulassung für Stablecoin beantragen | Antragsbausteine nach Template unten |
 | Variante A — Emittent bereits BaFin-reguliert (E-Geld-Institut) | Vereinfachter Zulassungsweg Art. 17 MiCA pruefen |
 | Variante B — Token uebersteigt Schwellenwert (signifikant) | Kategorie signifikanter EMT; EBA-Aufsicht beachten |
 | Variante C — Pilot-Emission vor vollstaendiger MiCA-Zulassung | Sandbox-Regimes pruefen; Rechtsrisiko dokumentieren |
@@ -406,7 +406,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Schriftsatzbaustein — Widerspruch gegen BaFin-Versagung
 
 ```
-An: Bundesanstalt fuer Finanzdienstleistungsaufsicht
+An: Bundesanstalt für Finanzdienstleistungsaufsicht
 Datum: [Datum]
 
 Widerspruch gegen den Bescheid vom [Datum], Az. [Nr.]
@@ -466,7 +466,7 @@ Begründung:
 - ESMA Q&A zu MiCA (laufend)
 - BaFin-Merkblatt vom 3.1.2025 zu ART und EMT nach MiCAR — bafin.de
 - BaFin-Meldung vom 6.10.2025 zu interaktivem Kryptowerte-Informationsblatt — bafin.de
-- BaFin Aufsicht ZK 1 fuer ART/EMT — bafin.de/EN/Aufsicht/MiCAR
+- BaFin Aufsicht ZK 1 für ART/EMT — bafin.de/EN/Aufsicht/MiCAR
 
 ## Qualitäts-Hardening
 
@@ -595,7 +595,7 @@ Bevor losgelegt wird, klaere:
 3. Streitwert-Limit der Schlichtungsstelle erreicht? → Spruch bindend bis 10.000 EUR (private Banken).
 4. Laeuft Verjaebrung bald ab? → Hemmungs-Berechnung § 204 BGB; Ombudsmann SOFORT beauftragen.
 5. Parallel BaFin-Beschwerde sinnvoll (aufsichtsrechtlicher Druck)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -643,7 +643,7 @@ Anlagen:
 2 - Kontoauszuege / Kauf-Abrechnung
 3 - Beratungsprotokoll (soweit vorliegend)
 
-[Rechtsanwalt/-anwaeltin fuer [NAME MANDANT]]
+[Rechtsanwalt/-anwaeltin für [NAME MANDANT]]
 ```
 --- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]

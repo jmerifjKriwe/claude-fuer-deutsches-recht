@@ -43,7 +43,7 @@ Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach UZK Art. 1 Nr.
 ## Pruef-Raster
 
 - [ ] Ausfuehrer nach UZK-Definition korrekt bestimmt?
-- [ ] Vollmacht fuer Zollanmelder (direkt/indirekt) schriftlich erteilt?
+- [ ] Vollmacht für Zollanmelder (direkt/indirekt) schriftlich erteilt?
 - [ ] Genehmigungsinhaber und Ausfuehrer personenidentisch oder Uebertragung dokumentiert?
 - [ ] Haftungsverteilung im Spediteurvertrag geregelt?
 - [ ] Bei indirekter Vertretung: Zollagent in voller Haftung?
@@ -60,7 +60,7 @@ Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach UZK Art. 1 Nr.
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Rollenmatrix mit Haftungszuordnung, Vollmachtsvorlage fuer Zollagenten (direkte/indirekte Vertretung), Checkliste fuer ICP-Verankerung.
+Rollenmatrix mit Haftungszuordnung, Vollmachtsvorlage für Zollagenten (direkte/indirekte Vertretung), Checkliste für ICP-Verankerung.
 
 ## Quellen
 

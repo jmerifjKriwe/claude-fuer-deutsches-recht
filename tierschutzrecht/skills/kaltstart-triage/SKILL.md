@@ -5,6 +5,24 @@ description: "Tierschutzrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Friste
 
 # Tierschutzrecht - Allgemeiner Einstieg
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 TierSchG` — Schutzzweck und Mitgeschoepflichkeit.
+- `§ 2 TierSchG` — Haltung, Pflege, verhaltensgerechte Unterbringung.
+- `§ 3 TierSchG` — Verbote.
+- `§ 4 TierSchG` — Toeten von Tieren.
+- `§ 6 TierSchG` — Amputation/Gewebeentnahme.
+- `§ 11 TierSchG` — erlaubnispflichtige Taetigkeiten.
+- `§ 16 TierSchG` — Behördenaufsicht.
+- `§ 17 TierSchG` — Straftaten.
+- `§ 18 TierSchG` — Ordnungswidrigkeiten.
+- `§ 90a BGB` — Tiere sind keine Sachen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Aufgabe
 
 Führt in Tierschutzrecht ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.

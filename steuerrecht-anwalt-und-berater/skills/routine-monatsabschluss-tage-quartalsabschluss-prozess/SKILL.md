@@ -100,7 +100,7 @@ TAG 29-30: ABSCHLUSS UND ARCHIVIERUNG
 | 15. Februar Folgejahr | Jahresmeldung DEUEV, BG-Lohnnachweis |
 | 28. Februar Folgejahr | LSt-Bescheinigungen |
 | 31. Juli Folgejahr | Steuererklaerungen Standardfrist § 149 Abs. 2 AO (ohne Beratervorbehalt) |
-| Letzter Tag Februar des **zweiten** Folgejahres | Steuererklaerungen mit Beratervorbehalt § 149 Abs. 3 AO (StB-Mandat); fuer Veranlagungszeitraeume mit verlaengerten Fristen Stand pruefen |
+| Letzter Tag Februar des **zweiten** Folgejahres | Steuererklaerungen mit Beratervorbehalt § 149 Abs. 3 AO (StB-Mandat); für Veranlagungszeitraeume mit verlaengerten Fristen Stand pruefen |
 
 ### Phase 3 — Mandantengruppen
 
@@ -116,7 +116,7 @@ TAG 29-30: ABSCHLUSS UND ARCHIVIERUNG
 
 ### Phase 5 — Sachbearbeiter-Zuordnung
 
-- Klare Zustaendigkeit pro Mandant.
+- Klare Zuständigkeit pro Mandant.
 - Urlaubsvertretung dokumentiert.
 - Berufstraeger-Pruefung mindestens beim Versand.
 
@@ -134,7 +134,7 @@ TAG 29-30: ABSCHLUSS UND ARCHIVIERUNG
 
 ## Strategie und Praxis-Tipps
 
-- 30-Tage-Plan ist Standard fuer professionelle Kanzleien — staerkstes Qualitaetsmerkmal.
+- 30-Tage-Plan ist Standard für professionelle Kanzleien — staerkstes Qualitaetsmerkmal.
 - Bei Krisen-Mandanten 2-Wochen-Zyklus (Liquiditaetsplan).
 - Bei Saisonbetrieb angepasste Planung (z.B. Saison-Spitzen).
 - Sachbearbeiter-Schulung in der Kanzlei zu klaren Prozessen.

@@ -195,7 +195,7 @@ Stand 05/2026. Vor Verwendung im Schriftsatz Pinpoint (Rn., Tenor) auf [bundesve
 
 ## Zentrale Normen (Paragrafenkette)
 
-§§ 90-95 BVerfGG (Verfassungsbeschwerde: Zulässigkeit, Frist, Annahme) — § 93a BVerfGG (Annahme zur Entscheidung) — § 32 BVerfGG (Einstweilige Anordnung) — §§ 1-3 BVerfGG (Zustaendigkeit BVerfG)
+§§ 90-95 BVerfGG (Verfassungsbeschwerde: Zulässigkeit, Frist, Annahme) — § 93a BVerfGG (Annahme zur Entscheidung) — § 32 BVerfGG (Einstweilige Anordnung) — §§ 1-3 BVerfGG (Zuständigkeit BVerfG)
 
 ## Quellenregel
 

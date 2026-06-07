@@ -61,9 +61,9 @@ Das DBA-USA vom 29.08.1989 (BGBl. 1991 II S. 354) mit Aenderungsprotokollen vom 
 - Schifffahrt (Art. 8): tatsaechliche Geschaeftsleitung Reederei.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10): nach OECD-MA typischerweise 5/15 Prozent (Schachtel/Streubesitz); im DBA-USA seit Protokoll 2006 zusaetzlich ein Sondersatz fuer qualifizierte Hochbeteiligungen, der in der Literatur regelmaessig mit 0 Prozent bei einer Mindestbeteiligung von 80 Prozent und einer Mindesthaltedauer (jeweils nach LOB-Voraussetzungen) referenziert wird — **konkreter Satz, Beteiligungsschwelle und Mindesthaltedauer ausschliesslich aus dem konsolidierten DBA-Text Art. 10 i.V.m. Protokoll 2006 und der zugehoerigen LOB-Klausel zu entnehmen**, da Satz, Schwelle und LOB-Voraussetzungen kumulativ wirken.
-- **Zinsen** (Art. 11): 0 Prozent (ausschliesslich Ansaessigkeitsstaat), mit Sonderregeln fuer Contingent Interest und Hybrid-Beteiligungen gemaess DBA-Text und Protokoll 2006.
-- **Lizenzgebuehren** (Art. 12): 0 Prozent (ausschliesslich Ansaessigkeitsstaat); Sonderregelungen fuer kulturelle Werke und gewerbliche Ausruestung gemaess DBA-Text pruefen.
+- **Dividenden** (Art. 10): nach OECD-MA typischerweise 5/15 Prozent (Schachtel/Streubesitz); im DBA-USA seit Protokoll 2006 zusaetzlich ein Sondersatz für qualifizierte Hochbeteiligungen, der in der Literatur regelmaessig mit 0 Prozent bei einer Mindestbeteiligung von 80 Prozent und einer Mindesthaltedauer (jeweils nach LOB-Voraussetzungen) referenziert wird — **konkreter Satz, Beteiligungsschwelle und Mindesthaltedauer ausschliesslich aus dem konsolidierten DBA-Text Art. 10 i.V.m. Protokoll 2006 und der zugehoerigen LOB-Klausel zu entnehmen**, da Satz, Schwelle und LOB-Voraussetzungen kumulativ wirken.
+- **Zinsen** (Art. 11): 0 Prozent (ausschliesslich Ansaessigkeitsstaat), mit Sonderregeln für Contingent Interest und Hybrid-Beteiligungen gemaess DBA-Text und Protokoll 2006.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent (ausschliesslich Ansaessigkeitsstaat); Sonderregelungen für kulturelle Werke und gewerbliche Ausruestung gemaess DBA-Text pruefen.
 
 ### Vermeidungs-Methode (Art. 23)
 - Deutschland: Anrechnungsmethode — **bei aktiven Einkuenften ggf. Freistellung mit Aktivitaetsklausel**.
@@ -79,8 +79,8 @@ Die LOB-Klausel im DBA-USA ist in **Art. 28 DBA-USA** geregelt (Fassung gemaess 
 4. **Non-profit Organisation, Pensionskasse**: berechtigt.
 5. **Ownership/Base-Erosion-Test**: 50 Prozent Anteile von berechtigten Ansaessigen, base erosion unter 50 Prozent.
 6. **Active Trade or Business**-Test: substanzieller Geschaeftsbetrieb in Staat X verbunden mit der Einkunftserzielung.
-7. **Derivative Benefits**-Test fuer EU-/EWR-Beteiligung.
-8. **Discretionary Benefits**: zustaendige Behoerde kann gewaehren.
+7. **Derivative Benefits**-Test für EU-/EWR-Beteiligung.
+8. **Discretionary Benefits**: zuständige Behörde kann gewaehren.
 
 ### Pension Protection (Protokoll 2006)
 
@@ -112,11 +112,11 @@ Die LOB-Klausel im DBA-USA ist in **Art. 28 DBA-USA** geregelt (Fassung gemaess 
 ### Phase 6 — Pension Protection bei IRA/401(k)
 ### Phase 7 — Branch Profits Tax pruefen
 ### Phase 8 — Erstattung / Erklaerung
-1. **BZSt** fuer US-Empfaenger deutscher Quellen (Kapitalertragsteuer, § 50a-Steuerabzug) — Antrag auf Erstattung (§ 50c Abs. 3 EStG, Frist vier Jahre nach Ablauf des Kalenderjahres der Steuerentstehung) oder Freistellungsbescheinigung (§ 50c Abs. 2 EStG, vorab, Geltungsdauer bis drei Jahre). Pflichtanlage: IRS Form 6166 Ansaessigkeitsbescheinigung; Einreichung ueber BZSt-Online-Portal (BOP).
+1. **BZSt** für US-Empfaenger deutscher Quellen (Kapitalertragsteuer, § 50a-Steuerabzug) — Antrag auf Erstattung (§ 50c Abs. 3 EStG, Frist vier Jahre nach Ablauf des Kalenderjahres der Steuerentstehung) oder Freistellungsbescheinigung (§ 50c Abs. 2 EStG, vorab, Geltungsdauer bis drei Jahre). Pflichtanlage: IRS Form 6166 Ansaessigkeitsbescheinigung; Einreichung ueber BZSt-Online-Portal (BOP).
 2. **IRS Form W-8BEN** (natuerliche Person) bzw. **W-8BEN-E** (Entity) — vom deutschen Empfaenger an den US-Vergueterschuldner zur Reduktion des US-Quellensteuerabzugs (chapter 3 IRC) auf DBA-Hoechstsatz.
-3. **IRS Form 8233** — Steuerbefreiungs- oder -ermaessigungsantrag fuer unabhaengige persoenliche Dienste sowie fuer Kuenstler/Sportler (Art. 14, 17 DBA-USA).
+3. **IRS Form 8233** — Steuerbefreiungs- oder -ermaessigungsantrag für unabhaengige persönliche Dienste sowie für Kuenstler/Sportler (Art. 14, 17 DBA-USA).
 4. **IRS Form 6166** Ansaessigkeitsbescheinigung — vom deutschen Steuerpflichtigen ueber das BZSt zu beantragen ist die US-Ansaessigkeitsbescheinigung von der IRS; Beantragung bei der IRS ueber **Form 8802** (gebuehrenpflichtig).
-5. Bei deutscher Ansaessigkeitsbescheinigung fuer US-Behoerden: BZSt-Formular zur Ansaessigkeitsbescheinigung Bundesrepublik Deutschland nutzen.
+5. Bei deutscher Ansaessigkeitsbescheinigung für US-Behörden: BZSt-Formular zur Ansaessigkeitsbescheinigung Bundesrepublik Deutschland nutzen.
 
 ## Output
 
@@ -129,29 +129,29 @@ Die LOB-Klausel im DBA-USA ist in **Art. 28 DBA-USA** geregelt (Fassung gemaess 
 ## Strategie und Praxis-Tipps
 
 - LOB-Klausel ist DAS Nadeloehr des DBA-USA — frueh pruefen; bei Misserfolg LOB Discretionary Benefits beantragen.
-- US-LLC: BMF-Schreiben 19.03.2004 — pruefen ob Personengesellschaft oder Kapitalgesellschaft fuer deutsche Steuerzwecke (Pruefung anhand Merkmals-Katalog: Haftung, Geschaeftsfuehrung, Anteilsuebertragung, Lebensdauer, Gewinnverteilung).
+- US-LLC: BMF-Schreiben 19.03.2004 — pruefen ob Personengesellschaft oder Kapitalgesellschaft für deutsche Steuerzwecke (Pruefung anhand Merkmals-Katalog: Haftung, Geschaeftsfuehrung, Anteilsuebertragung, Lebensdauer, Gewinnverteilung).
 - IRA-Auszahlung an Wohnsitz Deutschland: Pension Protection schutzwuerdig — § 50d Abs. 12 EStG.
 - Wegzug DE → USA: § 6 AStG, USA als Drittland — Stundung nur bei Stellung von Sicherheiten und in EU/EWR-Ausnahme.
 - USA kein MLI-Staat — DBA-Aenderungen nur bilateral.
-- Sportler/Kuenstler: IRS-Formular 8233 fuer Steuerbefreiung; W-8BEN-E fuer Holdings.
+- Sportler/Kuenstler: IRS-Formular 8233 für Steuerbefreiung; W-8BEN-E für Holdings.
 - Form 6166 Ansaessigkeitsbescheinigung mit IRS-Form 8802 beantragen (Gebuehr).
 - LLC-Hybridprobleme: Doppelnichtansatz vermeiden, § 4k EStG.
 
 ## Praktiker-Tipps der alten Hasen
 
-- **Erstattungsverfahren US → DE-Mandant**: Antrag bei IRS (Internal Revenue Service); kein einheitliches Online-Portal fuer Auslaender — Antragsformulare werden je nach Einkunftsart unterschiedlich gehandhabt (Form 1040-NR fuer nichtansaessige natuerliche Personen, Form 1120-F fuer auslaendische Gesellschaften). Bearbeitungsdauer in der Praxis oft 6 bis 12 Monate, bei komplexeren Faellen laenger.
+- **Erstattungsverfahren US → DE-Mandant**: Antrag bei IRS (Internal Revenue Service); kein einheitliches Online-Portal für Auslaender — Antragsformulare werden je nach Einkunftsart unterschiedlich gehandhabt (Form 1040-NR für nichtansaessige natuerliche Personen, Form 1120-F für auslaendische Gesellschaften). Bearbeitungsdauer in der Praxis oft 6 bis 12 Monate, bei komplexeren Faellen laenger.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Englisch; die englische Fassung dominiert die praktische Anwendung weltweit.
 - **Lokaler Berater**: Bei US-Engagement zwingend einen US-zertifizierten "CPA" oder "Enrolled Agent" oder US-Steueranwalt ("tax attorney") hinzuziehen — US-Steuerrecht extrem komplex, foederal mit Bundesstaat- und Lokalsteuern (NYC, Kalifornien, Texas).
-- **Apostille**: ZWINGEND bei Drittstaat USA; Haager Uebereinkommen anwendbar (US ist Vertragsstaat). Apostille fuer deutsche Urkunden ueber den jeweiligen Bundesland-Behoerden; US-Apostille fuer US-Urkunden ueber den US-Bundesstaat oder Department of State.
-- **Form 6166 (US-Ansaessigkeitsbescheinigung)**: Beantragung beim IRS ueber Form 8802 (gebuehrenpflichtig, 85 USD pro Antrag — vom Anwender mit aktueller IRS-Gebuehrenordnung zu verifizieren); Bearbeitung 6 Wochen bis 6 Monate.
+- **Apostille**: ZWINGEND bei Drittstaat USA; Haager Uebereinkommen anwendbar (US ist Vertragsstaat). Apostille für deutsche Urkunden ueber den jeweiligen Bundesland-Behörden; US-Apostille für US-Urkunden ueber den US-Bundesstaat oder Department of State.
+- **Form 6166 (US-Ansaessigkeitsbescheinigung)**: Beantragung beim IRS ueber Form 8802 (gebuehrenpflichtig, 85 USD pro Antrag — vom Anwender mit aktueller IRS-Gebührenordnung zu verifizieren); Bearbeitung 6 Wochen bis 6 Monate.
 
 ## Edge Cases und Was-Pruefer-Triggert
 
-- **LOB-Klausel als Nadeloehr**: Jede US-DBA-Begehung erfordert LOB-Test (Art. 28); Pruefer triggert auf fehlende LOB-Subsumtion in Antraegen. Discretionary Benefits sind bei zustaendiger US-Behoerde (Competent Authority) zu beantragen — langwierig.
-- **US-LLC-Klassifikation**: BMF-Schreiben 19.03.2004 (BStBl. I 2004, 411) — Merkmalskatalog. Bei Single-Member LLC (transparent fuer US): "disregarded entity" — DE qualifiziert ggf. abweichend. Hybridmismatch § 4k EStG.
+- **LOB-Klausel als Nadeloehr**: Jede US-DBA-Begehung erfordert LOB-Test (Art. 28); Pruefer triggert auf fehlende LOB-Subsumtion in Antraegen. Discretionary Benefits sind bei zuständiger US-Behörde (Competent Authority) zu beantragen — langwierig.
+- **US-LLC-Klassifikation**: BMF-Schreiben 19.03.2004 (BStBl. I 2004, 411) — Merkmalskatalog. Bei Single-Member LLC (transparent für US): "disregarded entity" — DE qualifiziert ggf. abweichend. Hybridmismatch § 4k EStG.
 - **Pension Protection Protokoll 2006**: IRA, 401(k), Roth IRA bei Wohnsitz DE — § 50d Abs. 12 EStG; Beitraege zu deutschen Riester/Rurup bei Wohnsitz USA anerkennen. Konkrete Auslegung nach BMF.
 - **Branch Profits Tax**: bei deutscher US-Filiale (effectively connected income) — US-Standard 30 Prozent national, DBA-Reduktion auf Schachtel-Dividenden-Satz (5 Prozent bei 80 Prozent Beteiligung mit Mindesthaltedauer, sonst 15 Prozent Streubesitz).
-- **§ 50a EStG Kuenstler/Sportler**: bei deutschen Veranstaltern mit US-Kuenstlern/Sportlern Quellensteuerabzug 15 Prozent (zzgl. SolZ); IRS Form 8233 fuer US-Steuerbefreiung in den USA.
+- **§ 50a EStG Kuenstler/Sportler**: bei deutschen Veranstaltern mit US-Kuenstlern/Sportlern Quellensteuerabzug 15 Prozent (zzgl. SolZ); IRS Form 8233 für US-Steuerbefreiung in den USA.
 - **FATCA-Reporting**: US-Bankkonten deutscher Steuerpflichtiger werden ueber FATCA an BZSt gemeldet — Steuerhinterziehung schwer; gleichermassen US-Steuerpflichtige in DE (US-Citizen, Green Card) muessen Form 8938 / FBAR.
 - **US-Citizenship und Wegzug aus den USA**: US besteuert weltweit nach Citizenship — Aufgabe Citizenship/Green Card durch Expatriation (Form I-407 / Renunciation); IRC § 877A "Exit Tax" auf Stille Reserven.
 
@@ -159,7 +159,7 @@ Die LOB-Klausel im DBA-USA ist in **Art. 28 DBA-USA** geregelt (Fassung gemaess 
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| LLC vs. LP fuer US-Holding | LLC (Single-Member oder Multi-Member): flexibel, transparent fuer US | LP (Limited Partnership): transparent fuer US, klare Struktur | bei DE-Anteilseigner BMF-Klassifikation Pruefung; bei Hybridmismatch § 4k EStG; LLC oft komplexer fuer DE-Steuerrecht |
+| LLC vs. LP für US-Holding | LLC (Single-Member oder Multi-Member): flexibel, transparent für US | LP (Limited Partnership): transparent für US, klare Struktur | bei DE-Anteilseigner BMF-Klassifikation Pruefung; bei Hybridmismatch § 4k EStG; LLC oft komplexer für DE-Steuerrecht |
 | US-Quellensteuer-Ermaessigung via DBA vs. nationales Recht | DBA: Schachtel-Dividenden 5 Prozent (bei LOB-Qualifikation und Schwellenwerten) | US-national: 30 Prozent QSt auf alle Auslandseinkuenfte | DBA mit LOB-Subsumtion immer attraktiver, aber LOB-Antrag verbindlich |
 | Pension Protection bei Aliyah ueber USA und DE | Pension Protection 2006: IRA, 401(k) bei Wohnsitz DE anerkannt — Beitraege absetzbar, Auszahlung bestimmungsgemaess | ohne Pension Protection: Doppelbesteuerung droht | Pension Protection nutzen, § 50d Abs. 12 EStG |
 | US-Branch direkt vs. via DE-Holding | US-Branch (effectively connected income): hohe US-Steuer plus Branch Profits Tax | DE-Holding gruendet US-Tochter (LLC oder Corp): klassische DBA-Anwendung | bei Branch fast immer steuerlich nachteilig — US-Tochter strukturieren |

@@ -118,7 +118,7 @@ Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachts
 ## Anschluss-Skills
 - `gr-abmahnung-workflow` – Gesamter Abmahnung-Workflow.
 - `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV nach Abmahnung.
-- `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` – Fristen und Formalien.
+- `spezial-rechtsschutz-fristen-form-und-zuständigkeit` – Fristen und Formalien.
 
 ## Quellenregel
 - UWG, ZPO: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).

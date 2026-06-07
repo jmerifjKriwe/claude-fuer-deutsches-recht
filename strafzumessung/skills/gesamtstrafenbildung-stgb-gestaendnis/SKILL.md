@@ -46,7 +46,7 @@ Bei **Realkonkurrenz** (mehrere selbststaendige Taten in einem Verfahren) sind n
 - **Schritt 4**: Beachten der absoluten Grenzen (Hoechstmass; Summe der Einzelstrafen).
 - **Verbot**: Die einzelne Strafe darf bei der Gesamtstrafenbildung nicht erneut strafschaerfend einfliessen (Doppelverwertungs-Variante).
 
-## Faustwerte fuer die Erhoehung
+## Faustwerte für die Erhoehung
 
 | Fallgestaltung | Erhoehung der Einsatzstrafe |
 |---|---|
@@ -62,7 +62,7 @@ Bei **Realkonkurrenz** (mehrere selbststaendige Taten in einem Verfahren) sind n
 - Tat 2: Koerperverletzung, Einzelstrafe 9 Monate.
 - Tat 3: Beleidigung, Einzelstrafe 30 Tagessaetze.
 
-Schritt-fuer-Schritt:
+Schritt-für-Schritt:
 
 1. Einsatzstrafe = 9 Monate (hoechste Freiheitsstrafe).
 2. Erhoehung: Tat 1 hinzu (6 Monate), Tat 3 hinzu (30 Tagessaetze).
@@ -70,7 +70,7 @@ Schritt-fuer-Schritt:
 4. Beispielsweise Gesamtstrafe: 1 Jahr 1 Monat.
 5. Bei Geldstrafe daneben: Umrechnung der 30 Tagessaetze in 1 Monat Freiheitsstrafe (§ 54 Abs. 3 StGB), wenn keine gesonderte Geldstrafe verhaengt wird.
 
-## Schritt-fuer-Schritt-Anleitung (Gericht / Verteidigung)
+## Schritt-für-Schritt-Anleitung (Gericht / Verteidigung)
 
 1. **Einzelne Taten** identifizieren und je nach § 46 StGB konkrete Einzelstrafe festsetzen.
 2. **Einsatzstrafe** = hoechste Einzelstrafe.

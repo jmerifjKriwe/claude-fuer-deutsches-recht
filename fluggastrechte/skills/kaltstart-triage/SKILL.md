@@ -134,15 +134,15 @@ Dieses Plugin richtet sich sowohl an Verbraucher, die ihre Ansprueche selbst gel
 - Ihr Flug wurde annulliert oder Sie sind wegen Ueberbuchung nicht befoerdert worden und Sie wollen Ihre Ansprueche klaeren.
 - Ihr Flug hatte Verspaetung und Sie wollen wissen, ob Sie mehr als drei Stunden am Endziel verspaetet angekommen sind.
 - Die Airline hat Ihre Forderung mit einer Standardausrede (technischer Defekt, aussergewoehnliche Umstaende) abgelehnt und Sie wollen dagegen vorgehen.
-- Sie vertreten mehrere Familienmitglieder und benoetigen Vollmachten fuer die Durchsetzung.
-- Sie wollen eine Klageschrift fuer das Amtsgericht erstellen, nachdem aussergerichtliche Schritte erfolglos waren.
+- Sie vertreten mehrere Familienmitglieder und benoetigen Vollmachten für die Durchsetzung.
+- Sie wollen eine Klageschrift für das Amtsgericht erstellen, nachdem aussergerichtliche Schritte erfolglos waren.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Annullierung** — Streichung eines zuvor geplanten Fluges (Art. 5 VO 261/2004); unterscheidet sich rechtlich von einer Verspaetung.
 - **Aussergewoehnliche Umstaende** — Ereignisse, die sich der Kontrolle des Luftfahrtunternehmens entziehen (Art. 5 Abs. 3 VO 261/2004); entlastet die Airline von der Ausgleichspflicht.
-- **Grosskreisdistanz** — die fuer die Stufenberechnung der Ausgleichszahlung massgebliche Entfernung zwischen Abflug- und Zielflughafen.
-- **Operating Carrier** — das tatsaechlich ausfuehrende Luftfahrtunternehmen; massgeblich fuer die Passivlegitimation, nicht das vermarktende Unternehmen bei Codeshare.
+- **Grosskreisdistanz** — die für die Stufenberechnung der Ausgleichszahlung massgebliche Entfernung zwischen Abflug- und Zielflughafen.
+- **Operating Carrier** — das tatsaechlich ausfuehrende Luftfahrtunternehmen; massgeblich für die Passivlegitimation, nicht das vermarktende Unternehmen bei Codeshare.
 - **PNR** — Passenger Name Record (Buchungscode); identifiziert eine zusammenhaengende Buchung bei Verbindungsfluegen.
 - **Sturgeon-Linie** — EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 — bei Ankunftsverspaetung am Endziel von 3+ Stunden gleicher Ausgleichsanspruch wie bei Annullierung (curia.europa.eu).
 
@@ -153,7 +153,7 @@ Dieses Plugin richtet sich sowohl an Verbraucher, die ihre Ansprueche selbst gel
 - Art. 5 VO (EG) 261/2004 — Annullierung
 - Art. 6 VO (EG) 261/2004 — Verspaetung
 - Art. 7 VO (EG) 261/2004 — Ausgleichszahlung (250/400/600 EUR)
-- § 23 Nr. 1 GVG — sachliche Zustaendigkeit Amtsgericht bis 10.000 EUR (seit 01.01.2026)
+- § 23 Nr. 1 GVG — sachliche Zuständigkeit Amtsgericht bis 10.000 EUR (seit 01.01.2026)
 
 Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.eu vor Versand aufrufen):
 
@@ -169,7 +169,7 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
 - EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler Triebwerk
 - EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Einzelperson oder Reisegruppe/Familie? Selbstmandat oder anwaltliche Vertretung?
 2. Phase des Mandats bestimmen: Stoerungsereignis noch nicht eingeordnet (Annullierung vs. Verspaetung?), aussergerichtliche Phase oder Klage?
@@ -186,17 +186,17 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
 - `ausnahmen-aussergewoehnliche-umstaende-pruefen` — Pruefung Art. 5 Abs. 3 VO 261/2004 mit aktuellem EuGH-Katalog.
 - `airline-standardausreden-pruefen` — Katalog typischer Airline-Ablehnungsgruende mit Gegenargumenten und EuGH-Rechtsprechungs-Pinpoints.
 - `anschlussflug-und-reiseplan` — Berechnung bei Verbindungsfluegen: Endziel-Verspaetung nach EuGH Folkerts massgeblich.
-- `vollmacht-familienmitglieder` — Vollmachten fuer Mitreisende erstellen, damit ein Hauptansprechpartner alle Ansprueche buendeln kann.
+- `vollmacht-familienmitglieder` — Vollmachten für Mitreisende erstellen, damit ein Hauptansprechpartner alle Ansprueche buendeln kann.
 - `forderungsschreiben-erste-stufe` — Erstes Forderungsschreiben an die Airline mit Rechtsbegruendung und Fristsetzung.
 - `forderungsschreiben-mahnung` — Zweite Stufe nach Ablauf der Erstfrist; Nachfrist, Verzugszinsen, Klageandrohung.
-- `fluggastrechte-anlagen-bauen` — BeA-konformes Anlagenkonvolut (Buchungsbestaetigung, Boardingpass, E-Mails) fuer Schriftsaetze erstellen.
-- `klage-amtsgericht-fluggast` — Vollstaendiger Klageschrift-Entwurf fuer das Amtsgericht mit Streitwert und EuGH-Begruendung.
+- `fluggastrechte-anlagen-bauen` — BeA-konformes Anlagenkonvolut (Buchungsbestaetigung, Boardingpass, E-Mails) für Schriftsaetze erstellen.
+- `klage-amtsgericht-fluggast` — Vollstaendiger Klageschrift-Entwurf für das Amtsgericht mit Streitwert und EuGH-Begruendung.
 
 ## Worauf besonders achten
 
 - **Operating Carrier identifizieren**: Bei Codeshare-Fluegen ist nicht das vermarktende Unternehmen, sondern der tatsaechliche Ausfuehrungs-Carrier passivlegitimiert; das Ticket nennt bisweilen nur den Verkaeufer.
 - **Sturgeon-Dreistunden-Schwelle**: Die Verspaetung wird an der tatsaechlichen Ankunftszeit am Endziel gemessen — nicht an der Abflugverspaetung; der Zeitpunkt, zu dem die Passagiertuer geoeffnet wird, gilt als Ankunftszeit.
-- **Anschlussflug unter einer PNR**: Wenn ein Anschlussflug verpaesst wird, zaehlt die Gesamtverspaetung am Endziel fuer den Ausgleich; separate PNRs begrenzen den Anspruch auf die jeweilige Strecke.
+- **Anschlussflug unter einer PNR**: Wenn ein Anschlussflug verpaesst wird, zaehlt die Gesamtverspaetung am Endziel für den Ausgleich; separate PNRs begrenzen den Anspruch auf die jeweilige Strecke.
 - **Aussergewoehnliche Umstaende begruendungspflichtig**: Die Airline muss sowohl das aussergewoehnliche Ereignis als auch die zumutbaren Gegenmassnahmen darlegen; pauschale Verweise genuegen nicht.
 - **Verjaebrung**: Der Anspruch verjaehrt in drei Jahren nach § 195 BGB; auf Jahresende-Berechnung nach § 199 BGB achten.
 
@@ -210,8 +210,8 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
 
 ## Querverweise
 
-- `prozessrecht` — Wenn der Fluggast-Fall vor dem Amtsgericht wird und prozessrechtliche Fragen (Zustaendigkeit, Fristen, Mahnbescheid) auftauchen.
-- `selbstvertreter-amtsgericht` — Wenn der Mandant ohne Anwalt klagen will und eine Orientierung fuer das Amtsgerichtsverfahren benoetigt.
+- `prozessrecht` — Wenn der Fluggast-Fall vor dem Amtsgericht wird und prozessrechtliche Fragen (Zuständigkeit, Fristen, Mahnbescheid) auftauchen.
+- `selbstvertreter-amtsgericht` — Wenn der Mandant ohne Anwalt klagen will und eine Orientierung für das Amtsgerichtsverfahren benoetigt.
 
 ## Quellen und Aktualitaet (Stand Mai 2026)
 

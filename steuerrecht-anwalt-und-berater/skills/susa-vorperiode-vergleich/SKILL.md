@@ -19,7 +19,7 @@ Eine isolierte SuSa zeigt nur den Stichtag. Erst die Gegenueberstellung mit Vorm
 
 1. Welcher Vergleich — Vormonat, Vorjahres-Monat, kumulierter YTD?
 2. Welche Detailtiefe — alle Konten oder nur die wesentlichen?
-3. Welche Schwellenwerte fuer Auffaelligkeit (absolute und prozentuale)?
+3. Welche Schwellenwerte für Auffaelligkeit (absolute und prozentuale)?
 4. Welche Sondereffekte sind herauszurechnen?
 5. Welche Periodendefinitions (Kalender vs. abweichendes Wirtschaftsjahr)?
 6. Welche Auswertungsfrequenz (monatlich vs. quartalsweise)?

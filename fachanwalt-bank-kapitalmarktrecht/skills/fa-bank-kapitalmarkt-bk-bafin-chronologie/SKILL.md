@@ -13,7 +13,7 @@ description: "FA Bank Kapitalmarkt BK Bafin Chronologie im Plugin Fachanwalt Ban
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Bank Kapitalmarktrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `bk-bafin-beschwerdeverfahren-workflow` | BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhoerung, Beanstandung, Massnahme. Inhalt und Beweismittel. Mustertext fuer Mandanten und Anwalt. Schnittstelle zu Klage und Schiedsverfahren. |
+| `bk-bafin-beschwerdeverfahren-workflow` | BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Massnahme. Inhalt und Beweismittel. Mustertext für Mandanten und Anwalt. Schnittstelle zu Klage und Schiedsverfahren. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-bank-kapitalmarktrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 
 ## Arbeitsweg
@@ -165,7 +165,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## 2. `bk-bafin-beschwerdeverfahren-workflow`
 
-**Fokus:** BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhoerung, Beanstandung, Massnahme. Inhalt und Beweismittel. Mustertext fuer Mandanten und Anwalt. Schnittstelle zu Klage und Schiedsverfahren.
+**Fokus:** BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Massnahme. Inhalt und Beweismittel. Mustertext für Mandanten und Anwalt. Schnittstelle zu Klage und Schiedsverfahren.
 
 # BK: BaFin-Beschwerdeverfahren
 
@@ -173,13 +173,13 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 - **Normen-/Quellenanker:** BK.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -207,7 +207,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

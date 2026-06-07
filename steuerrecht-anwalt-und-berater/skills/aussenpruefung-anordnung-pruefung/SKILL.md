@@ -18,7 +18,7 @@ description: "Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanor
 3. Ist eine Pruefungserweiterung erfolgt oder droht sie — Antrag auf Beschraenkung sinnvoll?
 4. Welche Daten muessen GoBD-konform bereitgestellt werden (Z1 Z2 Z3 Zugriff)?
 5. Wirkung der Pruefung auf Festsetzungsfrist § 171 Abs. 4 AO?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -29,7 +29,7 @@ description: "Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanor
 - **§ 201 AO** — Schlussbesprechung.
 - **§ 202 AO** — Pruefungsbericht.
 - **§ 171 Abs. 4 AO** — Ablaufhemmung.
-- **GoBD** — Grundsaetze zur ordnungsmaessigen Fuehrung von Buechern.
+- **GoBD** — Grundsaetze zur ordnungsmäßigen Fuehrung von Buechern.
 
 ## Aktuelle Rechtsprechung
 

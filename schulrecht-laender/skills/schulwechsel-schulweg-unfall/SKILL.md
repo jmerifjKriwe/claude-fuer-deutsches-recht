@@ -1,6 +1,6 @@
 ---
 name: schulwechsel-schulweg-unfall
-description: "Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern im Schulrecht Laender: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern im Schulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schulwechsel

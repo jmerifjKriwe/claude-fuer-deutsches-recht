@@ -119,9 +119,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `aussenwirtschaft-gueterlisten-klassifizierung` | Klassifizierungsdossier für Exportkontrolle Zolltarif und Dual-Use-Einordnung. Anwendungsfall Produkt muss für Exportkontrolle und Zoll einheitlich klassifiziert werden. Normen EU-Dual-Use-Liste Anhang I Verordnung… |
 | `aussenwirtschaft-icp-kontrollsystem` | Entwurf und Haertung eines integrierten Compliance-Programms ICP für Exportkontrolle Zoll Sanktionen CBAM und AML. Anwendungsfall Unternehmen will rechtssicheres ICP aufbauen oder bestehendes System haerten. Normen AWG… |
 | `aussenwirtschaft-kommandocenter` | Kommandocenter für alle Aussenhandels- Zoll- Sanktions- CBAM- und Ermittlungsmandate vom Intake bis zum Handlungsvorschlag. Anwendungsfall Anwalt oder Compliance-Beauftragter will grenzüberschreitendes Mandat schnell… |
-| `aussenwirtschaft-presse-krise` | Rechtliche und kommunikative Schadensbegrenzung bei Sanktionsverstoss Behördenmassnahmen oder Lieferkettenvorwuerfen. Anwendungsfall negative Berichterstattung droht oder Behoerde hat Massnahmen eingeleitet und… |
+| `aussenwirtschaft-presse-krise` | Rechtliche und kommunikative Schadensbegrenzung bei Sanktionsverstoss Behördenmassnahmen oder Lieferkettenvorwuerfen. Anwendungsfall negative Berichterstattung droht oder Behörde hat Massnahmen eingeleitet und… |
 | `aussenwirtschaft-pruefung-ermittlung` | Begleitung von Aussenwirtschaftsprüfungen Zollprüfungen Durchsuchungen und Strafverfahren. Anwendungsfall Behorde kueendigt Prüfung an oder Durchsuchung hat stattgefunden. Normen AWG § 34 Strafrecht OWiG § 19… |
-| `aussenwirtschaft-sanktionen-embargos` | Prüfung von Laenderembargos personenbezogenen Sanktionen und Umgehungsrisiken im Aussenhandel. Anwendungsfall Handelspartner koennte Sanktionslistentreffer haben oder Lieferung in Sanktionsland geht. Normen… |
+| `aussenwirtschaft-sanktionen-embargos` | Prüfung von Länderembargos personenbezogenen Sanktionen und Umgehungsrisiken im Aussenhandel. Anwendungsfall Handelspartner koennte Sanktionslistentreffer haben oder Lieferung in Sanktionsland geht. Normen… |
 | `aussenwirtschaft-us-ear-itar` | US-Exportkontrolle EAR ITAR und OFAC für Unternehmen mit US-Bezug im Aussenhandel. Anwendungsfall Produkt enthaelt US-Komponenten oder unterliegt US-Recht und Reexport- oder Weitergabepflichten muessen geprüft werden.… |
 | `aussenwirtschaft-verbrauchsteuer` | Verbrauchsteuerrecht für Energieerzeugnisse Strom Tabak Alkohol Bier Schaumwein und Kaffee. Anwendungsfall Hersteller oder Haendler prüft Steuerlager Steueraussetzungsverfahren oder Entlastungsantrag. Normen EnergieStG… |
 | `aussenwirtschaft-vub-einfuhr-ausfuhr` | Verbote und Beschraenkungen VuB für besondere Waren wie Dual-Use Kulturgut CITES F-Gase Lebensmittel und Russland-Iranembargos. Anwendungsfall Import oder Export einer Ware koennte VuB-Beschraenkungen unterliegen.… |
@@ -132,14 +132,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin deckt das gesamte Aussenwirtschafts- und Zollrecht ab: von der Exportkontrolle fuer Dual-Use-Gueter und Ruestungsgueter ueber Sanktionen und Embargos bis hin zu Zolltarifrecht, Warenursprung, Praeferenznachweisen und dem Carbon Border Adjustment Mechanism (CBAM). Es begleitet Unternehmen beim Aufbau interner Compliance-Programme (ICP) und stuetzt Anwaelte und Compliance-Verantwortliche bei Behoerdenpruefungen und Strafverfahren.
+Das Plugin deckt das gesamte Aussenwirtschafts- und Zollrecht ab: von der Exportkontrolle für Dual-Use-Gueter und Ruestungsgueter ueber Sanktionen und Embargos bis hin zu Zolltarifrecht, Warenursprung, Praeferenznachweisen und dem Carbon Border Adjustment Mechanism (CBAM). Es begleitet Unternehmen beim Aufbau interner Compliance-Programme (ICP) und stuetzt Anwaelte und Compliance-Verantwortliche bei Behördenpruefungen und Strafverfahren.
 
 Das Plugin integriert auch AWV-Meldepflichten gegenueber der Deutschen Bundesbank, AML/KYC-Sanktionsscreening, Antidumping sowie WTO-Handelspolitik. Zielgruppe sind Compliance-Abteilungen exportierender Unternehmen, Zollbeauftragte, Anwaelte und Steuerberater im Aussenhandel.
 
 ## Wann brauchen Sie diese Skill?
 
 - Unternehmen exportiert Gueter mit potenziellem Dual-Use und muss pruefen, ob eine BAFA-Genehmigung erforderlich ist.
-- Handelspartner steht auf Sanktionsliste oder hat Bezug zu embargierten Laendern; Transaktion muss vor Ausfuehrung geprueft werden.
+- Handelspartner steht auf Sanktionsliste oder hat Bezug zu embargierten Ländern; Transaktion muss vor Ausfuehrung geprueft werden.
 - Zollbehoerde bestreitet Zollwert oder Warenursprung; Praeferenznachweis muss verteidigt werden.
 - Unternehmen erhalt Ankuendigung einer Zollpruefung oder Aussenwirtschaftspruefung und muss Verfahrensvorbereitung treffen.
 - CBAM-pflichtige Waren werden eingefuehrt; Zertifikatspflichten und CO2-Preisberechnungen muessen implementiert werden.
@@ -147,15 +147,15 @@ Das Plugin integriert auch AWV-Meldepflichten gegenueber der Deutschen Bundesban
 ## Fachbegriffe (kurz erklaert)
 
 - **Dual-Use** — Gueter, Software und Technologien mit ziviler und militaerischer Verwendungsmoeglichkeit; unterstehen der EG Dual-Use-Verordnung (VO (EG) 428/2009, jetzt VO (EU) 2021/821).
-- **BAFA** — Bundesamt fuer Wirtschaft und Ausfuhrkontrolle; zentrale Genehmigungs- und Pruefungsbehoerde fuer Exportkontrolle.
-- **Sanktionen / Embargos** — Wirtschaftliche Massnahmen der EU, UN oder USA gegen Laender oder Personen; Umgehung ist Straftat.
+- **BAFA** — Bundesamt für Wirtschaft und Ausfuhrkontrolle; zentrale Genehmigungs- und Pruefungsbehoerde für Exportkontrolle.
+- **Sanktionen / Embargos** — Wirtschaftliche Massnahmen der EU, UN oder USA gegen Länder oder Personen; Umgehung ist Straftat.
 - **TARIC** — Integrierter Zolltarif der EU; kombiniert CN-Code mit handelspolitischen Massnahmen.
-- **Zollwert** — Basis fuer die Berechnung der Eingangsabgaben; grundsaetzlich Transaktionswert nach UZK-Zollwertmethoden.
-- **Warenursprung** — Praeferenzielle und nichtpraeferenzielle Herkunft einer Ware; Grundlage fuer Praeferenzzollsaetze und Antidumping.
-- **CBAM** — Carbon Border Adjustment Mechanism; CO2-Grenzausgleich fuer Einfuhren aus Drittlaendern seit 01.10.2023 (Uebergangsphase).
+- **Zollwert** — Basis für die Berechnung der Eingangsabgaben; grundsaetzlich Transaktionswert nach UZK-Zollwertmethoden.
+- **Warenursprung** — Praeferenzielle und nichtpraeferenzielle Herkunft einer Ware; Grundlage für Praeferenzzollsaetze und Antidumping.
+- **CBAM** — Carbon Border Adjustment Mechanism; CO2-Grenzausgleich für Einfuhren aus Drittlaendern seit 01.10.2023 (Uebergangsphase).
 - **ICP** — Internal Compliance Programme; strukturiertes internes Exportkontroll-Kontrollsystem nach BAFA-Anforderungen.
-- **AWV** — Aussenwirtschaftsverordnung; regelt Meldepflichten gegenueber Bundesbank fuer grenzueberschreitende Zahlungen und Kapitalverkehr.
-- **AEO** — Zugelassener Wirtschaftsbeteiligter; EU-weite Bewilligung fuer vereinfachte Zollverfahren und schnellere Abfertigung.
+- **AWV** — Aussenwirtschaftsverordnung; regelt Meldepflichten gegenueber Bundesbank für grenzueberschreitende Zahlungen und Kapitalverkehr.
+- **AEO** — Zugelassener Wirtschaftsbeteiligter; EU-weite Bewilligung für vereinfachte Zollverfahren und schnellere Abfertigung.
 
 ## Rechtsgrundlagen
 
@@ -168,9 +168,9 @@ Das Plugin integriert auch AWV-Meldepflichten gegenueber der Deutschen Bundesban
 - OFAC-Vorschriften (USA) — US-Sanktionsrecht (extraterritorial relevant)
 - 15 CFR (EAR), 22 CFR (ITAR) — US-Exportkontrollrecht
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Exporteur, Importeur, Handelspartner-Sanktionspruefung oder Behoerdenverfahren?
+1. Mandantenkonstellation klaeren: Exporteur, Importeur, Handelspartner-Sanktionspruefung oder Behördenverfahren?
 2. Regulierungsrahmen bestimmen: EU-Recht, nationales AWG/AWV oder US-Recht (EAR/ITAR/OFAC) relevant?
 3. Gueterklassifizierung pruefen: CN-Code, Dual-Use-Einstufung und Gueterlisten-Nummer festlegen.
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
@@ -178,25 +178,25 @@ Das Plugin integriert auch AWV-Meldepflichten gegenueber der Deutschen Bundesban
 
 ## Skill-Tour (was gibt es hier?)
 
-- `aussenwirtschaft-kommandocenter` — Mandats-Intake und Routing fuer alle Aussenhandels- Zoll- Sanktions- und Ermittlungsmandate.
-- `aussenwirtschaft-exportkontrolle-dual-use` — Dual-Use-Pruefung fuer Gueter, Software und Technologie mit Doppelverwendungszweck.
-- `aussenwirtschaft-gueterlisten-klassifizierung` — Klassifizierungsdossier fuer Exportkontrolle, Zolltarif und Dual-Use-Einordnung erstellen.
-- `aussenwirtschaft-bafa-genehmigungen` — BAFA-Genehmigungsverfahren fuer genehmigungs-pflichtige Exporte begleiten.
-- `aussenwirtschaft-sanktionen-embargos` — Laenderembargos und personenbezogene Sanktionen pruefen; Umgehungsrisiken identifizieren.
+- `aussenwirtschaft-kommandocenter` — Mandats-Intake und Routing für alle Aussenhandels- Zoll- Sanktions- und Ermittlungsmandate.
+- `aussenwirtschaft-exportkontrolle-dual-use` — Dual-Use-Pruefung für Gueter, Software und Technologie mit Doppelverwendungszweck.
+- `aussenwirtschaft-gueterlisten-klassifizierung` — Klassifizierungsdossier für Exportkontrolle, Zolltarif und Dual-Use-Einordnung erstellen.
+- `aussenwirtschaft-bafa-genehmigungen` — BAFA-Genehmigungsverfahren für genehmigungs-pflichtige Exporte begleiten.
+- `aussenwirtschaft-sanktionen-embargos` — Länderembargos und personenbezogene Sanktionen pruefen; Umgehungsrisiken identifizieren.
 - `aussenwirtschaft-aml-kyc-sanktionen` — GwG-Risikoanalyse, KYC-Pruefung und Sanktionsscreening im Aussenhandel verknuepfen.
 - `aussenwirtschaft-zolltarif-vzta` — Wareneinreihung nach TARIC und verbindliche Zolltarifauskunft (VzTA) beantragen.
 - `aussenwirtschaft-zollwert-ursprung` — Zollwert, Warenursprung, Praeferenznachweise und Lieferantenerklarungen klaeren und verteidigen.
 - `aussenwirtschaft-zollverfahren-bewilligungen` — Zollverfahren nach UZK und Bewilligungen (AEO, vereinfachte Anmeldung) beantragen.
-- `aussenwirtschaft-cbam-co2-zoll` — CBAM-Compliance: CO2-Grenzausgleich fuer Einfuhren berechnen und Zertifikatspflichten erfuellen.
-- `aussenwirtschaft-awv-bundesbank` — AWV-Meldepflichten gegenueber Bundesbank fuer grenzueberschreitende Zahlungen umsetzen.
-- `aussenwirtschaft-verbrauchsteuer` — Verbrauchsteuerrecht fuer Energie, Strom, Tabak und Alkohol im Aussenhandel.
-- `aussenwirtschaft-vub-einfuhr-ausfuhr` — Verbote und Beschraenkungen (VuB) fuer besondere Waren: Dual-Use, CITES, F-Gase, Russland/Iran.
+- `aussenwirtschaft-cbam-co2-zoll` — CBAM-Compliance: CO2-Grenzausgleich für Einfuhren berechnen und Zertifikatspflichten erfuellen.
+- `aussenwirtschaft-awv-bundesbank` — AWV-Meldepflichten gegenueber Bundesbank für grenzueberschreitende Zahlungen umsetzen.
+- `aussenwirtschaft-verbrauchsteuer` — Verbrauchsteuerrecht für Energie, Strom, Tabak und Alkohol im Aussenhandel.
+- `aussenwirtschaft-vub-einfuhr-ausfuhr` — Verbote und Beschraenkungen (VuB) für besondere Waren: Dual-Use, CITES, F-Gase, Russland/Iran.
 - `aussenwirtschaft-antidumping-ausgleich` — Antidumping- und Antisubventionsmassnahmen; Ausgleichszoelle pruefen und anfechten.
-- `aussenwirtschaft-wto-handelspolitik` — WTO-Regelwerk, GATT/GATS/TRIPS und Streitbeilegung fuer Aussenhandelsmandate.
-- `aussenwirtschaft-us-ear-itar` — US-Exportkontrolle EAR/ITAR und OFAC fuer Unternehmen mit US-Bezug oder US-Waren-Anteilen.
-- `aussenwirtschaft-icp-kontrollsystem` — Internes Compliance-Programm (ICP) fuer Exportkontrolle, Zoll, Sanktionen und AML entwerfen.
+- `aussenwirtschaft-wto-handelspolitik` — WTO-Regelwerk, GATT/GATS/TRIPS und Streitbeilegung für Aussenhandelsmandate.
+- `aussenwirtschaft-us-ear-itar` — US-Exportkontrolle EAR/ITAR und OFAC für Unternehmen mit US-Bezug oder US-Waren-Anteilen.
+- `aussenwirtschaft-icp-kontrollsystem` — Internes Compliance-Programm (ICP) für Exportkontrolle, Zoll, Sanktionen und AML entwerfen.
 - `aussenwirtschaft-pruefung-ermittlung` — Begleitung von Zollpruefungen, Aussenwirtschaftspruefungen, Durchsuchungen und Strafverfahren.
-- `aussenwirtschaft-presse-krise` — Kommunikative und rechtliche Schadensbegrenzung bei Sanktionsverstoss oder oeffentlichem Vorwurf.
+- `aussenwirtschaft-presse-krise` — Kommunikative und rechtliche Schadensbegrenzung bei Sanktionsverstoss oder öffentlichem Vorwurf.
 
 ## Worauf besonders achten
 

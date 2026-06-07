@@ -98,7 +98,7 @@ Die Wehrbeschwerdeordnung (WBO) ist der zentrale Rechtsschutzweg des Soldaten ge
 ## Querverweise
 
 - soldatengesetz-rechtsstellung-grundpflichten
-- truppendienstgericht-zustaendigkeit-verfahren
+- truppendienstgericht-zuständigkeit-verfahren
 - bundesverwaltungsgericht-wehrdienstsenate
 - eilverfahren-konkurrentenstreit-wehrdienstsenat
 - weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht

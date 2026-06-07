@@ -3,11 +3,11 @@ name: volkseigener-betrieb-behoerdenbrief-sc
 description: "Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Behördenbrief schreiben im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Volkseigener Betrieb Behoerdenbrief Sc
+# Volkseigener Betrieb Behördenbrief Sc
 
 ## Arbeitsbereich
 
-Spezialthema **Volkseigener Betrieb Behoerdenbrief Sc** im Einigungsvertrag/Vermögensrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Volkseigener Betrieb Behördenbrief Sc** im Einigungsvertrag/Vermögensrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Volkseigener Betrieb Behoerdenbrief Sc** im Einigungsvertrag/Verm
 
 ## Arbeitsauftrag
 
-Volkseigener Betrieb Behoerdenbrief Sc wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Volkseigener Betrieb Behördenbrief Sc wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 

@@ -3,7 +3,7 @@ name: bwa-monatsabschluss-routine
 description: "Routine für den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme Buchung GoBD-konform OPOS-Pflege Lohnbuchung-Integration Bestand-Schaetzung Periodenabgrenzung Auswertung. Output Monatsendreport Termincontrolling Querverweis stb-routine-monatsabschluss-30-tage-zyklus."
 ---
 
-# Monatsabschluss-Routine fuer den Steuerberater
+# Monatsabschluss-Routine für den Steuerberater
 
 ## Fachlicher Anker
 
@@ -40,7 +40,7 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 
 **§ 33 StBerG** — Aufgaben des Steuerberaters (Buchfuehrung als Hilfeleistung in Steuersachen).
 
-**§ 35 StBVV** — Honorar fuer Buchfuehrung; Anhang 5 zur StBVV.
+**§ 35 StBVV** — Honorar für Buchfuehrung; Anhang 5 zur StBVV.
 
 ### Verwaltungsanweisungen
 
@@ -90,8 +90,8 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 ### Phase 6 — Nachgang: Mandantenkommunikation
 
 - Bei Auffaelligkeiten Mandant telefonisch oder im Meeting kontaktieren.
-- Termin fuer Quartalsgespraech ankuendigen (alle 3 Monate).
-- Bei wiederholten Belegabgabe-Verzoegerungen Mahnschreiben mit Honoraranknuepfung (Zuschlag fuer Eilfall).
+- Termin für Quartalsgespraech ankuendigen (alle 3 Monate).
+- Bei wiederholten Belegabgabe-Verzoegerungen Mahnschreiben mit Honoraranknuepfung (Zuschlag für Eilfall).
 
 ## Output
 

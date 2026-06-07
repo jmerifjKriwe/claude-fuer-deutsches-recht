@@ -31,7 +31,7 @@ SPA/APA-Entwurf: Kaufvertragsentwuerfe für Share Deal und Asset Deal aus Term S
 
 ## Zweck
 
-Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement; APA = Asset Purchase Agreement) fuer Share Deal und Asset Deal. Grundlage sind Term Sheet, DD-Findings und Transaktionsstruktur. Liefert vollstaendige Vertragsarchitektur mit Garantien, Freistellungen, MAC, Earn-Out und Closing Conditions.
+Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement; APA = Asset Purchase Agreement) für Share Deal und Asset Deal. Grundlage sind Term Sheet, DD-Findings und Transaktionsstruktur. Liefert vollstaendige Vertragsarchitektur mit Garantien, Freistellungen, MAC, Earn-Out und Closing Conditions.
 
 ## Triage — klaere vor Entwurfsbeginn
 
@@ -41,17 +41,17 @@ Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement;
 4. Welche wesentlichen DD-Findings muessen als SPA-Risiken adressiert werden — Red Flags, Material Adverse Issues?
 5. Ist W&I-Versicherung vorgesehen — wenn ja: Sell-Side Disclosure Letter, Materiality Scrapes, Synthetic Warranties?
 6. Welche Conditions Precedent sind zu erwaarten — Kartellrecht, FDI, Sondergenehmigungen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Rechtsgrundlagen
 
 - § 433 BGB — Kaufvertrag als Grundlage; Gewaehrleistungsrecht nach §§ 437 ff. BGB ist abdingbar (bei B2B vollstaendige Abbedingung moeglich)
-- § 15 Abs. 3 GmbHG — notarielle Beurkundungspflicht fuer GmbH-Anteilsuebertragung; Formverstoß fuehrt zur Nichtigkeit
+- § 15 Abs. 3 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteilsuebertragung; Formverstoß fuehrt zur Nichtigkeit
 - § 311b BGB — notarielle Beurkundung bei Grundstueckseinschluss im Asset Deal
 - § 613a BGB — Betriebsuebergang beim Asset Deal: zwingend; Information der Arbeitnehmer
 - § 443 BGB — Selbstaendige Garantie: verschuldensunabhaengige Einstandspflicht; Haftung auf das Erfuellungsinteresse
 - § 254 BGB — Mitverschulden: Kaeuferwissen schraenkt Garantieansprueche ein; Aufdeckung in DD mindert Schaden
-- §§ 195, 199 BGB — Verjaehrung: regelmaessig 3 Jahre; vertragliche Verkuerzung auf 18 oder 24 Monate ueblich; Steuergarantien: Steuerveranlagungszeitraum plus 3 Monate
+- §§ 195, 199 BGB — Verjährung: regelmaessig 3 Jahre; vertragliche Verkuerzung auf 18 oder 24 Monate ueblich; Steuergarantien: Steuerveranlagungszeitraum plus 3 Monate
 - §§ 305-310 BGB — AGB-Kontrolle bei Verwendung von Standardvertraegen: gilt auch im B2B-Bereich; ungewoehnliche Klauseln muessen hervorgehoben werden
 
 ## Aktuelle Rechtsprechung
@@ -61,7 +61,7 @@ Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement;
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -87,7 +87,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — SPA-Entwurf fuer Mittelstand-Transaktion | SPA-Gliederung nach Schema; Template unten |
+| Standard — SPA-Entwurf für Mittelstand-Transaktion | SPA-Gliederung nach Schema; Template unten |
 | Variante A — Asset-Deal Mittelstand steuerlich guenstiger | APA-Variante verwenden; Grunderwerbsteuer beachten |
 | Variante B — Mittelstand nur LOI noch kein SPA | LOI-Vorlage zuerst; SPA nach LOI-Verhandlung |
 | Variante C — Kaufpreis stark erfolgsabhaengig Earn-Out | Earn-Out-Klausel als besonderer SPA-Abschnitt |
@@ -136,7 +136,7 @@ ANLAGEN:
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

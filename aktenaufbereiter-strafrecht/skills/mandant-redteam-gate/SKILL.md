@@ -50,7 +50,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Aktenstand-Brief an Mandant** strukturiert:
  - Stand der Ermittlungen (Anklage erhoben / Eroeffnungsbeschluss / Hauptverhandlung anberaumt / Urteil verkuendet).
  - Tatvorwurf in Kurzfassung.
- - Beweislage (Indizien fuer / gegen Mandant; staerkste Belastungsbeweise und Entlastungsindizien).
+ - Beweislage (Indizien für / gegen Mandant; staerkste Belastungsbeweise und Entlastungsindizien).
  - Strafmasserwartung (Bandbreite, nicht ein Wert).
  - Entscheidungsoffene Punkte (Verstaendigung, Gestaendnis, Beweisantraege).
 - **Pflicht-Hinweise:**

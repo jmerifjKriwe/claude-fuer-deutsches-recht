@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-maengelmeldung-sap-pm
-description: "Methodikskill HOAI LPH 8 — Vollstaendiger fuer Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit Ausfuehrungs-Ueberwachung, Integration PlanRadar-SAP-PM via REST-API sowie Abschluss-Meldung und Kostenstellenzuordnung bei HOAI-LPH-8-Projekten im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Vollstaendiger für Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit Ausfuehrungs-Ueberwachung, Integration PlanRadar-SAP-PM via REST-API sowie Abschluss-Meldung und Kostenstellenzuordnung bei HOAI-LPH-8-Projekten im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Maengelmeldung und SAP Plant Maintenance in der Bauueberwachung LPH 8
 
 ## Arbeitsbereich
 
-Methodikskill HOAI LPH 8 — Vollstaendiger fuer Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit Ausfuehrungs-Ueberwachung, Integration PlanRadar-SAP-PM via REST-API sowie Abschluss-Meldung und Kostenstellenzuordnung bei HOAI-LPH-8-Projekten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Methodikskill HOAI LPH 8 — Vollstaendiger für Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit Ausfuehrungs-Ueberwachung, Integration PlanRadar-SAP-PM via REST-API sowie Abschluss-Meldung und Kostenstellenzuordnung bei HOAI-LPH-8-Projekten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -25,12 +25,12 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 
 - Pharmafabrik Frankfurt Reinraumausbau: 3.200 PM-Meldungen ueber 24 Monate Bauzeit, Equipment-Baum 850 Positionen, SAP S/4HANA EAM, Bausumme 28 Mio. EUR
 - Logistikzentrum Dortmund: SAP PM Integration mit PlanRadar REST-API, automatische Meldungserstellung aus mobiler App, 680 Meldungen
-- Klaeranlage Bielefeld: SAP PM mit DIN EN 13306-Schadenscodes fuer Instandhaltungsplanung nach Abnahme, Uebergabe an Betriebsabteilung
+- Klaeranlage Bielefeld: SAP PM mit DIN EN 13306-Schadenscodes für Instandhaltungsplanung nach Abnahme, Uebergabe an Betriebsabteilung
 
 ## Erste Schritte SAP PM Einrichtung
 
 1. Equipment-Baum aufbauen: Hoehere Ebene Bauwerk, zweite Ebene Bauteil-Gruppe z.B. Rohbau oder TGA, dritte Ebene Equipment-ID z.B. STUETZE-EG-A04, nach Fliesschema IFC-Objektbaum
-2. Meldungsarten konfigurieren: M1 Instandhaltungsanforderung fuer planmaessige Pruefungen, M2 Stoerungsmeldung fuer unplanmaessige Maengel, M3 Aktivitaetenmeldung fuer erledigte Arbeiten
+2. Meldungsarten konfigurieren: M1 Instandhaltungsanforderung für planmäßige Pruefungen, M2 Stoerungsmeldung für unplanmäßige Maengel, M3 Aktivitaetenmeldung für erledigte Arbeiten
 3. Schadenscode-Katalog erstellen: Nach DIN 31051 und DIN EN 13306, Codes K001-K099 Bauwerk, A001-A099 Abdichtung, E001-E099 Elektro, B001-B099 Boden
 4. Prioritaetskatalog festlegen: Prio 1 sofortige Sicherheitsmassnahme 24 h, Prio 2 baubetrieblich kritisch T+3, Prio 3 dokumentierter Mangel T+14 nach VOB/B Fristen
 5. PM-Auftrag-Abschluss: Meldung MACO Status angelegt, Auftrag erstellt AUFTR, Ausfuehrung gemessen ABGE, Technische Meldung RÜCKG, PM-Auftrag abgeschlossen ABGE
@@ -41,7 +41,7 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 - § 650p BGB, § 650q BGB: Architektenvertrag, Pflicht zur Mangeldokumentation und Verfolgung
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Aufstellen und Ueberwachen Maengelliste, Abnahme
 - VOB/B § 13 Maengelansprueche: Fristen Maengelbeseitigung, Selbstvornahme, Minderung, Schadensersatz, Verjährungsfristen 4 Jahre
-- DIN EN 13306:2018-02 Instandhaltung: Begriffe Schaden, Mangel, Ausfall, Schadensklassen fuer SAP-PM-Codierung
+- DIN EN 13306:2018-02 Instandhaltung: Begriffe Schaden, Mangel, Ausfall, Schadensklassen für SAP-PM-Codierung
 - DIN 31051:2012-09 Grundlagen der Instandhaltung: Zustandsbeurteilung, Schadensanalyse, Massnahmen
 - SAP S/4HANA Enterprise Asset Management: Meldungstypen, Auftragsarten, Funktionsort-Struktur, Schnittstellen
 
@@ -58,7 +58,7 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 
 - PlanRadar-SAP-PM-Integration via REST-API: Meldung PlanRadar automatisch SAP-PM-Meldung M2 erstellt, GPS-Koordinate und Foto uebertragen, bidirektionale Status-Synchronisation
 - SAP Fiori App PM Meldung: Mobile Erfassung auf Baustelle, Barcode-Scan Equipment-ID, Offline-Faehigkeit mit Sync bei WLAN
-- SAP PM Meldungsliste Auswertung: Offene Meldungen nach Faelligkeit, Schadenscode-Statistik, Kostenstelle Kostenanalyse, Export Excel fuer Bautagebuch-Anhang
+- SAP PM Meldungsliste Auswertung: Offene Meldungen nach Faelligkeit, Schadenscode-Statistik, Kostenstelle Kostenanalyse, Export Excel für Bautagebuch-Anhang
 - DALUX BIM-Meldung zu SAP PM: BCF 2.1 aus Dalux zu SAP PM via Middleware, 3D-Koordinate als Meldungsattribut
 - SAP PM Auswertung MIGO Statistik: Anzahl Meldungen je Gewerk, durchschnittliche Reaktionszeit AN, Kosten Mangelbeseitigung
 
@@ -79,7 +79,7 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 
 ## Output
 
-SAP-PM-Meldungsliste vollstaendig mit allen Fotos und Status. Offene-Meldungen-Auswertung monatlich an Projektleitung. Abgeschlossene-Meldungen-Zusammenfassung mit Kosten je Gewerk. Mangelbeseitigungs-Nachweis-Dokumentation fuer Abnahmeprotokoll. SAP-PM-Equipment-Baum als Anlagenstruktur Facility Management. VOB/B § 13 Fristenkontrolle-Protokoll.
+SAP-PM-Meldungsliste vollstaendig mit allen Fotos und Status. Offene-Meldungen-Auswertung monatlich an Projektleitung. Abgeschlossene-Meldungen-Zusammenfassung mit Kosten je Gewerk. Mangelbeseitigungs-Nachweis-Dokumentation für Abnahmeprotokoll. SAP-PM-Equipment-Baum als Anlagenstruktur Facility Management. VOB/B § 13 Fristenkontrolle-Protokoll.
 
 ## Hinweise zur Qualitaetssicherung
 

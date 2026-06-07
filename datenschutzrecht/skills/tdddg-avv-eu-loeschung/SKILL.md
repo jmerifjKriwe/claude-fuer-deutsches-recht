@@ -12,11 +12,11 @@ description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, 
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-tdddg-fristen-form-und-zustaendigkeit` | Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `avv-eu-kommission-musterklauseln-2021-915` | EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Output: Strukturierter Klauselsatz fuer den internen EU-Raum. |
+| `spezial-tdddg-fristen-form-und-zuständigkeit` | Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `avv-eu-kommission-musterklauseln-2021-915` | EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Output: Strukturierter Klauselsatz für den internen EU-Raum. |
 | `avv-loeschung-rueckgabe-nach-vertragsende` | Pflicht zur Loeschung oder Rueckgabe personenbezogener Daten nach Ende des Auftragsverarbeitungsvertrags gemaess Art. 28 Abs. 3 lit. g DSGVO. Wahlrecht des Verantwortlichen Format und Nachweis Aufbewahrungsausnahmen sowie Backup- und Logfile-Behandlung. Output: Loeschkonzept-Klausel und Loeschprotokoll-Muster. |
 | `spezial-standardvertragsklauseln-mehrparteienkonflikt` | Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `standardvertragsklauseln-scc-paket` | Standardvertragsklauseln fuer Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln. |
+| `standardvertragsklauseln-scc-paket` | Standardvertragsklauseln für Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüfungslinien im Detail
 
-## 1. `spezial-tdddg-fristen-form-und-zustaendigkeit`
+## 1. `spezial-tdddg-fristen-form-und-zuständigkeit`
 
 **Fokus:** Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
@@ -75,7 +75,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `avv-eu-kommission-musterklauseln-2021-915`
 
-**Fokus:** EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Output: Strukturierter Klauselsatz fuer den internen EU-Raum.
+**Fokus:** EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Output: Strukturierter Klauselsatz für den internen EU-Raum.
 
 # EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915)
 
@@ -130,7 +130,7 @@ Anwendung und Aufbau der EU-Kommissions-Standardvertragsklauseln zwischen Verant
 
 Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptvertrag:
 
-> "Soweit der Auftragnehmer fuer den Auftraggeber personenbezogene Daten im Sinne des Art. 4 Nr. 1 DSGVO als Auftragsverarbeiter im Sinne des Art. 4 Nr. 8 DSGVO verarbeitet, gelten erganzend zum Hauptvertrag die Standardvertragsklauseln der EU-Kommission gemaess Durchfuehrungsbeschluss (EU) 2021/915 vom 04.06.2021 in der jeweils geltenden Fassung. Die Klauseln 1 bis 11 des Beschluss (EU) 2021/915 werden ohne Aenderung uebernommen; die Anhaenge I bis IV sind als Anlagen 1 bis 4 zu dieser Vereinbarung beigefuegt und integraler Bestandteil der Vereinbarung. Im Fall eines Widerspruchs zwischen einer Bestimmung des Hauptvertrags und einer Klausel des Beschluss (EU) 2021/915 gehen die Klauseln des Beschluss (EU) 2021/915 vor."
+> "Soweit der Auftragnehmer für den Auftraggeber personenbezogene Daten im Sinne des Art. 4 Nr. 1 DSGVO als Auftragsverarbeiter im Sinne des Art. 4 Nr. 8 DSGVO verarbeitet, gelten erganzend zum Hauptvertrag die Standardvertragsklauseln der EU-Kommission gemaess Durchfuehrungsbeschluss (EU) 2021/915 vom 04.06.2021 in der jeweils geltenden Fassung. Die Klauseln 1 bis 11 des Beschluss (EU) 2021/915 werden ohne Aenderung uebernommen; die Anhaenge I bis IV sind als Anlagen 1 bis 4 zu dieser Vereinbarung beigefuegt und integraler Bestandteil der Vereinbarung. Im Fall eines Widerspruchs zwischen einer Bestimmung des Hauptvertrags und einer Klausel des Beschluss (EU) 2021/915 gehen die Klauseln des Beschluss (EU) 2021/915 vor."
 
 ## Typische Drafting-Fehler
 
@@ -138,7 +138,7 @@ Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptver
 - Klauseln werden im Text geaendert (Klausel 2 verbietet das ausdruecklich).
 - Anhaenge bleiben leer oder enthalten Verweise statt konkreter Inhalte.
 - Inkorporation nur "soweit anwendbar" – das schwaecht die Bindungswirkung.
-- Es wird vergessen, dass die SCC nach Beschluss (EU) 2021/915 nicht im Verhaeltnis Verantwortlicher / Verantwortlicher gelten (dafuer waeren die C2C-Module aus Beschluss 2021/914 zu verwenden, allerdings nur bei Drittlandbezug).
+- Es wird vergessen, dass die SCC nach Beschluss (EU) 2021/915 nicht im Verhaeltnis Verantwortlicher / Verantwortlicher gelten (dafür waeren die C2C-Module aus Beschluss 2021/914 zu verwenden, allerdings nur bei Drittlandbezug).
 
 ## Querverweise
 
@@ -205,7 +205,7 @@ Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, 
 4. **Aufbewahrungsausnahmen.**
  - § 257 HGB, § 147 AO: 10 Jahre, 6 Jahre.
  - § 50 BDSG: bis Zweckerreichung beendet.
- - § 195 BGB i.V.m. § 199 BGB: Verjaehrungsablauf abwarten.
+ - § 195 BGB i.V.m. § 199 BGB: Verjährungsablauf abwarten.
  - Sicherstellen: Aufbewahrungsdaten sind separiert, zugriffsbeschraenkt und nicht weiter verarbeitet (Sperrung).
 
 5. **Nachweis.**
@@ -219,13 +219,13 @@ Klausel zu Loeschung und Rueckgabe:
 
 > "§ X Beendigung der Verarbeitung
 >
-> (1) Nach Beendigung der Erbringung der Verarbeitungsleistungen entscheidet der Verantwortliche innerhalb von dreissig (30) Kalendertagen, ob die personenbezogenen Daten zurueckgegeben oder geloescht werden sollen. Der Verantwortliche kann fuer verschiedene Datenbestaende unterschiedliche Optionen waehlen.
+> (1) Nach Beendigung der Erbringung der Verarbeitungsleistungen entscheidet der Verantwortliche innerhalb von dreissig (30) Kalendertagen, ob die personenbezogenen Daten zurueckgegeben oder geloescht werden sollen. Der Verantwortliche kann für verschiedene Datenbestaende unterschiedliche Optionen waehlen.
 >
 > (2) Bei Wahl der Rueckgabe uebergibt der Auftragsverarbeiter die personenbezogenen Daten innerhalb von dreissig (30) Kalendertagen in einem strukturierten, gaengigen und maschinenlesbaren Format an einen vom Verantwortlichen benannten Empfaenger. Die Uebertragung erfolgt verschluesselt nach dem Stand der Technik.
 >
 > (3) Bei Wahl der Loeschung loescht der Auftragsverarbeiter die personenbezogenen Daten innerhalb von dreissig (30) Kalendertagen vollstaendig und unwiederbringlich. Backups werden in der naechsten regulaeren Backup-Rotation, spaetestens jedoch innerhalb von neunzig (90) Kalendertagen, ueberschrieben oder geloescht. Die Loeschung erfolgt nach DIN 66399 mindestens nach Schutzklasse 2.
 >
-> (4) Soweit Unionsrecht oder Recht eines Mitgliedstaats die weitere Speicherung der personenbezogenen Daten vorschreibt (insbesondere § 257 HGB, § 147 AO), bleibt der Auftragsverarbeiter berechtigt, die betroffenen Datensaetze fuer die gesetzliche Aufbewahrungsdauer in einem zugriffsbeschraenkten, ausschliesslich der Erfuellung der gesetzlichen Pflicht dienenden Bereich vorzuhalten. Der Auftragsverarbeiter dokumentiert Datenart, Rechtsgrundlage und Aufbewahrungsdauer und loescht die Daten unverzueglich nach Ablauf der Aufbewahrungspflicht.
+> (4) Soweit Unionsrecht oder Recht eines Mitgliedstaats die weitere Speicherung der personenbezogenen Daten vorschreibt (insbesondere § 257 HGB, § 147 AO), bleibt der Auftragsverarbeiter berechtigt, die betroffenen Datensaetze für die gesetzliche Aufbewahrungsdauer in einem zugriffsbeschraenkten, ausschliesslich der Erfuellung der gesetzlichen Pflicht dienenden Bereich vorzuhalten. Der Auftragsverarbeiter dokumentiert Datenart, Rechtsgrundlage und Aufbewahrungsdauer und loescht die Daten unverzueglich nach Ablauf der Aufbewahrungspflicht.
 >
 > (5) Der Auftragsverarbeiter dokumentiert die Loeschung oder Rueckgabe in einem schriftlichen Protokoll, das dem Verantwortlichen innerhalb von zehn (10) Kalendertagen nach Abschluss der Massnahme vorzulegen ist. Das Protokoll enthaelt Datum, Datenarten, Mengenangaben, Loeschmethode und die verantwortliche Person.
 >
@@ -318,7 +318,7 @@ SCC bringen Standardisierung, aber starre Klauseln. Bei sensiblen Daten oder hoh
 
 ## 5. `standardvertragsklauseln-scc-paket`
 
-**Fokus:** Standardvertragsklauseln fuer Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln.
+**Fokus:** Standardvertragsklauseln für Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln.
 
 # Standardvertragsklauseln-SCC-Paket
 

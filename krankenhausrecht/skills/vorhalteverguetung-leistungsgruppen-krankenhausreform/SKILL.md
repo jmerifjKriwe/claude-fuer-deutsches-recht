@@ -28,7 +28,7 @@ Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendig
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegen LG-Zuweisungen des Landes vor?
 - Wie ist die Casemix-Historie der vergangenen drei Jahre?
-- Welche Vorhalteanteile sind fuer welche LG aktuell relevant?
+- Welche Vorhalteanteile sind für welche LG aktuell relevant?
 - Wie wirkt die Konvergenz auf das laufende Budget?
 - Gibt es Mehrleistungen, Strukturveraenderungen, neue LG?
 
@@ -40,11 +40,11 @@ Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendig
 - **BMG-/InEK-Hinweise** zur LG-Casemix-Berechnung und Vorhalteanteil-Bestimmung.
 - **PrEV/Pflegebudget** bleibt separat.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **LG-Zuweisung dokumentieren:** Welche LG hat die Klinik? Welche Mengen sind erbracht?
 2. **Vorhalteanteil je LG berechnen:** Bundesweit normierter Anteil x Casemix-Volumen der Klinik.
 3. **Konvergenzpfad anwenden:** 2025: 0 %, 2026: 20 % (Schaetzung, abhaengig von KHVVG-Konkretisierungen), 2027: 60 %.
-4. **DRG-Restanteil pruefen:** DRG bleibt fuer den verbleibenden Anteil; weiterhin Casemix-relevant.
+4. **DRG-Restanteil pruefen:** DRG bleibt für den verbleibenden Anteil; weiterhin Casemix-relevant.
 5. **Budget-Auswirkungen modellieren:** Vorher/Nachher-Vergleich pro LG; Liquiditaetseffekt.
 6. **AEB anpassen:** Vorhalteanteile in Budgetvereinbarung gesondert ausweisen.
 
@@ -59,7 +59,7 @@ Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendig
 
 ## Praxistipps
 - Vorhalteverguetung **kompensiert keinen Casemix-Rueckgang** — Mengen weiterhin abrechnen.
-- Konvergenz wirkt asymmetrisch: profitabel fuer Kliniken mit hohem Fixkostenanteil und niedriger Auslastung.
+- Konvergenz wirkt asymmetrisch: profitabel für Kliniken mit hohem Fixkostenanteil und niedriger Auslastung.
 - 60 %-Vorhalteziel ist politisch; tatsaechliche Implementierung kann sich verzoegern (Live-Check BMG).
 - Bei LG-Verlust: Vorhaltebudget faellt schrittweise weg, Personaldispositionen anpassen.
 - Verhandlung 2026 ist die erste mit substanziellem Vorhalteanteil — gute Datengrundlage wichtig.

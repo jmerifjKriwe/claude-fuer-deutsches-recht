@@ -39,7 +39,7 @@ Zwischen 1949 und 1990 entwickelten sich in Deutschland zwei parallele Rechtssys
 
 1. War das DDR-Familienrecht in bestimmten Aspekten fortschrittlicher als das BRD-Recht?
 2. DDR-Strafrecht und politische Verfolgung: War es ein Rechtssystem?
-3. DDR-Eigentumsrecht: Brachte es fuer Buerger mehr oder weniger Sicherheit als GG Art. 14?
+3. DDR-Eigentumsrecht: Brachte es für Buerger mehr oder weniger Sicherheit als GG Art. 14?
 4. Einigungsvertrag: Welches DDR-Recht haette man behalten sollen?
 5. Personalkaontinuitaet: DDR-Richter und -Staatsanwaelte nach 1990
 

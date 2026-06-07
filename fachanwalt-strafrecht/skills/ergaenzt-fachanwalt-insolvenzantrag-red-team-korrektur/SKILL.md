@@ -107,7 +107,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Geschaedigter / Nebenklage § 395 StPO:** Antrag Anschluss; Antragsdelikte (§§ 174-184k StGB, § 230 StGB, § 263a StGB); Zeugnis-Beistand § 68b StPO.
  - **Adhaesionsverfahren §§ 403-406c StPO:** zivilrechtliche Anspruchsverfolgung im Strafverfahren.
  - **Zeuge:** §§ 52 StPO Angehoerigenzeugnis; § 55 StPO Auskunftsverweigerung; Zeugnisbeistand.
- - **Klageerzwingung § 172 StPO:** Verletzter beantragt Erhebung der oeffentlichen Klage.
+ - **Klageerzwingung § 172 StPO:** Verletzter beantragt Erhebung der öffentlichen Klage.
 - **Verfahrensstand-Triage:**
  - **Ermittlungsverfahren:** Akteneinsicht § 147 StPO; Stellungnahme StA; Schweigerecht § 136 StPO.
  - **Zwischenverfahren §§ 199-211 StPO:** Eroeffnungsbeschluss-Pruefung; Einwaende § 201 StPO; Hilfsbeweisantraege.

@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -110,7 +110,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. Welche Workstreams sind im Scope der W&I (Legal, Tax, Environmental, Financial)?
 4. Kenntnis-Definition: "Best Knowledge" oder "Actual Knowledge" des Verkaefers?
 5. Retention / Selbstbehalt: De-Minimis, Basket (Tipping vs. Deductible), Cap (Underwriting Limit)?
-6. Underwriting-Zeitplan: Minimum 2 Wochen fuer Underwriting nach vollstaendigem DD-Report?
+6. Underwriting-Zeitplan: Minimum 2 Wochen für Underwriting nach vollstaendigem DD-Report?
 7. Sind Fundamental Warranties (Title, Authority, Kapitalstruktur) mit laengerem Zeitlimit versichert?
 
 ## Zentrale Regelwerke
@@ -118,7 +118,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Versicherungsvertragsgesetz (VVG)** — §§ 1-20 VVG allgemeine Versicherungspflichten; § 21 VVG vorvertragliche Anzeigepflicht
 - **W&I-Marktstandard (deutsch/englisch)** — Keine gesetzliche Spezialregelung; Marktstandard nach BIPAR, LMA, GDV
 - **SPA-Schnittstelle** — Vertragsklausel: "Kaeufer-Policy erhaeltlich; Verkaefer-Haftung auf Betrag X beschraenkt (Excess unter Policy)"
-- **Tax W&I / Tax-Indemnity** — separates Instrument fuer bekannte Steuerrisiken; nicht unter allgemeiner W&I
+- **Tax W&I / Tax-Indemnity** — separates Instrument für bekannte Steuerrisiken; nicht unter allgemeiner W&I
 
 ## Aktuelle Rechtsprechung
 
@@ -162,7 +162,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Pension Deficits | Unterdeckung bei Pensionsverpflichtungen | Separate Pension Indemnity im SPA |
 | Tax W&I | Nur allgemein; bekannte Tax-Risiken | Separate Tax-Indemnity im SPA |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **W&I-Entscheidung** — sinnvoll? Transaktionsvolumen, Verkaefer-Typ (PE), DD-Qualitaet
 2. **Broker beauftragen** — spezialisierter W&I-Broker (Willis, AON, Lockton, Marsh)
@@ -182,8 +182,8 @@ Transaktionsvolumen > 15 Mio. EUR EV?
  → Ja: Verkaefer = PE-Fonds oder Insolvenzmasse?
  → Ja: W&I fast immer sinnvoll (PE will Clean Exit)
  → Nein: DD-Ergebnis: Erhebliche bekannte Risiken?
- → Ja: W&I fuer unbekannte Risiken; Indemnities fuer bekannte
- → Nein: W&I als kosteneffizienter Ersatz fuer Haeftungsrisiko
+ → Ja: W&I für unbekannte Risiken; Indemnities für bekannte
+ → Nein: W&I als kosteneffizienter Ersatz für Haeftungsrisiko
  → Nein: W&I wirtschaftlich meist nicht sinnvoll (Mindestpraemie)
 ```
 

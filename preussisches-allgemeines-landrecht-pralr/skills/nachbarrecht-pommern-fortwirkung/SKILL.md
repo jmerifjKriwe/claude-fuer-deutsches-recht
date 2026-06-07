@@ -32,7 +32,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ### Schluesselparagraphen
 - **ALR I 23 §§ 1-30**: Allgemeine Nachbarrechte; Grenzbaeume, Grenzhecken (Grenzbaum gehoert beiden Nachbarn anteilig).
-- **ALR I 23 §§ 35-50**: Immissionen — Rauch, Geruch, Gewerbedaempfe; Untersagung nur, wenn "uebermaessige Beeintraechtigung".
+- **ALR I 23 §§ 35-50**: Immissionen — Rauch, Geruch, Gewerbedaempfe; Untersagung nur, wenn "uebermäßige Beeintraechtigung".
 - **ALR I 23 §§ 80 ff.**: Notweg ueber Nachbarsgrundstueck bei eingeschlossener Lage; Entschaedigung.
 - **ALR I 23 §§**: Traufrecht — Wasser darf von Hausdach auf Nachbarsgrundstueck fliessen, sofern keine wesentliche Schaedigung.
 
@@ -42,11 +42,11 @@ ALR-Loesung: ALR I 23 §§ 80 ff. — Notwegrecht; Pflicht des Nachbarn zur Duld
 
 ### Subsumtionsbeispiel: Rauchimmissionen einer Schmiede 1850
 Sachverhalt: Schmiede in einem Dorf; Nachbarn beklagen sich.
-ALR-Loesung: ALR I 23 §§ 35-50 — Beurteilung nach Ortsueblichkeit; bei "uebermaessiger Beeintraechtigung" Untersagungsanspruch oder Entschaedigung. Vorlaeufer § 906 BGB.
+ALR-Loesung: ALR I 23 §§ 35-50 — Beurteilung nach Ortsueblichkeit; bei "uebermäßiger Beeintraechtigung" Untersagungsanspruch oder Entschaedigung. Vorlaeufer § 906 BGB.
 
 ### Pommern-Spezifikum
 - Pommersche Gueter mit jahrhundertelangen Servituten waren bis 1945 Hauptanwendungsfall.
-- Nach 1945 in der DDR Bodenreform; nach Wiedervereinigung Eigentumsfragen ueber das Vermoegensgesetz und Sachenrechtsbereinigungsgesetz.
+- Nach 1945 in der DDR Bodenreform; nach Wiedervereinigung Eigentumsfragen ueber das Vermögensgesetz und Sachenrechtsbereinigungsgesetz.
 
 ### Heutige Fortwirkung
 - § 906 BGB Immissionen.

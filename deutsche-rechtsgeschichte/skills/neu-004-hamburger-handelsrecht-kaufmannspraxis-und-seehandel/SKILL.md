@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis 
 
 Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel.
 
 ## Aufgabe
 
-Skill fuer das Hamburger Handels- und Seerecht im 18./19. Jahrhundert bis zur Reichsvereinheitlichung.
+Skill für das Hamburger Handels- und Seerecht im 18./19. Jahrhundert bis zur Reichsvereinheitlichung.
 
 ## Hamburger Tradition
 
@@ -31,8 +48,8 @@ Skill fuer das Hamburger Handels- und Seerecht im 18./19. Jahrhundert bis zur Re
 
 - **Hamburger Stadtrecht 1605** (gedruckt) — wesentliche Privatrechts- und Handelsregeln.
 - **Wechselordnung Hamburg 1711, 1786** — Vorlaeufer der Allgemeinen Deutschen Wechselordnung 1848.
-- **Seerecht** Hamburg: Beruehmt fuer die Pruefung von Schiffsschaeden, Havarie und Pirate-Faellen.
-- **Boersengericht**: spezielle Gerichtsbarkeit fuer Boersenstreitigkeiten.
+- **Seerecht** Hamburg: Beruehmt für die Pruefung von Schiffsschaeden, Havarie und Pirate-Faellen.
+- **Boersengericht**: spezielle Gerichtsbarkeit für Boersenstreitigkeiten.
 - **Versicherungsrecht**: Hamburg fuehrend in der Praxis (London und Amsterdam parallel).
 
 ## Internationale Bezuege
@@ -50,8 +67,8 @@ Skill fuer das Hamburger Handels- und Seerecht im 18./19. Jahrhundert bis zur Re
 
 ## Heutige Spuren
 
-- Hanseatisches Oberlandesgericht Hamburg fuer Seerechtssachen.
-- Hamburger Schiedsgerichtsbarkeit (insb. fuer internationale Seefrachtstreitigkeiten).
+- Hanseatisches Oberlandesgericht Hamburg für Seerechtssachen.
+- Hamburger Schiedsgerichtsbarkeit (insb. für internationale Seefrachtstreitigkeiten).
 - Norddeutsche Versicherungspraxis als Erbe.
 
 ## Subsumtionsbeispiel: Generalhavarie 1820

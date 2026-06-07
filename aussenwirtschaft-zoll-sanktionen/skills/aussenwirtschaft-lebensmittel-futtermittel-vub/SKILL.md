@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-lebensmittel-futtermittel-vub
-description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen fuer Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen für Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschraenkungen und Grenzkontrolle
 
 ## Arbeitsbereich
 
-Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen fuer Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen für Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermittel
 
 1. Produkt nach VO (EG) 178/2002 und VO (EG) 853/2004 einordnen; tierischen oder pflanzlichen Ursprungs?
 2. Bestimmung des Grenzuebergangsstelle mit amtlicher Kontrollstelle (BVVG-Liste).
-3. RASFF-Datenbank auf aktuell laufende Warnungen fuer Produkt/Ursprungsland pruefen.
+3. RASFF-Datenbank auf aktuell laufende Warnungen für Produkt/Ursprungsland pruefen.
 4. Veterinar-/Phytosanitaere Zertifikate aus Exportland beschaffen.
 5. IMPORT-Voranmeldung im TRACES NT-System vornehmen.
 6. Probennahme und Laboranalyse planen; Lieferverzugsrisiko einkalkulieren.
@@ -36,15 +36,15 @@ Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermittel
 
 - **VO (EG) 178/2002**: Allgemeines Lebensmittelrecht, Sicherheitsanforderungen.
 - **VO (EU) 2017/625**: Amtliche Kontrollen bei Einfuhr; Grenzkontrollstellen.
-- **VO (EG) 853/2004**: Hygieneanforderungen fuer Lebensmittel tierischen Ursprungs.
+- **VO (EG) 853/2004**: Hygieneanforderungen für Lebensmittel tierischen Ursprungs.
 - **RL 2000/29/EG**: Pflanzenschutz-Einfuhrverbote.
 - **VO (EU) 142/2011**: Tierische Nebenprodukte (ANP); Einfuhrverbote.
 
 ## Pruef-Raster
 
 - [ ] Produkt-Einstufung (tierisch/pflanzlich) und anwendbares EU-Hygienerecht klar?
-- [ ] Grenzkontrollstelle mit amtlicher Kontrollfunktion fuer Produkt identifiziert?
-- [ ] RASFF-Warnungen fuer Produkt und Ursprungsland geprueft?
+- [ ] Grenzkontrollstelle mit amtlicher Kontrollfunktion für Produkt identifiziert?
+- [ ] RASFF-Warnungen für Produkt und Ursprungsland geprueft?
 - [ ] Gesundheits-/Veterinarzertifikate vollstaendig und aktuell?
 - [ ] TRACES NT-Voranmeldung rechtzeitig erfolgt?
 - [ ] Probennahme-Risiko in Lieferzeitplan eingeplant?
@@ -60,7 +60,7 @@ Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermittel
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Einfuhr-VuB-Checkliste fuer Lebensmittel/Futtermittel, TRACES NT-Voranmeldeprotokoll, Grenzkontrollstellen-Uebersicht und RASFF-Pruefprotokoll.
+Einfuhr-VuB-Checkliste für Lebensmittel/Futtermittel, TRACES NT-Voranmeldeprotokoll, Grenzkontrollstellen-Uebersicht und RASFF-Pruefprotokoll.
 
 ## Quellen
 

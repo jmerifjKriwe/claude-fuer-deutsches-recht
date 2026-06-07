@@ -1,13 +1,13 @@
 ---
 name: konferenzmitschnitt-zu-tagungsbericht
-description: "Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht fuer Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht für Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konferenzmitschnitt zu Tagungsbericht
 
 ## Arbeitsbereich
 
-Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht fuer Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht für Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -38,7 +38,7 @@ Sie brauchen ihn, wenn ein vollstaendiger Tagungsmitschnitt oder mehrere Einzelv
 - Diskussionsteilnehmer mit Funktion.
 - Hinweise auf "off the record"-Passagen.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Strukturskelett: Tagungsuebersicht.** Erster Block: Tagungstitel, Ort, Datum, Veranstalter, Teilnehmerzahl, Themenschwerpunkt.
 2. **Vortragsblocks anlegen.** Pro Vortrag ein Abschnitt: Vortragstitel, Vortragende mit Funktion, Hauptthesen in 200-400 Zeichen, ggf. zentrale Belegstellen.
@@ -93,7 +93,7 @@ Fazit (500-1.000 Z)
 
 ## Querverweise
 
-- `verl-audio-transkript-zu-fachbeitrag` - fuer Einzelvortrag.
+- `verl-audio-transkript-zu-fachbeitrag` - für Einzelvortrag.
 - `verl-powerpoint-verwurstung-zu-text` - wenn statt Audio nur PPTs.
 - `verl-zeitschriftenartikel-leitfaden` - Zielformat.
 - `verl-formatvorlage-check-autor-manuskript` - vor Druck.
@@ -102,8 +102,8 @@ Fazit (500-1.000 Z)
 ## Quellen Stand 06/2026
 
 - UrhG § 51 (Zitatschranke), § 63 (Quellenangabe), [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
-- KUG § 22 fuer Bildnis (Tagungsfotos).
+- KUG § 22 für Bildnis (Tagungsfotos).
 - DSGVO Art. 6.
 - Pressekodex Ziff. 2 (Sorgfalt), [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

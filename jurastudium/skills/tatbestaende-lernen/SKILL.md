@@ -40,9 +40,9 @@ description: "Tatbestaende Lernen im Jurastudium im Jurastudium: prüft konkret 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 433, 280, 823 BGB — Zivil-Kerntatbestaende fuer Drill-Lernen
-- §§ 242, 263, 212 StGB — Straf-Kerntatbestaende fuer Drill-Lernen
-- §§ 40, 42 VwGO — VwR-Grundtatbestaende fuer Drill-Lernen
+- §§ 433, 280, 823 BGB — Zivil-Kerntatbestaende für Drill-Lernen
+- §§ 242, 263, 212 StGB — Straf-Kerntatbestaende für Drill-Lernen
+- §§ 40, 42 VwGO — VwR-Grundtatbestaende für Drill-Lernen
 - §§ 133, 157 BGB — Auslegung als Querschnittskompetenz bei jedem Tatbestand
 
 ## Quellenregel
@@ -110,7 +110,7 @@ Schemata sind erlaubt — als Lernhilfsmittel, **nicht** als Klausurprodukt. Sie
 ### Öffentliches Recht
 - **§ 35 VwVfG** (VA).
 - **§§ 113, 114, 80 V VwGO** (Anfechtung, Ermessen, einstweiliger Rechtsschutz).
-- **Grundrechte** als Schichtenprüfung (siehe `methodenlehre-oeffentliches-recht`).
+- **Grundrechte** als Schichtenprüfung (siehe `methodenlehre-öffentliches-recht`).
 
 ## Karteikartenintegration
 
@@ -123,7 +123,7 @@ Diese Skill arbeitet eng mit `karteikarten`:
 
 - `subsumtionslehre` — Tatbestände werden gelernt, **damit** subsumiert werden kann.
 - `karteikarten` — Format für die abrufbaren Bausteine.
-- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-oeffentliches-recht` — Tatbestände im jeweiligen Methodenrahmen.
+- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-öffentliches-recht` — Tatbestände im jeweiligen Methodenrahmen.
 - `loesungsschemata` — Hilfsgerüst (mit Disclaimer).
 - `pruefungsgespraech-ag` — Definitionen mündlich abfragen.
 

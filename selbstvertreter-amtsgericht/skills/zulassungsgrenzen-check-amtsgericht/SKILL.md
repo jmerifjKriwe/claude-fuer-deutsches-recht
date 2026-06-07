@@ -83,7 +83,7 @@ Nach Urteil:
 [Klare Handlungsempfehlung: AG, LG/Anwalt, Rechtsantragsstelle, PKH, Streitwert nacharbeiten.]
 
 **Nächste Skills**
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg`
+- `sachliche-zuständigkeit-amtsgericht-23-gvg`
 - `anwaltszwang-pruefen-78-zpo`
 - `klage-streitwert-angabe-3-zpo`
 - `berufung-amtsgericht-511-zpo`

@@ -127,7 +127,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `bora-konformitaetspruefung` | E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit… |
 | `brao-konformitaetspruefung` | E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen… |
 | `email-eingangsanalyse` | Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Prüfraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial.… |
-| `emotionale-trigger-katalog` | Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persoenliche Angriffe… |
+| `emotionale-trigger-katalog` | Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe… |
 | `frist-und-mahnung-hoeflich` | Fristsetzungen und Mahnungen in Anwaltskorrespondenz hoeflich und dennoch rechtsverbindlich formulieren. § 286 BGB Schuldnerverzug § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Fristklarheit Verbindlichkeit Ton… |
 | `ironie-und-sarkasmus-eliminieren` | Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte… |
 | `klare-bitte-formulieren` | Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Klarheit der Bitte Unmissverstaendlichkeit Handlungsaufforderung… |
@@ -137,7 +137,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `kooperativer-abschluss` | E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz… |
 | `mehrsprachige-umformulierung` | Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit… |
 | `notare-bnotk-modus` | Korrespondenz von Notaren und Notarinnen auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Prüfraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhängigkeit… |
-| `persoenlichen-angriff-entschaerfen` | Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persoenliche Angriffe Beleidigungen… |
+| `persönlichen-angriff-entschaerfen` | Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen… |
 | `sachlichkeitsgebot-anwendung` | Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: unsachliche Formulierungen Emotionalisierung Abwertungen… |
 | `sachverhalt-neutral-darstellen` | Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Prüfraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale… |
 | `steuerberater-stberg-modus` | Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit.… |
@@ -145,9 +145,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin formuliert unfreundliche, emotionale oder berufsrechtlich problematische E-Mails in hoefliche, sachliche und berufsrechtskonforme Texte um. Im Mittelpunkt steht die Einhaltung von § 43a BRAO (Sachlichkeitsgebot) und §§ 26 ff. BORA (Kollegialitaets- und Sachlichkeitsgebot). Das Plugin deckt auch Sondermodalitaeten fuer Notare (BNotO) und Steuerberater (StBerG) ab sowie mehrsprachige Umformulierungen.
+Das Plugin formuliert unfreundliche, emotionale oder berufsrechtlich problematische E-Mails in hoefliche, sachliche und berufsrechtskonforme Texte um. Im Mittelpunkt steht die Einhaltung von § 43a BRAO (Sachlichkeitsgebot) und §§ 26 ff. BORA (Kollegialitaets- und Sachlichkeitsgebot). Das Plugin deckt auch Sondermodalitaeten für Notare (BNotO) und Steuerberater (StBerG) ab sowie mehrsprachige Umformulierungen.
 
-Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren Schriftverkehr berufsrechtlich absichern und professionell kommunizieren wollen. Das Plugin bietet sowohl Einzelschritt-Skills (z.B. Ironie eliminieren, persoenlichen Angriff entschaerfen) als auch Gesamt-Workflows (Eingangsanalyse bis fertiger Vorher-Nachher-Vergleich).
+Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren Schriftverkehr berufsrechtlich absichern und professionell kommunizieren wollen. Das Plugin bietet sowohl Einzelschritt-Skills (z.B. Ironie eliminieren, persönlichen Angriff entschaerfen) als auch Gesamt-Workflows (Eingangsanalyse bis fertiger Vorher-Nachher-Vergleich).
 
 ## Wann brauchen Sie diese Skill?
 
@@ -164,7 +164,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - **Emotionale Trigger** — Woerter oder Formulierungen, die beim Empfaenger negative Emotionen ausloesen und die Kommunikation eskalieren.
 - **Deeskalation** — Kommunikative Massnahmen, um aus einer eskalierten Korrespondenz konstruktiv herauszufinden.
 - **BORA** — Berufsordnung der Rechtsanwaelte; konkretisiert die Berufspflichten aus § 43a BRAO.
-- **BNotO** — Bundesnotarordnung; berufsrechtliche Grundlage fuer Notare, mit eigenen Sachlichkeits- und Unabhaengigkeitspflichten.
+- **BNotO** — Bundesnotarordnung; berufsrechtliche Grundlage für Notare, mit eigenen Sachlichkeits- und Unabhaengigkeitspflichten.
 - **StBerG** — Steuerberatungsgesetz; regelt Berufspflichten der Steuerberater, u.a. § 57 StBerG Allgemeine Berufspflichten.
 
 ## Rechtsgrundlagen
@@ -176,7 +176,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - § 57 StBerG — Allgemeine Berufspflichten der Steuerberater
 - § 186 StGB — Beleidigung (grenzwertige Formulierungen koennen strafrechtlich relevant sein)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. E-Mail oder Schreiben einlesen: Original-Text einspielen oder einfuegen.
 2. Eingangsanalyse durchfuehren: Tonalitaet, emotionale Trigger und Konfliktpotenzial bestimmen.
@@ -193,7 +193,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - `kollegialitaetsgebot-pruefung` — Kollegialitaetsgebot im Anwaltsverkehr pruefen und Formulierungen anpassen.
 - `emotionale-trigger-katalog` — Trigger-Woerter und -Phrasen identifizieren und neutralisieren.
 - `ironie-und-sarkasmus-eliminieren` — Ironie oder Sarkasmus erkennen und berufsrechtlich einwandfrei ersetzen.
-- `persoenlichen-angriff-entschaerfen` — Persoenliche Angriffe oder Beleidigungen durch sachliche Formulierungen ersetzen.
+- `persönlichen-angriff-entschaerfen` — Persoenliche Angriffe oder Beleidigungen durch sachliche Formulierungen ersetzen.
 - `sachverhalt-neutral-darstellen` — Sachverhalt ohne wertende Parteinahme neutral darstellen.
 - `kompetenz-zweifel-respektvoll` — Zweifel an Kompetenz oder Entscheidung respektvoll und sachlich aeussern.
 - `konfliktdeeskalation-formulierungen` — Eskalierte Korrespondenz deeskalieren; konstruktive Kommunikationsbasis herstellen.
@@ -225,7 +225,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 
 ## Querverweise
 
-- Plugin `urteilsbauer-relationsmacher` — Formelle Schriftsatz-Standards fuer gerichtliche Eingaben (andere Anforderungen als Korrespondenz).
+- Plugin `urteilsbauer-relationsmacher` — Formelle Schriftsatz-Standards für gerichtliche Eingaben (andere Anforderungen als Korrespondenz).
 - Plugin `grosskanzlei-corporate-ma` (Skill `ki-governance-berufsrecht`) — KI-Einsatz im Mandatsbereich und berufsrechtliche Absicherung.
 
 ## Quellen und Aktualitaet

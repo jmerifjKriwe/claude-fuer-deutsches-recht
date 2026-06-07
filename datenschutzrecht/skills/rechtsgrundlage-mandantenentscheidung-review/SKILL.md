@@ -15,7 +15,7 @@ description: "Rechtsgrundlage Mandantenentscheidung Review im Datenschutzrecht: 
 | `spezial-rechtsgrundlage-mandantenentscheidung` | Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-review-risikoampel-und-gegenargumente` | Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verarbeitungsverzeichnis-formular-portal-und-einreichung` | Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `tia-edpb-roadmap-6-schritte-deutsch` | EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap fuer das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen. |
+| `tia-edpb-roadmap-6-schritte-deutsch` | EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap für das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen. |
 | `tia-en-data-privacy-framework-status` | English-language assessment of the current EU-US Data Privacy Framework (DPF) as Art. 45 GDPR transfer instrument. Commission Implementing Decision (EU) 2023/1795 of 10 July 2023, Executive Order 14086 basis, listing process, HR/Non-HR coverage, onward transfers, Schrems III. Test criteria for DPF reliance and residual risk. |
 
 ## Arbeitsweg
@@ -153,18 +153,18 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `tia-edpb-roadmap-6-schritte-deutsch`
 
-**Fokus:** EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap fuer das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen.
+**Fokus:** EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap für das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen.
 
-# Sechs-Schritte-Roadmap fuer das Transfer Impact Assessment (EDPB 01/2020)
+# Sechs-Schritte-Roadmap für das Transfer Impact Assessment (EDPB 01/2020)
 
 ## Zweck
 
-Dieser Skill arbeitet die Sechs-Schritte-Roadmap aus der EDPB-Empfehlung 01/2020 (Final Version 18.06.2021) als operative Pruefkette ab. Sie ist die Standard-Architektur fuer das deutsche TIA-Dokument.
+Dieser Skill arbeitet die Sechs-Schritte-Roadmap aus der EDPB-Empfehlung 01/2020 (Final Version 18.06.2021) als operative Pruefkette ab. Sie ist die Standard-Architektur für das deutsche TIA-Dokument.
 
 ## Wann dieses Modul hilft
 
-- Erstes TIA-Dokument fuer einen konkreten Transfer.
-- Aktualisierung eines bestehenden TIA nach Provider-Wechsel oder neuer Behoerdenpraxis.
+- Erstes TIA-Dokument für einen konkreten Transfer.
+- Aktualisierung eines bestehenden TIA nach Provider-Wechsel oder neuer Behördenpraxis.
 - Vorlage gegenueber Aufsichtsbehoerde.
 - Vorbereitung einer Vertragsverhandlung mit US-Anbieter.
 - Schulung interner Reviewer.
@@ -191,7 +191,7 @@ Pruefen:
 - Welche Subprozessoren / Sub-Sub-Prozessoren?
 - Verarbeitungszwecke und Datenfluesse (auch innerhalb des Importeurs).
 
-Output: Transfer-Inventar als Tabelle (siehe Skill `ropa-art-30-controller-deutsch-vorlage` fuer Querverweis).
+Output: Transfer-Inventar als Tabelle (siehe Skill `ropa-art-30-controller-deutsch-vorlage` für Querverweis).
 
 ### Schritt 2 – Identify transfer tool
 
@@ -199,7 +199,7 @@ Ziel: Rechtsgrundlage des Transfers bestimmen.
 
 Optionen:
 
-- **Art. 45 DSGVO – Angemessenheitsbeschluss** (z. B. UK, Schweiz, Japan, Suedkorea, EU-US DPF fuer gelistete Importeure).
+- **Art. 45 DSGVO – Angemessenheitsbeschluss** (z. B. UK, Schweiz, Japan, Suedkorea, EU-US DPF für gelistete Importeure).
 - **Art. 46 DSGVO – Geeignete Garantien**:
  - SCC (Beschluss (EU) 2021/914, Module 1-4),
  - BCR (Art. 47),
@@ -215,7 +215,7 @@ Ziel: Drittlandsrecht und tatsaechliche Praxis bewerten.
 
 Pruefen:
 
-- Welche Behoerden haben Zugriffsbefugnisse?
+- Welche Behörden haben Zugriffsbefugnisse?
 - Welche Eingriffstiefe? Welche Garantien (gerichtliche Kontrolle, Anlassbezug)?
 - Empfehlung 02/2020 – Europaeische Wesentliche Garantien (EEG):
  - Garantie A: klare, praezise und vorhersehbare Regelungen.
@@ -224,7 +224,7 @@ Pruefen:
  - Garantie D: effektive Rechtsschutzmoeglichkeiten der betroffenen Person.
 - Sind die Garantien im Recht **und** in der Praxis erfuellt?
 
-Quellen fuer Bewertung: offizielle Berichte, Transparenzberichte des Importeurs, EDPB-Empfehlungen, frei zugaengliche Auswertungen.
+Quellen für Bewertung: offizielle Berichte, Transparenzberichte des Importeurs, EDPB-Empfehlungen, frei zugaengliche Auswertungen.
 
 ### Schritt 4 – Adopt supplementary measures
 
@@ -233,7 +233,7 @@ Falls Schritt 3 negativ: ergaenzende Schutzmassnahmen.
 Drei Kategorien:
 
 - **Technische Massnahmen** (oft entscheidend): starke Verschluesselung mit Key Management ausserhalb des Drittlands; Pseudonymisierung mit unkorrelierten Schluesseln; Split Processing; ueberhaupt kein Klartext-Zugriff durch Importeur.
-- **Vertragliche Massnahmen**: erweiterte Audit- und Transparenzrechte, Behoerdenanfragen-Berichtspflichten, Warrant Canary, sofortige Aussetzungspflichten.
+- **Vertragliche Massnahmen**: erweiterte Audit- und Transparenzrechte, Behördenanfragen-Berichtspflichten, Warrant Canary, sofortige Aussetzungspflichten.
 - **Organisatorische Massnahmen**: Mitarbeiterschulung, klare Eskalationsprozesse, Lieferantenbewertung, dokumentierte Anfechtungspolitik.
 
 EDPB-Anhang 2 zu Empfehlung 01/2020 listet Use Cases 1-7 (Use Case 6 und 7 ohne wirksame Schutzmassnahmen denkbar).
@@ -245,7 +245,7 @@ Wenn ergaenzende Massnahmen erforderlich:
 - AVV/DPA anpassen.
 - SCC ergaenzende Anhaenge ausfuellen (Annex I, II, III).
 - Falls SCC angepasst werden (Klauselzusatz, nicht Streichung) – Konsultation Aufsichtsbehoerde pruefen.
-- Bei BCR – Updates an die Lead-Behoerde melden.
+- Bei BCR – Updates an die Lead-Behörde melden.
 - Genehmigung beantragen, wo erforderlich.
 
 ### Schritt 6 – Re-evaluate
@@ -253,14 +253,14 @@ Wenn ergaenzende Massnahmen erforderlich:
 Erneute Pruefung bei Aenderungen:
 
 - Aenderungen im Drittlandsrecht (Gesetze, Urteile).
-- Aenderungen in der Behoerdenpraxis.
+- Aenderungen in der Behördenpraxis.
 - Aenderungen beim Importeur (Konzernstruktur, Subprozessoren, Dienste).
 - Aenderungen beim Exporteur (neue Datenarten, neue Zwecke).
 - Mindestens jaehrlich.
 
 ## Mustertext / Template
 
-Kapitelueberschriften fuer das TIA-Dokument:
+Kapitelueberschriften für das TIA-Dokument:
 
 ```
 1. Know your transfers
@@ -290,7 +290,7 @@ Kapitelueberschriften fuer das TIA-Dokument:
  5.3 Sign-off
 
 6. Re-evaluation
- 6.1 Trigger fuer Neubewertung
+ 6.1 Trigger für Neubewertung
  6.2 Naechstes Review-Datum
  6.3 Notfallaussetzungs-Prozess
 ```
@@ -307,12 +307,12 @@ Kapitelueberschriften fuer das TIA-Dokument:
 
 ## Querverweise
 
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` fuer rechtliche Grundlage.
-- `tia-us-fisa-702-und-eo-12333-bewertung` fuer US-Spezifik.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` fuer Schritt 4.
-- `tia-laender-bewertung-china-india-brazil-uk` fuer weitere Laender.
-- `tia-template-deutsch-vollvorlage` fuer das Vollvorlage-Dokument.
-- `tia-en-six-step-roadmap` fuer englische Fassung.
+- `tia-schrems-ii-eugh-c-311-18-grundlagen` für rechtliche Grundlage.
+- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Spezifik.
+- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Schritt 4.
+- `tia-laender-bewertung-china-india-brazil-uk` für weitere Länder.
+- `tia-template-deutsch-vollvorlage` für das Vollvorlage-Dokument.
+- `tia-en-six-step-roadmap` für englische Fassung.
 
 ## Quellen Stand 06/2026
 

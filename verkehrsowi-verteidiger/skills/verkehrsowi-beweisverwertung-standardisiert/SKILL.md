@@ -23,7 +23,7 @@ Prüfungslinie für verkehrsowi beweisverwertung standardisiert: prüft Normtext
 2. **Welche konkreten Angriffspunkte auf die Messung gibt es?** — Pauschales Bestreiten genuegt nicht um das standardisierte Verfahren zu erschuettern.
 3. **Rohmessdaten angefordert?** — BVerfG-Linie zum Recht auf Zugang zu vorhandenen Daten (Beschl. v. 12.11.2020, 2 BvR 1616/18; Beschl. v. 20.6.2023, 2 BvR 1167/20 — bundesverfassungsgericht.de).
 4. **Sachverstaendigenantrag gestellt?** — § 77 Abs. 2 OWiG: Gericht darf nur ablehnen wenn Antrag missbräuchlich oder Beweisthema nicht entscheidungserheblich.
-5. **Fahreridentifikation aus Messfoto eindeutig?** — Lichtbild-Qualitaet prufen; Sachverstaendiger fuer biometrischen Vergleich moeglich.
+5. **Fahreridentifikation aus Messfoto eindeutig?** — Lichtbild-Qualitaet prufen; Sachverstaendiger für biometrischen Vergleich moeglich.
 
 ## Zentrale Normen
 
@@ -75,10 +75,10 @@ FAHRERIDENTIFIKATION:
 
 SACHVERSTAENDIGENANTRAG (§ 77 Abs. 2 OWiG):
 - Konkrete Angriffspunkte benennen: Eichfehler, Bedienungsfehler, Reflexion
-- Antrag konkret: Sachverstaendiger fuer [GERAET], Beweisthema: [THEMA]
+- Antrag konkret: Sachverstaendiger für [GERAET], Beweisthema: [THEMA]
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Messgeraet und -verfahren identifizieren.**
 2. **Angriffspunkte pruefen** (s. Checkliste).

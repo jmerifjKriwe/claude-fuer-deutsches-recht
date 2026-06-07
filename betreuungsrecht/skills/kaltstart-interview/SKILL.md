@@ -7,7 +7,7 @@ description: "Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das 
 
 ## Ablauf
 
-1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md` prüfen.
+1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/betreuungsrecht/CLAUDE.md` prüfen.
 2. Falls vorhanden und ohne `[PLATZHALTER]`-Marker: bestätigen, dass das Praxisprofil schon befüllt ist, und Modus erfragen (`--redo` für vollständiges Neu-Interview).
 3. Falls nicht vorhanden oder mit Platzhaltern: das Kaltstart-Interview unten durchführen.
 4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
@@ -71,7 +71,7 @@ Bekannte Bereiche, in denen regelmäßig Genehmigungen erforderlich sind:
 
 ## Ausgabe
 
-Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md` geschrieben. Anschließend zeigen:
+Das Praxisprofil wird in `~/.claude/plugins/config/claude-für-deutsches-recht/betreuungsrecht/CLAUDE.md` geschrieben. Anschließend zeigen:
 
 - Was eingerichtet wurde (Zusammenfassung der Antworten)
 - Welche Skills jetzt sinnvoll als nächstes laufen können:

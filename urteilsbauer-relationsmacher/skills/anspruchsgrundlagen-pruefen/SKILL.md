@@ -75,7 +75,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. Rechtsfolge
 4. Einwendungen (rechtshindernd, rechtsvernichtend)
 5. Einreden (durchsetzbarkeitshemmend)
-6. Verjaehrung (Paragraf 195 BGB, Paragraf 199 BGB, Paragraf 438 BGB usw.)
+6. Verjährung (Paragraf 195 BGB, Paragraf 199 BGB, Paragraf 438 BGB usw.)
 
 ## IPR
 

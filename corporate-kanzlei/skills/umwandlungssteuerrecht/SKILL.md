@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -135,9 +135,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 | Voraussetzung | Rechtsgrundlage | Pruefung |
 |---|---|---|
-| Antrag auf Buchwertfortfuehrung | §§ 11 I, 20 II, 24 II UmwStG | Antrag vor Abgabe Steuererklaerung; spaetestens mit Steuerklaerung fuer Uebertragungsjahr |
+| Antrag auf Buchwertfortfuehrung | §§ 11 I, 20 II, 24 II UmwStG | Antrag vor Abgabe Steuererklaerung; spaetestens mit Steuerklaerung für Uebertragungsjahr |
 | Uebertragende Gesellschaft EU/EWR | § 1 II, IV UmwStG | Drittland-Umwandlungen ausgeschlossen |
-| Betrieb/Teilbetrieb oder Anteil | §§ 20, 24 UmwStG | Einzelwirtschaftsgut reicht nicht fuer § 20 |
+| Betrieb/Teilbetrieb oder Anteil | §§ 20, 24 UmwStG | Einzelwirtschaftsgut reicht nicht für § 20 |
 | Keine Entstrickung | §§ 11, 13 UmwStG | Deutsches Besteuerungsrecht bleibt erhalten |
 | Sperrfrist eingehalten | § 22 UmwStG | 7 Jahre bei Einbringung; jaehrliche Meldepflicht |
 
@@ -158,14 +158,14 @@ Das Konzernprivileg befreit Umstrukturierungen im Konzern von der GrESt, wenn:
 
 Praxisproblem: Konzernumstrukturierungen koennen GrESt-Befreiung durch spaetere Anteilsveraeusserungen innerhalb der Nachbehaltefrist verlieren.
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Strukturplanung mit Steuerberater** — Umwandlungsart und Steueroptimierung abstimmen; LOI/Term Sheet pruefen
 2. **Buchwertfortfuehrungsantrag vorbereiten** — Form und Inhalt gemaess §§ 11, 20, 24 UmwStG
 3. **Verlustvortraege pruefen** — § 8c KStG Risiko bei Anteilsaenderungen; Sanierungsklausel?
 4. **GrESt-Analyse** — § 6a GrEStG Konzernprivileg; Vorbehalte- und Nachbehaltefrist-Kalender
 5. **Entstrickungsrisiko ausschliessen** — deutsches Besteuerungsrecht bleibt erhalten?
-6. **Steuererklaerung fuer Uebertragungsjahr** — Antrag auf Buchwert bis Abgabe stellen
+6. **Steuererklaerung für Uebertragungsjahr** — Antrag auf Buchwert bis Abgabe stellen
 7. **Sperrfrist-Kalender anlegen** — jaehrliche Meldepflichten eintragen
 8. **Post-Closing Monitoring** — Einhaltung Sperrfristen; GrESt-Nachbehaltefristen; aenderungen unverzueglich analysieren
 

@@ -1,19 +1,19 @@
 ---
 name: erhaltung-modernisierung-kfw-foerderung
-description: "Erhaltung Modernisierung KFW Foerderung im Plugin Weg Hausverwaltung: prüft konkret Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erhaltung Modernisierung KFW Förderung im Plugin Weg Hausverwaltung: prüft konkret Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Erhaltung Modernisierung KFW Foerderung
+# Erhaltung Modernisierung KFW Förderung
 
 ## Arbeitsbereich
 
-**Erhaltung Modernisierung KFW Foerderung** ordnet den Fall über die tragenden Prüfungslinien: Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+**Erhaltung Modernisierung KFW Förderung** ordnet den Fall über die tragenden Prüfungslinien: Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `erhaltung-modernisierung-baumaengel` | Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen, Gutachten, Sofortmaßnahmen, Beschlussbedarf und Kommunikation mit Eigentümern (Stand 05/2026). Berücksichtigt GEG § 71 (65 % erneuerbare Energien beim Heizungstausch) und CO2KostAufG bei Heizungsentscheidungen. |
-| `kfw-foerderung-pflegekasse-bafa-barriere-koordination` | Foerderungs-Koordination fuer Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln. |
+| `kfw-foerderung-pflegekasse-bafa-barriere-koordination` | Förderungs-Koordination für Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln. |
 | `abrechnung-ist-plan-mieterschnittstelle` | Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt § 28 WEG-Nachschüsse/Vorschussanpassung von mietrechtlicher Betriebskostenabrechnung, prüft Ist-/Plan-Abweichungen, Umlagefähigkeit, Gewerbeanteile, Belege, Heizkosten/CO2 und Eigentümerdatenpakete. |
 
 ## Arbeitsweg
@@ -118,7 +118,7 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 
 ## 2. `kfw-foerderung-pflegekasse-bafa-barriere-koordination`
 
-**Fokus:** Foerderungs-Koordination fuer Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln.
+**Fokus:** Förderungs-Koordination für Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln.
 
 # KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren
 

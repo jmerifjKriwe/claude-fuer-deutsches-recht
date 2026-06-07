@@ -40,7 +40,7 @@ Prüfe geltend gemachte Fahrtkosten auf Normkonformität nach §§ 5–7 JVEG: V
 
 ## Rechtsstand 2025/2026 — KostRAeG 2025
 
-Mit dem Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) sind zum 01.06.2025 die Honorarsaetze des JVEG fuer Sachverstaendige in Anlage 1 zu § 9 JVEG pauschal um 9 Prozent erhoeht worden. Die neuen Saetze gelten nur fuer Auftraege ab 01.06.2025; in Altverfahren bleiben die alten Saetze.
+Mit dem Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) sind zum 01.06.2025 die Honorarsaetze des JVEG für Sachverstaendige in Anlage 1 zu § 9 JVEG pauschal um 9 Prozent erhoeht worden. Die neuen Saetze gelten nur für Auftraege ab 01.06.2025; in Altverfahren bleiben die alten Saetze.
 
 - Synopse JVEG 2025: https://ifsforum.de/fileadmin/user_upload/Aktuelles/Synopse_JVEG__2025.pdf
 - Praxis-Hinweis Sachverstaendigenverguetung: https://praxis-grundstuecksbewertung.de/wissenswert/gesetzgebung/jveg-verguetung-sachverstaendige/
@@ -55,7 +55,7 @@ Mit dem Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) sind z
 
 ## Rechtsprechung
 - Aktuelle Rechtsprechung zu § 5 JVEG vor Ausgabe ueber https://dejure.org pruefen.
-- BGH-Linie Sachverstaendigenverguetung: Senat fuer Anwaltssachen sowie I., VII., IV. Zivilsenat zustaendig je nach Sachgebiet; Aktenzeichen vor Uebernahme verifizieren.
+- BGH-Linie Sachverstaendigenverguetung: Senat für Anwaltssachen sowie I., VII., IV. Zivilsenat zuständig je nach Sachgebiet; Aktenzeichen vor Uebernahme verifizieren.
 
 ## Quellenregel
 

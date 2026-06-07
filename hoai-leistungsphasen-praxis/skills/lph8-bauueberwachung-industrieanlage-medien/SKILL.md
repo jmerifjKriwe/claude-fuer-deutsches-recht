@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-industrieanlage-medien
-description: "Bauueberwachung nach HOAI LPH 8 fuer Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unterstuetzt Bauueberwacher mit SAP-PM-EAM-Integration fuer Instandhaltungsbeauftragten im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unterstuetzt Bauueberwacher mit SAP-PM-EAM-Integration für Instandhaltungsbeauftragten im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Industrieanlage Medien (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unterstuetzt Bauueberwacher mit SAP-PM-EAM-Integration fuer Instandhaltungsbeauftragten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unterstuetzt Bauueberwacher mit SAP-PM-EAM-Integration für Instandhaltungsbeauftragten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

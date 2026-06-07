@@ -226,7 +226,7 @@ KLAUSEL-PRUEFUNG (Auswahl):
 | Klausel | Anbieter-Position | Unsere Position | Schweregrad |
 |---|---|---|---|
 | Training auf Daten | [ANBIETERTEXT] | Kein Training | [STATUS] |
-| Haftung fuer Ausgaben | [ANBIETERTEXT] | § 307 BGB | [STATUS] |
+| Haftung für Ausgaben | [ANBIETERTEXT] | § 307 BGB | [STATUS] |
 | Art. 25 KI-VO Pflichten | [ANBIETERTEXT] | Klar geregelt | [STATUS] |
 | DSGVO Art. 28 AVV | [STATUS] | Erforderlich | [STATUS] |
 

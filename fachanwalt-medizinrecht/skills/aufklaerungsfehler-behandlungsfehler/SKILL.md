@@ -124,7 +124,7 @@ bogen ist Standardformular ohne individuelle Eintragungen.
 II. Rechtliche Bewertung
 Die Behandlung ist mangels wirksamer Einwilligung als rechtswidriger
 Eingriff in die koerperliche Unversehrtheit § 823 Abs. 1 BGB
-einzuordnen. Beweislast fuer ordnungsgemaesse Aufklaerung traegt
+einzuordnen. Beweislast für ordnungsgemaesse Aufklaerung traegt
 gemaess § 630h Abs. 2 BGB die Klinik.
 
 III. Hypothetische Einwilligung
@@ -142,7 +142,7 @@ IV. Schaden
 
 V. Forderung
 Anerkennung dem Grunde nach binnen vier Wochen, Vorschuss EUR ____.
-Verjaehrungsverzichtserklaerung erbeten bis [Datum + 12 Monate].
+Verjährungsverzichtserklaerung erbeten bis [Datum + 12 Monate].
 
 Anlagen:
 - Aufklaerungsbogen Kopie
@@ -196,7 +196,7 @@ Anlagen:
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 <!-- AUDIT 27.05.2026
-Datum 28.01.2014 fuer ein 2015-AZ unmoeglich (chronologischer Widerspruch).
+Datum 28.01.2014 für ein 2015-AZ unmoeglich (chronologischer Widerspruch).
 Ersatz: BGH VI ZR 323/04 (13.06.2006, BGHZ 168, 103) — verifiziert auf dejure.org;
 betrifft Aufklaerungspflicht bei Neulandmethode (Robodoc-Operation), inhaltlich passend.
 -->
@@ -346,8 +346,8 @@ IV. Forderung
 Anerkennung dem Grunde nach und Vorschuss EUR ____
 binnen vier Wochen.
 
-V. Verjaehrung
-Wir bitten um Verjaehrungsverzichtserklaerung bis [Datum + 12 Monate].
+V. Verjährung
+Wir bitten um Verjährungsverzichtserklaerung bis [Datum + 12 Monate].
 
 Anlagen: Behandlungsdokumentation, aerztl. Atteste, Vollmacht
 

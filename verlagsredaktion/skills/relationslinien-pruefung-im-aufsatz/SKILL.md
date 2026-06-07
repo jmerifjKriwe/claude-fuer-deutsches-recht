@@ -36,7 +36,7 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 - Hauptthese der Autorin (aus Abstract oder Einleitung).
 - Bei laengeren Aufsaetzen: vorhandene Schemata, Tabellen, Schaubilder.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **These extrahieren.** Auf einer Karteikarte in einem Satz festhalten. Wenn das nicht moeglich ist, ist die These unklar.
 2. **Argumentkette auflisten.** Pro Kapitel die zentralen Argumente in 1-2 Saetzen.
@@ -59,7 +59,7 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 
 - "Die wichtigste Frage: Was wuerde die Klausur-Korrektorin schreiben, wenn das eine Hausarbeit waere?"
 - Zirkelschluesse erkennt man, wenn man die Argumentation in eine Kette zerlegt: A -> B -> C. Wenn C wieder A braucht, ist es ein Zirkel.
-- Gegenpositionen werden gerne in Fussnoten verschoben - das ist zu wenig fuer einen wissenschaftlichen Aufsatz.
+- Gegenpositionen werden gerne in Fussnoten verschoben - das ist zu wenig für einen wissenschaftlichen Aufsatz.
 - Sprunglinien zwischen Auslegungsmethoden sind kein Fehler, muessen aber begruendet werden.
 - Die schlechtesten Aufsaetze haben eine These am Anfang und eine ganz andere am Ende - dann ist die Gliederung falsch.
 
@@ -106,5 +106,5 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022 (zur Argumentationsstruktur).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023 (zu Methodik und Aufsatz).
 - Larenz / Canaris, Methodenlehre der Rechtswissenschaft, 4. Aufl. 2019 (Auslegungsmethoden).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.

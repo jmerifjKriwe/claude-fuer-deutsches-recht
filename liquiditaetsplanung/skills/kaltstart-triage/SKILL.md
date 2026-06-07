@@ -136,7 +136,7 @@ Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krise
 - **BGH-Passiva-II-Schema** — Gerichtlich anerkannte Methode zur Berechnung der Liquiditaetsluecke; unterscheidet zwischen faelligen und nicht faelligen Verbindlichkeiten.
 - **10-Prozent-Schwelle** — Liegt die Liquiditaetsluecke dauerhaft bei mehr als 10 Prozent der faelligen Gesamtverbindlichkeiten, indiziert das Zahlungsunfaehigkeit.
 - **Rollierende Vorschau** — Fortlaufend aktualisierte Liquiditaetsplanung ueber 13, 26 oder 52 Wochen (3, 6 oder 12 Monate).
-- **Fortbestehensprognose** — Beurteilung, ob das Unternehmen mit ueberwiegender Wahrscheinlichkeit fortbestehen wird; relevant fuer Ueberschuldungspruefung nach § 19 InsO.
+- **Fortbestehensprognose** — Beurteilung, ob das Unternehmen mit ueberwiegender Wahrscheinlichkeit fortbestehen wird; relevant für Ueberschuldungspruefung nach § 19 InsO.
 - **Sanierungsplanung** — Integrierte Verbindung aus Liquidität, GuV, Bilanz, Maßnahmen und Annahmen; zeigt, ob eine kurzfristig zahlungsfähige Gesellschaft auch nachhaltig sanierungsfähig wird.
 - **Bugwellenrechtsprechung** — BGH-Rechtsprechung zur aufgeschobenen Faelligkeit von Verbindlichkeiten, die erst bei Vorliegen eines Insolvenzgrunds entfallen.
 
@@ -149,7 +149,7 @@ Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krise
 - §§ 64, 43 GmbHG a.F. bzw. § 15b InsO n.F. — Haftung bei Zahlungen nach Insolvenzreife
 - §§ 238 ff. HGB — Buchfuehrungspflichten
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Krisensituation des Mandanten klaeren: Liegt Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit oder Ueberschuldung vor oder wird sie geprueft?
 2. Erforderlichen Zeitraum bestimmen: Drei-Wochen-Vorschau (kurzfristig/insolvenzrechtlich) oder rollierender 13/26/52-Wochen-Forecast.
@@ -161,7 +161,7 @@ Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krise
 
 - `idw-s6-integrierte-sanierungsplanung` — Verbindet Liquiditätsvorschau, GuV-Planung und Planbilanz zu einer Sanierungsplanung mit Maßnahmen-Brücke und Annahmenlog.
 - `liquiditaetsvorschau-3wochen` — Wochenaktuelle Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Excel-Tabelle und Deckungsluecken-Ampel.
-- `liquiditaetsvorschau-3-6-12-monate` — Rollierende Liquiditaetsvorschau ueber 13/26/52 Wochen fuer GmbH/UG/AG als Excel-Export mit Quote-Luecken-Ampel.
+- `liquiditaetsvorschau-3-6-12-monate` — Rollierende Liquiditaetsvorschau ueber 13/26/52 Wochen für GmbH/UG/AG als Excel-Export mit Quote-Luecken-Ampel.
 - `liquiditaetsvorschau-insolvenzrechtlich` — Gerichtsfaehige Liquiditaetsbilanz und Vorschau zur Pruefung der Zahlungsunfaehigkeit nach § 17 InsO und der Ueberschuldung.
 
 ## Worauf besonders achten

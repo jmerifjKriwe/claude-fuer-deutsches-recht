@@ -109,8 +109,8 @@ DPO: ____________________ Date: ____________________
 - `datenschutzrecht/skills/dpia-en-template-full-version/SKILL.md` — Full English DPIA template
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — German full template
 - `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Art. 36 procedure
-- `datenschutzrecht/skills/dsfa-fuer-internationale-datentransfers/SKILL.md` — Transfers
-- `datenschutzrecht/skills/dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — AI interface
+- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — Transfers
+- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — AI interface
 - `references/zitierweise.md` — Citation rules
 
 ## Sources as of 06/2026

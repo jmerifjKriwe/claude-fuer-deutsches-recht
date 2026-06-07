@@ -1,11 +1,11 @@
 ---
 name: bmbfsfj-schul-und-berufsbildungsrecht
-description: "Sachbereich Schul- und Berufsbildungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Laender; AufstFoeG.); Akteure (BMBFSFJ; Laender-Kultusministerien; KMK; BIBB; Berufsverbaende.); EU-Bezug (Berufsanerkennungs-RL; Europass; Erasmus+.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung)."
+description: "Sachbereich Schul- und Berufsbildungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Länder; AufstFoeG.); Akteure (BMBFSFJ; Länder-Kultusministerien; KMK; BIBB; Berufsverbaende.); EU-Bezug (Berufsanerkennungs-RL; Europass; Erasmus+.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung)."
 ---
 
 # Schul- und Berufsbildungsrecht (BMBFSFJ)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Schul- und Berufsbildungsrecht im Geschaeftsbereich BMBFSFJ. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Schul- und Berufsbildungsrecht im Geschaeftsbereich BMBFSFJ. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -16,15 +16,15 @@ description: "Sachbereich Schul- und Berufsbildungsrecht im Geschaeftsbereich BM
 
 ## Normbestand
 
-Kernbestand des Sachfelds: BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Laender; AufstFoeG.
+Kernbestand des Sachfelds: BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Länder; AufstFoeG.
 
 Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
-BMBFSFJ; Laender-Kultusministerien; KMK; BIBB; Berufsverbaende.
+BMBFSFJ; Länder-Kultusministerien; KMK; BIBB; Berufsverbaende.
 
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
 
 ## EU- und voelkerrechtlicher Bezug
 
@@ -36,7 +36,7 @@ Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 Bundeskompetenz beachten (Schul- vs. Berufsbildung); BAfoeG-Saetze; duale Ausbildung; Anerkennung auslaendischer Abschluesse.
 
-Schrittfolge fuer den Normgeber:
+Schrittfolge für den Normgeber:
 
 1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
 2. Vorhandene Normen kartieren; Lueckenanalyse
@@ -52,6 +52,23 @@ Foederalismus (Kulturhoheit); KMK-Konsens; Finanzierung; Inklusion.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — Bindung an Verfassung, Gesetz und Recht.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss des Bundestages.
+- `Art. 80 Abs. 1 GG` — Verordnungsermaechtigung.
+- `Art. 84 Abs. 1 GG` — Ausfuehrung der Bundesgesetze durch Länder.
+- `§ 42 Abs. 1 GGO` — Einleitung von Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen und Nachhaltigkeit.
+- `§ 45 GGO` — Beteiligung von Ländern/Verbaenden/Fachkreisen.
+- `§ 46 GGO` — Pruefung der Rechtsfoermlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Sachfeld-Kompass:
@@ -59,8 +76,8 @@ Sachfeld-Kompass:
 ```
 Sachfeld: Schul- und Berufsbildungsrecht
 Ressort: BMBFSFJ
-Kernnormen: BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Laender; AufstFoeG.
-Akteure/Aufsicht: BMBFSFJ; Laender-Kultusministerien; KMK; BIBB; Berufsverbaende.
+Kernnormen: BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Länder; AufstFoeG.
+Akteure/Aufsicht: BMBFSFJ; Länder-Kultusministerien; KMK; BIBB; Berufsverbaende.
 EU/Voelkerrecht: Berufsanerkennungs-RL; Europass; Erasmus+.
 Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
 Stolpersteine: <Sachfeld-spezifisch>
@@ -75,7 +92,7 @@ Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
 
 ## Abgrenzung
 
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
 ## Quellenregel
 

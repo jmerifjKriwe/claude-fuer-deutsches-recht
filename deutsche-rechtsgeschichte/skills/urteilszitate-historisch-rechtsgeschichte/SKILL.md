@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren.
 
 Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -33,7 +50,7 @@ Historische Urteilszitate muessen anders verifiziert werden als heutige. Das Rei
 
 - **Reichsgericht Leipzig (1879-1945)**: Hoechstgericht mit Entscheidungssammlungen
 - **BGH, BVerfG, BVerwG, BAG**: Nachkriegsgerichte mit freien Entscheidungsdatenbanken
-- **Bundesarchiv**: VGH- und RG-Akten fuer nicht publizierte Entscheidungen
+- **Bundesarchiv**: VGH- und RG-Akten für nicht publizierte Entscheidungen
 - **Bibliotheken**: Gedruckte Entscheidungssammlungen RGZ, RGSt
 
 ## Typische Streitfragen / Forschungsfragen
@@ -53,7 +70,7 @@ Historische Urteilszitate muessen anders verifiziert werden als heutige. Das Rei
 
 ## Output
 
-- Verifikations-Schema fuer historische Urteilszitate
+- Verifikations-Schema für historische Urteilszitate
 - Fundstellen-Leitfaden: RGZ, RGSt, BVerfGE, BGHZ, BVerwGE
 - Bundesarchiv-Hinweise: VGH und nicht publizierte Entscheidungen
 

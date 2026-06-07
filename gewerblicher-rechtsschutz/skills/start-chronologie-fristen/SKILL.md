@@ -134,7 +134,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `markenrecherche` | Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO… |
 | `open-source-pruefung` | Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Prüfraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet… |
 | `schutzrechts-portfolio` | Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Prüfraster: Eintragungen Verlaengerungen Jahresgebühren Benutzungsnachweise… |
-| `schutzschrift-eilverfuegung` | Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befuerchtet einstweilige Verfuegung ohne Anhoerung. § 945a ZPO Schutzschrift ZSER. Prüfraster: Hinterlegung zentrales elektronisches Schutzschriftenregister… |
+| `schutzschrift-eilverfuegung` | Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befürchtet einstweilige Verfuegung ohne Anhörung. § 945a ZPO Schutzschrift ZSER. Prüfraster: Hinterlegung zentrales elektronisches Schutzschriftenregister… |
 | `streitwert-igr-berechnen` | Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Prüfraster: Senatspraxis OLG Hamburg LG Frankfurt LG… |
 | `takedown-anweisung` | Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA… |
 | `unterlassungsverlangen` | Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz… |
@@ -142,7 +142,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Der gewerbliche Rechtsschutz umfasst die Gesamtheit der Schutzrechte fuer gewerblich verwertbare Immaterialgueter: Marken (MarkenG, EUTMR), Patente (PatG, EPUe), Gebrauchsmuster (GebrMG), Designs (DesignG), Urheberrechte (UrhG), Wettbewerbsrecht (UWG) sowie deren Durchsetzung und Abwehr. Das Plugin unterstuetzt Kanzleien und IP-Abteilungen beim gesamten Mandatsablauf — von der Markenrecherche ueber die Freedom-to-Operate-Analyse und Anmeldung bis hin zu Abmahnung, Schutzschrift und Verletzungsklage.
+Der gewerbliche Rechtsschutz umfasst die Gesamtheit der Schutzrechte für gewerblich verwertbare Immaterialgueter: Marken (MarkenG, EUTMR), Patente (PatG, EPUe), Gebrauchsmuster (GebrMG), Designs (DesignG), Urheberrechte (UrhG), Wettbewerbsrecht (UWG) sowie deren Durchsetzung und Abwehr. Das Plugin unterstuetzt Kanzleien und IP-Abteilungen beim gesamten Mandatsablauf — von der Markenrecherche ueber die Freedom-to-Operate-Analyse und Anmeldung bis hin zu Abmahnung, Schutzschrift und Verletzungsklage.
 
 Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unternehmensjuristen, die Schutzrechte anmelden, verwalten und durchsetzen.
 
@@ -157,7 +157,7 @@ Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unter
 ## Fachbegriffe (kurz erklaert)
 
 - **Freedom-to-Operate (FTO)** — Pruefung, ob ein geplantes Produkt oder Verfahren fremde Patentrechte verletzt.
-- **Nizza-Klassifikation** — internationales System zur Einteilung von Waren und Dienstleistungen fuer Markeneintragungen (45 Klassen).
+- **Nizza-Klassifikation** — internationales System zur Einteilung von Waren und Dienstleistungen für Markeneintragungen (45 Klassen).
 - **Modifizierte Unterlassungserklaerung** — auf den konkreten Verletzungsfall beschraenkte Unterlassungsverpflichtung; vermeidet eine zu weite Verpflichtung.
 - **Schutzschrift** — praeventive Gegendarstellung, die im Zentralen Schutzschriftenregister (ZSSR) hinterlegt wird, um bei einer einstweiligen Verfuegung angehoert zu werden (§ 945a ZPO).
 - **Copyleft** — Lizenzbedingung (z.B. GPL), die vorschreibt, dass abgeleitete Werke unter denselben Lizenzbedingungen veroeffentlicht werden muessen.
@@ -174,7 +174,7 @@ Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unter
 - §§ 6 ff. ArbnErfG — Inanspruchnahme und Freistellung von Arbeitnehmererfindungen
 - § 945a ZPO — Schutzschriften und Zentrales Schutzschriftenregister
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Schutzrechtsinhaber, Verletzer, Lizenznehmer oder Dritter?
 2. Phase des Mandats bestimmen: Schutzrecht noch nicht vorhanden (Anmeldung/Recherche), bereits vorhanden (Verteidigung/Enforcement) oder Portfolio-Verwaltung?
@@ -193,13 +193,13 @@ Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unter
 - `markenanmeldung-dpma` — Markenanmeldung beim DPMA oder Widerspruch gegen eingetragene Marken.
 - `fto-triage` — Freedom-to-Operate: Recherche auf sperrende Patente vor Produkteinfuehrung.
 - `erfindungsmeldung-aufnahme` — Arbeitnehmererfindung aufnehmen und ueber Inanspruchnahme oder Freistellung entscheiden.
-- `open-source-pruefung` — Copyleft-Pflichten und Lizenzkompatibilitaet fuer Softwareprojekte pruefen.
+- `open-source-pruefung` — Copyleft-Pflichten und Lizenzkompatibilitaet für Softwareprojekte pruefen.
 - `ip-klausel-pruefung` — Vertragliche IP-Klauseln (Uebertragung, Lizenz, Freistellung) auf Risiken pruefen.
 - `unterlassungsverlangen` — Abmahnungsschreiben oder Optionsmemo bei erhaltener Abmahnung erstellen.
 - `abmahnung-urheberrecht` — Urheberrechtliche Abmahnung versenden oder auf erhaltene Abmahnung reagieren.
 - `schutzschrift-eilverfuegung` — Praeventive Schutzschrift im ZSSR hinterlegen (§ 945a ZPO).
 - `schutzrechts-portfolio` — IP-Portfolio verwalten: Fristen, Jahresgebuehren, Benutzungsnachweise im Ueberblick.
-- `streitwert-igr-berechnen` — Streitwert fuer IP-Verletzungsklage und einstweilige Verfuegung berechnen.
+- `streitwert-igr-berechnen` — Streitwert für IP-Verletzungsklage und einstweilige Verfuegung berechnen.
 - `takedown-anweisung` — Notice-and-Takedown an Hostprovider nach DDG/DSA oder Gegendarstellung erstellen.
 
 ## Worauf besonders achten
@@ -214,7 +214,7 @@ Dieses Plugin richtet sich an auf IP-Recht spezialisierte Kanzleien und an Unter
 
 - Passivlegitimation nicht geprueft: Bei Lizenzketten und mehrstufiger Distribution ist zu klaeren, wer eigentlich anspruchspflichtig ist.
 - Abmahnung ohne Streitwertangabe verschickt: Fuehrt zu Diskussionen ueber Kostenerstattung und schaecht die Druckwirkung.
-- Schutzschrift vergessen: Ohne hinterlegte Schutzschrift ergeht eine einstweilige Verfuegung ohne Anhoerung; Rechtsverlust ist praktisch nicht mehr heilbar.
+- Schutzschrift vergessen: Ohne hinterlegte Schutzschrift ergeht eine einstweilige Verfuegung ohne Anhörung; Rechtsverlust ist praktisch nicht mehr heilbar.
 - Vorbenutzungsrecht nach § 12 PatG nicht geprueft: Wer eine Technologie schon vor dem Anmeldetag des Patents benutzt hat, kann eine Freilizenz genessen — dieser Einwand wird oft ueversehen.
 - Notice-and-Takedown an falschen Adressaten gerichtet: DSA Art. 16 richtet sich an Hostprovider, nicht an den unmittelbaren Verletzer; Verwechslung verzoegert den Takedown.
 

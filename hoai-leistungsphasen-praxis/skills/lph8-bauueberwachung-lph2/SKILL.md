@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-lph2
-description: "Bauueberwachung HOAI LPH 8 fuer Erdbauarbeiten mit Fokus auf Bodenkennwerte — Verdichtungspruefungen nach DIN 18127 Proctor und DIN 18134 Plattendruckversuch Ev2, Bodenklassen nach DIN 18300 und DIN 18196, Baugrubensicherung nach EAB und DIN 4124, Setzungsmonitoring nach EC7, Schichtenverzeichnis nach DIN 4022. Umfasst Laborprotokolle, Drohnen-Gelaendeaufnahme und SAP-PS-Vorgangsverfolgung fuer Trassenbau und Baugruben im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Erdbauarbeiten mit Fokus auf Bodenkennwerte — Verdichtungspruefungen nach DIN 18127 Proctor und DIN 18134 Plattendruckversuch Ev2, Bodenklassen nach DIN 18300 und DIN 18196, Baugrubensicherung nach EAB und DIN 4124, Setzungsmonitoring nach EC7, Schichtenverzeichnis nach DIN 4022. Umfasst Laborprotokolle, Drohnen-Gelaendeaufnahme und SAP-PS-Vorgangsverfolgung für Trassenbau und Baugruben im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Erdbau und Bodenkennwerte
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Erdbauarbeiten mit Fokus auf Bodenkennwerte — Verdichtungspruefungen nach DIN 18127 Proctor und DIN 18134 Plattendruckversuch Ev2, Bodenklassen nach DIN 18300 und DIN 18196, Baugrubensicherung nach EAB und DIN 4124, Setzungsmonitoring nach EC7, Schichtenverzeichnis nach DIN 4022. Umfasst Laborprotokolle, Drohnen-Gelaendeaufnahme und SAP-PS-Vorgangsverfolgung fuer Trassenbau und Baugruben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Erdbauarbeiten mit Fokus auf Bodenkennwerte — Verdichtungspruefungen nach DIN 18127 Proctor und DIN 18134 Plattendruckversuch Ev2, Bodenklassen nach DIN 18300 und DIN 18196, Baugrubensicherung nach EAB und DIN 4124, Setzungsmonitoring nach EC7, Schichtenverzeichnis nach DIN 4022. Umfasst Laborprotokolle, Drohnen-Gelaendeaufnahme und SAP-PS-Vorgangsverfolgung für Trassenbau und Baugruben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -29,7 +29,7 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 
 ## Erste Schritte auf der Baustelle
 
-1. Bodenklassenbestimmung: Sichtbauteilansprache DIN 18196 (Zwickau-System), Labor-Kennwerte Korngrenzen Atterberg, Koernungslinie Siebanalyse, Proctorkurve fuer Einbaunachweis
+1. Bodenklassenbestimmung: Sichtbauteilansprache DIN 18196 (Zwickau-System), Labor-Kennwerte Korngrenzen Atterberg, Koernungslinie Siebanalyse, Proctorkurve für Einbaunachweis
 2. Baugrubensicherung-Nachweis: Verbau-Plan nach EAB nach EC7, Steifen oder Anker nach Verbaustatik, Verformungsmonitoring Inklinometer
 3. Aushubprotokoll: Maschinengeraet und Schichtdicke je Aushublage, Foto Bodenklasse-Uebergang, Dokumentation Lage kontaminierter Boeden nach BBodSchV
 4. Planumsherstellung-Kontrolle: Hoehenlage +-5 cm nach Abformung, Ebenheitstoleranz 3 m Latte kleiner 20 mm, Proctordichte-Nachweis 97 Prozent unter Planum
@@ -42,7 +42,7 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 - HOAI 2021 § 34 Anlage 10 LPH 8: Bauueberwachung Ingenieurbauwerke, Verkehrsanlagen Erdbaubereich
 - VOB/C DIN 18300:2019-09 Erdarbeiten: Bodenklassen, Aushub, Verdichtungsnachweis, Aufmass nach tatsaechlichen Massen
 - DIN 18134:2012-04 Plattendruckversuch: Ev1 Erstbelastung, Ev2 Wiederbelastung, Dokumentation Protokoll mit Messkurven
-- DIN 18127:2012-09 Proctor-Versuch: Optimaler Wassergehalt, Maximale Trockendichte fuer Beurteilung Verdichtungsgrad
+- DIN 18127:2012-09 Proctor-Versuch: Optimaler Wassergehalt, Maximale Trockendichte für Beurteilung Verdichtungsgrad
 - EAB Empfehlungen des Arbeitskreises Baugruben 6. Auflage: Sicherheitsklassen, Verbautypen, Gebrauchstauglichkeit
 
 ## Prueferaster und Kontrollpunkte
@@ -52,15 +52,15 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 3. Inklinometer-Auswertung: Messung woeachentlich oder nach jedem Meter Aushub, Grenzwert 15 mm horizontale Verformung vor Alarm
 4. Entwasserung Baugrube: Offene oder geschlossene Wasserhaltung, Pumpenprotokoll, Filterbrunnenabsenkung kontrolliert
 5. Bodenaustausch Qualitaet: Recycling-Boden RCM oder ZM-Boden nur mit Guetenachweis und Positivliste LAGA M 20
-6. Entsorgung Aushub: Wiegekarten Deponielieferschein, Zuordnungswerte nach LAGA PN 98, Protokoll fuer Bauherr-Nachweisakte
+6. Entsorgung Aushub: Wiegekarten Deponielieferschein, Zuordnungswerte nach LAGA PN 98, Protokoll für Bauherr-Nachweisakte
 
 ## Foto-, Video- und Dokumentenanalyse
 
-- Drohnenbefliegung DJI Matrice 300 nach jeder Aushublage: Gelaende-Punktwolke fuer Massenberechnung Orthofoto 2 cm/px, Volumenvergleich Soll-Ist
+- Drohnenbefliegung DJI Matrice 300 nach jeder Aushublage: Gelaende-Punktwolke für Massenberechnung Orthofoto 2 cm/px, Volumenvergleich Soll-Ist
 - Bodenprobenahme-Fotos: Stichprobenahme je 2.000 m3 mit GPS und Tiefenangabe, Labor-ID verknuepft, Fotoprotokoll Bodenansprache
 - Laborprotokolle: Proctorkurve, Koernungslinie, Atterberg-Grenzen je Bodencharge, Akkreditierungsnachweis Labor nach DIN EN ISO/IEC 17025
 - Ev2-Messprotokoll: Kurvendiagramm Ev1 und Ev2 je Pruefpunkt, GPS-Koordinate, Geraete-ID, Datum, Unterschrift Pruefingenieur
-- PlanRadar Lageplan Ev2-Messpunkte: Farbcodierung Bestehen/Nicht-Bestehen, Exportliste fuer Aufmasskontrolle
+- PlanRadar Lageplan Ev2-Messpunkte: Farbcodierung Bestehen/Nicht-Bestehen, Exportliste für Aufmasskontrolle
 
 ## Meldungserstellung im ERP / SAP
 
@@ -75,7 +75,7 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 - Verdichtung bei zu hohem Wassergehalt: Boden pastet beim Compacter, kein Ev2-Zielwert erreichbar, Einbau muss gestoppt werden
 - Fehlende Entsorgungsnachweise: Aushub aus kontaminierter Flaeche ohne LAGA-Zuordnung entsorgt, strafbare Handlung nach KrWG
 - Unzureichende Baugrubenentwaessserung: Sohlaufbruch bei Grundwasseranstieg, Verbau versagt durch Auflast-Druckentlastung
-- Fehlendes Baugrundgutachten fuer Bodenklassenabweichung: Mehr- und Mindermengen Bodenklasse nicht vertraglich geregelt, Streit mit Auftraggeber
+- Fehlendes Baugrundgutachten für Bodenklassenabweichung: Mehr- und Mindermengen Bodenklasse nicht vertraglich geregelt, Streit mit Auftraggeber
 
 ## Output
 

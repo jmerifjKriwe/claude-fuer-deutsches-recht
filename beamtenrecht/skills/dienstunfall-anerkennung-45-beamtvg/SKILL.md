@@ -19,7 +19,7 @@ Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung 
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitliche Beeintraechtigung dienstunfallbedingt ist. Hilft bei rechtzeitiger Meldung und bei Streit um die Anerkennung.
+Skill für Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitliche Beeintraechtigung dienstunfallbedingt ist. Hilft bei rechtzeitiger Meldung und bei Streit um die Anerkennung.
 
 ## 2. Eingaben
 
@@ -32,7 +32,7 @@ Skill fuer Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitlic
 ## 3. Ablauf / Checkliste
 
 ### a) Dienstunfallbegriff
-- § 31 BeamtVG: ein auf aeussere Einwirkung beruhendes, ploetzliches, oertlich und zeitlich bestimmtes, einen Koerperschaden verursachendes Ereignis in Ausuebung oder infolge des Dienstes.
+- § 31 BeamtVG: ein auf aeussere Einwirkung beruhendes, ploetzliches, oertlich und zeitlich bestimmtes, einen Koerperschaden verursachendes Ereignis in Ausübung oder infolge des Dienstes.
 - Wegeunfaelle nach § 31 Abs. 2 BeamtVG (Hin- und Rueckweg).
 
 ### b) Meldefristen § 45 BeamtVG
@@ -40,14 +40,14 @@ Skill fuer Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitlic
 - Bei Spaetfolgen oder verspaeteter Erkennbarkeit: Frist beginnt mit Kenntnis; absolute Ausschlussfrist zehn Jahre.
 
 ### c) Vorerkrankungen
-- Vorerkrankungen schliessen Anerkennung nicht aus, soweit der Unfall mit Wahrscheinlichkeit eine wesentliche Mitursache fuer die Verschlechterung war.
+- Vorerkrankungen schliessen Anerkennung nicht aus, soweit der Unfall mit Wahrscheinlichkeit eine wesentliche Mitursache für die Verschlechterung war.
 - Massgeblich ist die "rechtlich wesentliche Mitursache" (BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen).
 
 ### d) Beweislast
 - Grundsaetzlich Beweislast beim Beamten; an die Glaubhaftmachung des Unfallhergangs sind im Eilrechtsschutz keine ueberhoehten Anforderungen zu stellen.
 
 ### e) Folgen der Anerkennung
-- Unfallfuersorge: Unfallruhegehalt, Heilverfahrenskosten, Pflegezulage, Unterhaltsbeitrag, einmalige Unfallentschaedigung — Skill `unfallruhegehalt-36-beamtvg`.
+- Unfallfürsorge: Unfallruhegehalt, Heilverfahrenskosten, Pflegezulage, Unterhaltsbeitrag, einmalige Unfallentschaedigung — Skill `unfallruhegehalt-36-beamtvg`.
 
 ## 4. Quellenpflicht
 
@@ -58,12 +58,12 @@ Skill fuer Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitlic
 ## 5. Ausgabeformat
 
 - Schriftliche Dienstunfallmeldung.
-- Pruefraster fuer Spaetfolgenmeldungen.
+- Pruefraster für Spaetfolgenmeldungen.
 
 ## 6. Verifizierte Quellenanker
 
 - § 31 BeamtVG (Dienstunfallbegriff); § 31 Abs. 2 BeamtVG (Wegeunfall); § 45 BeamtVG (Meldefristen zwei Jahre / zehn Jahre).
-- §§ 30 bis 47 BeamtVG (Unfallfuersorge insgesamt).
+- §§ 30 bis 47 BeamtVG (Unfallfürsorge insgesamt).
 - Massgeblich Lehre der rechtlich wesentlichen Mitursache; konstante Linie des BVerwG zur Kausalitaetspruefung.
 - BVerwG zum Dienstunfallbegriff und zur Kausalitaetsfrage — Datum und Az vor Zitat live verifizieren.
 

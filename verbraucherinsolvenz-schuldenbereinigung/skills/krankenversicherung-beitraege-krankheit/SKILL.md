@@ -12,9 +12,9 @@ description: "Krankenversicherung Beitraege Krankheit im Plugin Verbraucherinsol
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `krankenversicherung-und-beitraege` | Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; Normanker: SGB V; VVG; InsO Forderungsbehandlung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `krankheit-pflege-behinderung` | Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; Normanker: SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `lohnpfaendung-und-arbeitgeber` | Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; Normanker: ZPO §§ 850 ff.; InsO §§ 35 und 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `krankenversicherung-und-beitraege` | Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; Normanker: SGB V; VVG; InsO Forderungsbehandlung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `krankheit-pflege-behinderung` | Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; Normanker: SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `lohnpfaendung-und-arbeitgeber` | Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; Normanker: ZPO §§ 850 ff.; InsO §§ 35 und 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Krankenversicherung Beitraege Krankheit im Plugin Verbraucherinsol
 
 ## 1. `krankenversicherung-und-beitraege`
 
-**Fokus:** Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; Normanker: SGB V; VVG; InsO Forderungsbehandlung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; Normanker: SGB V; VVG; InsO Forderungsbehandlung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.
 
@@ -66,7 +66,7 @@ SGB V; VVG; InsO Forderungsbehandlung. Entscheidend ist immer der aktuelle Norms
 
 ## 2. `krankheit-pflege-behinderung`
 
-**Fokus:** Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; Normanker: SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; Normanker: SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.
 
@@ -105,7 +105,7 @@ SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295. Entscheidend ist immer der akt
 
 ## 3. `lohnpfaendung-und-arbeitgeber`
 
-**Fokus:** Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; Normanker: ZPO §§ 850 ff.; InsO §§ 35 und 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; Normanker: ZPO §§ 850 ff.; InsO §§ 35 und 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.
 

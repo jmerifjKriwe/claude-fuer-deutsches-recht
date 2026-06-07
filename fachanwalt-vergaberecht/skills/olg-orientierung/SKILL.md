@@ -185,7 +185,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 |---|---|
 | GWB §§ 97-131 | Grundsaetze (Oberschwelle) |
 | GWB §§ 155-186 | Nachpruefungsverfahren |
-| VgV | Liefer-/Dienstleistungen (Bund/Laender) |
+| VgV | Liefer-/Dienstleistungen (Bund/Länder) |
 | SektVO | Versorgungsunternehmen (Wasser/Energie/OEPNV) |
 | KonzVgV | Konzessionsvergaben |
 | UVgO | Unterschwellige Lieferungen/Dienstleistungen |
@@ -322,7 +322,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Welche konkrete Norm verletzt? → Wertung / Eignung / Vergabeunterlage / Zuschlagskriterien
 4. Informationsschreiben § 134 GWB erhalten? → Stillhaltefrist 10 Tage vor Zuschlag
 5. Zuschlag bereits erteilt? → Keine Ruege mehr sinnvoll; Schadensersatz § 181 GWB
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Ergaenzende Leitsaetze Ruegeschriftsatz
 
@@ -401,7 +401,7 @@ Sektorenvergabe nach SektVO strukturieren oder angreifen. Schluesselfragen: Ist 
 
 ## Einstieg
 1. Taetigkeitsbereich: Wasser, Energie (Gas, Waerme, Elektrizitaet), Verkehr (Bus, Bahn, Hafen, Flughafen), Postdienste?
-2. Rechtsform und Eigentuemerschaft (oeffentlicher Auftraggeber, oeffentliches Unternehmen, Privatunternehmen mit besonderen oder ausschliesslichen Rechten)?
+2. Rechtsform und Eigentuemerschaft (öffentlicher Auftraggeber, öffentliches Unternehmen, Privatunternehmen mit besonderen oder ausschliesslichen Rechten)?
 3. Auftragswert oberhalb EUR 432000 (LD/DL) oder EUR 5404000 (Bau) ab 01.01.2026?
 4. Gemischte Auftraege (sektorenfremd + sektorenbezogen)?
 5. Bekanntmachung bereits erfolgt?
@@ -409,14 +409,14 @@ Sektorenvergabe nach SektVO strukturieren oder angreifen. Schluesselfragen: Ist 
 ## Pruefraster
 ### Sektorenauftraggeber § 100 GWB
 - Oeffentlicher Auftraggeber im Sektorenbereich, oder
-- Oeffentliches Unternehmen (beherrschender Einfluss durch oeffentliche Hand), oder
+- Oeffentliches Unternehmen (beherrschender Einfluss durch öffentliche Hand), oder
 - Privatunternehmen, dem besondere oder ausschliessliche Rechte verliehen wurden (z. B. Konzessionen, Genehmigungen).
 
 ### Sektorentaetigkeit §§ 102 ff. GWB
 - Gas/Waerme: Bereitstellung fester Netze.
 - Elektrizitaet: Erzeugung, Fortleitung, Verteilung.
 - Wasser: Trinkwasserversorgung.
-- Verkehr: oeffentlicher Personenverkehr, Flug-, See-, Binnenhaefen.
+- Verkehr: öffentlicher Personenverkehr, Flug-, See-, Binnenhaefen.
 - Post: Postdienste i. S. Postdienste-RL.
 
 ### Verfahrenswahl § 13 SektVO

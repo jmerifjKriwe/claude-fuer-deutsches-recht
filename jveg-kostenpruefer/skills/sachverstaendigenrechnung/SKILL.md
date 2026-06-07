@@ -46,7 +46,7 @@ Mit dem KostRAeG 2025 wurden die Saetze des § 9 JVEG in Anlage 1 zum 01.06.2025
 
 - Synopse der neuen Saetze: https://ifsforum.de/fileadmin/user_upload/Aktuelles/Synopse_JVEG__2025.pdf
 - Hinweise praxis-grundstuecksbewertung: https://praxis-grundstuecksbewertung.de/wissenswert/gesetzgebung/jveg-verguetung-sachverstaendige/
-- DGuSV-Hinweise: https://www.dgusv.de/news-blog/mehr-geld-fuer-sachverstaendige-was-die-neuen-verguetungssaetze-seit-juni-2025-wirklich-bedeuten/
+- DGuSV-Hinweise: https://www.dgusv.de/news-blog/mehr-geld-für-sachverstaendige-was-die-neuen-verguetungssaetze-seit-juni-2025-wirklich-bedeuten/
 
 ## Rechtsprechung
 - Rechtsprechung zu §§ 8, 9, 12 JVEG (Erforderlichkeit, Plausibilitaetspruefung, Schwierigkeitsbewertung) ueber https://dejure.org und https://openjur.de verifizieren.

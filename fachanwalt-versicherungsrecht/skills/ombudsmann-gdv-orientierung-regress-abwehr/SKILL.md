@@ -271,7 +271,7 @@ Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereign
 6. Liegt eine bereits abgelaufene Verjährungsfrist vor? Wann erlangte der Regressnehmer Kenntnis vom Schadensereignis und vom Schädiger?
 7. Existiert ein Sozialleistungsvermerk im Schadenersatzprozess — wurde der Sozialversicherungsträger vom Geschädigten benachrichtigt?
 8. Sind mehrere Regressnehmer vorhanden (z.B. Krankenkasse + Rentenversicherung + Berufsgenossenschaft) und wurde eine koordinierte Verteidigungsstrategie besprochen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -365,7 +365,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Regress des Versicherers abwehren | Regress-Abwehrschreiben nach Pruefschema; Template unten |
 | Variante A — Regressforderung teilweise berechtigt | Teilanerkenntnis verhandeln; Gesamtbetrag minimieren |
-| Variante B — Verjaehrung des Regressanspruchs eingetreten | Verjaehrungseinrede erheben; kein inhaltliches Eingehen noetig |
+| Variante B — Verjährung des Regressanspruchs eingetreten | Verjährungseinrede erheben; kein inhaltliches Eingehen noetig |
 | Variante C — Regress gegen Arbeitnehmer Arbeitgeber haftet | Arbeitgeberhaftung pruefen; Regress auf Arbeitgeber abwaelzen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -521,7 +521,7 @@ Mit freundlichen kollegialen Grüßen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

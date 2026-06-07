@@ -33,8 +33,8 @@ Adressat: Berater, der gegenueber IV/CRO/Schuldner kommunizieren muss. Tonfall: 
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Sie sind als Berater neu im Mandat oder werden nur fuer den Steuerteil hinzugezogen.
-- Sie befuerchten, dass der Plan-Anwalt oder der IV den Sanierungsgewinn nicht ausreichend behandelt.
+- Sie sind als Berater neu im Mandat oder werden nur für den Steuerteil hinzugezogen.
+- Sie befürchten, dass der Plan-Anwalt oder der IV den Sanierungsgewinn nicht ausreichend behandelt.
 - Sie wollen die Mandantenkommunikation zum Sanierungsgewinn formell ausloesen.
 
 Kaltstart-Fragen:
@@ -48,19 +48,19 @@ Wenn die Fragen 1 und 4 beantwortet sind, beginnt der Brief.
 
 ## Rechtlicher Rahmen
 
-- Paragraph 60 InsO — Schadensersatzpflicht des Insolvenzverwalters bei schuldhafter Pflichtverletzung. Der Verwalter haftet auch gegenueber der Masse fuer steuerliche Versaeumnisse.
-- Paragraph 69 AO — Haftung der gesetzlichen Vertreter fuer Steuerschulden.
-- Paragraph 130 OWiG — Aufsichtspflichtverletzung; relevant fuer Geschaeftsfuehrer und CRO.
+- Paragraph 60 InsO — Schadensersatzpflicht des Insolvenzverwalters bei schuldhafter Pflichtverletzung. Der Verwalter haftet auch gegenueber der Masse für steuerliche Versaeumnisse.
+- Paragraph 69 AO — Haftung der gesetzlichen Vertreter für Steuerschulden.
+- Paragraph 130 OWiG — Aufsichtspflichtverletzung; relevant für Geschaeftsfuehrer und CRO.
 - Paragraph 89 AO — verbindliche Auskunft (Kostenfrage).
 - Paragraph 43a Absatz 2 BRAO, Paragraph 203 StGB — Mandantengeheimnis bei Kommunikation; AVV bei Tools.
 - Paragraph 3a EStG, Paragraph 7b GewStG — die materiellen Sanierungsgewinn-Normen.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Adressat klaeren.** IV/CRO/Schuldner — drei verschiedene Briefe in unterschiedlichen Tonfaellen.
 2. **Sachverhalts-Bezug einfuegen.** Welche konkrete Krisensituation? Welcher Plan-Stand?
 3. **Drei Kern-Punkte heraus arbeiten:** Verlustvortrag-Pruefung, Vier-Voraussetzungen-Dokumentation, Antrag Paragraph 3a EStG und Paragraph 7b GewStG.
-4. **Frist setzen.** Konkrete Frist fuer Rueckmeldung (typisch 14 Tage).
+4. **Frist setzen.** Konkrete Frist für Rueckmeldung (typisch 14 Tage).
 5. **Honorarklarheit.** RVG-Hinweis (bei RA) oder StBVV (bei StB), bei Massehaftung Hinweis auf Paragraph 55 Absatz 1 Nr. 1 InsO.
 6. **Verteiler.** CC an alle steuerlich Beteiligten (StB Schuldner, ggf. eigener Mitarbeiter im Mandat).
 
@@ -115,11 +115,11 @@ behauptet sein soll.
 5. NAECHSTE SCHRITTE
 Bitte teilen Sie mir bis zum [Datum + 14 Tage] mit, ob ein steuerlicher
 Berater mit der Vorab-Modellrechnung beauftragt ist und welcher Zeithorizont
-fuer die vier Voraussetzungs-Belege vorgesehen ist.
+für die vier Voraussetzungs-Belege vorgesehen ist.
 
 Honorarhinweis: Meine Taetigkeit als [RA / StB] erfolgt auf Basis [RVG /
 StBVV / Stundenvereinbarung]; ich biete an, das Mandat ueber Paragraph 55
-Absatz 1 Nr. 1 InsO als Massehaftung abzurechnen, soweit Sie das fuer
+Absatz 1 Nr. 1 InsO als Massehaftung abzurechnen, soweit Sie das für
 sachgerecht halten.
 
 Mit freundlichen kollegialen Gruessen
@@ -146,7 +146,7 @@ zu klaeren:
 2. Dokumentation der vier Voraussetzungen Paragraph 3a Absatz 2 EStG
 3. Parallel-Antrag Paragraph 7b GewStG
 
-Wir empfehlen, hierfuer den steuerlichen Berater des Unternehmens [Name]
+Wir empfehlen, hierfür den steuerlichen Berater des Unternehmens [Name]
 sofort einzubinden. Bitte teilen Sie uns bis zum [Datum] mit, ob das
 geschehen ist.
 
@@ -167,7 +167,7 @@ Mit freundlichen Gruessen
 2. **CC an StB des Schuldners.** Wer den Brief gleich an den StB mitschickt, schliesst die Kommunikationslucke.
 3. **Frist setzen, aber nicht ueberreizen.** 14 Tage sind im normalen Verfahren angemessen; im Schutzschirmverfahren ggf. kuerzer.
 4. **Keine Drohung, sondern Hinweispflicht.** Tonfall sachlich; die Haftungsformulierung soll mahnen, nicht eskalieren.
-5. **Wenn der IV nicht reagiert,** Briefkette dokumentieren und ggf. an den vorlaeufigen Glaeubigerausschuss eskalieren.
+5. **Wenn der IV nicht reagiert,** Briefkette dokumentieren und ggf. an den vorläufigen Glaeubigerausschuss eskalieren.
 
 ## Typische Fehler
 
@@ -183,7 +183,7 @@ Im Plugin `insolvenzrecht`:
 
 - `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
 - `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Modellrechnung.
-- `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` — Haftungs-Vertiefung.
+- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftungs-Vertiefung.
 
 In anderen Plugins:
 

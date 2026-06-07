@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korr
 
 Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,12 +36,12 @@ Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mi
 
 ## Worum es geht
 
-Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer Norm. Blindzitat ist die Nennung einer Quelle ohne nachprueifbare Angabe. In der Rechtsgeschichte ist Blindzitat ein methodischer Fehler erster Ordnung. Korrekte Materialienarbeit: (1) Quelle prazise benennen (Mugdan Bd. II, S. 348), (2) Zitat im Original (nicht paraphrasiert), (3) Kontext erklaeren (Erste oder Zweite Kommission? Motiv oder Protokoll?), (4) Wuerdigungsvorbehalt: Materialien binden den Richter nicht, sind aber Auslegungshilfe. Mugdan ist der Schluessel fuer BGB-Materialien; Reichstagsprotokolle sind der Schluessel fuer parlamentarisches Recht.
+Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer Norm. Blindzitat ist die Nennung einer Quelle ohne nachprueifbare Angabe. In der Rechtsgeschichte ist Blindzitat ein methodischer Fehler erster Ordnung. Korrekte Materialienarbeit: (1) Quelle prazise benennen (Mugdan Bd. II, S. 348), (2) Zitat im Original (nicht paraphrasiert), (3) Kontext erklaeren (Erste oder Zweite Kommission? Motiv oder Protokoll?), (4) Wuerdigungsvorbehalt: Materialien binden den Richter nicht, sind aber Auslegungshilfe. Mugdan ist der Schluessel für BGB-Materialien; Reichstagsprotokolle sind der Schluessel für parlamentarisches Recht.
 
 ## Kernnormen / Kernquellen
 
 - **Mugdan, Die gesamten Materialien zum BGB** (6 Bde., 1899): Motive (Bd. I-V), Protokolle (Bd. VI)
-- **Reichstagsprotokolle**: reichstagsprotokolle.de fuer Parlamentsdebatten
+- **Reichstagsprotokolle**: reichstagsprotokolle.de für Parlamentsdebatten
 - **BVerfGE 62, 1** (1982): Materialien als anerkannte Auslegungshilfe
 - **BGB § 133**: Auslegungsgrundlage, historischer Wille als Element
 
@@ -47,7 +64,7 @@ Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer
 
 - Mugdan: Band und Seite; Unterscheidung Motive vs. Protokolle
 - Reichstagsprotokolle: reichstagsprotokolle.de, Datum und Seite
-- BT-Drucksachen: bundestag.de fuer neuere Gesetze
+- BT-Drucksachen: bundestag.de für neuere Gesetze
 - Kein Materialien-Blindzitat: Immer Band, Seite, Kontext
 
 ## Output

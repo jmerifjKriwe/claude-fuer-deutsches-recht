@@ -9,6 +9,23 @@ description: "Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverf�
 
 Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 8 HGB` — Handelsregister.
+- `§ 12 HGB` — Anmeldungen und Einreichungen.
+- `§ 15 HGB` — Publizitaet des Handelsregisters.
+- `§ 29 HGB` — Anmeldung des Kaufmanns.
+- `§ 106 HGB` — Eintragung der OHG.
+- `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
+- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 40 GmbHG` — Gesellschafterliste.
+- `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
+- `§ 395 FamFG` — Loeschungsverfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

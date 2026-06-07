@@ -1,15 +1,15 @@
 ---
 name: forderung-internationaler-bezug
-description: "Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder ausserhalb. Klaert anwendbares Recht internationale Zustaendigkeit Vollstreckung. Pinpoints VO 1215/2012 Brüssel Ia VO 1896/2006 EuMVVO VO 805/2004 EuVTVO VO 861/2007 EuGFVO Rom I VO 593/2008. Liefert Routing nach Schuldnerstandort und Forderungstyp."
+description: "Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder ausserhalb. Klaert anwendbares Recht internationale Zuständigkeit Vollstreckung. Pinpoints VO 1215/2012 Brüssel Ia VO 1896/2006 EuMVVO VO 805/2004 EuVTVO VO 861/2007 EuGFVO Rom I VO 593/2008. Liefert Routing nach Schuldnerstandort und Forderungstyp."
 ---
 
 # Forderung mit internationalem Bezug
 
-Auslandsbezug aendert Zustaendigkeit anwendbares Recht und Vollstreckungspfad.
+Auslandsbezug aendert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
 
 ## Routing nach Schuldnerstandort
 
-| Schuldner-Standort | Zustaendigkeit | Verfahren |
+| Schuldner-Standort | Zuständigkeit | Verfahren |
 |---|---|---|
 | EU-Mitgliedstaat | Brüssel Ia VO 1215/2012 | nationales Verfahren EuMVVO oder EuGFVO |
 | EFTA Schweiz Norwegen Island | LugÜ 2007 | wie Brüssel Ia |
@@ -29,7 +29,7 @@ Auslandsbezug aendert Zustaendigkeit anwendbares Recht und Vollstreckungspfad.
 | Verfahren | Norm | Anwendung |
 |---|---|---|
 | Europaeisches Mahnverfahren | VO 1896/2006 | grenzueberschreitende unbestrittene Geldforderungen |
-| Europaeisches Verfahren fuer geringfuegige Forderungen | VO 861/2007 | bis fuenftausend Euro |
+| Europaeisches Verfahren für geringfuegige Forderungen | VO 861/2007 | bis fuenftausend Euro |
 | Europaeischer Vollstreckungstitel | VO 805/2004 | nationaler Titel wird vollstreckbar EU-weit |
 
 ## Verbrauchergerichtsstand

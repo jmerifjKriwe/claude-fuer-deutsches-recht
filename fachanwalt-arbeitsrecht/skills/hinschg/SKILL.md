@@ -13,7 +13,7 @@ description: "Hinschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Verteidi
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` | Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Prüfraster Hinweisgebertatbestand geschützte Meldung Repressalie-Kausalität Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Ansprüchen Eilantrag bei Kündigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren. |
-| `fachanwalt-arbeitsrecht-kuendigungsschutzklage` | Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
+| `fachanwalt-arbeitsrecht-kuendigungsschutzklage` | Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhörung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhörung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
 | `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` | Prüfungslinie für fachanwalt arbeitsrecht massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
@@ -53,7 +53,7 @@ Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbei
 6. **Besteht Kündigungsschutz nach KSchG?** — Wenn ja, läuft die 3-Wochen-Frist § 4 KSchG; HinSchG-Schutz und KSchG-Schutz laufen kumulativ.
 7. **Hat der Arbeitgeber eine interne Meldestelle eingerichtet?** — Pflicht ab 50 Beschäftigten seit 17.12.2023; fehlt sie, verstärkt dies den HinSchG-Schutz.
 8. **Gibt es Mitwisser oder Zeugen der Meldung?** — Beweissicherung sofort: E-Mails, Eingabebescheinigungen, Bestätigungs-E-Mails der Meldestelle.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -206,7 +206,7 @@ dar. Nach § 36 HinSchG wird vermutet, dass die Benach-
 teiligung Folge der Meldung ist.
 
 Eine tragfaehige, von der Meldung unabhaengige Begruendung
-fuer die Massnahme liegt nicht vor.
+für die Massnahme liegt nicht vor.
 
 Ich fordere Sie namens und in Vollmacht meines Mandanten auf:
 
@@ -219,7 +219,7 @@ Ich fordere Sie namens und in Vollmacht meines Mandanten auf:
 Frist zur Stellungnahme: [Datum + 14 Tage].
 Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 
-[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Arbeitsrecht]
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Arbeitsrecht]
 ```
 
 ## Gegenargumente und Reaktion
@@ -295,7 +295,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-arbeitsrecht-kuendigungsschutzklage`
 
-**Fokus:** Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg.
+**Fokus:** Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhörung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhörung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg.
 
 # Kündigungsschutzklage (§ 4 KSchG)
 
@@ -370,7 +370,7 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 | BAG, 6. Senat | 6 AZR 152/22 | 01.04.2026 | Verfruehte Massenentlassungsanzeige (vor Abschluss der BR-Konsultation) fuehrt zur Unwirksamkeit aller Kuendigungen; keine Heilung nach Kuendigungsausspruch | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren" |
 | BAG, 6. Senat | 6 AZR 157/22 | 01.04.2026 | Fehlende Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller Kuendigungen | dejure.org-Vernetzung |
 | EuGH | C-134/24 / C-402/24 | 30.10.2025 | Massenentlassungsanzeige als Wirksamkeitsvoraussetzung; keine Heilung nach Kuendigungsausspruch | dejure.org-Vernetzung |
-| BAG, 5. Senat | 5 AZR 108/25 | 25.03.2026 | Formularmaessige pauschale Freistellungsklausel im Arbeitsvertrag ist nach § 307 Abs. 1 Satz 1 BGB unwirksam; Freistellung verlangt konkreten Anlasstatbestand und Interessenabwaegung | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Wirksamkeit einer Freistellungsklausel" |
+| BAG, 5. Senat | 5 AZR 108/25 | 25.03.2026 | Formularmäßige pauschale Freistellungsklausel im Arbeitsvertrag ist nach § 307 Abs. 1 Satz 1 BGB unwirksam; Freistellung verlangt konkreten Anlasstatbestand und Interessenabwaegung | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Wirksamkeit einer Freistellungsklausel" |
 | BAG, 9. Senat | 9 AZR 104/24 | 03.06.2025 | Kein wirksamer Verzicht auf gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis durch Prozessvergleich; Auswirkung auf Abgeltungsklauseln in Aufhebungsvertraegen | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich" |
 | BAG, 8. Senat | 8 AZR 61/24 | 20.02.2025 | Kein DSGVO-Schadensersatz allein wegen "Stoergefuehls" oder negativer Emotion bei verspaeteter Auskunft (Art. 82 DSGVO); ueberpruefbarer Kontrollverlust und konkrete Gefahr eines Datenmissbrauchs erforderlich | dejure.org-Vernetzung; bundesarbeitsgericht.de (Urteilstext PDF veroeffentlicht) |
 | BAG, 8. Senat | 8 AZR 300/24 | 23.10.2025 | Paarvergleich bei Entgeltdiskriminierung: ein einziger Vergleichskollege des anderen Geschlechts genuegt zur Begruendung der Vermutung nach § 22 AGG | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich" |
@@ -499,7 +499,7 @@ wenn ein angemessenes Abfindungsangebot innerhalb von
 7 Tagen vorgelegt wird. Andernfalls werden sämtliche
 rechtlichen Möglichkeiten konsequent ausgeschöpft.
 
-[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Arbeitsrecht]
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Arbeitsrecht]
 ```
 
 --- vor Versand klaeren ---
@@ -581,7 +581,7 @@ Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlas
 6. **Wann sollen die Kuendigungen ausgesprochen werden?** — Entlassungssperre 1 Monat nach Anzeige; ggf. Verlaengerung durch BA bis 2 Monate einplanen.
 7. **Plant AG Sozialplan-Verhandlung oder versucht er es zu vermeiden?** — Bei Verweigerung des Versuchs: Nachteilsausgleich § 113 BetrVG.
 8. **Handelt es sich um einen AN-Mandanten nach Kuendigungserhalt?** — Dann sofort: 3-Wochen-Frist § 4 KSchG sichern; BA-Anfrage ob Anzeige ordnungsgemaess war.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -591,14 +591,14 @@ Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlas
 |---|---|
 | § 17 Abs. 1 KSchG | Schwellenwerte: Anzeigepflicht der Massenentlassung |
 | § 17 Abs. 2 KSchG | Konsultationspflicht mit Betriebsrat vor Anzeige |
-| § 17 Abs. 3 KSchG | Anzeige bei der Bundesagentur fuer Arbeit (schriftlich) |
+| § 17 Abs. 3 KSchG | Anzeige bei der Bundesagentur für Arbeit (schriftlich) |
 | § 18 Abs. 1 KSchG | Entlassungssperre: 1 Monat nach Anzeige |
 | § 18 Abs. 2 KSchG | Verlaengerung bis 2 Monate durch BA |
 | § 20 KSchG | Folgen der Anzeige; Ausnahmen bei bestimmten Insolvenzfaellen |
 | § 112 BetrVG | Interessenausgleich und Sozialplan; Einigungsstelle |
 | § 112a BetrVG | Sozialplan-Pflicht bei Betriebsaenderungen; Einschraenkungen |
 | § 113 BetrVG | Nachteilsausgleich bei Umgehung des Interessenausgleichs |
-| § 4 KSchG | 3-Wochen-Klagefrist fuer entlassene Arbeitnehmer |
+| § 4 KSchG | 3-Wochen-Klagefrist für entlassene Arbeitnehmer |
 | Art. 2, 3, 4 RL 98/59/EG | EU-Massenentlassungsrichtlinie: Konsultation + Anzeige als Mindeststandard |
 
 ### Schwellenwerte § 17 Abs. 1 KSchG
@@ -619,7 +619,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | BAG, 6. Senat | 6 AZR 157/22 | 01.04.2026 | Fehlende Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller Kuendigungen; keine Heilung nach Kuendigungsausspruch | dejure.org Vernetzung; bundesarbeitsgericht.de Pressemitteilung |
 | EuGH | C-134/24 (Tomann) | 30.10.2025 | Massenentlassungsanzeige bleibt Wirksamkeitsvoraussetzung; eine fehlende Anzeige ist nach Kuendigungsausspruch nicht heilbar | dejure.org Vernetzung |
 | EuGH | C-402/24 (Sewel) | 30.10.2025 | Verfruehte Anzeige vor Abschluss der Konsultation ist unzulaessig; 30-Tage-Sperrfrist (Art. 4 RL 98/59/EG) beginnt erst mit ordnungsgemaesser Anzeige | dejure.org Vernetzung |
-| BAG, 6. Senat | 6 AZR 155/21 | (vor 2026) | Bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist fuer sich allein kein zur Unwirksamkeit fuehrender Fehler | dejure.org / bundesarbeitsgericht.de |
+| BAG, 6. Senat | 6 AZR 155/21 | (vor 2026) | Bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist für sich allein kein zur Unwirksamkeit fuehrender Fehler | dejure.org / bundesarbeitsgericht.de |
 
 ## Pruefschema Massenentlassung
 
@@ -629,23 +629,23 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 3 | Konsultation BR vollstaendig und rechtzeitig? | § 17 Abs. 2 KSchG | Anzeige und Kuendigungen unwirksam |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 5 | Anzeige schriftlich bei zustaendiger BA? | § 17 Abs. 3 KSchG | Fehlende Anzeige = Unwirksamkeit |
+| 5 | Anzeige schriftlich bei zuständiger BA? | § 17 Abs. 3 KSchG | Fehlende Anzeige = Unwirksamkeit |
 | 6 | BR-Stellungnahme der Anzeige beigefuegt? | § 17 Abs. 3 S. 2 KSchG | Anzeige unvollstaendig |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Entlassungssperre 1 Monat beachtet? | § 18 Abs. 1 KSchG | Kuendigung vor Fristablauf unwirksam |
 | 9 | Interessenausgleich versucht? | § 112 Abs. 2 BetrVG | Nachteilsausgleich § 113 BetrVG |
 | 10 | Sozialplan-Verhandlung oder Einigungsstelle? | § 112 Abs. 2-4 BetrVG | Erzwingbar; keine Kuendigung ohne Sozialplan moeglich wenn BR widerspricht |
-| 11 | Individuelle BR-Anhoerung nach § 102 BetrVG pro Kuendigung? | § 102 BetrVG | Gesonderte Unwirksamkeit jeder einzelnen Kuendigung |
+| 11 | Individuelle BR-Anhörung nach § 102 BetrVG pro Kuendigung? | § 102 BetrVG | Gesonderte Unwirksamkeit jeder einzelnen Kuendigung |
 
 ## Konsultationsverfahren § 17 Abs. 2 KSchG
 
 ### Pflichtinhalt der Unterrichtung
 
-- Gruende fuer die geplanten Entlassungen
+- Gruende für die geplanten Entlassungen
 - Zahl und Berufsgruppen der zu entlassenden AN
 - Zahl und Berufsgruppen der in der Regel beschaeftigten AN
 - Zeitraum der geplanten Entlassungen
-- Vorgesehene Kriterien fuer die Auswahl der zu entlassenden AN
+- Vorgesehene Kriterien für die Auswahl der zu entlassenden AN
 - Fuer die Berechnung etwaiger Abfindungen vorgesehene Kriterien (§ 17 Abs. 2 S. 1 KSchG)
 
 ### Konsultationsziel
@@ -660,7 +660,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 1. Schriftliche Unterrichtung des Betriebsrats (§ 17 Abs. 2 S. 1 KSchG)
 2. Konsultationsverhandlungen — Dauer: mindestens 2 Wochen
 3. Stellungnahme des Betriebsrats einholen (oder Schweigen nach Fristablauf dokumentieren)
-4. Schriftliche Anzeige bei der Bundesagentur fuer Arbeit (§ 17 Abs. 3 KSchG)
+4. Schriftliche Anzeige bei der Bundesagentur für Arbeit (§ 17 Abs. 3 KSchG)
 5. Eingang der Anzeige bei BA abwarten (nicht nur Absendung!)
 6. Ablauf Entlassungssperre 1 Monat ab Anzeigeneingang (§ 18 Abs. 1 KSchG)
 7. Erst jetzt: Kuendigungsschreiben aushaendigen
@@ -671,18 +671,18 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Anzeige § 17 Abs. 3 KSchG — Mindestinhalt
 
 ```
-An die Bundesagentur fuer Arbeit
-Agentur fuer Arbeit [Ort — Betriebssitz]
+An die Bundesagentur für Arbeit
+Agentur für Arbeit [Ort — Betriebssitz]
 
 Massenentlassungs-Anzeige nach § 17 KSchG
 
 1. Name und Anschrift des Arbeitgebers: [...]
 2. Branche / Wirtschaftszweig: [...]
-3. Gruende fuer die geplanten Entlassungen: [...]
+3. Gruende für die geplanten Entlassungen: [...]
 4. Zahl der in der Regel beschaeftigten Arbeitnehmer: [...]
 5. Zahl und Berufsgruppen der zu entlassenden Arbeitnehmer: [...]
 6. Geplanter Zeitraum der Entlassungen (30-Tages-Fenster): [...]
-7. Vorgesehene Kriterien fuer die Auswahl (Sozialauswahl): [...]
+7. Vorgesehene Kriterien für die Auswahl (Sozialauswahl): [...]
 8. Fuer die Berechnung etwaiger Abfindungen vorgesehene Kriterien: [...]
 9. Name, Anschrift, Art des Betriebsrats: [...]
 
@@ -742,7 +742,7 @@ Anlagen:
 ### Phase 4 — Kuendigungen
 
 12. Erst nach Ablauf der Entlassungssperre: individuelle Kuendigungsschreiben aushaendigen
-13. Fuer jede Kuendigung: gesonderte BR-Anhoerung nach § 102 BetrVG
+13. Fuer jede Kuendigung: gesonderte BR-Anhörung nach § 102 BetrVG
 14. Dokumentation: Zugangsnachweise sichern (Boten-Zustellung, Einschreiben)
 
 ### Phase 5 — Nachbereitung
@@ -774,11 +774,11 @@ Klageantrag:
 Begruendung (kumulativ):
 a) Verletzung § 17 KSchG: Anzeige bei BA fehlerhaft oder
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-b) BR-Anhoerung nach § 102 BetrVG mangelhaft;
+b) BR-Anhörung nach § 102 BetrVG mangelhaft;
 c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 ```
 
-**Vorteil:** Schon ein Punkt genuegt fuer Unwirksamkeit; Sicherheit durch Mehrfachangriff.
+**Vorteil:** Schon ein Punkt genuegt für Unwirksamkeit; Sicherheit durch Mehrfachangriff.
 
 ## Paragrafenkette Zentralnormen
 
@@ -787,7 +787,7 @@ c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 → § 17 Abs. 2 KSchG (Konsultation BR)
 → § 17 Abs. 3 KSchG (Anzeige bei BA)
 → § 18 Abs. 1-2 KSchG (Entlassungssperre)
-→ § 102 BetrVG (individuelle BR-Anhoerung je Kuendigung)
+→ § 102 BetrVG (individuelle BR-Anhörung je Kuendigung)
 → § 112 BetrVG (Interessenausgleich und Sozialplan)
 → § 113 BetrVG (Nachteilsausgleich bei Umgehung)
 → § 1 Abs. 5 KSchG (erleichterte Sozialauswahl bei Namensliste)
@@ -802,7 +802,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|
-| 30-Tages-Fenster fuer Schwellenwert | 30 Tage | § 17 Abs. 1 KSchG |
+| 30-Tages-Fenster für Schwellenwert | 30 Tage | § 17 Abs. 1 KSchG |
 | Konsultation Betriebsrat | Mindestens 2 Wochen (Praxis) | § 17 Abs. 2 KSchG i.V.m. BAG |
 | Entlassungssperre nach Anzeige | 1 Monat | § 18 Abs. 1 KSchG |
 | Verlaengerung durch BA | Bis 2 Monate | § 18 Abs. 2 KSchG |
@@ -816,9 +816,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Konsultation nach Anzeige statt davor | EuGH-Junk-Verstoss; alle Kuendigungen unwirksam |
 | Kuendigungsschreiben vor BA-Eingang der Anzeige | Alle Kuendigungen unwirksam |
 | Anzeige ohne BR-Stellungnahme | Anzeige unvollstaendig; wiederholen |
-| Sozialplan-Verhandlung umgangen | Nachteilsausgleich § 113 BetrVG fuer alle entlassenen AN |
+| Sozialplan-Verhandlung umgangen | Nachteilsausgleich § 113 BetrVG für alle entlassenen AN |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| § 102 BetrVG-Anhoerung pro Kuendigung vergessen | Jede einzelne Kuendigung gesondert unwirksam |
+| § 102 BetrVG-Anhörung pro Kuendigung vergessen | Jede einzelne Kuendigung gesondert unwirksam |
 | Individuelle Kuendigung vor Ablauf der Entlassungssperre | Unwirksam nach § 18 Abs. 1 KSchG |
 
 ## Streitwert und Kosten
@@ -856,23 +856,23 @@ unwirksam sein:
 
 1. Massenentlassung ohne ordnungsgemaesse Anzeige:
  Ihr Arbeitgeber muss eine Anzeige bei der Bundesagentur
- fuer Arbeit erstatten, bevor Kuendigungen ausgesprochen
+ für Arbeit erstatten, bevor Kuendigungen ausgesprochen
  werden duerfen. Ein Verstoss hiergegen macht alle
  Kuendigungen unwirksam.
 
 2. Fehler im Betriebsrats-Konsultationsverfahren:
  [Wenn BR vorhanden: Details einfuegen]
 
-3. Fehlende Betriebsrats-Anhoerung:
+3. Fehlende Betriebsrats-Anhörung:
  Vor jeder Kuendigung muss der BR einzeln angehoert werden.
 
 Klagefrist: Die Kuendigungsschutzklage muss bis zum
 [DATUM — 3 Wochen ab Zugang] eingereicht werden.
 
 Wir werden die Klage rechtzeitig einreichen. Erste
-Anhaltspunkte fuer eine hohe Abfindung sind vorhanden.
+Anhaltspunkte für eine hohe Abfindung sind vorhanden.
 
-[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Arbeitsrecht]
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Arbeitsrecht]
 ```
 
 --- vor Versand klaeren ---
@@ -887,12 +887,12 @@ Anhaltspunkte fuer eine hohe Abfindung sind vorhanden.
 | Arbeitsgericht (Klageschrift) | Sachlich-juristisch, praezise | Verfahrensfehler als primaerer Angriffspunkt, soziale Rechtfertigung subsidiaar |
 | Mandant (Erstberatung) | Verstaendlich, realistisch | Chancen durch Verfahrensfehler; Abfindungsrahmen nennen |
 | Arbeitgeber (BR-Unterrichtung) | Formal, vollstaendig | Vollstaendigkeit des Inhalts gemaess § 17 Abs. 2 KSchG sicherstellen |
-| Bundesagentur fuer Arbeit (Anzeige) | Behoerdensprache, vollstaendig | Alle Pflichtangaben; BR-Stellungnahme anhaengen |
+| Bundesagentur für Arbeit (Anzeige) | Behördensprache, vollstaendig | Alle Pflichtangaben; BR-Stellungnahme anhaengen |
 
 ## Anschluss-Skills
 
 - `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — Einzelklage nach Massenentlassung
-- `fachanwalt-arbeitsrecht-betriebsratsanhoerung` — BR-Anhoerung je Kuendigung nach § 102 BetrVG
+- `fachanwalt-arbeitsrecht-betriebsratsanhoerung` — BR-Anhörung je Kuendigung nach § 102 BetrVG
 - `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` — Abfindungsverhandlung im Guetetermin
 
 ## Quellen

@@ -19,7 +19,7 @@ Skill zur Unterscheidung konstitutives Anforderungsprofil und deklaratorisches A
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Konstellationen, in denen das Anforderungsprofil der Stellenausschreibung Merkmale enthaelt, die den Bewerberkreis einengen (typisch: Sprachzertifikat C1, mehrjaehrige Verwendung in einem Referat, Promotion, Auslandserfahrung, Personalfuehrungserfahrung).
+Skill für Konstellationen, in denen das Anforderungsprofil der Stellenausschreibung Merkmale enthaelt, die den Bewerberkreis einengen (typisch: Sprachzertifikat C1, mehrjaehrige Verwendung in einem Referat, Promotion, Auslandserfahrung, Personalfuehrungserfahrung).
 
 ## 2. Eingaben
 
@@ -36,7 +36,7 @@ Skill fuer Konstellationen, in denen das Anforderungsprofil der Stellenausschrei
 
 ### b) Rechtfertigungsanforderung
 - Ein konstitutives Anforderungsprofil ist nur zulaessig, wenn es sachlich gerechtfertigt ist und einen Bezug zur konkreten Aufgabenwahrnehmung hat (BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen).
-- Es darf nicht auf einen einzelnen Wunschbewerber zugeschnitten sein. Ein Zuschnittsverdacht ergibt sich aus Indizien (sehr enges Kriterienbuendel, Identitaet mit Vita des Wunschbewerbers, fehlende Vorgeschichte fuer solche Anforderungen).
+- Es darf nicht auf einen einzelnen Wunschbewerber zugeschnitten sein. Ein Zuschnittsverdacht ergibt sich aus Indizien (sehr enges Kriterienbuendel, Identitaet mit Vita des Wunschbewerbers, fehlende Vorgeschichte für solche Anforderungen).
 
 ### c) Folge eines unzulaessigen Profils
 - Die Auswahlentscheidung ist rechtswidrig; das gesamte Verfahren ist neu zu durchlaufen.
@@ -66,4 +66,4 @@ Skill fuer Konstellationen, in denen das Anforderungsprofil der Stellenausschrei
 
 ## 7. Beispiel (Kurzfassung)
 
-Stelle Referatsleiterin im BMI A16. Konstitutiv gefordert: Promotion im oeffentlichen Recht, Auslandserfahrung in einem englischsprachigen Land, einschlaegige Personalfuehrungserfahrung in mindestens zwei Bundesministerien. Skill liefert Argument: Profil ist passgenau auf eine bestimmte Person zugeschnitten, daher unzulaessig.
+Stelle Referatsleiterin im BMI A16. Konstitutiv gefordert: Promotion im öffentlichen Recht, Auslandserfahrung in einem englischsprachigen Land, einschlaegige Personalfuehrungserfahrung in mindestens zwei Bundesministerien. Skill liefert Argument: Profil ist passgenau auf eine bestimmte Person zugeschnitten, daher unzulaessig.

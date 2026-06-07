@@ -1,13 +1,13 @@
 ---
 name: sanierungsgewinn-debt-equity-swap-im-plan
-description: "Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte fuer die Plan-Gestaltung im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte für die Plan-Gestaltung im Insolvenzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sanierungsgewinn — Debt-Equity-Swap im Plan
 
 ## Arbeitsbereich
 
-Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte fuer die Plan-Gestaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte für die Plan-Gestaltung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -57,14 +57,14 @@ Kaltstart-Fragen:
 - Paragraph 3 Nr. 40 EStG — Teileinkuenfteverfahren.
 - BFH-Linie zur verdeckten Einlage bei nicht werthaltiger Forderung.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 
 1. **Sacheinlagepruefung.** Welcher Wert wird der eingebrachten Forderung im handelsrechtlichen Kapitalerhoehungs-Verfahren beigemessen?
 2. **Werthaltigkeit der Forderung am Stichtag pruefen.**
 3. **Zwei steuerliche Sphaeren trennen:**
  - **Ebene Schuldnerin:** Verbindlichkeit faellt weg; Sanierungsertrag in Hoehe des nicht werthaltigen Teils der Forderung.
  - **Ebene Glaeubiger/Investor:** Anschaffungskosten der Beteiligung in Hoehe des werthaltigen Teils; Verzichts-Aufwand in Hoehe des nicht werthaltigen Teils.
-4. **Paragraph 3a EStG-Pruefung** fuer den Sanierungsertrag auf Schuldnerebene.
+4. **Paragraph 3a EStG-Pruefung** für den Sanierungsertrag auf Schuldnerebene.
 5. **Plan-Klausel formulieren** (Paragraph 225a InsO bzw. StaRUG).
 6. **Anteils-Bewertung** (insbesondere bei AG: Sacheinlagepruefung Paragraph 27 AktG).
 
@@ -72,7 +72,7 @@ Kaltstart-Fragen:
 
 | Schritt | Wirkung Schuldnerin | Wirkung Glaeubiger/Investor |
 |---|---|---|
-| 1. Verzicht auf Forderung (in voller Hoehe) | Verbindlichkeit weg | Aufwand fuer den nicht werthaltigen Teil |
+| 1. Verzicht auf Forderung (in voller Hoehe) | Verbindlichkeit weg | Aufwand für den nicht werthaltigen Teil |
 | 2. Bareinlage / Sacheinlage in Hoehe der neuen Anteile | Eigenkapital steigt | Anschaffungskosten der Beteiligung |
 
 In der Praxis erfolgt der Vorgang oft als kombinierte Einlage: die Forderung wird als Sacheinlage eingebracht.
@@ -84,7 +84,7 @@ In der Praxis erfolgt der Vorgang oft als kombinierte Einlage: die Forderung wir
 | Forderung voll werthaltig | kein Sanierungsertrag | Anschaffungskosten = Nennwert Forderung |
 | Forderung teilweise werthaltig | Sanierungsertrag in Hoehe des nicht werthaltigen Teils | Anschaffungskosten = werthaltiger Teil; Aufwand = nicht werthaltiger Teil |
 | Forderung nicht werthaltig | voller Sanierungsertrag | Anschaffungskosten ueberschaubar; voller Aufwand |
-| Glaeubiger ist GmbH/AG | Paragraph 8b KStG fuer kuenftige Beteiligungsertraege | 5% Pauschalbesteuerung Paragraph 8b Absatz 5 KStG |
+| Glaeubiger ist GmbH/AG | Paragraph 8b KStG für kuenftige Beteiligungsertraege | 5% Pauschalbesteuerung Paragraph 8b Absatz 5 KStG |
 | Glaeubiger ist natuerliche Person | Paragraph 17 EStG / Paragraph 3 Nr. 40 EStG bei Veraeusserung | Teileinkuenfteverfahren |
 | Cramdown auf Anteilseigner (Paragraph 225a Absatz 3 InsO) | bestehende Anteilseigner werden verdraengt | rechtssichere Anteilsuebernahme |
 

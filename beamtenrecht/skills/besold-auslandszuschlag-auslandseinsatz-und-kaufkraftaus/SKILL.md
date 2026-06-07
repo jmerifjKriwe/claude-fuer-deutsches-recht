@@ -19,7 +19,7 @@ Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich. Die Prüf
 
 ## Aufgabe
 
-Skill fuer Auslandszuschlag bei Auslandsdienst — § 52 ff. BBesG.
+Skill für Auslandszuschlag bei Auslandsdienst — § 52 ff. BBesG.
 
 ## Norm
 

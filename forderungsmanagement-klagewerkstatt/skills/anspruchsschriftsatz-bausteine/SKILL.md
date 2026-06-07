@@ -1,6 +1,6 @@
 ---
 name: anspruchsschriftsatz-bausteine
-description: "Bausteinkatalog fuer eine Anspruchsbegruendung in Klage oder Schriftsatz. Liefert Vorlagen fuer Rubrum Antrag Tatbestand Anspruchsgrund Faelligkeit Verzug Zinsen Verzugsschaden Nebenforderungen Beweis. Pinpoints ZPO 253 Abs. 2 ZPO 130 Schriftsatzform ZPO 138 substantiierter Vortrag BGB 286 288. Liefert Modulbausteine zum Zusammensetzen."
+description: "Bausteinkatalog für eine Anspruchsbegruendung in Klage oder Schriftsatz. Liefert Vorlagen für Rubrum Antrag Tatbestand Anspruchsgrund Faelligkeit Verzug Zinsen Verzugsschaden Nebenforderungen Beweis. Pinpoints ZPO 253 Abs. 2 ZPO 130 Schriftsatzform ZPO 138 substantiierter Vortrag BGB 286 288. Liefert Modulbausteine zum Zusammensetzen."
 ---
 
 # Anspruchsschriftsatz Bausteine

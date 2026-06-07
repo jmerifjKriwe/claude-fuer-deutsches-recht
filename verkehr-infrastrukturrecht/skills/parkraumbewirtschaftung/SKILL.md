@@ -27,11 +27,11 @@ Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einf�
 
 ## Zentrale Normen
 
-- **§ 45 Abs. 1b Nr. 2a StVO** — Bewohnerparkausweis; Anordnungsgrundlage fuer beschraenkte Parkerlaubnis
+- **§ 45 Abs. 1b Nr. 2a StVO** — Bewohnerparkausweis; Anordnungsgrundlage für beschraenkte Parkerlaubnis
 - **§ 45 Abs. 1 StVO** — Allgemeine Verkehrsregelungs-Befugnis der Strassenverkehrsbehoerde
-- **§ 6a StVG** — Gebuehren fuer besondere Massnahmen der Strassenverkehrsbehoerde
+- **§ 6a StVG** — Gebühren für besondere Massnahmen der Strassenverkehrsbehoerde
 - **§ 12 StVO** — Halteverbote; Haltverbot-Zonen
-- **§ 16 StrWG NRW / § 16 StrWG entspr.** — Sondernutzung oeffentlicher Strassenflaechen
+- **§ 16 StrWG NRW / § 16 StrWG entspr.** — Sondernutzung öffentlicher Strassenflaechen
 - **§ 25 PolG / VwVG** — Unmittelbarer Zwang; Abschleppung als Vollzugshandlung
 - **§ 49a VwVfG** — Erstattung von Kosten des Sofortvollzugs (Abschleppkostenerstattung)
 
@@ -43,7 +43,7 @@ Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einf�
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-bei Abschleppung
+## Schritt-für-Schritt-bei Abschleppung
 
 1. **Abschleppung vollzogen:** Datum, Ort, Fahrzeug, Einsatzkraefte dokumentieren.
 2. **Rechtsgrundlage pruefen:** War Halteverbot klar beschildert? War Fahrzeug tatsaechlich im Haltverbot?

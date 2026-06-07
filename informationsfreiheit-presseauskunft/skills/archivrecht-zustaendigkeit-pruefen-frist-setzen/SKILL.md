@@ -3,11 +3,11 @@ name: archivrecht-zustaendigkeit-pruefen-frist-setzen
 description: "Informationsfreiheit und Presseauskunft: Archivrecht: Zuständigkeit prüfen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Archivrecht Zustaendigkeit Pruefen
+# Archivrecht Zuständigkeit Pruefen
 
 ## Arbeitsbereich
 
-Spezialthema **Archivrecht Zustaendigkeit Pruefen** im Informationsfreiheit/Presseauskunft. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Archivrecht Zuständigkeit Pruefen** im Informationsfreiheit/Presseauskunft. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -18,7 +18,7 @@ Spezialthema **Archivrecht Zustaendigkeit Pruefen** im Informationsfreiheit/Pres
 
 ## Arbeitsauftrag
 
-Archivrecht Zustaendigkeit Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Informationsfreiheit, Transparenz und Presseauskunft: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Archivrecht Zuständigkeit Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Informationsfreiheit, Transparenz und Presseauskunft: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 
@@ -27,8 +27,21 @@ Archivrecht Zustaendigkeit Pruefen wird nicht als abstraktes Schema beantwortet,
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 IFG` — Anspruch auf Informationszugang beim Bund.
+- `§ 3 IFG` — Schutz besonderer öffentlicher Belange.
+- `§ 5 IFG` — personenbezogene Daten.
+- `§ 6 IFG` — geistiges Eigentum und Betriebs-/Geschäftsgeheimnisse.
+- `§ 7 IFG` — Antrag und Verfahren.
+- `§ 10 IFG` — Gebühren und Auslagen.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - IFG Bund, IFGGebV und Fachinformationsgesetze
 - Landes-IFG/Transparenzgesetze oder Ersatzwege in No-IFG-Ländern
 - UIG, VIG, Pressegesetze, Art. 5 GG, Art. 10 EMRK

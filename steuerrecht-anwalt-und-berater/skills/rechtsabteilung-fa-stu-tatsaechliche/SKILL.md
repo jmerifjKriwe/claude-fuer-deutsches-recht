@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-fa-stu-tatsaechliche
-description: "Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster fuer Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe) im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster für Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe) im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Finanzgerichtsklage — Aufbau Frist und Akteneinsicht § 78 FGO
 
 ## Arbeitsbereich
 
-Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster fuer Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster für Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -32,7 +32,7 @@ Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueb
 3. Welcher Klagetyp passt — Anfechtung Verpflichtung Feststellung?
 4. Wie ist der Streitgegenstand zu bestimmen und welcher Streitwert ergibt sich nach § 52 GKG?
 5. Ist AdV § 69 FGO parallel zu beantragen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

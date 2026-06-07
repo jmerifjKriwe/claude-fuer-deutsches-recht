@@ -1,13 +1,13 @@
 ---
 name: mauergrundstuecke-und-restitution
-description: "Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen fuer den Grenzstreifen, Vermoegensgesetz, Rueckuebertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen für den Grenzstreifen, Vermögensgesetz, Rückübertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mauergrundstücke und Restitution
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen fuer den Grenzstreifen, Vermoegensgesetz, Rueckuebertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen für den Grenzstreifen, Vermögensgesetz, Rückübertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,13 +19,13 @@ Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignu
 
 ## Worum es geht
 
-Der Berliner Mauer-Grenzstreifen entstand durch systematische Enteignungen privater Grundstuecke im Bereich der Berliner Mauer und des innerdeutschen Grenzsystems. Nach der Wiedervereinigung konnten fruehere Eigentuemer Restitutionsansprueche nach dem Vermoegensgesetz (VermG) stellen. Die Enteignungen fuer Staatszwecke (DDR-Grenzgesetz, VermG § 1 Abs. 1) unterlagen besonderen Regeln. Nach dem Mauerfall wurden Berliner Mauergrundstücke oeffentlich verwertbar (Neubauvorhaben), was zu Verfahren fuehrte.
+Der Berliner Mauer-Grenzstreifen entstand durch systematische Enteignungen privater Grundstuecke im Bereich der Berliner Mauer und des innerdeutschen Grenzsystems. Nach der Wiedervereinigung konnten fruehere Eigentuemer Restitutionsansprueche nach dem Vermögensgesetz (VermG) stellen. Die Enteignungen für Staatszwecke (DDR-Grenzgesetz, VermG § 1 Abs. 1) unterlagen besonderen Regeln. Nach dem Mauerfall wurden Berliner Mauergrundstücke oeffentlich verwertbar (Neubauvorhaben), was zu Verfahren fuehrte.
 
 ## Kernnormen / Kernquellen
 
 - **VermG §§ 1-4**: Anwendungsbereich, Schaedigungstatbestaende, Ausschlussgruende
 - **VermG § 1 Abs. 1**: Ungerechtfertigte Enteignungen, staatliche Massnahmen
-- **VermG § 5**: Ausschluss bei Enteignung fuer Infrastrukturzwecke
+- **VermG § 5**: Ausschluss bei Enteignung für Infrastrukturzwecke
 - **InVorG 1992 (BGBl. I 1992, 1257)**: Investitionsvorranggesetz, Entschaedigung statt Rueckgabe
 - **BVerwGE 100, 233**: Mauergrundstücke und VermG
 
@@ -38,7 +38,7 @@ Der Berliner Mauer-Grenzstreifen entstand durch systematische Enteignungen priva
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. VermG § 5 Ausschluss: Gilt er auch fuer Grenzstreifen-Enteignungen?
+1. VermG § 5 Ausschluss: Gilt er auch für Grenzstreifen-Enteignungen?
 2. Mauergrundstücke und Investitionsvorrang: Hat InVorG gerechtfertigt Entschaedigung statt Rueckgabe?
 3. Bebauung nach 1990: Schuetzte der gutglaeubige Erwerber die Neubauplaene?
 4. Entschaedigung nach VermG vs. EntschG: Hoehe und Angemessenheit
@@ -48,12 +48,12 @@ Der Berliner Mauer-Grenzstreifen entstand durch systematische Enteignungen priva
 
 - VermG: gesetze-im-internet.de
 - InVorG 1992: BGBl. I 1992, 1257
-- BVerwG: bverwg.de fuer vollstaendige Entscheidungen
+- BVerwG: bverwg.de für vollstaendige Entscheidungen
 - Berliner Senat: fachliche Informationen zur Mauer-Grundstuecks-Abwicklung
 
 ## Output
 
-- VermG-Anwendungsfall Mauergrundstück: Schritt-fuer-Schritt
+- VermG-Anwendungsfall Mauergrundstück: Schritt-für-Schritt
 - InVorG-Investitionsvorrang vs. Rueckgabeanspruch: Abwaegungsschema
 - BVerwG-Kernentscheidungen zu Mauergrundstücken
 

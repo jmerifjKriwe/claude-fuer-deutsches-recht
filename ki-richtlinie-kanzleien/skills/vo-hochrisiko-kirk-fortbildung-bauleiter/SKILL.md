@@ -84,7 +84,7 @@ AGG-Bias-Test:
 ☑/☐ Kein Material-Bias gefunden / Bias gefunden: [MASSNAHME]
 
 Art. 22 DSGVO:
-☑/☐ Human-in-the-Loop fuer alle Personalentscheidungen
+☑/☐ Human-in-the-Loop für alle Personalentscheidungen
 ☑/☐ Widerspruchsrecht implementiert (Art. 22 Abs. 3 DSGVO)
 
 Information Bewerber/Arbeitnehmer (Art. 13/14 DSGVO):

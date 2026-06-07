@@ -12,7 +12,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `bautraeger-typische-notar-fehler-checkliste` | Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen fuer Klaerung. |
+| `bautraeger-typische-notar-fehler-checkliste` | Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen für Klaerung. |
 | `bautraeger-weg-abgeschlossenheitsbescheinigung` | WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag. Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Pruefraster. |
 | `bautraeger-weg-erstverwalter-bestellung` | WEG-Erstverwalter-Bestellung beim Bautraegervertrag. Skill klaert die haeufig umstrittene Erstverwalter-Klausel die Bautraeger oft mit verbundenen Unternehmen verknuepfen sowie das WEG-Reform-2020-Update. Liefert Pruefraster. |
 | `bautraeger-weg-gemeinschaftsordnung-pruefen` | WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen. Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster. |
@@ -28,7 +28,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 ## 1. `bautraeger-typische-notar-fehler-checkliste`
 
-**Fokus:** Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen fuer Klaerung.
+**Fokus:** Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen für Klaerung.
 
 # Bautraeger Typische Notar Fehler Checkliste
 
@@ -79,7 +79,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 ## Norm
 
-§ 7 Abs. 4 WEG (alt) / § 3 Abs. 2 WEG (neu): Abgeschlossenheitsbescheinigung der zustaendigen Behoerde (idR Bauaufsicht) bestaetigt die in sich abgeschlossene Beschaffenheit jeder Wohnungs- oder Teileigentumseinheit.
+§ 7 Abs. 4 WEG (alt) / § 3 Abs. 2 WEG (neu): Abgeschlossenheitsbescheinigung der zuständigen Behörde (idR Bauaufsicht) bestaetigt die in sich abgeschlossene Beschaffenheit jeder Wohnungs- oder Teileigentumseinheit.
 
 ## Inhalt
 
@@ -89,7 +89,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 ## Erforderlichkeit
 
-- Voraussetzung fuer Eintragung der Aufteilung im Grundbuch.
+- Voraussetzung für Eintragung der Aufteilung im Grundbuch.
 - Ohne Abgeschlossenheitsbescheinigung keine wirksame Teilung.
 
 ## Verweigerung
@@ -101,7 +101,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 1. Abgeschlossenheitsbescheinigung vorhanden?
 2. Datum der Ausstellung?
-3. Behoerde zustaendig?
+3. Behörde zuständig?
 
 ## 3. `bautraeger-weg-erstverwalter-bestellung`
 
@@ -120,7 +120,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 ## Bestellungsdauer
 
-- Hoechstens 3 Jahre fuer Erstverwalter (§ 26 Abs. 1 WEG).
+- Hoechstens 3 Jahre für Erstverwalter (§ 26 Abs. 1 WEG).
 - Verlaengerung erfordert Beschluss der Eigentuemerversammlung.
 
 ## WEG-Reform 2020

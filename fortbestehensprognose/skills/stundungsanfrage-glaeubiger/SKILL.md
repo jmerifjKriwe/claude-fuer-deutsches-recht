@@ -141,7 +141,7 @@ Wir übersenden Ihnen vorab:
  - Patronatserklärung des Hauptgesellschafters vom [...]
  - 12-Monats-Liquiditätsplan einschließlich Sensitivitaetsszenarien
 
-Für ein persoenliches Gespraech sind wir gerne kurzfristig verfügbar.
+Für ein persönliches Gespraech sind wir gerne kurzfristig verfügbar.
 
 Mit freundlichen Grüßen
 
@@ -233,7 +233,7 @@ stundungen:
 
 1. **Glaeubiger-Typ?** Lieferant (oft kulant), Bank (meist rigide), FA (sachliche Haerte erforderlich), SV-Traeger (sehr restriktiv).
 2. **Stundungszeitraum?** Realistischer Zeitraum bis zur Liquiditaetsverbesserung angeben.
-3. **Sicherheitsangebot?** Abtretung Forderungen, Eigentuemervorbehalt-Verlaengerung, persoenliche Buergschaft GF?
+3. **Sicherheitsangebot?** Abtretung Forderungen, Eigentuemervorbehalt-Verlaengerung, persönliche Buergschaft GF?
 4. **Anfechtungsrisiko?** Stundungsvereinbarung in Krisenzeit + spaetere Zahlung = § 130 InsO Risiko; FA-Stundungsantrag schriftlich und mit Liquiditaetsplan belegen.
 
 ## Output-Template Stundungsschreiben an Finanzamt
@@ -256,7 +256,7 @@ Begruendung:
 Eine detaillierte Liquiditaetsplanung liegt als Anlage bei (Anlage 1 — 13-Wochen-Forecast).
 Nach aktueller Planung ist die Begleichung der Steuerschuld bis [DATUM] moeglich.
 
-Wir bitten um Stundung ohne Saumniszuschlaege fuer den genannten Zeitraum.
+Wir bitten um Stundung ohne Saumniszuschlaege für den genannten Zeitraum.
 
 Anlagen: Liquiditaetsplanung (Anlage 1), aktuelle BWA (Anlage 2)
 ```

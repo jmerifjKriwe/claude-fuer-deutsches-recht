@@ -283,7 +283,7 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 - `spezial-betriebsrat-zahlen-schwellen-und-berechnung` für Schwellenwerte
 - `fachanwalt-arbeitsrecht-betriebsratsanhoerung` für § 102 BetrVG
 - `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` für Beschlussmängel
-- `spezial-fao-fristen-form-und-zustaendigkeit` für Verfahrensrecht
+- `spezial-fao-fristen-form-und-zuständigkeit` für Verfahrensrecht
 
 ## Quellenregel
 - Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
@@ -395,7 +395,7 @@ Bei technischem Ausfall des beA: sofortige Einreichung per Telefax mit gleichzei
 
 ## Anschluss-Skills
 - `workflow-fristen-und-risikoampel` für Fristenmanagement
-- `spezial-fao-fristen-form-und-zustaendigkeit` für weitere Verfahrensfragen
+- `spezial-fao-fristen-form-und-zuständigkeit` für weitere Verfahrensfragen
 - `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
 
 ## Quellenregel

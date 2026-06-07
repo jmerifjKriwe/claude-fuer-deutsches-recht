@@ -19,34 +19,34 @@ Zweitverwertungsrechte und Nebenrechte pauschal vereinbaren: Lizenz an juris/bec
 
 ## Worum geht es konkret
 
-Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinstellung, Sonderdruck, Festschriftsuebernahme, Aufsatzbuendelung, Open Access nach Embargofrist, Bearbeitung fuer Lehrgaenge. Der Skill systematisiert diese Rechte, klaert das Verhaeltnis von Verlag und Autor, erlaeutert das gesetzliche Zweitverwertungsrecht nach UrhG § 38 und schlaegt eine pauschale Auskehr vor.
+Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinstellung, Sonderdruck, Festschriftsuebernahme, Aufsatzbuendelung, Open Access nach Embargofrist, Bearbeitung für Lehrgaenge. Der Skill systematisiert diese Rechte, klaert das Verhaeltnis von Verlag und Autor, erlaeutert das gesetzliche Zweitverwertungsrecht nach UrhG § 38 und schlaegt eine pauschale Auskehr vor.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Welches Werk (Aufsatz, Buchbeitrag, Kommentierung, Festschriftsbeitrag)?
 2. Welche Zweitverwertung ist geplant oder bereits eingetreten?
 3. Liegt ein Vertrag vor und enthaelt er Sublizenzklauseln?
-4. Wurde das Werk mit oeffentlichen Mitteln gefoerdert (DFG, EU-Programm)?
+4. Wurde das Werk mit öffentlichen Mitteln gefoerdert (DFG, EU-Programm)?
 5. Wie hoch ist die Lizenzeinnahme oder der Sublizenzerloes?
 6. Wurde der Autor zur Datenbankeinstellung schon befragt oder beteiligt?
 7. Gibt es Open-Access-Pflichten oder -Erwartungen?
 
 ## Rechtlicher und sachlicher Rahmen
 
-- UrhG § 38 Abs. 1 - Zeitschriftenbeitrag: ausschliessliches Vervielfaeltigungs- und Verbreitungsrecht des Verlags fuer ein Jahr nach Erscheinen; danach darf der Autor den Beitrag anderweitig vervielfaeltigen und verbreiten (keine gesetzliche Beschraenkung auf nicht-kommerzielle Nutzung), soweit nichts anderes vereinbart ist.
+- UrhG § 38 Abs. 1 - Zeitschriftenbeitrag: ausschliessliches Vervielfaeltigungs- und Verbreitungsrecht des Verlags für ein Jahr nach Erscheinen; danach darf der Autor den Beitrag anderweitig vervielfaeltigen und verbreiten (keine gesetzliche Beschraenkung auf nicht-kommerzielle Nutzung), soweit nichts anderes vereinbart ist.
 - UrhG § 38 Abs. 4 - Open-Access-Zweitverwertungsrecht: nur bei wissenschaftlichen Beitraegen aus oeffentlich gefoerderter Forschungstaetigkeit; nach Ablauf von zwoelf Monaten seit Erstveroeffentlichung; in der akzeptierten Manuskriptfassung; ausschliesslich zu nicht-kommerziellen Zwecken; entgegenstehende Vereinbarungen sind unwirksam.
 - UrhG § 31 - Einraeumung von Nutzungsrechten; § 31a - unbekannte Nutzungsarten; § 40a - 10-Jahres-Klausel.
 - UrhG § 32 - Verguetung; § 32a - Bestsellerklausel; § 32d - Auskunft.
 - VerlG §§ 28, 29 - Verlagsrechte und ihr Ende.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
-1. **Vertragsstand pruefen.** Welche Nebenrechte sind dem Verlag eingeraeumt? Schriftform fuer unbekannte Nutzungsarten beachten.
-2. **Gesetzliches Zweitverwertungsrecht.** Zwei Regime sauber trennen: (a) UrhG § 38 Abs. 1 - bei Zeitschriftenbeitraegen allgemein endet die Verlagsexklusivitaet nach einem Jahr; danach kann der Autor frei weiterverwerten (kein gesetzliches Non-Commercial-Limit), wenn nicht vertraglich anders geregelt. (b) UrhG § 38 Abs. 4 - Sonderregel fuer oeffentlich gefoerderte wissenschaftliche Beitraege: nach 12 Monaten, akzeptierte Manuskriptfassung, ausschliesslich nicht-kommerziell; abweichende Vereinbarungen sind unwirksam.
+1. **Vertragsstand pruefen.** Welche Nebenrechte sind dem Verlag eingeraeumt? Schriftform für unbekannte Nutzungsarten beachten.
+2. **Gesetzliches Zweitverwertungsrecht.** Zwei Regime sauber trennen: (a) UrhG § 38 Abs. 1 - bei Zeitschriftenbeitraegen allgemein endet die Verlagsexklusivitaet nach einem Jahr; danach kann der Autor frei weiterverwerten (kein gesetzliches Non-Commercial-Limit), wenn nicht vertraglich anders geregelt. (b) UrhG § 38 Abs. 4 - Sonderregel für oeffentlich gefoerderte wissenschaftliche Beitraege: nach 12 Monaten, akzeptierte Manuskriptfassung, ausschliesslich nicht-kommerziell; abweichende Vereinbarungen sind unwirksam.
 3. **Datenbankeinstellung (juris, beck-online).** Vertraglich pruefen, Sublizenz-Klausel, Erloesteilung.
 4. **Sonderdruck und Festschriftsuebernahme.** Honorar pro Stueck oder pauschal; Verteilung an Co-Autoren.
 5. **Open Access.** Pruefen, ob Foerderbedingungen Green oder Gold OA verlangen. Embargofrist beachten.
-6. **Auskehr an Autoren.** Standardvorschlag: 50/50 fuer reine Sublizenz nach Abzug direkter Kosten, alternativ Pauschale.
+6. **Auskehr an Autoren.** Standardvorschlag: 50/50 für reine Sublizenz nach Abzug direkter Kosten, alternativ Pauschale.
 7. **Dokumentation.** Vertragsanlage Nebenrechte; pro Jahr Auskehr separat ausweisen.
 
 ## Trade-off-Matrix
@@ -87,7 +87,7 @@ Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinste
  gemaess § [n].
 
 (4) Das gesetzliche Zweitverwertungsrecht des Autors gemaess UrhG § 38
- Abs. 4 bleibt unberuehrt. Der Autor teilt dem Verlag die Ausuebung
+ Abs. 4 bleibt unberuehrt. Der Autor teilt dem Verlag die Ausübung
  schriftlich mit.
 
 (5) Sonderdrucke des Beitrags stellt der Verlag dem Autor zum
@@ -135,7 +135,7 @@ Mit freundlichen Gruessen
 
 ## Typische Fehler / Pitfalls
 
-- Datenbankerloese nicht ausgewiesen - typischer Ausloeser fuer § 32a-Klagen.
+- Datenbankerloese nicht ausgewiesen - typischer Ausloeser für § 32a-Klagen.
 - "Unbekannte Nutzungsarten" ohne Schriftform - § 31a UrhG verlangt sie.
 - Foerdervorgaben (DFG, EU) zur Open-Access-Pflicht ignoriert - Autor in Konflikt mit Foerderer.
 - Sonderdruckmenge nicht geregelt - immer wiederkehrende Bitte.
@@ -145,7 +145,7 @@ Mit freundlichen Gruessen
 
 - `workflow-kaltstart-und-routing` - Eingangsroutung des Nebenrechtsthemas.
 - `honorar-vertrag-royalties-triage` - Triage der Vertragslage.
-- `verl-honorarvertrag-templates-und-abweichungen` - Klauseltemplates fuer Nebenrechte.
+- `verl-honorarvertrag-templates-und-abweichungen` - Klauseltemplates für Nebenrechte.
 - `verl-tantieme-abrechnung-jaehrlich` - Auskehr im Rahmen der Jahresabrechnung.
 - `rechtecheck-urhg-verlg` - vertiefte urheberrechtliche Pruefung.
 

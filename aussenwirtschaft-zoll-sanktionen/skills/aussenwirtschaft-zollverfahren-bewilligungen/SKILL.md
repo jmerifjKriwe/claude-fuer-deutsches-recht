@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-zollverfahren-bewilligungen
-description: "Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen fuer AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen für AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zollverfahren und Bewilligungen: Auswahl wirtschaftliche Voraussetzungen und AEO
 
 ## Arbeitsbereich
 
-Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen fuer AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen für AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,8 +19,8 @@ Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive
 
 ## Mandantenfall
 
-- Produktionsunternehmen fragt welches Zollverfahren fuer Import von Vorprodukten mit Wiederausfuhr optimal ist.
-- Unternehmen hat Bewilligung fuer aktive Veredelung erhalten; wirtschaftliche Voraussetzungen nachweisen.
+- Produktionsunternehmen fragt welches Zollverfahren für Import von Vorprodukten mit Wiederausfuhr optimal ist.
+- Unternehmen hat Bewilligung für aktive Veredelung erhalten; wirtschaftliche Voraussetzungen nachweisen.
 - AEO-Inhaber fragt welche Verfahrenserleichterungen er bei Bewilligungsantrag nutzen kann.
 
 ## Erste Schritte
@@ -36,7 +36,7 @@ Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive
 
 - **UZK Art. 210-225**: Besondere Verfahren und Bewilligungsrahmen.
 - **UZK Art. 211**: Bewilligungsvoraussetzungen und wirtschaftliche Pruefung.
-- **UZK-DA Art. 161-184**: Detailregeln fuer besondere Verfahren.
+- **UZK-DA Art. 161-184**: Detailregeln für besondere Verfahren.
 - **UZK Art. 38-41**: AEO-Zulassung und Erleichterungen.
 - **UZK-IA Art. 13-17**: AEO-Verfahrensvereinfachungen.
 
@@ -46,7 +46,7 @@ Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive
 - [ ] Wirtschaftliche Voraussetzungen nach Art. 211 Abs. 3 geprueft?
 - [ ] Bewilligungsantrag vollstaendig und korrekt ausgefuellt?
 - [ ] Sicherheitsleistung ausreichend und gueltig?
-- [ ] AEO-Status fuer Erleichterungen genutzt?
+- [ ] AEO-Status für Erleichterungen genutzt?
 - [ ] Bewilligungsdokument auf Scope und Fristen geprueft?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

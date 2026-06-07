@@ -15,7 +15,7 @@ description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 20
 
 ## Kernsachverhalt
 
-Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. Es loeste das alte DBA von 1959 ab und passte den Vertragstext den OECD-Standards 2010 an. Praxisrelevant fuer den deutsch-niederlaendischen Mittelstand sind Logistik-Betriebsstaetten, Holding-Strukturen, grenznahe Arbeitsverhaeltnisse (insbesondere im Rheinland) und Pensionsfaelle.
+Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. Es loeste das alte DBA von 1959 ab und passte den Vertragstext den OECD-Standards 2010 an. Praxisrelevant für den deutsch-niederlaendischen Mittelstand sind Logistik-Betriebsstaetten, Holding-Strukturen, grenznahe Arbeitsverhaeltnisse (insbesondere im Rheinland) und Pensionsfaelle.
 
 ## Kaltstart-Rueckfragen
 
@@ -34,7 +34,7 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 - **DBA Deutschland-Niederlande vom 12.04.2012** (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), anwendbar ab 01.01.2016.
 - Aenderungsprotokoll vom 11.01.2016 (BGBl. 2016 II S. 868); weiteres Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736).
-- **Drittes Aenderungsprotokoll vom 14.04.2025** (BMF-Pressemitteilung 14.04.2025): Bagatellgrenze fuer Home-Office von Grenzpendlern eingefuehrt — **bis 34 Arbeitstage pro Kalenderjahr** Home-Office im Wohnsitzstaat ohne Aufteilung des Besteuerungsrechts. In Kraft 31.12.2025; anwendbar ab 01.01.2026. BGBl.-Fundstelle ueber recht.bund.de pruefen (Pruefhinweis).
+- **Drittes Aenderungsprotokoll vom 14.04.2025** (BMF-Pressemitteilung 14.04.2025): Bagatellgrenze für Home-Office von Grenzpendlern eingefuehrt — **bis 34 Arbeitstage pro Kalenderjahr** Home-Office im Wohnsitzstaat ohne Aufteilung des Besteuerungsrechts. In Kraft 31.12.2025; anwendbar ab 01.01.2026. BGBl.-Fundstelle ueber recht.bund.de pruefen (Pruefhinweis).
 - **OECD-MA 2010/2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MLI**: Deutschland und Niederlande sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal pruefen.
@@ -83,7 +83,7 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-1. Anwendbares DBA (DBA 2012 fuer Zeitraum ab 2016; DBA 1959 fuer Altzeitraeume).
+1. Anwendbares DBA (DBA 2012 für Zeitraum ab 2016; DBA 1959 für Altzeitraeume).
 
 ### Phase 2 — Ansaessigkeit klaeren
 1. Tie-Breaker.
@@ -117,11 +117,11 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 ### Erstattungsverfahren niederlaendische Dividendensteuer
 
-- **Zustaendigkeit**: Erstattung niederlaendischer Dividendensteuer durch **Belastingdienst/Kantoor Buitenland** (Heerlen). Aktuelle Zustaendigkeit auf **belastingdienst.nl** pruefen.
-- **Antragsformulare**: niederlaendische Formulare **IB 92** (Antrag Rueckerstattung Dividendensteuer fuer Auslaender) und Schachteldividenden-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf belastingdienst.nl/buitenland zu verifizieren.
+- **Zuständigkeit**: Erstattung niederlaendischer Dividendensteuer durch **Belastingdienst/Kantoor Buitenland** (Heerlen). Aktuelle Zuständigkeit auf **belastingdienst.nl** pruefen.
+- **Antragsformulare**: niederlaendische Formulare **IB 92** (Antrag Rueckerstattung Dividendensteuer für Auslaender) und Schachteldividenden-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf belastingdienst.nl/buitenland zu verifizieren.
 - **Frist**: nach niederlaendischer Algemene Wet inzake Rijksbelastingen grundsaetzlich **drei Jahre** ab Steuerentrichtung — knappere Frist als bei AT/IT.
 - **Bearbeitungsdauer Belastingdienst**: 6-18 Monate.
-- **Online-Portal**: niederlaendische Verwaltung auf **belastingdienst.nl/buitenland** mit englischer Sprachversion ("Tax matters from abroad") — barrierearm fuer deutsche Mandanten.
+- **Online-Portal**: niederlaendische Verwaltung auf **belastingdienst.nl/buitenland** mit englischer Sprachversion ("Tax matters from abroad") — barrierearm für deutsche Mandanten.
 - **Niederlaendisch optional**: Eingaben in englischer Sprache moeglich; offizielle Bescheide in NL — bei groesseren Erstattungen niederlaendischen Berater einbinden.
 
 ### Lokaler Steuerberater-Kontakt
@@ -142,11 +142,11 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 ## Edge Cases — was Pruefer triggert
 
-- **Niederlassungsbedingung 360 Tage**: in DBA-NL 2012 fuer bestimmte Pensionsregelungen verankert — bei Erfuellung wechselt das Besteuerungsrecht. Konkrete Pruefung im DBA-Text Art. 17 und Schlussprotokoll.
+- **Niederlassungsbedingung 360 Tage**: in DBA-NL 2012 für bestimmte Pensionsregelungen verankert — bei Erfuellung wechselt das Besteuerungsrecht. Konkrete Pruefung im DBA-Text Art. 17 und Schlussprotokoll.
 - **CV/BV-Konstellation**: niederlaendische **commanditaire vennootschap** (CV) kann steuerlich opak ODER transparent sein je nach Strukturierung — Qualifikationskonflikt mit § 1 KStG haeufig. Aktuelle Pruefung erforderlich.
 - **Lager-/Distributionscenter (Rotterdam, Venlo)**: deutsche Mutter mit Distributionslager in NL — Anti-Fragmentierungsregel im MLI kann zur Betriebsstaette fuehren, wenn Lager und Servicetaetigkeiten kombiniert werden.
 - **Cooperatie-Struktur**: niederlaendische Cooperatie kann hybride Behandlung haben — § 4k EStG anti-hybrid pruefen.
-- **Cross-Border-Workers Coronavirus**: alte Konsultationsvereinbarung (befristet) — fuer Altzeitraeume relevant; ab 01.01.2026 neue Bagatellgrenze 34 Tage gilt.
+- **Cross-Border-Workers Coronavirus**: alte Konsultationsvereinbarung (befristet) — für Altzeitraeume relevant; ab 01.01.2026 neue Bagatellgrenze 34 Tage gilt.
 - **Pensions-Schwelle in EUR aus DBA**: Schwellenwert exakt aus Art. 17 DBA-NL 2012 und Schlussprotokoll uebernehmen, nicht aus Sekundaerliteratur.
 
 ## Berechnungsbeispiel — Schachteldividende NL-BV an DE-Mutter

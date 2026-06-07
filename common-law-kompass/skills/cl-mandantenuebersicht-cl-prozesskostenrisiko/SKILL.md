@@ -21,13 +21,13 @@ Mandantenuebersicht englischsprachig vorbereiten: typische Mandantenfragen zu Co
 Mandantenuebersicht englischsprachig vorbereiten: typische Mandantenfragen zu Common-Law-Unterschieden, Vertragsverhandlung mit US-/UK-Counterparties, Litigation in DE gegenueber Common-Law-Gerichtsbarkeit.
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## False-Friends-Liste (Common Law vs. deutsches Recht)
 
@@ -43,12 +43,12 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 | **Liquidated damages** | Liquidierter Schaden | Vertraglich vereinbarte Schadenspauschale; nur wirksam wenn "genuine pre-estimate of loss" (UK Cavendish v. Makdessi 2015) |
 | **Penalty** | Strafe | Unzulaessig im Common Law als nicht-genuine pre-estimate; in DE Vertragsstrafe §§ 339 ff. BGB zulaessig |
 | **Tort** | Unrecht | Deliktsrecht ohne Generalklausel; einzelne torts (negligence, nuisance, defamation) — vgl. § 823 ff. BGB |
-| **Estoppel** | Sperre | Treu-und-Glauben-Konstrukt fuer Vertrauensschutz; vergleichbar § 242 BGB, aber technischer |
-| **Privity of contract** | Vertraulichkeit | Vertragsbindung nur fuer Parteien; UK seit 1999 Contracts (Rights of Third Parties) Act gelockert |
-| **Statute of limitations** | Limitierung | Verjaehrung; abweichend vom deutschen 3-Jahres-Regel (§ 195 BGB) je nach Staat unterschiedlich |
+| **Estoppel** | Sperre | Treu-und-Glauben-Konstrukt für Vertrauensschutz; vergleichbar § 242 BGB, aber technischer |
+| **Privity of contract** | Vertraulichkeit | Vertragsbindung nur für Parteien; UK seit 1999 Contracts (Rights of Third Parties) Act gelockert |
+| **Statute of limitations** | Limitierung | Verjährung; abweichend vom deutschen 3-Jahres-Regel (§ 195 BGB) je nach Staat unterschiedlich |
 | **Punitive / exemplary damages** | Punktive Schaeden | Strafschadensersatz; nicht im deutschen Recht; nicht vollstreckbar wegen ordre public § 328 I Nr. 4 ZPO |
 
-## Struktur fuer englische Mandantennotiz
+## Struktur für englische Mandantennotiz
 
 1. **Issue** — Was ist die Rechtsfrage?
 2. **Rule** — Welche Rechtssaetze, welche Rechtsordnung?
@@ -81,7 +81,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

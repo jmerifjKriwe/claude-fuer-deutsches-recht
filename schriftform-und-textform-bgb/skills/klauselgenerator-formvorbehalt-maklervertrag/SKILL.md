@@ -156,7 +156,7 @@ benennen.
 
 ## Querverweise
 
-- → `form-checker-fuer-vertrag-oder-willenserklaerung`
+- → `form-checker-für-vertrag-oder-willenserklaerung`
 - → `gewerberaummiete-paragraph-550-bgb-langzeitform`
 - → `elektronische-form-paragraph-126a-bgb-qes`
 - → `verteidigungsstrategie-bei-formangriff` (§ 242 BGB vs. Schriftformklausel)

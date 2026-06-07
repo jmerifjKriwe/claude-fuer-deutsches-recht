@@ -15,7 +15,7 @@ description: "Erwerbsminderungsrente im Selbstvertretung am Sozialgericht: prüf
 | `erwerbsminderungsrente-belegfuehrung` | Erwerbsminderungsrente Belegfuehrung. Skill erklaert wie Selbstvertreter im EM-Rentenstreit medizinische Belege sammeln und gewichten Arztberichte Klinikberichte Reha-Berichte Privatgutachten Pflegegrad-Bezuege. Liefert Strategie. |
 | `fahrtkosten-zeugen-pkh-erstattung` | Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren. JVEG für Zeugen Sachverständige und Sie selbst. Praktischer Leitfaden. |
 | `feststellungsklage-55-sgg` | Die Feststellungsklage nach § 55 SGG. Wenn ein Rechtsverhältnis geklaert werden muss. Versicherungspflicht Versicherungsstatus berechtigtes Interesse Mustertext. |
-| `gdb-feststellung-versorgungsamt-sgb-ix` | GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften fuer chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage. |
+| `gdb-feststellung-versorgungsamt-sgb-ix` | GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften für chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage. |
 | `gerichtskostenfreiheit-183-sgg` | Kein Geld für das Gericht. § 183 SGG erklärt die Kostenfreiheit für Versicherte Leistungsempfaenger und Behinderte. Wer zahlt was und was nicht. Anwaltskosten Fahrtkosten Auslagen. |
 
 ## Arbeitsweg
@@ -71,15 +71,15 @@ EM-Rente steht und faellt mit der medizinischen Beweisfuehrung. Selbstvertreter 
 - Bei Erfolg Erstattung selten.
 
 ### Pflegegrad-Bescheid
-- Indizwirkung fuer EM-Rente — nicht zwingend.
+- Indizwirkung für EM-Rente — nicht zwingend.
 
 ### MD-Stellungnahme
-- Bei Anhoerungen Akteneinsicht beantragen.
+- Bei Anhörungen Akteneinsicht beantragen.
 
 ## Strategie
 
 1. **Chronologische Sortierung**: Alle Belege nach Datum.
-2. **Diagnose-Cluster**: Welche Diagnose ist fuer EM relevant?
+2. **Diagnose-Cluster**: Welche Diagnose ist für EM relevant?
 3. **Tagesablauf-Tagebuch**: 14 Tage konkret dokumentieren.
 4. **Schweigepflichtentbindung** an behandelnde Aerzte.
 5. **Selbstauskunft** strukturiert.
@@ -112,7 +112,7 @@ Wer zum Gericht faehrt oder Zeuge ist, hat Auslagen. Hier lernen Sie, wer was be
 
 ## In einfacher Sprache
 
-Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat oder die Behoerde zahlen. Wir zeigen, wie.
+Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat oder die Behörde zahlen. Wir zeigen, wie.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -124,7 +124,7 @@ Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat 
 
 - **JVEG**: Justizverguetungs- und -entschaedigungsgesetz.
 - **Reisekosten**: Fahrtkosten + Tagegeld + Uebernachtung.
-- **Verdienstausfall**: Lohnersatz fuer abwesende Stunden.
+- **Verdienstausfall**: Lohnersatz für abwesende Stunden.
 
 ## Rechtsgrundlagen
 
@@ -133,7 +133,7 @@ Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat 
 - **§§ 19 ff. JVEG** — Verdienstausfall.
 - **§ 191 SGG** — Auslagen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wer ist Anspruchsberechtigt
 
@@ -244,7 +244,7 @@ Manchmal geht es nicht um Geld oder einen Bescheid, sondern um die Frage: Was gi
 
 ## In einfacher Sprache
 
-Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht nicht um Geld, sondern um Klarheit. Dafuer gibt es die Feststellungsklage.
+Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht nicht um Geld, sondern um Klarheit. Dafür gibt es die Feststellungsklage.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -255,7 +255,7 @@ Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Rechtsverhaeltnis**: Beziehung zwischen Ihnen und der Behoerde mit rechtlichen Folgen.
+- **Rechtsverhaeltnis**: Beziehung zwischen Ihnen und der Behörde mit rechtlichen Folgen.
 - **Berechtigtes Interesse**: Sie muessen ein konkretes Interesse an der Feststellung haben.
 - **Subsidiaritaet**: Feststellungsklage nur, wenn andere Klagearten nicht reichen.
 
@@ -265,7 +265,7 @@ Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht
 - **§ 55 Abs. 1 Nr. 3 SGG** — Feststellung der Versicherungspflicht.
 - **§ 78 SGG** — Vorverfahren in der Regel nicht noetig.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Feststellungsklage richtig ist
 
@@ -287,7 +287,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde / Traeger]
+[Behörde / Traeger]
 [Adresse]
 
 — Beklagte —
@@ -316,7 +316,7 @@ III. Rechtliche Wuerdigung
 [Argumentation]
 
 Anlagen:
-- Schriftverkehr mit Behoerde
+- Schriftverkehr mit Behörde
 - Vertraege, Bescheinigungen
 
 [Unterschrift]
@@ -326,9 +326,9 @@ Anlagen:
 
 Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 
-- Klarheit fuer kuenftige Antraege
+- Klarheit für kuenftige Antraege
 - Vermeidung von Schadensersatz-Streit
-- Klarheit fuer berufliche Entscheidung
+- Klarheit für berufliche Entscheidung
 
 ## Worauf Sie besonders achten muessen
 
@@ -339,7 +339,7 @@ Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 
 - Feststellungsklage statt Anfechtung → falsch
 - Allgemeines Interesse statt konkret → reicht nicht
-- "Klage gegen Behoerde generell" → konkrete Frage formulieren
+- "Klage gegen Behörde generell" → konkrete Frage formulieren
 
 ## Querverweise
 
@@ -362,7 +362,7 @@ Stand: 05/2026. § 55 SGG aktuell.
 
 ## 4. `gdb-feststellung-versorgungsamt-sgb-ix`
 
-**Fokus:** GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften fuer chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage.
+**Fokus:** GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften für chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage.
 
 # Gdb Feststellung Versorgungsamt Sgb Ix
 
@@ -376,9 +376,9 @@ Stand: 05/2026. § 55 SGG aktuell.
 
 ## Antragsverfahren
 
-1. Antrag bei Versorgungsamt (in den Laendern unterschiedlich strukturiert).
+1. Antrag bei Versorgungsamt (in den Ländern unterschiedlich strukturiert).
 2. Aerztliche Unterlagen einreichen.
-3. Pruefung durch versorgungsaerztlichen Dienst (regelmaessig ohne persoenliche Untersuchung).
+3. Pruefung durch versorgungsaerztlichen Dienst (regelmaessig ohne persönliche Untersuchung).
 4. Bescheid mit GdB und Merkzeichen.
 
 ## Versorgungsmedizinverordnung (VersMedV)
@@ -393,7 +393,7 @@ Stand: 05/2026. § 55 SGG aktuell.
 - Bandscheibenleiden mit Funktionsstoerung: GdB 30-50.
 - Depression mittel: GdB 30-40, schwer 50-70.
 - Schwerhoerigkeit beidseits: GdB 30-100.
-- Krebserkrankung: GdB 50 mindestens fuer 5 Jahre (Heilungsbewaehrung).
+- Krebserkrankung: GdB 50 mindestens für 5 Jahre (Heilungsbewaehrung).
 
 ## Mehrere Beeintraechtigungen
 
@@ -428,10 +428,10 @@ Stand: 05/2026. § 55 SGG aktuell.
 
 **Fokus:** Kein Geld für das Gericht. § 183 SGG erklärt die Kostenfreiheit für Versicherte Leistungsempfaenger und Behinderte. Wer zahlt was und was nicht. Anwaltskosten Fahrtkosten Auslagen.
 
-# Das Gericht ist fuer Sie kostenfrei — § 183 SGG
+# Das Gericht ist für Sie kostenfrei — § 183 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Das Gericht ist fuer Sie kostenfrei — § 183 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Das Gericht ist für Sie kostenfrei — § 183 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -454,19 +454,19 @@ Das Sozialgericht kostet Sie nichts. Auch wenn Sie verlieren. Sie zahlen keine G
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Gerichtskosten**: Gebuehren, die das Gericht fuer das Verfahren verlangt. Am SG faellt das fuer Sie weg.
+- **Gerichtskosten**: Gebühren, die das Gericht für das Verfahren verlangt. Am SG faellt das für Sie weg.
 - **Auslagen**: Was das Gericht ausgeben muss (Gutachter, Zeugen, Dolmetscher). Auch das traegt am SG meistens die Staatskasse.
-- **Verfahrensbeguenstigte**: Personen, die kostenfrei sind. Versicherte, Leistungsempfaenger, Behinderte.
-- **Aufwendungsersatz**: Was die unterliegende Behoerde Ihnen erstatten muss, wenn Sie gewinnen (siehe `kostenfrei-vs-aufwendungsersatz-193-sgg`).
+- **Verfahrensbegünstigte**: Personen, die kostenfrei sind. Versicherte, Leistungsempfaenger, Behinderte.
+- **Aufwendungsersatz**: Was die unterliegende Behörde Ihnen erstatten muss, wenn Sie gewinnen (siehe `kostenfrei-vs-aufwendungsersatz-193-sgg`).
 
 ## Rechtsgrundlagen
 
-- **§ 183 SGG** — Verfahrenskosten-Freiheit fuer Versicherte, Leistungsempfaenger, Schwerbehinderte.
-- **§ 184 SGG** — Pauschalgebuehren fuer Klagen von Behoerden und juristischen Personen, die nicht unter § 183 SGG fallen.
+- **§ 183 SGG** — Verfahrenskosten-Freiheit für Versicherte, Leistungsempfaenger, Schwerbehinderte.
+- **§ 184 SGG** — Pauschalgebuehren für Klagen von Behörden und juristischen Personen, die nicht unter § 183 SGG fallen.
 - **§ 193 SGG** — Wer zahlt die aussergerichtlichen Kosten?
 - **§ 109 SGG** — Eigenes Gutachten zahlen Sie selbst (Ausnahme!).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sie kostenfrei sind
 
@@ -500,7 +500,7 @@ Nicht kostenfrei ist:
 
 ### Schritt 4 — Bei Erfolg
 
-Wenn Sie gewinnen, muss die unterliegende Behoerde Ihnen die notwendigen aussergerichtlichen Kosten erstatten (§ 193 SGG). Das umfasst:
+Wenn Sie gewinnen, muss die unterliegende Behörde Ihnen die notwendigen aussergerichtlichen Kosten erstatten (§ 193 SGG). Das umfasst:
 
 - Anwaltskosten (bei beauftragtem Anwalt)
 - Fahrtkosten zum Termin

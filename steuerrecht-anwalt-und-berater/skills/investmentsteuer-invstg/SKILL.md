@@ -17,8 +17,8 @@ description: "Skill zum Investmentsteuergesetz seit 2018 — Investmentfonds Tei
 2. Welche Anlagebedingungen erfuellt der Fonds (Aktien Misch Immobilien)?
 3. Greift Teilfreistellung § 20 InvStG je nach Fondskategorie?
 4. Wie wird die Vorabpauschale § 18 InvStG ermittelt?
-5. Sind Erstattungsantraege fuer Quellensteuer aus dem Fonds moeglich?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+5. Sind Erstattungsantraege für Quellensteuer aus dem Fonds moeglich?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

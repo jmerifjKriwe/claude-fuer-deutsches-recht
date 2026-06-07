@@ -19,7 +19,7 @@ Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft. Die Prüfung konz
 
 ## Aufgabe
 
-Skill fuer Familienzuschlag — Stufen, Berechnung, eingetragene Lebenspartnerschaft.
+Skill für Familienzuschlag — Stufen, Berechnung, eingetragene Lebenspartnerschaft.
 
 ## Norm
 
@@ -35,7 +35,7 @@ Skill fuer Familienzuschlag — Stufen, Berechnung, eingetragene Lebenspartnersc
 ## Eingetragene Lebenspartnerschaft
 
 - Seit BVerfG 2 BvR 909/06 vom 07.05.2013 gleichgestellt.
-- Auch fuer Lebenspartnerschaften aus dem Ausland (mit Anerkennung).
+- Auch für Lebenspartnerschaften aus dem Ausland (mit Anerkennung).
 
 ## Pflegekind / Stiefkind
 

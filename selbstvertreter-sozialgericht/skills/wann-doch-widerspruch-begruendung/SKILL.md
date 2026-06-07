@@ -58,8 +58,8 @@ Manchmal ist es klueger, einen Anwalt zu nehmen. Wir sagen Ihnen, wann.
 ## Fachbegriffe (kurz erklaert)
 
 - **PKH**: Prozesskostenhilfe — Staatliche Uebernahme der Anwaltskosten.
-- **Beratungshilfe**: 15 EUR Eigenanteil fuer Anwalts-Beratung vor dem Verfahren.
-- **Fachanwalt fuer Sozialrecht**: Spezialisierter Anwalt mit Erfahrung im SGG.
+- **Beratungshilfe**: 15 EUR Eigenanteil für Anwalts-Beratung vor dem Verfahren.
+- **Fachanwalt für Sozialrecht**: Spezialisierter Anwalt mit Erfahrung im SGG.
 
 ## Rechtsgrundlagen
 
@@ -67,7 +67,7 @@ Manchmal ist es klueger, einen Anwalt zu nehmen. Wir sagen Ihnen, wann.
 - **§ 73a SGG** — PKH.
 - **Beratungshilfegesetz (BerHG)** — Beratungshilfe.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Konstellation 1 — Komplexer medizinischer Streit
 
@@ -85,7 +85,7 @@ Warum Anwalt: Uebersicht ueber Wechselwirkungen, mehrere Verfahren parallel fueh
 
 Wann: Sie haben am SG verloren und wollen ins LSG.
 
-Warum Anwalt: Verfahren wird formeller; Behoerde hat dann oft Anwalt.
+Warum Anwalt: Verfahren wird formeller; Behörde hat dann oft Anwalt.
 
 ### Konstellation 4 — Existenzielle Bedeutung
 
@@ -115,7 +115,7 @@ Warum Anwalt: Sie schonen sich.
 
 Anwaltszwang. Sie MUESSEN Anwalt nehmen.
 
-## Schritt-fuer-Schritt: Anwalt finden
+## Schritt-für-Schritt: Anwalt finden
 
 ### Schritt 1 — Beratungshilfe-Schein holen
 
@@ -124,7 +124,7 @@ Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
 ### Schritt 2 — Anwalt suchen
 
 - VdK / SoVD (oft schon im Mitgliedsbeitrag)
-- Fachanwalt fuer Sozialrecht (Anwaltsregister)
+- Fachanwalt für Sozialrecht (Anwaltsregister)
 - DAV-Suchportal www.anwaltverein.de
 
 ### Schritt 3 — Erstgespraech
@@ -147,7 +147,7 @@ Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
 
 ## Worauf Sie besonders achten muessen
 
-- **Sozialverbaende sind oft die guenstigste Loesung**: 5 bis 10 EUR Monatsbeitrag fuer komplette Vertretung.
+- **Sozialverbaende sind oft die guenstigste Loesung**: 5 bis 10 EUR Monatsbeitrag für komplette Vertretung.
 - **PKH beantragen** wenn Sie wenig Geld haben.
 - **Anwaltskosten bei Erfolg**: Beklagte erstattet (§ 193 SGG).
 
@@ -173,10 +173,10 @@ Stand: 05/2026. Praxisempfehlung.
 
 **Fokus:** Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen.
 
-# So begruenden Sie Ihren Widerspruch — fuer Laien
+# So begruenden Sie Ihren Widerspruch — für Laien
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `So begruenden Sie Ihren Widerspruch — fuer Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `So begruenden Sie Ihren Widerspruch — für Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -199,24 +199,24 @@ Sie haben Widerspruch eingelegt. Jetzt muessen Sie sagen warum. Erklaeren Sie Ih
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Begruendung**: Warum Sie den Bescheid fuer falsch halten.
+- **Begruendung**: Warum Sie den Bescheid für falsch halten.
 - **Tatsache**: Was tatsaechlich passiert ist oder gilt (z.B. Ihre Erkrankung, Ihr Einkommen).
 - **Beweismittel**: Was eine Tatsache belegt (Arztbericht, Kontoauszug, Zeugen).
 - **Subsumtion**: Anwendung eines Gesetzes auf Ihren Fall.
-- **Abhilfe**: Wenn die Behoerde Ihnen recht gibt.
+- **Abhilfe**: Wenn die Behörde Ihnen recht gibt.
 
 ## Rechtsgrundlagen
 
 - **§ 84 Abs. 2 SGG** — Begruendung des Widerspruchs (nicht zwingend, aber sehr empfohlen).
-- **§ 24 SGB X** — Anhoerung; Sie duerfen sich zu allem aeussern.
+- **§ 24 SGB X** — Anhörung; Sie duerfen sich zu allem aeussern.
 - **§ 25 SGB X** — Akteneinsicht.
 - **§ 20 SGB X** — Untersuchungsgrundsatz auch im Vorverfahren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Akteneinsicht beantragen
 
-Lesen Sie zuerst, was die Behoerde ueber Sie hat. Beantragen Sie Akteneinsicht (§ 25 SGB X). Mustertext:
+Lesen Sie zuerst, was die Behörde ueber Sie hat. Beantragen Sie Akteneinsicht (§ 25 SGB X). Mustertext:
 
 ```
 Ich beantrage Akteneinsicht in die Sie betreffenden Verwaltungsakten nach § 25 SGB X. Bitte uebersenden Sie mir die Akte oder geben Sie einen Termin zur Einsicht in Ihren Raeumen.
@@ -225,7 +225,7 @@ Ich beantrage Akteneinsicht in die Sie betreffenden Verwaltungsakten nach § 25 
 ### Schritt 2 — Den Bescheid genau lesen
 
 - Welche Entscheidung wurde getroffen?
-- Welche Begruendung hat die Behoerde?
+- Welche Begruendung hat die Behörde?
 - Welche Tatsachen hat sie zugrunde gelegt?
 - Welches Gesetz nennt sie?
 
@@ -234,9 +234,9 @@ Ich beantrage Akteneinsicht in die Sie betreffenden Verwaltungsakten nach § 25 
 Schreiben Sie zunaechst formlos auf:
 
 - Was ist tatsaechlich passiert?
-- Was haben Sie der Behoerde gesagt / nicht gesagt?
+- Was haben Sie der Behörde gesagt / nicht gesagt?
 - Welche Aerzte / Belege / Zeugen haben Sie?
-- Was hat die Behoerde uebersehen oder falsch verstanden?
+- Was hat die Behörde uebersehen oder falsch verstanden?
 
 ### Schritt 4 — Aufbau der Begruendung
 
@@ -250,7 +250,7 @@ I. Sachverhalt
  - Daten, Namen, Adressen.
 
 II. Rechtliche Bewertung
- - Welche Entscheidung der Behoerde halte ich fuer falsch?
+ - Welche Entscheidung der Behörde halte ich für falsch?
  - Warum? (Tatsachen, die uebersehen wurden; Beweise, die nicht beachtet wurden; falsche Auslegung des Gesetzes)
 
 III. Antrag
@@ -261,7 +261,7 @@ IV. Beweismittel
  - Liste aller Anlagen, nummeriert.
 ```
 
-### Schritt 5 — Konkrete Beispiele fuer typische Themen
+### Schritt 5 — Konkrete Beispiele für typische Themen
 
 **Pflegegrad zu niedrig**: "Die Pflegekasse hat mit dem MD-Gutachten vom [Datum] Pflegegrad 2 festgestellt. Tatsaechlich brauche ich Hilfe bei [...]. Beigefuegt ist ein Pflegeprotokoll meiner Tochter ueber 14 Tage, das zeigt, dass ich taeglich ueber 90 Minuten Hilfe brauche. Damit liegt Pflegegrad 3 vor."
 
@@ -276,7 +276,7 @@ IV. Beweismittel
 - Pflegeprotokolle
 - Kontoauszuege
 - Mietvertrag
-- Schriftverkehr mit Behoerde
+- Schriftverkehr mit Behörde
 - Zeugenangaben (Name, Adresse)
 
 Nummerieren Sie die Anlagen: Anlage 1, Anlage 2 etc.
@@ -309,7 +309,7 @@ Per Einschreiben mit Rueckschein oder persoenlich gegen Empfangsbestaetigung.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 24 SGB X garantiert Ihr Anhoerungsrecht. § 25 SGB X gibt Anspruch auf Akteneinsicht. Bei Unsicherheit fragen Sie eine Beratungsstelle (VdK, SoVD).
+Stand: 05/2026. § 24 SGB X garantiert Ihr Anhörungsrecht. § 25 SGB X gibt Anspruch auf Akteneinsicht. Bei Unsicherheit fragen Sie eine Beratungsstelle (VdK, SoVD).
 
 ## Qualitäts-Hardening
 
@@ -360,7 +360,7 @@ Das Gutachten sagt: Sie haben kein Recht. Sie wissen aber, dass das Gutachten fa
 - **§ 411 ZPO analog (i.V.m. § 118 SGG)** — Erlaeuterung des Gutachtens.
 - **§ 60 SGG i.V.m. § 42 ZPO** — Ablehnung wegen Befangenheit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Gutachten gruendlich lesen
 
@@ -486,11 +486,11 @@ Stand: 05/2026. § 411 ZPO analog. Erlaeuterung im Termin selten verweigert.
 
 ## Worum geht es?
 
-Sie haben den Widerspruch eingelegt und gewartet. Jetzt ist die Antwort der Behoerde da: der Widerspruchsbescheid. Diese Skill zeigt, was er bedeutet und wie Sie weiter vorgehen.
+Sie haben den Widerspruch eingelegt und gewartet. Jetzt ist die Antwort der Behörde da: der Widerspruchsbescheid. Diese Skill zeigt, was er bedeutet und wie Sie weiter vorgehen.
 
 ## In einfacher Sprache
 
-Die Behoerde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bisschen. Wir helfen Ihnen zu verstehen, was im Brief steht und was Sie jetzt tun koennen.
+Die Behörde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bisschen. Wir helfen Ihnen zu verstehen, was im Brief steht und was Sie jetzt tun koennen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -500,10 +500,10 @@ Die Behoerde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bissc
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Widerspruchsbescheid**: Die abschliessende Antwort der Behoerde auf Ihren Widerspruch.
-- **Zurueckweisung**: Behoerde sagt Nein.
-- **Abhilfe**: Behoerde sagt Ja.
-- **Teilabhilfe**: Behoerde sagt zum Teil Ja.
+- **Widerspruchsbescheid**: Die abschliessende Antwort der Behörde auf Ihren Widerspruch.
+- **Zurueckweisung**: Behörde sagt Nein.
+- **Abhilfe**: Behörde sagt Ja.
+- **Teilabhilfe**: Behörde sagt zum Teil Ja.
 - **Klagefrist**: Zeit, um beim SG Klage einzureichen — 1 Monat ab Bekanntgabe.
 
 ## Rechtsgrundlagen
@@ -514,21 +514,21 @@ Die Behoerde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bissc
 - **§ 78 SGG** — Vorverfahren als Voraussetzung der Klage.
 - **§ 66 SGG** — Bei falscher / fehlender Rechtsbehelfsbelehrung: 1 Jahr Klagefrist.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Brief lesen und Bekanntgabedatum festhalten
 
 Schreiben Sie sich das Datum auf, an dem Sie den Brief bekommen haben. Wieder 4-Tage-Fiktion: 4. Tag nach Aufgabe zur Post.
 
-### Schritt 2 — Pruefen, was die Behoerde gesagt hat
+### Schritt 2 — Pruefen, was die Behörde gesagt hat
 
 Drei Moeglichkeiten:
 
-- **Volle Abhilfe**: Behoerde gibt Ihnen Recht. Geld kommt. Fertig.
-- **Teilabhilfe**: Behoerde gibt Ihnen teilweise Recht. Pruefen Sie genau, was bleibt.
-- **Volle Zurueckweisung**: Behoerde haelt am Bescheid fest. Klage moeglich.
+- **Volle Abhilfe**: Behörde gibt Ihnen Recht. Geld kommt. Fertig.
+- **Teilabhilfe**: Behörde gibt Ihnen teilweise Recht. Pruefen Sie genau, was bleibt.
+- **Volle Zurueckweisung**: Behörde haelt am Bescheid fest. Klage moeglich.
 
-Siehe `teilstattgabe-vollstattgabe-verstehen` fuer Details.
+Siehe `teilstattgabe-vollstattgabe-verstehen` für Details.
 
 ### Schritt 3 — Klage-Entscheidung treffen
 
@@ -536,7 +536,7 @@ Ueberlegen:
 
 - Habe ich noch Argumente, die nicht beruecksichtigt wurden?
 - Gibt es neue Beweismittel?
-- Ist meine Sache wichtig fuer mich (Geld, Existenz)?
+- Ist meine Sache wichtig für mich (Geld, Existenz)?
 - Was kostet mich das Verfahren? (Beim SG meistens nichts!)
 - Wie sind meine Chancen?
 
@@ -544,7 +544,7 @@ Ueberlegen:
 
 Wenn Sie klagen wollen:
 
-1. Adresse des zustaendigen SG finden (siehe `oertliche-zustaendigkeit-57-sgg`).
+1. Adresse des zuständigen SG finden (siehe `oertliche-zuständigkeit-57-sgg`).
 2. Klageart waehlen (siehe `klagearten-uebersicht-sgg`).
 3. Klage schriftlich oder zur Niederschrift einreichen.
 
@@ -581,7 +581,7 @@ Pruefen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptier
 ## Typische Fehler
 
 - "Ich denke noch ein paar Wochen nach" → Frist vergeht
-- Klage an die Behoerde statt ans SG → Klage geht an SG!
+- Klage an die Behörde statt ans SG → Klage geht an SG!
 - Bekanntgabedatum statt Bescheidsdatum verwechselt → Bekanntgabe zaehlt
 - Nicht erkennen, dass es Teilabhilfe ist → genau lesen
 
@@ -596,7 +596,7 @@ Pruefen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptier
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig fuer Bekanntgabefiktion.
+Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig für Bekanntgabefiktion.
 
 ## Qualitäts-Hardening
 
@@ -622,7 +622,7 @@ Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig fu
 
 ## Worum geht es?
 
-Wohngeld und Sozialhilfe sind verschieden. Auch das zustaendige Gericht ist verschieden. Diese Skill hilft Ihnen, das richtige Verfahren zu finden.
+Wohngeld und Sozialhilfe sind verschieden. Auch das zuständige Gericht ist verschieden. Diese Skill hilft Ihnen, das richtige Verfahren zu finden.
 
 ## In einfacher Sprache
 
@@ -632,28 +632,28 @@ Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsge
 
 - Streit ueber Wohngeld-Hoehe.
 - Streit ueber Sozialhilfe-Bewilligung.
-- Sie wissen nicht, welches Gericht zustaendig ist.
+- Sie wissen nicht, welches Gericht zuständig ist.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Wohngeld** (WoGG): Zuschuss zur Miete fuer Personen mit geringem Einkommen.
+- **Wohngeld** (WoGG): Zuschuss zur Miete für Personen mit geringem Einkommen.
 - **Sozialhilfe** (SGB XII): Lebensunterhalt-Sicherung.
 - **Wohngeldbehoerde**: meist die Stadt oder der Kreis.
-- **Sozialamt**: Behoerde fuer SGB XII.
+- **Sozialamt**: Behörde für SGB XII.
 
 ## Rechtsgrundlagen
 
 - **Wohngeldgesetz (WoGG)** — Anspruch und Hoehe.
 - **§ 7 SGB II** — Buergergeld.
 - **§ 41 SGB XII** — Grundsicherung im Alter / bei dauerhafter EM.
-- **§ 51 SGG** — Sozialgerichts-Zustaendigkeit.
-- **§ 40 VwGO** — Verwaltungsgerichts-Zustaendigkeit.
+- **§ 51 SGG** — Sozialgerichts-Zuständigkeit.
+- **§ 40 VwGO** — Verwaltungsgerichts-Zuständigkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was ist was?
 
-| Leistung | Behoerde | Gericht |
+| Leistung | Behörde | Gericht |
 |---|---|---|
 | Wohngeld | Wohngeldbehoerde (Stadt) | Verwaltungsgericht |
 | Buergergeld | Jobcenter | Sozialgericht |
@@ -663,7 +663,7 @@ Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsge
 ### Schritt 2 — Abgrenzung Wohngeld zu Buergergeld
 
 - **Wohngeld**: Wenn Sie genug Geld zum Leben haben, aber die Miete zu hoch ist.
-- **Buergergeld + KdU**: Wenn Sie auch Geld fuer den Lebensunterhalt brauchen.
+- **Buergergeld + KdU**: Wenn Sie auch Geld für den Lebensunterhalt brauchen.
 
 In manchen Faellen koennen Sie wahlen — Wohngeld ist oft attraktiver, weil ohne Vermoegens-Pruefung wie bei Buergergeld.
 
@@ -688,9 +688,9 @@ Bei Streit um Sozialhilfe / Grundsicherung:
 
 Wenn Sie nicht sicher sind, ob Sie Wohngeld oder Sozialhilfe / Buergergeld brauchen:
 
-- Antrag bei beiden Behoerden
-- § 16 SGB I sichert Frist: ein Antrag gilt fuer alle
-- Behoerden klaeren intern
+- Antrag bei beiden Behörden
+- § 16 SGB I sichert Frist: ein Antrag gilt für alle
+- Behörden klaeren intern
 
 ### Schritt 6 — Folge: Falsche Klage
 
@@ -711,7 +711,7 @@ Wenn Sie eine Wohngeld-Klage ans SG schicken: das SG verweist ans VG (§ 17a GVG
 ## Querverweise
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `sozialgericht-zustaendigkeit-51-sgg` — SG-Zustaendigkeit
+- `sozialgericht-zuständigkeit-51-sgg` — SG-Zuständigkeit
 - `buergergeld-jobcenter-sgb-ii` — Buergergeld
 - `grundsicherung-sgb-xii` — Grundsicherung
 

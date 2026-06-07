@@ -32,7 +32,7 @@ Eine historische Synopse stellt Normtexte verschiedener Epochen oder Rechtsordnu
 
 - **Rechtswissenschaft und Praxis**: Nutzer historischer Synopsen
 - **Bundesjustizministerium**: Synopsen-Begleitdokumente bei Gesetzreform
-- **Kommentatoren**: Mugdan als Ur-Synopse fuer BGB (Motiv vs. Protokoll vs. Text)
+- **Kommentatoren**: Mugdan als Ur-Synopse für BGB (Motiv vs. Protokoll vs. Text)
 - **Forschende Historiker**: Methodische Erarbeitung von Synopsen
 
 ## Typische Streitfragen / Forschungsfragen
@@ -45,7 +45,7 @@ Eine historische Synopse stellt Normtexte verschiedener Epochen oder Rechtsordnu
 
 ## Methodik
 
-- BGB-Fassungen: gesetze-im-internet.de (mit historischen Fassungen); ALEX/OeNB fuer RGBl. 1896
+- BGB-Fassungen: gesetze-im-internet.de (mit historischen Fassungen); ALEX/OeNB für RGBl. 1896
 - DDR-ZGB: GBl. I DDR 1975, 465 via ALEX/OeNB
 - WRV: documentArchiv.de; GG: gesetze-im-internet.de
 - Textvergleich: tabellarisch mit Kommentarspalte
@@ -58,4 +58,4 @@ Eine historische Synopse stellt Normtexte verschiedener Epochen oder Rechtsordnu
 
 ## Quellenregel
 
-BGB: gesetze-im-internet.de (historische Fassungen). DDR-ZGB: ALEX/OeNB. WRV und GG: documentArchiv.de und gesetze-im-internet.de. Quellenangabe fuer jede Textfassung zwingend.
+BGB: gesetze-im-internet.de (historische Fassungen). DDR-ZGB: ALEX/OeNB. WRV und GG: documentArchiv.de und gesetze-im-internet.de. Quellenangabe für jede Textfassung zwingend.

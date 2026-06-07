@@ -5,6 +5,24 @@ description: "Betäubungsmittelrecht: Kaltstart, Aktenlandkarte, Rollenklärung,
 
 # Betäubungsmittelrecht - Allgemeiner Einstieg
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 BtMG` — Betäubungsmittelbegriff und Anlagenbezug.
+- `§ 3 BtMG` — Erlaubnispflicht.
+- `§ 29 Abs. 1 BtMG` — Grundtatbestaende.
+- `§ 29a Abs. 1 BtMG` — nicht geringe Menge/Abgabe an Minderjaehrige.
+- `§ 30 Abs. 1 BtMG` — Verbrechenstatbestaende.
+- `§ 30a Abs. 1 BtMG` — bewaffnete/organisierte Konstellationen.
+- `§ 31 BtMG` — Aufklaerungshilfe.
+- `§ 35 BtMG` — Zurueckstellung der Strafvollstreckung.
+- `§ 36 BtMG` — Anrechnung Therapie.
+- `§ 94 StPO` — Sicherstellung/Beschlagnahme.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Aufgabe
 
 Führt in Betäubungsmittelrecht ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.

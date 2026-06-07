@@ -13,7 +13,7 @@ description: "Zeitvergleich Vorjahr in der BWA grafisch und tabellarisch. Anwend
 
 ## Kernsachverhalt
 
-Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraech und das Bankreporting empfiehlt sich die grafische Aufbereitung des Vorjahresvergleichs: Liniendiagramme fuer Umsatz und Ergebnis ueber 12 Monate, Balkengrafik fuer kumulierte Werte, Heatmap fuer monatliche Abweichungen. Der Steuerberater nutzt die DATEV-/Addison-Grafik-Module oder exportiert die Daten in eine Excel-/PowerPoint-Vorlage.
+Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraech und das Bankreporting empfiehlt sich die grafische Aufbereitung des Vorjahresvergleichs: Liniendiagramme für Umsatz und Ergebnis ueber 12 Monate, Balkengrafik für kumulierte Werte, Heatmap für monatliche Abweichungen. Der Steuerberater nutzt die DATEV-/Addison-Grafik-Module oder exportiert die Daten in eine Excel-/PowerPoint-Vorlage.
 
 ## Kaltstart-Rueckfragen
 
@@ -22,7 +22,7 @@ Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraec
 3. Welche Zeitachse — letzte 12 Monate rollierend, Kalenderjahr, mehrere Jahre?
 4. Welche Grafik-Form — Liniendiagramm, Balken, kombiniert, Heatmap?
 5. Welche Tool-Wahl — DATEV-Grafik-Modul, Excel, PowerPoint, Power BI?
-6. Welches Layout — A4-Format, A3 fuer Praesentation, Bildschirm-Praesentation?
+6. Welches Layout — A4-Format, A3 für Praesentation, Bildschirm-Praesentation?
 7. Welche Hervorhebungen — Trendlinien, gleitende Durchschnitte, Krisen-Markierungen?
 8. Welche Mandanten-Identitaet (Logo, Farben)?
 
@@ -91,7 +91,7 @@ Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraec
 - Mandantenlogo oben links, Stichtag oben rechts.
 - Maximal 2 Grafiken pro A4-Seite.
 - Standard-Schriftgroesse 10pt mit Achsenbeschriftung 8pt.
-- Farbpalette einheitlich (z.B. Blau fuer Vorjahr, Grun fuer Berichtsjahr, Rot fuer Sondereffekte).
+- Farbpalette einheitlich (z.B. Blau für Vorjahr, Grun für Berichtsjahr, Rot für Sondereffekte).
 
 ### Phase 6 — Versand
 
@@ -103,12 +103,12 @@ Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraec
 
 - BWA-Grafik-Anhang mit 3-5 Standardgrafiken.
 - Erlaeuterungstext zu jeder Grafik.
-- Praesentationsvorlage fuer Quartalsgespraech.
+- Praesentationsvorlage für Quartalsgespraech.
 
 ## Strategie und Praxis-Tipps
 
 - Grafische Aufbereitung ist Mandantenbindungs-Instrument; mit Abstand wirkungsvoller als reine Tabelle.
-- Standardisierung in der Kanzlei — gleiches Layout, gleiche Farbcodierung fuer alle Mandanten.
+- Standardisierung in der Kanzlei — gleiches Layout, gleiche Farbcodierung für alle Mandanten.
 - Achtung: Skalen-Manipulation vermeiden (Y-Achse nicht bei Null, sondern bei realer Bandbreite — gilt als unredlich nur bei boswilliger Verzerrung).
 - Bei Krisensignalen Grafik mit roter Markierung; visuelle Verstaerkung der Warnung.
 - StBVV: Standard-Grafik pauschaliert, Sonderformate mit Zeithonorar.

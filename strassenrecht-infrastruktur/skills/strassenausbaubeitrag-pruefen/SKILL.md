@@ -28,8 +28,21 @@ Strassenausbaubeitrag Pruefen wird nicht als abstraktes Schema beantwortet, sond
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 90 GG` — Bundesfernstrassenverwaltung.
+- `§ 1 FStrG` — Bundesfernstrassen.
+- `§ 2 FStrG` — Widmung, Umstufung, Einziehung.
+- `§ 3 FStrG` — Baulast.
+- `§ 9 FStrG` — Anbauverbote und -beschraenkungen.
+- `§ 17 FStrG` — Planfeststellung.
+- `§ 17a FStrG` — Plangenehmigung/Planfeststellungsverfahren.
+- `§ 74 VwVfG` — Planfeststellungsbeschluss.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - FStrG, Landesstraßengesetze, Straßenbaulast, Widmung, Einziehung
 - Planfeststellung, Plangenehmigung, Umweltprüfung, Grunderwerb
 - Sondernutzung, Anlieger, Verkehrssicherung, Finanzierung

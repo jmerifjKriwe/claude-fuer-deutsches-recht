@@ -36,17 +36,17 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 - **KHG § 6a** Bundeseinheitliche Leistungsgruppen, Anlage zum KHG.
 - **KHEntgG § 5** Verguetung an LG geknuepft, Vorhalteanteil.
 - **SGB V § 135a, 136, 137** Qualitaetssicherung, Strukturmerkmale.
-- **G-BA-Strukturqualitaetsrichtlinien** (z. B. fuer Stroke Units, Perinatalzentren, Onkologie).
+- **G-BA-Strukturqualitaetsrichtlinien** (z. B. für Stroke Units, Perinatalzentren, Onkologie).
 - **Landeskrankenhausgesetze** Ausnahmen aus Sicherstellungsgruenden, Kooperationsregelungen.
 - **OPS- und ICD-Klassifikation** zur Zuordnung Fall → LG (BfArM/InEK).
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **LG identifizieren:** Welche LG ist betroffen? Anlage KHG nutzen, ggf. Vorgaben des Landes.
 2. **Strukturqualitaetsmerkmale auflisten:** Personal (Aerzte, Pflege, qualifiziert), Geraete, 24/7-Bereitschaft, intensivmed. Anbindung.
 3. **Erfuellungsgrad messen:** Nachweise (Dienstplaene, Geraeteliste, Personalmeldung) auswerten.
 4. **Luecken identifizieren:** Welche Merkmale fehlen, wie zeitnah erfuellbar?
 5. **Kooperationsmodelle pruefen:** Verbund-LG, Konsiliar-Anbindung, Teleneurologie, Telemedizin.
-6. **Bescheid pruefen oder Antrag formulieren:** Sachverhaltsfeststellung der Behoerde gegen tatsaechliche Lage abgleichen.
+6. **Bescheid pruefen oder Antrag formulieren:** Sachverhaltsfeststellung der Behörde gegen tatsaechliche Lage abgleichen.
 
 ## Trade-off-Matrix
 
@@ -54,7 +54,7 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 |---|---|---|
 | LG vollumfaenglich selbst erfuellen | volle Planautoritaet | hohe Personalkosten, ggf. Doppelvorhaltung |
 | Kooperation/Verbund | Aufgabenteilung | Steuerungsaufwand, Vertragsgestaltung |
-| Telemedizin-Anbindung | guenstig, schnell | nur fuer bestimmte LG zulaessig (z. B. Stroke) |
+| Telemedizin-Anbindung | guenstig, schnell | nur für bestimmte LG zulaessig (z. B. Stroke) |
 | LG abgeben | Konzentration auf Kernportfolio | Erloesausfall, Personalfolgen |
 
 ## Praxistipps
@@ -62,14 +62,14 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 - Strukturmerkmale werden teils stufenweise scharf gestellt (Konvergenz 2025-2027).
 - Personalmeldung an InEK ist nicht identisch mit LG-Strukturnachweis — beides braucht es.
 - G-BA-Richtlinien (Stroke, Perinatal, Onkologie) gelten parallel und sind oft strenger.
-- LG-Verlust ist meist verbunden mit Erloesrueckgang und Konsequenz fuer Vorhaltebudget.
+- LG-Verlust ist meist verbunden mit Erloesrueckgang und Konsequenz für Vorhaltebudget.
 
 ## Mustertexte
-**Strukturqualitaetsnachweis fuer LG-Antrag:**
+**Strukturqualitaetsnachweis für LG-Antrag:**
 > Anlage 1: Personalbesetzung Stichtag [Datum]. Anlage 2: Geraeteliste (z. B. CT 24/7, MRT, Linksherzkatheter). Anlage 3: Dienstplan zum Nachweis der 24/7-Praesenz. Anlage 4: Kooperationsvertraege Konsiliararzt/Telemedizin.
 
 **Widerspruch gegen LG-Versagung:**
-> Gegen den Bescheid vom [Datum], zugestellt am [Datum], wird Widerspruch eingelegt. Begruendung folgt. Die Strukturqualitaetsmerkmale fuer LG [Nr.] sind ausweislich der beigefuegten Nachweise erfuellt … hilfsweise: Sicherstellungsausnahme nach Landeskrankenhausgesetz.
+> Gegen den Bescheid vom [Datum], zugestellt am [Datum], wird Widerspruch eingelegt. Begruendung folgt. Die Strukturqualitaetsmerkmale für LG [Nr.] sind ausweislich der beigefuegten Nachweise erfuellt … hilfsweise: Sicherstellungsausnahme nach Landeskrankenhausgesetz.
 
 ## Typische Fehler
 - LG mit OPS-Code verwechseln: OPS triggert LG, ist aber nicht die LG selbst.

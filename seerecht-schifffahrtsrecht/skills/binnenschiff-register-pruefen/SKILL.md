@@ -1,13 +1,13 @@
 ---
 name: binnenschiff-register-pruefen
-description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prueft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prueft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Binnenschiff – Registerprüfung
 
 ## Arbeitsbereich
 
-Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prueft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prueft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,10 +18,10 @@ Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prueft Binne
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine finanzierende Bank prueft den Binnenschiffsregister (AG Duisburg-Ruhrort) vor Auszahlung eines Kredits fuer ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste fuer die Masse.
+Eine finanzierende Bank prueft den Binnenschiffsregister (AG Duisburg-Ruhrort) vor Auszahlung eines Kredits für ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste für die Masse.
 
 ## Erste Schritte
-1. Aktuellen Registerauszug (Binnenschiffsregister (AG Duisburg-Ruhrort)) beim zustaendigen Gericht beschaffen.
+1. Aktuellen Registerauszug (Binnenschiffsregister (AG Duisburg-Ruhrort)) beim zuständigen Gericht beschaffen.
 2. Eigentuemerstellung (Abt. I) pruefen; Verkaeufereigenschaft bestaetigen.
 3. Hypothekenabteilung (Abt. II): Betrag, Rang, Glaeubiger und Faelligkeit.
 4. Gesetzliche Vorrechte identifizieren (HGB §§ 596-601 oder BinSchG §§ 102-116).
@@ -29,7 +29,7 @@ Eine finanzierende Bank prueft den Binnenschiffsregister (AG Duisburg-Ruhrort) v
 6. Registerpruefprotokoll erstellen; Rangkarte und Risikoampel ausgeben.
 
 ## Rechtsrahmen
-- BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO; SchRegO §§ 3-19 Registerführung; BGB §§ 892-893 Gutglaubensschutz im Register. ADN-Gefahrgut Binnenwasserstrassen; RheinSchPersV; CESNI-Standards.
+- BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO; SchRegO §§ 3-19 Registerführung; BGB §§ 892-893 Gutglaubensschutz im Register. ADN-Gefahrgut Binnenwasserstrassen; RheinSchPersV; CESNI-Standards.
 
 ## Prüfraster
 - Stimmt eingetragener Eigentümer mit dem Verkäufer des Binnenmotorgueterschiff; Tanker oder Fahrgastschiffs überein?

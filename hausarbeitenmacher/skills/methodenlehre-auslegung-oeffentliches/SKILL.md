@@ -1,13 +1,13 @@
 ---
 name: methodenlehre-auslegung-oeffentliches
-description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-fuer-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-für-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Methodenlehre und Auslegung
 
 ## Arbeitsbereich
 
-Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-fuer-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-für-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -220,7 +220,7 @@ geschützt.
 
 ## Übergang zu
 
-- `subsumtion-schritt-fuer-schritt` — Subsumtions-Übung
+- `subsumtion-schritt-für-schritt` — Subsumtions-Übung
 - `meinungsstreit-darstellen` — bei Streit-Punkten ausführlich
 - `verfassungsrecht-grundrechtspruefung` — bei Grundrechts-Auswirkungen
 - `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — bei EU-Bezug

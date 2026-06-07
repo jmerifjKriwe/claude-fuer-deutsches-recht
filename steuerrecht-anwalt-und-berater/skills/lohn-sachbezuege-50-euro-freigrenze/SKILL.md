@@ -30,7 +30,7 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 
 ### Primaernormen
 
-**§ 8 Abs. 2 Satz 11 EStG** — 50-EUR-Freigrenze fuer Sachbezuege.
+**§ 8 Abs. 2 Satz 11 EStG** — 50-EUR-Freigrenze für Sachbezuege.
 
 **§ 8 Abs. 1 EStG** — Geldzufluss vs. Sachzufluss.
 
@@ -52,7 +52,7 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 
 | Form | Sachbezug? |
 |---|---|
-| Gutschein/Karte fuer konkretes Geschaeft (z.B. nur Tankstelle) | Ja (Sachbezug) |
+| Gutschein/Karte für konkretes Geschaeft (z.B. nur Tankstelle) | Ja (Sachbezug) |
 | Gutschein nur online einlosbar (Amazon-Gutschein) | Ja bei ZAG-Konformitaet |
 | Geldkarte (allgemeine Akzeptanzstelle) | Nein (Geldzuwendung) |
 | Kreditkartenguthaben | Nein |
@@ -66,20 +66,20 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 
 - Monatlich Summe Sachbezuege je AN.
 - Ueberschreitung 50 EUR: die GESAMTE monatliche Zuwendung ist lohnsteuer- und SV-pflichtig — nicht nur der ueberschreitende Teil (Freigrenze, nicht Freibetrag).
-- Aufmerksamkeiten zu persoenlichen Anlaessen (Geburtstag, Hochzeit) bis 60 EUR LSt-frei (gesonderte Regelung R 19.6 LStR, nicht Sachbezugs-Freigrenze; vgl. `stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro`).
+- Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit) bis 60 EUR LSt-frei (gesonderte Regelung R 19.6 LStR, nicht Sachbezugs-Freigrenze; vgl. `stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro`).
 - Sachbezugswerte SvEV (Verpflegung, Unterkunft) jaehrlich angepasst (Stand 2025: Verpflegung frei 313 EUR/Monat, Fruehstueck 2,17 EUR, Mittag/Abend je 4,13 EUR; Werte 2026 ueber BMAS/SvEV-VO pruefen).
 - Zahlenbeispiel: Tankgutschein 49 EUR + Sachgeschenk 5 EUR im selben Monat = 54 EUR; Folge — vollstaendige Versteuerung der 54 EUR, weil 50-EUR-Grenze ueberschritten.
 
-### Phase 3 — Inflationsausgleichspraemie (2022-2024 — fuer 2026 NICHT mehr anwendbar)
+### Phase 3 — Inflationsausgleichspraemie (2022-2024 — für 2026 NICHT mehr anwendbar)
 
 - § 3 Nr. 11c EStG: Bis 3.000 EUR Inflationsausgleichspraemie LSt- und SV-frei, gueltig vom 26.10.2022 bis 31.12.2024.
 - Voraussetzung: zusaetzlich zum Lohn; nicht auf bestehende Verguetung umgestellt.
-- Bei laufenden Abrechnungen 2026 nicht mehr nutzbar; nur fuer rueckblickende DRV- oder Lohnsteuer-Aussenpruefungen Pruefzeitraum 2022-2024 relevant.
+- Bei laufenden Abrechnungen 2026 nicht mehr nutzbar; nur für rueckblickende DRV- oder Lohnsteuer-Aussenpruefungen Pruefzeitraum 2022-2024 relevant.
 
 ### Phase 4 — Pauschalierung § 37b EStG
 
 - AG kann Sachzuwendungen pauschal mit 30 Prozent (zzgl. KiSt und SolZ) versteuern.
-- Wahlrecht; einheitlich fuer alle Empfaenger.
+- Wahlrecht; einheitlich für alle Empfaenger.
 - Vorteil: AN-netto.
 - Nachteil: Beitragspflichtig in SV (PE-Pflicht).
 
@@ -105,7 +105,7 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 
 - 50-EUR-Freigrenze ist beliebter Gestaltungshebel — bei sorgfaeltiger Dokumentation problemlos.
 - Gutscheine streng abgrenzen: BMF v. 13.04.2021 wichtig — nur ZAG-Sachgutscheine zaehlen.
-- Aufmerksamkeiten 60 EUR pro persoenlichem Anlass NICHT in 50 EUR-Grenze eingerechnet (eigene Regelung).
+- Aufmerksamkeiten 60 EUR pro persönlichem Anlass NICHT in 50 EUR-Grenze eingerechnet (eigene Regelung).
 - Bei Hochzeitsgeschenk + Geburtstagsgeschenk im selben Monat: beide Aufmerksamkeiten getrennt zu pruefen.
 - Pauschalierung § 37b EStG bei groesseren Streuwerbeartikel-Verteilungen sinnvoll.
 - StBVV: in Lohnpauschale; Sondergestaltungen Zeithonorar.

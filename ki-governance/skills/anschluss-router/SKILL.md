@@ -135,16 +135,16 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Unternehmen, Kanzleien und Datenschutzbeauftragte bei der Einhaltung der EU-KI-Verordnung (VO 2024/1689, in Kraft seit 01.08.2024) sowie der DSGVO im Kontext von KI-Systemen. Es deckt die gesamte KI-Governance ab: Use-Case-Triage gegen verbotene Praktiken und Hochrisiko-Kategorien, KI-Inventar mit Rollenklassifizierung, Folgenabschaetzung (FRIA nach Art. 27 KI-VO und DSFA nach Art. 35 DSGVO), Vendor-Review fuer KI-Anbietervertraege, Richtlinien-Monitor und Erstellung interner KI-Richtlinien.
+Dieses Plugin unterstuetzt Unternehmen, Kanzleien und Datenschutzbeauftragte bei der Einhaltung der EU-KI-Verordnung (VO 2024/1689, in Kraft seit 01.08.2024) sowie der DSGVO im Kontext von KI-Systemen. Es deckt die gesamte KI-Governance ab: Use-Case-Triage gegen verbotene Praktiken und Hochrisiko-Kategorien, KI-Inventar mit Rollenklassifizierung, Folgenabschaetzung (FRIA nach Art. 27 KI-VO und DSFA nach Art. 35 DSGVO), Vendor-Review für KI-Anbietervertraege, Richtlinien-Monitor und Erstellung interner KI-Richtlinien.
 
-Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (Risikoeinstellung, Eskalationskontakte, Use-Case-Register) und kann Mandats-Workspaces fuer mehrere Klienten verwalten.
+Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (Risikoeinstellung, Eskalationskontakte, Use-Case-Register) und kann Mandats-Workspaces für mehrere Klienten verwalten.
 
 ## Wann brauchen Sie diese Skill?
 
 - Ihr Unternehmen moechte ein neues KI-System einfuehren und Sie muessen pruefen, ob es unter die KI-VO faellt und welche Risikoklasse gilt.
 - Sie benoetigen eine KI-Folgenabschaetzung (FRIA) nach Art. 27 KI-VO oder eine DSGVO-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO.
 - Sie pruefen einen KI-Anbietervertrag auf KI-VO-Konformitaet, Haftung und Transparenzpflichten nach Art. 25 KI-VO.
-- Die interne KI-Richtlinie soll gegen neue Regulierungen oder Behoerdenleitlinien geprueft und aktualisiert werden.
+- Die interne KI-Richtlinie soll gegen neue Regulierungen oder Behördenleitlinien geprueft und aktualisiert werden.
 - Sie wollen ein vollstaendiges KI-Inventar aller im Unternehmen eingesetzten Systeme nach Art. 3 KI-VO aufbauen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -152,9 +152,9 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 - **Anbieter** — Wer ein KI-System entwickelt oder entwickeln laesst und es in Verkehr bringt oder in Betrieb nimmt (Art. 3 Nr. 3 KI-VO).
 - **Betreiber** — Wer ein KI-System im eigenen Namen und unter eigener Kontrolle einsetzt (Art. 3 Nr. 4 KI-VO).
 - **Hochrisiko-KI** — KI-Systeme nach Anhang III KI-VO (z.B. biometrische Identifikation, Beschaeftigung, kritische Infrastruktur); erfordern umfassende Compliance-Pflichten.
-- **FRIA** — Fundamental Rights Impact Assessment nach Art. 27 KI-VO: Folgenabschaetzung fuer Grundrechte bei Hochrisiko-KI durch Betreiber.
-- **DSFA** — Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO; erforderlich bei hohem Risiko fuer Betroffene durch Datenverarbeitung.
-- **Allzweck-KI (GPAI)** — General Purpose AI Model; gesonderte Pflichten nach Art. 51 ff. KI-VO fuer Modelle mit systemischen Risiken.
+- **FRIA** — Fundamental Rights Impact Assessment nach Art. 27 KI-VO: Folgenabschaetzung für Grundrechte bei Hochrisiko-KI durch Betreiber.
+- **DSFA** — Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO; erforderlich bei hohem Risiko für Betroffene durch Datenverarbeitung.
+- **Allzweck-KI (GPAI)** — General Purpose AI Model; gesonderte Pflichten nach Art. 51 ff. KI-VO für Modelle mit systemischen Risiken.
 - **Verbotene Praktiken** — KI-Anwendungen, die nach Art. 5 KI-VO generell verboten sind (z.B. Sozial-Scoring, manipulative Techniken).
 
 ## Rechtsgrundlagen
@@ -168,7 +168,7 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 - Art. 35 DSGVO — Datenschutz-Folgenabschaetzung (DSFA)
 - Art. 13-14 DSGVO — Transparenzpflichten bei automatisierten Entscheidungen
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Unternehmen als Anbieter oder Betreiber, Branche, Groesse, welche KI-Systeme bereits im Einsatz oder geplant.
 2. Phase des Mandats bestimmen: Ersteinrichtung (Inventar, Profil), Triage neues KI-System, Folgenabschaetzung, Richtlinien-Erstellung oder Monitoring.
@@ -182,7 +182,7 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 
 - `ki-governance-kaltstart-interview` — Ersteinrichtung: KI-Inventar, Rolle in KI-Lieferkette, regulatorischen Anwendungsbereich erfassen.
 - `ki-governance-anpassen` — Praxisprofil aktualisieren: Risikoeinstellung, Eskalationskontakte, Module und Workspace-Pfade.
-- `ki-governance-mandat-arbeitsbereich` — Mandats-Workspaces verwalten fuer Mehrfachmandatsbetrieb.
+- `ki-governance-mandat-arbeitsbereich` — Mandats-Workspaces verwalten für Mehrfachmandatsbetrieb.
 
 **KI-Inventar und Klassifizierung**
 
@@ -196,9 +196,9 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 **Vendor und Richtlinien**
 
 - `ki-anbieter-pruefung` — KI-Anbietervertraege auf Governance-Positionen, Training auf Daten, Haftung und Art. 25 KI-VO pruefen.
-- `richtlinien-vorlage` — Interne KI-Nutzungsrichtlinie entwerfen auf Basis oeffentlicher Muster und Praxisprofil.
+- `richtlinien-vorlage` — Interne KI-Nutzungsrichtlinie entwerfen auf Basis öffentlicher Muster und Praxisprofil.
 - `richtlinien-monitor` — Interne KI-Richtlinie auf Abweichungen von der Praxis und neuen Regulierungen pruefen.
-- `regulierungs-luecken-analyse` — Neue KI-Regulierung oder Behoerdenleitlinie gegen aktuelle Governance-Position abgleichen.
+- `regulierungs-luecken-analyse` — Neue KI-Regulierung oder Behördenleitlinie gegen aktuelle Governance-Position abgleichen.
 
 ## Worauf besonders achten
 

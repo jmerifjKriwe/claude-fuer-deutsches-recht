@@ -18,7 +18,7 @@ description: "Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — v
 3. Greift Abzugsverbot § 12 Nr. 1 EStG (Lebensfuehrungsaufwendungen) oder § 4 Abs. 5 EStG (Bewirtung Geschenke)?
 4. Aktuelle Beleglage — Nachweis sicher dokumentiert?
 5. Sonderfall haeusliches Arbeitszimmer § 4 Abs. 5 Nr. 6b EStG bzw. Homeoffice-Pauschale § 4 Abs. 5 Nr. 6c EStG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

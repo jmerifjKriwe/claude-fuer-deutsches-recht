@@ -25,11 +25,11 @@ Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nac
 4. Wer ist Mandant — Betreiber/Investor oder klagender Dritter (Nachbar, Umweltverband)?
 5. Liegt ein Ausgangsbescheid vor oder steht Antrag am Anfang?
 6. Welche Fristen laufen (Widerspruch § 70 VwGO, Klage § 74 VwGO je 1 Monat)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
-- **§ 4 BImSchG** — Genehmigungspflicht fuer Anlagen der 4. BImSchV
+- **§ 4 BImSchG** — Genehmigungspflicht für Anlagen der 4. BImSchV
 - **§ 5 Abs. 1 Nr. 1 BImSchG** — Betreiberpflicht Schutz vor schaedlichen Umwelteinwirkungen (Drittschutz-Norm)
 - **§ 5 Abs. 1 Nr. 2 BImSchG** — Vorsorge-Pflicht Emissionsminimierung
 - **§ 6 BImSchG** — Genehmigungsvoraussetzungen; gebundene Entscheidung
@@ -45,7 +45,7 @@ Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nac
 
 - **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Pruefung (saP). Quelle: bverwg.de.
 - **BVerwG 18.07.2019, 7 C 26.17**: UVP-Vorpruefung; Aufhebung nur bei kausalen Verfahrensmaengeln. Quelle: bverwg.de.
-- **BVerwG 28.11.2017, 7 A 17.12**: TA Laerm als antizipiertes Sachverstaendigengutachten — bindet Behoerde nicht bei abweichenden Erkenntnissen im Einzelfall. Quelle: bverwg.de.
+- **BVerwG 28.11.2017, 7 A 17.12**: TA Laerm als antizipiertes Sachverstaendigengutachten — bindet Behörde nicht bei abweichenden Erkenntnissen im Einzelfall. Quelle: bverwg.de.
 - **EuGH 15.10.2009, C-263/08 (Djurgården)**: Beteiligungsrechte und Aarhus-Konvention; Begriff „betroffene Oeffentlichkeit". Quelle: curia.europa.eu.
 - **EuGH 16.04.2015, C-570/13 (Gruber)**: Klagebefugnis Drittbetroffener auch ohne foermliche Beteiligung am Verfahren. Quelle: curia.europa.eu.
 
@@ -54,7 +54,7 @@ Konkrete Aktenzeichen weiterer Entscheidungen (insb. OVG / VGH) vor Ausgabe uebe
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -63,7 +63,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. **Anlage einordnen**: 4. BImSchV Spalte 1 oder 2, UVP-Screening nach UVPG Anlage 1.
 2. **Verfahrensart bestimmen**: § 10 (foermlich) oder § 19 BImSchG (vereinfacht).
 3. **Antragsunterlagen zusammenstellen**: § 4 9. BImSchV — Erlauterungsbericht, Immissionsprognosen (Schall, Staub, Luft), Lageplaeane, Betriebsbeschreibung, Sicherheitsbericht bei Stoerfallanlage.
-4. **Behoerde benennen**: Genehmigungsbehoerde (Landes-Immissionsschutzbeh.), beteiligte Fachbehoerden (Wasserbeh., Naturschutz, Arbeitsschutz).
+4. **Behörde benennen**: Genehmigungsbehoerde (Landes-Immissionsschutzbeh.), beteiligte Fachbehoerden (Wasserbeh., Naturschutz, Arbeitsschutz).
 5. **Oeffentlichkeitsbeteiligung**: Auslegung 1 Monat; Einwendungsfrist; Eroerterungstermin.
 6. **Bescheid pruefen**: Nebenbestimmungen angreifen wenn unverhaltsnismassig (§ 12 BImSchG).
 7. **Vollzug sichern**: Nebenbestimmungen erfuellen, Betrieb anzeigen, Emissionsberichte.
@@ -74,7 +74,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. **Klagebefugnis**: Analogie § 42 Abs. 2 VwGO; Betroffenheit in eigenen Rechten.
 3. **Frist**: 1 Monat nach Bekanntgabe Genehmigung (Widerspruch, soweit Widerspruchsverfahren erhalten, ansonsten direkt Klage VG).
 4. **Eilantrag**: § 80a Abs. 3, § 80 Abs. 5 VwGO bei bereits vollziehbarer Genehmigung.
-5. **Gruende**: Schallgutachten falsch (Methodik, Pegelbewertung), UVP-Fehler, fehlende Behoerden-Beteiligung, Drittschutz-Verstoss.
+5. **Gruende**: Schallgutachten falsch (Methodik, Pegelbewertung), UVP-Fehler, fehlende Behörden-Beteiligung, Drittschutz-Verstoss.
 6. **Verband**: UmwRG-Vereinigung — Verbandsklage § 2 UmwRG bei UVP-pflichtigen Vorhaben.
 
 ### Entscheidungsbaum Klage
@@ -108,7 +108,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 **Adressat:** Widerspruchsbehoerde / Verwaltungsgericht — Tonfall: sachlich-juristisch
 
 ```
-An die [Behoerde / das Verwaltungsgericht [ORT]]
+An die [Behörde / das Verwaltungsgericht [ORT]]
 
 Widerspruch / Klage
 
@@ -141,7 +141,7 @@ Anlagen: Eigentumsnachweis, Schallgutachten-Gegengutachten, Lageplan
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

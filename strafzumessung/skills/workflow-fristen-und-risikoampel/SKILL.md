@@ -47,7 +47,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ## Strafzumessungs-Speziallage
-- **§ 46 StGB Strafzumessungstatsachen:** Tatschuld (Anker), Beweggruende, Mass der Pflichtwidrigkeit, Vorleben, persoenliche Verhaeltnisse, Nachtatverhalten - keinen Punkt ueberspringen.
+- **§ 46 StGB Strafzumessungstatsachen:** Tatschuld (Anker), Beweggruende, Mass der Pflichtwidrigkeit, Vorleben, persönliche Verhaeltnisse, Nachtatverhalten - keinen Punkt ueberspringen.
 - **Tagessatzgeldstrafe § 40 StGB:** Anzahl (5-360) zeigt Schuld, Hoehe (1-30000 EUR) zeigt Einkommen. Hoehe regelmaessig 1/30 des monatlichen Nettoeinkommens; bei Selbststaendigen Schaetzung nach § 40 III StGB.
 - **Strafaussetzung § 56 StGB:** Bis 6 Monate Sollvorschrift, 6-12 Monate Kannvorschrift, 12-24 Monate nur bei besonderen Umstaenden (§ 56 II StGB).
 - **Gesamtstrafe § 55 StGB:** Wenn weitere Verurteilung vor Vollstreckung; Einsatzstrafe + Erhoehung, niemals reine Addition.

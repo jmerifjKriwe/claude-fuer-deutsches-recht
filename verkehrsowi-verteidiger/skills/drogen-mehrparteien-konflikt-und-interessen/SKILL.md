@@ -52,15 +52,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Rechtsgrundlage Drogen im Strassenverkehr:**
  - **§ 24a II StVG:** OWi bei Wirkstoffnachweis im Blut; Wirkstoffe in Anlage zu § 24a StVG (THC, Kokain, Amphetamin, Methamphetamin, MDMA, Morphin, Benzoylecgonin).
  - **§ 316 StGB:** Trunkenheit (analog auch Drogen) bei relativer / absoluter Fahruntuechtigkeit; Drogen: regelmaessig Wirkstoffspiegel + Ausfallerscheinungen.
- - **§ 315c I Nr. 1a StGB:** Gefaehrdung StraVerkehr bei Drogen + konkrete Gefahr fuer Leib / Leben / fremde Sachen erheblichen Werts.
+ - **§ 315c I Nr. 1a StGB:** Gefaehrdung StraVerkehr bei Drogen + konkrete Gefahr für Leib / Leben / fremde Sachen erheblichen Werts.
  - **§ 69 StGB:** Entziehung Fahrerlaubnis als Regelfolge.
 - **KCanG seit April 2024:**
  - Cannabis-Konsum legal in Grenzen.
  - **Aber:** § 24a II StVG bleibt - Wirkstoffe in Anlage zu § 24a StVG **erweitert um THC-Grenzwert 3,5 ng/ml** (Stand 2024); Differenzierung muss live geprueft werden.
 - **MPU-Anordnung § 13/14 FeV:**
  - **§ 13 Nr. 1c FeV:** ab 1,6 Promille Atemalkohol oder 0,8 BAK (Stand: Reform pruefen) -> MPU.
- - **§ 14 I Nr. 2 FeV:** auch einmaliger Drogenkonsum (insbesondere harte Drogen) genuegt fuer MPU.
- - **§ 14 II FeV:** Cannabis-Konsumenten - regelmaessiger Konsum + Trennung Konsum/Fahren oder Mischkonsum.
+ - **§ 14 I Nr. 2 FeV:** auch einmaliger Drogenkonsum (insbesondere harte Drogen) genuegt für MPU.
+ - **§ 14 II FeV:** Cannabis-Konsumenten - regelmäßiger Konsum + Trennung Konsum/Fahren oder Mischkonsum.
 - **Wirkstoff-Grenzwerte (Anlage zu § 24a StVG, aktuell pruefen):**
  - THC: 3,5 ng/ml (seit Reform 2024).
  - Kokain / Benzoylecgonin: niedrigster Nachweis.

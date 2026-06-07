@@ -47,12 +47,12 @@ Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Bere
 - [ ] Einspruchsfrist noch nicht abgelaufen?
 - [ ] Alle wertrelevanten Hinzurechnungen (Art. 71 UZK) korrekt beruecksichtigt?
 - [ ] Praeferenzstatus und Ursprung korrekt und belegt?
-- [ ] Antidumping-Massnahmen-Anwendung korrekt fuer konkreten Hersteller?
+- [ ] Antidumping-Massnahmen-Anwendung korrekt für konkreten Hersteller?
 
 ## Typische Fallstricke
 
 - Lizenzgebuehren und Preisnachlaesse nach Verkauf koennen Zollwert aendern.
-- 1-Monats-Frist fuer Einspruch laeuft auch waehrend Betriebsurlaub; keine automatische Fristverlaehngerung.
+- 1-Monats-Frist für Einspruch laeuft auch waehrend Betriebsurlaub; keine automatische Fristverlaehngerung.
 - Praeferenz-Ursprungszeugnis zu spaet beigebracht: Nachpruefungsverfahren verzoeggert Erstattung.
 - Finanzgericht akzeptiert nur Schriftsaetze mit vollstaendiger Beleg-Anlage.
 
@@ -60,7 +60,7 @@ Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Bere
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Einspruchsschriftsatz mit Rechtsanker und Berechnung, Gegenuberstellung Behordenbescheid vs. eigene Kalkulation, Anlage-Uebersicht fuer Finanzgericht.
+Einspruchsschriftsatz mit Rechtsanker und Berechnung, Gegenuberstellung Behordenbescheid vs. eigene Kalkulation, Anlage-Uebersicht für Finanzgericht.
 
 ## Quellen
 

@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-trockenbau-tunnel
-description: "Bauueberwachung HOAI LPH 8 fuer Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle fuer Brandschutzsachverstaendige und Baubehoerde im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle für Brandschutzsachverstaendige und Baubehoerde im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Trockenbau F30 und F90 Brandschutzwaende
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle fuer Brandschutzsachverstaendige und Baubehoerde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle für Brandschutzsachverstaendige und Baubehoerde. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Bauueberwachung HOAI LPH 8 fuer Trockenbau-Brandschutzwaende und -decken F30 bis
 
 ## Spezialwissen
 
-Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung: Zu wenige Beplankungslagen, fehlende Brandschutzabschottung an Leitungsdurchfuehrungen oder falsche Unterkonstruktion machen die Wand wirkungslos. Die Bauueberwachung in LPH 8 kontrolliert jede Montage-Phase, prueft Zulassungsdokumente fuer das eingesetzte System und stellt sicher, dass Brandschutzbehoerde und Sachverstaendige alle erforderlichen Nachweise erhalten.
+Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung: Zu wenige Beplankungslagen, fehlende Brandschutzabschottung an Leitungsdurchfuehrungen oder falsche Unterkonstruktion machen die Wand wirkungslos. Die Bauueberwachung in LPH 8 kontrolliert jede Montage-Phase, prueft Zulassungsdokumente für das eingesetzte System und stellt sicher, dass Brandschutzbehoerde und Sachverstaendige alle erforderlichen Nachweise erhalten.
 
 ## Bauwerk und Auftrag
 
@@ -29,12 +29,12 @@ Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung
 
 ## Erste Schritte auf der Baustelle
 
-1. Systemzulassung-Pruefung: DIBt-Zulassung oder ETA-Zulassungsnummer fuer eingesetztes Knauf oder Rigips System, Montageanleitung auf Baustelle vorhanden
+1. Systemzulassung-Pruefung: DIBt-Zulassung oder ETA-Zulassungsnummer für eingesetztes Knauf oder Rigips System, Montageanleitung auf Baustelle vorhanden
 2. Unterkonstruktion-Kontrolle: UW-Profil-Abstand am Boden und Decke nach Zulassung, max. 600 mm Achsabstand CW-Staender, Stosstelle UW-Profil mit Klebeband abgedichtet
 3. Beplankungslagen-Pruefung: Plattenfoermige Anordnung Stoss auf Staender, Versatz horizontaler Stoesse 400 mm, Plattentyp RF oder RFI nach Brandschutz-Anforderung
 4. Verbindungsmittel: Schraubenabstand Randbereich 150 mm, Feld 250 mm, Schraubenlaenge min. 25 mm, kein Einreissen des Plattenpapiers
 5. Fugen-Schaumabdichtung: Anschlussfuge Wand-Boden-Decke mit Brandschutzmasse Hilti CP 606 oder Tremco SL1 gefuellt, Fuge kleiner 5 mm vor Verfuellung
-6. Abschottung Leitungsdurchfuehrungen: Rohrmanschetten Hilti CFS-C oder Rockwool Conlit 150 fuer Installationsrohre, jede Durchfuehrung einzeln dokumentiert
+6. Abschottung Leitungsdurchfuehrungen: Rohrmanschetten Hilti CFS-C oder Rockwool Conlit 150 für Installationsrohre, jede Durchfuehrung einzeln dokumentiert
 
 ## Normen und Rechtsrahmen
 
@@ -52,7 +52,7 @@ Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung
 3. Abschottungs-Vollstaendigkeit: Checkliste je Durchfuehrungsrohr mit Foto, Schottungstyp, Rohr-Material und Rohr-Durchmesser eingetragen
 4. Fugenabdichtung Brandschutzmasse: Eindringtiefe min. 20 mm je Seite, Material konform mit Zulassung, keine Hohlraeume
 5. Zargenmontage Stahltuer F30: Einbau nach Zulassung, Schwellenhoehe nach DIN 18040 barrierefreiheit, Feuerhubbeschlag vorhanden
-6. Abnahme Brandschutzsachverstaendiger: Begehung mit BSV, Pruefprotokoll je Wand-ID, Freigabe-Vermerk BSV fuer Baubehoerde
+6. Abnahme Brandschutzsachverstaendiger: Begehung mit BSV, Pruefprotokoll je Wand-ID, Freigabe-Vermerk BSV für Baubehoerde
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -72,14 +72,14 @@ Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung
 
 ## Typische Fallstricke
 
-- Falsche Platte verbaut: Rote RF-Platten fuer F-Klasse verwechselt mit normalen Gipskarton GKB, kein Brandschutz ohne RF
+- Falsche Platte verbaut: Rote RF-Platten für F-Klasse verwechselt mit normalen Gipskarton GKB, kein Brandschutz ohne RF
 - Abschottung nach Leitungsmontage vergessen: Nachtraegliche Abschottung erfordert Wandoeffnung und Neuverputz, kostenintensiv
-- Falsches System: Zulassung fuer CW 75 gilt nicht automatisch fuer CW 50, Systemwechsel ohne neue Zulassung unzulaessig
+- Falsches System: Zulassung für CW 75 gilt nicht automatisch für CW 50, Systemwechsel ohne neue Zulassung unzulaessig
 - Fehlende BSV-Abnahme vor Verputz: Nachtraegliche Pruefung unmoeglich, Zwangsweise Dokumentation durch Bohrung oder Rissoemission
 
 ## Output
 
-Abnahmeprotokoll Brandschutzwand je Wandabschnitt mit BSV-Unterschrift. Abschottungs-Checkliste mit Foto je Durchfuehrung. Beplankungslagen-Fotodokumentation je Lage. Lieferschein-Archiv Trockenbau-Systemkomponenten. SAP-PM-Equipment-IDs Brandschutzwaende. Bautagebuch Trockenbau. Freigabe-Dokumentation fuer Baubehoerde.
+Abnahmeprotokoll Brandschutzwand je Wandabschnitt mit BSV-Unterschrift. Abschottungs-Checkliste mit Foto je Durchfuehrung. Beplankungslagen-Fotodokumentation je Lage. Lieferschein-Archiv Trockenbau-Systemkomponenten. SAP-PM-Equipment-IDs Brandschutzwaende. Bautagebuch Trockenbau. Freigabe-Dokumentation für Baubehoerde.
 
 ## Hinweise zur Qualitaetssicherung
 

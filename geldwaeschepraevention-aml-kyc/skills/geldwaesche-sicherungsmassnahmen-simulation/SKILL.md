@@ -23,13 +23,13 @@ Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsf
 3. Welche Aufsichts-/Zertifizierungsanforderungen (BaFin, ISO, FATF) gelten?
 4. Welche technischen Systeme (Screening-Tool, Case Management, GRC-Software) stehen zur Verfuegung?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 4 GwG — Interne Sicherungsmaßnahmen: vollstaendige Pflichtkataloge
 - § 6 GwG — Pflichten der Geschaeftsleitung zur Einrichtung wirksamer Kontrollen
-- BaFin MaRisk AT 8.2 — Anforderungen an interne Kontrollsysteme (analoger Standard fuer AML)
+- BaFin MaRisk AT 8.2 — Anforderungen an interne Kontrollsysteme (analoger Standard für AML)
 - FATF Recommendation 18 — Internal Controls, Compliance and Audit
 
 ## Quellenregel

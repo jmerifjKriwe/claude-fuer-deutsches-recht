@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsbescheid-folgen
-description: "Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen § 692 Abs. 1 Nr. 3 ZPO, Antrag binnen 6 Monaten § 701 ZPO. Vollstreckungstitel § 794 Abs. 1 Nr. 4 ZPO. Verjaehrung 30 Jahre § 197 Abs. 1 Nr. 4 BGB. Einspruch 2 Wochen § 700 i.V.m. § 338 ZPO. Output: VB-Antrag + Pruefraster Folgewirkungen."
+description: "Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen § 692 Abs. 1 Nr. 3 ZPO, Antrag binnen 6 Monaten § 701 ZPO. Vollstreckungstitel § 794 Abs. 1 Nr. 4 ZPO. Verjährung 30 Jahre § 197 Abs. 1 Nr. 4 BGB. Einspruch 2 Wochen § 700 i.V.m. § 338 ZPO. Output: VB-Antrag + Pruefraster Folgewirkungen."
 ---
 
 # Vollstreckungsbescheid und Folgen
@@ -17,7 +17,7 @@ Der Vollstreckungsbescheid (VB) ist das Endprodukt des gerichtlichen Mahnverfahr
 | Antragsfrist | binnen 6 Monaten nach Mahnbescheid-Zustellung (§ 701 ZPO) |
 | Anschluss-Kosten | Glaeubiger zahlt zusaetzliche Gerichtsgebuehr 0,5 |
 
-**Ablauf der 6-Monats-Frist:** Mahnbescheid verliert Wirkung; neuer Mahnbescheid moeglich (mit erneuter Verjaehrungshemmung § 204 BGB).
+**Ablauf der 6-Monats-Frist:** Mahnbescheid verliert Wirkung; neuer Mahnbescheid moeglich (mit erneuter Verjährungshemmung § 204 BGB).
 
 ## Wirkungen des Vollstreckungsbescheids
 
@@ -25,7 +25,7 @@ Der Vollstreckungsbescheid (VB) ist das Endprodukt des gerichtlichen Mahnverfahr
 |---|---|
 | Vollstreckungstitel | § 794 Abs. 1 Nr. 4 ZPO |
 | Vorlaeufige Vollstreckbarkeit ohne Sicherheit | § 700 Abs. 1 ZPO i.V.m. § 708 Nr. 2 ZPO |
-| Verjaehrung 30 Jahre | § 197 Abs. 1 Nr. 4 BGB |
+| Verjährung 30 Jahre | § 197 Abs. 1 Nr. 4 BGB |
 | Rechtskraftwirkung mit Ablauf Einspruchsfrist | § 705 ZPO |
 | Vollstreckungsklausel | § 724 ZPO erforderlich |
 
@@ -91,7 +91,7 @@ Schuldner kann Einwendungen geltend machen, die **nach Schluss der muendlichen V
 Bei erfolgloser Vermoegensauskunft Eintrag im zentralen Schuldnerverzeichnis (online bei [vollstreckungsportal.de](https://www.vollstreckungsportal.de)):
 - 3 Jahre Aufbewahrung.
 - Bonitaetsrelevant.
-- Vermerk fuer Glaeubiger einsehbar.
+- Vermerk für Glaeubiger einsehbar.
 
 ## Typische Fehler
 
@@ -108,5 +108,5 @@ Bei erfolgloser Vermoegensauskunft Eintrag im zentralen Schuldnerverzeichnis (on
 - ZPO § 794 Vollstreckungstitel [gesetze-im-internet.de/zpo/__794.html](https://www.gesetze-im-internet.de/zpo/__794.html)
 - ZPO § 767 Abwehrklage [gesetze-im-internet.de/zpo/__767.html](https://www.gesetze-im-internet.de/zpo/__767.html)
 - ZPO § 882b Schuldnerverzeichnis [gesetze-im-internet.de/zpo/__882b.html](https://www.gesetze-im-internet.de/zpo/__882b.html)
-- BGB § 197 Verjaehrung titulierter Ansprueche [gesetze-im-internet.de/bgb/__197.html](https://www.gesetze-im-internet.de/bgb/__197.html)
+- BGB § 197 Verjährung titulierter Ansprueche [gesetze-im-internet.de/bgb/__197.html](https://www.gesetze-im-internet.de/bgb/__197.html)
 - Vollstreckungsportal [vollstreckungsportal.de](https://www.vollstreckungsportal.de)

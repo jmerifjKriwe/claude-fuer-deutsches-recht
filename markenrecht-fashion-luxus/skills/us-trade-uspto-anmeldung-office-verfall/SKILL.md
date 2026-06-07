@@ -160,7 +160,7 @@ Bevor der Trade-Dress-Schutz beansprucht wird, klaere:
 
 > **Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992):** Trade Dress, das inherently distinctive ist (hier: Restaurantambiente), ist ohne Secondary-Meaning-Nachweis schutzfaehig nach § 43(a) Lanham Act; das Zurueckgreifen auf inherent distinctiveness setzt voraus, dass das Trade Dress nicht funktional ist.
 
-> **TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23 (2001):** Ein Trade-Dress-Merkmal, das durch ein abgelaufenes Patent als funktional erklaert wurde, ist als wettbewerbsrechtlich freizuhaltendes Element nicht schutzfaehig; das Ablaufen des Patents ist starkes Indiz fuer Funktionalitaet — Registrierung sollte daher vor Patent-Expiry geprueft werden.
+> **TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23 (2001):** Ein Trade-Dress-Merkmal, das durch ein abgelaufenes Patent als funktional erklaert wurde, ist als wettbewerbsrechtlich freizuhaltendes Element nicht schutzfaehig; das Ablaufen des Patents ist starkes Indiz für Funktionalitaet — Registrierung sollte daher vor Patent-Expiry geprueft werden.
 
 ## Qualitäts-Hardening
 

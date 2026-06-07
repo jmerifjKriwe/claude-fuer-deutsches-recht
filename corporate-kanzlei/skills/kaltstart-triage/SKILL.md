@@ -167,7 +167,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Corporate-Kanzlei-Plugin ist das zentrale Arbeitswerkzeug fuer Corporate/M&A-Anwaeltinnen und -Anwaelte. Es deckt den vollstaendigen Transaktionszyklus ab: vom ersten Mandatseingang ueber Due Diligence, Vertragsentwurf, Regulatory Clearance, Signing und Closing bis zur Post-Merger-Integration.
+Das Corporate-Kanzlei-Plugin ist das zentrale Arbeitswerkzeug für Corporate/M&A-Anwaeltinnen und -Anwaelte. Es deckt den vollstaendigen Transaktionszyklus ab: vom ersten Mandatseingang ueber Due Diligence, Vertragsentwurf, Regulatory Clearance, Signing und Closing bis zur Post-Merger-Integration.
 
 Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldungen, StaRUG-Restrukturierungsplaenen, Distressed-M&A, Public M&A und Kapitalmarkttransaktionen. Es richtet sich an Partner, Counsel und Senior Associates in Transaktionskanzleien sowie an Corporate-Inhouse-Juristen.
 
@@ -186,7 +186,7 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 - **Due Diligence** — Sorgfaeltige Pruefung des Zielunternehmens in rechtlichen, steuerlichen und wirtschaftlichen Bereichen vor Transaktionsabschluss.
 - **W&I-Versicherung** — Warranty & Indemnity Insurance; Versicherung gegen Garantieverletzungen im SPA.
 - **CP** — Condition Precedent; aufschiebende Bedingung, die vor Closing erfuellt sein muss.
-- **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz; aussergerichltiches Restrukturierungsverfahren fuer Unternehmen in der Krise.
+- **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz; aussergerichltiches Restrukturierungsverfahren für Unternehmen in der Krise.
 - **PMI** — Post-Merger-Integration; rechtliche Nachlaufarbeiten nach Closing (Registeranmeldungen, Vertragsanpassungen, Organschaft).
 - **MAR** — EU-Marktmissbrauchsverordnung; regelt Insiderinformationen und Ad-hoc-Meldepflichten bei Public M&A.
 
@@ -203,7 +203,7 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 - §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung)
 - §§ 11-25 UmwStG (Steuerliche Behandlung Umwandlung)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandatseingang strukturiert aufnehmen: Dealtyp, Phase, Parteiperspektive bestimmen (`corporate-kanzlei-deal-intake`).
 2. Konflikt-, GwG- und Sanktionscheck durchfuehren (`corporate-kanzlei-conflict-gwg-sanctions`).
@@ -214,15 +214,15 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 ## Skill-Tour (was gibt es hier?)
 
 - `corporate-kanzlei-kommandocenter` — Deal-Kommandocenter: Schnellstart, Deal-Karte erstellen, Routing an Fachmodule.
-- `corporate-kanzlei-kaltstart` — Kaltstart fuer neues Corporate/M&A-Mandat mit Schnellerfassung und Ampel.
+- `corporate-kanzlei-kaltstart` — Kaltstart für neues Corporate/M&A-Mandat mit Schnellerfassung und Ampel.
 - `corporate-kanzlei-deal-intake` — Neues Transaktionsmandat aus E-Mail, Teaser, NDA oder DR-Einladung strukturiert aufnehmen.
 - `corporate-kanzlei-deal-team-staffing` — Transaktionsteam zusammenstellen und Workstreams verteilen.
 - `corporate-kanzlei-conflict-gwg-sanctions` — Konflikt-, GwG- und Sanktionscheck bei Mandatsannahme.
-- `corporate-kanzlei-outside-in-target-screening` — Zielunternehmen aus oeffentlichen Quellen screenen ohne Datenraumzugang.
-- `corporate-kanzlei-teaser-im-processdocs` — Teaser, Information Memorandum und Prozessdokumente fuer M&A-Auktionen erstellen.
+- `corporate-kanzlei-outside-in-target-screening` — Zielunternehmen aus öffentlichen Quellen screenen ohne Datenraumzugang.
+- `corporate-kanzlei-teaser-im-processdocs` — Teaser, Information Memorandum und Prozessdokumente für M&A-Auktionen erstellen.
 - `corporate-kanzlei-simulation-bidder-process` — Auktionsprozess und Bieter-Perspektive simulieren.
 - `corporate-kanzlei-transaktionsstruktur` — Transaktionsstrukturen (Share Deal, Asset Deal, Merger, Carve-out) entwickeln und bewerten.
-- `corporate-kanzlei-datenraum-aufbau` — Virtuellen Datenraum strukturieren und befuellen fuer Private und Public M&A.
+- `corporate-kanzlei-datenraum-aufbau` — Virtuellen Datenraum strukturieren und befuellen für Private und Public M&A.
 - `corporate-kanzlei-datenraum-gap-clean-room` — Gap-Analyse des Datenraums und Clean-Room-Protokoll erstellen.
 - `corporate-kanzlei-qa-information-requests` — Q&A- und Information-Request-Management in M&A-Transaktionen.
 - `corporate-kanzlei-due-diligence-legal` — Legal Due Diligence: Corporate, Vertragswerk, HR, IP, Litigation und Compliance pruefen.
@@ -233,17 +233,17 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 - `corporate-kanzlei-fair-disclosure-knowledge` — Fair Disclosure und Knowledge Management: Informationsfluss nach MAR und Kartellrecht steuern.
 - `corporate-kanzlei-spa-apa-entwurf` — SPA oder APA aus Term Sheet und DD-Findings entwerfen und strukturieren.
 - `corporate-kanzlei-disclosure-schedules` — Disclosure Schedules zum SPA erstellen und pruefen.
-- `corporate-kanzlei-vertragsmarkup-key-issues` — Juristischen Markup fuer M&A-Vertraege und Key-Issues-Memo erstellen.
+- `corporate-kanzlei-vertragsmarkup-key-issues` — Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen.
 - `corporate-kanzlei-wi-insurance` — W&I-Versicherung strukturieren und Police auf Deckungsluecken pruefen.
 - `corporate-kanzlei-regulatory-fdi-merger-control` — Anmeldepflichten Fusionskontrolle und FDI-Investitionspruefung pruefen.
 - `corporate-kanzlei-public-ma-kapitalmarkt-mar` — Public M&A, Pflichtangebote, Squeeze-Out und MAR-Ad-hoc begleiten.
 - `corporate-kanzlei-signing-closing-conditions` — Signing und Closing Conditions verwalten und CP-Tracker fuehren.
-- `corporate-kanzlei-output-versand-signing` — Signing-Management und Output-Verteilung fuer M&A-Vertraege koordinieren.
+- `corporate-kanzlei-output-versand-signing` — Signing-Management und Output-Verteilung für M&A-Vertraege koordinieren.
 - `corporate-kanzlei-closing-bible-archiv` — Closing Bible und Deal-Archiv nach M&A-Closing erstellen.
 - `corporate-kanzlei-post-closing-integration` — Post-Closing-Integration rechtlich begleiten: Register, Vertraege, Organschaft, § 613a BGB.
-- `corporate-kanzlei-steps-plan-pmo` — Steps Plan und Transaktions-PMO fuer M&A-Mandate erstellen.
-- `corporate-kanzlei-automation-monitoring` — Monitore fuer Datenraum-Neuzugaenge, Q&A-Status, CP-Deadlines und Registerupdates entwerfen.
-- `corporate-kanzlei-restructuring-starug-insolvenzplan` — StaRUG-Restrukturierungsplan und Insolvenzplan fuer distressed Unternehmen erstellen.
+- `corporate-kanzlei-steps-plan-pmo` — Steps Plan und Transaktions-PMO für M&A-Mandate erstellen.
+- `corporate-kanzlei-automation-monitoring` — Monitore für Datenraum-Neuzugaenge, Q&A-Status, CP-Deadlines und Registerupdates entwerfen.
+- `corporate-kanzlei-restructuring-starug-insolvenzplan` — StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen erstellen.
 - `corporate-kanzlei-distressed-ma` — Unternehmenskaeufe aus Insolvenz oder Krise begleiten.
 - `corporate-kanzlei-umwandlungsrecht` — Verschmelzung, Spaltung, Formwechsel und Vermoegensuebertragung nach UmwG begleiten.
 - `corporate-kanzlei-umwandlungssteuerrecht` — Umwandlungen auf Steuerneutralitaet, Buchwertfortfuehrung und Sperrfristen pruefen.
@@ -251,14 +251,14 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 - `corporate-kanzlei-handelsregisterabruf` — Handelsregister-Daten abrufen und Gesellschaftsstruktur analysieren.
 - `corporate-kanzlei-kg-personengesellschaften` — KG und Personengesellschaften im Corporate/M&A-Kontext begleiten (MoPeG 2024).
 - `corporate-kanzlei-translations-multijurisdictional` — Mehrsprachige Transaktionsdokumente in DE/EN erstellen und pruefen.
-- `corporate-kanzlei-rechtsprechungsrecherche` — Corporate/M&A-Rechtsprechung suchen und fuer Vertraege und Board Papers aufbereiten.
+- `corporate-kanzlei-rechtsprechungsrecherche` — Corporate/M&A-Rechtsprechung suchen und für Vertraege und Board Papers aufbereiten.
 - `corporate-kanzlei-matter-file` — Transaktionsakte strukturieren, versionieren und Aufbewahrungsplanung erstellen.
 - `corporate-kanzlei-billing-narratives` — Time Narratives, Phasenbudgets und Workstream-Rechnungen erstellen.
 - `corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle` — KI-generierte DD-Findings auf fehlerhafte Quellen und Luecken pruefen.
-- `corporate-kanzlei-ki-governance-berufsrecht` — KI-Governance und Berufsrecht fuer den Einsatz von KI-Werkzeugen in der Kanzlei.
-- `corporate-kanzlei-board-paper-business-judgment` — Board Paper und Business Judgment Rule-Dokumentation fuer M&A-Entscheidungen erstellen.
-- `corporate-kanzlei-freundlicher-copilot` — Einstiegshilfe fuer Corporate/M&A-Aufgaben: Fachbegriffe erklaeren, Erstfragen beantworten, Skills verweisen.
-- `corporate-kanzlei-look-and-feel` — Corporate-Cowork-Design: visuelle Oberflaeche fuer Partner, Counsel und Associates.
+- `corporate-kanzlei-ki-governance-berufsrecht` — KI-Governance und Berufsrecht für den Einsatz von KI-Werkzeugen in der Kanzlei.
+- `corporate-kanzlei-board-paper-business-judgment` — Board Paper und Business Judgment Rule-Dokumentation für M&A-Entscheidungen erstellen.
+- `corporate-kanzlei-freundlicher-copilot` — Einstiegshilfe für Corporate/M&A-Aufgaben: Fachbegriffe erklaeren, Erstfragen beantworten, Skills verweisen.
+- `corporate-kanzlei-look-and-feel` — Corporate-Cowork-Design: visuelle Oberflaeche für Partner, Counsel und Associates.
 
 ## Worauf besonders achten
 
@@ -281,7 +281,7 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 - `geldwaeschepraevention-aml-kyc` — GwG-Konfliktrack und Sanktionscheck bei M&A-Mandaten.
 - `datenschutzrecht` — DSGVO-Schnittstellen bei Datenraeumen und DD-Dokumentation.
 - `regulatorisches-recht` — Fusionskontrolle (GWB) und FDI-Investitionspruefung (AWG/AWV) als Regulatory-Workstream.
-- `vertragsrecht` — Allgemeine Vertragspruefung fuer nicht-M&A-Vertraege im Transaktionsumfeld.
+- `vertragsrecht` — Allgemeine Vertragspruefung für nicht-M&A-Vertraege im Transaktionsumfeld.
 - `energierecht` — Energiesektor-Transaktionen mit regulatorischen Sonderanforderungen.
 
 ## Quellen und Aktualitaet

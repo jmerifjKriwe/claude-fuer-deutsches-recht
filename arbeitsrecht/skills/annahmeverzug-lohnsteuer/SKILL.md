@@ -14,7 +14,7 @@ description: "Kueschk Annahmeverzug Lohnsteuer im Plugin Arbeitsrecht: prüft ko
 | --- | --- |
 | `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` | Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche Behandlung. |
 | `lohnsteuer-sozialversicherung` | Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (§ 28e SGB IV), strafrechtliche Risiken (§ 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist. |
-| `abmahnung-arbeitsrecht` | Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB. Inhaltliche Anforderungen Bestimmtheit Konkretheit des Vorwurfs Verhältnismäßigkeit. Prüfung ob Abmahnung entbehrlich (verhaltensbedingte Kündigung). Output Abmahnungsschreiben oder Gegendarstellung Widerspruchsschreiben Löschungsantrag. Abgrenzung: Kündigungsprüfung bei kueschk-skills; BR-Anhoerung bei betriebsrat-anhoerung. |
+| `abmahnung-arbeitsrecht` | Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB. Inhaltliche Anforderungen Bestimmtheit Konkretheit des Vorwurfs Verhältnismäßigkeit. Prüfung ob Abmahnung entbehrlich (verhaltensbedingte Kündigung). Output Abmahnungsschreiben oder Gegendarstellung Widerspruchsschreiben Löschungsantrag. Abgrenzung: Kündigungsprüfung bei kueschk-skills; BR-Anhörung bei betriebsrat-anhoerung. |
 | `agg-pruefung-bewerber-und-beschaeftigte` | AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15 Abs. 4 AGG (zwei Monate). Stellenausschreibung, Auswahlverfahren, Beschäftigungsbedingungen, Beförderung, Entlohnung, Kündigung. |
 
 ## Arbeitsweg
@@ -306,7 +306,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 3. `abmahnung-arbeitsrecht`
 
-**Fokus:** Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB. Inhaltliche Anforderungen Bestimmtheit Konkretheit des Vorwurfs Verhältnismäßigkeit. Prüfung ob Abmahnung entbehrlich (verhaltensbedingte Kündigung). Output Abmahnungsschreiben oder Gegendarstellung Widerspruchsschreiben Löschungsantrag. Abgrenzung: Kündigungsprüfung bei kueschk-skills; BR-Anhoerung bei betriebsrat-anhoerung.
+**Fokus:** Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB. Inhaltliche Anforderungen Bestimmtheit Konkretheit des Vorwurfs Verhältnismäßigkeit. Prüfung ob Abmahnung entbehrlich (verhaltensbedingte Kündigung). Output Abmahnungsschreiben oder Gegendarstellung Widerspruchsschreiben Löschungsantrag. Abgrenzung: Kündigungsprüfung bei kueschk-skills; BR-Anhörung bei betriebsrat-anhoerung.
 
 # Abmahnung im Arbeitsrecht
 
@@ -517,7 +517,7 @@ Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte
 - Zeitpunkt: Wann wurde die benachteiligende Maßnahme mitgeteilt bzw. bekannt? (Fristberechnung § 15 Abs. 4 AGG)
 - Perspektive: Arbeitnehmer-/Bewerberseite (Anspruchsdurchsetzung) oder Arbeitgeberseite (Verteidigung, präventive Prüfung)
 - Betriebsgröße und Betriebsrat vorhanden?
-- `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Einstellungs- und HR-Richtlinien
+- `~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md` → Einstellungs- und HR-Richtlinien
 
 ## Rechtlicher Rahmen
 
@@ -545,7 +545,7 @@ Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte
 
 ### Rechtsprechung (Stand Mai 2026)
 
-- **BAG, Urteil vom 23.10.2025 - 8 AZR 300/24** (Paarvergleich bei Entgeltdiskriminierung): Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) genuegt der Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts, der fuer gleiche oder gleichwertige Arbeit hoehere Verguetung erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann Vergleichsperson sein. Vorinstanz: LAG Baden-Wuerttemberg. Quellen: dejure.org-Vernetzung BAG 23.10.2025 - 8 AZR 300/24; BAG-Pressemitteilung "Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich".
+- **BAG, Urteil vom 23.10.2025 - 8 AZR 300/24** (Paarvergleich bei Entgeltdiskriminierung): Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) genuegt der Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts, der für gleiche oder gleichwertige Arbeit hoehere Verguetung erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann Vergleichsperson sein. Vorinstanz: LAG Baden-Wuerttemberg. Quellen: dejure.org-Vernetzung BAG 23.10.2025 - 8 AZR 300/24; BAG-Pressemitteilung "Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich".
 - **BAG, Urteil vom 20.02.2025 - 8 AZR 61/24** (DSGVO-Schadensersatz bei verspaeteter Auskunft): Allein ein "Stoergefuehl" oder negativer Gemuetszustand begruendet keinen Kontrollverlust i.S.v. Art. 82 DSGVO; erforderlich ist eine konkret begruendete Furcht vor Datenmissbrauch oder ein tatsaechlicher Kontrollverlust. Quellen: dejure.org-Vernetzung BAG 20.02.2025 - 8 AZR 61/24; Volltext-PDF auf bundesarbeitsgericht.de verfuegbar.
 - Weitere aktuelle Rechtsprechung vor Schriftsatzverwendung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de) verifizieren.
 

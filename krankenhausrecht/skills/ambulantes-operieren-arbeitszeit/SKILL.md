@@ -36,11 +36,11 @@ Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog
 - **SGB V § 115b** Ambulantes Operieren am Krankenhaus, AOP-Vertrag.
 - **AOP-Vertrag** zwischen GKV-SV, KBV, DKG i. d. F. 2023 ff.
 - **AOP-Katalog (Anlage 1 AOP-Vertrag)** mit Kontextfaktoren.
-- **SGB V § 115f** Hybrid-DRG fuer haeufige Eingriffe (Schnittstelle ambulant/stationaer).
+- **SGB V § 115f** Hybrid-DRG für haeufige Eingriffe (Schnittstelle ambulant/stationaer).
 - **BMV-AE** und KV-Abrechnungsregeln (HVM, EBM).
 - **MD-Pruefung § 275c SGB V** und § 17c KHG zur Fehlbelegungspruefung.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Eingriff im AOP-Katalog identifizieren:** OPS-Code abgleichen.
 2. **Kontextfaktoren pruefen:** Sind Schweregrad-/Risiko-Konstellationen erfuellt, die stationaeren Aufenthalt rechtfertigen?
 3. **Abrechnungsweg waehlen:** AOP (KV) oder Hybrid-DRG (Kasse direkt) oder stationaer (Kasse, DRG).
@@ -59,8 +59,8 @@ Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog
 
 ## Praxistipps
 - AOP-Katalog 2023 hat Kontextfaktoren neu eingefuehrt — sie machen die Abgrenzung lebbar.
-- Hybrid-DRG (§ 115f SGB V) ist seit 2024 fuer einen wachsenden Katalog scharf gestellt; einheitlicher Festbetrag.
-- Personalmeldung an InEK auch fuer ambulante Eingriffe relevant (Strukturpruefung).
+- Hybrid-DRG (§ 115f SGB V) ist seit 2024 für einen wachsenden Katalog scharf gestellt; einheitlicher Festbetrag.
+- Personalmeldung an InEK auch für ambulante Eingriffe relevant (Strukturpruefung).
 - Bei MD-Pruefung "primaere Fehlbelegung" droht Abschlag auf AOP-Pauschale; Begruendung Kontextfaktor sichern.
 - KV-Honorar-HVM kann Pauschalierungen, Quoten und Begrenzungen vorsehen.
 

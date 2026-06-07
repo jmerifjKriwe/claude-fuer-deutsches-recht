@@ -12,16 +12,16 @@ description: "Spezial Raub Rechtsbeugung im Strafrecht: prüft konkret Raub nach
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `strafrecht-spezial-raub-249-stgb` | Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB. |
+| `strafrecht-spezial-raub-249-stgb` | Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr für Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB. |
 | `strafrecht-spezial-raub-mit-todesfolge-251-stgb` | Raub mit Todesfolge nach § 251 StGB. Erfolgsqualifikation. Grundtat § 249 oder § 250 StGB; Tod eines anderen Menschen; mindestens Leichtfertigkeit. Strafrahmen lebenslang oder Freiheitsstrafe nicht unter zehn Jahren. Abgrenzung zu Mord aus Habgier § 211 StGB und zu raeuberischer Erpressung mit Todesfolge § 255 StGB. |
-| `strafrecht-spezial-rechtsbeugung-339-stgb` | Rechtsbeugung nach Paragraph 339 StGB. Sonderdelikt fuer Richter Schiedsrichter und sonstige Amtstraeger im Rechtsbeugungs-Sinne. Beugen des Rechts zugunsten oder zum Nachteil einer Partei. Sperrwirkung in der Praxis hohe Anforderungen an Vorsatz BGH staendige Rspr. Verteidigung bei Verfahrenstaktik. |
+| `strafrecht-spezial-rechtsbeugung-339-stgb` | Rechtsbeugung nach Paragraph 339 StGB. Sonderdelikt für Richter Schiedsrichter und sonstige Amtstraeger im Rechtsbeugungs-Sinne. Beugen des Rechts zugunsten oder zum Nachteil einer Partei. Sperrwirkung in der Praxis hohe Anforderungen an Vorsatz BGH staendige Rspr. Verteidigung bei Verfahrenstaktik. |
 | `strafrecht-spezial-schuldnerbeguenstigung-283d-stgb` | Schuldnerbeguenstigung nach Paragraph 283d StGB. Strafbarkeit Dritter die in Kenntnis der drohenden Insolvenz Schuldnervermoegen beiseiteschaffen oder verheimlichen. Strohmann-Faelle Familienangehoerige Mitverantwortliche. Abgrenzung zur Teilnahme am Bankrott. Verteidigung mit Gutglaeubigkeit und Geschaeftsueblichkeit. |
 | `strafrecht-spezial-schwere-koerperverletzung-226-stgb` | Schwere Koerperverletzung nach § 226 StGB. Erfolgsqualifikation mit schweren Folgen Verlust eines wichtigen Glieds; Sehfaehigkeit / Sprachvermoegen / Fortpflanzungsfaehigkeit; entstellender Schaden; Siechtum oder Laehmung; geistige Krankheit. Mit Absichtsvariante § 226 Abs. 2 StGB. |
 | `strafrecht-spezial-schwerer-raub-250-stgb` | Schwerer Raub nach § 250 Abs. 1 und Abs. 2 StGB. Qualifikationen Mit-sich-Fuehren von Waffe; Bande; Lebensgefaehrdung; schwere koerperliche Misshandlung. Verwendungsvariante § 250 Abs. 2 StGB Verwenden einer Waffe. Strafrahmen Abs. 1 nicht unter drei Jahren; Abs. 2 nicht unter fuenf Jahren. |
 | `strafrecht-spezial-sexueller-missbrauch-176-stgb` | Sexueller Missbrauch von Kindern nach § 176 StGB. Reform 2021 mit erhoehten Mindeststrafen. Strafrahmen ein bis 15 Jahre. Schutzobjekt Kind unter 14 Jahren. Qualifikationen §§ 176a 176c 176d StGB. Praxisleitfaden Glaubhaftigkeit der Kindesaussage und Aussagepsychologie. |
 | `strafrecht-spezial-sexueller-uebergriff-177-i-stgb` | Sexueller Uebergriff nach § 177 Abs. 1 StGB. Reform 2016 Nein heisst Nein. Sexuelle Handlung gegen den erkennbaren Willen einer anderen Person ohne Erfordernis von Gewalt oder qualifizierter Drohung. Strafrahmen sechs Monate bis fuenf Jahre. Praxisleitfaden Erkennbarkeit und Tatbestandsirrtum § 16 StGB. |
-| `strafrecht-spezial-stalking-238-stgb` | § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps fuer die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte fuer Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB. |
-| `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel` | Gewerbsmaessiger und bandenmaessiger Schmuggel nach Paragraph 373 AO. Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis 10 Jahre. Praxisrelevant bei Zollvergehen Zigarettenschmuggel Kfz-Verbringen. Verteidigungslinien Bande Gewerbsmaessigkeit Vorsatz. |
+| `strafrecht-spezial-stalking-238-stgb` | § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps für die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte für Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB. |
+| `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel` | Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO. Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis 10 Jahre. Praxisrelevant bei Zollvergehen Zigarettenschmuggel Kfz-Verbringen. Verteidigungslinien Bande Gewerbsmaessigkeit Vorsatz. |
 
 ## Arbeitsweg
 
@@ -34,7 +34,7 @@ description: "Spezial Raub Rechtsbeugung im Strafrecht: prüft konkret Raub nach
 
 ## 1. `strafrecht-spezial-raub-249-stgb`
 
-**Fokus:** Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB.
+**Fokus:** Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr für Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB.
 
 # Raub § 249 StGB
 
@@ -52,7 +52,7 @@ In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 2
 
 1. **Wegnahme einer fremden beweglichen Sache:** Wie bei § 242 StGB. Bruch fremden und Begruendung neuen Gewahrsams.
 2. **Mit Gewalt gegen eine Person:** Koerperlich wirkende Zwangsanwendung. Vis absoluta (z. B. Festbinden, Knockout); vis compulsiva (z. B. Schlagen, Wuergen, um zur Aushaendigung zu zwingen). **Vis in rebus** (Gewalt gegen Sache) reicht nur, wenn sie auf das Opfer koerperlich einwirkt.
-3. **Oder unter Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben:** Drohung mit unmittelbar bevorstehendem Uebel an Leib oder Leben. Drohung mit Pistole, Messer, Schlaegen.
+3. **Oder unter Drohung mit gegenwaertiger Gefahr für Leib oder Leben:** Drohung mit unmittelbar bevorstehendem Uebel an Leib oder Leben. Drohung mit Pistole, Messer, Schlaegen.
 
 **Finalzusammenhang:** Die Gewalt oder Drohung muss **zur** Wegnahme eingesetzt werden. Wenn der Taeter erst nach Beendigung der Wegnahme zur Drohung greift (z. B. zur Sicherung der Beute), liegt nicht § 249 StGB, sondern ggf. § 252 StGB (raeuberischer Diebstahl).
 
@@ -66,7 +66,7 @@ In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 2
 
 **Gewalt gegen eine Person:** Nach staendiger BGH-Rechtsprechung wird Gewalt im Raubrecht enger ausgelegt als bei § 240 StGB. **Erforderlich ist eine koerperlich wirkende Zwangshandlung**, die das Opfer in seiner koerperlichen Bewegungsfreiheit unmittelbar beeintraechtigt. Klassisch: Festhalten, Wuergen, Schlagen, Ueberwaeltigen.
 
-**Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben:** Die Gefahr muss unmittelbar bevorstehen. Die Drohung kann ausdruecklich oder konkludent (Vorzeigen einer Waffe) erfolgen. **Streitig:** Drohung mit kuenftiger Gewalt – Abgrenzung zur Erpressung.
+**Drohung mit gegenwaertiger Gefahr für Leib oder Leben:** Die Gefahr muss unmittelbar bevorstehen. Die Drohung kann ausdruecklich oder konkludent (Vorzeigen einer Waffe) erfolgen. **Streitig:** Drohung mit kuenftiger Gewalt – Abgrenzung zur Erpressung.
 
 **Wegnahme vs. Vermoegensverfuegung – Abgrenzung Raub / raeuberische Erpressung:**
 
@@ -178,7 +178,7 @@ Praktisch ist § 251 StGB das **Verteidigungsziel** bei Anklage wegen Mordes aus
 
 **Vor / waehrend / nach der Wegnahme:** Der Tod muss **bei** der Tat eingetreten sein. Nach staendiger BGH-Rechtsprechung umfasst dies die gesamte Raubhandlung einschliesslich der Beendigungsphase (Sicherung der Beute). Nach Abschluss der Beendigung scheidet § 251 StGB aus.
 
-**Mittaeterschaft:** Bei Mittaeterschaft haftet jeder Mittaeter fuer den Tod, soweit ihm die Todesfolge bei Leichtfertigkeit subjektiv zuzurechnen ist. Bei Exzess eines Mittaeters keine Haftung der anderen.
+**Mittaeterschaft:** Bei Mittaeterschaft haftet jeder Mittaeter für den Tod, soweit ihm die Todesfolge bei Leichtfertigkeit subjektiv zuzurechnen ist. Bei Exzess eines Mittaeters keine Haftung der anderen.
 
 ## Praktikertipps der Verteidigung
 
@@ -222,7 +222,7 @@ Praktisch ist § 251 StGB das **Verteidigungsziel** bei Anklage wegen Mordes aus
 > Die Hemmschwellentheorie der staendigen BGH-Rechtsprechung beim Toetungsvorsatz greift. Die Beweisaufnahme hat ergeben, dass der Angeklagte den Tod des Geschaedigten weder gewollt noch billigend in Kauf genommen hat. § 211 StGB scheidet aus. Es bleibt der Schuldspruch wegen § 251 StGB.
 
 **Hilfsbeweisantrag:**
-> Hilfsweise wird beantragt, ein rechtsmedizinisches Gutachten zum Todesmechanismus einzuholen. Beweisthema: Der Tod ist nicht durch die unmittelbaren Schlaege, sondern durch eine atypische, fuer den Angeklagten subjektiv nicht voraussehbare Komplikation eingetreten. Leichtfertigkeit iSd § 251 StGB liegt damit nicht vor.
+> Hilfsweise wird beantragt, ein rechtsmedizinisches Gutachten zum Todesmechanismus einzuholen. Beweisthema: Der Tod ist nicht durch die unmittelbaren Schlaege, sondern durch eine atypische, für den Angeklagten subjektiv nicht voraussehbare Komplikation eingetreten. Leichtfertigkeit iSd § 251 StGB liegt damit nicht vor.
 
 ## Querverweise
 
@@ -244,7 +244,7 @@ Praktisch ist § 251 StGB das **Verteidigungsziel** bei Anklage wegen Mordes aus
 
 ## 3. `strafrecht-spezial-rechtsbeugung-339-stgb`
 
-**Fokus:** Rechtsbeugung nach Paragraph 339 StGB. Sonderdelikt fuer Richter Schiedsrichter und sonstige Amtstraeger im Rechtsbeugungs-Sinne. Beugen des Rechts zugunsten oder zum Nachteil einer Partei. Sperrwirkung in der Praxis hohe Anforderungen an Vorsatz BGH staendige Rspr. Verteidigung bei Verfahrenstaktik.
+**Fokus:** Rechtsbeugung nach Paragraph 339 StGB. Sonderdelikt für Richter Schiedsrichter und sonstige Amtstraeger im Rechtsbeugungs-Sinne. Beugen des Rechts zugunsten oder zum Nachteil einer Partei. Sperrwirkung in der Praxis hohe Anforderungen an Vorsatz BGH staendige Rspr. Verteidigung bei Verfahrenstaktik.
 
 # Rechtsbeugung nach Paragraph 339 StGB
 
@@ -286,7 +286,7 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 
 ## Praktikertipps Verteidigung
 
-- **Vorsatz konsequent angreifen.** BGH staendige Rspr. fordert direktes Wissen um die Pflichtwidrigkeit; Mandant haette die Rechtsauffassung fuer vertretbar halten muessen. Bei Streitstand in der Lit. oder OLG-Rspr. ist Vertretbarkeit regelmaessig zu bejahen.
+- **Vorsatz konsequent angreifen.** BGH staendige Rspr. fordert direktes Wissen um die Pflichtwidrigkeit; Mandant haette die Rechtsauffassung für vertretbar halten muessen. Bei Streitstand in der Lit. oder OLG-Rspr. ist Vertretbarkeit regelmaessig zu bejahen.
 - **Vertretbarkeitsspielraum nutzen.** Auch fragwuerdige, aber juristisch begruendbare Entscheidungen sind nicht Rechtsbeugung. Sachverstaendigengutachten zur Vertretbarkeit der Entscheidungslinie kann entlastend wirken.
 - **Verfahrensfehler trennen von Materialer Rechtsbeugung.** Nicht jeder Verfahrensfehler ist Rechtsbeugung. Schlampige Verfahrensfuehrung ist Dienstvergehen, nicht Strafbarkeit.
 - **DDR-Justizverfahren als Praezedenz.** BGH hat in den Verfahren gegen ehemalige DDR-Richter (sog. Mauerschuetzen-Justiz) die Schwelle sehr hoch gesetzt; Bezugnahme moeglich.
@@ -297,7 +297,7 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 
 | Pfad A Bestreiten Pflichtverletzung | Pfad B Bestreiten Vorsatz / Vertretbarkeit | Empfehlung |
 | --- | --- | --- |
-| Riskant, wenn objektive Pflichtverletzung klar; Sachverstaendigengutachten dafuer noetig. | Hochwirksam: BGH verlangt direkten Vorsatz und Offensichtlichkeit; Vertretbarkeitsverteidigung trifft Kern der Rspr. | Pfad B ist die uebliche und meist erfolgreiche Linie. Vertretbarkeitsspielraum der Auslegung breit darstellen. |
+| Riskant, wenn objektive Pflichtverletzung klar; Sachverstaendigengutachten dafür noetig. | Hochwirksam: BGH verlangt direkten Vorsatz und Offensichtlichkeit; Vertretbarkeitsverteidigung trifft Kern der Rspr. | Pfad B ist die uebliche und meist erfolgreiche Linie. Vertretbarkeitsspielraum der Auslegung breit darstellen. |
 
 ## Konkurrenzen
 
@@ -314,13 +314,13 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 - **Berufsverbot Paragraph 70 StGB** zwingend bei Verurteilung — Richter oder Beamter verliert Amt nach Paragraph 24 DRiG bzw. Paragraph 41 BBG.
 - **Disziplinarrechtliche Folgen** vorgesehen ueber Paragraph 33 BeamtStG (Entfernung aus dem Beamtenverhaeltnis).
 - BZRG-Eintrag zwingend.
-- **Sperre fuer Bestellung als Anwalt** ueber Paragraph 7 BRAO moeglich.
+- **Sperre für Bestellung als Anwalt** ueber Paragraph 7 BRAO moeglich.
 
 ## Mustertexte
 
 **Schriftsatz-Snippet (Vertretbarkeit):** "Die meinem Mandanten zur Last gelegte Auslegung von Paragraph X im Beschluss vom DD.MM.JJJJ entspricht der von einem Teil der Lit. (Mueller in: Kommentar zu Paragraph X, Rn 12) und der OLG-Rspr. des OLG Y vertretenen Linie. Sie ist damit jedenfalls vertretbar; eine schwerwiegende, offensichtliche Pflichtverletzung im Sinne der BGH staendigen Rspr. liegt nicht vor."
 
-**Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten eines Hochschullehrers fuer Strafrecht oder Strafprozessrecht einzuholen zum Beweis der Tatsache, dass die meinem Mandanten zur Last gelegte Verfahrensentscheidung vertretbar war."
+**Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten eines Hochschullehrers für Strafrecht oder Strafprozessrecht einzuholen zum Beweis der Tatsache, dass die meinem Mandanten zur Last gelegte Verfahrensentscheidung vertretbar war."
 
 **Einlassungs-Snippet (Vorsatzausschluss):** "Ich habe die Entscheidung im guten Glauben getroffen, dass meine Auslegung der Norm rechtlich vertretbar sei. Ich habe vor der Entscheidung am DD.MM.JJJJ mit dem Vorsitzenden Richter X die Auslegungsfrage besprochen; er hat mir bestaetigt, dass die von mir gewaehlte Auslegung in seiner Spruchpraxis ebenfalls vorkommt."
 
@@ -336,7 +336,7 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 - BGH staendige Rspr. zur hohen Schwelle der Rechtsbeugung (offensichtliche, schwerwiegende Pflichtverletzung).
 - BGH staendige Rspr. zum direkten Vorsatzerfordernis.
 - BGH-Linie aus den DDR-Justizverfahren (Mauerschuetzen-Justiz; Hochverratsverfahren).
-- Paragraph 24 DRiG Amtsverlust bei Verurteilung; Paragraph 41 BBG fuer Beamte.
+- Paragraph 24 DRiG Amtsverlust bei Verurteilung; Paragraph 41 BBG für Beamte.
 - Paragraph 33 BeamtStG Disziplinarrecht.
 - Paragraph 70 StGB Berufsverbot.
 - Paragraph 7 BRAO Sperre als Anwalt.
@@ -376,7 +376,7 @@ Strafbar ist, wer in Kenntnis der drohenden Zahlungsunfaehigkeit eines anderen o
 
 - **Drohende Insolvenz / Insolvenzlage** des anderen (Schuldner) muss objektiv vorliegen.
 - **Kenntnis** des Taeters: positives Wissen, nicht bloss Eventualvorsatz. Hier liegt die kritische Pruefstelle.
-- **Einwilligung oder Foerderung** durch den Schuldner: der Schuldner muss von der Handlung wissen und sie wollen.
+- **Einwilligung oder Förderung** durch den Schuldner: der Schuldner muss von der Handlung wissen und sie wollen.
 - **Gefaehrdung der Befriedigung der Glaeubiger** in Nr. 2 als Erfolgsmerkmal.
 
 ### Absatz 2 Versuch strafbar
@@ -398,7 +398,7 @@ Wieder: Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag muessen eintr
 - **Kenntnis ist die Schwelle.** Bei Familienangehoerigen und Geschaeftspartnern oft schwer zu beweisen, dass sie konkret von der drohenden Insolvenz wussten. Verteidigung: Sie haben dem GF geglaubt; keine eigene Pruefungspflicht.
 - **Geschaeftsueblichkeit angreifen.** Kauf einer gebrauchten Maschine zum Marktpreis vor Insolvenz ist kein Beiseiteschaffen, sondern normaler Geschaeftsverkehr; bei Marktpreis-Beleg (Sachverstaendigengutachten, Auktionsergebnis) Verteidigung tragbar.
 - **Strohmann-Konstellation.** Wenn der Dritte nur formal Eigentum erlangt hat (Treuhand zu Gunsten des Schuldners), ist die Vermoegensverschiebung evident; hier ist Verteidigung oft chancenlos.
-- **Gutglaeubigkeit des Dritten dokumentieren.** Ehefrau hat nicht in Buchhaltung Einsicht, war nicht im Unternehmen taetig, hat Geldbetrag als Geschenk fuer Notlage entgegengenommen - alles entlastend.
+- **Gutglaeubigkeit des Dritten dokumentieren.** Ehefrau hat nicht in Buchhaltung Einsicht, war nicht im Unternehmen taetig, hat Geldbetrag als Geschenk für Notlage entgegengenommen - alles entlastend.
 - **Abgrenzung zur Beihilfe Paragraph 27 StGB.** Wenn der GF selbst eine Bankrotttat begeht und der Dritte ihm hilft, ist regelmaessig Beihilfe gegeben (oft sogar in Tateinheit mit Paragraph 283d StGB; Subsidiaritaetsfragen klaeren).
 
 ## Trade-off-Matrix
@@ -420,12 +420,12 @@ Wieder: Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag muessen eintr
 - Absatz 4 fahrlaessig: Freiheitsstrafe bis 2 Jahre oder Geldstrafe.
 - **Einziehung Paragraph 73 StGB** des vom Dritten erlangten Vermoegens; bei Familienangehoerigen Drittbeteiligten-Einziehung Paragraph 73b StGB pruefen.
 - BZRG-Eintrag bei Geldstrafe ueber 90 Tagessaetzen.
-- **Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG** auch fuer den Dritten, sofern er selbst GF-Funktionen ausueben sollte (Insolvenzstraftat).
+- **Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG** auch für den Dritten, sofern er selbst GF-Funktionen ausueben sollte (Insolvenzstraftat).
 - Zivilrechtlich: Anfechtbarkeit Paragraph 129 ff. InsO; Schadensersatzanspruch gegenueber dem Drittempfaenger.
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Meine Mandantin hat den Pkw am DD.MM.JJJJ zum Marktpreis von EUR X (DAT-Wert lt. Anlage SS 1) gekauft. Sie hatte zu diesem Zeitpunkt keine Kenntnis von einer drohenden Insolvenz ihres Ehemanns; ueber dessen geschaeftliche Verhaeltnisse war sie nicht informiert (vgl. Vermoegensauskunft fuer die Eigentumswohnung vom DD.MM.JJJJ)."
+**Schutzschrift-Snippet:** "Meine Mandantin hat den Pkw am DD.MM.JJJJ zum Marktpreis von EUR X (DAT-Wert lt. Anlage SS 1) gekauft. Sie hatte zu diesem Zeitpunkt keine Kenntnis von einer drohenden Insolvenz ihres Ehemanns; ueber dessen geschaeftliche Verhaeltnisse war sie nicht informiert (vgl. Vermoegensauskunft für die Eigentumswohnung vom DD.MM.JJJJ)."
 
 **Einlassungs-Snippet:** "Ich habe meinem Bruder die EUR 20.000 als Privatdarlehen gegeben, weil er mir gesagt hatte, er habe einen kurzfristigen Liquiditaetsengpass. Von einer drohenden Insolvenz wusste ich nichts. Wir haben einen schriftlichen Darlehensvertrag (Anlage SS 2) und ich habe eine Rueckzahlung in Raten vereinbart."
 
@@ -491,7 +491,7 @@ Die zentrale Verteidigungsfrage ist, ob die schwere Folge dem Taeter zugerechnet
 - **Sprachvermoegen:** Vollstaendiger Verlust der Sprachfaehigkeit; Stottern reicht nicht.
 - **Fortpflanzungsfaehigkeit:** Verlust der Zeugungs- oder Empfaengnisfaehigkeit.
 
-**Nr. 2 Wichtiges Glied:** Verlust **oder dauernde Gebrauchsunfaehigkeit** eines wichtigen Glieds des Koerpers. Glied im engeren Sinne = Koerperteil mit selbststaendiger Funktion, der durch Gelenk mit Koerper verbunden ist. **Wichtig** ist ein Glied, wenn es eine wesentliche Funktion fuer den Gesamtorganismus hat (Arm, Bein, Hand, Fuss, einzelne Finger nach staendiger BGH-Rechtsprechung im Einzelfall). Daumen ist regelmaessig wichtig; einzelne Fingerglieder umstritten.
+**Nr. 2 Wichtiges Glied:** Verlust **oder dauernde Gebrauchsunfaehigkeit** eines wichtigen Glieds des Koerpers. Glied im engeren Sinne = Koerperteil mit selbststaendiger Funktion, der durch Gelenk mit Koerper verbunden ist. **Wichtig** ist ein Glied, wenn es eine wesentliche Funktion für den Gesamtorganismus hat (Arm, Bein, Hand, Fuss, einzelne Finger nach staendiger BGH-Rechtsprechung im Einzelfall). Daumen ist regelmaessig wichtig; einzelne Fingerglieder umstritten.
 
 **Nr. 3 In erheblicher Weise dauernd entstellt oder in Siechtum, Laehmung oder geistige Krankheit oder Behinderung verfallen:**
 
@@ -500,7 +500,7 @@ Die zentrale Verteidigungsfrage ist, ob die schwere Folge dem Taeter zugerechnet
 - **Laehmung:** Dauerhafte Bewegungsunfaehigkeit eines Koerperteils mit erheblicher Auswirkung.
 - **Geistige Krankheit oder Behinderung:** Dauerhafte Beeintraechtigung der geistigen Faehigkeiten.
 
-**Dauerhaftigkeit:** Voraussichtlich nicht behebbar oder nur durch unverhaeltnismaessige Massnahmen behebbar. Bei Heilbarkeit durch medizinische Standardmassnahmen scheidet § 226 StGB aus.
+**Dauerhaftigkeit:** Voraussichtlich nicht behebbar oder nur durch unverhaeltnismäßige Massnahmen behebbar. Bei Heilbarkeit durch medizinische Standardmassnahmen scheidet § 226 StGB aus.
 
 ## Absichtsvariante § 226 Abs. 2 StGB
 
@@ -535,7 +535,7 @@ Wenn der Taeter die schwere Folge **vorsaetzlich** verursacht (mindestens dolus 
 - **Strafrahmen § 226 Abs. 1 StGB:** Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
 - **Strafrahmen § 226 Abs. 2 StGB:** Freiheitsstrafe nicht unter drei Jahren (bis 15 Jahre, § 38 Abs. 2 StGB).
 - **Minder schwerer Fall (Abs. 3):** Strafrahmen sechs Monate bis fuenf Jahre (Abs. 1) oder ein Jahr bis zehn Jahre (Abs. 2).
-- **Versuch:** § 226 Abs. 4 StGB – Versuch strafbar (insb. fuer Abs. 2 relevant).
+- **Versuch:** § 226 Abs. 4 StGB – Versuch strafbar (insb. für Abs. 2 relevant).
 - **§ 49 StGB:** Strafrahmenverschiebung bei vertypten Milderungsgruenden (§ 21 StGB, § 46a StGB, § 23 Abs. 2 StGB).
 - **Bewaehrung:** Bei Strafe bis zu zwei Jahren grundsaetzlich moeglich; in der Praxis bei § 226 StGB selten.
 
@@ -701,7 +701,7 @@ Aufbau:
 
 - **§ 176 StGB (Grundtatbestand):** Sexuelle Handlung mit oder vor Kind. Strafrahmen ein bis 15 Jahre.
 - **§ 176a StGB (Schwerer sexueller Missbrauch):** Eindringen / Bewaffnung / Mehrtaeterschaft. Strafrahmen zwei bis 15 Jahre.
-- **§ 176b StGB (Vorbereitung des sexuellen Missbrauchs):** Eigenes Delikt fuer Vorbereitungshandlungen.
+- **§ 176b StGB (Vorbereitung des sexuellen Missbrauchs):** Eigenes Delikt für Vorbereitungshandlungen.
 - **§ 176c StGB (Sexueller Missbrauch von Kindern mit Todesfolge):** Lebenslang oder nicht unter zehn Jahren.
 - **§ 176d StGB (Schwerer sexueller Missbrauch mit Todesfolge):** Lebenslang.
 
@@ -749,7 +749,7 @@ Strafrahmen § 176a Abs. 1 StGB: Freiheitsstrafe nicht unter zwei Jahren.
 - **Suggestive Befragungen:** Erstvernehmungen kritisch analysieren – wie wurde das Kind befragt? Wer hat das Kind zuerst gehoert? Suggestion durch nahe Bezugspersonen?
 - **Familienkonflikte:** Bei Trennungs- und Sorgerechtsverfahren erhoehte Vorsicht; Aussage des Kindes kann durch elterliche Konflikte gepraegt sein – aber kein pauschales Misstrauen, Beweisaufnahme strukturiert.
 - **Videovernehmung § 58a StPO:** Bei Kindern Standard. Erste polizeiliche Vernehmung sollte videodokumentiert sein, um Wiederholung zu vermeiden.
-- **Verteidigerausschluss von Anhoerungen § 247a StPO:** Bei Vernehmung des Kindes Anwesenheit des Angeklagten kann ausgeschlossen werden.
+- **Verteidigerausschluss von Anhörungen § 247a StPO:** Bei Vernehmung des Kindes Anwesenheit des Angeklagten kann ausgeschlossen werden.
 - **§ 16 StGB Altersirrtum:** Bei vermeintlich aelterem Aeusseren denkbar, aber bei Kindern unter 14 Jahren sehr selten erfolgreich.
 
 ## Trade-off-Matrix
@@ -842,7 +842,7 @@ Dieser Skill konzentriert sich auf die spezifische Tatbestandsstruktur des Abs. 
 
 Dolus eventualis genuegt. Tatbestandsirrtum nach § 16 StGB schliesst den Vorsatz aus.
 
-**Erkennbarer Wille:** Aeusserung, die fuer einen objektiven Dritten an Stelle des Taeters als Ablehnung wahrnehmbar ist. Es genuegt **eine** Aeusserung des Opfers:
+**Erkennbarer Wille:** Aeusserung, die für einen objektiven Dritten an Stelle des Taeters als Ablehnung wahrnehmbar ist. Es genuegt **eine** Aeusserung des Opfers:
 
 - **Ausdruecklich:** "Nein", "Hoer auf", "Lass das".
 - **Konkludent:** Kopfschuetteln, Wegdrehen, Weinen, Verkrampfen, koerperliches Wehrhandeln, Wegstossen.
@@ -855,7 +855,7 @@ Reines Schweigen oder Erstarren ist nach staendiger BGH-Rechtsprechung **nicht**
 
 **Sexuelle Handlung § 184h Nr. 1 StGB:** Handlung von einigem Gewicht hinsichtlich des geschuetzten Rechtsguts. Sexueller Bezug muss erkennbar sein. Auch ueber Bekleidung (Streifen, Beruehren von Brust, Gesaess oder Geschlechtsteilen).
 
-**Erheblichkeitsschwelle:** § 184h Nr. 1 StGB verlangt sexuelle Handlung "von einigem Gewicht". Bei nur kurzer leichter Beruehrung kann § 184i StGB (sexuelle Belaestigung) einschlaegig sein – Strafrahmen Geldstrafe oder Freiheitsstrafe bis zwei Jahre. Abgrenzung wichtig fuer den Strafrahmen.
+**Erheblichkeitsschwelle:** § 184h Nr. 1 StGB verlangt sexuelle Handlung "von einigem Gewicht". Bei nur kurzer leichter Beruehrung kann § 184i StGB (sexuelle Belaestigung) einschlaegig sein – Strafrahmen Geldstrafe oder Freiheitsstrafe bis zwei Jahre. Abgrenzung wichtig für den Strafrahmen.
 
 **Erkennbarkeit aus Sicht des Taeters:** **Objektiver Massstab** – wuerde ein durchschnittlicher Beobachter die Aeusserung als Ablehnung verstehen. Subjektive Wahrnehmungsstoerungen des Taeters (Alkohol, Wunschdenken) entlasten nicht ohne weiteres; sie koennen aber im Rahmen des § 16 StGB beruecksichtigt werden.
 
@@ -928,7 +928,7 @@ Reines Schweigen oder Erstarren ist nach staendiger BGH-Rechtsprechung **nicht**
 
 ## 9. `strafrecht-spezial-stalking-238-stgb`
 
-**Fokus:** § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps fuer die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte fuer Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB.
+**Fokus:** § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps für die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte für Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB.
 
 # § 238 StGB — Nachstellung (Stalking)
 
@@ -960,7 +960,7 @@ Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 ## Praktikertipps der Verteidigung
 
 - **Tatzeitraum sauber abgrenzen**: Vor der 2017er Reform war § 238 StGB als Erfolgsdelikt ausgestaltet (schwerwiegende Beeintraechtigung der Lebensgestaltung musste tatsaechlich eingetreten sein). Seit der Reform reicht die Eignung zur nicht unerheblichen Beeintraechtigung. Bei Alttatzeitraeumen vor Inkrafttreten der Reform ist das Bestreiten des konkreten Erfolgs ein Verteidigungsansatz.
-- **"Wiederholt" statt altem Eingangselement**: Fuer aktuelles Recht nach der Reform 2021 ist "wiederholt" das gesetzliche Eingangselement. Aeltere Rechtsprechung zum frueheren Merkmal kann nur noch fuer Altrecht und als historischer Auslegungs- und Abgrenzungshintergrund helfen, ersetzt aber nicht den aktuellen Gesetzeswortlaut. Verteidigung daher nicht auf ein weggefallenes Merkmal stuetzen, sondern Anzahl, Dichte, Zeitraum, Zusammenhang und Eignung der konkreten Handlungen pruefen.
+- **"Wiederholt" statt altem Eingangselement**: Fuer aktuelles Recht nach der Reform 2021 ist "wiederholt" das gesetzliche Eingangselement. Aeltere Rechtsprechung zum frueheren Merkmal kann nur noch für Altrecht und als historischer Auslegungs- und Abgrenzungshintergrund helfen, ersetzt aber nicht den aktuellen Gesetzeswortlaut. Verteidigung daher nicht auf ein weggefallenes Merkmal stuetzen, sondern Anzahl, Dichte, Zeitraum, Zusammenhang und Eignung der konkreten Handlungen pruefen.
 - **Eignung zur Beeintraechtigung**: objektiver Massstab, nicht das subjektive Empfinden des Opfers. Verteidigung kann hier mit Lebensumstaenden des Opfers (Selbststaendigkeit, Mobilitaet, soziale Einbindung) argumentieren.
 - **Vorsatz**: bedingter Vorsatz genuegt. Bei einseitiger Liebe (Schwarmverliebtheit, Verfolgungswahn) Schuldfaehigkeit § 20 StGB pruefen.
 - **GewSchG-Schnittstelle**: zivilrechtliche Annaeherungsverbote (Familiengerichtsbeschluss § 1 GewSchG) und Strafverfahren laufen oft parallel. Verstoss gegen zivilen Beschluss = eigener Straftatbestand § 4 GewSchG.
@@ -978,7 +978,7 @@ Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 
 - § 238 StGB und § 240 StGB stehen in Tateinheit, wenn die Nachstellungshandlung auch noetigend wirkt.
 - § 238 StGB und § 241 StGB (Bedrohung): Tateinheit, wenn wiederholte Drohungen Teil des Nachstellungsbildes sind.
-- § 238 StGB und § 201a StGB (Verletzung des hoechstpersoenlichen Lebensbereichs durch Bildaufnahmen): nach Reform 2021 spezialgesetzlich auch in Regelbeispiel 5/6 erfasst.
+- § 238 StGB und § 201a StGB (Verletzung des hoechstpersönlichen Lebensbereichs durch Bildaufnahmen): nach Reform 2021 spezialgesetzlich auch in Regelbeispiel 5/6 erfasst.
 - § 238 StGB und § 4 GewSchG: Tatmehrheit, wenn ein gerichtliches Verbot besteht.
 
 ## Strafzumessung und Folgen
@@ -1007,14 +1007,14 @@ Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 
 - § 238 StGB in der seit den Reformen 2017 und 2021 geltenden Struktur.
 - § 4 GewSchG.
-- Aeltere BGH-Rechtsprechung zum frueheren Eingangselement nur fuer Altrecht/Tatzeitraeume vor der Reform 2021 oder als historischer Auslegungshintergrund verwenden; fuer aktuelles Recht immer den Wortlaut "wiederholt" zugrunde legen und die konkrete Linie vor Verwendung in Schriftsatz ueber bundesgerichtshof.de oder dejure.org verifizieren.
+- Aeltere BGH-Rechtsprechung zum frueheren Eingangselement nur für Altrecht/Tatzeitraeume vor der Reform 2021 oder als historischer Auslegungshintergrund verwenden; für aktuelles Recht immer den Wortlaut "wiederholt" zugrunde legen und die konkrete Linie vor Verwendung in Schriftsatz ueber bundesgerichtshof.de oder dejure.org verifizieren.
 - Bundestag-Drucksache 19/28679 zur Reform 2021 (verifizieren).
 
 ## 10. `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel`
 
-**Fokus:** Gewerbsmaessiger und bandenmaessiger Schmuggel nach Paragraph 373 AO. Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis 10 Jahre. Praxisrelevant bei Zollvergehen Zigarettenschmuggel Kfz-Verbringen. Verteidigungslinien Bande Gewerbsmaessigkeit Vorsatz.
+**Fokus:** Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO. Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis 10 Jahre. Praxisrelevant bei Zollvergehen Zigarettenschmuggel Kfz-Verbringen. Verteidigungslinien Bande Gewerbsmaessigkeit Vorsatz.
 
-# Gewerbsmaessiger und bandenmaessiger Schmuggel nach Paragraph 373 AO
+# Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO
 
 ## Worum geht es
 
@@ -1026,7 +1026,7 @@ Anwendungsfaelle: Zigarettenschmuggel aus Polen oder Belarus in groesseren Menge
 
 ### Grundtatbestand Paragraph 372 AO
 
-Schmuggel ist das **bandenmaessige oder gewerbsmaessige Verbringen** von Waren oder das gewerbsmaessige Hinterziehen von Einfuhr- oder Ausfuhrabgaben. Voraussetzung ist eine Zollabgabenpflicht.
+Schmuggel ist das **bandenmäßige oder gewerbsmäßige Verbringen** von Waren oder das gewerbsmäßige Hinterziehen von Einfuhr- oder Ausfuhrabgaben. Voraussetzung ist eine Zollabgabenpflicht.
 
 ### Paragraph 373 AO Absatz 1 — Gewerbsmaessigkeit
 
@@ -1052,7 +1052,7 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 
 - **Bandenabrede bestreiten.** Drei Personen mit gemeinsamem Tatplan ist Voraussetzung. Auf "Mitfahrer", "Helfer" oder "Auftraggeber" achten — sind sie wirklich Bande oder nur Einzeltatbeteiligte? BGH verlangt subjektive Verstaendigung auf fortgesetzte Begehung.
 - **Gewerbsmaessigkeit bestreiten.** Einzeltat oder Gelegenheitsschmuggel reicht nicht. "Reise zur Familie und Mitnahme einer Stange Zigaretten" ist nicht gewerbsmaessig. Verteidiger muss substantiierter Vortrag, dass der Mandant nicht regelmaessig schmuggelte.
-- **Mengen-Klassifizierung pruefen.** Mengen-Schwellen fuer Zigaretten (bis 800 Stueck) oder Alkohol (bis 10 Liter Spirituosen) sind reisefreie Mengen und nicht Tatbestand.
+- **Mengen-Klassifizierung pruefen.** Mengen-Schwellen für Zigaretten (bis 800 Stueck) oder Alkohol (bis 10 Liter Spirituosen) sind reisefreie Mengen und nicht Tatbestand.
 - **Vorsatz hinsichtlich Zollabgabenpflicht.** Bei Geschenken zwischen Familien oder Privatpersonen kann Vorsatz fehlen. Verbotsirrtum nach Paragraph 17 StGB praxisrelevant.
 - **Einziehung der Schmuggelware Paragraph 73 StGB.** Mandant verliert die Ware; Wertersatz wird haeufig gefordert. Verteidigung sollte Wertfestsetzung kritisch begleiten.
 - **Verfahrenstrennung bei Beihilfe.** Bei Beihilfe zum Schmuggel oft mildere Strafe; Verteidiger sollte Hilfsrolle des Mandanten betonen.
@@ -1075,7 +1075,7 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 
 - **Strafrahmen Paragraph 373 Abs 1 AO:** Freiheitsstrafe von 6 Monaten bis zu 10 Jahren.
 - **Strafrahmen Paragraph 373 Abs 2 AO:** Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
-- **Bewaehrungspraxis:** ueber 2 Jahre Freiheitsstrafe ist Bewaehrung nicht moeglich (Paragraph 56 StGB); ueber 1 Jahr nur unter Voraussetzungen. Bei bandenmaessigem Schmuggel mit Mengen ueber 200.000 Zigaretten Bewaehrung kaum noch.
+- **Bewaehrungspraxis:** ueber 2 Jahre Freiheitsstrafe ist Bewaehrung nicht moeglich (Paragraph 56 StGB); ueber 1 Jahr nur unter Voraussetzungen. Bei bandenmäßigem Schmuggel mit Mengen ueber 200.000 Zigaretten Bewaehrung kaum noch.
 - **Einziehung Paragraph 73 StGB** der Schmuggelware und des Erloeses; Wertersatz Paragraph 73c StGB.
 - **Verbrauchsteuer-Nachforderung** (Tabaksteuer, Branntweinsteuer) plus Zoll plus EUSt.
 - **Berufsverbot Paragraph 70 StGB** moeglich bei Speditionsunternehmern.
@@ -1086,7 +1086,7 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 
 **Schriftsatz-Snippet (Bandenabrede bestreiten):** "Eine Bandenabrede im Sinne von Paragraph 373 Abs 2 Nr 1 AO setzt nach BGH staendige Rspr. mindestens drei Personen voraus, die sich subjektiv auf die fortgesetzte Begehung von Schmuggeltaten verstaendigt haben. Im vorliegenden Fall ist eine solche Verstaendigung zwischen meinem Mandanten und den Mitangeklagten nicht erwiesen. Die Annahme der Staatsanwaltschaft, die Tat sei aufgrund 'organisierter Strukturen' geplant gewesen, wird durch keine konkrete Aussage gestuetzt."
 
-**Einlassungs-Snippet (Einzeltat ohne Gewerbsmaessigkeit):** "Ich habe lediglich eine einzige Reise nach Polen unternommen und dabei die Zigaretten transportiert. Eine regelmaessige Begehung war nicht beabsichtigt; auch hatte ich keinen Plan, weitere Reisen zu unternehmen. Es handelte sich um eine Einzeltat, nicht um eine gewerbsmaessige Verhaltensweise."
+**Einlassungs-Snippet (Einzeltat ohne Gewerbsmaessigkeit):** "Ich habe lediglich eine einzige Reise nach Polen unternommen und dabei die Zigaretten transportiert. Eine regelmäßige Begehung war nicht beabsichtigt; auch hatte ich keinen Plan, weitere Reisen zu unternehmen. Es handelte sich um eine Einzeltat, nicht um eine gewerbsmäßige Verhaltensweise."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen X zu erheben zum Beweis der Tatsache, dass mein Mandant lediglich als Beifahrer in einer einzigen Schmuggelreise mitgefahren ist und keinen Anteil an der Organisation hatte."
 

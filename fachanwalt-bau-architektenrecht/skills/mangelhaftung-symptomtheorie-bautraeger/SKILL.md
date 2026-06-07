@@ -12,9 +12,9 @@ description: "Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau A
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `bau-mangelhaftung-spezial-symptomtheorie` | Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen. Konkretisierung der Mangelruege, Ausuebung Recht der Mangelbeseitigung. Pruefraster fuer Schriftsatz. |
+| `bau-mangelhaftung-spezial-symptomtheorie` | Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen. Konkretisierung der Mangelruege, Ausübung Recht der Mangelbeseitigung. Pruefraster für Schriftsatz. |
 | `bautraeger-haftungsausschluss-307-bgb` | Bautraeger-Haftungsausschluss und § 307 BGB. Skill klaert welche Haftungsklauseln im Bautraegervertrag wirksam und welche unwirksam sind insbesondere Maengelausschluss Haftungsbegrenzung Kardinalpflichten-Verletzung. Liefert Pruefraster. |
-| `bautraeger-maengelhaftung-fuenf-jahre-634a` | Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjaehrungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Pruefraster. |
+| `bautraeger-maengelhaftung-fuenf-jahre-634a` | Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjährungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Pruefraster. |
 | `spezial-maengelhaftung-verhandlung-vergleich-und-eskalation` | Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ description: "Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau A
 
 ## 1. `bau-mangelhaftung-spezial-symptomtheorie`
 
-**Fokus:** Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen. Konkretisierung der Mangelruege, Ausuebung Recht der Mangelbeseitigung. Pruefraster fuer Schriftsatz.
+**Fokus:** Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen. Konkretisierung der Mangelruege, Ausübung Recht der Mangelbeseitigung. Pruefraster für Schriftsatz.
 
 # Bau: Symptomtheorie-Mangelruege
 
@@ -36,20 +36,20 @@ description: "Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau A
 - **Normen-/Quellenanker:** BGH.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -66,10 +66,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -87,19 +87,19 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 ## Unwirksame Klauseln
 
 ### Pauschaler Haftungsausschluss
-- "Wir haften nicht fuer Maengel, soweit sie nicht erkennbar waren."
+- "Wir haften nicht für Maengel, soweit sie nicht erkennbar waren."
 - Unwirksam — Maengelhaftung darf nicht ueber § 634 BGB hinausgehend ausgeschlossen werden.
 
 ### Maengelpauschalierung
 - "Bei Maengeln ist statt Beseitigung nur eine Pauschale zu zahlen."
 - Unwirksam.
 
-### Verkuerzung der Verjaehrung
+### Verkuerzung der Verjährung
 - "Maengelansprueche verjaehren in 2 Jahren."
 - Unwirksam — § 634a BGB beim Bauwerk 5 Jahre zwingend.
 
-### Ausschluss fuer einfache Fahrlaessigkeit
-- "Wir haften nur fuer Vorsatz und grobe Fahrlaessigkeit."
+### Ausschluss für einfache Fahrlaessigkeit
+- "Wir haften nur für Vorsatz und grobe Fahrlaessigkeit."
 - Unwirksam bei Verletzung Leben Koerper Gesundheit (§ 309 Nr. 7a BGB).
 - Bei sonstigen Schaeden: unwirksam, wenn Kardinalpflicht beruehrt.
 
@@ -119,18 +119,18 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## 3. `bautraeger-maengelhaftung-fuenf-jahre-634a`
 
-**Fokus:** Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjaehrungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Pruefraster.
+**Fokus:** Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjährungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Pruefraster.
 
 # Bautraeger Maengelhaftung Fuenf Jahre 634A
 
 ## Norm
 
-§ 634a Abs. 1 Nr. 2 BGB: Verjaehrungsfrist fuer Maengelansprueche bei Bauwerk 5 Jahre.
+§ 634a Abs. 1 Nr. 2 BGB: Verjährungsfrist für Maengelansprueche bei Bauwerk 5 Jahre.
 
 ## Beginn
 
 - Mit Abnahme (foerm- oder konkludent).
-- Bei Verweigerung der Abnahme: keine Verjaehrung.
+- Bei Verweigerung der Abnahme: keine Verjährung.
 
 ## Hemmung
 
@@ -144,10 +144,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ### Versteckte Maengel
 - Bei Abnahme nicht erkennbar.
-- Verjaehrung erst mit Entdeckung beginnt nicht — die 5 Jahre laufen ab Abnahme.
+- Verjährung erst mit Entdeckung beginnt nicht — die 5 Jahre laufen ab Abnahme.
 
 ### Arglistig verschwiegene Maengel
-- Verjaehrung in 10 Jahren (§ 634a Abs. 3 BGB iVm § 199 BGB).
+- Verjährung in 10 Jahren (§ 634a Abs. 3 BGB iVm § 199 BGB).
 
 ## Pruefraster
 

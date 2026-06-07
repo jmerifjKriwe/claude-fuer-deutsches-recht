@@ -95,7 +95,7 @@ Die Truppendienstgerichte (Süd in München, Nord in Münster) sind erstinstanzl
 - wehrbeschwerdeordnung-beschwerde-frist-form
 - gerichtliches-disziplinarverfahren-soldat
 - bundesverwaltungsgericht-wehrdienstsenate
-- vorlaeufige-dienstenthebung-einbehaltung-bezuege
+- vorläufige-dienstenthebung-einbehaltung-bezuege
 - eilverfahren-konkurrentenstreit-wehrdienstsenat
 - rechtsbeistand-im-disziplinarverfahren
 

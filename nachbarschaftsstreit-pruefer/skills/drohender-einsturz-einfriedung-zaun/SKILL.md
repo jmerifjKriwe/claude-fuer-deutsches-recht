@@ -52,7 +52,7 @@ Nicht selbst sichern, wenn dadurch Gefahr oder Besitzverletzung entsteht. Bei ak
 
 - Streitstrang mit Anspruchsrichtung.
 - Benötigte Beweise.
-- Risiko fuer Mandant und Gegenseite.
+- Risiko für Mandant und Gegenseite.
 - Deeskalierender naechster Schritt.
 - Gerichtlicher naechster Schritt, falls Vergleich scheitert.
 

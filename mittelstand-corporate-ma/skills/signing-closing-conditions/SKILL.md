@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -147,9 +147,9 @@ Fuehrt Signing-to-Closing-Prozess: Conditions Precedent (CPs), Ordinary Course C
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
-1. **CP-Register anlegen:** alle CPs aus SPA extrahieren; je CP: Owner, Faelligkeit, Nachweis (Behoerdenbescheid, Beschluss, Zertifikat), Eskalationsstufe
+1. **CP-Register anlegen:** alle CPs aus SPA extrahieren; je CP: Owner, Faelligkeit, Nachweis (Behördenbescheid, Beschluss, Zertifikat), Eskalationsstufe
 2. **Kartell- und FDI-Timeline:** bei Fusionskontrollpflicht §§ 35 ff. GWB: Filing-Datum plus 4 Wochen (Phase I) oder Phase-II-Risiko einkalkulieren; FDI § 55 AWV: 2-4 Monate
 3. **Ordinary Course Covenants ueberwachen:** wochentliche Kontrolle Veraeusserungsverbote, Investitionskoerbe, wesentliche Vertragsaenderungen, Personalentscheidungen
 4. **Bring-down-Check:** Tage vor Closing alle SPA-Garantien gegen Ist-Zustand pruefen; MAC-Pruefung; eventuelle Closing-Verweigerung dokumentieren
@@ -163,7 +163,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Kartell-CP → GWB-Filing erforderlich → Vollzugsverbot bis Freigabe → Gun Jumping vermeiden
 - FDI-CP → § 55 AWV → Genehmigung abwarten → bei Verstoß: Nichtigkeit des Vollzugs
 - Bring-down scheitert → MAC ausgeloest → Kaeufer hat Ruecktrittsrecht → Pruefung und Dokumentation sofort
-- Longstop Date erreicht ohne CP → Ruecktrittsrecht → Frist 2 Wochen fuer Ruecktrittserklaerung (§ 349 BGB)
+- Longstop Date erreicht ohne CP → Ruecktrittsrecht → Frist 2 Wochen für Ruecktrittserklaerung (§ 349 BGB)
 
 ## Output-Template: CP-Tracker
 
@@ -175,7 +175,7 @@ Deal: [DEALNAME] — Signing: [DATUM] — Longstop: [DATUM]
 
 | Nr. | CP-Bezeichnung | Owner | Faelligkeit | Nachweistyp | Status |
 |----|---------------|-------|------------|-------------|--------|
-| 1 | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behoerdenbescheid | Ausstehend |
+| 1 | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behördenbescheid | Ausstehend |
 | 2 | FDI-Freigabe § 55 AWV | [KAEUFER] | [DATUM] | BMWi-Schreiben | Ausstehend |
 | 3 | Gesellschafterbeschluss Verkaeufer | [VERKAEUFER] | [DATUM] | Notarielles Protokoll | OK |
 | 4 | W&I Deckungszusage | [VERKAEUFER] | [DATUM] | Versicherer-Schreiben | TODO |

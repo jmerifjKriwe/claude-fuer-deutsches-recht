@@ -14,9 +14,9 @@ description: "WEG Beschlussanfechtung Gewerberaum Mietzeit im Miet- und Wohnungs
 | --- | --- |
 | `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` | Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten. § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133 157 BGB. Prüfraster Monatsfrist Anfechtungsgründe ordnungsmäßige Verwaltung Nichtigkeitsvariante Streitwert § 49 GKG. Output Klageschrift § 44 WEG Beschlusstext-Analyse. Abgrenzung zu WEG-Anfechtungsklage-44 (Überschneidung) und miet-weg-mediation (außergerichtlich). |
 | `gewerberaum-mietzeit-und-kuendigung` | Gewerberaum-Spezial: keine Sozialklausel, keine Schriftform-Heilung nach BGH-Rechtsprechung, Probleme der Schriftform-Klausel § 550 BGB, Festmietzeit, ausserordentliche Kuendigung wichtiger Grund. Pruefraster bei Schriftformmaengeln und langfristigen Vertraegen. |
-| `ki-gestuetzte-mietspiegel-rechtsfragen` | KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen der Mietspiegel-Verordnung MsV, Datengrundlage, Repraesentativitaet, mathematische Modelle (HEDP-Methode, ML-Verfahren). Angriffspunkte fuer Vermieter und Mieter, OLG-Rechtsprechung zur Verwertbarkeit. |
+| `ki-gestuetzte-mietspiegel-rechtsfragen` | KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen der Mietspiegel-Verordnung MsV, Datengrundlage, Repraesentativitaet, mathematische Modelle (HEDP-Methode, ML-Verfahren). Angriffspunkte für Vermieter und Mieter, OLG-Rechtsprechung zur Verwertbarkeit. |
 | `miet-betriebskostenabrechnung-checkliste` | Betriebskostenabrechnung im Fachanwaltsmandat schnell prüfen oder erstellen: Mietvertragsklausel, § 556 BGB, BetrKV, HeizkostenV, CO2KostAufG, formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, Einwendungsfristen und verwertbare Schreiben. |
-| `miet-mietkaution-streit-spezial` | Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjaehrung. Pruefraster typische Forderungen Vermieter und Einreden Mieter. |
+| `miet-mietkaution-streit-spezial` | Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjährung. Pruefraster typische Forderungen Vermieter und Einreden Mieter. |
 
 ## Arbeitsweg
 
@@ -51,7 +51,7 @@ description: "WEG Beschlussanfechtung Gewerberaum Mietzeit im Miet- und Wohnungs
 6. Was konkret verletzt ordnungsgemäße Verwaltung § 19 WEG — Ladungsmangel, Quorum, falsche Mehrheit, inhaltliche Unverhältnismäßigkeit?
 7. Soll neben Anfechtung eine Beschlussersetzungsklage erhoben werden (§ 44 Abs. 1 Satz 2 WEG bei Pflicht zur Beschlussfassung)?
 8. Liegt ein wirtschaftliches Interesse des Klägers vor — Streitwert nach § 49 GKG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -72,7 +72,7 @@ description: "WEG Beschlussanfechtung Gewerberaum Mietzeit im Miet- und Wohnungs
 Belegt ueber bundesgerichtshof.de und dejure.org:
 
 - **BGH, Beschl. v. 07.11.2024 – V ZB 6/24** — Anfechtungsklaeger hat Erkundigungsobliegenheit bei Zustellungsverzoegerung des Gerichts; im Regelfall innerhalb eines Jahres nach Ablauf der Monatsfrist § 45 Satz 1 WEG.
-- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** und **V ZR 128/23** — Beschlusskompetenz fuer Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG; erstmalige Belastung mit Kosten nur bei sachlichem Grund; Beschlusskompetenz erfasst auch Erhaltungsruecklage. PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** und **V ZR 128/23** — Beschlusskompetenz für Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG; erstmalige Belastung mit Kosten nur bei sachlichem Grund; Beschlusskompetenz erfasst auch Erhaltungsruecklage. PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 - **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG; Vorbefassung erfordert nur Beschlussantrag in der Versammlung, keine Pflicht zur Vorlage weiterer Informationen/Gutachten.
 - **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Klimaanlage als bauliche Veraenderung; Pruefung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand unmittelbarer Auswirkungen.
 
@@ -286,20 +286,20 @@ nichtig festzustellen.
 - **Normen-/Quellenanker:** BGH, BGB.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -316,17 +316,17 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ## 3. `ki-gestuetzte-mietspiegel-rechtsfragen`
 
-**Fokus:** KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen der Mietspiegel-Verordnung MsV, Datengrundlage, Repraesentativitaet, mathematische Modelle (HEDP-Methode, ML-Verfahren). Angriffspunkte fuer Vermieter und Mieter, OLG-Rechtsprechung zur Verwertbarkeit.
+**Fokus:** KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen der Mietspiegel-Verordnung MsV, Datengrundlage, Repraesentativitaet, mathematische Modelle (HEDP-Methode, ML-Verfahren). Angriffspunkte für Vermieter und Mieter, OLG-Rechtsprechung zur Verwertbarkeit.
 
 # Mietspiegel und KI
 
@@ -342,20 +342,20 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - **Normen-/Quellenanker:** KI, BGB, MsV, HEDP, ML, OLG.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -372,10 +372,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -453,7 +453,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle n
 
 ## 5. `miet-mietkaution-streit-spezial`
 
-**Fokus:** Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjaehrung. Pruefraster typische Forderungen Vermieter und Einreden Mieter.
+**Fokus:** Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjährung. Pruefraster typische Forderungen Vermieter und Einreden Mieter.
 
 # Miet: Mietkaution-Streit
 
@@ -469,13 +469,13 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle n
 - **Normen-/Quellenanker:** BGB.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -503,7 +503,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

@@ -1,13 +1,13 @@
 ---
 name: honorarvertrag-templates-und-abweichungen
-description: "Honorarvertragstemplates fuer juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG § 32 angemessene Verguetung im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Honorarvertragstemplates für juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG § 32 angemessene Verguetung im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Honorarvertrags-Templates
 
 ## Arbeitsbereich
 
-Honorarvertragstemplates fuer juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG § 32 angemessene Verguetung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Honorarvertragstemplates für juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG § 32 angemessene Verguetung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -41,7 +41,7 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
 - BGB §§ 305 ff. - AGB-Kontrolle bei vorformulierten Vertraegen, auch zwischen Unternehmern eingeschraenkt.
 - WissZeitVG-Bezug bei Hochschulautoren (Nebentaetigkeitsrecht, Dienstpflichten).
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Template auswaehlen.** Nach Werktyp - falsche Vorlage erzeugt unsaubere Klauseln.
 2. **Pflichtklauseln pruefen.**
@@ -72,7 +72,7 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
 
 ## Praxistipps der alten Redaktion
 
-- Pauschalhonorar nur fuer Aufsaetze und kleine Werke; ab Lehrbuch Tantieme.
+- Pauschalhonorar nur für Aufsaetze und kleine Werke; ab Lehrbuch Tantieme.
 - Nutzungsrechte einzeln benennen: Print, E-Book, Datenbank, Online-Kommentar, Hoerbuch, Uebersetzung, Bearbeitung.
 - Karenzklausel niemals laenger als zwei Jahre nach Vertragsende - sonst kartell- und berufsrechtlich problematisch.
 - Sublizenzgewinne (Datenbank-Eintrag) zumindest teilweise an Autorin auskehren - sonst spaeter § 32a.
@@ -125,10 +125,10 @@ Justiziariat einbinden? [ja/nein]
 ```
 § [n] Konkurrenzschutz
 
-(1) Der Autor verpflichtet sich, fuer die Dauer von 24 Monaten nach
+(1) Der Autor verpflichtet sich, für die Dauer von 24 Monaten nach
  Erscheinen der jeweils aktuellen Auflage des Werks kein
  konkurrierendes Werk vergleichbaren Inhalts und vergleichbaren
- Adressatenkreises bei einem anderen Verlag zu veroeffentlichen.
+ Adressatenkreises bei einem anderen Verlag zu veröffentlichen.
 (2) Aufsaetze und Beitraege zu Festschriften gelten nicht als
  konkurrierende Werke.
 (3) Diese Klausel endet spaetestens mit Ablauf von vier Jahren nach
@@ -137,7 +137,7 @@ Justiziariat einbinden? [ja/nein]
 
 ## Typische Fehler / Pitfalls
 
-- Total-Buy-Out fuer alle Nutzungsarten mit Pauschale - § 32a-Risiko.
+- Total-Buy-Out für alle Nutzungsarten mit Pauschale - § 32a-Risiko.
 - Sublizenzen ohne Erloesteilung - Anpassungsdruck.
 - Karenzklausel ohne Zeit- oder Reichweitenbegrenzung - unwirksam.
 - Unbekannte Nutzungsarten ohne Schriftform - § 31a UrhG-Falle.

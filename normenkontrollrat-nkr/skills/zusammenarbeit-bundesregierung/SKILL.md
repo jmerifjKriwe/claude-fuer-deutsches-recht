@@ -13,7 +13,7 @@ description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im 
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts` | Verhaltens-Skill fuer die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten fuer Nachforderungsschreiben und Eskalationsmail. |
+| `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts` | Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten für Nachforderungsschreiben und Eskalationsmail. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im 
 
 ## 1. `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts`
 
-**Fokus:** Verhaltens-Skill fuer die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten fuer Nachforderungsschreiben und Eskalationsmail.
+**Fokus:** Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten für Nachforderungsschreiben und Eskalationsmail.
 
 # NKR-Zusammenarbeit mit Bundesregierung und Ressorts
 
@@ -52,7 +52,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 - **GGO § 22, § 23** — Ressortabstimmung allgemein
 - Geschaeftsordnung des NKR (intern)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Stufe 1 — Informeller Kontakt
 
@@ -104,7 +104,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 
 Nachforderungsschreiben:
 
-> "Sehr geehrte Damen und Herren, fuer die Pruefung des Vorhabens benoetigen wir gemaess § 5 NKRG ergaenzende Angaben zu Fallzahlen und Bearbeitungszeit der vorgesehenen Pflicht nach [Paragraf]. Wir bitten um Uebersendung bis [Datum]."
+> "Sehr geehrte Damen und Herren, für die Pruefung des Vorhabens benoetigen wir gemaess § 5 NKRG ergaenzende Angaben zu Fallzahlen und Bearbeitungszeit der vorgesehenen Pflicht nach [Paragraf]. Wir bitten um Uebersendung bis [Datum]."
 
 In der Stellungnahme:
 

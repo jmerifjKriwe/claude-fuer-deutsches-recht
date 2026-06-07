@@ -62,7 +62,7 @@ Reservistendienst: §§ 60 ff. SG; freiwillig oder Pflicht.
 ### Schritt 2 — Routing FWD
 
 → [bwbes-neu-002]: Wehrsold, UhSiG.
-→ [sanitaetsdienst-heilfuersorge]: Heilfürsorge während FWD.
+→ [sanitaetsdienst-heilfürsorge]: Heilfürsorge während FWD.
 → [dienstzeit-soldat-auf-zeit-berufssoldat-fwdl]: Statusfragen.
 
 ### Schritt 3 — Routing Reservist

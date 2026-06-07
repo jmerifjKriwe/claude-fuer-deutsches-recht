@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. P
 
 Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. Preussische Steuerbeschwerdekommissionen, Reichsabgabenordnung 1919, Finanzgerichte nach 1945 und FGO 1965. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. Preussische Ste
 
 ## Worum es geht
 
-Die Finanzgerichtsbarkeit entstand aus fiskalischen Beschwerdesystemen der Einzelstaaten. Preussen kannte Steuerbeschwerdekommissionen seit dem 18. Jahrhundert. Die Reichsabgabenordnung (RAO) von 1919 (RGBl. 1919, 1993) schuf einheitliche Rechtsbehelfssysteme gegen Steuerbescheide. Der Reichsfinanzhof (RFH) bestand 1918-1945 in Muenchen. Nach 1945 entstanden Finanzgerichte der Laender. Die Finanzgerichtsordnung (FGO) vom 6. Oktober 1965 (BGBl. I 1965, 1477) regelt die Finanzgerichtsbarkeit systematisch. Der Bundesfinanzhof (BFH) in Muenchen wurde 1950 als Nachfolger des RFH errichtet.
+Die Finanzgerichtsbarkeit entstand aus fiskalischen Beschwerdesystemen der Einzelstaaten. Preussen kannte Steuerbeschwerdekommissionen seit dem 18. Jahrhundert. Die Reichsabgabenordnung (RAO) von 1919 (RGBl. 1919, 1993) schuf einheitliche Rechtsbehelfssysteme gegen Steuerbescheide. Der Reichsfinanzhof (RFH) bestand 1918-1945 in Muenchen. Nach 1945 entstanden Finanzgerichte der Länder. Die Finanzgerichtsordnung (FGO) vom 6. Oktober 1965 (BGBl. I 1965, 1477) regelt die Finanzgerichtsbarkeit systematisch. Der Bundesfinanzhof (BFH) in Muenchen wurde 1950 als Nachfolger des RFH errichtet.
 
 ## Kernnormen / Kernquellen
 
@@ -34,7 +51,7 @@ Die Finanzgerichtsbarkeit entstand aus fiskalischen Beschwerdesystemen der Einze
 - **Enno Becker** (1869-1940): Hauptverfasser der RAO 1919
 - **RFH Muenchen**: Reichsfinanzhof 1918-1945
 - **BFH Muenchen**: Bundesfinanzhof seit 1950, Nachfolge des RFH
-- **BMF und Laenderfinanzministerien**: Normgebung im Steuerrecht
+- **BMF und Länderfinanzministerien**: Normgebung im Steuerrecht
 
 ## Typische Streitfragen / Forschungsfragen
 
@@ -46,7 +63,7 @@ Die Finanzgerichtsbarkeit entstand aus fiskalischen Beschwerdesystemen der Einze
 
 ## Methodik
 
-- RAO 1919: ALEX/ÖNB fuer Originalfassung
+- RAO 1919: ALEX/ÖNB für Originalfassung
 - AO und FGO: gesetze-im-internet.de
 - BFH-Rechtsprechung: bundesfinanzhof.de (frei zugaengliche Entscheidungen)
 - BMF-Schreiben: bundesfinanzministerium.de

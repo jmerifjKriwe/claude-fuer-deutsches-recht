@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Datenraumindex, Q&A-Tracker, IRL und Disclosure-Log.
@@ -108,14 +108,14 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Asset-Klasse: Strategischer Erwerb, Private Equity Add-On, Minderheitsbeteiligung, Distressed?
 2. Sektor und Jurisdiktion des Targets?
 3. Genehmigungen vorab eingeholen? (Insider-Log wenn Ziel borsennotiert)
-4. Welche oeffentlichen Quellen verfuegbar: Handelsregister, Bundesanzeiger, HR-Auszug, Jahresabschluss?
+4. Welche öffentlichen Quellen verfuegbar: Handelsregister, Bundesanzeiger, HR-Auszug, Jahresabschluss?
 5. Bewertungsrahmen: Multiples-basiert, DCF, Vergleichstransaktionen?
 6. Zweck: Vorab-Screening vor Kontaktaufnahme oder Vor-DD?
 
 ## Zentrale Normen
 
 - **§ 3 GwG** — UBO-Identifizierung; wirtschaftlich Berechtigter; auch im Screening erfassen
-- **Art. 14 DSGVO** — Informationspflicht bei Datenerhebung von Dritten; Grenzen oeffentlicher Quellen
+- **Art. 14 DSGVO** — Informationspflicht bei Datenerhebung von Dritten; Grenzen öffentlicher Quellen
 - **§§ 33 ff. WpHG** — Stimmrechtsmitteilungen bei börsennotierten Gesellschaften; BaFin-Datenbank
 - **§ 325 HGB** — Offenlegungspflicht Jahresabschluss; Abrufbar im Bundesanzeiger
 - **§ 9 HGB** — Handelsregister-Einsichtsrecht; jedermann kann einsehen
@@ -140,7 +140,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Branchenberichte (Statista, IBISWorld) | Marktgroesse, Wettbewerb, Trends | Kostenpflichtig | Hoch |
 | Patentdatenbank (DPMA, EPO) | IP-Portfolio, Schutzrechte | Kostenlos | Sehr hoch (amtlich) |
 
-## Finanzanalyse aus oeffentlichen Quellen
+## Finanzanalyse aus öffentlichen Quellen
 
 ### Aus dem Bundesanzeiger
 - Umsatz, EBITDA, EBIT, Jahresueberschuss
@@ -170,7 +170,7 @@ Typische Multiples nach Sektor (indikativ):
 | Rueckstellungen stark gestiegen | Versteckte Risiken; Litigation |
 | Abschluss viele Monate spaet | Finanzierungsprobleme; Prueferstreit |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Handelsregister-Abruf** — GmbH oder AG; GF-Daten; Kapitalstruktur; Satzung
 2. **Bundesanzeiger-Analyse** — letzte 3 Jahresabschluesse; EBITDA-Trend; Bilanzqualitaet

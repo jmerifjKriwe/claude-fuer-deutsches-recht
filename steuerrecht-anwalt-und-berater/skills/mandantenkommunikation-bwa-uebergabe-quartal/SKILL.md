@@ -27,7 +27,7 @@ Quartalsgespraech BWA-Übergabe. Anwendungsfall systematische Quartalskommunikat
 
 ## Kernsachverhalt
 
-Das Quartalsgespraech ist Standard fuer mittelstaendische Mandanten: BWA-Besprechung, steuerliche Themen, Investitionsplanung, Personalfragen, Liquiditaet. 1-2 Stunden pro Quartal. Bestaerkt die Mandantenbindung und reduziert spaetere Konflikte. Der Steuerberater bereitet sich systematisch vor, fuehrt das Gespraech strukturiert und dokumentiert die Ergebnisse.
+Das Quartalsgespraech ist Standard für mittelstaendische Mandanten: BWA-Besprechung, steuerliche Themen, Investitionsplanung, Personalfragen, Liquiditaet. 1-2 Stunden pro Quartal. Bestaerkt die Mandantenbindung und reduziert spaetere Konflikte. Der Steuerberater bereitet sich systematisch vor, fuehrt das Gespraech strukturiert und dokumentiert die Ergebnisse.
 
 ## Kaltstart-Rueckfragen
 

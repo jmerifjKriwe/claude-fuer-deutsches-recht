@@ -1,13 +1,30 @@
 ---
 name: bonorum-distractio-vermoegenseinzelverkauf
-description: "Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg fuer Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg für Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 114 Bonorum Distractio Vermoegenseinzelverkauf
 
 ## Arbeitsbereich
 
-Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg fuer Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg für Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -19,7 +36,7 @@ Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaen
 
 ## Aufgabe
 
-Skill fuer die bonorum distractio.
+Skill für die bonorum distractio.
 
 ## Rechtsquelle
 

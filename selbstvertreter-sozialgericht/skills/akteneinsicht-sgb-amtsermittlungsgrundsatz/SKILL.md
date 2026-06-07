@@ -12,7 +12,7 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `akteneinsicht-25-sgb-x` | Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschaeftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage. |
+| `akteneinsicht-25-sgb-x` | Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage. |
 | `amtsermittlungsgrundsatz-103-sgg` | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. |
 | `anfechtungsklage-54-sgg` | Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt. |
 | `anlagen-bezeichnen-und-sortieren-sozialgericht` | Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Klaeger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren. |
@@ -29,7 +29,7 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 
 ## 1. `akteneinsicht-25-sgb-x`
 
-**Fokus:** Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschaeftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage.
+**Fokus:** Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage.
 
 # Akteneinsicht 25 Sgb X
 
@@ -49,22 +49,22 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 
 - Akten zur Vorbereitung der Entscheidung (Entwurfsakten): teilweise gesperrt.
 - Persoenliche Verhaeltnisse Dritter.
-- Geschaeftsgeheimnisse Dritter.
+- Geschäftsgeheimnisse Dritter.
 - Schwerwiegende Belange Dritter.
 
 ## Wann beantragen
 
-- Sofort nach Anhoerung oder Widerspruchseinlegung.
+- Sofort nach Anhörung oder Widerspruchseinlegung.
 - Im laufenden Antragsverfahren ueberall moeglich.
 
 ## Wo beantragen
 
-- Bei der Behoerde die die Akte fuehrt (Jobcenter, Krankenkasse, Rentenversicherung, Pflegekasse, Versorgungsamt, BG, Familienkasse).
+- Bei der Behörde die die Akte fuehrt (Jobcenter, Krankenkasse, Rentenversicherung, Pflegekasse, Versorgungsamt, BG, Familienkasse).
 - Form: schriftlich oder elektronisch.
 
 ## Vorgang
 
-- Behoerde gewaehrt Einsicht in den Diensträumen.
+- Behörde gewaehrt Einsicht in den Diensträumen.
 - Auf Antrag oft auch Kopie / Scan zugesandt — gegen Kostenpauschale.
 
 ## Verhaeltnis zur DSGVO
@@ -88,10 +88,10 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 
 **Fokus:** Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern.
 
-# Das Gericht ermittelt fuer Sie — § 103 SGG
+# Das Gericht ermittelt für Sie — § 103 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Das Gericht ermittelt fuer Sie — § 103 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Das Gericht ermittelt für Sie — § 103 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -100,7 +100,7 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 
 ## Worum geht es?
 
-Vor dem Sozialgericht muessen Sie nicht alles selbst beweisen. Das Gericht hat die Pflicht, von Amts wegen zu ermitteln. Es zieht Akten bei, holt Gutachten ein, fragt Aerzte. Diese Skill zeigt, was das fuer Sie konkret bedeutet.
+Vor dem Sozialgericht muessen Sie nicht alles selbst beweisen. Das Gericht hat die Pflicht, von Amts wegen zu ermitteln. Es zieht Akten bei, holt Gutachten ein, fragt Aerzte. Diese Skill zeigt, was das für Sie konkret bedeutet.
 
 ## In einfacher Sprache
 
@@ -115,7 +115,7 @@ Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie muessen nicht al
 ## Fachbegriffe (kurz erklaert)
 
 - **Amtsermittlung**: Das Gericht muss von sich aus die Wahrheit erforschen.
-- **Untersuchungsgrundsatz**: Anderer Begriff fuer Amtsermittlung.
+- **Untersuchungsgrundsatz**: Anderer Begriff für Amtsermittlung.
 - **Mitwirkungspflicht**: Sie muessen mitmachen, aber nicht alles alleine beweisen.
 - **Sachverstaendigen-Gutachten**: Bewertung durch einen Experten (Arzt, Gutachter).
 
@@ -126,13 +126,13 @@ Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie muessen nicht al
 - **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klaegers.
 - **§ 60 SGB I** — Mitwirkungspflichten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was das Gericht von Amts wegen tut
 
 Das Gericht:
 
-- **Zieht Verwaltungsakte bei** (alle Unterlagen der beklagten Behoerde).
+- **Zieht Verwaltungsakte bei** (alle Unterlagen der beklagten Behörde).
 - **Holt aerztliche Befundberichte ein** (Hausarzt, Facharzt, Klinik).
 - **Beauftragt Sachverstaendigen-Gutachten** (z.B. Orthopaedie, Psychiatrie).
 - **Befragt Zeugen** (auf Antrag und von Amts wegen).
@@ -260,7 +260,7 @@ Sie haben einen Bescheid, der Sie belastet. Zum Beispiel eine Sanktion. Sie woll
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Belastender Verwaltungsakt**: Eine Entscheidung der Behoerde, die Sie benachteiligt.
+- **Belastender Verwaltungsakt**: Eine Entscheidung der Behörde, die Sie benachteiligt.
 - **Aufhebung**: Bescheid wird zerstoert, gilt nicht mehr.
 - **Beschwer**: Sie sind betroffen.
 
@@ -271,11 +271,11 @@ Sie haben einen Bescheid, der Sie belastet. Zum Beispiel eine Sanktion. Sie woll
 - **§ 92 SGG** — Inhalt der Klage.
 - **§ 95 SGG** — Streitgegenstand: der Bescheid in Gestalt des Widerspruchsbescheids.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob es ein Verwaltungsakt ist
 
-Anfechtungsklage geht nur gegen Verwaltungsakte (offizielle Entscheidungen der Behoerde). Briefe ohne Regelung sind keine VA, dagegen keine Anfechtung.
+Anfechtungsklage geht nur gegen Verwaltungsakte (offizielle Entscheidungen der Behörde). Briefe ohne Regelung sind keine VA, dagegen keine Anfechtung.
 
 ### Schritt 2 — Vorverfahren beruecksichtigen
 
@@ -293,7 +293,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde]
+[Behörde]
 [Adresse]
 
 — Beklagte —
@@ -313,7 +313,7 @@ I. Sachverhalt
 
 II. Rechtliche Wuerdigung
 Der Bescheid ist rechtswidrig, weil:
-1. [Verfahrensfehler — z.B. Anhoerung nach § 24 SGB X nicht erfolgt]
+1. [Verfahrensfehler — z.B. Anhörung nach § 24 SGB X nicht erfolgt]
 2. [Sachliche Fehler — z.B. wichtige Tatsachen uebersehen]
 3. [Rechtsfehler — z.B. falsche Auslegung des § 31 SGB II]
 
@@ -338,7 +338,7 @@ Anlagen:
 
 ### Schritt 5 — Beklagte einbeziehen
 
-Beklagte ist die Behoerde, deren Bescheid Sie angreifen — nicht der einzelne Sachbearbeiter. Beispiel: Bei Buergergeld das Jobcenter Stadt X.
+Beklagte ist die Behörde, deren Bescheid Sie angreifen — nicht der einzelne Sachbearbeiter. Beispiel: Bei Buergergeld das Jobcenter Stadt X.
 
 ### Schritt 6 — Wenn der Bescheid mehrere Teile hat
 
@@ -409,7 +409,7 @@ Sie haben viele Papiere als Beweis. Ordnen Sie diese. Nummerieren Sie sie. So fi
 
 - **Anlage**: Beilage zum Schriftsatz.
 - **Anlagenverzeichnis**: Liste aller Anlagen am Ende oder Anfang.
-- **K-Anlage / B-Anlage**: K fuer Klaeger, B fuer Beklagte.
+- **K-Anlage / B-Anlage**: K für Klaeger, B für Beklagte.
 - **Konvolut**: Mehrere zusammen geheftete Dokumente.
 
 ## Rechtsgrundlagen
@@ -418,19 +418,19 @@ Sie haben viele Papiere als Beweis. Ordnen Sie diese. Nummerieren Sie sie. So fi
 - **§ 93 SGG** — Abschriften.
 - Allgemeine Praxis der Sozialgerichtsbarkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was wirklich noetig?
 
 Nicht alles muss als Anlage rein. Nur das, was Ihren Vortrag belegt. Drei Kategorien:
 
-- **Muss**: Bescheid, Widerspruchsbescheid, eigene Schreiben an Behoerde.
+- **Muss**: Bescheid, Widerspruchsbescheid, eigene Schreiben an Behörde.
 - **Sollte**: Atteste, aerztliche Berichte, Kontoauszuege bei Geld-Sachen.
 - **Kann**: Allgemeines Informations-Material, Fotos der Wohnung etc. (selten noetig).
 
 ### Schritt 2 — Bezeichnung
 
-Bewaehrt: K1, K2, K3 fuer Klaeger-Anlagen. (Beklagte nutzt B1, B2 etc.)
+Bewaehrt: K1, K2, K3 für Klaeger-Anlagen. (Beklagte nutzt B1, B2 etc.)
 
 Beispiele:
 
@@ -485,7 +485,7 @@ Wenn das Gericht ein Original braucht (z.B. Original-Vollmacht), wird es ausdrue
 - **Lesbarkeit**: Kopien muessen lesbar sein. Bei verblassten Originalen vorher digital korrigieren.
 - **Personenbezogene Daten**: Was nicht zum Streit gehoert, schwaerzen Sie (z.B. Geburtsdatum von Familienmitgliedern).
 - **Datenschutz**: Bei Arztberichten anderer Personen schwaerzen.
-- **Aktuelle Bezeichnung**: Wenn die Behoerde umgewandelt wurde (z.B. MDK zu MD), kurz darauf hinweisen.
+- **Aktuelle Bezeichnung**: Wenn die Behörde umgewandelt wurde (z.B. MDK zu MD), kurz darauf hinweisen.
 
 ## Typische Fehler
 
@@ -544,10 +544,10 @@ Sie haben einen Anwalt und Sie haben gewonnen. Die Beklagte muss die Anwaltskost
 ## Fachbegriffe (kurz erklaert)
 
 - **RVG**: Rechtsanwaltsverguetungsgesetz.
-- **Streitwert**: Wertfestsetzung; Grundlage der Gebuehren.
-- **Geschaeftsgebuehr**: Anwaltsgebuehr fuer aussergerichtliche Taetigkeit.
-- **Verfahrensgebuehr**: Gebuehr fuer das Verfahren.
-- **Terminsgebuehr**: Gebuehr fuer Termin.
+- **Streitwert**: Wertfestsetzung; Grundlage der Gebühren.
+- **Geschaeftsgebuehr**: Anwaltsgebuehr für aussergerichtliche Taetigkeit.
+- **Verfahrensgebuehr**: Gebuehr für das Verfahren.
+- **Terminsgebuehr**: Gebuehr für Termin.
 
 ## Rechtsgrundlagen
 
@@ -556,7 +556,7 @@ Sie haben einen Anwalt und Sie haben gewonnen. Die Beklagte muss die Anwaltskost
 - **§§ 1 ff. RVG** — Rechtsanwalts-Verguetung.
 - **VV RVG** — Verguetungs-Verzeichnis.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wer rechnet ab?
 
@@ -628,7 +628,7 @@ Festsetzungsbeschluss ist Vollstreckungstitel. Beklagte zahlt meist binnen Woche
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. RVG aktuell. Konkrete Gebuehren-Saetze online pruefen.
+Stand: 05/2026. RVG aktuell. Konkrete Gebühren-Saetze online pruefen.
 
 ## Qualitäts-Hardening
 

@@ -13,7 +13,7 @@ description: "Kapitalflussrechnung nach indirekter Methode aus BWA und Bilanz. A
 
 ## Kernsachverhalt
 
-Die Kapitalflussrechnung ist nach DRS 21 Pflichtbestandteil des Konzernabschlusses (§ 297 HGB) und freiwillig fuer Einzelabschluesse. Die indirekte Methode leitet den Cashflow aus dem Jahresueberschuss durch Eliminierung nicht-zahlungswirksamer Posten und Beruecksichtigung von Bilanzveraenderungen ab. Sie ist Bank-Standard, Bestandteil von Sanierungskonzepten nach IDW S 6 und Grundlage der Fortbestehensprognose nach § 19 InsO.
+Die Kapitalflussrechnung ist nach DRS 21 Pflichtbestandteil des Konzernabschlusses (§ 297 HGB) und freiwillig für Einzelabschluesse. Die indirekte Methode leitet den Cashflow aus dem Jahresueberschuss durch Eliminierung nicht-zahlungswirksamer Posten und Beruecksichtigung von Bilanzveraenderungen ab. Sie ist Bank-Standard, Bestandteil von Sanierungskonzepten nach IDW S 6 und Grundlage der Fortbestehensprognose nach § 19 InsO.
 
 ## Kaltstart-Rueckfragen
 
@@ -40,7 +40,7 @@ Die Kapitalflussrechnung ist nach DRS 21 Pflichtbestandteil des Konzernabschluss
 
 ### Standards
 
-- DRS 21 — Kapitalflussrechnung (gilt fuer Konzernabschluss; analog fuer Einzelabschluss).
+- DRS 21 — Kapitalflussrechnung (gilt für Konzernabschluss; analog für Einzelabschluss).
 - IDW S 6 — Sanierungskonzept; Cashflow-Rechnung Pflicht.
 - IDW PS 305 — Risikofrueherkennung.
 - IAS 7 — Cashflow Statements (bei internationaler Konzern-Reporting).
@@ -53,7 +53,7 @@ Die Kapitalflussrechnung ist nach DRS 21 Pflichtbestandteil des Konzernabschluss
 - GuV/BWA der Periode.
 - Anlagenspiegel mit Zugaengen, Abgaengen, AfA.
 - Eigenkapitalveraenderungsrechnung.
-- Detail-Konten fuer ausserordentliche Posten.
+- Detail-Konten für ausserordentliche Posten.
 
 ### Phase 2 — Struktur DRS 21
 
@@ -74,9 +74,9 @@ I. CASHFLOW AUS LAUFENDER GESCHAEFTSTAETIGKEIT
  = Cashflow aus laufender Geschaeftstaetigkeit [X]
 
 II. CASHFLOW AUS INVESTITIONSTAETIGKEIT
- - Auszahlungen fuer Investitionen Sachanlagen [X]
- - Auszahlungen fuer Investitionen immat. WG [X]
- - Auszahlungen fuer Investitionen Finanzanlagen [X]
+ - Auszahlungen für Investitionen Sachanlagen [X]
+ - Auszahlungen für Investitionen immat. WG [X]
+ - Auszahlungen für Investitionen Finanzanlagen [X]
  + Einzahlungen aus Abgang Sachanlagen [X]
  + Einzahlungen aus Abgang Finanzanlagen [X]
  = Cashflow aus Investitionstaetigkeit [X]
@@ -133,7 +133,7 @@ IV. VERAENDERUNG FINANZMITTELFONDS [X]
 - Bei Mittelstand: Kapitalflussrechnung auf Wunsch des Bank-Partners als Standard.
 - Konzernabschluss: Pflicht nach DRS 21 — nicht verhandelbar.
 - Bei IFRS-orientierten Konzernen: parallel IAS 7 darstellen.
-- Praxis-Tipp: Cashflow aus laufender Geschaeftstaetigkeit ist Indikator fuer organische Ertragskraft; deutlich unter Jahresueberschuss = Working-Capital-Problem.
+- Praxis-Tipp: Cashflow aus laufender Geschaeftstaetigkeit ist Indikator für organische Ertragskraft; deutlich unter Jahresueberschuss = Working-Capital-Problem.
 - StBVV: Kapitalflussrechnung als separater Auftrag (Anhang Jahresabschluss).
 - DATEV-Tipp: DATEV Konzernabschluss/Jahresabschluss-Modul mit Kapitalflussrechnung; bei Einzelabschluss manuelle Erstellung.
 

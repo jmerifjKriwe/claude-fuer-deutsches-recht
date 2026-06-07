@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: Medizinrecht und Patientenrechte. Aerztliche Aufklaer
 
 ## Worum es geht
 
-Das Medizinrecht hat sich im 20. Jh. aus dem allgemeinen Zivilrecht entwickelt. Das Reichsgericht anerkannte 1894 (RGZ 39, 127) die aerztliche Aufklaerungspflicht als Grundlage informierter Einwilligung. Der Nuernberger Kodex (1947), als Reaktion auf NS-Medizinexperimente, formulierte internationale Prinzipien fuer Medizinforschung. Das Arznei- und Arzneimittelgesetz (AMG 1978, BGBl. I 1978, 1069) und das Medizinproduktegesetz (MPG) folgten. Das Patientenrechtegesetz 2013 (BGBl. I 2013, 277) kodifizierte Patientenrechte im BGB (§§ 630a-630h). Die Sterbehilfe-Diskussion fuehrte zu BVerfGE 153, 182 (2020).
+Das Medizinrecht hat sich im 20. Jh. aus dem allgemeinen Zivilrecht entwickelt. Das Reichsgericht anerkannte 1894 (RGZ 39, 127) die aerztliche Aufklaerungspflicht als Grundlage informierter Einwilligung. Der Nuernberger Kodex (1947), als Reaktion auf NS-Medizinexperimente, formulierte internationale Prinzipien für Medizinforschung. Das Arznei- und Arzneimittelgesetz (AMG 1978, BGBl. I 1978, 1069) und das Medizinproduktegesetz (MPG) folgten. Das Patientenrechtegesetz 2013 (BGBl. I 2013, 277) kodifizierte Patientenrechte im BGB (§§ 630a-630h). Die Sterbehilfe-Diskussion fuehrte zu BVerfGE 153, 182 (2020).
 
 ## Kernnormen / Kernquellen
 
@@ -41,7 +41,7 @@ Das Medizinrecht hat sich im 20. Jh. aus dem allgemeinen Zivilrecht entwickelt. 
 1. Aufklaerungspflicht: Wie weit muss der Arzt aufklaeren (RG 1894 bis heute)?
 2. Nuernberger Kodex: Gilt er als Gewohnheitsrecht oder nur als Empfehlung?
 3. Patientenrechtegesetz 2013: Brachte es mehr als die bisherige Rechtsprechung?
-4. Sterbehilfe: BVerfGE 153, 182 und seine Folgen fuer das Strafrecht
+4. Sterbehilfe: BVerfGE 153, 182 und seine Folgen für das Strafrecht
 5. AMG und Arzneimittelhaftung: Wer haftet bei Schaden durch Arzneimittel?
 
 ## Methodik

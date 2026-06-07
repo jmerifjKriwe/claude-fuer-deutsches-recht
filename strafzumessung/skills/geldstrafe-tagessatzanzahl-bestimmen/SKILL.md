@@ -24,7 +24,7 @@ Bei der Geldstrafe wird die **Schuld** ueber die **Anzahl der Tagessaetze** ausg
 ## Wann brauchen Sie diese Skill?
 
 - Sie pruefen einen Strafbefehl mit Tagessatzfestsetzung und wollen die Schuldkomponente ueberpruefen.
-- Sie bereiten den Strafantrag der Staatsanwaltschaft fuer ein Vergehen vor.
+- Sie bereiten den Strafantrag der Staatsanwaltschaft für ein Vergehen vor.
 - Sie schreiben die Strafzumessung im Urteil oder pruefen sie im Revisionsverfahren.
 - Sie bilden eine Gesamtgeldstrafe nach §§ 53, 54 StGB.
 
@@ -42,7 +42,7 @@ Bei der Geldstrafe wird die **Schuld** ueber die **Anzahl der Tagessaetze** ausg
 - Die Hoehe darf **nicht** in die Anzahl einfliessen — das waere eine unzulaessige Vermengung.
 - Schuldrahmen-Theorie auch hier: Innerhalb des "Spielraums schuldangemessener Strafe" wird konkret bestimmt.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 1. **Strafrahmen pruefen**: Ist Geldstrafe ueberhaupt vorgesehen? Wird die Strafrahmen-Obergrenze des Tatbestands beruehrt (z.B. § 242 StGB: bis 5 Jahre oder Geldstrafe; § 263 Abs. 1 StGB: bis 5 Jahre oder Geldstrafe).
 2. **Umrechnungsschluessel** beachten: 30 Tagessaetze = 1 Monat Freiheitsstrafe (faustregelhafte Aequivalenz; nicht starr, aber Orientierung).
@@ -68,7 +68,7 @@ Die Tabelle ersetzt **keine** Einzelfallbetrachtung; sie zeigt nur das Spielfeld
 - **Mehrere Einzelstrafen** (Realkonkurrenz, § 53 StGB): Gesamtgeldstrafe nach § 54 Abs. 2 StGB; Erhoehung der hoechsten Einzelstrafe; max. 720 Tagessaetze.
 - **Geldstrafe neben Freiheitsstrafe** (§ 41 StGB): nur wenn Bereicherungsabsicht und Bereicherung erkennbar; sonst Aufhebungsgrund.
 - **Strafbefehl** (§ 407 Abs. 2 StPO): bis 360 Tagessaetze ohne Hauptverhandlung; vgl. `strafbefehl-strafzumessung-407-stpo`.
-- **Verstaendigung** (§ 257c StPO): Strafrahmen-Ober- und Untergrenze fuer Tagessatzanzahl koennen Verhandlungsgegenstand sein; vgl. `verstaendigung-257c-stpo-strafzumessung`.
+- **Verstaendigung** (§ 257c StPO): Strafrahmen-Ober- und Untergrenze für Tagessatzanzahl koennen Verhandlungsgegenstand sein; vgl. `verstaendigung-257c-stpo-strafzumessung`.
 
 ## Typische Fehler
 

@@ -218,7 +218,7 @@ Vertrags-Schluss.
 ```
 Sehr geehrte/r Notar/in,
 
-wir benoetigen Beurkundungs-Termin fuer:
+wir benoetigen Beurkundungs-Termin für:
 
 - Kapitalerhoehungs-Beschluss § 53 Abs. 2 GmbHG
 - Uebernahme-Erklaerung Wandeldarlehens-Lender

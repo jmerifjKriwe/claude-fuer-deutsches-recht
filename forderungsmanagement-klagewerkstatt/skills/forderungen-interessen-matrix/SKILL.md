@@ -1,6 +1,6 @@
 ---
 name: forderungen-interessen-matrix
-description: "Strukturierte Gegenueberstellung mehrerer Forderungen eines Mandanten gegen einen oder mehrere Schuldner. Erfasst Hauptforderung Nebenforderung Zinsen Kosten Faelligkeit Beleg Verjaehrung. Pinpoints ZPO 260 Klagenhaeufung ZPO 33 Aufrechnungswiderklage BGB 366 Tilgungsreihenfolge. Liefert priorisierte Liste mit Empfehlung welche Forderung zuerst klagen und welche bundeln."
+description: "Strukturierte Gegenueberstellung mehrerer Forderungen eines Mandanten gegen einen oder mehrere Schuldner. Erfasst Hauptforderung Nebenforderung Zinsen Kosten Faelligkeit Beleg Verjährung. Pinpoints ZPO 260 Klagenhaeufung ZPO 33 Aufrechnungswiderklage BGB 366 Tilgungsreihenfolge. Liefert priorisierte Liste mit Empfehlung welche Forderung zuerst klagen und welche bundeln."
 ---
 
 # Forderungen-Interessen-Matrix
@@ -9,7 +9,7 @@ Wenn Mandant mehrere Forderungen gegen denselben oder verschiedene Schuldner hat
 
 ## Matrix-Schema
 
-| Forderung | Hauptsumme Euro | Faellig seit | Verjaehrung in Monaten | Beleg | Aussicht | Kostenprognose | Empfehlung |
+| Forderung | Hauptsumme Euro | Faellig seit | Verjährung in Monaten | Beleg | Aussicht | Kostenprognose | Empfehlung |
 |---|---|---|---|---|---|---|---|
 | Werklohn Bauvorhaben A | 24500 | 2024-09-15 | 18 | Rechnung Abnahme | hoch | mittel | sofort Klage |
 | Restkaufpreis Maschine | 8200 | 2025-03-01 | 26 | Kaufvertrag Lieferschein | hoch | gering | Mahnbescheid |
@@ -27,7 +27,7 @@ Wenn Mandant mehrere Forderungen gegen denselben oder verschiedene Schuldner hat
 
 ## Kostenmehrwert pruefen
 
-Bundelung lohnt wenn alle Forderungen in dieselbe Zustaendigkeit fallen GVG 23 oder GVG 71. Bei Mischung von AG- und LG-Forderungen kann Zusammenrechnung der Streitwerte nach ZPO 5 ein einheitliches LG-Verfahren ergeben.
+Bundelung lohnt wenn alle Forderungen in dieselbe Zuständigkeit fallen GVG 23 oder GVG 71. Bei Mischung von AG- und LG-Forderungen kann Zusammenrechnung der Streitwerte nach ZPO 5 ein einheitliches LG-Verfahren ergeben.
 
 ## Tilgungsreihenfolge ohne Bestimmung BGB 366 Abs. 2
 

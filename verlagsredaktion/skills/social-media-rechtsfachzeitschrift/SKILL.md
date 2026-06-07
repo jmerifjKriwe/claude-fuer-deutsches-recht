@@ -1,13 +1,13 @@
 ---
 name: social-media-rechtsfachzeitschrift
-description: "Social-Media-Beitrag fuer juristische Fachzeitschrift: Konzept fuer LinkedIn, Bluesky, Mastodon. Texttemplates, Bildvorgaben, Disclaimer, Werbekennzeichnung nach UWG und DDG im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Social-Media-Beitrag für juristische Fachzeitschrift: Konzept für LinkedIn, Bluesky, Mastodon. Texttemplates, Bildvorgaben, Disclaimer, Werbekennzeichnung nach UWG und DDG im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Social-Media-Beitrag fuer Fachzeitschrift
+# Social-Media-Beitrag für Fachzeitschrift
 
 ## Arbeitsbereich
 
-Social-Media-Beitrag fuer juristische Fachzeitschrift: Konzept fuer LinkedIn, Bluesky, Mastodon. Texttemplates, Bildvorgaben, Disclaimer, Werbekennzeichnung nach UWG und DDG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Social-Media-Beitrag für juristische Fachzeitschrift: Konzept für LinkedIn, Bluesky, Mastodon. Texttemplates, Bildvorgaben, Disclaimer, Werbekennzeichnung nach UWG und DDG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -33,17 +33,17 @@ Verlage juristischer Fachzeitschriften bauen Social-Media-Praesenz auf, um Aufsa
 
 ## Rechtlicher und sachlicher Rahmen
 
-- DDG § 5 - Impressumspflicht auch fuer Social-Media-Profile (Verweis ueber Bio-Link genuegt nach Verwaltungspraxis bei Plattformen mit Zeichenbeschraenkung).
-- MStV § 18 - journalistische Sorgfalt fuer Telemedien mit journalistisch-redaktioneller Praegung.
+- DDG § 5 - Impressumspflicht auch für Social-Media-Profile (Verweis ueber Bio-Link genuegt nach Verwaltungspraxis bei Plattformen mit Zeichenbeschraenkung).
+- MStV § 18 - journalistische Sorgfalt für Telemedien mit journalistisch-redaktioneller Praegung.
 - UWG §§ 5a Abs. 4, 6 - Werbekennzeichnungspflicht; "Werbung", "Anzeige" oder vergleichbar bei kommerzieller Kommunikation.
 - UrhG §§ 51, 51a - Zitatrecht; bei Zitat-Karten Umfang und Kontext beachten.
-- UrhG § 19a - Recht der oeffentlichen Zugaenglichmachung; Wahrung der Verwertungsrechte am Aufsatzauszug.
+- UrhG § 19a - Recht der öffentlichen Zugaenglichmachung; Wahrung der Verwertungsrechte am Aufsatzauszug.
 - DSGVO Art. 6 - Rechtsgrundlage bei Verarbeitung von Profildaten; bei Trackingpixeln separate Einwilligung.
 - KUG §§ 22, 23 - bei Personenfotos.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
-1. **Kanalstrategie.** LinkedIn fuer Anwaltschaft, Bluesky fuer Wissenschaftler, Mastodon fuer Tech-affine, X reduziert.
+1. **Kanalstrategie.** LinkedIn für Anwaltschaft, Bluesky für Wissenschaftler, Mastodon für Tech-affine, X reduziert.
 2. **Posthuelle planen.** Pro Heft 3 Posts: Heftueberblick - Highlight 1 - Highlight 2 - ggf. Webinar / Veranstaltung.
 3. **Texttemplate verwenden.** Hook (erste Zeile faengt Aufmerksamkeit), Substanz (zwei bis vier Saetze), Call-to-Action (Link, Kommentar).
 4. **Werbekennzeichnung.** Bei eigenem Verlagsangebot: "Werbung" bzw. "Anzeige" oder transparenter Kontext ("In unserem aktuellen Heft ..."). Bei Influencer-Kooperationen Pflicht.
@@ -78,12 +78,12 @@ Verlage juristischer Fachzeitschriften bauen Social-Media-Praesenz auf, um Aufsa
 
 ```
 [Hook in Zeile 1, z. B.: "Was das BGH-Urteil zum Vermieterpfandrecht
-fuer Sie bedeutet."]
+für Sie bedeutet."]
 
 Werbung in eigener Sache: Heft [n]/[Jahr] der [Zeitschrift] ist
 erschienen.
 
-Drei Aufsaetze, die fuer die Anwaltspraxis sofort relevant sind:
+Drei Aufsaetze, die für die Anwaltspraxis sofort relevant sind:
 
 - [Autor]: [Titel] - [eine Schlussfolgerung in einem Satz].
 - [Autor]: [Titel] - [eine Schlussfolgerung in einem Satz].
@@ -111,7 +111,7 @@ Volltext (Open Access nach Embargo): [Link].
 [Verlagslogo + Cover-Thumb]
 ```
 
-**Disclaimer-Boilerplate fuer Verlagsprofil-Bio**
+**Disclaimer-Boilerplate für Verlagsprofil-Bio**
 
 ```
 [Verlagsname] - Juristischer Fachverlag seit [Jahr]

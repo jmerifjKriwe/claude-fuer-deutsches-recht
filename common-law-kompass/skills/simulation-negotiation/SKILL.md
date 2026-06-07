@@ -9,6 +9,23 @@ description: "Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandanteng
 
 Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklärung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,9 +90,9 @@ Kläre vor dem Training:
 ## Key Case Law — Verhandlung und Good Faith
 
 - *Walford v Miles* [1992] 2 AC 128 (HL) — kein implied duty to negotiate in good faith im englischen Recht; Pre-Contractual-Verhandlungen binden grundsaetzlich nicht, Lock-Out-Agreements ohne bestimmbare Laufzeit sind nichtig — ein fundamentaler Unterschied zu § 311 II BGB.
-- *Petromec Inc v Petroleo Brasileiro SA* [2005] EWCA Civ 891 — begrenzte Ausnahme: express duty of good faith in einem Teilvertrag kann bindend sein; wichtig fuer Trainingsszenarien mit NDA + Term Sheet.
+- *Petromec Inc v Petroleo Brasileiro SA* [2005] EWCA Civ 891 — begrenzte Ausnahme: express duty of good faith in einem Teilvertrag kann bindend sein; wichtig für Trainingsszenarien mit NDA + Term Sheet.
 - *Pitt v PHH Asset Management Ltd* [1994] 1 WLR 327 (CA) — Lock-Out-Agreement mit bestimmter Laufzeit ist wirksam und durchsetzbar; zeigt Gestaltungsalternative zu Good-Faith-Klauseln.
-- *BCCI SA v Ali* [2001] UKHL 8 — weite Releases in Vergleichsverhandlungen; Parteien muessen klar und deutlich formulieren, wenn sie unbekannte Claims freigeben wollen — Lehrfall fuer Settlement-Training.
+- *BCCI SA v Ali* [2001] UKHL 8 — weite Releases in Vergleichsverhandlungen; Parteien muessen klar und deutlich formulieren, wenn sie unbekannte Claims freigeben wollen — Lehrfall für Settlement-Training.
 
 ## Normen und Quellen — Verhandlungsrecht
 

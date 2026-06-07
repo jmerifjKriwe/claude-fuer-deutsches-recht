@@ -19,7 +19,7 @@ Prueft die Zitierweise in Manuskripten gegen die jeweiligen Hausnormen von NJW N
 
 ## Worum geht es konkret
 
-Jede juristische Fachzeitschrift hat eigene Hausnormen fuer Zitate. NJW zitiert anders als JZ, JuS anders als NJW, NZA hat eigene Kuerzel. Dieser Skill fuehrt die Pruefung systematisch durch: jede Fundstelle pro Zeitschriftenstandard, mit Korrekturvorschlag - und ohne Halluzination, weil unbelegte Pinpoints sichtbar markiert bleiben.
+Jede juristische Fachzeitschrift hat eigene Hausnormen für Zitate. NJW zitiert anders als JZ, JuS anders als NJW, NZA hat eigene Kuerzel. Dieser Skill fuehrt die Pruefung systematisch durch: jede Fundstelle pro Zeitschriftenstandard, mit Korrekturvorschlag - und ohne Halluzination, weil unbelegte Pinpoints sichtbar markiert bleiben.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -34,14 +34,14 @@ Sie brauchen ihn nach dem Format-Check, vor der Annahme. Klaeren Sie:
 
 - Manuskript mit Fussnotenapparat.
 - Manuskriptrichtlinien der Zielzeitschrift (Hausstandard).
-- Zugang zur Verlagsdatenbank fuer Live-Pruefung der Pinpoints (sofern lizenziert).
+- Zugang zur Verlagsdatenbank für Live-Pruefung der Pinpoints (sofern lizenziert).
 - Verzeichnis abgekuerzter Kommentare und Zeitschriften.
 
-## Praxisleitfaden / Schritt fuer Schritt
+## Praxisleitfaden / Schritt für Schritt
 
 1. **Fundstelleninventar.** Jede Fundstelle in Tabelle: Fussnote, Quellenart, Zitat-Wortlaut.
 2. **Klassifikation.** Rspr. / Kommentar / Aufsatz / Internet / Sonstiges.
-3. **Hausstandard pruefen** (siehe Trade-off-Matrix unten fuer Standards).
+3. **Hausstandard pruefen** (siehe Trade-off-Matrix unten für Standards).
 4. **Pinpoint-Pruefung.** Az., Rn., Seite stimmig? Bei Live-Zugriff einzeln pruefen; ohne Zugriff als `[Pinpoint pruefen]` markieren.
 5. **Reihenfolge.** Rspr. vor Lit., neueste zuerst, innerhalb Lit. alphabetisch.
 6. **Wiederholungs-Zitate.** "aaO", "fn. X" konsistent verwenden.
@@ -99,8 +99,8 @@ Hinweis: Die exakte Hausnorm immer aus den jeweils geltenden Manuskriptrichtlini
 ## Quellen Stand 06/2026
 
 - Manuskriptrichtlinien der jeweiligen Zielzeitschrift (vom Verlag bezogen).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- dejure.org, [https://dejure.org](https://dejure.org) (fuer Az.-Verifikation).
+- dejure.org, [https://dejure.org](https://dejure.org) (für Az.-Verifikation).

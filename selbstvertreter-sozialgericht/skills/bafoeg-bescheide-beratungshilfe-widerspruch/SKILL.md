@@ -12,7 +12,7 @@ description: "Bafoeg Bescheide Beratungshilfe Widerspruch im Selbstvertretung am
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `bafoeg-bescheide-widerspruch` | BAfoeG-Bescheide und Widerspruch. Skill klaert die Foerderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage. |
+| `bafoeg-bescheide-widerspruch` | BAfoeG-Bescheide und Widerspruch. Skill klaert die Förderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage. |
 | `beratungshilfe-vor-widerspruch-brh` | Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil. |
 | `berufskrankheit-bk-meldung-bkv` | Berufskrankheit: Meldung und Anerkennung. Skill klaert die BK-Liste der Berufskrankheitenverordnung (BKV) typische BK (Larmschwerhoerigkeit Asbestose Hauterkrankungen) den Wie-Tatbestand (§ 9 Abs. 2 SGB VII) und das aufwendige Anerkennungsverfahren. Liefert Vorlage. |
 | `berufung-lsg-144-sgg-wertgrenze-750` | Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen über 1 Jahr. Mustertext für Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung. |
@@ -29,7 +29,7 @@ description: "Bafoeg Bescheide Beratungshilfe Widerspruch im Selbstvertretung am
 
 ## 1. `bafoeg-bescheide-widerspruch`
 
-**Fokus:** BAfoeG-Bescheide und Widerspruch. Skill klaert die Foerderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage.
+**Fokus:** BAfoeG-Bescheide und Widerspruch. Skill klaert die Förderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage.
 
 # Bafoeg Bescheide Widerspruch
 
@@ -86,7 +86,7 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 ## Widerspruch
 
 - 1 Monat ab Bekanntgabe.
-- An das zustaendige Amt fuer Ausbildungsfoerderung.
+- An das zuständige Amt für Ausbildungsfoerderung.
 - Wenn die Frist knapp ist: fristwahrend kurz einlegen, Akteneinsicht/Begründungsfrist verlangen, Berechnungstabellen nachreichen.
 - Bei fehlender oder fehlerhafter Rechtsbehelfsbelehrung längere Frist prüfen, nicht aus dem Bauch heraus behaupten.
 
@@ -136,7 +136,7 @@ Sie wollen vor dem Widerspruch einen Anwalt fragen. Das geht fast gratis. Sie za
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Beratungshilfe**: Staatliche Uebernahme von Anwaltskosten fuer ausserhalb des Gerichtsverfahrens.
+- **Beratungshilfe**: Staatliche Uebernahme von Anwaltskosten für ausserhalb des Gerichtsverfahrens.
 - **Berechtigungsschein**: Schein vom Amtsgericht, dass Sie Beratungshilfe bekommen.
 - **Eigenanteil**: 15 EUR, die der Buerger an den Anwalt zahlt.
 - **BerHG**: Beratungshilfegesetz.
@@ -147,11 +147,11 @@ Sie wollen vor dem Widerspruch einen Anwalt fragen. Das geht fast gratis. Sie za
 - **§ 2 BerHG** — Voraussetzungen (wirtschaftliche Lage).
 - **§ 8 BerHG** — Beratungshilfe-Schein.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Beim Amtsgericht Beratungshilfe-Schein holen
 
-Das **Amtsgericht** (nicht das Sozialgericht!) ist zustaendig. Speziell die Rechtsantragsstelle.
+Das **Amtsgericht** (nicht das Sozialgericht!) ist zuständig. Speziell die Rechtsantragsstelle.
 
 Adresse: www.justiz.de → Amtsgericht in Ihrer Stadt.
 
@@ -172,7 +172,7 @@ Sie koennen den Schein:
 - Einkommensnachweise (Buergergeld-Bescheid, Renten-Bescheid, Lohnabrechnung)
 - Mietvertrag
 - Bescheid, gegen den Sie sich wehren wollen
-- ggf. Schreiben der Behoerde
+- ggf. Schreiben der Behörde
 
 ### Schritt 4 — Schein bekommen
 
@@ -185,7 +185,7 @@ Im Erfolgsfall bekommen Sie:
 ### Schritt 5 — Anwalt finden
 
 - Anwaltsregister: www.rechtsanwaltsregister.org
-- Anwaelte fuer Sozialrecht im Branchenbuch
+- Anwaelte für Sozialrecht im Branchenbuch
 - Sozialverband VdK / SoVD (manchmal kostenlos)
 - Caritas / Diakonie
 
@@ -211,7 +211,7 @@ Beratungshilfe ist VOR dem Gerichtsverfahren. Im laufenden Verfahren brauchen Si
 
 ## Typische Fehler
 
-- Beratungshilfe ans SG → Amtsgericht ist zustaendig
+- Beratungshilfe ans SG → Amtsgericht ist zuständig
 - Anwalt ohne Schein aufsucht, ohne Vereinbarung → Anwalt kann volles Honorar verlangen
 - Belege fehlen → Schein nicht bewilligt
 
@@ -312,7 +312,7 @@ Wenn Sie vor dem SG verloren haben (oder teilgewonnen), koennen Sie in die zweit
 
 ## In einfacher Sprache
 
-Sie haben verloren und wollen nochmal. Dafuer gibt es das Landessozialgericht (zweite Instanz). Aber nicht bei jedem Streit. Es muss um mehr als 750 Euro gehen oder um lange Leistungen.
+Sie haben verloren und wollen nochmal. Dafür gibt es das Landessozialgericht (zweite Instanz). Aber nicht bei jedem Streit. Es muss um mehr als 750 Euro gehen oder um lange Leistungen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -332,7 +332,7 @@ Sie haben verloren und wollen nochmal. Dafuer gibt es das Landessozialgericht (z
 - **§ 151 SGG** — Berufungsfrist 1 Monat.
 - **§ 153 SGG** — Inhalt der Berufungsschrift.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen: Berufung statthaft?
 
@@ -368,7 +368,7 @@ In dem Verfahren
 
 gegen
 
-[Behoerde]
+[Behörde]
 
 — Beklagte und Berufungsbeklagte —
 
@@ -407,7 +407,7 @@ Innerhalb der vom LSG gesetzten Frist. Inhalt:
 Vor dem LSG haben oft beide Seiten einen Anwalt. Sie haben zwar keinen Anwaltszwang, aber:
 
 - Verfahren ist anspruchsvoller
-- Behoerde hat oft eigenen Juristen
+- Behörde hat oft eigenen Juristen
 - PKH-Antrag ueberlegen
 
 ### Schritt 6 — Verfahren beim LSG
@@ -485,7 +485,7 @@ Wenn Ihre Streit-Sache klein ist, gibt es trotzdem manchmal Berufung. Wenn es um
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Zulassung der Berufung**: Erlaubnis fuer Berufung trotz fehlender Wertgrenze.
+- **Zulassung der Berufung**: Erlaubnis für Berufung trotz fehlender Wertgrenze.
 - **Grundsaetzliche Bedeutung**: Die Rechtsfrage ist allgemein wichtig.
 - **Divergenz**: SG ist von Rechtsprechung des BSG abgewichen.
 - **Verfahrensfehler**: Das SG-Verfahren hatte einen schweren Mangel.
@@ -495,7 +495,7 @@ Wenn Ihre Streit-Sache klein ist, gibt es trotzdem manchmal Berufung. Wenn es um
 - **§ 144 Abs. 2 SGG** — Zulassungsgruende.
 - **§ 145 SGG** — Nichtzulassungsbeschwerde.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen: hat das SG zugelassen?
 

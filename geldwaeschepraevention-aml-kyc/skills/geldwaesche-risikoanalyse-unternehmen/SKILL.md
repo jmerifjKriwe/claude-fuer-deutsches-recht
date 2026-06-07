@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-risikoanalyse-unternehmen
-description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Laender Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behoerdenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Länder Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behördenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Unternehmensweite Risikoanalyse
 
 ## Arbeitsbereich
 
-Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Laender Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behoerdenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Länder Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behördenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,11 +19,11 @@ Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendung
 
 ## Triage zu Beginn
 1. Welche Branche und welche Verpflichteten-Kategorie trifft die Risikoanalyse?
-2. Welche Risikofelder sollen abgedeckt werden: Kunden, Produkte, Vertriebskanaele, Laender, Transaktionen?
+2. Welche Risikofelder sollen abgedeckt werden: Kunden, Produkte, Vertriebskanaele, Länder, Transaktionen?
 3. Liegt bereits eine Risikoanalyse vor, die aktualisiert werden soll, oder wird sie erstmalig erstellt?
-4. Gibt es eine spezifische BaFin-/Aufsichtsvorgabe oder FATF-Leitlinie fuer diesen Sektor?
+4. Gibt es eine spezifische BaFin-/Aufsichtsvorgabe oder FATF-Leitlinie für diesen Sektor?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 
 Stand 05/2026:
 
@@ -36,7 +36,7 @@ Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwiss
 ## Zentrale Normen
 - § 5 GwG — Unternehmenseigene Risikoanalyse: Pflichtinhalt und Aktualisierung
 - § 4 Abs. 1 GwG — Interne Sicherungsmaßnahmen als Folge der Risikoanalyse
-- FATF Guidance — Risk-Based Approach fuer Finanzinstitutionen (2021)
+- FATF Guidance — Risk-Based Approach für Finanzinstitutionen (2021)
 - BaFin-Auslegungs- und Anwendungshinweise (AuA) GwG — Risikoanalysevorgaben
 
 ## Quellenregel

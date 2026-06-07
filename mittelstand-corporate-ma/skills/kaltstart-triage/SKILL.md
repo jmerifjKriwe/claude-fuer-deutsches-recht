@@ -195,7 +195,7 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 - **W&I-Versicherung** — Warranty and Indemnity Insurance; Versicherung gegen Garantieverletzungen im SPA.
 - **Closing Bible** — Archiv aller signierten Transaktionsdokumente nach Vollzug.
 - **PMI** — Post-Merger-Integration; Massnahmenplanung nach Closing.
-- **StaRUG** — Gesetz ueber den Stabilisierungs- und Restrukturierungsrahmen fuer Unternehmen; Restrukturierungsinstrument vor formeller Insolvenz.
+- **StaRUG** — Gesetz ueber den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen; Restrukturierungsinstrument vor formeller Insolvenz.
 
 ## Rechtsgrundlagen
 
@@ -210,7 +210,7 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 - MAR VO 596/2014 — Marktmissbrauchsverordnung (bei Public M&A)
 - GoBD, §§ 14 ff. UStG — E-Rechnung und Buchfuehrungspflichten
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Kaeufer oder Verkaeufer, Share oder Asset Deal, Transaktionsgroesse.
 2. Phase des Mandats bestimmen: Erstaufnahme, DD, Vertragsverhandlung, Signing/Closing, PMI oder Krisenbegleitung.
@@ -222,8 +222,8 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 
 **Deal-Organisation und Einstieg**
 
-- `mittelstand-corporate-ma-kommandocenter` — Schnellstart fuer Corporate/M&A-Mandate; erkennt Deal-Typ und erzeugt Deal-Karte, Ampel und naechste Aktion.
-- `mittelstand-corporate-ma-kaltstart` — Nimmt Kanzlei- und Mandantenpraeferenzen fuer Dealtypen, Playbooks und KI-Governance auf.
+- `mittelstand-corporate-ma-kommandocenter` — Schnellstart für Corporate/M&A-Mandate; erkennt Deal-Typ und erzeugt Deal-Karte, Ampel und naechste Aktion.
+- `mittelstand-corporate-ma-kaltstart` — Nimmt Kanzlei- und Mandantenpraeferenzen für Dealtypen, Playbooks und KI-Governance auf.
 - `mittelstand-corporate-ma-deal-intake` — Strukturiert neue Transaktionsmandate aus E-Mail, Teaser, NDA, Term Sheet oder Datenraum-Einladung.
 - `mittelstand-corporate-ma-deal-team-staffing` — Plant Workstreams, Rollen, Kapazitaeten und Review-Level im Transaktionsteam.
 - `mittelstand-ma-aktenanlage` — Eroeffnet neue Deal-Akte mit Aktenzeichen, Ordnerstruktur und Vertraulichkeitsstufen.
@@ -231,14 +231,14 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 
 **Vorbereitung und Screening**
 
-- `mittelstand-corporate-ma-outside-in-target-screening` — Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus oeffentlichen Informationen und Registern.
+- `mittelstand-corporate-ma-outside-in-target-screening` — Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus öffentlichen Informationen und Registern.
 - `mittelstand-corporate-ma-conflict-gwg-sanctions` — Konflikt-, GwG- und Sanktionscheck bei Mandatsannahme.
-- `mittelstand-corporate-ma-handelsregisterabruf` — Offizieller Registerabruf fuer Zielgesellschaft, Kaeufer und Beteiligungsketten.
+- `mittelstand-corporate-ma-handelsregisterabruf` — Offizieller Registerabruf für Zielgesellschaft, Kaeufer und Beteiligungsketten.
 - `mittelstand-corporate-ma-gesellschaftsrecht-register` — Corporate Housekeeping; prueft HRB/HRA, Gesellschafterlisten, Satzungen und Organkompetenz.
 
 **Datenraum**
 
-- `mittelstand-corporate-ma-datenraum-aufbau` — Strukturiert und bestueckt virtuelle Datenraeume fuer M&A-Prozesse.
+- `mittelstand-corporate-ma-datenraum-aufbau` — Strukturiert und bestueckt virtuelle Datenraeume für M&A-Prozesse.
 - `mittelstand-corporate-ma-datenraum-gap-clean-room` — Prueft Datenraum, Teaser und Information Memorandum auf Luecken, Widersprueche und Clean-Room-Bedarf.
 - `mittelstand-corporate-ma-qa-information-requests` — Verwaltet Q&A-Prozess im Datenraum mit Information Request Lists und Follow-ups.
 - `mittelstand-corporate-ma-tabellenreview-3d-datenraum` — Verbindet Datenraumprüfung mit interner Review-Matrix aus Rechts-, Steuer- und Wirtschaftsperspektive.
@@ -248,25 +248,25 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 - `mittelstand-corporate-ma-due-diligence-legal` — Standardisierte Legal DD mit Findings, Materiality, Quellenbelegen und Red-Flag-Report.
 - `mittelstand-corporate-ma-due-diligence-commercial-contracts` — Prueft Kunden-, Lieferanten-, SaaS- und Lizenzvertraege auf Change of Control und Kuendigungsrisiken.
 - `mittelstand-corporate-ma-due-diligence-reporting` — Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book und Executive Summary.
-- `mittelstand-corporate-ma-expert-calls-transkripte` — Wertet Management Presentations und Expert Calls fuer DD und SPA-Vorbereitung aus.
+- `mittelstand-corporate-ma-expert-calls-transkripte` — Wertet Management Presentations und Expert Calls für DD und SPA-Vorbereitung aus.
 - `mittelstand-corporate-ma-datenqualitaet-xai-qualitaetskontrolle` — Sichert KI-gestuetzte M&A-Arbeit gegen Halluzination, Bias und Datenqualitaetsprobleme ab.
 
 **Transaktionsstruktur und Vertragswerk**
 
-- `mittelstand-corporate-ma-transaktionsstruktur` — Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Venture und Roll-over.
-- `mittelstand-corporate-ma-spa-apa-entwurf` — Kaufvertragsentwuerfe fuer Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur.
+- `mittelstand-corporate-ma-transaktionsstruktur` — Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Venture und Roll-over.
+- `mittelstand-corporate-ma-spa-apa-entwurf` — Kaufvertragsentwuerfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur.
 - `mittelstand-corporate-ma-disclosure-schedules` — Ableitung von Disclosure Schedules aus Datenraum, DD-Findings und SPA-Garantien.
 - `mittelstand-corporate-ma-vertragsmarkup-key-issues` — Analysiert SPA/APA/NDA-Markups und erstellt Key-Issues-Lists und Gegenmarkup-Vorschlaege.
 - `mittelstand-corporate-ma-fair-disclosure-knowledge` — Prueft Wissens- und Fair-Disclosure-Klauseln im Lichte KI-gestuetzter Datenraumprüfung.
-- `mittelstand-corporate-ma-wi-insurance` — W&I-Prozess, Underwriting, Deckungsausschluesse und Disclosure Letter fuer M&A.
+- `mittelstand-corporate-ma-wi-insurance` — W&I-Prozess, Underwriting, Deckungsausschluesse und Disclosure Letter für M&A.
 
 **Signing und Closing**
 
 - `mittelstand-corporate-ma-signing-closing-conditions` — Signing-to-Closing-Prozess mit CPs, Ordinary Course, Bring-down und Funds Flow.
-- `mittelstand-corporate-ma-steps-plan-pmo` — Extrahiert aus Vertraegen und Gremienunterlagen konkrete Steps Plans fuer Pre-Signing bis Post-Closing.
-- `mittelstand-ma-fristen-cp-kalender` — Fristen- und CP-Kalender fuer Signing, Closing, Q&A, Regulatory und Board Meetings.
+- `mittelstand-corporate-ma-steps-plan-pmo` — Extrahiert aus Vertraegen und Gremienunterlagen konkrete Steps Plans für Pre-Signing bis Post-Closing.
+- `mittelstand-ma-fristen-cp-kalender` — Fristen- und CP-Kalender für Signing, Closing, Q&A, Regulatory und Board Meetings.
 - `mittelstand-corporate-ma-closing-bible-archiv` — Erstellt Closing Bible mit Versionierung, Signaturketten und Registerbelegen.
-- `mittelstand-corporate-ma-output-versand-signing` — Bereitet Transaktionsoutput, Signing Packs und Closing Deliverables fuer Versand vor.
+- `mittelstand-corporate-ma-output-versand-signing` — Bereitet Transaktionsoutput, Signing Packs und Closing Deliverables für Versand vor.
 
 **Spezialthemen**
 
@@ -292,15 +292,15 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 - `mittelstand-corporate-ma-teaser-im-processdocs` — Unterstuetzt Seller-side bei Teaser, Information Memorandum, NDA und Process Letter.
 - `mittelstand-corporate-ma-simulation-bidder-process` — Simuliert einen beschleunigten M&A-Tag mit Datenraum, Q&A, Markup und Board Call.
 - `mittelstand-corporate-ma-translations-multijurisdictional` — Koordiniert lokale Kanzleien, Uebersetzungen und Multi-Jurisdiction-Matrizen.
-- `mittelstand-corporate-ma-billing-narratives` — Erstellt praezise Time Narratives, Phasenbudgets und Workstream-Rechnungen fuer M&A-Mandate.
-- `mittelstand-ma-erechnung-gobd` — GoBD-konforme E-Rechnung (XRechnung/ZUGFeRD) fuer M&A-Mandate.
-- `mittelstand-ma-tabellenreview` — Review-Matrix aus Rechts-, Steuer- und Wirtschaftsperspektive fuer Dokumente und Tabellen.
-- `mittelstand-ma-schreibcanvas` — Substanzorientierter Feedback-Begleiter fuer SPA, Board Paper, DD-Report und Registertext.
-- `mittelstand-corporate-ma-rechtsprechungsrecherche` — Recherchiert Rechtsprechung und amtliche Quellen fuer Corporate/M&A und Kapitalmarkt.
+- `mittelstand-corporate-ma-billing-narratives` — Erstellt praezise Time Narratives, Phasenbudgets und Workstream-Rechnungen für M&A-Mandate.
+- `mittelstand-ma-erechnung-gobd` — GoBD-konforme E-Rechnung (XRechnung/ZUGFeRD) für M&A-Mandate.
+- `mittelstand-ma-tabellenreview` — Review-Matrix aus Rechts-, Steuer- und Wirtschaftsperspektive für Dokumente und Tabellen.
+- `mittelstand-ma-schreibcanvas` — Substanzorientierter Feedback-Begleiter für SPA, Board Paper, DD-Report und Registertext.
+- `mittelstand-corporate-ma-rechtsprechungsrecherche` — Recherchiert Rechtsprechung und amtliche Quellen für Corporate/M&A und Kapitalmarkt.
 - `mittelstand-corporate-ma-ki-governance-berufsrecht` — Prueft KI-Einsatz im Transaktionsmandat unter Mandatsgeheimnis, Datenschutz und KI-VO.
 - `mittelstand-corporate-ma-automation-monitoring` — Trackt Datenraum-Neuzugaenge, Fristen, Q&A, MAR-Signale und PMI-Aufgaben automatisiert.
-- `mittelstand-corporate-ma-board-paper-business-judgment` — Erstellt Board Paper und Business-Judgment-Dokumentation fuer M&A-Beschluesse.
-- `mittelstand-corporate-ma-freundlicher-copilot` — Unterstuetzender Begleiter fuer Berufseinsteiger und Junior-Counsel durch grosse Transaktionen.
+- `mittelstand-corporate-ma-board-paper-business-judgment` — Erstellt Board Paper und Business-Judgment-Dokumentation für M&A-Beschluesse.
+- `mittelstand-corporate-ma-freundlicher-copilot` — Unterstuetzender Begleiter für Berufseinsteiger und Junior-Counsel durch grosse Transaktionen.
 - `mittelstand-corporate-ma-look-and-feel` — Definiert visuelles Erscheinungsbild des Deal-Copiloten (Style-Guide, Farben, Layout).
 
 ## Worauf besonders achten

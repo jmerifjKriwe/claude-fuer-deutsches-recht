@@ -3,7 +3,7 @@ name: betriebsrat-anhoerung-kuendigung-102
 description: "Berliner Start-up-HR: Betriebsratsanhörung vor Kündigung: vollständige Unterrichtung, Fristen, Nachschieben, Widerspruch und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Betriebsrat Anhoerung Kuendigung 102
+# Betriebsrat Anhörung Kuendigung 102
 
 ## Arbeitsbereich
 
@@ -17,7 +17,7 @@ Berliner Start-up-HR: Betriebsratsanhörung vor Kündigung: vollständige Unterr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Betriebsrat Anhoerung Kuendigung 102
+## Fachkern: Betriebsrat Anhörung Kuendigung 102
 - **Normen-/Quellenanker:** BGB, KSchG, TzBfG, NachwG, BetrVG, AGG, MuSchG/BEEG, SGB IX, ArbZG, MiLoG, DSGVO/BDSG und Lohn-/DATEV-Schnittstellen.
 - **Entscheidende Weiche:** Trenne HR-Operations, arbeitsrechtliche Pflicht, Datenschutzrisiko, Führungskommunikation, Lohnabrechnung und dokumentierten nächsten Schritt.
 

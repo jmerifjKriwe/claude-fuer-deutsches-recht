@@ -1,13 +1,13 @@
 ---
 name: eur-mandant-uebersicht-zustaendigkeiten
-description: "Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle fuer typische Mandantenanliegen im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenuebersicht EU-Zuständigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle für typische Mandantenanliegen im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# EU: Zustaendigkeiten
+# EU: Zuständigkeiten
 
 ## Arbeitsbereich
 
-Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle fuer typische Mandantenanliegen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenuebersicht EU-Zuständigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle für typische Mandantenanliegen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,16 +18,16 @@ Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlament, EuGH, EUG, 
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267 AEUV, Nichtigkeitsklage, Beschwerde an EU-KOM, Stellungnahme im Vertragsverletzungsverfahren, Notifizierung, EuGH-Urteilsbeleg — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB.
+Mandantenuebersicht EU-Zuständigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB.
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## EU-Organe und ihre Funktionen (Art. 13 EUV)
 
@@ -38,11 +38,11 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 | **Rat der Europaeischen Union** | Mitgesetzgeber, Koordinierung Wirtschaftspolitik | Mitwirkung am ordentlichen Gesetzgebungsverfahren Art. 294 AEUV |
 | **Kommission** | Initiativrecht, Vollzug, Huetterin der Vertraege | Beschwerde wegen Vertragsverletzung Art. 258 AEUV; State Aid Art. 108 AEUV; Kartell Art. 105 AEUV |
 | **EuGH (Court of Justice)** | Verfassungsgerichtsbarkeit der Union | Vorabentscheidung Art. 267 AEUV; Vertragsverletzung Art. 258, 259 AEUV; Rechtsmittel gegen EuG |
-| **EuG (General Court)** | Erstinstanzgericht fuer Direktklagen | Nichtigkeitsklage Art. 263 AEUV; Untaetigkeit Art. 265 AEUV; Schadensersatz Art. 268, 340 AEUV (von Privaten) |
+| **EuG (General Court)** | Erstinstanzgericht für Direktklagen | Nichtigkeitsklage Art. 263 AEUV; Untaetigkeit Art. 265 AEUV; Schadensersatz Art. 268, 340 AEUV (von Privaten) |
 | **EuRH (Rechnungshof)** | Haushaltskontrolle | Keine streitigen Verfahren |
 | **EZB** | Geldpolitik Eurozone, Aufsicht (SSM) | Klagen Art. 263 AEUV gegen EZB-Beschluesse |
 
-## Routing fuer typische Mandantenanliegen
+## Routing für typische Mandantenanliegen
 
 | Anliegen | Empfohlener Pfad |
 |---|---|
@@ -54,7 +54,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 | Kartell/Marktmissbrauch | Kommission DG COMP; Schadensersatz nationale Gerichte (RL 2014/104/EU, §§ 33 ff. GWB) |
 | Missstand EU-Verwaltung | Buergerbeauftragter Art. 228 AEUV |
 
-## Pruefraster fuer den Skill
+## Pruefraster für den Skill
 
 1. **Sachverhalt fixieren** — streitige und unstreitige Tatsachen, Lueckentafel.
 2. **Unionsbezug pruefen** — Faellt die Materie in den Anwendungsbereich des Unionsrechts (Art. 51 GRC)?
@@ -85,7 +85,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

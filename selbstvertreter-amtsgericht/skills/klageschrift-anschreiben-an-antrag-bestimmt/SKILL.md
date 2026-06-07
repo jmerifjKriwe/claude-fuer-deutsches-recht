@@ -33,7 +33,7 @@ description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am
 
 ## Worum geht es?
 
-Ein Gericht ist eine Behoerde mit eigenen Konventionen. Sie muessen nicht juristisch formuliert schreiben — aber bestimmte Foermlichkeiten erhoehen Ihre Glaubwuerdigkeit und vermeiden Rueckfragen. Diese Skill zeigt die richtigen Anreden, Briefkopf-Elemente und uebliche Schlussformeln.
+Ein Gericht ist eine Behörde mit eigenen Konventionen. Sie muessen nicht juristisch formuliert schreiben — aber bestimmte Foermlichkeiten erhoehen Ihre Glaubwuerdigkeit und vermeiden Rueckfragen. Diese Skill zeigt die richtigen Anreden, Briefkopf-Elemente und uebliche Schlussformeln.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -53,7 +53,7 @@ Ein Gericht ist eine Behoerde mit eigenen Konventionen. Sie muessen nicht jurist
 - **§ 130a ZPO** — Elektronisches Dokument.
 - **§ 253 ZPO** — Klageschrift Form.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Briefkopf
 
@@ -208,7 +208,7 @@ Ich bitte den Einzelrichter, ...
 ## Typische Fehler
 
 - "Hallo Herr Richter, ich schreibe wegen ..." → Zu lax.
-- "Sehr geehrter Herr Schmidt" — zwar persoenlich, aber wenn Sie nicht **sicher** wissen, dass Richter Schmidt zustaendig ist, lieber neutral.
+- "Sehr geehrter Herr Schmidt" — zwar persoenlich, aber wenn Sie nicht **sicher** wissen, dass Richter Schmidt zuständig ist, lieber neutral.
 - "Aktenzeichen weglassen, das Gericht weiss es ja." → Pflicht-Angabe, sonst Zuordnungs-Probleme.
 - "Mehrere Sachen in einem Brief vermischen." → Pro Verfahren separater Schriftsatz.
 
@@ -263,7 +263,7 @@ Der Klageantrag ist das **Herzstueck** Ihrer Klage. Er bestimmt, was das Gericht
 - **§ 261 III Nr. 2 ZPO** — Streitgegenstand-Definition.
 - **§ 308 ZPO** — Gericht entscheidet nicht ueber mehr als beantragt.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klagentyp bestimmen
 
@@ -349,7 +349,7 @@ Hilfsweise: Der Beklagte wird verurteilt, ...
 
 Beispiel:
 
-- "Hilfsweise (fuer den Fall, dass der Hauptantrag nicht durchdringt): Der Beklagte wird verurteilt, an den Klaeger 1.000 EUR zu zahlen."
+- "Hilfsweise (für den Fall, dass der Hauptantrag nicht durchdringt): Der Beklagte wird verurteilt, an den Klaeger 1.000 EUR zu zahlen."
 
 ### Schritt 7 — Kostenantrag
 
@@ -364,7 +364,7 @@ Die Kosten des Rechtsstreits traegt der Beklagte.
 Immer dazu:
 
 ```
-Das Urteil wird fuer vorlaeufig vollstreckbar erklaert.
+Das Urteil wird für vorlaeufig vollstreckbar erklaert.
 ```
 
 Bei AG-Urteilen i. d. R. ohne Sicherheitsleistung (§ 708 ZPO).
@@ -380,7 +380,7 @@ Antraege:
 2. Die Kosten des Rechtsstreits traegt der
  Beklagte.
 
-3. Das Urteil wird fuer vorlaeufig vollstreckbar
+3. Das Urteil wird für vorlaeufig vollstreckbar
  erklaert.
 ```
 
@@ -438,7 +438,7 @@ Im Zivilprozess muss jede streitige Tatsache durch ein Beweismittel belegt werde
 
 - **Beweisantrag**: Antrag, ueber eine bestimmte Tatsache Beweis durch ein Beweismittel zu erheben.
 - **Strengbeweis**: Beweis nach ZPO-Regeln im Klageverfahren.
-- **Glaubhaftmachung**: Schwaecher als Strengbeweis; z. B. eidesstattliche Versicherung — zulaessig nur fuer bestimmte Antraege (PKH, Wiedereinsetzung).
+- **Glaubhaftmachung**: Schwaecher als Strengbeweis; z. B. eidesstattliche Versicherung — zulaessig nur für bestimmte Antraege (PKH, Wiedereinsetzung).
 - **Beweisthema**: Die konkrete Tatsache, die bewiesen werden soll.
 
 ## Rechtsgrundlagen
@@ -450,7 +450,7 @@ Im Zivilprozess muss jede streitige Tatsache durch ein Beweismittel belegt werde
 - **§ 415 ZPO** — Urkundenbeweis.
 - **§ 445 ZPO** — Parteivernehmung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pro Tatsache: Beweismittel-Typ waehlen
 
@@ -503,7 +503,7 @@ Beispiel mit Beweisthema:
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
  Musterstrasse 1, 12345 Musterstadt,
- zum Beweis dafuer, dass der Beklagte
+ zum Beweis dafür, dass der Beklagte
  bei der Lieferung am 12.3.2025 anwesend
  war und persoenlich den Lieferschein
  unterzeichnete.
@@ -517,7 +517,7 @@ Muster:
 
 ```
 Beweis: Einholung eines Sachverstaendigen-Gutachtens
- zum Beweis dafuer, dass die Reparaturkosten
+ zum Beweis dafür, dass die Reparaturkosten
  des Fahrzeugs 4.250 EUR betragen.
 ```
 

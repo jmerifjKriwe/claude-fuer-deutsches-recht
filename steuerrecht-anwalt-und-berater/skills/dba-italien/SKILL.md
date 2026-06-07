@@ -58,16 +58,16 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 ### Passive Einkuenfte
 - **Dividenden** (Art. 10): 5 Prozent Schachtel (Beteiligung mind. 25 Prozent, mind. 12 Monate), 15 Prozent sonst (Art. 10 Abs. 2 DBA-Italien 1989). EU-MTRL (§ 43b EStG) bei Vorliegen der Voraussetzungen vorrangig (0 Prozent).
 - **Zinsen** (Art. 11): grundsaetzlich Wohnsitzstaat-Besteuerung (Abs. 1), jedoch Quellenbesteuerungsrecht des Herkunftsstaats von 10 Prozent (Art. 11 Abs. 2 DBA-Italien 1989). EU-Zins-Lizenz-Richtlinie bei verbundenen Unternehmen vorrangig.
-- **Lizenzgebuehren** (Art. 12): 0 Prozent fuer gewerbliche Lizenzen und technische Verguetungen (Art. 12 Abs. 1 DBA-Italien 1989; Wohnsitzstaat-Prinzip). EU-Zins-Lizenz-Richtlinie bei verbundenen Unternehmen ohnehin vorrangig. Konkrete Einordnung (kuenstlerisch/literarisch vs. technisch) aus DBA-Text pruefen.
+- **Lizenzgebuehren** (Art. 12): 0 Prozent für gewerbliche Lizenzen und technische Verguetungen (Art. 12 Abs. 1 DBA-Italien 1989; Wohnsitzstaat-Prinzip). EU-Zins-Lizenz-Richtlinie bei verbundenen Unternehmen ohnehin vorrangig. Konkrete Einordnung (kuenstlerisch/literarisch vs. technisch) aus DBA-Text pruefen.
 
 ### Vermeidungs-Methode (Art. 24)
 - Freistellung mit Progressionsvorbehalt aktive Einkuenfte / Aktivitaetsklausel.
 - Anrechnung bei passiven Einkuenften.
 
 ### Besonderheiten
-- **DBA-interne Subject-to-Tax-Klausel** im DBA-Italien (in der Literatur regelmaessig in Art. 24 verortet — **exakte Verortung und Wortlaut aus DBA-Text und Schlussprotokoll uebernehmen**); diese DBA-eigene Subject-to-Tax-Klausel war historisch Ausloeser fuer die Entwicklung des § 50d Abs. 9 EStG.
+- **DBA-interne Subject-to-Tax-Klausel** im DBA-Italien (in der Literatur regelmaessig in Art. 24 verortet — **exakte Verortung und Wortlaut aus DBA-Text und Schlussprotokoll uebernehmen**); diese DBA-eigene Subject-to-Tax-Klausel war historisch Ausloeser für die Entwicklung des § 50d Abs. 9 EStG.
 - **Wegzugsbesteuerung** § 6 AStG bei Wegzug Italien.
-- **Pensionen** Art. 19: INPS-Renten Wohnsitzstaat typ.; oeffentlicher Dienst Kassenstaat — **konkret pruefen**.
+- **Pensionen** Art. 19: INPS-Renten Wohnsitzstaat typ.; öffentlicher Dienst Kassenstaat — **konkret pruefen**.
 - **Suedtirol**: rechtlich italienisches Staatsgebiet, deutscher Sprachraum — keine Grenzgaengerregelung im DBA.
 
 ## Workflow
@@ -87,7 +87,7 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 
 ## Strategie und Praxis-Tipps
 
-- Subject-to-Tax-Klausel DBA-Italien war Ausgangspunkt fuer § 50d Abs. 9 EStG-Entwicklung — bei jeder Freistellung sauber pruefen, ob italienische Besteuerung erfolgt ist.
+- Subject-to-Tax-Klausel DBA-Italien war Ausgangspunkt für § 50d Abs. 9 EStG-Entwicklung — bei jeder Freistellung sauber pruefen, ob italienische Besteuerung erfolgt ist.
 - Italienische Holding (S.p.A.): Substanz pruefen — Personal, Geschaeftsfuehrung, Investitionsentscheidungen.
 - Italienische Quellensteuer auf Dividenden: Erstattung via italienisches FA (nicht BZSt) bei italienischen Quellen; bei deutschen Quellen BZSt.
 - Suedtiroler ohne deutsche Staatsangehoerigkeit: Wohnsitz Italien, ggf. deutsche Auftraggeber — sorgfaeltige Tie-Breaker-Pruefung.
@@ -97,8 +97,8 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 
 ### Erstattungsverfahren italienische Quellensteuer
 
-- **Zustaendigkeit**: italienische Erstattung durch **Agenzia delle Entrate**, Centro Operativo di Pescara. Aktuelle Zustaendigkeit auf **agenziaentrate.gov.it** pruefen.
-- **Antragsformulare**: in der Praxis verbreitet italienische "Modelli" fuer DBA-Quellensteuer-Erstattung; **konkrete Modell-Nummern und Bezeichnungen vom Anwender mit aktuellem Stand auf agenziaentrate.gov.it zu verifizieren** (Modelli werden periodisch geaendert).
+- **Zuständigkeit**: italienische Erstattung durch **Agenzia delle Entrate**, Centro Operativo di Pescara. Aktuelle Zuständigkeit auf **agenziaentrate.gov.it** pruefen.
+- **Antragsformulare**: in der Praxis verbreitet italienische "Modelli" für DBA-Quellensteuer-Erstattung; **konkrete Modell-Nummern und Bezeichnungen vom Anwender mit aktuellem Stand auf agenziaentrate.gov.it zu verifizieren** (Modelli werden periodisch geaendert).
 - **Frist**: nach italienischem DPR 600/1973 regelmaessig **48 Monate** ab Steuerentrichtung — vergleichsweise lang.
 - **Bearbeitungsdauer Agenzia delle Entrate**: notorisch **18-60 Monate**; Italien ist erstattungsbearbeitungsmaessig oft langsam. Anwaltliche Vertretung in Italien empfehlenswert.
 - **Online-Portal**: **agenziaentrate.gov.it** mit dem Bereich "Internazionale" — Eingabe per SPID (italienische digitale Identitaet) oder italienischen Berater.
@@ -121,16 +121,16 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Schachteldividende IT-S.p.A. an DE-Mutter ueber DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung via Agenzia (langwierig) | 0 Prozent via Freistellung vor Ausschuettung | § 43b EStG immer vorzugswuerdig |
-| Italienische Lizenzgebuehr (technisch) Quellensteuer 0 Prozent vs. kuenstlerische/literarische Lizenz | 0 Prozent fuer gewerbliche/technische Lizenz nach Art. 12 Abs. 1 | kuenstlerische/literarische Lizenz ggf. Quellensteuer | Lizenz-Klassifikation zentral — Vertragsdesign entscheidet |
+| Italienische Lizenzgebuehr (technisch) Quellensteuer 0 Prozent vs. kuenstlerische/literarische Lizenz | 0 Prozent für gewerbliche/technische Lizenz nach Art. 12 Abs. 1 | kuenstlerische/literarische Lizenz ggf. Quellensteuer | Lizenz-Klassifikation zentral — Vertragsdesign entscheidet |
 | Subject-to-Tax-Klausel DBA-IT vs. § 50d Abs. 9 EStG | DBA-interne STT-Klausel kann Freistellung versagen | § 50d Abs. 9 EStG zusaetzlich | sorgfaeltige doppelpruefung |
 | Suedtiroler mit DE-Auftraggebern | Wohnsitz IT — italienische Besteuerung | Tie-Breaker DE bei substanzieller Anwesenheit DE | klare Lebensmittelpunkt-Doku |
 
 ## Edge Cases — was Pruefer triggert
 
-- **Aerzte- und Kuenstlerspezialregeln**: italienisches DBA hat **Sonderregeln** fuer freie Berufe (Art. 14) und Kuenstler/Sportler (Art. 17). Im 1989er-DBA noch Eigenstaendigkeit gegeben — bei kuenstlerischen Auftritten in IT genau pruefen.
+- **Aerzte- und Kuenstlerspezialregeln**: italienisches DBA hat **Sonderregeln** für freie Berufe (Art. 14) und Kuenstler/Sportler (Art. 17). Im 1989er-DBA noch Eigenstaendigkeit gegeben — bei kuenstlerischen Auftritten in IT genau pruefen.
 - **Subject-to-Tax-Klausel** im DBA-IT (regelmaessig in Art. 24 oder Schlussprotokoll Abschn. 16): bei Nichtbesteuerung in Italien Versagung der Freistellung in Deutschland. § 50d Abs. 9 EStG ergaenzt national.
 - **Lizenzgebuehren-Klassifikation**: technische Lizenzgebuehren 0 Prozent (Wohnsitzstaat) — aber **kuenstlerische/literarische** Verguetungen ggf. eigene Klausel. Bei Mode/Design (Italien-Schwerpunkt) genau pruefen.
-- **Suedtiroler Doppelansaessigkeit**: deutsche Auftraggeber + italienischer Wohnsitz — Tie-Breaker fuer Lebensmittelpunkt zentral. Verstaendigungsverfahren bei Streit.
+- **Suedtiroler Doppelansaessigkeit**: deutsche Auftraggeber + italienischer Wohnsitz — Tie-Breaker für Lebensmittelpunkt zentral. Verstaendigungsverfahren bei Streit.
 - **Wegzug nach Italien (Renten-Sondersteuer 7 Prozent in Sueditalien)**: § 6 AStG-Wegzug + ggf. § 50d Abs. 9 EStG bei italienischer "Pensionsbeguenstigung".
 
 ## Berechnungsbeispiel — Schachteldividende IT-S.p.A. an DE-Holding
@@ -147,7 +147,7 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 
 > Italienisches Mode-Unternehmen zahlt Lizenzgebuehren 200.000 EUR an deutschen Markenrechtsinhaber.
 >
-> Schritt 1: DBA-Italien Art. 12 Abs. 1: 0 Prozent Quellensteuer fuer technische/gewerbliche Lizenzgebuehren — Wohnsitzstaat-Prinzip.
+> Schritt 1: DBA-Italien Art. 12 Abs. 1: 0 Prozent Quellensteuer für technische/gewerbliche Lizenzgebuehren — Wohnsitzstaat-Prinzip.
 >
 > Schritt 2: Voraussetzung: deutsche Ansaessigkeitsbescheinigung bei italienischer Quelle vor Auszahlung; ohne Vorabbescheinigung Standard-Quellensteuer einbehalten und Erstattungsantrag (langwierig).
 >

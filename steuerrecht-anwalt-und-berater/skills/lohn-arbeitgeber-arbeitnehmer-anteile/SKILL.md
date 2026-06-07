@@ -56,7 +56,7 @@ Die SV-Beitraege werden grundsaetzlich paritaetisch zwischen AG und AN aufgeteil
 | KV-Zusatzbeitrag (KK-individuell) | halftig (paritaetisch seit 01.01.2019) | halftig |
 | PV (allgemein, ausserhalb Sachsen) | halftig | halftig |
 | PV-Zuschlag Kinderlose ab Vollendung des 23. Lj. | 0 | 0,6 Prozent allein zu Lasten AN (Stand 2025; § 55 Abs. 3 SGB XI i.d.F. PflegeunterstuetzungsG gueltig seit 01.07.2023; jaehrlich ueber GKV-Spitzenverband pruefen) |
-| PV-Abschlag mit Kindern (PUEG ab 01.07.2023) | nicht beruehrt | gestaffelter Abschlag fuer AN je Kind ab 2. Kind (0,25 Prozent/Kind), bis maximal 5 Kinder (max. 1,0 Prozent Abschlag); § 55 Abs. 3 SGB XI (Stand 2025; bei kuenftigen Anpassungen GKV-Spitzenverband pruefen) |
+| PV-Abschlag mit Kindern (PUEG ab 01.07.2023) | nicht beruehrt | gestaffelter Abschlag für AN je Kind ab 2. Kind (0,25 Prozent/Kind), bis maximal 5 Kinder (max. 1,0 Prozent Abschlag); § 55 Abs. 3 SGB XI (Stand 2025; bei kuenftigen Anpassungen GKV-Spitzenverband pruefen) |
 | PV Sachsen (Buss- und Bettag) | typisch geringer AG-Anteil; AN traegt zusaetzliche 0,5 Prozent (§ 58 Abs. 3 SGB XI) | typisch hoeherer AN-Anteil |
 | RV | 9,3 Prozent | 9,3 Prozent (gesamt 18,6 Prozent — Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen) |
 | AV | 1,3 Prozent je Seite (gesamt 2,6 Prozent — Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen) | wie AG |

@@ -43,12 +43,12 @@ Das Benachrichtigungskonto ist die fachliche Watchlist im Lobbyregisterumfeld. D
 - API-Monitor: Endpunkt, Suchparameter, Cursor, `sourceDate`, Registernummern, Versionswechsel, Diff.
 - Revisionsspur: Alert, API-Antwort, interne Bewertung und Portalaktion werden zusammen abgelegt.
 
-Bei eigenen Eintraegen ist ein Alert nur vollstaendig bearbeitet, wenn der oeffentliche API-Datenstand mit der internen Freigabeakte verglichen wurde.
+Bei eigenen Eintraegen ist ein Alert nur vollstaendig bearbeitet, wenn der öffentliche API-Datenstand mit der internen Freigabeakte verglichen wurde.
 
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 - Open Data/API: ../../references/open-data-api-v2.md

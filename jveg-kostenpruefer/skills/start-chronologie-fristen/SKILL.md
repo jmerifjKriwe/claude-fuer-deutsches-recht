@@ -144,7 +144,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das JVEG-Kostenpruefer-Plugin prueft und berechnet Verguetungsansprueche nach dem Justizvergutungs- und -entschaedigungsgesetz (JVEG) fuer alle gerichtlich herangezogenen Personen: Sachverstaendige, Dolmetscher und Uebersetzer, Zeugen sowie sonstige Beteiligte. Es erstellt belegfeste Rechenprotokolle, prueft Kuerz­ungen durch das Gericht, bereitet Antraege und Beschwerden vor und bewertet die Korrektheit von Gerichtsschreiben zur Kostenfestsetzung.
+Das JVEG-Kostenpruefer-Plugin prueft und berechnet Verguetungsansprueche nach dem Justizvergutungs- und -entschaedigungsgesetz (JVEG) für alle gerichtlich herangezogenen Personen: Sachverstaendige, Dolmetscher und Uebersetzer, Zeugen sowie sonstige Beteiligte. Es erstellt belegfeste Rechenprotokolle, prueft Kuerz­ungen durch das Gericht, bereitet Antraege und Beschwerden vor und bewertet die Korrektheit von Gerichtsschreiben zur Kostenfestsetzung.
 
 Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die ihre Rechnung optimieren wollen, als auch von Gerichten, Anwaelten oder Parteien, die eine Sachverstaendigenrechnung pruefen. Es ersetzt keine Rechtsberatung.
 
@@ -158,14 +158,14 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 
 ## Fachbegriffe (kurz erklaert)
 
-- **JVEG** — Justizvergutungs- und -entschaedigungsgesetz; regelt Verguetung und Entschaedigung fuer Sachverstaendige, Dolmetscher, Zeugen und andere vom Gericht herangezogene Personen.
-- **Anspruchsberechtigung** — Nur gerichtlich beauftragte Personen (§§ 1 und 2 JVEG) sind anspruchsberechtigt; kein Anspruch fuer privatgutachterliche Taetigkeit.
+- **JVEG** — Justizvergutungs- und -entschaedigungsgesetz; regelt Verguetung und Entschaedigung für Sachverstaendige, Dolmetscher, Zeugen und andere vom Gericht herangezogene Personen.
+- **Anspruchsberechtigung** — Nur gerichtlich beauftragte Personen (§§ 1 und 2 JVEG) sind anspruchsberechtigt; kein Anspruch für privatgutachterliche Taetigkeit.
 - **Dreimonatsfrist** — Verguetungsanspruch erlischt, wenn er nicht innerhalb von drei Monaten nach Abschluss der Taetigkeit geltend gemacht wird (§ 2 Abs. 1 JVEG).
-- **Verguetungssaetze Anlage 1** — Stundenverguetung fuer Sachverstaendige nach Honorargruppen; fuer Dolmetscher nach § 9 JVEG und Anlage 1 JVEG.
+- **Verguetungssaetze Anlage 1** — Stundenverguetung für Sachverstaendige nach Honorargruppen; für Dolmetscher nach § 9 JVEG und Anlage 1 JVEG.
 - **Barauslagen** — Erstattungsfaehige Aufwendungen nach § 7 JVEG (Porto, Kopieren, technische Geraete); Belegpflicht.
 - **§ 8a JVEG** — Kuerzung oder Wegfall der Verguetung bei verspaetem oder fehlerhaftem Gutachten; Verschuldens- und Kausalitaetserfordernis.
 - **Kostenfestsetzungsbeschluss** — Gerichtliche Entscheidung ueber die Hoehe der JVEG-Verguetung; anfechtbar per Beschwerde nach § 4 Abs. 3 JVEG.
-- **KI-Deklaration** — Pflicht zur Offenlegung, ob und wie KI-Systeme bei der Gutachtenerstattung eingesetzt wurden; pruefungsrelevant fuer Gutachtenwert.
+- **KI-Deklaration** — Pflicht zur Offenlegung, ob und wie KI-Systeme bei der Gutachtenerstattung eingesetzt wurden; pruefungsrelevant für Gutachtenwert.
 
 ## Rechtsgrundlagen
 
@@ -181,11 +181,11 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 - §§ 19 bis 22 JVEG — Zeugenentschaedigung, Verdienstausfall, Haushaltsfuehrung.
 - §§ 165 ff. SGB III (im Kontext) — Insolvenzgeld; nicht JVEG.
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Personenkategorie bestimmen: Sachverstaendiger, Dolmetscher, Uebersetzer oder Zeuge?
 2. Verfahrensschritt bestimmen: Erstrechnung, Widerspruch gegen Kuerzung, Beschwerde, Vorschuss?
-3. Routing: Skill `jveg-kommandocenter` fuer die Weiterleitung zum passendes Fachmodul.
+3. Routing: Skill `jveg-kommandocenter` für die Weiterleitung zum passendes Fachmodul.
 4. Fristen pruefen: `jveg-fristen-erloeschen` — ist die Dreimonatsfrist noch offen?
 5. Rechnung pruefen oder erstellen: `jveg-sachverstaendigenrechnung` oder `jveg-rechenblatt`.
 
@@ -193,14 +193,14 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 
 **Einstieg und Navigation**
 
-- `jveg-kommandocenter` — Navigationszentrum fuer alle JVEG-Skills: Weiterleitung je Personenkategorie und Verfahrensschritt.
+- `jveg-kommandocenter` — Navigationszentrum für alle JVEG-Skills: Weiterleitung je Personenkategorie und Verfahrensschritt.
 - `jveg-anspruchsberechtigung` — Anspruchsberechtigung nach JVEG pruefen: Personenkategorie und gerichtliche Beauftragung.
 - `jveg-fristen-erloeschen` — Dreimonatsfrist pruefen; Fristbeginn, Fristende, Wiedereinsetzungsmoeglichkeit.
 
 **Verguetungsberechnung Sachverstaendige**
 
 - `jveg-sachverstaendigenrechnung` — Sachverstaendigenrechnung pruefen oder erstellen: Stundenverguetung und Nebenkosten.
-- `jveg-rechenblatt` — Strukturiertes Rechenblatt fuer alle JVEG-Kostenpositionen je Kategorie.
+- `jveg-rechenblatt` — Strukturiertes Rechenblatt für alle JVEG-Kostenpositionen je Kategorie.
 - `jveg-aktenstripper` — JVEG-relevante Daten aus Gerichtsakten und Gutachterunterlagen extrahieren.
 - `jveg-kuerzung-wegfall-8a` — Kuerzung oder Wegfall der Verguetung nach § 8a JVEG bei Verspaetung oder Fehlern.
 - `pruefung-sachverstaendigengutachten-ki-deklaration` — KI-Deklaration in Sachverstaendigengutachten pruefen.
@@ -211,7 +211,7 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 
 **Zeugenentschaedigung**
 
-- `jveg-zeugenentschaedigung` — Fahrtkosten, Zeitversaeumnis und Verdienstausfall fuer Zeugen.
+- `jveg-zeugenentschaedigung` — Fahrtkosten, Zeitversaeumnis und Verdienstausfall für Zeugen.
 - `jveg-verdienstausfall-haushalt-zeit` — Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG.
 
 **Kostenpositionen**
@@ -223,7 +223,7 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 **Antrag, Vorschuss und Rechtsmittel**
 
 - `jveg-vorschuss` — Vorschuss nach § 3 JVEG: Voraussetzungen, Formerfordernis, Verfahren.
-- `jveg-antragsgenerator` — Verguetungsantrag, Anlagen und Fristen fuer die gerichtliche Kostenfestsetzung.
+- `jveg-antragsgenerator` — Verguetungsantrag, Anlagen und Fristen für die gerichtliche Kostenfestsetzung.
 - `jveg-gerichtsschreiben-pruefung` — Gerichtsschreiben zur Kostenkuerzung rechtlich pruefen und widersprechen.
 - `jveg-festsetzung-beschwerde` — Beschwerde gegen Kostenfestsetzungsbeschluss nach § 4 Abs. 3 JVEG.
 
@@ -234,7 +234,7 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 ## Worauf besonders achten
 
 - **Dreimonatsfrist ist Ausschlussfrist** — § 2 Abs. 1 JVEG kennt keine automatische Verlaengerung; nach Ablauf ist der Anspruch erloschen.
-- **Belegpflicht fuer Aufwendungen** — Sonstige Aufwendungen nach § 7 JVEG werden ohne Beleg nicht erstattet; Porto und Kopien muessen belegt sein.
+- **Belegpflicht für Aufwendungen** — Sonstige Aufwendungen nach § 7 JVEG werden ohne Beleg nicht erstattet; Porto und Kopien muessen belegt sein.
 - **§ 8a JVEG ist kein Automatismus** — Kuerzung oder Wegfall setzt Verschulden und Kausalitaet voraus; ein verspaetendes Gutachten fuehrt nicht zwingend zum Verguetungsverlust.
 - **KI-Nutzung deklarieren** — Gerichte verlangen zunehmend Offenlegung des KI-Einsatzes; fehlende Deklaration kann Gutachtenwert beeinflussen und Verguetungsstreit ausloesen.
 - **Honorargruppe korrekt einordnen** — Falsche Einordnung in Anlage 1 JVEG fuehrt zur Kuerzung; Sachgebiet und Schwierigkeitsgrad des Gutachtens bestimmen die Gruppe.
@@ -257,8 +257,8 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 
 - Stand: 05/2026
 - JVEG in der geltenden Fassung. Quelle: https://www.gesetze-im-internet.de/jveg/
-- Anlage 1 JVEG (Honorargruppen und Stundensaetze) in der durch das Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) zum 01.06.2025 geaenderten Fassung; pauschale Erhoehung der Sachverstaendigen-Stundensaetze um 9 Prozent (nur fuer Auftraege ab 01.06.2025). Synopse: https://ifsforum.de/fileadmin/user_upload/Aktuelles/Synopse_JVEG__2025.pdf
-- Saetze fuer Zeugen (§§ 19 bis 22 JVEG) durch KostRAeG 2025 unveraendert; Kilometerpauschale Zeugen 0,35 EUR (§ 5 Abs. 2 JVEG), Sachverstaendige 0,42 EUR (§ 5 Abs. 1 JVEG).
+- Anlage 1 JVEG (Honorargruppen und Stundensaetze) in der durch das Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) zum 01.06.2025 geaenderten Fassung; pauschale Erhoehung der Sachverstaendigen-Stundensaetze um 9 Prozent (nur für Auftraege ab 01.06.2025). Synopse: https://ifsforum.de/fileadmin/user_upload/Aktuelles/Synopse_JVEG__2025.pdf
+- Saetze für Zeugen (§§ 19 bis 22 JVEG) durch KostRAeG 2025 unveraendert; Kilometerpauschale Zeugen 0,35 EUR (§ 5 Abs. 2 JVEG), Sachverstaendige 0,42 EUR (§ 5 Abs. 1 JVEG).
 
 ## Qualitäts-Hardening
 

@@ -7,7 +7,7 @@ description: "English language Data Processing Agreement (DPA) template under Ar
 
 ## Zweck / Purpose
 
-English-language DPA template under Article 28 GDPR for cross-border deals where the working language is English (UK/IE counterparties, US providers, EU multinationals). Purpose (DE): Englischsprachige Mustervorlage fuer einen Auftragsverarbeitungsvertrag nach Art. 28 DSGVO.
+English-language DPA template under Article 28 GDPR for cross-border deals where the working language is English (UK/IE counterparties, US providers, EU multinationals). Purpose (DE): Englischsprachige Mustervorlage für einen Auftragsverarbeitungsvertrag nach Art. 28 DSGVO.
 
 ## Wann dieses Modul hilft
 

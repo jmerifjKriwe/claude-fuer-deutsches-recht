@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Transaktionsstruktur, Umsätze, Erwerberkontrolle, Zielbranche und Jurisdiktionen.
@@ -139,7 +139,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Verbindlichkeiten | Gehen mit ueber (bekannte und unbekannte) | Nur explizit vereinbarte Verbindlichkeiten gehen ueber |
 | Vertragsuebergang | Automatisch (mit CoC-Risiko) | Nur explizit uebergehende Vertraege (Zustimmung der Gegenpartei) |
 | Arbeitnehmer | Automatisch (kein § 613a) | § 613a BGB; Widerspruchsrecht; Betriebsrat |
-| Notar | Nur fuer GmbH-Anteile (§ 15 GmbHG) | Nur fuer Immobilien (§ 925 BGB) |
+| Notar | Nur für GmbH-Anteile (§ 15 GmbHG) | Nur für Immobilien (§ 925 BGB) |
 | Haftungsrisiko | Hoher (unbekannte Altlasten) | Niedriger; nur uebernommene Verbindlichkeiten |
 | Ablauf | Einfacher; ein Uebertragungsvertrag | Komplexer; separate Uebertragung jedes Assets |
 
@@ -158,7 +158,7 @@ Bei Carve-Out wird ein Unternehmensteil aus einer Konzerngesellschaft herausgelo
 3. **Steuer:** Ausgliederung steuerneutral nach § 15 UmwStG wenn Teilbetrieb vorhanden; sonst Aufdeckung stiller Reserven
 4. **Transition Services Agreement (TSA)** — uebertragenes Unternehmen noch auf IT, HR, Shared Services des Alt-Konzerns angewiesen; zeitlich begrenzte Dienstleistungen
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Ziele definieren** — Haendler, Steuern, Haftung, Zukunftsstruktur der Unternehmensgruppe
 2. **Steuer-Primaeranalyse** — Share Deal vs. Asset Deal vs. Einbringung steuerlich bewerten; Steuerberater einbeziehen
@@ -166,7 +166,7 @@ Bei Carve-Out wird ein Unternehmensteil aus einer Konzerngesellschaft herausgelo
 4. **Regulatorische Pruefung** — Kartell, FDI, sektorspezifische Genehmigungen
 5. **Minderheitsschutz** — Gesellschafterversammlungsbeschluesse; Zustimmungsvorbehalte
 6. **Zeitplan** — Umwandlungen brauchen Zeit (3-5 Monate); Transaktionsstruktur rechtzeitig festlegen
-7. **Board Paper erstellen** — BJR-Dokumentation fuer Strukturentscheidung; § 93 AktG
+7. **Board Paper erstellen** — BJR-Dokumentation für Strukturentscheidung; § 93 AktG
 8. **Verhandlung** — Term Sheet mit Strukturpraeferenz; SPA-Anpassen an gewaaehlte Struktur
 
 ## Output-Template Transaktionsstruktur-Memo

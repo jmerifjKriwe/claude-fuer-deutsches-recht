@@ -19,7 +19,7 @@ EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Me
 
 ## Mandantenfall
 
-- Maschinenbauer erhalt Anfrage fuer Lieferung von Pumpen nach Iran; sektorale Verbote pruefen.
+- Maschinenbauer erhalt Anfrage für Lieferung von Pumpen nach Iran; sektorale Verbote pruefen.
 - Bank prueft Zahlung eines iranischen Unternehmens; Listentreffer nach VO 267/2012.
 - Technologie-KMU fragt, ob Software-Lieferung in den Iran nach EU-Recht erlaubt ist.
 
@@ -28,8 +28,8 @@ EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Me
 1. EU-Sanktionsliste Iran (VO 267/2012) und konsolidierte Finanzsanktionsliste pruefen.
 2. Guetersanktionen-Katalog (Dual-Use, militaer, Raketentechnologie, Nuklearguter) pruefen.
 3. Oel/Gas-Sektor-Embargo (Art. 8-9 VO 267/2012) bei Rohstoffbezug pruefen.
-4. Catch-All fuer Gueter mit WMD/Raketenprogramm-Relevanz auswerten.
-5. US-Sanktionen (OFAC Iran-Programme) als Risiko-Mitpruefung fuer USD-Zahlungen.
+4. Catch-All für Gueter mit WMD/Raketenprogramm-Relevanz auswerten.
+5. US-Sanktionen (OFAC Iran-Programme) als Risiko-Mitpruefung für USD-Zahlungen.
 6. Stop-Ship und Eskalation bei Zweifeln; BAFA-Anfrage bei konkreter Unsicherheit.
 
 ## Rechtsrahmen
@@ -37,7 +37,7 @@ EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Me
 - **VO (EU) 267/2012**: Restriktive Massnahmen gegen Iran (Nuklear).
 - **VO (EU) 359/2011**: Massnahmen wegen Verletzung der Menschenrechte Iran.
 - **AWG § 18 AWG**: Strafbarkeit bei Embargo-Verstoss.
-- **Art. 4 VO (EU) 2021/821**: Catch-All fuer WMD-Proliferationsverdacht.
+- **Art. 4 VO (EU) 2021/821**: Catch-All für WMD-Proliferationsverdacht.
 - **AWV § 9**: Nationale Genehmigungsfreiheitsmerkmale (Abgrenzung).
 
 ## Pruef-Raster
@@ -46,7 +46,7 @@ EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Me
 - [ ] Dual-Use-Listenpruefung mit Iran-Bezug durchgefuehrt?
 - [ ] Oel/Gas-Sektor-Embargo relevanz geprueft?
 - [ ] WMD/Raketenprogramm-Catch-All-Risiko ausgeschlossen?
-- [ ] US-Sanktionen fuer USD-Zahlungen mitgeprueft?
+- [ ] US-Sanktionen für USD-Zahlungen mitgeprueft?
 - [ ] Stop-Ship bei Risikoindikatoren ausgeloest?
 
 ## Typische Fallstricke
@@ -60,7 +60,7 @@ EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Me
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

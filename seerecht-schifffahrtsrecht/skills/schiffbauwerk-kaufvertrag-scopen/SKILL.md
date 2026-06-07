@@ -1,13 +1,13 @@
 ---
 name: schiffbauwerk-kaufvertrag-scopen
-description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank scopet Kaufvertrag fuer Schiff im Bau (Schiffbauwerk): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank scopet Kaufvertrag für Schiff im Bau (Schiffbauwerk): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Kaufvertrag-Review-Matrix und Closing-Conditions im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffbauwerk – Kaufvertrag scopen
 
 ## Arbeitsbereich
 
-Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank scopet Kaufvertrag fuer Schiff im Bau (Schiffbauwerk): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank scopet Kaufvertrag für Schiff im Bau (Schiffbauwerk): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,12 +21,12 @@ Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank scopet Kaufvertrag
 Ein Investor kauft ein Schiff im Bau (Schiffbauwerk); Risiken aus Altlasten und Zertifikatsmängeln sind zu identifizieren. Ein Reeder veräußert ein Schiff im Bau (Schiffbauwerk) unter Zeitdruck; Gewährleistungsausschlüsse sind zu prüfen. Eine Bank finanziert den Kauf und möchte Vertragsrisiken kennen.
 
 ## Erste Schritte
-1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen fuer Schiff im Bau (Schiffbauwerk).
+1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Schiff im Bau (Schiffbauwerk).
 2. Lastenuebergang pruefen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
 3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan pruefen.
 4. Zertifikatsstatus klaeren: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
 5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
-6. Escrow-Mechanismus fuer simultane Zahlung und Eigentumsuebergang aufsetzen.
+6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 
 ## Rechtsrahmen
 - SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. Baufortschritt; Refund Guarantee; Bauabnahme.
@@ -36,15 +36,15 @@ Ein Investor kauft ein Schiff im Bau (Schiffbauwerk); Risiken aus Altlasten und 
 - Enthaelt der Kaufvertrag eine umfassende Freistellungsklausel?
 - Sind Zertifikate (Klasse/ISM/MLC) als Closing-Bedingungen definiert?
 - Ist der Gewaehrleistungsausschluss rechtswirksam?
-- Ist Escrow-Mechanismus fuer simultane Transaktion vorgesehen?
+- Ist Escrow-Mechanismus für simultane Transaktion vorgesehen?
 
 ## Typische Fallstricke
-- Kaeufer haftet mit Schiff im Bau (Schiffbauwerk) fuer Altschulden bis zur Loeschung.
+- Kaeufer haftet mit Schiff im Bau (Schiffbauwerk) für Altschulden bis zur Loeschung.
 - Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
 - Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
 
 ## Output
-Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste fuer Schiff im Bau (Schiffbauwerk).
+Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste für Schiff im Bau (Schiffbauwerk).
 
 ## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
 International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.

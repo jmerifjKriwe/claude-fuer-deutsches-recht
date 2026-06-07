@@ -76,18 +76,18 @@ Frau / Herrn [Mandant]
 
 [Ort], [Datum]
 
-Bescheid der [Behoerde] vom [Datum] — Ihr naechster Schritt
+Bescheid der [Behörde] vom [Datum] — Ihr naechster Schritt
 
 Sehr geehrte Frau / sehr geehrter Herr [Nachname],
 
-die [Behoerde] hat Ihren Antrag auf [Leistung] mit Bescheid vom [Datum] abgelehnt.
+die [Behörde] hat Ihren Antrag auf [Leistung] mit Bescheid vom [Datum] abgelehnt.
 
-Die [Behoerde] sagt: [Kurzbegruendung in einem Satz].
+Die [Behörde] sagt: [Kurzbegruendung in einem Satz].
 
-Wir halten den Bescheid fuer falsch, weil [Kurzgrund].
+Wir halten den Bescheid für falsch, weil [Kurzgrund].
 
 Was passiert als naechstes:
-1. Wir legen fuer Sie Widerspruch ein. Die Frist endet am [Datum].
+1. Wir legen für Sie Widerspruch ein. Die Frist endet am [Datum].
 2. Wir brauchen von Ihnen folgende Unterlagen: [Liste].
 3. Bitte bringen Sie die Unterlagen bis [Datum] in unser Buero.
 

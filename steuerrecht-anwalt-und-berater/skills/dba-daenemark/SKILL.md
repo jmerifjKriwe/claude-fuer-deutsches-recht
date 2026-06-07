@@ -66,7 +66,7 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 - Anrechnung passive Einkuenfte.
 
 ### Besonderheiten
-- **Sozialversicherungsleistungen** Folkepension: in Daenemark als oeffentliche Pension klassifiziert; Pensions-Klausel im DBA-DK gesondert — konkreten DBA-Text pruefen.
+- **Sozialversicherungsleistungen** Folkepension: in Daenemark als öffentliche Pension klassifiziert; Pensions-Klausel im DBA-DK gesondert — konkreten DBA-Text pruefen.
 - **ATP**: separate Behandlung.
 - **Grenzpendler**: ohne klassische Grenzgaengerregelung gelten 183-Tage-Regelung und Methodenartikel.
 - **Schiffsoffiziere** unter daenischer Flagge: Art. 8/15 DBA — Wohnsitzstaat-Besteuerung haeufig nicht durchsetzbar; konkrete Klausel im DBA-Text pruefen.
@@ -99,7 +99,7 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 
 ### Erstattungsverfahren daenische Quellensteuer (Udbytteskat)
 
-- **Zustaendigkeit**: daenische Erstattung durch **Skattestyrelsen** (SKAT), Customer Centre Foreign Investors in Kopenhagen. Aktuelle Zustaendigkeit auf **skat.dk** pruefen.
+- **Zuständigkeit**: daenische Erstattung durch **Skattestyrelsen** (SKAT), Customer Centre Foreign Investors in Kopenhagen. Aktuelle Zuständigkeit auf **skat.dk** pruefen.
 - **Antragsformulare**: daenische Formulare zur Rueckerstattung von Udbytteskat — Bezeichnungen vom Anwender mit aktuellem Stand auf skat.dk zu verifizieren. SKAT hat das Erstattungsverfahren nach den "Cum-Ex"-Skandalen 2015 deutlich verschaerft.
 - **Frist**: nach daenischem Steuerrecht regelmaessig **drei Jahre** ab Faelligkeit — knappe Frist.
 - **Bearbeitungsdauer SKAT**: nach den Cum-Ex-Skandalen oft **24-60 Monate** und langwierige Plausibilitaetspruefungen. Bei substanziellen Erstattungsbetraegen daenischen Berater einbinden.
@@ -113,7 +113,7 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 ### Online-Portale
 
 - **skat.dk**: SKAT zentrale Steuerverwaltung.
-- **bzst.de**: BZSt fuer Erstattung bei deutscher Quelle.
+- **bzst.de**: BZSt für Erstattung bei deutscher Quelle.
 
 ## Trade-off-Tabelle
 

@@ -48,10 +48,10 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `beurteilung-konkurrentenstreit-auswahlentscheidung` | Beurteilung Konkurrentenstreit Auswahlentscheidung |
 | `wehrbeschwerdeordnung-beschwerde-frist-form` | Wehrbeschwerdeordnung Beschwerde Frist Form |
 | `weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht` | Weitere Beschwerde und gerichtlicher Antrag Wehrdienstgericht |
-| `truppendienstgericht-zustaendigkeit-verfahren` | Truppendienstgericht Zuständigkeit Verfahren |
+| `truppendienstgericht-zuständigkeit-verfahren` | Truppendienstgericht Zuständigkeit Verfahren |
 | `wehrdisziplinarordnung-einfache-disziplinarmassnahme` | Wehrdisziplinarordnung einfache Disziplinarmaßnahme |
 | `gerichtliches-disziplinarverfahren-soldat` | Gerichtliches Disziplinarverfahren Soldat |
-| `vorlaeufige-dienstenthebung-einbehaltung-bezuege` | Vorläufige Dienstenthebung Einbehaltung Bezüge |
+| `vorläufige-dienstenthebung-einbehaltung-bezuege` | Vorläufige Dienstenthebung Einbehaltung Bezüge |
 | `befehl-verweigern-gewissensnot-rechtswidrigkeit` | Befehl verweigern Gewissensnot Rechtswidrigkeit |
 | `wehrstrafrecht-fahnenflucht-gehorsamsverweigerung-schnittstelle` | Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle |
 | `einsatzunfall-wehrdienstbeschaedigung` | Einsatzunfall Wehrdienstbeschädigung |
@@ -60,7 +60,7 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `ptbs-einsatzfolge-beweisfuehrung` | PTBS Einsatzfolge Beweisführung |
 | `gleichstellung-diskriminierung-soldatinnen-soldaten` | Gleichstellung Diskriminierung Soldatinnen Soldaten |
 | `sexuelle-belaestigung-beschwerde-schutzpflicht` | Sexuelle Belästigung Beschwerde Schutzpflicht |
-| `mobbing-fuersorgepflicht-bundeswehr` | Mobbing Fürsorgepflicht Bundeswehr |
+| `mobbing-fürsorgepflicht-bundeswehr` | Mobbing Fürsorgepflicht Bundeswehr |
 | `personalakte-einsicht-datenschutz` | Personalakte Einsicht Datenschutz |
 | `geheimschutz-sicherheitsueberpruefung-sueg` | Geheimschutz Sicherheitsüberprüfung SÜG |
 | `reservistendienst-dienstleistungspflicht` | Reservistendienst Dienstleistungspflicht |
@@ -115,7 +115,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `kriegsdienstverweigerung-verfahren` | Kriegsdienstverweigerung Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnu... |
 | `livecheck-sg-wbo-wdo-wpflg-svg` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck SG WBO WDO WPflG SVG. |
 | `mandantenbrief-soldat-verstaendlich` | Mandantenbrief Soldat verständlich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnu... |
-| `mobbing-fuersorgepflicht-bundeswehr` | Mobbing Fürsorgepflicht Bundeswehr: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnu... |
+| `mobbing-fürsorgepflicht-bundeswehr` | Mobbing Fürsorgepflicht Bundeswehr: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnu... |
 | `nebentaetigkeit-geschenkannahme-compliance` | Nebentätigkeit Geschenkannahme Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplin... |
 | `output-beschwerde-antrag-stellungnahme` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Beschwerde Antrag Stellungnahme. |
 | `personalakte-einsicht-datenschutz` | Personalakte Einsicht Datenschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnun... |
@@ -127,7 +127,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `rechtsbeistand-im-disziplinarverfahren` | Rechtsbeistand im Disziplinarverfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinaro... |
 | `red-team-bundeswehr-beschwerde` | Red-Team Bundeswehr-Beschwerde: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2... |
 | `reservistendienst-dienstleistungspflicht` | Reservistendienst Dienstleistungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplina... |
-| `sanitaetsdienst-heilfuersorge` | Sanitätsdienst Heilfürsorge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025... |
+| `sanitaetsdienst-heilfürsorge` | Sanitätsdienst Heilfürsorge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025... |
 | `schadenersatz-regress-dienstunfall-material` | Schadenersatz Regress Dienstunfall Material: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdiszipl... |
 | `sexuelle-belaestigung-beschwerde-schutzpflicht` | Sexuelle Belästigung Beschwerde Schutzpflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdiszi... |
 | `social-media-soldat-dienstpflichten` | Social Media Soldat Dienstpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordn... |
@@ -137,10 +137,10 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `status-soldat-beamter-zivilbeschaeftigter-klaeren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären. |
 | `statusrechte-im-einsatz-urlaub-betreuung` | Statusrechte im Einsatz Urlaub Betreuung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplina... |
 | `trennungsgeld-umzugskosten-reisekosten` | Trennungsgeld Umzugskosten Reisekosten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinaro... |
-| `truppendienstgericht-zustaendigkeit-verfahren` | Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdiszip... |
+| `truppendienstgericht-zuständigkeit-verfahren` | Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdiszip... |
 | `unterhaltssicherung-reservisten` | Unterhaltssicherung Reservisten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung... |
 | `versetzung-kommandierung-abordnung` | Versetzung Kommandierung Abordnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnu... |
-| `vorlaeufige-dienstenthebung-einbehaltung-bezuege` | Vorläufige Dienstenthebung Einbehaltung Bezüge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisz... |
+| `vorläufige-dienstenthebung-einbehaltung-bezuege` | Vorläufige Dienstenthebung Einbehaltung Bezüge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisz... |
 | `wehrbeschwerdeordnung-beschwerde-frist-form` | Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdiszipl... |
 | `wehrdisziplinarordnung-einfache-disziplinarmassnahme` | Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Weh... |
 | `wehrpflicht-wehrdienst-reservist-routing` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Wehrpflicht Wehrdienst Reservist Routing. |

@@ -1,13 +1,13 @@
 ---
 name: buergschaftstypen-sponsio-fidepromissio-fideiussio
-description: "Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio fuer Peregrini bis zur klassischen fideiussio Justinians. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio für Peregrini bis zur klassischen fideiussio Justinians. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio
 
 ## Arbeitsbereich
 
-Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio fuer Peregrini bis zur klassischen fideiussio Justinians. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio für Peregrini bis zur klassischen fideiussio Justinians. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,28 +19,28 @@ Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Ski
 
 ## Aufgabe
 
-Skill fuer die drei Hauptformen der roemischen Buergschaft.
+Skill für die drei Hauptformen der roemischen Buergschaft.
 
 ## Sponsio
 
 - Aelteste Form, beschraenkt auf cives Romani.
 - Per stipulationem geschlossen.
-- Aktionierbar nur fuer Glaeubiger gegen Buergen (sponsor).
+- Aktionierbar nur für Glaeubiger gegen Buergen (sponsor).
 - Konnte nicht vererbt werden.
 - Geltung erloschen mit dem Tod des Hauptschuldners.
 
 ## Fidepromissio
 
-- Hellenistisch beeinflusste Form, offen fuer Peregrini.
+- Hellenistisch beeinflusste Form, offen für Peregrini.
 - Geringere Strenge.
 - Erhielt sich neben der sponsio.
 
 ## Fideiussio
 
 - Klassische Form ab dem Prinzipat.
-- Offen fuer alle.
+- Offen für alle.
 - Vererbbar.
-- Galt nicht nur fuer Stipulations-Verbindlichkeiten.
+- Galt nicht nur für Stipulations-Verbindlichkeiten.
 - Justinian machte fideiussio zur einzigen Standardform.
 
 ## Rechtsquelle

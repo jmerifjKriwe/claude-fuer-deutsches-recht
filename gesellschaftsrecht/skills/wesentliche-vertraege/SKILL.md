@@ -52,7 +52,7 @@ Vor der Anhangs-Erstellung klaeren:
 3. **Due-Diligence-Daten verfuegbar?** Vertragsbestand aus Datenraum oder Disclosure Schedule extrahiert? Falls nicht: DD-Ergebnisse zuerst importieren (Skill `dd-findings-extraktion` oder `tabellenpruefung`).
 4. **Anhangformat bekannt?** Gibt es andere Anhaenge im SPA-Entwurf als Formatvorlage? Nummerierte Liste oder Tabelle?
 5. **Over-Disclosure-Risiko beachten?** Der Anhang ist eine Gewaehrleistung, kein Datendump. Nur Vertraege aufnehmen, die ein SPA-Kriterium erfuellen.
-6. **Regulierte Branche?** Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, oeffentliche Auftraege — behoerdliche Zustimmungspflichten zusätzlich pruefen.
+6. **Regulierte Branche?** Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, öffentliche Auftraege — behoerdliche Zustimmungspflichten zusätzlich pruefen.
 
 ## Zweck
 
@@ -186,7 +186,7 @@ Vor Übergabe:
 ## Ausgabeformat
 
 - Anhang im SPA-konformen Format (Markdown, uebertragbar in Word/PDF)
-- Internes Zustimmungs-Overlay als Tabelle (fuer Abschluss-Checkliste)
+- Internes Zustimmungs-Overlay als Tabelle (für Abschluss-Checkliste)
 - Flaggenliste mit Grenzfaellen zur menschlichen Entscheidung
 
 ## Output-Template

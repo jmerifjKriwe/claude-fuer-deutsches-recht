@@ -14,7 +14,7 @@ description: "Verlagsredaktion International Urheber im Plugin Fachanwalt Urhebe
 | --- | --- |
 | `spezial-verlagsredaktion-international-schnittstellen` | Verlagsredaktion: Internationaler Bezug und Schnittstellen im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `urheber-abmahnung-pruefen` | Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnprüfmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht für Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung). |
-| `urhmr-deepfake-persoenlichkeitsrecht-spezial` | Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster fuer Betroffene und Plattform. |
+| `urhmr-deepfake-persoenlichkeitsrecht-spezial` | Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster für Betroffene und Plattform. |
 
 ## Arbeitsweg
 
@@ -84,7 +84,7 @@ Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empf�
 8. Liegt eine "massenhaft" aussehende Abmahnung vor oder ein individualisiertes Schreiben?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -375,7 +375,7 @@ Halluzinations-Reparatur Bundle 026:
 
 ## 3. `urhmr-deepfake-persoenlichkeitsrecht-spezial`
 
-**Fokus:** Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster fuer Betroffene und Plattform.
+**Fokus:** Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster für Betroffene und Plattform.
 
 # UrhMR: Deepfake Persoenlichkeitsrecht
 
@@ -383,13 +383,13 @@ Halluzinations-Reparatur Bundle 026:
 - **Normen-/Quellenanker:** KUG, AI.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -417,7 +417,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

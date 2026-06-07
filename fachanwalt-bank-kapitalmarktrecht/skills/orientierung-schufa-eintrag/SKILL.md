@@ -97,7 +97,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
 
 - **BGH XI ZR 22/24** v. 20.5.2025 — Vorfälligkeitsentschädigung Immobiliendarlehen: intransparente AGB-Klausel führt zum Verlust des VFE-Anspruchs. Quelle: juris.bundesgerichtshof.de
-- **BGH XI ZR 133/24** v. 21.10.2025 — Referenzzins fuer Zinsanpassungen in Praemiensparvertraegen (Folgeentscheidung). Quelle: bundesgerichtshof.de PM Nr. 225/2025
+- **BGH XI ZR 133/24** v. 21.10.2025 — Referenzzins für Zinsanpassungen in Praemiensparvertraegen (Folgeentscheidung). Quelle: bundesgerichtshof.de PM Nr. 225/2025
 - **BGH XI ZR 553/19** 2024 — Stärkung der Rechte von Darlehensnehmern bei Altforderungen (Volltext und Datum vor Versand verifizieren). Quelle: juris.bundesgerichtshof.de
 
 ### EuGH-Linien
@@ -200,7 +200,7 @@ Der Eintrag ist rechtswidrig:
 Wir fordern Loeschung innerhalb der Monatsfrist des Art. 12 Abs. 3
 DSGVO sowie Bestaetigung gegenueber dieser Kanzlei.
 
-Andernfalls werden wir Beschwerde nach Art. 77 DSGVO bei der zustaendigen
+Andernfalls werden wir Beschwerde nach Art. 77 DSGVO bei der zuständigen
 Aufsichtsbehoerde einreichen und gerichtliche Loeschung sowie
 Schadensersatz nach Art. 82 DSGVO geltend machen.
 
@@ -221,7 +221,7 @@ Mit freundlichen Gruessen
 
 ## Zweck
 
-Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Widerspruch, Löschung, Schadensersatz.
+Mandate von Verbrauchern mit unrechtmäßigen SCHUFA-Eintraegen. Auskunft, Widerspruch, Löschung, Schadensersatz.
 
 ## 1) Eingangs-Abfrage
 

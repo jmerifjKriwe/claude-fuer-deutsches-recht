@@ -21,8 +21,21 @@ Fristen und Ausschlussrisiken im Versicherungsrecht: Fälligkeit, Hemmung, Verj�
 
 Versicherungsfälle sind oft Fristenfallen. Dieser Skill macht aus verstreuter Korrespondenz einen belastbaren Fristen- und Handlungskalender.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 VVG` — Versicherungsvertrag.
+- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
+- `§ 28 VVG` — Obliegenheitsverletzung.
+- `§ 86 VVG` — Legalzession.
+- `§ 100 VVG` — Haftpflichtversicherung.
+- `§ 115 VVG` — Direktanspruch.
+- `§ 193 VVG` — Krankenversicherungspflicht.
+- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
+- `§ 294 VAG` — Missstandsaufsicht.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 VVG §§ 14, 15, 28, 31, 215; BGB §§ 195, 199, 203, 204; ZPO; spartenspezifische AVB-Fristen.
 
 ## Arbeitsfragen
@@ -45,7 +58,7 @@ Fristenkalender mit Rechtsgrund, Start, Ende, Hemmung, Verantwortlichem, nächst
 
 ## Anschluss-Skills
 
-- deckungsprozess-zustaendigkeit-215-vvg
+- deckungsprozess-zuständigkeit-215-vvg
 - unfallversicherung-invaliditaet-fristen-gliedertaxe
 
 ## Qualitätsregel

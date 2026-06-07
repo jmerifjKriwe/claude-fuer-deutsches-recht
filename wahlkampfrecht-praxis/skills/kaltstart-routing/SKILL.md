@@ -1,13 +1,13 @@
 ---
 name: kaltstart-routing
-description: "Wahlkampfrecht Praxis: Kaltstart fuer jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen oder Krise."
+description: "Wahlkampfrecht Praxis: Kaltstart für jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen oder Krise."
 ---
 
 # Allgemeiner Kaltstart
 
 ## Fachkern: Allgemeiner Kaltstart
 
-- **Wahlkampflage (Allgemeiner Kaltstart):** Kaltstart fuer jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen oder Krise.
+- **Wahlkampflage (Allgemeiner Kaltstart):** Kaltstart für jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen oder Krise.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
@@ -39,6 +39,24 @@ Sortiert Wahlart, Rolle, Druck, Unterlagen und gewuenschtes Ergebnis; schlaegt d
 - Eine harte politische Zuspitzung kann zulässig sein; eine falsche Tatsachenbehauptung über Wahlverfahren, Personen, Finanzierung oder Gegner kann den Fall drehen.
 - Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
 - Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
+- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
+- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
+- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
+- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung ueber Kreiswahlvorschlaege.
+- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
+- `§ 49a BWahlG` — Ordnungswidrigkeiten.
+- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
+- `§ 25 PartG` — Spendenannahme und Spendenverbote.
+- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

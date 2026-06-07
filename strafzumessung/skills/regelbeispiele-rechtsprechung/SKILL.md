@@ -37,7 +37,7 @@ Abs. 1 Satz 2:
 - **Nr. 2**: Sache, die durch verschlossenes Behaeltnis gesichert war.
 - **Nr. 3**: Gewerbsmaessigkeit.
 - **Nr. 4**: Diebstahl aus Kirche oder anderem Gebaeude, das gottesdienstlichen Zwecken dient.
-- **Nr. 5**: Diebstahl von Sachen, die fuer Wissenschaft, Kunst, Geschichte oder fuer die technische Entwicklung bedeutsam sind.
+- **Nr. 5**: Diebstahl von Sachen, die für Wissenschaft, Kunst, Geschichte oder für die technische Entwicklung bedeutsam sind.
 - **Nr. 6**: Ausnutzen der Hilflosigkeit einer anderen Person; Ungluecksfall; gemeinsame Gefahr.
 - **Nr. 7**: Handfeuerwaffe, anderes Schusswaffenmerkmal.
 
@@ -100,7 +100,7 @@ Regelbeispiele bei besonders schwerem Fall der Noetigung.
 
 - Bei § 315 StGB ca. 750 EUR (st. Rspr.; verifizieren).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 1. **Tatbestand** identifizieren; gibt es Regelbeispielkatalog?
 2. **Regelbeispielmerkmale** subsumieren.
@@ -118,7 +118,7 @@ Regelbeispiele bei besonders schwerem Fall der Noetigung.
 - Erstmaliger Verstoss.
 - Schadenswiedergutmachung, TOA.
 
-## Anklage-Argumente fuer Indizwirkung
+## Anklage-Argumente für Indizwirkung
 
 - Wiederholungstaeter.
 - Hoher Schaden / hohe Tatzahl.

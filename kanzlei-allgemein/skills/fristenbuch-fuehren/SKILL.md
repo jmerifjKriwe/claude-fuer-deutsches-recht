@@ -30,7 +30,7 @@ Zentrales Fristenbuch für die Kanzlei mit Haupt- und Vorfristen über alle Rech
 - § 222 ZPO i.V.m. §§ 187-188 BGB — Fristberechnung nach dem Zivilprozessrecht
 - § 517 ZPO — Berufungsfrist ein Monat ab Zustellung des Urteils (Notfrist)
 - § 548 ZPO — Revisionsfrist ein Monat ab Zustellung (Notfrist)
-- Art. 7 PostModG — Vier-Tages-Zustellungsfiktion fuer Postsendungen ab 01.01.2025
+- Art. 7 PostModG — Vier-Tages-Zustellungsfiktion für Postsendungen ab 01.01.2025
 
 ## Quellenregel
 
@@ -41,7 +41,7 @@ Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist
 
 ## Zentralablage
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/fristenbuch.yaml`
+`~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-allgemein/fristenbuch.yaml`
 
 ```yaml
 - mandat-az: 2026/0042
@@ -53,7 +53,7 @@ Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist
  hauptfrist: 2026-04-15
  vorfrist-tage: 7
  vorfrist: 2026-04-06
- zustaendig: RA Mueller
+ zuständig: RA Mueller
  status: offen
  bemerkung: Berufungsbegründung gemäß § 520 ZPO innerhalb von zwei Monaten
 ```

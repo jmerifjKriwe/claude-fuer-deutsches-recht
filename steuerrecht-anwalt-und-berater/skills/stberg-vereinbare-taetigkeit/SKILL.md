@@ -18,7 +18,7 @@ description: "Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausu
 3. Ist eine Genehmigung der Steuerberaterkammer erforderlich?
 4. Werberecht § 57a StBerG gewahrt?
 5. Kollidiert die Taetigkeit mit Interessenkonfliktverbot § 57 Abs. 1 StBerG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -34,7 +34,7 @@ description: "Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausu
 
 ## Zentrale Normen
 
-§ 33 StBerG · § 57 StBerG · § 57a StBerG · § 76 StBerG · § 64 StBerG (Gebuehrenrahmen)
+§ 33 StBerG · § 57 StBerG · § 57a StBerG · § 76 StBerG · § 64 StBerG (Gebührenrahmen)
 
 ## Quellenregel
 

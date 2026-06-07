@@ -39,7 +39,7 @@ description: "Designverletzung Marken Widerspruch im Plugin Fachanwalt Gewerblic
 6. Welcher Gestaltungsfreiraum besteht im Marktsegment (§ 38 Abs. 2 S. 2 DesignG) — enge technische Vorgaben oder breite Gestaltungsfreiheit?
 7. Welche Schadenshöhe ist realistisch — Verkaufszahlen Verletzungsprodukt schätzbar?
 8. Liegt Anspruchskonkurrenz vor — ist das Design auch markenrechtlich, urheberrechtlich oder als Lauterkeitsrecht-Nachahmungsschutz (§ 4 Nr. 3 UWG) schützbar?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -315,7 +315,7 @@ Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
 1. Ist das Design eingetragen (DesignG/GGV) oder handelt es sich um ein nicht-eingetragenes GGM (3-Jahres-Schutz)?
 2. Weicht der Gesamteindruck des verletzenden Designs von dem des geschuetzten Designs ab (informierter Benutzer nach Art. 10 GGV)?
 3. Liegen Neuheit und Eigencharakter des geschuetzten Designs unstreitig vor — oder droht eine Nichtigkeit-Widerklage?
-4. Gibt es Beweise fuer absichtliche Kopie (Marktstudie, Online-Produktfotos, Zeitstrahl)?
+4. Gibt es Beweise für absichtliche Kopie (Marktstudie, Online-Produktfotos, Zeitstrahl)?
 
 ## Aktuelle Rechtsprechung
 
@@ -336,12 +336,12 @@ Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
 ## Triage zu Beginn
 
 1. **Mandantenrolle:** Widersprechender (Inhaber aelterer Marke) oder Angegriffener (Inhaber juengerer Marke)?
-2. **Behoerde:** DPMA (nationale Marke) oder EUIPO (Unionsmarke)?
-3. **Frist gewahrt?** 3 Monate ab Veroeffentlichung (§ 42 Abs. 1 MarkenG / Art. 46 UMV) — bei Verjaehrung sofort auf Loeschungsklage umstellen.
+2. **Behörde:** DPMA (nationale Marke) oder EUIPO (Unionsmarke)?
+3. **Frist gewahrt?** 3 Monate ab Veroeffentlichung (§ 42 Abs. 1 MarkenG / Art. 46 UMV) — bei Verjährung sofort auf Loeschungsklage umstellen.
 4. **Aeltere Marke benutzungsreif?** Wenn Eintragungs-Datum ueber 5 Jahre: Benutzungsnachweis bereithalten (§ 26 MarkenG).
 5. **Verwechslungsgefahr prima facie?** Zeichenaehnlichkeit + Warenaehnlichkeit grob pruefen.
 6. **Bekanntheit der aelteren Marke** (§ 14 Abs. 2 Nr. 3 MarkenG) als zusaetzlicher Hebel?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -387,7 +387,7 @@ Reicht der Nachweis nicht?
  → Erwägen: Widerspruch auf bekannte Marke (§ 14 Abs. 2 Nr. 3) umstellen
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -453,14 +453,14 @@ WIDERSPRUCH
 In der Markensache
 
 Jungere Marke: [MARKENNAME], Az. [DPMA-AZ], eingetragen am [DATUM]
- fuer Waren/DL der Klassen [X, Y, Z]
+ für Waren/DL der Klassen [X, Y, Z]
 Inhaber: [NAME, ADRESSE]
 
 Widersprechende: [NAME, ADRESSE]
 vertreten durch: [KANZLEI, ADRESSE]
 
 Aeltere Marke: [MARKENNAME], Az. [DPMA-AZ], eingetragen am [DATUM]
- fuer Waren/DL der Klassen [A, B, C]
+ für Waren/DL der Klassen [A, B, C]
 
 legen wir Widerspruch gegen die Eintragung der juengeren Marke ein und
 begruenden diesen wie folgt:
@@ -483,13 +483,13 @@ I. Verwechslungsgefahr § 9 Abs. 1 Nr. 2 MarkenG
 II. Benutzung der aelteren Marke (vorsorglich)
  Die aeltere Marke wird ernsthaft benutzt, Nachweis als Anlage W2.
 
-Gebuehrennachweis: als Anlage W3 beigefuegt.
+Gebührennachweis: als Anlage W3 beigefuegt.
 
 [ORT, DATUM, UNTERSCHRIFT]
 [KANZLEI / NAME]
 Anlage W1: [Nachweise Bekanntheit]
 Anlage W2: [Benutzungsnachweise]
-Anlage W3: [Gebuehrenbeleg]
+Anlage W3: [Gebührenbeleg]
 ```
 
 --- vor Versand klaeren ---
@@ -532,7 +532,7 @@ Anlage W3: [Gebuehrenbeleg]
 6. Gibt es Registrierungen Dritter, die Widerspruch einlegen könnten (§ 42 MarkenG: 3 Monate ab Veröffentlichung)?
 7. Besteht Prioritätsinteresse aus einer früheren Anmeldung in einem PVÜ-Staat (6-Monats-Frist PVÜ Art. 4)?
 8. Wird die Marke tatsächlich genutzt oder ist Benutzungszwang nach 5 Jahren (§ 25 MarkenG) realistisch einhaltbar?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

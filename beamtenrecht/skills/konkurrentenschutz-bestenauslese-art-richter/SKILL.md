@@ -1,13 +1,13 @@
 ---
 name: konkurrentenschutz-bestenauslese-art-richter
-description: "Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im oeffentlichen Dienst. Liefert Bausteine fuer Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungsmaszstab und gerichtliche Kontrolldichte. Beruecksichtigt Stand der BVerfG- und BVerwG-Rechtsprechung zum bewerbungsverfahrensrechtlichen Anspruch. Hilft bei der Pruefung Anforderungsprofil dienstliche Beurteilung Auswahlvermerk Auswahlgespraech. Im Zweifel Verweis auf das spezifische Schwester-Skill konkurrentenklage-einstweiliger-rechtsschutz im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im öffentlichen Dienst. Liefert Bausteine für Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungsmaszstab und gerichtliche Kontrolldichte. Beruecksichtigt Stand der BVerfG- und BVerwG-Rechtsprechung zum bewerbungsverfahrensrechtlichen Anspruch. Hilft bei der Pruefung Anforderungsprofil dienstliche Beurteilung Auswahlvermerk Auswahlgespraech. Im Zweifel Verweis auf das spezifische Schwester-Skill konkurrentenklage-einstweiliger-rechtsschutz im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG
 
 ## Arbeitsbereich
 
-Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im oeffentlichen Dienst. Liefert Bausteine fuer Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungsmaszstab und gerichtliche Kontrolldichte. Beruecksichtigt Stand der BVerfG- und BVerwG-Rechtsprechung zum bewerbungsverfahrensrechtlichen Anspruch. Hilft bei der Pruefung Anforderungsprofil dienstliche Beurteilung Auswahlvermerk Auswahlgespraech. Im Zweifel Verweis auf das spezifische Schwester-Skill konkurrentenklage-einstweiliger-rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im öffentlichen Dienst. Liefert Bausteine für Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungsmaszstab und gerichtliche Kontrolldichte. Beruecksichtigt Stand der BVerfG- und BVerwG-Rechtsprechung zum bewerbungsverfahrensrechtlichen Anspruch. Hilft bei der Pruefung Anforderungsprofil dienstliche Beurteilung Auswahlvermerk Auswahlgespraech. Im Zweifel Verweis auf das spezifische Schwester-Skill konkurrentenklage-einstweiliger-rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlent
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Bewerber im oeffentlichen Dienst, die in einem Auswahlverfahren um Einstellung, Beförderung oder Übertragung eines höherwertigen Dienstpostens unterlegen sind oder unterliegen koennten. Liefert das materielle Pruefschema des Art. 33 Abs. 2 GG (Bestenauslese als grundrechtsgleiches Recht / bewerbungsverfahrensrechtlicher Anspruch).
+Skill für Bewerber im öffentlichen Dienst, die in einem Auswahlverfahren um Einstellung, Beförderung oder Übertragung eines höherwertigen Dienstpostens unterlegen sind oder unterliegen koennten. Liefert das materielle Pruefschema des Art. 33 Abs. 2 GG (Bestenauslese als grundrechtsgleiches Recht / bewerbungsverfahrensrechtlicher Anspruch).
 
 Anwendung typischerweise vor und neben den Skills `konkurrentenklage-einstweiliger-rechtsschutz`, `anlassbeurteilung-vs-regelbeurteilung`, `anforderungsprofil-konstitutiv-deklaratorisch`, `auswahlgespraech-dokumentationspflicht`, `plausibilisierung-gleicher-gesamtnoten`.
 

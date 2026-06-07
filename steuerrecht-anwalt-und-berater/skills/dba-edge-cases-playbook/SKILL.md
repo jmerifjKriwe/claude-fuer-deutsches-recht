@@ -99,8 +99,8 @@ Sachverhalt: Mandant in DE, 4-jaehriger Vesting-Plan ueber 100.000 Options. Nach
 | Vesting-Dauer | 2 Jahre | 2 Jahre |
 | Anzahl gevestete Options | 50.000 | 50.000 |
 | DBA-Aufteilung (Art. 15) | DE besteuert die DE-Periode | CH besteuert die CH-Periode |
-| Bei Ausuebung im Jahr 4: Gewinn 200.000 EUR | 100.000 EUR DE | 100.000 EUR CH |
-| § 19 EStG-Erfassung in DE | bei Ausuebung im Jahr 4 (wenn dann noch DE-beschraenkt steuerpflichtig) | — |
+| Bei Ausübung im Jahr 4: Gewinn 200.000 EUR | 100.000 EUR DE | 100.000 EUR CH |
+| § 19 EStG-Erfassung in DE | bei Ausübung im Jahr 4 (wenn dann noch DE-beschraenkt steuerpflichtig) | — |
 | CH-Quellensteuer | — | nach CH-Recht (kantonal variabel) |
 
 (**Werte sind Beispiel — DBA-CH Art. 15, § 19 EStG-Aufteilung bei Stock Options BMF-Schreiben live abrufen.**)
@@ -113,9 +113,9 @@ Sachverhalt: Mandant DE-ansaessig, BS in Staat B, Zahlung aus Staat C (Quellenst
 |---|---|---|
 | DBA DE-B existiert? | DBA-[B] | [ja/nein] |
 | DBA DE-C existiert? | DBA-[C] | [ja/nein] |
-| DBA B-C existiert? | DBA zwischen B und C | nicht direkt relevant fuer DE-Memo |
-| Welchen DBA-Schutz hat DE-BS in B fuer Einkuenfte aus C? | DBA-[B] und nationales Recht B | live pruefen |
-| Anrechnung in DE: § 34c EStG fuer auslaendische Steuer aus C oder B? | § 34c EStG | sorgfaeltige Pruefung — Doppelanrechnung droht |
+| DBA B-C existiert? | DBA zwischen B und C | nicht direkt relevant für DE-Memo |
+| Welchen DBA-Schutz hat DE-BS in B für Einkuenfte aus C? | DBA-[B] und nationales Recht B | live pruefen |
+| Anrechnung in DE: § 34c EStG für auslaendische Steuer aus C oder B? | § 34c EStG | sorgfaeltige Pruefung — Doppelanrechnung droht |
 | Switch-Over bei passiver Niedrigsteuer-BS? | § 20 Abs. 2 AStG | bei passiver BS Pruefung |
 | MAP DE-B oder DE-C? | DBA Art. 25 | bilateral |
 | Verstaendigung trilateral nicht moeglich | — | nur zwei DBA-Verfahren parallel |

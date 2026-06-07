@@ -53,5 +53,5 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Verfahrensalternativen geprueft?** §§ 153, 153a StPO Einstellung gegen Auflagen; § 154 StPO Teileinstellung; § 154a StPO Beschraenkung; § 257c StPO Verstaendigung - oft bessere Loesung als Hauptverhandlung.
 - **Konsequenz-Re-Check:** BZRG-Eintrag (regelmaessig ab 91 TS / Freiheitsstrafe); FAER bei Verkehrsdelikten; berufsrechtliche Folgen (Beamte, Aerzte, Anwaelte) - Mandant informiert?
 - **Halluzinations-Check:** keine erfundenen Az BGH; "staendige Rspr." statt konkret Az aus Modellwissen.
-- **Vollmachts-Check:** Vertretungsvollmacht fuer § 411 II StPO Hauptverhandlung? Sonst Versaeumnisurteil moeglich (§ 412 StPO).
+- **Vollmachts-Check:** Vertretungsvollmacht für § 411 II StPO Hauptverhandlung? Sonst Versaeumnisurteil moeglich (§ 412 StPO).
 - **Halterauskunft / Fahrtenbuchauflage** Risiko angesprochen bei Verkehrs-Strafbefehl mit nicht ermittelbarem Fahrer?

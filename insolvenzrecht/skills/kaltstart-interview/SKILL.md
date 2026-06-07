@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/insolvenzrecht/CLAUDE.md mit Angaben zur Rolle (Insolvenzverwalter / Sachwalter / beratender Anwalt / Geschäftsleiter / Sanierungsberater / Wirtschaftsprüfer), typischen Verfahrensarten (Regelinsolvenz / Eigenverwaltung / Schutzschirm / StaRUG / Konzerninsolvenz), bevorzugten Gutachten-Standards (IDW S 6 / S 9 / S 11) und Eskalationsstrukturen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-prüfen nur für eine Konnektoren-Prüfung."
+description: "Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-für-deutsches-recht/insolvenzrecht/CLAUDE.md mit Angaben zur Rolle (Insolvenzverwalter / Sachwalter / beratender Anwalt / Geschäftsleiter / Sanierungsberater / Wirtschaftsprüfer), typischen Verfahrensarten (Regelinsolvenz / Eigenverwaltung / Schutzschirm / StaRUG / Konzerninsolvenz), bevorzugten Gutachten-Standards (IDW S 6 / S 9 / S 11) und Eskalationsstrukturen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-prüfen nur für eine Konnektoren-Prüfung."
 ---
 
 # /insolvenzrecht:insolvenzrecht-kaltstart-interview
@@ -15,7 +15,7 @@ description: "Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das P
 
 ## Ablauf
 
-1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/insolvenzrecht/CLAUDE.md` prüfen.
+1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-für-deutsches-recht/insolvenzrecht/CLAUDE.md` prüfen.
 2. Falls vorhanden und ohne `[PLATZHALTER]`-Marker: bestätigen, dass das Praxisprofil schon befüllt ist, und Modus erfragen (`--redo` für vollständiges Neu-Interview).
 3. Falls nicht vorhanden oder mit Platzhaltern: das Kaltstart-Interview unten durchführen.
 4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
@@ -75,7 +75,7 @@ Beim Prüfen: nur `✓` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreic
 
 ## Ausgabe
 
-Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/insolvenzrecht/CLAUDE.md` geschrieben. Anschließend zeigen:
+Das Praxisprofil wird in `~/.claude/plugins/config/claude-für-deutsches-recht/insolvenzrecht/CLAUDE.md` geschrieben. Anschließend zeigen:
 
 - Was eingerichtet wurde
 - Welche Skills jetzt sinnvoll als nächstes laufen können:

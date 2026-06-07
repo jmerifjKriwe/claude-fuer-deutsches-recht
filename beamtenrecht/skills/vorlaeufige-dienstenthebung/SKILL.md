@@ -1,13 +1,13 @@
 ---
 name: vorlaeufige-dienstenthebung
-description: "Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen fuer Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur vorläufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen für Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorlaeufige Dienstenthebung § 38 BDG
 
 ## Arbeitsbereich
 
-Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen fuer Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur vorläufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen für Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Mandanten, deren Dienstherr eine vorlaeufige Dienstenthebung und ggf. den Einbehalt der Bezuege verfuegt hat, oder die einen entsprechenden Antrag bei Gericht abwehren wollen.
+Skill für Mandanten, deren Dienstherr eine vorläufige Dienstenthebung und ggf. den Einbehalt der Bezuege verfuegt hat, oder die einen entsprechenden Antrag bei Gericht abwehren wollen.
 
 ## 2. Eingaben
 
@@ -36,7 +36,7 @@ Skill fuer Mandanten, deren Dienstherr eine vorlaeufige Dienstenthebung und ggf.
 - Verhinderung der Fortsetzung des Dienstvergehens, Schutz dienstlicher Interessen.
 
 ### b) Verfahren
-- Dienstherr verfuegt die vorlaeufige Dienstenthebung.
+- Dienstherr verfuegt die vorläufige Dienstenthebung.
 - Antrag nach § 63 BDG beim Verwaltungsgericht gegen die Massnahme moeglich.
 
 ### c) Einbehalt von Dienstbezuegen
@@ -46,14 +46,14 @@ Skill fuer Mandanten, deren Dienstherr eine vorlaeufige Dienstenthebung und ggf.
 ### d) Verhaeltnis zum Strafverfahren
 - Vorlaeufige Dienstenthebung ist unabhaengig vom Strafverfahren moeglich; Vorermittlungen und Beweisaufnahme im Strafverfahren beeinflussen aber die Prognose der Entfernung.
 
-### e) Folgen fuer Bezuege und Beihilfe
+### e) Folgen für Bezuege und Beihilfe
 - Beihilfeberechtigung bleibt grundsaetzlich erhalten.
 - Versorgung wird nur bei rechtskraeftiger Entfernung aus dem Beamtenverhaeltnis beeinflusst.
 
 ## 4. Quellenpflicht
 
 - Normen: §§ 38, 63 BDG; landesrechtliche Aequivalente.
-- Rspr.: BVerwG zur vorlaeufigen Dienstenthebung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Rspr.: BVerwG zur vorläufigen Dienstenthebung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat

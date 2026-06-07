@@ -58,7 +58,7 @@ Wenn nur drei der sechs Antworten vorliegen, beginnt die Arbeit am Zeitstrahl. D
 - Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG — gewerbesteuerliche Parallelregelung.
 - Paragraph 251 AO — Aussetzung der Vollziehung und Behandlung von Steuerforderungen im Insolvenzverfahren.
 - Paragraphen 222, 227 AO — Stundung und Erlass.
-- Paragraph 60 InsO — Haftung des Insolvenzverwalters fuer schuldhafte Pflichtverletzung.
+- Paragraph 60 InsO — Haftung des Insolvenzverwalters für schuldhafte Pflichtverletzung.
 
 ## / Zeitachse mit Monaten und Antragspflichtigen
 
@@ -66,7 +66,7 @@ Die folgende Tabelle nimmt als Tag 0 den geplanten Tag der Plan-Einreichung oder
 
 | Monat | Wer ist verantwortlich | Pflicht-Output | Hinweise |
 |---|---|---|---|
-| -9 bis -12 | Geschaeftsleitung + StB | Krisenfrueherkennung dokumentieren (Liquiditaetsplanung, Fortbestehensprognose Entwurf) | Spaeter ein zentraler Baustein fuer Sanierungsbeduerftigkeit. |
+| -9 bis -12 | Geschaeftsleitung + StB | Krisenfrueherkennung dokumentieren (Liquiditaetsplanung, Fortbestehensprognose Entwurf) | Spaeter ein zentraler Baustein für Sanierungsbeduerftigkeit. |
 | -6 bis -9 | IV / Sachwalter / CRO | Verlustvortraege Bestandsaufnahme: Koerperschaftsteuer, Gewerbesteuer, ggf. Einkommensteuer | Bescheid-Kopien der letzten drei Veranlagungen. |
 | -6 bis -9 | StB des Schuldners | Steuerliche Modellrechnung Paragraph 3a Absatz 3 EStG: wie viel Sanierungsertrag wird durch Verlustvortraege aufgezehrt? | Wenn Verlustvortraege das Volumen vollstaendig schlucken, ist die spaetere Steuerfreiheit weniger kritisch — Antrag bleibt aber wichtig. |
 | -6 | IV / CRO | Externes Sanierungskonzept (IDW S 6 oder gleichwertig) beauftragen oder im Sachwaltermodell selbst aufsetzen | Belegt Sanierungsfaehigkeit + Sanierungseignung. |
@@ -148,18 +148,18 @@ Verfasser: [IV/Sachwalter] in Abstimmung mit [StB Name]
 
 Innerhalb des Plugins `insolvenzrecht`:
 
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — die Modellrechnung Schritt fuer Schritt.
+- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — die Modellrechnung Schritt für Schritt.
 - `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro` — Mandantenbrief an Geschaeftsleitung und CRO.
 - `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Antragsmechanik im Plan.
-- `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` — Haftung des Verwalters bei versaeumter Vorbereitung.
+- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftung des Verwalters bei versaeumter Vorbereitung.
 - `insol-sanierungsgewinn-liquidation-statt-plan-folgen` — wenn der Plan-Pfad scheitert und nur Liquidation bleibt.
 - `inso-eroeffnungsantrag-checkliste` — formelle Eroeffnungspruefung.
 
 In anderen Plugins:
 
-- `steuerrecht-anwalt-und-berater` — generelle Steuer-Skills, insbesondere `stb-sanierungsgewinn-liquidation-nachrang-fg-koeln` fuer den Pfad „statt Plan-Sanierung Liquidation mit nachrangigem Gesellschafterdarlehen" (verifizierte Linie FG Koeln 13 K 3006/11).
+- `steuerrecht-anwalt-und-berater` — generelle Steuer-Skills, insbesondere `stb-sanierungsgewinn-liquidation-nachrang-fg-koeln` für den Pfad „statt Plan-Sanierung Liquidation mit nachrangigem Gesellschafterdarlehen" (verifizierte Linie FG Koeln 13 K 3006/11).
 - `grosskanzlei-corporate-ma` — Distressed-M-und-A-Sicht.
-- `fortbestehensprognose` — Schwester-Skill fuer die Prognose.
+- `fortbestehensprognose` — Schwester-Skill für die Prognose.
 
 ## Quellen Stand 06/2026
 
@@ -169,5 +169,5 @@ In anderen Plugins:
 - Paragraphen 251, 222, 227 AO, `gesetze-im-internet.de/ao_1977/`.
 - Paragraph 60 InsO, `gesetze-im-internet.de/inso/__60.html`.
 - FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation ueber `dejure.org` und NWB-Datenbank.
-- FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangruecktritt und Steuerausfall mangels Koerperschaftsteuersubjekt; verifizierte Fundstelle fuer den Pfad Liquidation statt Plan.
+- FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangruecktritt und Steuerausfall mangels Koerperschaftsteuersubjekt; verifizierte Fundstelle für den Pfad Liquidation statt Plan.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

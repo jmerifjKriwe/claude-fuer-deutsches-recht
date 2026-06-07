@@ -26,7 +26,7 @@ Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpru
 ## Erste Schritte
 
 1. Identifizierungspflicht ausloesen: Ist Geschaeftsbeziehung gemaess §§ 10 GwG begruendet?
-2. UBO-Ermittlung nach § 3 GwG und Art. 3 Nr. 6 4. EU-GwRL (AMLD4): Eigentums- und Kontrollstrukturen bis zum natuerllichen Endbeguenstigten aufloesen.
+2. UBO-Ermittlung nach § 3 GwG und Art. 3 Nr. 6 4. EU-GwRL (AMLD4): Eigentums- und Kontrollstrukturen bis zum natuerllichen Endbegünstigten aufloesen.
 3. Sanktionsscreening in konsolidierter EU-Finanzsanktionsliste (OFAC, UK-HMT optional ergaenzend).
 4. PEP-Status pruefen (§ 1 Abs. 12 GwG) und erweiterte Sorgfaltspflichten aktivieren.
 5. Risikobewertung nach geldwaescherechtlicher Risikoanalyse erstellen.
@@ -35,10 +35,10 @@ Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpru
 ## Rechtsrahmen
 
 - **§§ 10-17 GwG**: Kundensorgfaltspflichten, UBO-Ermittlung, Hochrisikofaelle.
-- **Art. 2 VO (EU) 269/2014**: Bereitstellungsverbot fuer gelistete Personen/Unternehmen (Russland-Sanktionen).
+- **Art. 2 VO (EU) 269/2014**: Bereitstellungsverbot für gelistete Personen/Unternehmen (Russland-Sanktionen).
 - **Art. 11 VO (EU) 269/2014**: Meldepflicht bei eingefrorenen Geldern.
 - **§ 43 GwG**: Verdachtsmeldepflicht an FIU.
-- **Zahlungsdiensteaufsichtsgesetz (ZAG)**: Erweiterter Anwendungsbereich fuer Zahlungsdienstleister.
+- **Zahlungsdiensteaufsichtsgesetz (ZAG)**: Erweiterter Anwendungsbereich für Zahlungsdienstleister.
 
 ## Pruef-Raster
 
@@ -60,7 +60,7 @@ Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpru
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

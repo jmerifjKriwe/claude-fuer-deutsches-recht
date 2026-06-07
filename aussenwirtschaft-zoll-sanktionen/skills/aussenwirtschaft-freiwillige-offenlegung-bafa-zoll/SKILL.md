@@ -26,7 +26,7 @@ Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAF
 ## Erste Schritte
 
 1. Sachverhalt vollstaendig intern aufklaeren und sichern (Legal Hold) bevor Offenlegung.
-2. Strafbarkeit und Ordnungswidrigkeitenrisiko fuer jede Handlung bewerten.
+2. Strafbarkeit und Ordnungswidrigkeitenrisiko für jede Handlung bewerten.
 3. Zeitpunkt pruefen: Noch vor Behordenerkenntnis oder bereits im Ermittlungsverfahren?
 4. Anzeigeinhalte formulieren: Sachverhalt, Ausmass, betroffene Personen, Massnahmen.
 5. Koordination mit Strafverteidiger; keine Selbstbelastung einzelner Mitarbeiter ohne Schutzkonzept.
@@ -54,13 +54,13 @@ Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAF
 - Unvollstaendige Offenlegung ist schlimmer als keine Offenlegung; alles oder nichts.
 - Mitarbeiter muessen gesondert beraten und geschuetzt werden (kein Selbstbelastungszwang).
 - Bei laufenden Ermittlungen ist Offenlegung nur im Rahmen der Verteidigungsstrategie sinnvoll.
-- Nachtraegliche Korrekturen in ATLAS-Systemen sind moeglicher Beweis; nur mit Behoerdenabstimmung.
+- Nachtraegliche Korrekturen in ATLAS-Systemen sind moeglicher Beweis; nur mit Behördenabstimmung.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

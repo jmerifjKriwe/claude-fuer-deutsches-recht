@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1
 
 ## Worum es geht
 
-Kodifikation ist die planmaessige Zusammenfassung eines Rechtsgebiets in einem Gesetz. Die Kodifikationstechniken unterscheiden sich erheblich: Das ALR 1794 mit rund 17.000 Paragraphen folgt einem kasuistischen Ansatz (Einzelfaelle loesen statt Generalklauseln). Das BGB 1900 nutzt Abstraktion und Generalklauseln (§§ 242, 249 BGB) auf Grundlage pandektistischer Systematik. Der Code Civil 1804 kombiniert beides. Das DDR-ZGB 1975 (GBl. I DDR 1975, 465) verfolgte einen eigenen volksdemokratischen Ansatz mit sozialistischer Gemeinschaft als Leitidee. Die Schuldrechtsreform 2002 (BGBl. I 2001, 3138) modernisierte das BGB durch Richtlinienumsetzung.
+Kodifikation ist die planmäßige Zusammenfassung eines Rechtsgebiets in einem Gesetz. Die Kodifikationstechniken unterscheiden sich erheblich: Das ALR 1794 mit rund 17.000 Paragraphen folgt einem kasuistischen Ansatz (Einzelfaelle loesen statt Generalklauseln). Das BGB 1900 nutzt Abstraktion und Generalklauseln (§§ 242, 249 BGB) auf Grundlage pandektistischer Systematik. Der Code Civil 1804 kombiniert beides. Das DDR-ZGB 1975 (GBl. I DDR 1975, 465) verfolgte einen eigenen volksdemokratischen Ansatz mit sozialistischer Gemeinschaft als Leitidee. Die Schuldrechtsreform 2002 (BGBl. I 2001, 3138) modernisierte das BGB durch Richtlinienumsetzung.
 
 ## Kernnormen / Kernquellen
 
@@ -34,19 +34,19 @@ Kodifikation ist die planmaessige Zusammenfassung eines Rechtsgebiets in einem G
 - **Carl Gottlieb Svarez** (1746-1798): Hauptredaktor des ALR
 - **Gottlieb Planck** (1824-1910): Vorsitzender der 2. BGB-Kommission
 - **Franz Wieacker** (1908-1994): Privatrechtsgeschichte der Neuzeit, Kodifikationsvergleich
-- **Kommission fuer das ZGB der DDR**: Kollektive Autorschaft unter staatlicher Steuerung
+- **Kommission für das ZGB der DDR**: Kollektive Autorschaft unter staatlicher Steuerung
 
 ## Typische Streitfragen / Forschungsfragen
 
 1. Kasuistik (ALR) vs. Abstraktion (BGB): Welche Technik bietet mehr Rechtssicherheit?
-2. BGB-Generalklauseln: Tuer fuer Wertungsentscheidungen oder notwendige Flexibilitaet?
+2. BGB-Generalklauseln: Tuer für Wertungsentscheidungen oder notwendige Flexibilitaet?
 3. DDR-ZGB: War es ein eigenstaendiges Kodifikationsmodell oder Imitat des BGB?
 4. Schuldrechtsmodernisierung 2002: Europaeisierung als Kodifikationsmethode?
 5. Mugdan-Materialien: Darf der Richter die fachliche Einordnung heranziehen?
 
 ## Methodik
 
-- ALR: historische Ausgabe Svarez-Edition; ALEX/ÖNB fuer Druckfassung
+- ALR: historische Ausgabe Svarez-Edition; ALEX/ÖNB für Druckfassung
 - BGB-Materialien: Mugdan, Die gesamten Materialien zum BGB (6 Bde., 1899)
 - DDR-ZGB: GBl. I DDR 1975, 465
 - BGB aktuell: gesetze-im-internet.de
@@ -56,7 +56,7 @@ Kodifikation ist die planmaessige Zusammenfassung eines Rechtsgebiets in einem G
 
 - Vergleichstabelle Kodifikationstechniken ALR / Code Civil / BGB / DDR-ZGB
 - Ausgewaehlte Paragraphen mit fachliche Einordnung (Mugdan-Bezug)
-- Schuldrechtsreform 2002: vor/nach-Vergleich fuer Kerninstitute
+- Schuldrechtsreform 2002: vor/nach-Vergleich für Kerninstitute
 
 ## Quellenregel
 

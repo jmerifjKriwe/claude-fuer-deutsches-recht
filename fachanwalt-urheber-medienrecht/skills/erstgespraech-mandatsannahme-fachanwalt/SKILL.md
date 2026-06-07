@@ -37,7 +37,7 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 2. Welches **Sachgebiet:** Urheberrecht (Werknutzung), Persoenlichkeitsrecht/KUG, Presserecht (Gegendarstellung), Rundfunk/Streaming, Plattformhaftung, Musikrecht/Verwertungsgesellschaft?
 3. **Mandantenrolle:** Urheber (Schutzsuchender), Werknutzer (ggf. Verletzer), Medienhaus (Abgemahnter), Betroffener (Presserecht, KUG), Plattformbetreiber?
 4. Liegt **Eilbeduerftigkeit** vor (Berichterstattung in 2 Tagen, Bild im Netz, einstweilige Verfuegung zugestellt)?
-5. Sind **mehrere Parteien** am Sachverhalt beteiligt, fuer die ein Interessenkonflikt bestehen koennte (§ 43a Abs. 4 BRAO, § 3 BORA)?
+5. Sind **mehrere Parteien** am Sachverhalt beteiligt, für die ein Interessenkonflikt bestehen koennte (§ 43a Abs. 4 BRAO, § 3 BORA)?
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -45,7 +45,7 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 - § 97 Abs. 1, 2 UrhG — Unterlassung und Schadensersatz lizenzanalog
 - §§ 22, 23 KUG — Recht am eigenen Bild
 - §§ 823 Abs. 1, 1004 BGB i.V.m. Art. 2 Abs. 1, 1 Abs. 1 GG — Persoenlichkeitsrechtsverletzung
-- §§ 195, 199 BGB — Verjaehrung 3 Jahre; § 102 UrhG spezielle Verjährungsregel
+- §§ 195, 199 BGB — Verjährung 3 Jahre; § 102 UrhG spezielle Verjährungsregel
 - LPG (jeweiliges Bundesland) — Gegendarstellungsanspruch
 - § 43a Abs. 4 BRAO, § 3 BORA — Interessenkonflikt
 - §§ 10 ff. GwG — Identifizierungspflicht
@@ -73,9 +73,9 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Vollmacht
-- Ggf. Sondervollmacht fuer DPMA-Schiedsstelle-Verfahren (VGG) oder beA-Einreichung
+- Ggf. Sondervollmacht für DPMA-Schiedsstelle-Verfahren (VGG) oder beA-Einreichung
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Urheber- und Medienrecht:
 
@@ -130,7 +130,7 @@ Mit freundlichen Gruessen
 [KANZLEI / NAME]
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ```
 Schritt 1: Frist identifizieren
@@ -156,7 +156,7 @@ Schritt 6: E-Mail-Zusammenfassung binnen 48 h an Mandanten
 | Reaktion auf Abmahnung | 7-14 Tage (Abmahnfrist) | § 97a UrhG |
 | Gegendarstellung | 2-3 Monate ab Kenntnis | LPG (landesrechtl.) |
 | Widerspruch einstweilige Verfuegung | 14 Tage § 924 ZPO | § 924 ZPO |
-| Verjaehrung Urheberrecht | 3 Jahre ab Kenntnis | §§ 195, 199 BGB; § 102 UrhG |
+| Verjährung Urheberrecht | 3 Jahre ab Kenntnis | §§ 195, 199 BGB; § 102 UrhG |
 | Einstweilige Verfuegung (aktiv) | max. 4 Wochen Kenntnis | Selbstwiderlegungsfrist OLG |
 
 ## Cross-Refs
@@ -194,7 +194,7 @@ Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppel
 8. Liegt der Verletzungszeitpunkt innerhalb der Verjährungsfrist (3 Jahre ab Kenntnis)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

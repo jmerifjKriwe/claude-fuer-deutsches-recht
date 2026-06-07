@@ -34,7 +34,7 @@ Das Datenschutzrecht hat im 20. Jh. in Deutschland besondere Entwicklungen genom
 - **BVerfG**: Volkszaehlungsurteil 1983 als Grundrechtsmeilenstein
 - **Bundesdatenschutzbeauftragter**: Aufsicht BDSG und DSGVO
 - **EU-Kommission und Parlament**: DSGVO-Gesetzgebung 2012-2016
-- **Landesbeauftragte fuer Datenschutz**: Aufsicht auf Laenderebene
+- **Landesbeauftragte für Datenschutz**: Aufsicht auf Länderebene
 
 ## Typische Streitfragen / Forschungsfragen
 
@@ -46,7 +46,7 @@ Das Datenschutzrecht hat im 20. Jh. in Deutschland besondere Entwicklungen genom
 
 ## Methodik
 
-- BDSG 1977: BGBl. I 1977, 201; ALEX/OeNB fuer historischen Wortlaut
+- BDSG 1977: BGBl. I 1977, 201; ALEX/OeNB für historischen Wortlaut
 - BVerfGE 65, 1: bverfg.de vollstaendig lesen
 - DSGVO: eur-lex.europa.eu (konsolidierte Fassung)
 - BDSG 2018: gesetze-im-internet.de

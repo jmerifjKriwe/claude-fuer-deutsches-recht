@@ -1,13 +1,13 @@
 ---
 name: europarecht-wirkung-behoerden-gericht-registerweg
-description: "Wirkung Behoerden Gericht Registerweg im Europarecht im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirkung Behörden Gericht Registerweg im Europarecht im Europarecht Kompass: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Wirkung Behoerden Gericht Registerweg
+# Wirkung Behörden Gericht Registerweg
 
 ## Arbeitsbereich
 
-**Wirkung Behoerden Gericht Registerweg** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
+**Wirkung Behörden Gericht Registerweg** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüfungslinien
 

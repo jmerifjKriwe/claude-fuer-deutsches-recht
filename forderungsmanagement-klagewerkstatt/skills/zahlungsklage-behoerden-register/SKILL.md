@@ -1,11 +1,11 @@
 ---
 name: zahlungsklage-behoerden-register
-description: "Hilfe bei Klagen gegen Behoerden und juristische Personen des oeffentlichen Rechts. Klaert Verwaltungsweg oder Zivilweg Klaegervertreter Vorverfahren Verfahrensart. Pinpoints VwGO 40 abgrenzbare oeffentlich-rechtliche Streitigkeit ZPO 253 fuer fiskalisches Handeln BGB 839 Amtshaftung. Liefert Routing und Schriftsatzhinweise."
+description: "Hilfe bei Klagen gegen Behörden und juristische Personen des öffentlichen Rechts. Klaert Verwaltungsweg oder Zivilweg Klaegervertreter Vorverfahren Verfahrensart. Pinpoints VwGO 40 abgrenzbare oeffentlich-rechtliche Streitigkeit ZPO 253 für fiskalisches Handeln BGB 839 Amtshaftung. Liefert Routing und Schriftsatzhinweise."
 ---
 
-# Zahlungsklage gegen Behoerden und juristische Personen oeffentlichen Rechts
+# Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts
 
-Klagen gegen die oeffentliche Hand sind nicht generell Verwaltungsgerichtssache. Es kommt auf die Natur des Anspruchs an.
+Klagen gegen die öffentliche Hand sind nicht generell Verwaltungsgerichtssache. Es kommt auf die Natur des Anspruchs an.
 
 ## Routing-Logik
 
@@ -25,9 +25,9 @@ Wenn die Stadt eine Maschine kauft und nicht zahlt liegt zivilrechtlicher Kaufpr
 
 Vor verwaltungsgerichtlicher Leistungsklage ist haeufig kein Vorverfahren noetig wenn es um Geldleistung geht. Bei Bescheidaufhebung mit Folgenbeseitigung anders VwGO 68.
 
-## Vertretung der Behoerde
+## Vertretung der Behörde
 
-Behoerden vertreten sich oft selbst durch eigenes Justitiariat. Zustellung an Anschrift der Behoerde nicht an den Behoerdenleiter persoenlich.
+Behörden vertreten sich oft selbst durch eigenes Justitiariat. Zustellung an Anschrift der Behörde nicht an den Behördenleiter persoenlich.
 
 ## Norm-Pinpoints
 

@@ -11,7 +11,7 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 
 | Zustand der Akte | Empfohlener Folgeskill | Alternative |
 |---|---|---|
-| Akte neu Schuldner privater Verbraucher Forderung dokumentiert | mahnung-aussergerichtlich-stufenmodell | mahnbescheid-online wenn Verjaehrung droht |
+| Akte neu Schuldner privater Verbraucher Forderung dokumentiert | mahnung-aussergerichtlich-stufenmodell | mahnbescheid-online wenn Verjährung droht |
 | Mahnung verstrichen Schuldner schweigt | mahnbescheid-online | zahlungsklage-erstellen wenn Streit erwartbar |
 | Mahnbescheid eingelegt Widerspruch | zahlungsklage-erstellen | inkasso-risikoampel zur Aussichtspruefung |
 | Vollstreckungsbescheid rechtskraeftig | vollstreckungsbescheid-folgen | zwangsvollstreckung-ueberblick |
@@ -39,7 +39,7 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 - ZPO 794 Vollstreckungstitel-Katalog
 - ZPO 808 Sachpfaendung
 - InsO 174 Forderungsanmeldung
-- BGB 195 Verjaehrung
+- BGB 195 Verjährung
 
 ## Quellen
 

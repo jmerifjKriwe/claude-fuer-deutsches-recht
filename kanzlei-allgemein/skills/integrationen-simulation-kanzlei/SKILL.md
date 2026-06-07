@@ -21,14 +21,14 @@ Prüft Kanzlei-Integrationen und führt Workflows im Simulationsmodus weiter. An
 1. Welche Integration ist konkret gemeint: E-Mail/Outlook, beA, Word, DMS, Buchhaltung, Fax, Messenger?
 2. Ist die Integration echt angeschlossen oder soll ein Simulationsmodus aktiv werden?
 3. Welche Daten duerfen in den Simulationsmodus eingegeben werden (Anonymisierung von Mandantendaten)?
-4. Soll der Simulationsmodus fuer Training, Demo oder als dauerhafter Fallback genutzt werden?
+4. Soll der Simulationsmodus für Training, Demo oder als dauerhafter Fallback genutzt werden?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- Art. 28 DSGVO — Auftragsverarbeitungsvertrag fuer externe Systemanbieter
-- Art. 32 DSGVO — Technisch-organisatorische Massnahmen auch fuer Simulationsumgebungen
+- Art. 28 DSGVO — Auftragsverarbeitungsvertrag für externe Systemanbieter
+- Art. 32 DSGVO — Technisch-organisatorische Massnahmen auch für Simulationsumgebungen
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch im Simulationsmodus mit echten Daten
 - § 203 StGB — Verletzung der Berufsgeheimnisse bei unerlaubter Datenweitergabe
 

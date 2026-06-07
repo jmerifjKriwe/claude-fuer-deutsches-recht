@@ -18,7 +18,7 @@ description: "Praxisbearbeitung zollrechtlicher Mandate — Tarifierung Art. 56 
 3. Liegt eine VZTA (verbindliche Zolltarifauskunft) vor?
 4. Greifen Anti-Dumping-Zoelle oder Ausgleichszoelle?
 5. Wurde Praeferenzursprung nachgewiesen (REX EUR.1 EUR-MED)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

@@ -100,7 +100,7 @@ E. BUCHFUEHRUNG
 [ ] Kontenrahmen festgelegt (SKR 03 / SKR 04)
 [ ] BWA-Form ausgewaehlt
 [ ] Belegtransfer-Verfahren vereinbart
-[ ] Zustaendigkeiten Sachbearbeiter
+[ ] Zuständigkeiten Sachbearbeiter
 
 F. LOHN (falls vereinbart)
 [ ] AN-Liste komplett
@@ -149,7 +149,7 @@ H. ESKALATION
 
 - Papier-Akte (falls noch verwendet) oder digital.
 - Strukturierte Ordner (Vertrag, Vollmachten, Stamm, Korrespondenz).
-- Wiedervorlage fuer Folgejahr.
+- Wiedervorlage für Folgejahr.
 
 ## Output
 
@@ -161,7 +161,7 @@ H. ESKALATION
 
 - Standardisierte Onboarding-Checkliste reduziert die Fehlerquote erheblich und schuetzt vor Haftungsfaellen (§ 67 StBerG).
 - Bei Mandanten mit Konzernstruktur: zentrale Datenkonsolidierung, Konzern-Vollmachten gebearbeitet erfassen.
-- Mandatsvereinbarung klar formulieren — definierter Leistungsumfang schuetzt beide Seiten und ist Voraussetzung fuer eine rechtssichere Honorarabrechnung nach StBVV.
+- Mandatsvereinbarung klar formulieren — definierter Leistungsumfang schuetzt beide Seiten und ist Voraussetzung für eine rechtssichere Honorarabrechnung nach StBVV.
 - BHV-Anzeige bei erkennbaren Risiken zeitnah (Haftungs-Praeventiv).
 - StBVV: Onboarding wahlweise als separater Auftrag nach § 13 StBVV (Beratungstaetigkeit), Pauschalvereinbarung nach § 14 StBVV oder als Teil der laufenden Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV Mandanten-Onboarding-Modul mit Checklistensystem; alternative kanzleieigene Checkliste im DMS.

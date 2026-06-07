@@ -1,13 +1,13 @@
 ---
 name: offshore-schiff-arrest-vorbereiten
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit für Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Offshore-Schiff – Schiffshypothek bestellen
 
 ## Arbeitsbereich
 
-Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit für Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,10 +18,10 @@ Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren b
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine Bank bestellt eine Hypothek auf ein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender als Sicherheit fuer einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
+Eine Bank bestellt eine Hypothek auf ein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
 ## Erste Schritte
-1. Eintragungsfaehigkeit des Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tenders pruefen; Eintragung im Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten bestaetigen.
+1. Eintragungsfaehigkeit des Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tenders pruefen; Eintragung im Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten bestaetigen.
 2. Sicherungsabrede aufsetzen: gesicherte Forderungen, Kuendigungsrechte, Cross-Default.
 3. Notarielle Hypothekenbestellungsurkunde nach SchRG §§ 8-18 erstellen.
 4. Vertretungsbefugnis des Eigentuemers pruefen; ggf. Handelsregisterauszug.
@@ -32,7 +32,7 @@ Eine Bank bestellt eine Hypothek auf ein Offshore-Versorgungsschiff (PSV/AHTS) o
 - HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee; SchRG § 31 Zubehoer-Mithaftung; SchRG § 75 Hoechstbetragshypothek; SchRegO §§ 13-19. Dynamic Positioning (DP)-Klasse; NORSOK-Standard; Offshore-Werkvertrag.
 
 ## Prüfraster
-- Ist das Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender im Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten eingetragen und eintragungsfaehig?
+- Ist das Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender im Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten eingetragen und eintragungsfaehig?
 - Ist die Sicherungsabrede vollstaendig und rechtswirksam?
 - Ist Zubehoer-Mithaftung (SchRG § 31) vertraglich gesichert?
 - Ist die notarielle Form eingehalten (SchRG § 17)?
@@ -40,7 +40,7 @@ Eine Bank bestellt eine Hypothek auf ein Offshore-Versorgungsschiff (PSV/AHTS) o
 
 ## Typische Fallstricke
 - Fehlende notarielle Form fuehrt zur Nichtigkeit der Hypothek (SchRG § 17).
-- Rang entsteht mit Antragstellung; fruehzeitig beim Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten-Gericht stellen.
+- Rang entsteht mit Antragstellung; fruehzeitig beim Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten-Gericht stellen.
 - Briefhypothek verliert Vollstreckungswert bei Verlust des Hypothekenbriefs.
 
 ## Output

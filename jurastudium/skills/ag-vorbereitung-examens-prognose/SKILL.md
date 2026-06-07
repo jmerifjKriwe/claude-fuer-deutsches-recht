@@ -18,7 +18,7 @@ AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. In welchem Fachgebiet findet die AG statt: Zivilrecht, Strafrecht, oeffentliches Recht?
+1. In welchem Fachgebiet findet die AG statt: Zivilrecht, Strafrecht, öffentliches Recht?
 2. Welches Thema oder welcher Fall steht auf dem AG-Plan?
 3. Wie viel Zeit bis zur AG — und welche Vorbereitung ist bisher erfolgt?
 4. Gibt es spezifische Fragen oder Schwachpunkte, die besonders geuebt werden sollen?
@@ -30,7 +30,7 @@ AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird
 - §§ 133, 157 BGB — Auslegung als AG-Dauerthema
 - § 280 Abs. 1 BGB — Schadensersatz: Standard-AG-Anspruch
 - §§ 32, 34 StGB — Notwehr/Notstand: AG-Klassiker Strafrecht
-- §§ 40, 42 VwGO — Rechtsweg und Klagearten: AG-Grundlage oeffentliches Recht
+- §§ 40, 42 VwGO — Rechtsweg und Klagearten: AG-Grundlage öffentliches Recht
 
 ## Quellenregel
 
@@ -51,7 +51,7 @@ Das Plugin sagt **nicht**, was der Dozent fragen wird – es bohrt die Fragen, d
 
 1. **Fall oder Thema** – als Text oder Stichworte
 2. **AG-Typ** – Grundstudium / Fortgeschrittenenübung / Examens-AG / Seminar
-3. **Lernprofil** (`~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`) → Fachsemester, Schwächen, Lernstil
+3. **Lernprofil** (`~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md`) → Fachsemester, Schwächen, Lernstil
 4. Optional: **bisherige Musterlösung** oder eigene Antwort zur Besprechung
 
 ## Ablauf

@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: "Steuerberaternahe Drei-Wochen-Liquiditaetsvorschau fuer § 17 InsO und § 102 StaRUG mit Wochenraster, Dokumentation und Quellenhygiene. Rechtsprechung nur nach Live-Pruefung."
+description: "Steuerberaternahe Drei-Wochen-Liquiditaetsvorschau für § 17 InsO und § 102 StaRUG mit Wochenraster, Dokumentation und Quellenhygiene. Rechtsprechung nur nach Live-Pruefung."
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)
@@ -15,7 +15,7 @@ description: "Steuerberaternahe Drei-Wochen-Liquiditaetsvorschau fuer § 17 InsO
 
 ## Fachkern: Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)
 
-- **Spezialfrage (Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)):** Steuerberaternahe Drei-Wochen-Liquiditaetsvorschau fuer § 17 InsO und § 102 StaRUG mit Wochenraster, Dokumentation und Quellenhygiene. Rechtsprechung nur nach Live-Pruefung.
+- **Spezialfrage (Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)):** Steuerberaternahe Drei-Wochen-Liquiditaetsvorschau für § 17 InsO und § 102 StaRUG mit Wochenraster, Dokumentation und Quellenhygiene. Rechtsprechung nur nach Live-Pruefung.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
 ## Powerplugin-Hinweis

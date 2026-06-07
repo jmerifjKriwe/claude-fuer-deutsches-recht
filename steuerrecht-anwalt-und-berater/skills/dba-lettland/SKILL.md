@@ -94,7 +94,7 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 - **Lettisches Distribution Tax seit 2018**: Wie Estland — Besteuerung nur bei Ausschuettung. Effektive Steuer 20/80 (= 20 Prozent vom Bruttogewinn) auf Ausschuettung — vom Anwender mit aktuellem LV-Steuerrecht zu verifizieren. CFC § 7 ff. AStG pruefen wegen niedriger effektiver Belastung bei Einbehaltung.
 - **AStG-Niedrigsteuer-Schwelle 15 Prozent**: bei lettischer SIA mit ueberwiegend einbehaltenen Gewinnen effektive Steuerquote nahe 0 — CFC obligatorisch.
-- **Pillar Two seit 2024**: LV hat umgesetzt — Top-Up auf 15 Prozent fuer Konzerne ueber 750 Mio EUR Umsatz.
+- **Pillar Two seit 2024**: LV hat umgesetzt — Top-Up auf 15 Prozent für Konzerne ueber 750 Mio EUR Umsatz.
 - **Logistik Hafen Riga und Ventspils**: bei Logistik-/Transport-Aktivitaeten BS-Pruefung — oft kommunale lettische Lizenzpflichten.
 - **MLI**: vom Anwender mit BMF-Verzeichnis zu verifizieren.
 - **§ 50d Abs. 3 EStG**: LV-Holdings ohne Substanz versagen Treaty-Schutz.
@@ -126,9 +126,9 @@ Bei Ausschuettung 2026 (Beispiel): LV-Distribution-Tax 20/80 = 50.000 EUR; an DE
 4. **Laufende Compliance**: LV-Erklaerung jaehrlich; DE-Erklaerung mit ggf. CFC-Hinzurechnung.
 5. **Audit-Vorbereitung**: bei LV-Pruefung Verrechnungspreis-Dokumentation; bei DE-FA-Pruefung CFC-Berechnung und Substanznachweis.
 
-## Ausgabeformat fuer Mandanten-Memo Lettland
+## Ausgabeformat für Mandanten-Memo Lettland
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (Mittelstand, IT, Logistik Riga, SIA), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, Distribution-Tax-System (seit 2018), CFC, Pillar Two.

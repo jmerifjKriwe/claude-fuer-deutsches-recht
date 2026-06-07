@@ -26,7 +26,7 @@ Augenscheinsbeweis ist die direkte Wahrnehmung einer Sache durch das Gericht. Ei
 - **§ 371 ZPO** — Augenscheinsbeweis.
 - **§ 371a ZPO** — Elektronische Dokumente.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Eignung pruefen
 
@@ -42,7 +42,7 @@ Augenscheinsbeweis sinnvoll, wenn:
 Beweis: Inaugenscheinnahme der defekten
 Waschmaschine (Marke X, Modell Y) am
 Wohnort des Klaegers, [Adresse], zum Beweis
-dafuer, dass das Geraet einen Wasserschaden
+dafür, dass das Geraet einen Wasserschaden
 und nicht-betriebsfaehige Trommel-Lagerung
 aufweist.
 ```

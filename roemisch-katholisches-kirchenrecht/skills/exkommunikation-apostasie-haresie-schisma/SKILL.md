@@ -9,6 +9,23 @@ description: "Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zureche
 
 Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache; CIC can. 751 und 1311-1399 und 1364; KKK 817-822 und 2089 und 1463; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Canones- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
+- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
+- `CIC can. 96` — Rechtsstellung der Getauften.
+- `CIC can. 1055 § 1` — Ehebegriff.
+- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
+- `CIC can. 1246 § 1` — Sonn- und Feiertage.
+- `CIC can. 1752` — salus animarum als Auslegungsziel.
+- `KKK 1776` — Gewissen.
+- `KKK 1783` — Gewissensbildung.
+- `KKK 2032` — kirchliche Morallehre.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,7 +75,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ### Schluesselcanones CIC 1983
 - **can. 751 CIC**: Definitionen — Haeresie (hartnackige Leugnung einer mit goettlichem und katholischem Glauben zu glaubenden Wahrheit), Apostasie (vollstaendige Aufgabe des christlichen Glaubens), Schisma (Verweigerung der Unterordnung unter den Papst oder Gemeinschaft mit den ihm unterstehenden Gliedern der Kirche).
-- **can. 1364 § 1 CIC** (Fassung Pascite Gregem Dei 2021): Latae sententiae-Exkommunikation fuer Apostat, Haeretiker, Schismatiker.
+- **can. 1364 § 1 CIC** (Fassung Pascite Gregem Dei 2021): Latae sententiae-Exkommunikation für Apostat, Haeretiker, Schismatiker.
 - **can. 1314 CIC**: Strafen sind grundsaetzlich ferendae sententiae; latae sententiae ist die Ausnahme und in den Kanones ausdruecklich genannt.
 
 ### Hauptfaelle der latae sententiae-Exkommunikation
@@ -69,7 +86,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ### Aufhebung der Exkommunikation
 - can. 1357 CIC: Im aussergerichtlichen forum internum kann jeder Beichtvater die latae sententiae-Tatstrafen, die nicht erklart sind, ihm Verzug aufschiebbar sind.
-- Vorbehaltene Faelle: dem Apostolischen Stuhl vorbehalten sind nach Vorgaben des Dikasteriums fuer die Glaubenslehre bestimmte Tatbestaende.
+- Vorbehaltene Faelle: dem Apostolischen Stuhl vorbehalten sind nach Vorgaben des Dikasteriums für die Glaubenslehre bestimmte Tatbestaende.
 
 ### Kirchenaustritt in Deutschland
 - Die rechtliche Wirkung des deutschen Kirchenaustritts ist umstritten. Die DBK-Erklaerung vom 20.09.2012 stellt klar: der staatliche Austritt ist ein Bruch der Kirchengemeinschaft mit weitreichenden Folgen (kein Eheempfang, kein katholisches Begraebnis, keine Sakramente, kein Patenamt).

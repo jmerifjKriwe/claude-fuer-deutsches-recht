@@ -1,9 +1,9 @@
 ---
 name: anhoerung-sozialverwaltungsverfahren-24-sgb-x
-description: "Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhoerungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhoerungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster."
+description: "Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster."
 ---
 
-# Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X
+# Anhörung Im Sozialverwaltungsverfahren 24 Sgb X
 
 ## Fachlicher Anker
 
@@ -18,13 +18,13 @@ description: "Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Skill le
 ## Ausnahmen § 24 Abs. 2 SGB X
 
 - Sofortige Entscheidung wegen Gefahr im Verzug.
-- Anhoerung wuerde die Frist gefaehrden.
+- Anhörung wuerde die Frist gefaehrden.
 - Massenverfahren mit gleichen Tatsachen.
 - Allgemeine Anordnung an unbestimmten Personenkreis.
 
 ## Was tun
 
-1. Anhoerungsschreiben aufmerksam lesen.
+1. Anhörungsschreiben aufmerksam lesen.
 2. Frist (regelmaessig 2-4 Wochen) im Fristenbuch notieren.
 3. Schriftliche Stellungnahme:
  - Bestaetigung was richtig ist.
@@ -33,20 +33,20 @@ description: "Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Skill le
  - Antrag auf Akteneinsicht stellen (siehe Skill `akteneinsicht-25-sgb-x`).
 4. Stellungnahme rechtzeitig per Einschreiben oder elektronisch einreichen.
 
-## Wenn Anhoerung unterblieben ist
+## Wenn Anhörung unterblieben ist
 
 - Verwaltungsakt formell rechtswidrig (§ 41 Abs. 1 Nr. 3 SGB X).
 - Heilung moeglich bis zum Abschluss des Widerspruchsverfahrens (§ 41 Abs. 2 SGB X) durch Nachholung.
-- Daher Anhoerungsmangel im Widerspruch ruegen und materiell verteidigen.
+- Daher Anhörungsmangel im Widerspruch ruegen und materiell verteidigen.
 
 ## Vorlage
 
-"In dem Verwaltungsverfahren zu Aktenzeichen [...] nehme ich zur Anhoerung Stellung wie folgt: [...] Ich beantrage Akteneinsicht und behalte mir vor weitere Beweisangebote nachzureichen."
+"In dem Verwaltungsverfahren zu Aktenzeichen [...] nehme ich zur Anhörung Stellung wie folgt: [...] Ich beantrage Akteneinsicht und behalte mir vor weitere Beweisangebote nachzureichen."
 
 ## Pruefraster
 
 1. Liegt belastender VA in Vorbereitung?
-2. Anhoerung erfolgt?
+2. Anhörung erfolgt?
 3. Ausnahme einschlaegig?
 4. Frist gewahrt?
 5. Stellungnahme abgegeben?

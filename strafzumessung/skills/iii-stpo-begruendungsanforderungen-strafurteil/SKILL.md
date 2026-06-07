@@ -19,7 +19,7 @@ Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StP
 
 ## Worum geht es?
 
-Das Strafurteil muss die **bestimmenden** Strafzumessungsgruende in seinen Gruenden mitteilen (§ 267 Abs. 3 Satz 1 StPO). Diese Begruendung ist Voraussetzung fuer die revisionsrechtliche Pruefung der Strafzumessung. Bei Versagung der Bewaehrung sind die Gruende ausdruecklich darzulegen (§ 267 Abs. 3 Satz 4 StPO).
+Das Strafurteil muss die **bestimmenden** Strafzumessungsgruende in seinen Gruenden mitteilen (§ 267 Abs. 3 Satz 1 StPO). Diese Begruendung ist Voraussetzung für die revisionsrechtliche Pruefung der Strafzumessung. Bei Versagung der Bewaehrung sind die Gruende ausdruecklich darzulegen (§ 267 Abs. 3 Satz 4 StPO).
 
 ## Wann brauchen Sie diese Skill?
 
@@ -64,7 +64,7 @@ III. Strafzumessung
 
  [Konkrete Tatsachen, z.B. Gestaendnis, Reue, TOA,
  Schadenswiedergutmachung, Erstverstoss, lange Verfahrens-
- dauer (Art. 6 EMRK), persoenliche Verhaeltnisse].
+ dauer (Art. 6 EMRK), persönliche Verhaeltnisse].
 
  b) Zulasten des Angeklagten
 
@@ -126,7 +126,7 @@ III. Strafzumessung
 
 - Art. 6 EMRK; Kompensation muss konkret bezeichnet werden (Vollstreckungsmodell).
 
-## Schritt-fuer-Schritt-Anleitung (Verteidigung / Revisionsruege)
+## Schritt-für-Schritt-Anleitung (Verteidigung / Revisionsruege)
 
 1. **Urteilsgruende** durchlesen, Strafzumessungsteil markieren.
 2. **Strafrahmen-Pruefung**: Hat das Gericht den richtigen Strafrahmen angegeben?
@@ -138,7 +138,7 @@ III. Strafzumessung
 8. **Tagessatzhoehe**: Begruendet?
 9. **Strafzumessungsruege** formulieren als Sachruege im Revisionsverfahren; bei Verfahrensfehler als Verfahrensruege.
 
-## Schritt-fuer-Schritt-Anleitung (Urteilsverfasser)
+## Schritt-für-Schritt-Anleitung (Urteilsverfasser)
 
 1. **Strafrahmen** explizit nennen.
 2. **§ 46 Abs. 2 StGB Katalog** abarbeiten: jede einschlaegige Tatsache mit Belegstelle der Beweisaufnahme.

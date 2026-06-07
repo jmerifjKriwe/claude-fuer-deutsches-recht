@@ -9,7 +9,7 @@ Ausgangslage: GmbH zahlt nicht, Forderung steht. Frage: kann der Gesellschafter 
 
 ## Grundsatz Trennungsprinzip § 13 Abs. 2 GmbHG
 
-GmbH haftet **allein mit ihrem Gesellschaftsvermoegen**. Gesellschafter haftet **nicht** persoenlich fuer Schulden der Gesellschaft. Das Stammkapital ist als Mindesthaftsumme (§ 5 Abs. 1 GmbHG: 25.000 EUR; UG 1 EUR).
+GmbH haftet **allein mit ihrem Gesellschaftsvermoegen**. Gesellschafter haftet **nicht** persoenlich für Schulden der Gesellschaft. Das Stammkapital ist als Mindesthaftsumme (§ 5 Abs. 1 GmbHG: 25.000 EUR; UG 1 EUR).
 
 ## Ausnahmen – wann haftet der Gesellschafter doch?
 
@@ -30,8 +30,8 @@ Klage: GmbH (in Insolvenz: Insolvenzverwalter) klagt gegen Gesellschafter.
 | Voraussetzung | Folge |
 |---|---|
 | Auszahlung an Gesellschafter | Pruefung § 30 GmbHG (Stammkapital-Auszehrung) |
-| Verstoss gegen Kapitalerhaltung | Rueckforderungsanspruch GmbH |
-| Verjaehrung | 10 Jahre § 31 Abs. 5 GmbHG |
+| Verstoss gegen Kapitalerhaltung | Rückforderungsanspruch GmbH |
+| Verjährung | 10 Jahre § 31 Abs. 5 GmbHG |
 
 Wirtschaftlicher Hintergrund: GmbH darf bei drohendem Unterschreiten des Stammkapitals nicht an Gesellschafter ausschuetten.
 
@@ -130,7 +130,7 @@ Es wird beantragt:
 - Klage gegen Gesellschafter ohne Anspruchsgrundlage neben § 13 Abs. 2 GmbHG.
 - Buergschaft formunwirksam (§ 766 BGB Schriftform).
 - Existenzvernichtenden Eingriff zu pauschal vorgetragen; Beweislast hoch.
-- Insolvenz uebersehen; danach nur Insolvenzverwalter aktivlegitimiert fuer Gesellschafteranspruch.
+- Insolvenz uebersehen; danach nur Insolvenzverwalter aktivlegitimiert für Gesellschafteranspruch.
 
 ## Quellen
 - GmbHG § 13 Trennungsprinzip [gesetze-im-internet.de/gmbhg/__13.html](https://www.gesetze-im-internet.de/gmbhg/__13.html)

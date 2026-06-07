@@ -13,7 +13,7 @@ description: "Dienstwagen 1-Prozent-Methode oder Fahrtenbuch. Anwendungsfall gel
 
 ## Kernsachverhalt
 
-Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, entsteht geldwerter Vorteil (Sachbezug). Zwei Berechnungsmethoden: 1-Prozent-Methode (pauschal 1 Prozent vom Bruttolistenpreis pro Monat) oder Fahrtenbuch (anteilig nach tatsaechlicher Privatnutzung). E-Autos und Hybride haben reduzierte Bemessungsgrundlage. Zusaetzlich gilt 0,03 Prozent fuer Fahrten Wohnung-Arbeit pro Entfernungskilometer.
+Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, entsteht geldwerter Vorteil (Sachbezug). Zwei Berechnungsmethoden: 1-Prozent-Methode (pauschal 1 Prozent vom Bruttolistenpreis pro Monat) oder Fahrtenbuch (anteilig nach tatsaechlicher Privatnutzung). E-Autos und Hybride haben reduzierte Bemessungsgrundlage. Zusaetzlich gilt 0,03 Prozent für Fahrten Wohnung-Arbeit pro Entfernungskilometer.
 
 ## Kaltstart-Rueckfragen
 
@@ -61,8 +61,8 @@ Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, ents
 ### Phase 2 — 1-Prozent-Methode
 
 - 1 Prozent des Bruttolistenpreises (auf volle 100 EUR abgerundet) pro Monat = Sachbezug Privatnutzung.
-- Plus 0,03 Prozent x Bruttolistenpreis x Entfernungskilometer fuer Fahrten Wohnung-Arbeit (oder 0,002 Prozent je tatsaechlich gefahrenem Arbeitsweg-Tag bei Einzelnachweis).
-- E-Auto (rein elektrisch, Bruttolistenpreis bis 70.000 EUR — Anhebung von 60.000 auf 70.000 EUR fuer Anschaffungen ab 01.01.2024 durch Wachstumschancengesetz, BGBl. 2024 I Nr. 108; aktuelles BMF-Schreiben pruefen): nur ein Viertel der Bemessungsgrundlage (0,25 Prozent statt 1 Prozent), entsprechend 0,0075 Prozent statt 0,03 Prozent fuer Wohnung-Arbeit.
+- Plus 0,03 Prozent x Bruttolistenpreis x Entfernungskilometer für Fahrten Wohnung-Arbeit (oder 0,002 Prozent je tatsaechlich gefahrenem Arbeitsweg-Tag bei Einzelnachweis).
+- E-Auto (rein elektrisch, Bruttolistenpreis bis 70.000 EUR — Anhebung von 60.000 auf 70.000 EUR für Anschaffungen ab 01.01.2024 durch Wachstumschancengesetz, BGBl. 2024 I Nr. 108; aktuelles BMF-Schreiben pruefen): nur ein Viertel der Bemessungsgrundlage (0,25 Prozent statt 1 Prozent), entsprechend 0,0075 Prozent statt 0,03 Prozent für Wohnung-Arbeit.
 - E-Auto ueber Listenpreis-Grenze: halbe Bemessungsgrundlage (0,5 Prozent statt 1 Prozent).
 - Plug-in-Hybrid: 0,5 Prozent bei Mindest-Reichweite oder CO2-Bedingungen (Voraussetzungen § 6 Abs. 1 Nr. 4 Satz 2 Nr. 3 ff. EStG; aktuelle Anforderungen in BMF-Schreiben pruefen).
 

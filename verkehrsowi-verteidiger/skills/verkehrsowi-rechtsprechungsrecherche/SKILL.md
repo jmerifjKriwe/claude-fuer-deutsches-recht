@@ -20,7 +20,7 @@ Rechtsprechungsrecherche für OWi-Verkehrsmandate: Anwalt sucht OLG-Entscheidung
 ## Triage zu Beginn
 
 1. **Konkrete Rechtsfrage?** — "Darf der Betroffene Rohmessdaten anfordern?" vs. "War die Eichung gueltig?" — Suchstrategien verschieden.
-2. **Gericht?** — OLG des jeweiligen Bundeslandes fuer Rechtsbeschwerde-Entscheidungen; BGH fuer grundsaetzliche Fragen; BVerfG fuer Grundrechtsfragen.
+2. **Gericht?** — OLG des jeweiligen Bundeslandes für Rechtsbeschwerde-Entscheidungen; BGH für grundsaetzliche Fragen; BVerfG für Grundrechtsfragen.
 3. **Verifikation Pflicht:** Aktenzeichen, Datum und Leitsatz vor Verwendung in offener Quelle (bundesverfassungsgericht.de, bundesgerichtshof.de, openjur.de, dejure.org) aufrufen — nicht aus Modellwissen.
 4. **Messgeraet-spezifische Rspr.?** — Fuer PoliScan, ESO, TraffiStar gibt es geraetespezifische OLG-Entscheidungen.
 
@@ -62,13 +62,13 @@ Alle Zitate vor Versand in offener Quelle (BGH-Datenbank, openjur.de, dejure.org
 ## Suchstrategien Datenbanken
 
 **juris:**
-- Normsuche: "§ 26 StVG" + "Verjaehrung" + "Verkehr"
+- Normsuche: "§ 26 StVG" + "Verjährung" + "Verkehr"
 - Normen-Kombination: "§ 25 StVG" + "Haertefall" + "Beruf"
 - Volltext: "Rohmessdaten" + "Verwertungsverbot"
 - Gericht-Filter: OLG + BVerfG; Zeitraum 2019-2024
 
 **beck-online:**
-- NZV durchsuchen (Neue Zeitschrift fuer Verkehrsrecht)
+- NZV durchsuchen (Neue Zeitschrift für Verkehrsrecht)
 - DAR durchsuchen (Deutsches Autorecht)
 - Themenfilter: Bussgeldbescheidverfahren
 
@@ -81,21 +81,21 @@ Alle Zitate vor Versand in offener Quelle (BGH-Datenbank, openjur.de, dejure.org
 
 | Abkuerzung | Zeitschrift |
 |-----------|------------|
-| NZV | Neue Zeitschrift fuer Verkehrsrecht |
+| NZV | Neue Zeitschrift für Verkehrsrecht |
 | DAR | Deutsches Autorecht |
 | NZV-RR | NZV-Rechtsprechungs-Report |
 | VRS | Verkehrsrechts-Sammlung |
 | NJW | Neue Juristische Wochenschrift |
-| NStZ | Neue Zeitschrift fuer Strafrecht |
-| zfs | Zeitschrift fuer Schadensrecht |
+| NStZ | Neue Zeitschrift für Strafrecht |
+| zfs | Zeitschrift für Schadensrecht |
 
-## Schritt-fuer-Schritt-Recherche-Workflow
+## Schritt-für-Schritt-Recherche-Workflow
 
 1. **Rechtsfrage praezisieren:** "Kann Betroffener Rohmessdaten verlangen?"
 2. **Normenkette aufbauen:** Art. 103 GG, § 77 OWiG, § 49 OWiG, § 147 StPO.
 3. **Datenbanksuche mit Normen:** "Art. 103 GG Rohmessdaten OWi".
 4. **Verifikation in offener Quelle:** BVerfG-Datenbank (bundesverfassungsgericht.de), BGH-Datenbank, openjur.de, dejure.org; bei Bundesländern: nrwe.de, justiz.hessen.de, justiz.bayern.de etc. — niemals Modellwissen.
-5. **Kernaussage paraphrasieren** fuer Schriftsatz.
+5. **Kernaussage paraphrasieren** für Schriftsatz.
 6. **Vollstaendiges Zitat:** Gericht + Datum + Az + Fundstelle + Randnummer wenn vorhanden.
 
 ## Harte Leitplanken

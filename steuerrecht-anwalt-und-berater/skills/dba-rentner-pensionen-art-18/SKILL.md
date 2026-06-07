@@ -15,7 +15,7 @@ description: "Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzel
 
 ## Kernsachverhalt
 
-Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht fuer Ruhegehaelter aus frueherer unselbstaendiger Taetigkeit. Bei oeffentlichem Dienst (Art. 19) regelmaessig Kassenstaat (zahlender Staat). Viele DBA enthalten Sonderregelungen: gesetzliche Sozialversicherungsrenten teils Kassenstaat-Prinzip, betriebliche Renten teils Wohnsitzstaat, Schwellenbetraege (z.B. DBA-Niederlande, DBA-Schweiz). Praxisrelevant fuer ausgewanderte Rentner (Mallorca, Algarve, Tuerkei, Schweiz, Oesterreich) und im Ausland erworbene Renten bei Wohnsitz Deutschland.
+Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht für Ruhegehaelter aus frueherer unselbstaendiger Taetigkeit. Bei öffentlichem Dienst (Art. 19) regelmaessig Kassenstaat (zahlender Staat). Viele DBA enthalten Sonderregelungen: gesetzliche Sozialversicherungsrenten teils Kassenstaat-Prinzip, betriebliche Renten teils Wohnsitzstaat, Schwellenbetraege (z.B. DBA-Niederlande, DBA-Schweiz). Praxisrelevant für ausgewanderte Rentner (Mallorca, Algarve, Tuerkei, Schweiz, Oesterreich) und im Ausland erworbene Renten bei Wohnsitz Deutschland.
 
 ## Kaltstart-Rueckfragen
 
@@ -32,7 +32,7 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 
 ### Primaernormen
 - **Art. 18 OECD-MA** (Ruhegehaelter aus privater Taetigkeit).
-- **Art. 19 OECD-MA** (oeffentlicher Dienst, Kassenstaat).
+- **Art. 19 OECD-MA** (öffentlicher Dienst, Kassenstaat).
 - **§ 22 Nr. 1 EStG** — Besteuerung Renten und Pensionen.
 - **§ 22 Nr. 5 EStG** — Riester/Rurup.
 - **§ 49 Abs. 1 Nr. 7 EStG** — beschraenkte Steuerpflicht deutscher Pensionen bei Wohnsitz Ausland.
@@ -59,10 +59,10 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 | Oesterreich | Wohnsitzstaat |
 | Niederlande | Schwelle im DBA Art. 17 normiert (in der Praxis 15.000 EUR/Jahr; massgebend ist Art. 17 DBA-NL 2012) — Quellenstaat ueber Schwelle; konkrete Schwelle im DBA-Text pruefen |
 | Tuerkei | Wohnsitzstaat oder Kassenstaat — **konkret pruefen** |
-| USA | Wohnsitzstaat; Pension Protection im Protokoll 2006 fuer IRA/401(k) |
+| USA | Wohnsitzstaat; Pension Protection im Protokoll 2006 für IRA/401(k) |
 | Kanada | Wohnsitzstaat; RRSP/RRIF separat |
 
-### Beamtenpension (oeffentlicher Dienst)
+### Beamtenpension (öffentlicher Dienst)
 
 - Regelmaessig **Kassenstaat-Prinzip** Art. 19 (Staat, der zahlt).
 - Ausnahme: bei Ansaessigkeit und Staatsangehoerigkeit des Wohnsitzstaats — Wohnsitzstaat.
@@ -120,11 +120,11 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **Rentenbezugsmitteilung der DRV anfordern**: bei Wohnsitz Ausland uebermittelt DRV automatisch dem zustaendigen Finanzamt Neubrandenburg (RiA — Renten im Ausland). Mandant darauf vorbereiten; ohne Erklaerung Schaetzungsbescheid.
-- **Antrag auf beschraenkte Steuerpflicht** beim FA Neubrandenburg (Renten im Ausland) — zustaendig fuer alle Auslandsrentner mit deutschen Renten. Online-Formular ueber bzst.de bzw. ELSTER-Portal; vom Anwender mit aktueller FA-Neubrandenburg-Webseite zu verifizieren.
+- **Rentenbezugsmitteilung der DRV anfordern**: bei Wohnsitz Ausland uebermittelt DRV automatisch dem zuständigen Finanzamt Neubrandenburg (RiA — Renten im Ausland). Mandant darauf vorbereiten; ohne Erklaerung Schaetzungsbescheid.
+- **Antrag auf beschraenkte Steuerpflicht** beim FA Neubrandenburg (Renten im Ausland) — zuständig für alle Auslandsrentner mit deutschen Renten. Online-Formular ueber bzst.de bzw. ELSTER-Portal; vom Anwender mit aktueller FA-Neubrandenburg-Webseite zu verifizieren.
 - **Ansaessigkeitsbescheinigung des Wohnsitzstaats**: spanisches "certificado de residencia fiscal", portugiesische "atestado de residencia fiscal", italienische "attestato di residenza fiscale" — Bearbeitung im Heimatstaat oft 4-8 Wochen, vor Erstmeldung bei FA Neubrandenburg vorhalten.
 - **NHR-Status Portugal**: Bescheinigung des portugiesischen FA (AT — Autoridade Tributaria) ueber NHR-Status mitsenden — sonst droht § 50d Abs. 9 EStG-Rueckfall zur deutschen Anrechnung.
-- **Antrag auf Veranlagung nach § 1 Abs. 3 EStG (fiktive unbeschraenkte Steuerpflicht)** bei Auslandswohnsitz pruefen — kann fuer Rentner mit ueberwiegend deutschen Einkuenften vorteilhaft sein (Grundfreibetrag, Splittingtarif).
+- **Antrag auf Veranlagung nach § 1 Abs. 3 EStG (fiktive unbeschraenkte Steuerpflicht)** bei Auslandswohnsitz pruefen — kann für Rentner mit ueberwiegend deutschen Einkuenften vorteilhaft sein (Grundfreibetrag, Splittingtarif).
 - **Originalbelege Rentenbescheinigung**: bei Beamtenpension Lohnsteuerbescheinigung Versorgungstraeger; bei DRV-Rente Rentenanpassungsmitteilung. Bei betrieblicher Pension: Bezuegemitteilung Pensionskasse.
 - **Schwellenregelung Niederlande**: bei Ueberschreitung der DBA-Schwelle (in der Praxis 15.000 EUR/Jahr; konkret im DBA-NL 2012 Art. 17 pruefen) Quellenstaat Niederlande — Erklaerungspflicht in NL.
 
@@ -133,7 +133,7 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Wegzug nach Portugal mit NHR vs. Spanien | NHR: 10-Jahres-Pauschalsteuer auf Auslandsrenten 10 Prozent (CIRS-Reform 2024 ff. — aktuell pruefen) | Spanien: progressive Steuer, aber niedrigeres Sozialleben | Sachverhalt durchrechnen; § 50d Abs. 9 EStG-Risiko Portugal pruefen |
-| Beschraenkte Steuerpflicht vs. fiktive unbeschraenkte (§ 1 Abs. 3 EStG) | beschraenkt: nur deutsche Einkuenfte, kein Grundfreibetrag fuer Renten | fiktive unbeschraenkt: voll, mit Grundfreibetrag, Splittingtarif (mit Ehegatte) | bei Renten > 90 Prozent der Einkuenfte in DE Pfad B oft vorteilhaft |
+| Beschraenkte Steuerpflicht vs. fiktive unbeschraenkte (§ 1 Abs. 3 EStG) | beschraenkt: nur deutsche Einkuenfte, kein Grundfreibetrag für Renten | fiktive unbeschraenkt: voll, mit Grundfreibetrag, Splittingtarif (mit Ehegatte) | bei Renten > 90 Prozent der Einkuenfte in DE Pfad B oft vorteilhaft |
 | Wohnsitz behalten in DE vs. aufgeben | Welteinkommen besteuert, Splittingtarif | beschraenkte Steuerpflicht; Subject-to-Tax-Risiko | bei Familie/Vermoegen in DE meist behalten; bei reinem Auslandsleben aufgeben |
 | Beamtenpension Wegzug mitnehmen vs. nicht | Wegzug — Pension immer DE besteuert (Kassenstaat) | Bleiben | bei Pension > Lebenshaltungskosten Ausland: Wegzug, aber DE-Steuerbescheid bleibt |
 | US-IRA/401(k) ausgezahlt vor Wegzug vs. nach | vor Wegzug: USA-QSt + DE-Welteinkommen | nach Wegzug: nur USA-QSt (Pension Protection Protokoll 2006) | Pension Protection regelmaessig vorteilhaft — Auszahlungs-Timing planen |
@@ -145,7 +145,7 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 - **Schwellenregelung Niederlande oder Tuerkei uebersehen** — Pension oberhalb Schwelle nicht im richtigen Quellenstaat erklaert.
 - **Nachgelagerte Besteuerung nicht berechnet**: Versorgungsanteil pro Jahr (vom Anwender mit aktueller Tabelle Alterseinkuenftegesetz zu verifizieren), Rentenfreibetrag.
 - **§ 49 Abs. 1 Nr. 7 EStG fehlt** in der Erklaerung — beschraenkte Steuerpflicht falsch.
-- **Anlage R-AUS und Anlage AUS verwechselt** — R-AUS fuer auslaendische Rente bei DE-Wohnsitz; AUS fuer Anrechnung auslaendischer Steuer.
+- **Anlage R-AUS und Anlage AUS verwechselt** — R-AUS für auslaendische Rente bei DE-Wohnsitz; AUS für Anrechnung auslaendischer Steuer.
 - **Sozialversicherungsrente vs. Beamtenpension nicht abgegrenzt** — unterschiedliche DBA-Behandlung.
 
 ## Konkretes Berechnungsbeispiel: Rentner mit Wohnsitz Spanien, DRV-Rente

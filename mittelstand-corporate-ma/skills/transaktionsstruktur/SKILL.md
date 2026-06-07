@@ -42,7 +42,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
 
 Benötigte Unterlagen:
 - aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
@@ -119,7 +119,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung. Bewertet steuerliche, haftungsrechtliche, regulatorische und zeitliche Implikationen.
+Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung. Bewertet steuerliche, haftungsrechtliche, regulatorische und zeitliche Implikationen.
 
 ## Triage — klaere vor Strukturentscheidung
 
@@ -132,10 +132,10 @@ Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Ventu
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 311-312 UmwG — Ausgliederung zur Neugründung; erleichterte Variante fuer Carve-outs
+- §§ 311-312 UmwG — Ausgliederung zur Neugründung; erleichterte Variante für Carve-outs
 - §§ 2-38 UmwG — Verschmelzung; §§ 123-137 UmwG — Spaltung; §§ 190-213 UmwG — Formwechsel
 - § 15 Abs. 3 GmbHG — notarielle Beurkundung des Share Deal (GmbH-Anteile)
-- §§ 433 ff. BGB — kaufrechtliche Grundlage des Asset Deal; keine Formvorschrift fuer bewegliche Sachen (aber notarielle Beurkundung bei Grundstueckseinschluss § 311b BGB)
+- §§ 433 ff. BGB — kaufrechtliche Grundlage des Asset Deal; keine Formvorschrift für bewegliche Sachen (aber notarielle Beurkundung bei Grundstueckseinschluss § 311b BGB)
 - § 613a BGB — Betriebsuebergang bei Asset Deal; Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes
 - §§ 1-11 UmwStG — steuerliche Behandlung von Umwandlungen; §§ 20-24 UmwStG — Einbringung und Anteilstausch
 - § 8c KStG — Verlustuntergang bei schaedlichem Anteilserwerb (mehr als 50 % innerhalb von fuenf Jahren)
@@ -148,9 +148,9 @@ Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Ventu
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
-1. **Zielobjekt klaren:** Wirtschaftsguetern, Anteile, Teilbetrieb, Holding-Beteiligung — massgeblich fuer Strukturentscheidung
+1. **Zielobjekt klaren:** Wirtschaftsguetern, Anteile, Teilbetrieb, Holding-Beteiligung — massgeblich für Strukturentscheidung
 2. **Strukturmatrix erstellen:** Share Deal vs. Asset Deal vs. Umwandlung — je: Steuer, Haftung, Form, Genehmigungen, Timing, Kosten
 3. **Carve-out pruefen:** Ist Zielgesellschaft bereits separat? Muss Ausgliederung (§§ 311 UmwG) oder internes Reorganisationsschritt vorgelagert werden?
 4. **Change-of-Control-Klauseln kartieren:** SPA-Garantien, Material Adverse Change-Klausel, Lender-Consent, Lizenzvertraege — bei Asset Deal: Einzeluebertragungszustimmungen

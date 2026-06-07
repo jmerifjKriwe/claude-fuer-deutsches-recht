@@ -12,7 +12,7 @@ description: "Buergergeld Ueberbrueckungsgeld Dokumenten im Selbstvertretung am 
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `buergergeld-ueberbrueckungsgeld` | Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift fuer Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster. |
+| `buergergeld-ueberbrueckungsgeld` | Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift für Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster. |
 | `dokumenten-erzeugung-pdf-laien-sozialgericht` | PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse. |
 | `dolmetscher-beim-sozialgericht-laien` | Dolmetscher beim SG nach § 185 GVG. Kostenfrei für Buerger mit Sprachschwierigkeiten. Antrag muendliche Verhandlung Gebaerdensprache. |
 | `dsgvo-art-15-auskunft-sozialakte` | DSGVO Artikel 15 Auskunft zur Sozialakte. Skill erklaert das Auskunftsrecht ueber gespeicherte personenbezogene Daten beim Sozialleistungstraeger Verhaeltnis zu § 25 SGB X Akteneinsicht Frist Form Kostenfreiheit und Beschwerde bei Aufsichtsbehoerde. Liefert Vorlage. |
@@ -29,7 +29,7 @@ description: "Buergergeld Ueberbrueckungsgeld Dokumenten im Selbstvertretung am 
 
 ## 1. `buergergeld-ueberbrueckungsgeld`
 
-**Fokus:** Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift fuer Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster.
+**Fokus:** Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift für Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster.
 
 # Buergergeld Ueberbrueckungsgeld
 
@@ -64,9 +64,9 @@ Haftentlassener hat unmittelbar nach Entlassung Anspruch auf Existenzsicherung.
 
 ## Schnittstelle
 
-- Jobcenter zustaendig bei Erwerbsfaehigkeit.
+- Jobcenter zuständig bei Erwerbsfaehigkeit.
 - Sozialamt bei Erwerbsunfaehigkeit.
-- Wenn Wohnsitz unklar: oertliche Zustaendigkeit nach § 36 SGB II klaeren.
+- Wenn Wohnsitz unklar: oertliche Zuständigkeit nach § 36 SGB II klaeren.
 
 ## Pruefraster
 
@@ -80,10 +80,10 @@ Haftentlassener hat unmittelbar nach Entlassung Anspruch auf Existenzsicherung.
 
 **Fokus:** PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse.
 
-# PDFs erzeugen — Schritt fuer Schritt
+# PDFs erzeugen — Schritt für Schritt
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `PDFs erzeugen — Schritt fuer Schritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `PDFs erzeugen — Schritt für Schritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -92,7 +92,7 @@ Haftentlassener hat unmittelbar nach Entlassung Anspruch auf Existenzsicherung.
 
 ## Worum geht es?
 
-Fuer MJP (Mein Justizpostfach) brauchen Sie PDFs. Auch Mails und viele Behoerden wollen PDFs. Diese Skill zeigt, wie Sie PDFs erstellen — auch ohne teure Software.
+Fuer MJP (Mein Justizpostfach) brauchen Sie PDFs. Auch Mails und viele Behörden wollen PDFs. Diese Skill zeigt, wie Sie PDFs erstellen — auch ohne teure Software.
 
 ## In einfacher Sprache
 
@@ -108,14 +108,14 @@ PDF ist ein Datei-Format. Damit koennen Sie Dokumente sicher versenden. Auch ohn
 
 - **PDF**: "Portable Document Format" — eine sichere Datei, die ueberall gleich aussieht.
 - **Scannen**: Papier in eine Datei verwandeln.
-- **OCR**: Texterkennung (selten noetig fuer SG).
+- **OCR**: Texterkennung (selten noetig für SG).
 
 ## Rechtsgrundlagen
 
 - **§ 65a SGG** — Elektronische Einreichung.
 - Verwaltungsvorschriften des MJP.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Word zu PDF
 
@@ -256,7 +256,7 @@ Sie sprechen kein gutes Deutsch. Oder Sie sind gehoerlos. Sie haben Recht auf ei
 ## Fachbegriffe (kurz erklaert)
 
 - **Dolmetscher**: Person, die uebersetzt.
-- **Gebaerdensprache**: Sprache fuer Gehoerlose.
+- **Gebaerdensprache**: Sprache für Gehoerlose.
 - **§ 185 GVG**: Recht auf Sprachmittler.
 
 ## Rechtsgrundlagen
@@ -265,7 +265,7 @@ Sie sprechen kein gutes Deutsch. Oder Sie sind gehoerlos. Sie haben Recht auf ei
 - **§ 191a GVG** — Schriftliche Uebersetzung von Urteilen.
 - **§ 110 SGG i.V.m. GVG** — Anwendbarkeit beim SG.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Antrag stellen
 
@@ -282,7 +282,7 @@ Sehr geehrte Damen und Herren,
 
 ich beherrsche die deutsche Sprache nicht ausreichend. Meine Muttersprache ist [Sprache].
 
-Ich beantrage, fuer den Termin am [Datum] sowie fuer die Untersuchung beim Sachverstaendigen am [Datum] einen Dolmetscher fuer [Sprache] zu bestellen.
+Ich beantrage, für den Termin am [Datum] sowie für die Untersuchung beim Sachverstaendigen am [Datum] einen Dolmetscher für [Sprache] zu bestellen.
 
 Mit freundlichen Gruessen
 ```
@@ -295,8 +295,8 @@ Mit freundlichen Gruessen
 ### Schritt 3 — Im Termin
 
 - Dolmetscher sitzt neben Ihnen oder am Tisch.
-- Uebersetzt alles fuer Sie.
-- Sie sprechen in Ihrer Muttersprache, Dolmetscher uebersetzt fuer das Gericht.
+- Uebersetzt alles für Sie.
+- Sie sprechen in Ihrer Muttersprache, Dolmetscher uebersetzt für das Gericht.
 
 ### Schritt 4 — Kosten
 
@@ -304,7 +304,7 @@ Sie zahlen nichts. Staatskasse uebernimmt.
 
 ### Schritt 5 — Bei schriftlichen Unterlagen
 
-Schriftliche Uebersetzung des Urteils oder anderer Schriftstuecke ist eingeschraenkter. Aber: § 191a GVG sieht das fuer Schwerhoerige / Gehoerlose vor.
+Schriftliche Uebersetzung des Urteils oder anderer Schriftstuecke ist eingeschraenkter. Aber: § 191a GVG sieht das für Schwerhoerige / Gehoerlose vor.
 
 ### Schritt 6 — Selbst mitgebrachter Dolmetscher
 
@@ -323,7 +323,7 @@ Sagen Sie sofort: "Ich habe das nicht verstanden, bitte langsamer." Der Dolmetsc
 - **Sprache genau benennen** (Dialekt nennen, wenn relevant).
 - **Antrag fruehzeitig**: das Gericht muss Dolmetscher organisieren.
 - **Bei Aerzte-Untersuchungen**: ebenfalls Dolmetscher beantragen (Gericht muss organisieren).
-- **Gebaerdensprache** und Schriftdolmetscher fuer Gehoerlose anerkannt.
+- **Gebaerdensprache** und Schriftdolmetscher für Gehoerlose anerkannt.
 
 ## Typische Fehler
 
@@ -440,7 +440,7 @@ Manchmal ist es dringend. Sie brauchen Geld oder Hilfe sofort. Dann gibt es den 
 ## Fachbegriffe (kurz erklaert)
 
 - **Eilantrag**: Schneller Antrag, damit das Gericht vorlaeufig regelt.
-- **Aufschiebende Wirkung**: Eine Massnahme der Behoerde wird gestoppt, bis entschieden ist.
+- **Aufschiebende Wirkung**: Eine Massnahme der Behörde wird gestoppt, bis entschieden ist.
 - **Einstweilige Anordnung**: Das Gericht ordnet vorlaeufig etwas an (z.B. dass Sie Geld bekommen).
 - **Anordnungsanspruch**: Sie haben wahrscheinlich Recht in der Hauptsache.
 - **Anordnungsgrund**: Ohne sofortige Hilfe drohen schwere Nachteile.
@@ -452,7 +452,7 @@ Manchmal ist es dringend. Sie brauchen Geld oder Hilfe sofort. Dann gibt es den 
 - **§ 86a SGG** — Grundsatz: Widerspruch hat aufschiebende Wirkung; Ausnahmen z.B. § 39 SGB II.
 - **§ 920 ZPO analog** — Glaubhaftmachung von Anspruch und Grund.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Eilantrags-Art?
 
@@ -472,7 +472,7 @@ Wichtig: nicht beweisen, nur glaubhaft machen (eidesstattliche Versicherung reic
 
 ### Schritt 3 — Schriftsatz aufsetzen
 
-Beispiel fuer Buergergeld-Eilantrag:
+Beispiel für Buergergeld-Eilantrag:
 
 ```
 Sozialgericht [Ort] [Ort, Datum]
@@ -499,7 +499,7 @@ stelle ich folgende ANTRAEGE:
 
 2. Hilfsweise: Mir vorlaeufig einen Vorschuss in Hoehe des geltenden Regelbedarfs (Regelbedarfsstufe 1) zu gewaehren.
 
-3. Prozesskostenhilfe wird beantragt; eine Erklaerung ueber persoenliche und wirtschaftliche Verhaeltnisse liegt bei.
+3. Prozesskostenhilfe wird beantragt; eine Erklaerung ueber persönliche und wirtschaftliche Verhaeltnisse liegt bei.
 
 GRUENDE:
 
@@ -553,7 +553,7 @@ Das SG entscheidet meist innerhalb von 1 bis 4 Wochen. Bei akuten Faellen (Strom
 
 ## Typische Fehler
 
-- Eilantrag ans Jobcenter statt ans SG → SG ist zustaendig
+- Eilantrag ans Jobcenter statt ans SG → SG ist zuständig
 - Anordnungsgrund nicht konkret → "drohende Notlage" mit Zahlen und Daten belegen
 - Eidesstattliche Versicherung vergessen → immer beilegen
 - Hauptsache versaeumt (kein Widerspruch / Klage) → parallel laufen lassen

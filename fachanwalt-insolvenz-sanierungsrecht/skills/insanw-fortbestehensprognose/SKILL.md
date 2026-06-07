@@ -13,7 +13,7 @@ description: "Insanw Fortbestehensprognose im Insolvenz- und Sanierungsrecht: pr
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Insolvenz Sanierungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `insanw-fortbestehensprognose-workflow` | Fortbestehensprognose IDW S 11 / S 6: Datenraum, Integrierte Planung, Stresstests, Risikoinventur. Pruefraster fuer Geschaeftsleitung und Berater. Anschreiben Bank / Buergschaftsbank / PSD. |
+| `insanw-fortbestehensprognose-workflow` | Fortbestehensprognose IDW S 11 / S 6: Datenraum, Integrierte Planung, Stresstests, Risikoinventur. Pruefraster für Geschaeftsleitung und Berater. Anschreiben Bank / Buergschaftsbank / PSD. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-insolvenz-sanierungsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-insolvenz-sanierungsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-insolvenz-sanierungsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
@@ -182,7 +182,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## 2. `insanw-fortbestehensprognose-workflow`
 
-**Fokus:** Fortbestehensprognose IDW S 11 / S 6: Datenraum, Integrierte Planung, Stresstests, Risikoinventur. Pruefraster fuer Geschaeftsleitung und Berater. Anschreiben Bank / Buergschaftsbank / PSD.
+**Fokus:** Fortbestehensprognose IDW S 11 / S 6: Datenraum, Integrierte Planung, Stresstests, Risikoinventur. Pruefraster für Geschaeftsleitung und Berater. Anschreiben Bank / Buergschaftsbank / PSD.
 
 # InsAnw: Fortbestehensprognose-Workflow
 
@@ -198,13 +198,13 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 - **Normen-/Quellenanker:** IDW, PSD.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -232,7 +232,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

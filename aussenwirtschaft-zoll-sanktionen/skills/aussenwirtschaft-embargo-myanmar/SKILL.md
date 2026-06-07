@@ -20,16 +20,16 @@ EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistet
 ## Mandantenfall
 
 - Importeur bezieht Textilwaren aus Myanmar; Verbindung zu Militaer-nahem Unternehmen pruefen.
-- Bank erhalt Auftrag fuer Korrespondenz-Zahlung an burmesischen Staatskonzern.
-- Maschinenproduzent erhalt Anfrage aus Myanmar fuer Lieferung von Industrie-Equipment.
+- Bank erhalt Auftrag für Korrespondenz-Zahlung an burmesischen Staatskonzern.
+- Maschinenproduzent erhalt Anfrage aus Myanmar für Lieferung von Industrie-Equipment.
 
 ## Erste Schritte
 
 1. EU-Sanktionsliste Myanmar (VO 401/2013) und aktuelle Ergaenzungsverordnungen pruefen.
 2. Militaer-Verbindung des Unternehmens pruefen (Unternehmensregister, Eigentuemerstruktur).
 3. Waffenembargo und Rueustungsguter-Verbote pruefen (Anhang VO 401/2013).
-4. Sektorale Einschraenkungen fuer Treibstoff, Holz, Jade und Rubine pruefen.
-5. Finanzsanktionen und Bereitstellungsverbote fuer gelistete Personen pruefen.
+4. Sektorale Einschraenkungen für Treibstoff, Holz, Jade und Rubine pruefen.
+5. Finanzsanktionen und Bereitstellungsverbote für gelistete Personen pruefen.
 6. Dokumentation der Pruefung und Freigabe-/Sperrempfehlung.
 
 ## Rechtsrahmen
@@ -53,13 +53,13 @@ EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistet
 
 - Myanmar-Sanktionen wurden nach Coup 2021 massiv ausgeweitet; aeltere Prueflisten veraltet.
 - Militaer haelt Anteile an zahlreichen scheinbar zivilwirtschaftlichen Unternehmen.
-- Sektorale Verbote gelten auch fuer Handelsfinanzierung.
+- Sektorale Verbote gelten auch für Handelsfinanzierung.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -83,7 +83,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

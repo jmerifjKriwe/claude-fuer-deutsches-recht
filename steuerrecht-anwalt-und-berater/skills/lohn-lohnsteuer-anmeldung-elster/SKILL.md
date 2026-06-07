@@ -20,7 +20,7 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 1. Welcher Anmeldungszeitraum — monatlich, vierteljaehrlich, jaehrlich?
 2. Liegen alle Lohnabrechnungen vor?
 3. Sind pauschalierte Loehne (Minijob, § 37b, § 40a) zu beruecksichtigen?
-4. Welches Finanzamt ist zustaendig?
+4. Welches Finanzamt ist zuständig?
 5. Steuer-Nr des AG aktuell?
 6. Liegen Sondervergueteungen mit eigener Steuerklasse vor?
 7. Welche Korrekturen aus Vormonat (Berichtigung § 153 AO)?
@@ -54,7 +54,7 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 - Bruttoloehne aller AN.
 - LSt insgesamt.
 - KiSt insgesamt (Konfession der einzelnen AN).
-- SolZ insgesamt (SolZ entfaellt fuer Lohnsteuerpflichtige unterhalb der Freigrenze § 3 Abs. 3 SolZG seit 01.01.2021; ab 2025 Freigrenze 18.130 EUR ESt (Einzel) / 36.260 EUR (Zusammenveranlagung); Milderungszone bis Voll-SolZ; aktuelle Grenzen ueber SolZG-Fassung pruefen).
+- SolZ insgesamt (SolZ entfaellt für Lohnsteuerpflichtige unterhalb der Freigrenze § 3 Abs. 3 SolZG seit 01.01.2021; ab 2025 Freigrenze 18.130 EUR ESt (Einzel) / 36.260 EUR (Zusammenveranlagung); Milderungszone bis Voll-SolZ; aktuelle Grenzen ueber SolZG-Fassung pruefen).
 - Pauschal versteuerte Betraege (§ 40 Abs. 1 / Abs. 2 EStG, § 40a EStG, § 37b EStG).
 - KSt-Pauschalierung Aushilfen (§ 40a EStG): 25 Prozent (kurzfristig) oder 2 Prozent (Minijob, geht direkt an Knappschaft, nicht ueber LSt-Anmeldung).
 
@@ -107,7 +107,7 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 - Frist 10. des Folgemonats hart — bei wiederholten Verspaetungen Verspaetungszuschlag.
 - Pauschalierungs-Optionen pruefen (Minijob 2 Prozent vs. reguläre Lohnsteuer).
 - Bei Sondervergueteungen Fuenftel-Regelung § 34 EStG pruefen.
-- Bei Mehrfachbeschaeftigung des AN: Steuerklasse 6 fuer Folge-AG.
+- Bei Mehrfachbeschaeftigung des AN: Steuerklasse 6 für Folge-AG.
 - StBVV: ELSTER-Anmeldung in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS hat direkte ELSTER-Schnittstelle; bei Sicherheits-Zertifikaten regelmäßige Erneuerung.
 

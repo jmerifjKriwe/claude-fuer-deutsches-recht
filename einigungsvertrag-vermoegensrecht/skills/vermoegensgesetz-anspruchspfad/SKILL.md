@@ -3,7 +3,7 @@ name: vermoegensgesetz-anspruchspfad
 description: "Einigungsvertrag und Vermögensrecht: Vermögensgesetz Anspruchspfad. Vermögensgesetz Anspruchspfad im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Vermoegensgesetz Anspruchspfad
+# Vermögensgesetz Anspruchspfad
 
 ## Arbeitsbereich
 
@@ -19,7 +19,7 @@ Einigungsvertrag und Vermögensrecht: Vermögensgesetz Anspruchspfad. Vermögens
 
 ## Arbeitsauftrag
 
-Vermoegensgesetz Anspruchspfad wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+Vermögensgesetz Anspruchspfad wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
 
 ## Einstieg ohne Leerlauf
 

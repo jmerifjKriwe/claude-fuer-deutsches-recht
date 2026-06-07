@@ -34,7 +34,7 @@ Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Per
 
 ## Rechtsrahmen
 
-- **Art. 2 Abs. 1 VO (EU) 269/2014**: Bereitstellungsverbot fuer gelistete Personen und von ihnen kontrollierte Entitaeten.
+- **Art. 2 Abs. 1 VO (EU) 269/2014**: Bereitstellungsverbot für gelistete Personen und von ihnen kontrollierte Entitaeten.
 - **EU-Leitlinien zu Art. 2 VO 269/2014**: Interpretation der 50-%-Regel bei Eigentum/Kontrolle.
 - **VO (EU) 833/2014 Art. 11**: Eingefroren Gelder und Bereitstellungsverbot.
 - **§ 3 GwG**: UBO-Definition und Transparenzpflicht.
@@ -60,7 +60,7 @@ Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Per
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

@@ -21,8 +21,21 @@ Master Policy, Local Policy, admitted/non-admitted insurance, Claims Handling un
 
 Für Konzernprogramme mit deutschen und ausländischen Risiken.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 VVG` — Versicherungsvertrag.
+- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
+- `§ 28 VVG` — Obliegenheitsverletzung.
+- `§ 86 VVG` — Legalzession.
+- `§ 100 VVG` — Haftpflichtversicherung.
+- `§ 115 VVG` — Direktanspruch.
+- `§ 193 VVG` — Krankenversicherungspflicht.
+- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
+- `§ 294 VAG` — Missstandsaufsicht.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - Rom-I-VO für Rechtswahl und zwingende Versicherungs-/Aufsichtsnormen; Brüssel-Ia-VO für Gerichtsstand und Konzern-/Versicherungsgerichtsstände.
 - VVG für deutsche Versicherungsverträge, Obliegenheiten, Anzeige, Gefahrerhöhung, Leistungspflicht und Verjährung.
 - VAG und BaFin-Praxis für Erlaubnis-/Aufsichtsfragen, wenn ein ausländischer Versicherer deutsche Risiken zeichnet.

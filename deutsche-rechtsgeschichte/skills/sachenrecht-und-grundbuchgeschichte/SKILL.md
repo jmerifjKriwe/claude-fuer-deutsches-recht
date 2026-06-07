@@ -19,11 +19,11 @@ Deutsche Rechtsgeschichte: Sachenrecht und Grundbuchgeschichte. Preussisches Gru
 
 ## Worum es geht
 
-Das Grundbuchrecht entwickelte sich aus dem mittelalterlichen Stadtbuchwesen (Stadtbuecher als Eigentumsnachweis) und dem preussischen Hypothekenrecht (Preussisches Hypothekengesetz 1872). Das BGB 1900 schuf ein einheitliches Sachenrecht (BGB Buch III, §§ 854-1296) mit dem Eintragungsprinzip (§ 873 BGB: Eigentumsuebertragung an Grundstuecken nur mit Auflassung und Grundbucheintragung) und dem Publizitaetsprinzip. Das Grundbuch ist oeffentlicher Glaube (§ 892 BGB). Hypothek, Grundschuld und Rentenschuld sind die Sicherungsrechte. Im 20. Jh. praegten die Nichtauflassungsklauseln der DDR und die Restitutionsprobleme nach 1990 das Sachenrecht.
+Das Grundbuchrecht entwickelte sich aus dem mittelalterlichen Stadtbuchwesen (Stadtbuecher als Eigentumsnachweis) und dem preussischen Hypothekenrecht (Preussisches Hypothekengesetz 1872). Das BGB 1900 schuf ein einheitliches Sachenrecht (BGB Buch III, §§ 854-1296) mit dem Eintragungsprinzip (§ 873 BGB: Eigentumsuebertragung an Grundstuecken nur mit Auflassung und Grundbucheintragung) und dem Publizitaetsprinzip. Das Grundbuch ist öffentlicher Glaube (§ 892 BGB). Hypothek, Grundschuld und Rentenschuld sind die Sicherungsrechte. Im 20. Jh. praegten die Nichtauflassungsklauseln der DDR und die Restitutionsprobleme nach 1990 das Sachenrecht.
 
 ## Kernnormen / Kernquellen
 
-- **BGB § 873**: Einigung und Eintragung als Eigentumserwerbsakt fuer Grundstuecke
+- **BGB § 873**: Einigung und Eintragung als Eigentumserwerbsakt für Grundstuecke
 - **BGB § 892**: Oeffentlicher Glaube des Grundbuchs
 - **BGB §§ 1113-1190**: Hypothek
 - **BGB §§ 1191-1198**: Grundschuld
@@ -49,7 +49,7 @@ Das Grundbuchrecht entwickelte sich aus dem mittelalterlichen Stadtbuchwesen (St
 
 - BGB Sachenrecht: gesetze-im-internet.de; Mugdan Bd. III (1899)
 - GBO: gesetze-im-internet.de
-- PreussHypG 1872: ALEX/OeNB fuer historischen Originaltext
+- PreussHypG 1872: ALEX/OeNB für historischen Originaltext
 - BGH-Sachenrechtsentscheidungen: bgh.de (V. Zivilsenat)
 
 ## Output

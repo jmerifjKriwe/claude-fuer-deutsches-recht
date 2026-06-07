@@ -13,12 +13,12 @@ description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung 
 
 ## Kernsachverhalt
 
-Die Schwellenwerte fuer geringfuegige Beschaeftigung (Minijob) und Uebergangsbereich (Midi-Job) sind seit 01.10.2022 dynamisch an den Mindestlohn gekoppelt: Minijob-Grenze = 130-faches des Mindestlohnstundenlohns (~10 Wochenstunden). Bei jeder MiLo-Anhebung steigt die Minijob-Grenze. Der Steuerberater muss zu jedem Stichtag pruefen, welcher Wert aktuell gilt — Dokumentation in der Mandantenakte ist Pflicht.
+Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsbereich (Midi-Job) sind seit 01.10.2022 dynamisch an den Mindestlohn gekoppelt: Minijob-Grenze = 130-faches des Mindestlohnstundenlohns (~10 Wochenstunden). Bei jeder MiLo-Anhebung steigt die Minijob-Grenze. Der Steuerberater muss zu jedem Stichtag pruefen, welcher Wert aktuell gilt — Dokumentation in der Mandantenakte ist Pflicht.
 
 ## Kaltstart-Rueckfragen
 
 1. Welcher Stichtag wird betrachtet (Monatslohn-Zeitraum)?
-2. Welcher Mindestlohn-Wert ist amtlich fuer den Zeitraum?
+2. Welcher Mindestlohn-Wert ist amtlich für den Zeitraum?
 3. Liegt die Minijob-Grenze auf Basis der MiLo-Berechnung vor?
 4. Wann erfolgt die naechste MiLo-Anpassung (Mindestlohnkommission, Bundesregierung)?
 5. Welche Mandanten haben Minijobs in Grenzregion?

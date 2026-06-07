@@ -27,7 +27,7 @@ Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs.
 
 ## Worum es geht
 
-Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- und Finanzierungs-Alltag. M&A-Anwaelte denken in Vertragsrecht, doch § 19 Abs. 4 GmbHG ist zwingendes Kapitalaufbringungsrecht und bricht jede schuldrechtliche Konstruktion. Wer das uebersieht, erzeugt Differenzhaftung (§ 9 Abs. 1 GmbHG analog ueber § 19 Abs. 4 Satz 3 GmbHG) und im Insolvenzfall ein erhebliches Haftungsrisiko fuer die Geschaeftsfuehrung.
+Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- und Finanzierungs-Alltag. M&A-Anwaelte denken in Vertragsrecht, doch § 19 Abs. 4 GmbHG ist zwingendes Kapitalaufbringungsrecht und bricht jede schuldrechtliche Konstruktion. Wer das uebersieht, erzeugt Differenzhaftung (§ 9 Abs. 1 GmbHG analog ueber § 19 Abs. 4 Satz 3 GmbHG) und im Insolvenzfall ein erhebliches Haftungsrisiko für die Geschaeftsfuehrung.
 
 ## Kernregeln
 

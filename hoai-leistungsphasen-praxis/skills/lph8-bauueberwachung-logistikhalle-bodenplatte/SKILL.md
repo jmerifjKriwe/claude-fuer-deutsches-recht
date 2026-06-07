@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-logistikhalle-bodenplatte
-description: "Bauueberwachung nach HOAI LPH 8 fuer Logistikhallen mit hochbelasteten Industriebodenplatten — Freiflaechen-Beton nach DIN EN 13670 und TR Industrieboden, Ebenheitsanforderungen nach DIN 18202 Tabelle 3, Fugenloses Verlegen und Hartstoff-Einstreutechnik. Unterstuetzt Bauueberwacher bei Betongueteprotokollen, Ebenheitsmessungen und SAP-PM-Integration fuer Logistikbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Logistikhallen mit hochbelasteten Industriebodenplatten — Freiflaechen-Beton nach DIN EN 13670 und TR Industrieboden, Ebenheitsanforderungen nach DIN 18202 Tabelle 3, Fugenloses Verlegen und Hartstoff-Einstreutechnik. Unterstuetzt Bauueberwacher bei Betongueteprotokollen, Ebenheitsmessungen und SAP-PM-Integration für Logistikbetreiber im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Logistikhalle Bodenplatte (LPH 8)
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Logistikhallen mit hochbelasteten Industriebodenplatten — Freiflaechen-Beton nach DIN EN 13670 und TR Industrieboden, Ebenheitsanforderungen nach DIN 18202 Tabelle 3, Fugenloses Verlegen und Hartstoff-Einstreutechnik. Unterstuetzt Bauueberwacher bei Betongueteprotokollen, Ebenheitsmessungen und SAP-PM-Integration fuer Logistikbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 für Logistikhallen mit hochbelasteten Industriebodenplatten — Freiflaechen-Beton nach DIN EN 13670 und TR Industrieboden, Ebenheitsanforderungen nach DIN 18202 Tabelle 3, Fugenloses Verlegen und Hartstoff-Einstreutechnik. Unterstuetzt Bauueberwacher bei Betongueteprotokollen, Ebenheitsmessungen und SAP-PM-Integration für Logistikbetreiber. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -44,7 +44,7 @@ Hochregal-Gabelstapler erfordern eine Ebenheit von max. 2 mm/2 m, die beim Beton
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
 - DIN EN 13670 Ausfuehrung von Tragwerken aus Beton: Ueberwachungsklasse UK2
 - DIN 18202 Toleranzen im Hochbau: Tabelle 3 Ebenheit Bodenflaechen
-- DIN 1045-2 Beton: Festigkeitsklassen, Dauerhaftigkeitsanforderungen XM2 fuer Logistikboeden
+- DIN 1045-2 Beton: Festigkeitsklassen, Dauerhaftigkeitsanforderungen XM2 für Logistikboeden
 - TR Industrieboden (Technische Regel Betonbauteile Industrieboeden): Faserbewehrung, Fugenplanung
 
 ## Prueferaster und Kontrollpunkte

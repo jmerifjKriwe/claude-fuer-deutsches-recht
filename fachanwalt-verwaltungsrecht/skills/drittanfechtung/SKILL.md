@@ -206,7 +206,7 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 6. Liegen Glaubhaftmachungsmittel vor — eidesstattliche Versicherung, ärztliche Atteste, Urkunden?
 7. Ist die Vorwegnahme der Hauptsache zu besorgen — wenn ja, erhöhte Anforderungen an Erfolgsaussicht und Dringlichkeit?
 8. Welches Gericht ist zuständig — VG des Behördensitzes, OVG, BVerwG (NABEG/EnLAG)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -294,7 +294,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Einstweiliger Rechtsschutz nach VwGO beantragen | Eilantragsschriftsatz nach Pruefschema; Template unten |
 | Variante A — Interessenabwaegung spricht gegen Erfolg | Folgenabwaegung statt summarischer Pruefung in den Vordergrund |
-| Variante B — Behoerde wuerde Vollziehung freiwillig aussetzen | Anfrage bei Behoerde zuerst; Gericht nur wenn Behoerde ablehnt |
+| Variante B — Behörde wuerde Vollziehung freiwillig aussetzen | Anfrage bei Behörde zuerst; Gericht nur wenn Behörde ablehnt |
 | Variante C — Eilrechtsschutz erfolglos war Hauptsache laeuft | Hauptsacheklage parallel weiter fuehren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -450,7 +450,7 @@ Es wird beantragt, die aufschiebende Wirkung wiederherzustellen.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

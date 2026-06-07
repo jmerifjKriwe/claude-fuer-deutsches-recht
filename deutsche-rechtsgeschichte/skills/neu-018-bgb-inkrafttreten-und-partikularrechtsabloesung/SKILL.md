@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung. Die 
 
 ## Aufgabe
 
-Skill fuer das Inkrafttreten des BGB **01.01.1900** und die Abloesung der Partikularrechte.
+Skill für das Inkrafttreten des BGB **01.01.1900** und die Abloesung der Partikularrechte.
 
 ## Eckdaten
 
@@ -29,7 +29,7 @@ Skill fuer das Inkrafttreten des BGB **01.01.1900** und die Abloesung der Partik
 
 ## Partikularrechte vor BGB
 
-- **ALR** (Allgemeines Landrecht fuer die Preussischen Staaten 1794).
+- **ALR** (Allgemeines Landrecht für die Preussischen Staaten 1794).
 - **Code civil** (linksrheinisch).
 - **Gemeines Recht** (Sachsen-Anhalt, Hannover, Wuerttemberg, Hessen-Darmstadt etc.) — roemisch-gemeines Recht.
 - **Saechsisches BGB** 1865.
@@ -42,11 +42,11 @@ Skill fuer das Inkrafttreten des BGB **01.01.1900** und die Abloesung der Partik
 - Art. 1: Inkrafttreten 01.01.1900.
 - Art. 4: Vorrang Bundesrecht.
 - Art. 55: Aufhebung der Landesgesetze, "soweit nicht in diesem Gesetz oder in dem BGB ein Anderes bestimmt ist".
-- Art. 56-152: Vorbehalte fuer Landesrecht in bestimmten Bereichen.
+- Art. 56-152: Vorbehalte für Landesrecht in bestimmten Bereichen.
 - Art. 153-184: Uebergangsbestimmungen.
-- Art. 218: ALR-Erbrecht bleibt fuer Faelle vor 1900.
+- Art. 218: ALR-Erbrecht bleibt für Faelle vor 1900.
 
-## Vorbehalt fuer Landesrecht
+## Vorbehalt für Landesrecht
 
 - Notarrecht.
 - Wasserrecht.

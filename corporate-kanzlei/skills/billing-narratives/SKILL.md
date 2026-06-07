@@ -28,7 +28,7 @@ Typische Auslöser:
 Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-für-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
 
 Benötigte Unterlagen:
 - Mandats-/Gesellschaftsprofil, Organigramm, Rollenmatrix und Eskalationskette.
@@ -107,7 +107,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. Honorarvereinbarung: Stundenhonorar (haefig bei M&A), Pauschalhonorar, Cap, Success Fee?
 2. Rechnungsempfaenger: Mandant direkt, Finanzierer (Financing Bank), PE-Fonds?
-3. E-Rechnung-Pflicht (seit 2025 fuer B2B ab bestimmter Groesse; §§ 14 ff. UStG)?
+3. E-Rechnung-Pflicht (seit 2025 für B2B ab bestimmter Groesse; §§ 14 ff. UStG)?
 4. Welche Workstreams werden einzeln abgerechnet: Legal DD, SPA, Regulatory, W&I?
 5. Vertraulichkeit: Darf die Narrative Details offenbaren oder nur pauschal beschreiben?
 6. Budget-Abweichung: Ist der Rahmen ueberschritten? Mandant fruehzeitig informieren?
@@ -118,7 +118,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 14, 14a UStG** — Rechnungsausstellung; E-Rechnung-Pflicht ab 2025 (B2B)
 - **§§ 3a, 4 BORA** — Vergaeregelung; transparente Abrechnung
 - **§ 675 BGB** — Auftragsverhaeltnis; Auslagenpflicht; Rechenschaftspflicht
-- **GoBD (Grundsaetze ordnungsmaessiger Buchfuehrung)** — elektronische Rechnungsarchivierung
+- **GoBD (Grundsaetze ordnungsmäßiger Buchfuehrung)** — elektronische Rechnungsarchivierung
 
 ## Aktuelle Rechtsprechung
 
@@ -136,19 +136,19 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 | Phase | Mustertextbaustein |
 |---|---|
-| DD-Phase | "Analyse der Vertragsdokumentation im Datenraum (Workstream: Wesentliche Vertraege); Pruefung Change-of-Control-Klauseln fuer 28 Vertraege; Red-Flag-Memo-Beitrag Corporate/Litigation" |
+| DD-Phase | "Analyse der Vertragsdokumentation im Datenraum (Workstream: Wesentliche Vertraege); Pruefung Change-of-Control-Klauseln für 28 Vertraege; Red-Flag-Memo-Beitrag Corporate/Litigation" |
 | SPA-Phase | "Verhandlung Haftungsklauseln §§ 8-11 SPA; Markup-Runde 3; Abstimmung W&I-Wording mit Underwriter-Beratern; interne Koordination mit Steuerberatern" |
 | Regulatory | "Vorbereitung und Einreichung Fusionskontrollantrag beim Bundeskartellamt; Beantwortung Ruckfragen Phase I (Schreiben vom [Datum]); Koordination mit Mandant und Investmentbank" |
 | Closing | "Vorbereitung Closing-Checkliste; Review aller Deliverables; Closing-Meeting Koordination; Notartermin Begleitung" |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Zeitererfassung nach Workstream** — taeglich; keine monatliche Nacherfassung
 2. **Narrative-Qualitaet pruefen** — mandantentaugliche Beschreibung; kein anwaltliches Privileg gefaehrden
 3. **Budget-Tracking** — woechentlich; Warnung bei >80 % verbraucht
 4. **Phasenrechnung erstellen** — nach Signing, nach Closing, oder monatlich nach Vereinbarung
 5. **Review durch Kanzlei-Finance** — Konsistenz; E-Rechnung-Format; MwSt-Hinweis
-6. **Versand mit Mandanten-Beziehungspflege** — kurze Erlaeuterung der Leistungen; offen fuer Rueckfragen
+6. **Versand mit Mandanten-Beziehungspflege** — kurze Erlaeuterung der Leistungen; offen für Rueckfragen
 
 ## Output-Template Rechnungsnarrativ (Ausschnitt)
 
@@ -173,7 +173,7 @@ Partner [NAME]: [h] x EUR [Stundensatz] = EUR [Betrag]
 
 Senior Associate [NAME]: [h] x EUR [Stundensatz] = EUR [Betrag]
  Narrative: "DD-Workstream Vertraege: Pruefung und Indexierung 47 Vertraege;
- Q&A-Bearbeitung 12 Fragen; SPA-Reps-Mapping fuer Material-Contracts-Warranty"
+ Q&A-Bearbeitung 12 Fragen; SPA-Reps-Mapping für Material-Contracts-Warranty"
 
 Summe Phase DD: EUR [Betrag] netto
 Mehrwertsteuer 19 %: EUR [Betrag]

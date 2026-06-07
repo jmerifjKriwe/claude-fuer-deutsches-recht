@@ -30,11 +30,11 @@ Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sankt
 3. Kommunikationspausse bis erste rechtliche Einschaetzung vorliegt.
 4. Behoerdliche Kommunikation (BAFA, Zoll, StA) separat von Medienkommunikation koordinieren.
 5. Key-Message entwickeln: transparent, korrektiv, kooperativ.
-6. Q&A fuer alle erwarteten Pressefragen vorbereiten; Social-Media-Monitoring einrichten.
+6. Q&A für alle erwarteten Pressefragen vorbereiten; Social-Media-Monitoring einrichten.
 
 ## Rechtsrahmen
 
-- **§ 193 StGB**: Rechtfertigungsgrund fuer Medienartikel (Abgrenzung); kein Erstattungsrecht.
+- **§ 193 StGB**: Rechtfertigungsgrund für Medienartikel (Abgrenzung); kein Erstattungsrecht.
 - **§ 22 Abs. 4 AWG**: Strafmilderung bei freiwilliger Offenlegung; Kommunikation anpassen.
 - **DSGVO Art. 5**: Datenschutz bei Pressemitteilungen ueber Personen.
 - **§ 37 StPO**: Schweigerecht; Mitarbeiter nicht zur Aussage an Presse drangen.
@@ -52,7 +52,7 @@ Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sankt
 ## Typische Fallstricke
 
 - Vorschnelle Aussagen in Medien koennen Strafverfolgung eskalieren oder Schuldanerkenntnis enthalten.
-- Medienkommunikation und Behoerdenkommunikation muessen konsistent sein.
+- Medienkommunikation und Behördenkommunikation muessen konsistent sein.
 - Mitarbeiter geben ohne Anweisung Interviews; einheitliche Sprachregelung noetig.
 - 'Kein Kommentar' kann fehlinterpretiert werden; Formulierungsalternative vorbereiten.
 
@@ -60,7 +60,7 @@ Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sankt
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Krisenhandbuch-Gliederung, Q&A-Vorlage, Pressemitteilungs-Erstfassung, Behoerden-Kommunikationsplan und Social-Media-Anweisung.
+Krisenhandbuch-Gliederung, Q&A-Vorlage, Pressemitteilungs-Erstfassung, Behörden-Kommunikationsplan und Social-Media-Anweisung.
 
 ## Quellen
 

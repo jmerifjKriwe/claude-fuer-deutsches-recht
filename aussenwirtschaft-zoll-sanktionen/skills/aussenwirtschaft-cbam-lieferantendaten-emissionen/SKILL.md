@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-cbam-lieferantendaten-emissionen
-description: "Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten: Anforderungen an Drittland-Produzenten fuer Berechnung eingebetteter direkter und indirekter Emissionen nach VO (EU) 2023/956. Lieferanten-Datenanforderung, Verifizierung durch akkreditierten Prufer und Notfallszenarien (Standardwerte). Output: Lieferanten-Datenanforderungspaket und Emissionsverifikationsprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten: Anforderungen an Drittland-Produzenten für Berechnung eingebetteter direkter und indirekter Emissionen nach VO (EU) 2023/956. Lieferanten-Datenanforderung, Verifizierung durch akkreditierten Prufer und Notfallszenarien (Standardwerte). Output: Lieferanten-Datenanforderungspaket und Emissionsverifikationsprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CBAM-Lieferantendaten: Emissionsermittlung beim Produzenten
 
 ## Arbeitsbereich
 
-Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten: Anforderungen an Drittland-Produzenten fuer Berechnung eingebetteter direkter und indirekter Emissionen nach VO (EU) 2023/956. Lieferanten-Datenanforderung, Verifizierung durch akkreditierten Prufer und Notfallszenarien (Standardwerte). Output: Lieferanten-Datenanforderungspaket und Emissionsverifikationsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten: Anforderungen an Drittland-Produzenten für Berechnung eingebetteter direkter und indirekter Emissionen nach VO (EU) 2023/956. Lieferanten-Datenanforderung, Verifizierung durch akkreditierten Prufer und Notfallszenarien (Standardwerte). Output: Lieferanten-Datenanforderungspaket und Emissionsverifikationsprotokoll. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten:
 
 - Importeur muss Lieferanten in Indien zur Emissionsoffenlegung auffordern; wie formulieren?
 - Hersteller in der Tuerkei liefert keine vollstaendigen Emissionsdaten; Standardwerte zwingend?
-- Mehrere Lieferanten fuer gleiche Ware liefern unterschiedliche Emissionswerte; Pruefmethodologie klaeren.
+- Mehrere Lieferanten für gleiche Ware liefern unterschiedliche Emissionswerte; Pruefmethodologie klaeren.
 
 ## Erste Schritte
 
@@ -35,9 +35,9 @@ Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten:
 ## Rechtsrahmen
 
 - **Anhang IV VO (EU) 2023/956**: Methodik zur Berechnung eingebetteter Emissionen.
-- **Art. 10 VO (EU) 2023/956**: Verifizierungspflicht fuer Drittlandsanlagen.
+- **Art. 10 VO (EU) 2023/956**: Verifizierungspflicht für Drittlandsanlagen.
 - **VO (EU) 2023/1773 Anhang IX**: Standardwerte bei fehlenden Anlagendaten.
-- **ISO 14064**: Internationale Norm fuer Treibhausgasmessungen als Referenz.
+- **ISO 14064**: Internationale Norm für Treibhausgasmessungen als Referenz.
 - **Art. 35 Abs. 4 VO (EU) 2023/956**: Meldepflichten bei Unklarheit der Emissionsdaten.
 
 ## Pruef-Raster
@@ -60,7 +60,7 @@ Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten:
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

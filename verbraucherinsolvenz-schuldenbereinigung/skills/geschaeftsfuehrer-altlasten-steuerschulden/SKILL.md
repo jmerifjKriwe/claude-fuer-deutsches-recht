@@ -12,9 +12,9 @@ description: "Geschaeftsfuehrer Altlasten Steuerschulden im Plugin Verbraucherin
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `geschaeftsfuehrer-altlasten` | Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.; Normanker: InsO § 304; AO §§ 69 und 34; § 266a StGB; § 15a InsO; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `steuerschulden-und-strafsteuer` | Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.; Normanker: InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `abschluss-und-neustart` | Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.; Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `geschaeftsfuehrer-altlasten` | Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.; Normanker: InsO § 304; AO §§ 69 und 34; § 266a StGB; § 15a InsO; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `steuerschulden-und-strafsteuer` | Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.; Normanker: InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `abschluss-und-neustart` | Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.; Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ description: "Geschaeftsfuehrer Altlasten Steuerschulden im Plugin Verbraucherin
 
 ## 1. `geschaeftsfuehrer-altlasten`
 
-**Fokus:** Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.; Normanker: InsO § 304; AO §§ 69 und 34; § 266a StGB; § 15a InsO; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.; Normanker: InsO § 304; AO §§ 69 und 34; § 266a StGB; § 15a InsO; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.
 
@@ -66,7 +66,7 @@ InsO § 304; AO §§ 69, 34; § 266a StGB; § 15a InsO. Entscheidend ist immer d
 
 ## 2. `steuerschulden-und-strafsteuer`
 
-**Fokus:** Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.; Normanker: InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.; Normanker: InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.
 
@@ -105,7 +105,7 @@ InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.. Entscheidend ist immer der aktu
 
 ## 3. `abschluss-und-neustart`
 
-**Fokus:** Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.; Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.; Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.
 

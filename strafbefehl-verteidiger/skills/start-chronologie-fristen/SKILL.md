@@ -165,7 +165,7 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - **Tagessatz** — Einheit der Geldstrafe; Hoehe richtet sich nach Nettoeinkommen des Taeters (ein Dreissigstel des monatlichen Nettoeinkommens, § 40 StGB).
 - **Pflichtverteidiger** — vom Gericht beigeordneter Verteidiger bei notwendiger Verteidigung nach § 140 StPO.
 - **Wiedereinsetzung** — Wiederherstellung einer versaeumten Einspruchsfrist bei fehlendem Verschulden (§ 44 StPO).
-- **Verstaendigung** — Absprache nach § 257c StPO; bindend fuer das Gericht bei Gestaendnis und Zustimmung aller Beteiligten.
+- **Verstaendigung** — Absprache nach § 257c StPO; bindend für das Gericht bei Gestaendnis und Zustimmung aller Beteiligten.
 
 ## Rechtsgrundlagen
 
@@ -180,7 +180,7 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - §§ 40-43 StGB — Geldstrafe, Tagessatz, Ersatzfreiheitsstrafe
 - § 257c StPO — Verstaendigung im Strafverfahren
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Ist der Strafbefehl bereits zugegangen? Wann genau?
 2. Phase des Mandats bestimmen: Vor Einspruchsfrist-Ablauf (sofortige Fristensicherung), nach Einspruch (Strategie), Hauptverhandlung oder Urteil?
@@ -194,7 +194,7 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - `strafbefehl-aktenanlage` — Neue Mandatsakte mit Fristen, Vollmacht und Beweismittelverzeichnis anlegen.
 - `strafbefehl-fristen-einspruch` — Einspruchsfrist nach § 410 StPO berechnen und Einspruchsentwurf erstellen.
 - `strafbefehl-inhalt-409-pruefung` — Strafbefehl auf Pflichtinhalt nach § 409 StPO und Nichtigkeitsgruende pruefen.
-- `strafbefehl-zulaessigkeit-407` — Zulaessigkeitsvoraussetzungen (nur Vergehen, Sanktionskatalog, Zustaendigkeit) pruefen.
+- `strafbefehl-zulaessigkeit-407` — Zulaessigkeitsvoraussetzungen (nur Vergehen, Sanktionskatalog, Zuständigkeit) pruefen.
 - `strafbefehl-akteneinsicht-147` — Akteneinsicht nach § 147 StPO beantragen und Versagungsgruende pruefen.
 - `strafbefehl-tagessaetze-geldstrafe` — Tagessatzhoehe und Geldstrafe nach §§ 40 ff. StGB berechnen und anfechten.
 - `strafbefehl-nebenfolgen-fahrerlaubnis` — Fahrerlaubnisentzug (§ 69 StGB) und Fahrverbot (§ 44 StGB) pruefen und haertere Folgen abwenden.
@@ -207,7 +207,7 @@ Das Plugin unterstuetzt Strafverteidiger beim gesamten Verteidigungsablauf: von 
 - `strafbefehl-hauptverhandlung-vorbereitung` — Hauptverhandlung nach § 411 StPO vorbereiten: Beweisantraege, Einlassung, Schlussvortrag.
 - `strafbefehl-abwesenheit-vertretung` — Entbindung von Erscheinungspflicht nach § 411 Abs. 2 StPO und Vertretung des Mandanten.
 - `strafbefehl-zeugen-befragungsstrategie` — Belastungszeugen erschuettern und Entlastungszeugen foerdern in der Hauptverhandlung.
-- `strafbefehl-rechtsprechungsrecherche` — BGH- und OLG-Rechtsprechung zu §§ 407-412 StPO fuer Schriftsaetze recherchieren.
+- `strafbefehl-rechtsprechungsrecherche` — BGH- und OLG-Rechtsprechung zu §§ 407-412 StPO für Schriftsaetze recherchieren.
 - `strafbefehl-rechtsmittel-nach-urteil` — Berufung (§ 312 StPO) und Revision (§ 333 StPO) nach Urteil in der Hauptverhandlung.
 - `strafbefehl-quality-gate` — Abschluss-Pruefung vor Einspruch-Versand, vor Hauptverhandlung oder nach Urteil.
 

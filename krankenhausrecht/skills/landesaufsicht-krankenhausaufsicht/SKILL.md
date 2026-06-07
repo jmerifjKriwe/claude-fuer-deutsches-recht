@@ -30,19 +30,19 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 - Was ist Gegenstand (Hygiene, Personal, Bauzustand, MDK-Strukturpruefung, OP-Bereich, Patientensicherheit)?
 - Liegt eine schriftliche Beanstandung mit Frist und Rechtsbehelfsbelehrung vor?
 - Welche Folgemassnahmen drohen (Auflage, Bussgeld, Schliessung)?
-- Wurden Anhoerungs- und Verteidigungsrechte gewahrt?
+- Wurden Anhörungs- und Verteidigungsrechte gewahrt?
 
 ## Rechtlicher Rahmen
 - **Landeskrankenhausgesetze** (z. B. § 32 ff. KHGG NRW, BayKrG, GKKG BW) — Aufsichtskompetenzen.
-- **VwVfG / Landes-VwVfG §§ 28, 35 ff., 48, 49** Verwaltungsakte, Anhoerung.
+- **VwVfG / Landes-VwVfG §§ 28, 35 ff., 48, 49** Verwaltungsakte, Anhörung.
 - **IfSG §§ 23, 36** Hygieneueberwachung durch Land/Gesundheitsamt.
 - **SGB V § 137** Qualitaetssicherung.
-- **KHG § 8** Versorgungsauftrag und Foerderungsvoraussetzungen.
+- **KHG § 8** Versorgungsauftrag und Förderungsvoraussetzungen.
 - **VwGO §§ 42, 80** Klagen und einstweiliger Rechtsschutz.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Aufsichtsbehoerde und Anlass identifizieren:** Routineprueung, Beschwerde, MD-Bericht, Vorfall?
-2. **Anhoerung wahrnehmen:** Sachverhaltsdarstellung, Gegendarstellung, Sachverstaendigenstellungnahme.
+2. **Anhörung wahrnehmen:** Sachverhaltsdarstellung, Gegendarstellung, Sachverstaendigenstellungnahme.
 3. **Bescheid pruefen:** Auflage, Anordnung, Bussgeld, Schliessungsdrohung; Ermessen und Verhaeltnismaessigkeit.
 4. **Frist sichern:** Widerspruch (wenn vorgesehen) oder Klage binnen 1 Monat.
 5. **Massnahmen umsetzen:** Auflagen erfuellen, Nachweis fuehren, Aufsichtsdialog suchen.
@@ -52,27 +52,27 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 
 | Massnahme Aufsicht | Reaktion | Risiko |
 |---|---|---|
-| Beanstandung mit Frist | Anhoerungsstellungnahme + Plan | i. d. R. heilbar |
+| Beanstandung mit Frist | Anhörungsstellungnahme + Plan | i. d. R. heilbar |
 | Anordnung mit Sofortvollzug | einstweiliger Rechtsschutz | Verfahrensdauer |
 | Bussgeld | Einspruch (OWiG) | Bestaetigung droht |
 | Schliessungsdrohung | Klage + Eil-Antrag | existenzielle Wirkung |
 
 ## Praxistipps
-- Anhoerung ist zentrale Phase — fruehzeitig substanziell stellungnehmen, Sachverstaendige einsetzen.
+- Anhörung ist zentrale Phase — fruehzeitig substanziell stellungnehmen, Sachverstaendige einsetzen.
 - Aufsichtsdialog meist konstruktiver als Eskalation; Auflagen erfuellen und dokumentieren.
 - Bei Sofortvollzug § 80 Abs. 2, 5 VwGO der einzige Weg gegen sofortige Wirksamkeit.
 - Hygienevorfaelle, Personalmaengel, OP-Komplikationen interne Ursachenanalyse + Korrekturplan, das ueberzeugt die Aufsicht.
 - Schliessungsanordnung ist Ultima Ratio; oft milder Mittel (Teilschliessung, Auflagen) durchsetzbar.
 
 ## Mustertexte
-**Stellungnahme auf Anhoerung:**
+**Stellungnahme auf Anhörung:**
 > Sehr geehrte Damen und Herren, zu Ihrer Beanstandung vom [Datum] nehmen wir wie folgt Stellung. Die festgestellten Maengel sind teilweise abgestellt: 1. … (Belege Anlage A). Verbleibende Massnahmen erfolgen bis [Frist]. Wir bitten von belastenden Anordnungen abzusehen und um Aufsichtsdialog.
 
 **Klage VG mit Eilantrag:**
 > Klageantrag: Der Bescheid vom [Datum] wird aufgehoben. Eilantrag § 80 Abs. 5 VwGO: Die aufschiebende Wirkung der Klage wird wiederhergestellt. Begruendung: 1. Bescheid ist rechtswidrig (Sachverhalt, Ermessensfehler) … 2. Aussetzungsinteresse ueberwiegt …
 
 ## Typische Fehler
-- Anhoerung formelhaft beantwortet — Sachverhalt nicht widerlegt.
+- Anhörung formelhaft beantwortet — Sachverhalt nicht widerlegt.
 - Frist Widerspruch/Klage versaeumt — Bestandskraft.
 - Sofortvollzug uebersehen — Massnahme wird umgesetzt.
 - Aufsichtsdialog verweigert — Eskalation zur Schliessungsanordnung.
@@ -86,7 +86,7 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 - `triage-notaufnahme-ueberlastung-dokumentation`
 
 ## Quellen Stand 06/2026
-- Landeskrankenhausgesetze 16 Laender (Live-Check Landesministerien).
+- Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
 - Landes-VwVfG / Bundes-VwVfG §§ 28, 35 ff., 48, 49.
 - IfSG §§ 23, 36.
 - BVerwG, staend. Rspr. zu Aufsichtsmassnahmen und Verhaeltnismaessigkeit.

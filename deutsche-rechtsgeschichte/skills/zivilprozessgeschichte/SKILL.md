@@ -9,6 +9,23 @@ description: "Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozes
 
 Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
+- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
+- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
+- `Art. 125 GG` — Fortgeltung als Bundesrecht.
+- `Art. 126 GG` — Meinungsverschiedenheiten ueber Fortgeltung.
+- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
+- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
+- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
+- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
+- `§ 3 VermG` — Rückübertragung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -33,12 +50,12 @@ Der Zivilprozess entwickelte sich aus der territorialen Gerichtsbarkeit der Einz
 
 - **Adolf Wach** (1843-1926): ZPO-Kommentator, Lehre vom Rechtsschutzbeduerftnis
 - **Leo Rosenberg** (1879-1963): Lehrbuch des deutschen Zivilprozessrechts
-- **BGH**: Rechtsprechung zur ZPO, praegend fuer Auslegung
+- **BGH**: Rechtsprechung zur ZPO, praegend für Auslegung
 - **Bundesjustizministerium**: ZPO-Reformen, laufende Anpassungen
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. Eventualitaetsmaxime: War ihre Beseitigung ein Gewinn fuer die Prozessgerechtigkeit?
+1. Eventualitaetsmaxime: War ihre Beseitigung ein Gewinn für die Prozessgerechtigkeit?
 2. Muendlichkeitsgrundsatz: Wie weit ist er heute noch verwirklicht?
 3. ZPO-Reform 2002: Hat die Staerkung der ersten Instanz die Gerichte entlastet?
 4. Kosten des Zivilprozesses: Zugang zum Recht vs. Prozessfinanzierer
@@ -59,4 +76,4 @@ Der Zivilprozess entwickelte sich aus der territorialen Gerichtsbarkeit der Einz
 
 ## Quellenregel
 
-ZPO: gesetze-im-internet.de. Historische ZPO-Fassungen: ALEX/OeNB. BGH: bgh.de. BGBl. fuer Novellentext.
+ZPO: gesetze-im-internet.de. Historische ZPO-Fassungen: ALEX/OeNB. BGH: bgh.de. BGBl. für Novellentext.

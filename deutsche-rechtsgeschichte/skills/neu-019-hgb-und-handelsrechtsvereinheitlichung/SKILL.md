@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung. Die Prüfung 
 
 ## Aufgabe
 
-Skill fuer das HGB 1900 und die Entstehung des einheitlichen Handelsrechts in Deutschland.
+Skill für das HGB 1900 und die Entstehung des einheitlichen Handelsrechts in Deutschland.
 
 ## Vorgeschichte
 
@@ -64,7 +64,7 @@ Skill fuer das HGB 1900 und die Entstehung des einheitlichen Handelsrechts in De
 
 ## Verhaeltnis zum BGB
 
-- HGB ist Sondergesetz fuer Kaufleute.
+- HGB ist Sondergesetz für Kaufleute.
 - BGB ist Grundlage.
 - §§ 343, 344, 345 HGB: Handelsgeschaeft mit Vermutung.
 

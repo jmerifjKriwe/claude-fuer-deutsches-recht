@@ -18,7 +18,7 @@ description: "Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualif
 3. Welcher Wertansatz wird gewaehlt — Antragsvoraussetzungen § 21 Abs. 1 S. 2 UmwStG?
 4. Sperrfristen § 22 UmwStG beachten — vor allem bei spaeteren Umstrukturierungen?
 5. Folgen einer schaedlichen Veraeusserung — Einbringungsgewinn II nach § 22 Abs. 2 UmwStG?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

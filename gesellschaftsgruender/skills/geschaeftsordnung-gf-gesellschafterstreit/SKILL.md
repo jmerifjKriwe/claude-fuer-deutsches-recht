@@ -39,7 +39,7 @@ Klaere vor Erstellung der Geschaeftsordnung:
 
 - **§ 37 I GmbHG** — GF ist an Gesetz, Satzung und Gesellschafterbeschluesse gebunden
 - **§ 37 II GmbHG** — Bei Mehrgliedrigkeit: Gesamtgeschaeftsfuehrung als Grundsatz; Satzung / Geschaeftsordnung kann abweichen
-- **§ 46 Nr. 6 GmbHG** — Zustaendigkeit der Gesellschafterversammlung fuer Geschaeftsordnung der GF (Erlass und Aenderung)
+- **§ 46 Nr. 6 GmbHG** — Zuständigkeit der Gesellschafterversammlung für Geschaeftsordnung der GF (Erlass und Aenderung)
 - **§ 43 GmbHG** — Sorgfaltspflicht des GF; verletzt er Zustimmungsvorbehalt: Haftung
 - **§ 49 I GmbHG** — Einberufungspflicht GF bei gesellschafterwichtigem Anlass (Eskalationspflicht)
 - **§§ 133, 157 BGB** — Auslegung der Zustimmungspflichten bei Streit
@@ -62,7 +62,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 5 | Erlass durch GV oder GF selbst? | § 46 Nr. 6 GmbHG | Aenderbarkeit festlegen |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Ressort-Bedarf erfassen:** Wie viele GF, welche Ressorts, welche Zustimmungspunkte?
 2. **SHA und Satzung lesen:** Bereits vorhandene Zustimmungs-Kataloge identifizieren; nicht doppeln.
@@ -78,7 +78,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Internes Fuehrungs-Dokument — Tonfall praezise-sachlich
 
 ```
-GESCHAEFTSORDNUNG fuer die Geschaeftsfuehrung
+GESCHAEFTSORDNUNG für die Geschaeftsfuehrung
 der [FIRMA] GmbH
 Stand: [DATUM] | Erlass: Gesellschafterversammlungs-Beschluss vom [DATUM]
 
@@ -116,7 +116,7 @@ Quartalsbericht binnen 4 Wochen nach Quartalsende:
 - Personalveraenderungen
 
 § 6 Patt-Mechanismus
-Bei Uneinigkeit der GF in Zustaendigkeitsfragen:
+Bei Uneinigkeit der GF in Zuständigkeitsfragen:
 (1) Versuche bilateraler Einigung (48 Stunden)
 (2) Eskalation an Gesellschafterversammlung
 (3) GV entscheidet mit einfacher Mehrheit

@@ -23,7 +23,7 @@ Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich
 2. **Ist der Mandant beruflich auf das Fahrzeug angewiesen?** — LKW-Fahrer, Vertreter, Pflegekraft, Taxi/Uber — Haertefall-Argumentation.
 3. **Existenzgefaehrdung nachweisbar?** — Drohende Kuendigung, Arbeitslosenunterstuetzung nicht ausreichend, Eigentuemer Kleinstunternehmen.
 4. **Gibt es mildernde Tatumstaende?** — Dringende Notsituation, techisches Versagen, minimale Ueberschreitung.
-5. **Vier-Monats-Frist nutzbar?** — § 25 Abs. 2a StVG: Betroffener kann Beginn des Fahrverbots bis zu 4 Monate nach Rechtskraft hinauszogern (vorteilhaft fuer Urlaubszeit).
+5. **Vier-Monats-Frist nutzbar?** — § 25 Abs. 2a StVG: Betroffener kann Beginn des Fahrverbots bis zu 4 Monate nach Rechtskraft hinauszogern (vorteilhaft für Urlaubszeit).
 
 ## Zentrale Normen
 
@@ -47,7 +47,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 BERUFLICHE ANGEWIESENHEIT (schwache Argumentation allein):
 □ Berufsbezeichnung (LKW-Fahrer, Handelsvertreter, etc.)
-□ Fahrzeug notwendig fuer Berufsausuebung
+□ Fahrzeug notwendig für Berufsausuebung
 □ Keine Moeglichkeit oeff. Nahverkehr zu nutzen (Nachweis?)
 
 EXISTENZGEFAEHRDUNG (staerkere Argumentation):
@@ -69,7 +69,7 @@ VIER-MONATS-FRIST (§ 25 Abs. 2a StVG):
 □ Zeitplanung mit Mandant abstimmen
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Mandant ueber realistische Chancen aufklaeren** — Haertefall ist selten anerkannt.
 2. **Beweise sammeln:** Arbeitgeber-Bescheinigung, Einkommensnachweis, Alternativennachweis (OEPNV nicht erreichbar).

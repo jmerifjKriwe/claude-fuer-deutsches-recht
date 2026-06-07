@@ -1,6 +1,6 @@
 ---
 name: avv-haftung-risikoallokation-art-82-dsgvo
-description: "Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine fuer Innen- und Aussenhaftung mit Cap-Hinweisen."
+description: "Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine für Innen- und Aussenhaftung mit Cap-Hinweisen."
 ---
 
 # AVV-Haftung und Risikoallokation – Art. 82 DSGVO
@@ -14,12 +14,12 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 - Haftungscaps im AVV werden verhandelt.
 - Mandant hat Schadensersatzanspruch gegen den Vertragspartner zu pruefen.
 - Aussenhaftung gegenueber einem Betroffenen ist eingetreten und der Innenregress steht an.
-- Mandant beziffert das Restrisiko fuer ein Cyber-Versicherungsdeckungsgespraech.
+- Mandant beziffert das Restrisiko für ein Cyber-Versicherungsdeckungsgespraech.
 
 ## Rechtlicher Rahmen
 
 - Art. 82 Abs. 1 DSGVO: Jeder, der wegen eines Verstosses gegen die DSGVO einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch auf Schadenersatz gegen den Verantwortlichen oder den Auftragsverarbeiter.
-- Art. 82 Abs. 2 DSGVO: Verantwortlicher haftet fuer den Schaden, den eine seiner Verarbeitungen verursacht hat. Auftragsverarbeiter haftet, wenn er gegen speziell ihm auferlegte Pflichten verstossen hat oder Weisungen des Verantwortlichen widersprochen oder ueberschritten hat.
+- Art. 82 Abs. 2 DSGVO: Verantwortlicher haftet für den Schaden, den eine seiner Verarbeitungen verursacht hat. Auftragsverarbeiter haftet, wenn er gegen speziell ihm auferlegte Pflichten verstossen hat oder Weisungen des Verantwortlichen widersprochen oder ueberschritten hat.
 - Art. 82 Abs. 3 DSGVO: Befreiung, wenn nachgewiesen wird, dass der Schaden in keiner Weise zu vertreten ist.
 - Art. 82 Abs. 4 DSGVO: Gesamtschuldnerische Haftung mehrerer Verantwortlicher / Auftragsverarbeiter, wenn an demselben Verarbeitungsvorgang beteiligt.
 - Art. 82 Abs. 5 DSGVO: Innenregress nach Mass des Verschuldensanteils.
@@ -40,7 +40,7 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 3. **Cap-Diskussion.**
  - Aussenhaftung kann nicht durch Vertrag zwischen Verantwortlichem und Auftragsverarbeiter zu Lasten des Betroffenen begrenzt werden.
  - Innenregress-Cap zulaessig, soweit nicht gegen § 307 BGB (AGB), Vorsatz und grobe Fahrlaessigkeit nicht ausschliessbar.
- - Branchenuebliche Caps: 12-Monats-Honorar, oft mit Sub-Cap fuer Datenschutzverletzungen.
+ - Branchenuebliche Caps: 12-Monats-Honorar, oft mit Sub-Cap für Datenschutzverletzungen.
 
 4. **Versicherung.**
  - Cyber-Versicherung des Auftragsverarbeiters: Deckungssumme, Selbstbehalt, Geltungsbereich.
@@ -49,7 +49,7 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 
 5. **Sub-AV-Kette.**
  - Haftung in der Kette wird durch Art. 28 Abs. 4 DSGVO durchgereicht.
- - Primaerer Auftragsverarbeiter haftet weiter fuer Sub-AV.
+ - Primaerer Auftragsverarbeiter haftet weiter für Sub-AV.
  - Regress des primaeren Auftragsverarbeiters gegen Sub-AV vertraglich zu sichern.
 
 ## Mustertext / Template
@@ -62,18 +62,18 @@ Haftungsklausel:
 >
 > (2) Im Innenverhaeltnis tragen Verantwortlicher und Auftragsverarbeiter den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils. Hat ein Auftragsverarbeiter den vollen Schadenersatz an einen Betroffenen geleistet, steht ihm gegen den Verantwortlichen ein Regressanspruch in Hoehe des Verschuldensanteils des Verantwortlichen zu (Art. 82 Abs. 5 DSGVO).
 >
-> (3) Die Haftung des Auftragsverarbeiters gegenueber dem Verantwortlichen aus oder im Zusammenhang mit diesem Vertrag, einschliesslich Regressansprueche nach Absatz (2), ist auf einen Betrag von [BETRAG] EUR pro Schadensfall und insgesamt auf [BETRAG] EUR pro Kalenderjahr begrenzt. Die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
+> (3) Die Haftung des Auftragsverarbeiters gegenueber dem Verantwortlichen aus oder im Zusammenhang mit diesem Vertrag, einschliesslich Regressansprueche nach Absatz (2), ist auf einen Betrag von [BETRAG] EUR pro Schadensfall und insgesamt auf [BETRAG] EUR pro Kalenderjahr begrenzt. Die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
 >
 > (4) Der Auftragsverarbeiter haelt waehrend der Vertragslaufzeit eine Cyber-Haftpflichtversicherung mit einer Deckungssumme von mindestens [BETRAG] EUR pro Schadensfall und mindestens [BETRAG] EUR pro Versicherungsjahr vor. Der Versicherungsnachweis wird dem Verantwortlichen jaehrlich unaufgefordert vorgelegt.
 >
 > (5) DSGVO-Bussgelder, die einer Partei direkt durch eine Aufsichtsbehoerde auferlegt werden, traegt diese Partei selbst. Im Innenverhaeltnis besteht ein Erstattungsanspruch nur, soweit das Bussgeld auf einer schuldhaften Pflichtverletzung der anderen Partei beruht.
 >
-> (6) Der Auftragsverarbeiter haftet fuer das Verhalten seiner Sub-Auftragsverarbeiter in dem Umfang wie fuer eigenes Verhalten (Art. 28 Abs. 4 DSGVO)."
+> (6) Der Auftragsverarbeiter haftet für das Verhalten seiner Sub-Auftragsverarbeiter in dem Umfang wie für eigenes Verhalten (Art. 28 Abs. 4 DSGVO)."
 
 ## Typische Drafting-Fehler
 
 - Vollstaendige Haftungsfreistellung des Auftragsverarbeiters – nicht zulaessig wegen Art. 82 Abs. 2 DSGVO.
-- Cap auch fuer Vorsatz und grobe Fahrlaessigkeit – AGB-rechtlich unwirksam (§ 309 Nr. 7 BGB).
+- Cap auch für Vorsatz und grobe Fahrlaessigkeit – AGB-rechtlich unwirksam (§ 309 Nr. 7 BGB).
 - Pauschale Uebernahme aller Aussenhaftungsrisiken – wirtschaftlich unrealistisch ohne Versicherung.
 - Bussgelder-Regress ohne Bezug zur konkreten Pflichtverletzung – Art. 83 DSGVO Sanktionscharakter spricht gegen pauschalen Regress.
 - Versicherungsnachweis nicht eingefordert.

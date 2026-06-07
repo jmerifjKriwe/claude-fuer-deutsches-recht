@@ -42,7 +42,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Kennzeichnungsbaustein fuer KI-generierte Publikation | Kennzeichnung nach Schema; Template unten |
+| Standard — Kennzeichnungsbaustein für KI-generierte Publikation | Kennzeichnung nach Schema; Template unten |
 | Variante A — Interne Nutzung kein Veroeffentlichungszweck | Keine Pflicht-Kennzeichnung; interne Notiz genuegt |
 | Variante B — Gericht will Herkunft aller Teile wissen | Erweiterte Offenlegung mit Werkzeug-Benennung |
 | Variante C — Gemischtes Dokument KI und Mensch | Hybride Kennzeichnung; nur KI-Teile markieren |
@@ -66,7 +66,7 @@ Unabhängig von der externen Kennzeichnungspflicht dokumentiert die Kanzlei inte
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -82,7 +82,7 @@ Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäis
 - Art. 50 Abs. 1 KI-VO — Kennzeichnungspflicht bei KI-Interaktionen (Chatbot-Offenlegung)
 - Art. 50 Abs. 4 KI-VO — Kennzeichnung synthetischer Inhalte (Deepfake)
 - § 5 UWG — Verbot irreführender Geschaeftspraktiken
-- § 43b BRAO — Werbeverbot fuer Anwaelte (Irreführungsschutz)
+- § 43b BRAO — Werbeverbot für Anwaelte (Irreführungsschutz)
 - § 1 UrhG — Urheberrecht an KI-generierten Inhalten (kein Schutz ohne menschliche Schaepfungshoehe)
 
 ## Triage zu Beginn
@@ -90,8 +90,8 @@ Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäis
 2. Ist Art. 50 KI-VO anwendbar — handelt es sich um einen Chatbot oder synthetischen Inhalt?
 3. Besteht ein berufsrechtliches Risiko nach § 43b BRAO bei fehlender Kennzeichnung?
 4. Sind Mandanten oder Gerichte ueber KI-Unterstuetzung zu informieren?
-5. Hat die Kanzlei ein einheitliches Kennzeichnungsschema fuer verschiedene Veroeffentlichungsarten?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+5. Hat die Kanzlei ein einheitliches Kennzeichnungsschema für verschiedene Veroeffentlichungsarten?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Kennzeichnungs-Baustein
 **Adressat:** Kanzlei-Mitarbeiter / Redaktion — Tonfall: klar, praktisch

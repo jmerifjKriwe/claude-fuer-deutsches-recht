@@ -44,13 +44,13 @@ ALR-Loesung: ALR I 6 §§ 56-58 — Tierhalterhaftung; bei Wachhund mit deutlich
 
 ### Subsumtionsbeispiel: Brieftaubendiebstahl 1850
 Sachverhalt: Brieftaube fliegt ins Nachbarschloss; Nachbar faengt sie und behaelt sie.
-ALR-Loesung: ALR I 6 § — eigener Tatbestand fuer Brieftauben! Pflicht zur Rueckgabe; Schadenersatz bei verzoegerter Rueckgabe.
+ALR-Loesung: ALR I 6 § — eigener Tatbestand für Brieftauben! Pflicht zur Rueckgabe; Schadenersatz bei verzoegerter Rueckgabe.
 
 ### Heutige Fortwirkung
 - § 823 Abs. 1 BGB generelle Deliktshaftung — moderner gefasst als ALR.
 - § 826 BGB sittenwidrige Schaedigung.
 - § 833 BGB Tierhalter.
-- Verschuldensstufen in ALR-Tradition: bis heute "grobe Fahrlaessigkeit" als Aufschwellgrad fuer Haftungsschaerfung (z. B. § 309 Nr. 7 BGB, § 277 BGB).
+- Verschuldensstufen in ALR-Tradition: bis heute "grobe Fahrlaessigkeit" als Aufschwellgrad für Haftungsschaerfung (z. B. § 309 Nr. 7 BGB, § 277 BGB).
 
 ## Ausgabeformat
 

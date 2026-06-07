@@ -171,7 +171,7 @@ Keine Modellwissen-Zitate. Vor Versand Aktenzeichen, Datum und tragende Aussage 
 
 ## Normen MPU / Fahrerlaubnisrecht
 
-- § 3 StVG — Entziehung Fahrerlaubnis durch Behoerde
+- § 3 StVG — Entziehung Fahrerlaubnis durch Behörde
 - § 4 StVG — Fahreignungs-Bewertungssystem (Punkte-Tabelle, 8 Punkte = Entzug)
 - § 11 FeV — Eignung; Beibringung von Gutachten
 - § 13 FeV — Alkohol: MPU-Pflicht ab 1,6 Promille oder Wiederholung
@@ -266,7 +266,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 6. Hat der Mandant eigene Mithaftung — Tempoverstoß, Sicherheitsabstand, Anschnallpflicht?
 7. Liegt SGB X-Regressi durch Kranken- oder Rentenversicherung, Berufsgenossenschaft vor?
 8. Droht Verjährung (3 Jahre ab Schluss des Jahres der Kenntnis, §§ 195, 199 BGB)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -497,7 +497,7 @@ einsetzen).
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

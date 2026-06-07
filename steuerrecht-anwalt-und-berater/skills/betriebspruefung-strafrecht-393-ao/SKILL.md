@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-strafrecht-393-ao
-description: "Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstrafverfahren — Mitwirkungspflicht im Besteuerungsverfahren versus Selbstbelastungsfreiheit nach § 393 AO. Anwendungsfall Aussenpruefung mit strafrechtlichen Verdachtsmomenten — Berater muss zwischen Mitwirkung und Schweigen abwaegen. Behandelt Belehrungspflicht § 393 Abs. 1 S. 4 AO Verwertungsverbot § 393 Abs. 2 AO und das Verhaeltnis zu § 30 AO Steuergeheimnis. Output Verteidigungsraster fuer parallele Verfahren und Aktenanforderungs-Liste. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao."
+description: "Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstrafverfahren — Mitwirkungspflicht im Besteuerungsverfahren versus Selbstbelastungsfreiheit nach § 393 AO. Anwendungsfall Aussenpruefung mit strafrechtlichen Verdachtsmomenten — Berater muss zwischen Mitwirkung und Schweigen abwaegen. Behandelt Belehrungspflicht § 393 Abs. 1 S. 4 AO Verwertungsverbot § 393 Abs. 2 AO und das Verhaeltnis zu § 30 AO Steuergeheimnis. Output Verteidigungsraster für parallele Verfahren und Aktenanforderungs-Liste. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao."
 ---
 
 # Aussenpruefung und Strafverfahren — § 393 AO nemo tenetur
@@ -16,9 +16,9 @@ description: "Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstr
 1. Liegt bereits eine Einleitung des Strafverfahrens nach § 397 AO vor?
 2. Wurde der Mandant gemaess § 393 Abs. 1 S. 4 AO belehrt?
 3. Welche Mitwirkung ist im Besteuerungsverfahren noch zumutbar — Schweigerecht im Strafverfahren?
-4. Liegt ein Verwertungsverbot § 393 Abs. 2 AO fuer Selbstbelastungsangaben vor?
+4. Liegt ein Verwertungsverbot § 393 Abs. 2 AO für Selbstbelastungsangaben vor?
 5. Ist eine tatsaechliche Verstaendigung trotz Strafverfahren sinnvoll?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

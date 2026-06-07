@@ -65,7 +65,7 @@ Der Datenraum hat 2.000 Dokumente. Irgendwo darin befinden sich die 30, die für
 - Mandats-Kontext: `mandate/[code]/deal-kontext.md`
 - VDR-Inventar oder Dokumentenliste
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ### Schritt 1: VDR-Inventarisierung
 

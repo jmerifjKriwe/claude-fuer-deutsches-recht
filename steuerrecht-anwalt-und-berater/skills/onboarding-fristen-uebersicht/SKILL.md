@@ -1,6 +1,6 @@
 ---
 name: onboarding-fristen-uebersicht
-description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjaehrung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Frist laeuft welche bereits versaeumt ist und ob Wiedereinsetzung moeglich ist. Behandelt Berechnungsregeln §§ 108 AO 222 BGB Zustellungsfiktion § 122 AO ELSTER-/beA-Zugang Fristbeginn bei Sammel- und Aenderungsbescheiden. Output Fristenmatrix mit Ampel-Logik und Berechnungsbeispiel. Abgrenzung zu anw-fristenbuch-steuerrecht (Kanzleisoftware) und fa-stu-onboarding-mandatsannahme."
+description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjährung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Frist laeuft welche bereits versaeumt ist und ob Wiedereinsetzung moeglich ist. Behandelt Berechnungsregeln §§ 108 AO 222 BGB Zustellungsfiktion § 122 AO ELSTER-/beA-Zugang Fristbeginn bei Sammel- und Aenderungsbescheiden. Output Fristenmatrix mit Ampel-Logik und Berechnungsbeispiel. Abgrenzung zu anw-fristenbuch-steuerrecht (Kanzleisoftware) und fa-stu-onboarding-mandatsannahme."
 ---
 
 # Steuerrechtliche Fristen — der Ueberblick
@@ -17,8 +17,8 @@ description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen �
 2. Wann ist die Zustellung bewirkt (§ 122 Abs. 2 AO Drei-Tages-Fiktion; § 122a AO Bereitstellung im ELSTER-Postfach)?
 3. Faellt das Fristende auf Wochenende oder Feiertag (§ 108 Abs. 3 AO)?
 4. Wurde die Frist bereits versaeumt? Pruefen ob Wiedereinsetzung § 110 AO oder § 56 FGO greift.
-5. Gibt es Hemmungstatbestaende (Aussenpruefung § 171 AO; vorlaeufige Festsetzung § 165 AO)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+5. Gibt es Hemmungstatbestaende (Aussenpruefung § 171 AO; vorläufige Festsetzung § 165 AO)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

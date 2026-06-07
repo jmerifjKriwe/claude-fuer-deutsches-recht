@@ -1,6 +1,6 @@
 ---
 name: onboarding-verwaltungsanweisungen
-description: "Methodik zur Nutzung und Abgrenzung von Verwaltungsanweisungen im Steuerrecht — BMF-Schreiben Anwendungserlass zur AO Umsatzsteuer-Anwendungserlass Einkommen- und Koerperschaftsteuer-Richtlinien Erbschaftsteuer-Hinweise. Anwendungsfall Berater muss entscheiden ob ein BMF-Schreiben fuer Mandant guenstig ist und ob er sich dem Finanzamt gegenueber darauf berufen kann. Behandelt Bindungswirkung Selbstbindung der Verwaltung Art. 3 GG Vertrauensschutz und prozessuale Verwertbarkeit. Output Argumentationsraster und Zitierhilfe. Abgrenzung zu fa-stu-onboarding-beratungsstruktur und fa-stu-onboarding-bescheid-lesen."
+description: "Methodik zur Nutzung und Abgrenzung von Verwaltungsanweisungen im Steuerrecht — BMF-Schreiben Anwendungserlass zur AO Umsatzsteuer-Anwendungserlass Einkommen- und Koerperschaftsteuer-Richtlinien Erbschaftsteuer-Hinweise. Anwendungsfall Berater muss entscheiden ob ein BMF-Schreiben für Mandant guenstig ist und ob er sich dem Finanzamt gegenueber darauf berufen kann. Behandelt Bindungswirkung Selbstbindung der Verwaltung Art. 3 GG Vertrauensschutz und prozessuale Verwertbarkeit. Output Argumentationsraster und Zitierhilfe. Abgrenzung zu fa-stu-onboarding-beratungsstruktur und fa-stu-onboarding-bescheid-lesen."
 ---
 
 # BMF-Schreiben AEAO UStAE EStR — Verwaltungsanweisungen richtig nutzen
@@ -18,7 +18,7 @@ description: "Methodik zur Nutzung und Abgrenzung von Verwaltungsanweisungen im 
 3. Hat das BMF-Schreiben einen Anwendungszeitraum und Uebergangsregelung?
 4. Wuerde die Berufung auf das Schreiben dem Mandanten nuetzen oder schaden?
 5. Hat die Rechtsprechung bereits inhaltlich abweichend entschieden?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

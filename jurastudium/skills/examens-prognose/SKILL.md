@@ -31,7 +31,7 @@ Grundlage:
 
 ## Eingaben
 
-1. Lernprofil (`~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`) → Bundesland/JPA, Prüfungsziel, hochgeladene Klausuren
+1. Lernprofil (`~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md`) → Bundesland/JPA, Prüfungsziel, hochgeladene Klausuren
 2. Optional: Pfad zu spezifischen Altklausuren (selbes JPA oder vergleichbares JPA)
 3. Optional: `--statistik` → zeigt BMJV-Statistiken und bekannte Bundesland-Daten
 4. Rechtsgebiet (Argument oder interaktiv)

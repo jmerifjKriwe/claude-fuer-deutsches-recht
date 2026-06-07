@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-swiss-sanctions-touchpoint
-description: "Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung fuer Schweizer Transaktionsweg im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung für Schweizer Transaktionsweg im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schweizer Sanktionen als Touchpoint: EmbG und SECO-Listen im EU-Mandat
 
 ## Arbeitsbereich
 
-Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung fuer Schweizer Transaktionsweg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung für Schweizer Transaktionsweg. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -20,7 +20,7 @@ Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embarg
 ## Mandantenfall
 
 - Deutsches Unternehmen wickelt Zahlungen ueber Schweizer Tochtergesellschaft ab; SECO-Listencheck erforderlich.
-- Schweizer Konzernzentrale stellt Frage ob EU-Russland-Sanktionen fuer CH-Entitaet gelten.
+- Schweizer Konzernzentrale stellt Frage ob EU-Russland-Sanktionen für CH-Entitaet gelten.
 - Transaktion soll ueber Schweizer Bank abgewickelt werden; Sanktionskonvergenz pruefen.
 
 ## Erste Schritte
@@ -28,7 +28,7 @@ Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embarg
 1. Relevanz der Schweizer Sanktionen pruefen: Schweizer Entitaet beteiligt oder Schweizer Bankverbindung?
 2. SECO-Sanktionsliste abrufen und mit EU-Konsolidierter-Liste abgleichen.
 3. Divergenzen identifizieren: Welche Personen/Entitaeten sind nur in EU oder nur in CH-Liste?
-4. EmbG-Verbote fuer konkrete Transaktion anwenden.
+4. EmbG-Verbote für konkrete Transaktion anwenden.
 5. Koordination zwischen EU-Compliance und CH-Compliance der Gruppe sicherstellen.
 6. Ergebnis als Touchpoint-Vermerk im EU-Mandat festhalten.
 
@@ -36,22 +36,22 @@ Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embarg
 
 - **EmbG SR 946.231 (CH)**: Schweizer Embargogesetz als nationale Umsetzungsgrundlage.
 - **SECO-Verordnungen (CH)**: Spezifische Embargomasnahmen gegen Russland Iran etc.
-- **VO (EU) 833/2014**: EU-Russland-Sanktionen als Referenzrahmen fuer Divergenzanalyse.
+- **VO (EU) 833/2014**: EU-Russland-Sanktionen als Referenzrahmen für Divergenzanalyse.
 - **AWG § 1**: Territorialer Anwendungsbereich des deutschen Aussenwirtschaftsrechts.
-- **Art. 11 VO (EU) 833/2014**: Gerichtsbarkeitsregeln fuer konzerninterne Transaktionen.
+- **Art. 11 VO (EU) 833/2014**: Gerichtsbarkeitsregeln für konzerninterne Transaktionen.
 
 ## Pruef-Raster
 
 - [ ] Schweizer Entitaet oder Bank in Transaktion beteiligt?
 - [ ] SECO-Liste aktuell abgerufen und abgeglichen?
 - [ ] Divergenzen zwischen EU- und CH-Sanktionsliste identifiziert?
-- [ ] EmbG-Verbote fuer konkrete Sachverhalt geprueft?
+- [ ] EmbG-Verbote für konkrete Sachverhalt geprueft?
 - [ ] Konzernweite Koordination sichergestellt?
 
 ## Typische Fallstricke
 
 - Schweiz folgt EU-Sanktionen meist aber mit Zeitverzug; aktuelle Fassung von SECO abrufen.
-- Schweizer Banken unterliegen SECO-Recht; EU-Sanktionen gelten fuer sie nur indirekt.
+- Schweizer Banken unterliegen SECO-Recht; EU-Sanktionen gelten für sie nur indirekt.
 - Konzernmutter in EU kann nicht die Schweizer Tochter zur Verletzung von EmbG anweisen.
 - Eigentums-/Kontrollkette muss auch nach Schweizer Gesellschaftsrecht analysiert werden.
 
@@ -59,7 +59,7 @@ Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embarg
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -83,12 +83,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Kurzvergleich EU-CH-Sanktionslage mit Divergenz-Tabelle, Handlungsempfehlung fuer Schweizer Transaktionsweg und Koordinationsprotokoll fuer Konzern-Compliance.
+Kurzvergleich EU-CH-Sanktionslage mit Divergenz-Tabelle, Handlungsempfehlung für Schweizer Transaktionsweg und Koordinationsprotokoll für Konzern-Compliance.
 
 ## Quellen
 

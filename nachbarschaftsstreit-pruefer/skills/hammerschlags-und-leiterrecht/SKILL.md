@@ -52,7 +52,7 @@ Kein Betreten ohne Rechtsgrundlage oder Zustimmung empfehlen. Besitzschutz und H
 
 - Streitstrang mit Anspruchsrichtung.
 - Benötigte Beweise.
-- Risiko fuer Mandant und Gegenseite.
+- Risiko für Mandant und Gegenseite.
 - Deeskalierender naechster Schritt.
 - Gerichtlicher naechster Schritt, falls Vergleich scheitert.
 

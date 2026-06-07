@@ -32,7 +32,7 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 
 ### Primaernormen
 - **DBA Deutschland-Finnland vom 19.02.2016**, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467; BStBl. 2017 I S. 1527/1528).
-- Altes DBA-Finnland vom 05.07.1979 fuer Zeitraeume bis 2017.
+- Altes DBA-Finnland vom 05.07.1979 für Zeitraeume bis 2017.
 - Aenderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755).
 - **OECD-MA 2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
@@ -120,7 +120,7 @@ DE-Software-AG bezieht Lizenzgebuehr 80.000 EUR von finnischer Oy:
 - DE: Lizenzeinkunft in DE-Bilanz 80.000 EUR; KSt+SolZ rund 15,825 Prozent = 12.660 EUR plus GewSt rund 14 Prozent = 11.200 EUR. Gesamt DE rund 23.860 EUR.
 - Praxis: bei wiederkehrenden Lizenzzahlungen FI-Auftraggeber Ansaessigkeitsbescheinigung jaehrlich; ohne diese erfolgt zunaechst voller FI-Quellensteuerabzug 20 Prozent mit anschliessender Erstattung — Liquiditaetsnachteil.
 
-Bei Eishockey-Engagement Beispiel: Finnischer Eishockey-Spieler in DEL spielt 6 Monate fuer DE-Verein, 4 Monate in FI-Liga. DBA Art. 17 — Auftrittsstaat. DE besteuert die DE-Liga-Verguetung; FI besteuert die FI-Liga-Verguetung; § 50a EStG-Pruefung bei Vereinszahlungen.
+Bei Eishockey-Engagement Beispiel: Finnischer Eishockey-Spieler in DEL spielt 6 Monate für DE-Verein, 4 Monate in FI-Liga. DBA Art. 17 — Auftrittsstaat. DE besteuert die DE-Liga-Verguetung; FI besteuert die FI-Liga-Verguetung; § 50a EStG-Pruefung bei Vereinszahlungen.
 
 ## Mandatsablauf in der Praxis
 
@@ -130,9 +130,9 @@ Bei Eishockey-Engagement Beispiel: Finnischer Eishockey-Spieler in DEL spielt 6 
 4. **Laufende Compliance**: FI-Erklaerung jaehrlich; DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive (Altzeitraeume).
 5. **Audit-Vorbereitung**: FI-Pruefung digital effizient; DE-FA-Pruefung Methodenartikel-Wechsel und MLI-Anwendung.
 
-## Ausgabeformat fuer Mandanten-Memo Finnland
+## Ausgabeformat für Mandanten-Memo Finnland
 
-Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (IT-Beteiligung, Maschinenbau, Pension), Zeitraum (Wechsel DBA 1979 → 2016).
 2. **Frage(n)**: Besteuerungsrecht, Wechsel Methodenartikel.

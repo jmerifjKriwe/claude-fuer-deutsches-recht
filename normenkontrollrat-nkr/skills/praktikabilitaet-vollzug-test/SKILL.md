@@ -1,19 +1,19 @@
 ---
 name: praktikabilitaet-vollzug-test
-description: "Praktikabilitaetstest fuer den Vollzug. Prueft ob die Regelung von Behoerden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik und Standardfragen an das federfuehrende Ressort."
+description: "Praktikabilitaetstest für den Vollzug. Prueft ob die Regelung von Behörden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik und Standardfragen an das federfuehrende Ressort."
 ---
 
 # NKR-Praktikabilitaet im Vollzug
 
 ## Worum geht es konkret
 
-Eine Regelung kann methodisch sauber begruendet sein und dennoch im Vollzug **nicht praktikabel** sein: Behoerden ueberfordert, IT-Systeme nicht vorhanden, Daten nicht verfuegbar, Adressaten ueberfordert. Der NKR prueft Praktikabilitaet als Standardelement.
+Eine Regelung kann methodisch sauber begruendet sein und dennoch im Vollzug **nicht praktikabel** sein: Behörden ueberfordert, IT-Systeme nicht vorhanden, Daten nicht verfuegbar, Adressaten ueberfordert. Der NKR prueft Praktikabilitaet als Standardelement.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Vorhaben mit hohem Verwaltungsaufwand
 - Vorhaben mit IT-Voraussetzungen
-- Vorhaben mit Konnexitaet (Pflichten fuer Laender / Kommunen)
+- Vorhaben mit Konnexitaet (Pflichten für Länder / Kommunen)
 - Vorhaben mit komplexen Sanktionen
 - Vorhaben mit kurzen Umsetzungsfristen
 
@@ -21,24 +21,24 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 44 GGO** — Folgen fuer Vollzug
+- **§ 44 GGO** — Folgen für Vollzug
 - **NKRG** § 4 — methodische Pruefung umfasst auch Praktikabilitaet
 - **Leitfaden BMI / NKR** — Praktikabilitaetspruefung
 - **Art. 83-87 GG** — Vollzugskompetenzen
-- **Art. 104a GG, Konnexitaetsverbot** (Verfassungen der Laender)
+- **Art. 104a GG, Konnexitaetsverbot** (Verfassungen der Länder)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. Vollzugskaskade
 
 - Wer fuehrt das Gesetz aus?
 - Bund / Land / Kommune / Gericht?
-- Welche Behoerde konkret?
+- Welche Behörde konkret?
 - Welche Hilfskoerperschaften?
 
 ### 2. Personalbedarf
 
-- Stellenbedarf je Behoerde
+- Stellenbedarf je Behörde
 - Qualifikation
 - Schulungserfordernis
 - Stellenfinanzierung
@@ -52,19 +52,19 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 
 ### 4. Datenverfuegbarkeit
 
-- Welche Daten brauchen Behoerden?
+- Welche Daten brauchen Behörden?
 - Werden sie automatisiert geliefert oder von Adressaten beigebracht?
 - Was passiert, wenn Daten unvollstaendig sind?
 
 ### 5. Konfliktloesung
 
-- Wie werden Streitigkeiten zwischen Adressat und Behoerde geloest?
+- Wie werden Streitigkeiten zwischen Adressat und Behörde geloest?
 - Rechtsschutz angemessen?
 - Aufschiebende Wirkung sinnvoll?
 
 ### 6. Konnexitaet
 
-- Werden Laender / Kommunen verpflichtet?
+- Werden Länder / Kommunen verpflichtet?
 - Konnexitaetsprinzip beachtet?
 
 ### 7. Pilotierung / Inkrafttreten
@@ -79,7 +79,7 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 - IT-Voraussetzungen "vorhanden" ohne Pruefung
 - Datenfluss nicht beschrieben
 - Konnexitaet ignoriert
-- Inkrafttretensfrist zu kurz fuer realistische Umsetzung
+- Inkrafttretensfrist zu kurz für realistische Umsetzung
 - Rechtsschutz unklar
 
 ## Trade-off-Matrix
@@ -96,9 +96,9 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der NKR weist darauf hin, dass der Vollzug bei [Behoerde] erheblichen Personalmehrbedarf erfordert. Die Stellenanforderung wird im Ressortentwurf nicht beziffert."
-- "Der NKR haelt die vorgesehene Inkrafttretensfrist von [X] Monaten fuer zu kurz, um die notwendige IT-Anpassung bei [Behoerde] sicherzustellen. Eine Verlaengerung auf [Y] Monate erscheint angemessen."
-- "Der NKR weist darauf hin, dass die Pflicht fuer Kommunen die Frage der Konnexitaet (Art. 104a Abs. 1 GG, Landesverfassungen) aufwirft. Eine ausgleichende Regelung ist im Vorhaben nicht vorgesehen."
+- "Der NKR weist darauf hin, dass der Vollzug bei [Behörde] erheblichen Personalmehrbedarf erfordert. Die Stellenanforderung wird im Ressortentwurf nicht beziffert."
+- "Der NKR haelt die vorgesehene Inkrafttretensfrist von [X] Monaten für zu kurz, um die notwendige IT-Anpassung bei [Behörde] sicherzustellen. Eine Verlaengerung auf [Y] Monate erscheint angemessen."
+- "Der NKR weist darauf hin, dass die Pflicht für Kommunen die Frage der Konnexitaet (Art. 104a Abs. 1 GG, Landesverfassungen) aufwirft. Eine ausgleichende Regelung ist im Vorhaben nicht vorgesehen."
 - "Der NKR begruesst die ressortseitige Pruefung der Vollzugspraktikabilitaet und die transparente Darstellung des Personalmehrbedarfs."
 
 ## Typische Fehler in Ressort-Entwuerfen
@@ -107,7 +107,7 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 - "IT-Systeme sind vorhanden" ohne Konkretisierung
 - Konnexitaet ignoriert
 - "Inkrafttreten am Tag nach Verkuendung" trotz IT-Erfordernis
-- "Vorhandene Behoerden uebernehmen" ohne Personalrechnung
+- "Vorhandene Behörden uebernehmen" ohne Personalrechnung
 
 ## Querverweise
 

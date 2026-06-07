@@ -19,7 +19,7 @@ Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderunge
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer richterliche Beförderungsverfahren, in denen die Beteiligung des Praesidialrats geltend gemacht oder verteidigt werden soll. Anwendung an Bundes- und Landesgerichten.
+Skill für richterliche Beförderungsverfahren, in denen die Beteiligung des Praesidialrats geltend gemacht oder verteidigt werden soll. Anwendung an Bundes- und Landesgerichten.
 
 ## 2. Eingaben
 
@@ -32,17 +32,17 @@ Skill fuer richterliche Beförderungsverfahren, in denen die Beteiligung des Pra
 
 ### a) Anwendungsbereich
 - §§ 54 ff. DRiG: Praesidialrat ist bei der Ernennung von Richtern an Bundesgerichten zu beteiligen.
-- Landesrichtergesetze enthalten parallele Vorschriften fuer Landesrichter.
+- Landesrichtergesetze enthalten parallele Vorschriften für Landesrichter.
 
 ### b) Stellungnahme
-- Praesidialrat aeussert sich zur persoenlichen und fachlichen Eignung des Bewerbers.
+- Praesidialrat aeussert sich zur persönlichen und fachlichen Eignung des Bewerbers.
 - Die Stellungnahme ist nicht bindend, muss aber im Auswahlvorgang gewuerdigt werden.
 
 ### c) Folge unterlassener Beteiligung
 - Verfahrensfehler; die Ernennung ist anfechtbar (Konkurrenteneilantrag) bzw. die Aufstellung des Auswahlvermerks unzureichend.
 
 ### d) Verhaeltnis zum Richterwahlausschuss
-- Bei Wahl von Richtern fuer Bundesgerichte tritt der Richterwahlausschuss neben den Praesidialrat (Art. 95 Abs. 2 GG i.V.m. RiWG); Skill `richterwahlausschuss-bund-riwahlg` (sofern angelegt, hier nicht eigenstaendig vorhanden).
+- Bei Wahl von Richtern für Bundesgerichte tritt der Richterwahlausschuss neben den Praesidialrat (Art. 95 Abs. 2 GG i.V.m. RiWG); Skill `richterwahlausschuss-bund-riwahlg` (sofern angelegt, hier nicht eigenstaendig vorhanden).
 
 ### e) Verfahren
 - Pruefung der Beteiligung im Einzelfall.

@@ -77,7 +77,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schreibvorlage Widerspruch gegen Förderbescheid
 
 ```
-An die [Landwirtschaftskammer / Amt fuer Landwirtschaft]
+An die [Landwirtschaftskammer / Amt für Landwirtschaft]
 
 Widerspruch gegen den Foerderbescheid vom [Datum] Az. [...]
 
@@ -295,7 +295,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Prüfschema
 
 ```
-1. Bundesland-Zustaendigkeit (HoefeO oder Landesrecht)
+1. Bundesland-Zuständigkeit (HoefeO oder Landesrecht)
 2. Hofeigenschaft und Hoffolgevermerk § 6 HoefeO
 3. Hofeswert § 12 HoefeO (1 5-facher Einheitswert) berechnen
 4. Anerbenfolge § 4 HoefeO

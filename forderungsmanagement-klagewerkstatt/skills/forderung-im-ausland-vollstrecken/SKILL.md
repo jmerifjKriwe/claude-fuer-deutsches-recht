@@ -68,7 +68,7 @@ Bestaetigung durch Urspr.-Gericht, Formblatt I. In ZielMS direkt vollstreckbar.
 |---|---|
 | Antragsformular | Formblatt A |
 | Schriftliches Verfahren | keine muendliche Verhandlung ueblich |
-| Frist Bekl. fuer Stellungnahme | 30 Tage |
+| Frist Bekl. für Stellungnahme | 30 Tage |
 | Urteil | innerhalb von 30 Tagen nach Stellungnahme |
 | Vollstreckung | im anderen MS direkt, Formblatt D |
 
@@ -85,7 +85,7 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 | Kein Abkommen | erneute Klage im Drittstaat ueblich |
 | Schiedsspruch | New York Convention 1958 (NYÜ) – sehr leistungsfaehig |
 
-## Verfahrensweg-Pruefung Schritt fuer Schritt
+## Verfahrensweg-Pruefung Schritt für Schritt
 
 ```
 1. Schuldner-Sitz ermitteln
@@ -114,7 +114,7 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 
 ## Form der Zustellung im Ausland
 
-**HZUe 1965** (Haager Zustellungsuebereinkommen) – fuer Drittstaaten.
+**HZUe 1965** (Haager Zustellungsuebereinkommen) – für Drittstaaten.
 **EuZustVO (EU 2020/1784)** seit 01.07.2022 – innerhalb EU:
 - Direkte Zustellung Justizbehoerde zu Justizbehoerde.
 - Postzustellung mit Einschreiben moeglich (Art. 18).
@@ -139,7 +139,7 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 
 ## Typische Fehler
 
-- Klage in DE gegen Bekl. mit Wohnsitz EU ohne Pruefung Bruessel Ia → ggf. unzustaendig.
+- Klage in DE gegen Bekl. mit Wohnsitz EU ohne Pruefung Bruessel Ia → ggf. unzuständig.
 - EuMVVO bei strittiger Forderung – Widerspruch fuehrt in nationale Klage des Bekl.-MS.
 - Uebersetzung vergessen → Zustellung schlaegt fehl.
 - Schiedsklausel ueberhaupt nicht gepruef → New York Convention besserer Pfad.

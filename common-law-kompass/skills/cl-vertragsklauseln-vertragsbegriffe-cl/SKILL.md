@@ -21,13 +21,13 @@ Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Represen
 Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate.
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Klauseln-Uebersicht — Common Law mit deutscher Entsprechung
 
@@ -36,17 +36,17 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 | **Consideration** | Wechselseitige "bargained-for exchange" — Voraussetzung der Vertragsbindung in UK/US-Common Law | Keine Entsprechung im BGB; § 311 I BGB kennt keine consideration. Bei UK-Recht: "deed" als consideration-loses Aequivalent | "Nominal consideration of 1 GBP" oft Hinweis auf consideration-Bedarf bei englischem Recht; bei deutschem Recht ueberfluessig |
 | **Representations and Warranties (R&W)** | Tatsachenversicherungen (reps) und Garantieversprechen (warranties) zum Stichtag | Unklarer Gleichlauf mit §§ 433 ff., 443 BGB (Garantie); §§ 280, 311 II Nr. 1 BGB (c.i.c.); aber kein 1:1-Pendant | "Misrepresentation" UK = ggf. Anfechtung und/oder rescission und/oder Schadensersatz; im deutschen Recht §§ 119 II, 123 BGB (Anfechtung) vs. § 434 BGB (Mangel) — andere Rechtsfolgen |
 | **Indemnification / Indemnity** | Freistellung vom Drittanspruch; auch first-party indemnity (verschuldensunabhaengig) | § 257 BGB (Befreiungsanspruch); kein verschuldensunabhaengiges Aequivalent; bei AGB AGB-rechtlich problematisch (§ 309 Nr. 7 BGB) | Achtung: "indemnify, defend and hold harmless" loest in deutschem Recht keine eigenstaendige Verpflichtung aus; AGB-Kontrolle bei vorformulierten Klauseln |
-| **Limitation of Liability** | Haftungsobergrenze fuer Schaeden; oft "Cap" als % vom Vertragswert oder feste Summe | §§ 276 III, 309 Nr. 7 BGB; bei AGB strenge Grenzen (kein Ausschluss fuer Vorsatz/grobe Fahrlaessigkeit, Leben/Koerper/Gesundheit, Kardinalpflichten) | "Aggregate cap" und "per-event cap" unterscheiden; ausgenommen werden typisch IP-Verletzung, indemnification, vertrauliche Information, Vorsatz |
+| **Limitation of Liability** | Haftungsobergrenze für Schaeden; oft "Cap" als % vom Vertragswert oder feste Summe | §§ 276 III, 309 Nr. 7 BGB; bei AGB strenge Grenzen (kein Ausschluss für Vorsatz/grobe Fahrlaessigkeit, Leben/Koerper/Gesundheit, Kardinalpflichten) | "Aggregate cap" und "per-event cap" unterscheiden; ausgenommen werden typisch IP-Verletzung, indemnification, vertrauliche Information, Vorsatz |
 | **Suretyship vs. Guarantee** | UK: "guarantee" = sekundaere Verpflichtung; "indemnity" = primaere | § 765 BGB Buergschaft vs. § 311 BGB Garantievertrag; § 766 BGB Schriftform | "On first demand guarantee" = abstrakte Buergschaft auf erstes Anfordern; bei deutschem Recht streng AGB-rechtlich kontrolliert |
 | **Entire Agreement / Merger Clause** | Vertrag enthaelt vollstaendige Einigung; vorvertragliche Erklaerungen unbeachtlich | §§ 133, 157 BGB Auslegung; Andeutungstheorie; Klausel ist im deutschen Recht **wirkungsbeschraenkt**, schliesst Auslegung nicht vollstaendig aus | BGH XI ZR 39/04: Merger Clauses koennen § 305c II BGB nicht ueberwinden; AGB-Kontrolle |
 | **No Oral Modification (NOM)** | Aenderungen nur schriftlich | § 125 BGB; doppelte Schriftformklausel im AGB (§ 305b BGB Vorrang Individualabrede) | BGH-Linie: Schriftformklausel kann individualvertraglich durchbrochen werden (Vorrang Individualabrede) |
 | **Severability / Salvatorische Klausel** | Bei Unwirksamkeit eines Teils bleibt Rest wirksam | § 139 BGB (Auslegungsregel); Klausel modifiziert nur Auslegung | BGH-Linie: rein deklaratorische Klauseln im AGB unproblematisch; substanziellere Ersetzungsklauseln AGB-rechtlich pruefen |
 | **Governing Law** | Anwendbares materielles Recht | Art. 3 Rom I-VO (Vertraege), Art. 14 Rom II-VO (ausservertraglich) | Internationale Verbraucher Art. 6 Rom I-VO, AN Art. 8 Rom I-VO; ordre public Art. 21 Rom I-VO |
-| **Jurisdiction / Forum Selection** | Zustaendiges Gericht | Art. 25 Brussel Ia-VO (gerichtliche Zustaendigkeit innerhalb EU); UK seit Brexit: Haager Gerichtsstandsuebereinkommen | Asymmetrische Klauseln (nur eine Partei wahlt) in Frankreich teils unwirksam; Pruefung des AVAG bei Drittstaaten |
+| **Jurisdiction / Forum Selection** | Zustaendiges Gericht | Art. 25 Brussel Ia-VO (gerichtliche Zuständigkeit innerhalb EU); UK seit Brexit: Haager Gerichtsstandsuebereinkommen | Asymmetrische Klauseln (nur eine Partei wahlt) in Frankreich teils unwirksam; Pruefung des AVAG bei Drittstaaten |
 | **Arbitration Clause** | Schiedsgerichtsbarkeit (ICC, LCIA, DIS, SIAC, AAA/ICDR) | §§ 1029 ff. ZPO; UNCITRAL Model Law; New York Convention 1958 | Schriftform/Form § 1031 ZPO; Verbraucher § 1031 V ZPO (notarielle Form) |
-| **Boilerplate** | Sammelbegriff fuer Standardklauseln (Force Majeure, Notices, Assignment, Counterparts, Headings) | Verteilt im BGB; einzeln pruefen | Force Majeure in UK/US restriktiv (nicht "frustration" = § 313 BGB Pendant); "frustration of contract" UK enger |
+| **Boilerplate** | Sammelbegriff für Standardklauseln (Force Majeure, Notices, Assignment, Counterparts, Headings) | Verteilt im BGB; einzeln pruefen | Force Majeure in UK/US restriktiv (nicht "frustration" = § 313 BGB Pendant); "frustration of contract" UK enger |
 
-## Pruefraster fuer den Skill
+## Pruefraster für den Skill
 
 1. **Sachverhalt fixieren** — Welche Klauseln, welcher Vertragstyp, welches Recht?
 2. **Klauselfunktion identifizieren** ueber die Tabelle.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

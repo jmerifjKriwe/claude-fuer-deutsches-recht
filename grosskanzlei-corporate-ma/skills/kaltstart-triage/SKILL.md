@@ -164,7 +164,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `grosskanzlei-corporate-ma-tabellenreview-3d-datenraum` | 3D-Tabellenreview M&A-Datenraum: Dokumente Datenpunkte und Perspektiven Recht/Steuer/Wirtschaft verbinden: Anwendungsfall Deal-Team prüft Datenraum-Dokumente systematisch mit internem Review-Cube nach mehreren… |
 | `grosskanzlei-corporate-ma-teaser-im-processdocs` | Investment Teaser Information Memorandum und Prozessdokumente erstellen: Anwendungsfall Sell-side-Mandat braucht Teaser für erste Bieterkontakte, Information Memorandum und Process Letter für strukturierten… |
 | `grosskanzlei-corporate-ma-transaktionsstruktur` | Transaktionsstruktur für M&A entwickeln und Varianten bewerten: Anwendungsfall Mandant fragt welche Transaktionsstruktur für seinen Unternehmenskauf -verkauf oder Carve-out am besten passt. Share Deal Asset Deal… |
-| `grosskanzlei-corporate-ma-translations-multijurisdictional` | Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Laendern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich.… |
+| `grosskanzlei-corporate-ma-translations-multijurisdictional` | Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Ländern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich.… |
 | `grosskanzlei-corporate-ma-umwandlungsrecht` | Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im… |
 | `grosskanzlei-corporate-ma-umwandlungssteuerrecht` | Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG… |
 | `grosskanzlei-corporate-ma-vertragsmarkup-key-issues` | SPA/APA/NDA Markup analysieren und Key Issues List erstellen: Anwendungsfall Anwalt erhaelt Gegenentwurf oder Markup und muss wirtschaftlich relevante Abweichungen strukturieren und Gegenvorschlaege formulieren. §§ 433… |
@@ -180,9 +180,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin ist ein vollstaendiges Big-Law-Corporate/M&A-Arbeitssystem fuer Partner, Associates und Kanzleipersonal. Es deckt den gesamten Transaktionslebenszyklus ab: vom Deal-Intake und der Mandatskonflikts-Pruefung ueber Datenraum-Aufbau und Legal Due Diligence bis hin zu SPA/APA-Entwurf, Signing, Closing und Post-Merger-Integration. Hinzu kommen spezialisierte Teilmodule fuer Public M&A, Umwandlungsrecht, StaRUG-Restrukturierung, Distressed M&A und W&I-Versicherung.
+Das Plugin ist ein vollstaendiges Big-Law-Corporate/M&A-Arbeitssystem für Partner, Associates und Kanzleipersonal. Es deckt den gesamten Transaktionslebenszyklus ab: vom Deal-Intake und der Mandatskonflikts-Pruefung ueber Datenraum-Aufbau und Legal Due Diligence bis hin zu SPA/APA-Entwurf, Signing, Closing und Post-Merger-Integration. Hinzu kommen spezialisierte Teilmodule für Public M&A, Umwandlungsrecht, StaRUG-Restrukturierung, Distressed M&A und W&I-Versicherung.
 
-Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narratives, GoBD-konforme E-Rechnung, KI-Governance im Transaktionsmandat und einen freundlichen Copilot-Modus fuer Junior-Associates. Zielgruppe sind Corporate/M&A-Kanzleien aller Groessen sowie Inhouse-M&A-Teams.
+Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narratives, GoBD-konforme E-Rechnung, KI-Governance im Transaktionsmandat und einen freundlichen Copilot-Modus für Junior-Associates. Zielgruppe sind Corporate/M&A-Kanzleien aller Groessen sowie Inhouse-M&A-Teams.
 
 ## Wann dieses Modul hilft?
 
@@ -190,7 +190,7 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - Anwalt begleitet Sell-side- oder Buy-side-Transaktion und muss Due-Diligence-Prozess strukturieren und berichten.
 - SPA oder APA soll entworfen oder ein Gegenentwurf markiert und kommentiert werden.
 - Transaktion naehert sich Closing; CP-Kalender, Signing-Pack und Closing-Bible muessen vorbereitet werden.
-- Kanzlei muss fuer M&A-Mandat GoBD-konforme E-Rechnung erstellen oder Liquiditaetsvorschau fuer krisennahen Mandanten erbringen.
+- Kanzlei muss für M&A-Mandat GoBD-konforme E-Rechnung erstellen oder Liquiditaetsvorschau für krisennahen Mandanten erbringen.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -199,9 +199,9 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - **W&I-Versicherung** — Warranty and Indemnity Insurance; versichert Gewaehrleistungs- und Freistellungsansprueche aus SPA.
 - **Conditions Precedent (CP)** — Vertragliche Bedingungen, die zwischen Signing und Closing erfuellt werden muessen.
 - **Closing Bible** — Vollstaendiges Archiv aller Transaktionsdokumente nach Closing; Nachweis der gesamten Transaktion.
-- **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz; ermoeglicht ausserinsolvenzliche Restrukturierung fuer Unternehmen mit drohender Zahlungsunfaehigkeit.
+- **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz; ermoeglicht ausserinsolvenzliche Restrukturierung für Unternehmen mit drohender Zahlungsunfaehigkeit.
 - **PMI** — Post-Merger-Integration; Umsetzung der DD-Findings und SPA-Pflichten nach Closing.
-- **GoBD** — Grundsaetze ordnungsmaessiger Datenfuehrung; relevanter Rahmen fuer elektronische Buchfuehrung und E-Rechnung.
+- **GoBD** — Grundsaetze ordnungsmäßiger Datenfuehrung; relevanter Rahmen für elektronische Buchfuehrung und E-Rechnung.
 - **FDI-Pruefung** — Foreign Direct Investment; Investitionspruefung bei Erwerb strategisch bedeutsamer Unternehmen durch Auslaender (AWG, AWVO).
 - **Fusionskontrolle** — Merger Control; Anmeldung und Freigabe durch Kartellbehoerden (EU-Kommission, Bundeskartellamt) vor Vollzug.
 
@@ -214,11 +214,11 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - MAR (EU-Marktmissbrauchsverordnung) — Kapitalmarktrecht bei boersennotierten Zielunternehmen
 - StaRUG — Restrukturierungsgesetz
 - InsO — Insolvenzrecht (Distressed M&A)
-- AWG / AWVO — Investitionspruefung fuer FDI
+- AWG / AWVO — Investitionspruefung für FDI
 - §§ 35 ff. GWB, Art. 1 ff. FKVO — Fusionskontrolle (national und EU)
 - GoBD-Schreiben des BMF — Elektronische Buchfuehrung
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Deal-Intake: Transaktionstyp, Parteien und Timeline erfassen; Interessenkonflikt und GwG-Pruefung starten.
 2. Aktenanlage und Staffing: Matter-Workspace anlegen, Deal-Team besetzen und Look-and-Feel festlegen.
@@ -229,17 +229,17 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 ## Skill-Tour (was gibt es hier?)
 
 **Deal-Setup und Mandatsfuehrung**
-- `grosskanzlei-corporate-ma-kommandocenter` — Deal-Kommandocenter: Schnellstart und Fallrouting fuer alle Transaktionsphasen.
+- `grosskanzlei-corporate-ma-kommandocenter` — Deal-Kommandocenter: Schnellstart und Fallrouting für alle Transaktionsphasen.
 - `grosskanzlei-corporate-ma-kaltstart` — Kanzlei- und Mandantenpraeferenzen erfassen; erstes Plugin-Setup konfigurieren.
 - `grosskanzlei-corporate-ma-deal-intake` — Neues M&A-Mandat aufnehmen und strukturieren; Erstanfrage bearbeiten.
 - `grosskanzlei-ma-aktenanlage` — M&A-Aktenanlage und Deal-Workspace anlegen.
 - `grosskanzlei-corporate-ma-matter-file` — Deal-Akte und Matter-Workspace strukturieren.
 - `grosskanzlei-corporate-ma-deal-team-staffing` — Deal-Team besetzen und Staffing-Plan erstellen.
-- `grosskanzlei-corporate-ma-look-and-feel` — Einheitliches Ausgabeformat fuer alle Deal-Outputs konfigurieren.
+- `grosskanzlei-corporate-ma-look-and-feel` — Einheitliches Ausgabeformat für alle Deal-Outputs konfigurieren.
 - `grosskanzlei-corporate-ma-conflict-gwg-sanctions` — Interessenkonflikte, GwG-Pruefung und Sanktions-Screening bei Mandatsannahme.
 
 **Target-Screening und Due Diligence**
-- `grosskanzlei-corporate-ma-outside-in-target-screening` — Zielobjekt-Screening aus oeffentlichen Quellen; Pipeline-Analyse.
+- `grosskanzlei-corporate-ma-outside-in-target-screening` — Zielobjekt-Screening aus öffentlichen Quellen; Pipeline-Analyse.
 - `grosskanzlei-corporate-ma-datenraum-aufbau` — Due-Diligence-Datenraum strukturieren und besetzen.
 - `grosskanzlei-corporate-ma-datenraum-gap-clean-room` — Datenraum-Lueckenanalyse und Clean-Room-Protokoll.
 - `grosskanzlei-corporate-ma-due-diligence-legal` — Legal Due Diligence: Corporate, Rechtsstreitigkeiten, Regulierung.
@@ -247,18 +247,18 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - `grosskanzlei-corporate-ma-due-diligence-reporting` — DD-Report erstellen und strukturieren.
 - `grosskanzlei-corporate-ma-qa-information-requests` — Q&A-Prozess und Information Requests steuern.
 - `grosskanzlei-corporate-ma-tabellenreview-3d-datenraum` — 3D-Tabellenreview: Dokumente, Datenpunkte und Recht/Steuer/Wirtschaft-Perspektiven verbinden.
-- `grosskanzlei-ma-tabellenreview` — Freistehender Tabellenreview fuer Corporate-M&A-Dokumente.
-- `grosskanzlei-corporate-ma-expert-calls-transkripte` — Expert Calls und Transkript-Auswertung fuer DD.
+- `grosskanzlei-ma-tabellenreview` — Freistehender Tabellenreview für Corporate-M&A-Dokumente.
+- `grosskanzlei-corporate-ma-expert-calls-transkripte` — Expert Calls und Transkript-Auswertung für DD.
 - `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle` — KI-Qualitaetskontrolle und Halluzinations-Absicherung in DD-Berichten.
 
 **Transaktionsstruktur und Vertraege**
 - `grosskanzlei-corporate-ma-transaktionsstruktur` — Transaktionsstruktur entwickeln und Varianten bewerten.
-- `grosskanzlei-corporate-ma-spa-apa-entwurf` — SPA und APA entwerfen: Kaufvertrag fuer Share Deal oder Asset Deal.
+- `grosskanzlei-corporate-ma-spa-apa-entwurf` — SPA und APA entwerfen: Kaufvertrag für Share Deal oder Asset Deal.
 - `grosskanzlei-corporate-ma-vertragsmarkup-key-issues` — SPA/APA/NDA Markup analysieren und Key Issues List erstellen.
 - `grosskanzlei-corporate-ma-disclosure-schedules` — Disclosure Schedules und Guarantees-Abgleich erstellen.
 - `grosskanzlei-corporate-ma-fair-disclosure-knowledge` — Fair Disclosure und Wissenszurechnung in M&A-Vertraegen klaeren.
 - `grosskanzlei-corporate-ma-wi-insurance` — W&I-Versicherung strukturieren; Buy-side oder Sell-side Policy.
-- `grosskanzlei-ma-schreibcanvas` — Freistehender Schreibcanvas fuer SPA-Klausel, Board Paper und DD-Report.
+- `grosskanzlei-ma-schreibcanvas` — Freistehender Schreibcanvas für SPA-Klausel, Board Paper und DD-Report.
 
 **Signing, Closing und PMI**
 - `grosskanzlei-corporate-ma-signing-closing-conditions` — Signing-to-Closing mit Conditions Precedent managen.
@@ -277,23 +277,23 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - `grosskanzlei-corporate-ma-distressed-ma` — Distressed M&A: Unternehmenskauf in Krise oder Insolvenz.
 - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan` — StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten.
 - `grosskanzlei-ma-insolvenzreife` — Insolvenzreife- und StaRUG-Schwellencheck.
-- `grosskanzlei-ma-liquiditaetsvorschau` — Liquiditaetsvorschau fuer Corporate M&A und Distressed.
+- `grosskanzlei-ma-liquiditaetsvorschau` — Liquiditaetsvorschau für Corporate M&A und Distressed.
 - `grosskanzlei-corporate-ma-gesellschaftsrecht-register` — Corporate Housekeeping und Register-Pruefung.
 - `grosskanzlei-corporate-ma-handelsregisterabruf` — Handelsregister-Abruf und Registerrecherche.
 
 **Prozess und Kommunikation**
 - `grosskanzlei-corporate-ma-teaser-im-processdocs` — Investment Teaser, Information Memorandum und Prozessdokumente erstellen.
-- `grosskanzlei-corporate-ma-simulation-bidder-process` — Bieterprozess simulieren fuer Training und Mandatsvorbereitung.
+- `grosskanzlei-corporate-ma-simulation-bidder-process` — Bieterprozess simulieren für Training und Mandatsvorbereitung.
 - `grosskanzlei-corporate-ma-translations-multijurisdictional` — Multi-Jurisdiction-Koordination und Uebersetzungen.
-- `grosskanzlei-corporate-ma-rechtsprechungsrecherche` — Rechtsprechungsrecherche fuer Gutachten, Schriftsatz oder DD-Report.
+- `grosskanzlei-corporate-ma-rechtsprechungsrecherche` — Rechtsprechungsrecherche für Gutachten, Schriftsatz oder DD-Report.
 - `grosskanzlei-corporate-ma-board-paper-business-judgment` — Board Paper und Business Judgment Rule Pruefung.
-- `grosskanzlei-corporate-ma-automation-monitoring` — Monitoring und Automatisierungen fuer laufende M&A-Mandate einrichten.
+- `grosskanzlei-corporate-ma-automation-monitoring` — Monitoring und Automatisierungen für laufende M&A-Mandate einrichten.
 
 **Kanzlei-Querschnitt**
-- `grosskanzlei-corporate-ma-billing-narratives` — Billing Narratives und Abrechnung fuer M&A-Mandate erstellen.
+- `grosskanzlei-corporate-ma-billing-narratives` — Billing Narratives und Abrechnung für M&A-Mandate erstellen.
 - `grosskanzlei-ma-erechnung-gobd` — GoBD-konformer Billing- und E-Rechnungsworkflow.
 - `grosskanzlei-corporate-ma-ki-governance-berufsrecht` — KI-Einsatz im Transaktionsmandat berufsrechtlich absichern.
-- `grosskanzlei-corporate-ma-freundlicher-copilot` — Freundlicher Copilot-Modus fuer Junior-Associates und Trainees.
+- `grosskanzlei-corporate-ma-freundlicher-copilot` — Freundlicher Copilot-Modus für Junior-Associates und Trainees.
 - `ki-einsatz-bei-gutachten-mandatsseite` — Grosskanzlei-Mandatsseite bei KI-Verdacht gegenueber Sachverstaendigengutachten.
 
 ## Worauf besonders achten
@@ -301,7 +301,7 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - Signing ohne erfuellte CPs schafft schwebende Unwirksamkeit; CP-Checkliste muss lueckenlos sein.
 - W&I-Versicherungsschlupfloecher: Policy deckt typischerweise keine Steuern, keine Pensionsverpflichtungen und keine bekannten Risiken ab; DD-Ergebnis und Policy-Schutzbereich muessen abgeglichen werden.
 - FDI-Pruefung und Fusionskontrolle laufen parallel; unterschiedliche Fristen bei EU-Kommission, Bundeskartellamt und BMWK erfordern sorgfaeltige Koordination.
-- GoBD-konforme E-Rechnung ist seit 2025 fuer B2B-Transaktionen Pflicht (gestaffelt); Kanzlei muss eigene Rechnungen anpassen.
+- GoBD-konforme E-Rechnung ist seit 2025 für B2B-Transaktionen Pflicht (gestaffelt); Kanzlei muss eigene Rechnungen anpassen.
 - KI-generierte DD-Berichte und Schriftsaetze muessen vor Versand auf Halluzinationen und Quellenangaben geprueft werden (§ 43a BRAO Sorgfaltspflicht).
 
 ## Typische Fehler
@@ -309,7 +309,7 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - Datenraum-Indexierung vergessen: Ohne klare Nummerierung und Kategorien koennen Datenpunkte in DD-Berichten nicht zugeordnet werden.
 - Knowledge-Qualifier zu grosszuegig: Breite Wissensdefinition im SPA erhoht Haeftungsrisiko des Verkaeufers erheblich.
 - Anteilsvinkulierung uebersehen: Bei GmbH-Anteilen kann Satzung Zustimmungserfordernis der Gesellschaft vorsehen; fehlende Zustimmung macht Abtretung unwirksam.
-- Umwandlungssteuerliche Rueckwirkung versaeumt: Stichtag fuer steuerliche Rueckwirkung bei Verschmelzung ist maximal acht Monate vor Anmeldung; spaetere Einreichung schliesst Rueckwirkung aus.
+- Umwandlungssteuerliche Rueckwirkung versaeumt: Stichtag für steuerliche Rueckwirkung bei Verschmelzung ist maximal acht Monate vor Anmeldung; spaetere Einreichung schliesst Rueckwirkung aus.
 - PMI-Planung vernachlaessigt: Earn-Out-Mechanismen, Carve-out-Restaufgaben und Mitarbeitertransfer werden nach Closing haeufig nicht geplant und fuehren zu SPA-Streitigkeiten.
 
 ## Querverweise
@@ -340,9 +340,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

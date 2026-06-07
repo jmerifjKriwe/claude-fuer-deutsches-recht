@@ -22,7 +22,7 @@ description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-re
 
 ## AGB-Rechtliche Pruefung
 
-- Standardmuster sind AGB im Sinne § 305 BGB, soweit fuer Vielzahl von Vertraegen.
+- Standardmuster sind AGB im Sinne § 305 BGB, soweit für Vielzahl von Vertraegen.
 - Spannungsverhaeltnis zwischen branchenueblicher Anwendbarkeit und deutscher AGB-Kontrolle.
 
 ## ICC Force Majeure 2020

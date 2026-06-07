@@ -19,7 +19,7 @@ Skill zur rechtlichen Pruefung von Beurteilungsbeitraegen Dritter im beamtenrech
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Mandanten, deren dienstliche Beurteilung ohne Einbindung eines frueheren oder parallelen Dienstvorgesetzten erstellt wurde, obwohl dieser im Beurteilungszeitraum die Leistung des Beamten beobachten konnte. Typisch: Abordnung in andere Behoerde, Wechsel des Vorgesetzten, Erziehungs- oder Pflegezeit, Auslandsverwendung.
+Skill für Mandanten, deren dienstliche Beurteilung ohne Einbindung eines frueheren oder parallelen Dienstvorgesetzten erstellt wurde, obwohl dieser im Beurteilungszeitraum die Leistung des Beamten beobachten konnte. Typisch: Abordnung in andere Behörde, Wechsel des Vorgesetzten, Erziehungs- oder Pflegezeit, Auslandsverwendung.
 
 ## 2. Eingaben
 
@@ -52,14 +52,14 @@ Skill fuer Mandanten, deren dienstliche Beurteilung ohne Einbindung eines fruehe
 
 ## 4. Quellenpflicht
 
-- Normen: §§ 21, 22 BBG; § 18 BLV; einschlaegige Beurteilungsrichtlinien (BMI-VwV, Laender-VwV).
+- Normen: §§ 21, 22 BBG; § 18 BLV; einschlaegige Beurteilungsrichtlinien (BMI-VwV, Länder-VwV).
 - Rspr.: BVerwG zur Funktion und Notwendigkeit von Beurteilungsbeitraegen — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat
 
 - Anfechtungsantrag gegen Beurteilung mit Begruendung.
-- Schriftsatzbaustein "Anordnungsanspruch — Beurteilungsbeitragsmangel" fuer den Konkurrenteneilantrag.
+- Schriftsatzbaustein "Anordnungsanspruch — Beurteilungsbeitragsmangel" für den Konkurrenteneilantrag.
 
 ## 6. Verifizierte Quellenanker
 

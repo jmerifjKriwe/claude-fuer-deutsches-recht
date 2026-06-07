@@ -20,16 +20,16 @@ Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlast
 ## Triage zu Beginn
 
 1. **Wer sind die Belastungszeugen?** — Polizeibeamte, Geschaedigte, Passanten, Sachverstaendige — unterschiedliche Erschuetterungsstrategien.
-2. **Haben die Zeugen fruehere Aussagen gemacht?** — Polizeivernehmung, Anhoerung im OWi-Verfahren, andere Verfahren — Inkonsistenzen nutzen.
+2. **Haben die Zeugen fruehere Aussagen gemacht?** — Polizeivernehmung, Anhörung im OWi-Verfahren, andere Verfahren — Inkonsistenzen nutzen.
 3. **Zeugnisverweigerungsrecht vorhanden?** — § 52 StPO: Angehoerige; § 53 StPO: Berufsgeheimnisstraeger. Zeuge ueber Recht belehrt?
 4. **Aussage-Konstanz pruefen:** Sind Angaben in der Polizeiaussage identisch mit der HV-Aussage? Abweichungen sind Angriffspunkt.
 5. **Schriftsatzzeugen:** Dokumentarische Beweise (Messprotokolle, Bericht der Polizei) als Ergaenzung zu Zeugenbefragung.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-- **§ 52 StPO** — Zeugnisverweigerungsrecht fuer Angehoerige; ohne Belehrung = absolutes Beweisverwertungsverbot
-- **§ 53 StPO** — Zeugnisverweigerungsrecht fuer Berufsgeheimnisstraeger (Aerzte, Anwaelte, etc.)
+- **§ 52 StPO** — Zeugnisverweigerungsrecht für Angehoerige; ohne Belehrung = absolutes Beweisverwertungsverbot
+- **§ 53 StPO** — Zeugnisverweigerungsrecht für Berufsgeheimnisstraeger (Aerzte, Anwaelte, etc.)
 - **§ 55 StPO** — Auskunftsverweigerungsrecht bei Selbstbelastung (nemo tenetur)
 - **§ 68 StPO** — Zeugenpflichten: erscheinen, Zeugnis ablegen (mit Ausnahmen)
 - **§ 68a StPO** — Fragen nach Vorstrafen des Zeugen zulaessig zur Glaubwuerdigkeitspruefung
@@ -61,7 +61,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Dienstprotokoll: Wann, Wo, Was genau aufgeschrieben?
 - Erinnerung oder Protokoll-Wiedergabe? ("Erinnern Sie sich persoenlich oder lesen Sie aus Protokoll?")
 - Sicherheitsabstand, Sichtweitverhaeltnisse, Beschilderung — Messbedingungen
-- Schulung fuer das eingesetzte Messgeraet?
+- Schulung für das eingesetzte Messgeraet?
 
 **Geschaedigter/Opfer-Zeuge:**
 - Emotionale Beteiligung → Glaubwuerdigkeitsanalyse
@@ -79,10 +79,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Zeugen-Befragungsstrategie fuer Strafbefehl-Verfahren erstellen | Frageliste nach Schema; Template unten |
+| Standard — Zeugen-Befragungsstrategie für Strafbefehl-Verfahren erstellen | Frageliste nach Schema; Template unten |
 | Variante A — Zeuge ist Belastungszeuge offensichtlich feindlich | Kurze konfrontative Befragung; kein ausfuehrliches Kreuzverhoer |
 | Variante B — Zeuge kennt Mandanten gut Entlastung moeglich | Entlastungszeuge foerdern; ausfuehrliche Befragung zu Gunsten |
-| Variante C — Zeuge verweigert Aussage zu erwarten | Befragungsstrategie fuer Aussageverweigerung vorbereiten |
+| Variante C — Zeuge verweigert Aussage zu erwarten | Befragungsstrategie für Aussageverweigerung vorbereiten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -97,7 +97,7 @@ Fragen:
 2. [Vertiefungsfrage zur frueheren Aussage]
 3. [Vorhalt-Frage: "In Ihrer Aussage vom [DATUM] haben Sie [X] gesagt..."]
 4. [Praezisionsfrage zur Wahrnehmungsgrundlage]
-5. [Abschlussfrage fuer entlastenden Aspekt]
+5. [Abschlussfrage für entlastenden Aspekt]
 
 Erwartetes Ergebnis: [Entlastung / Erschuetterung / Vorhalt]
 ```
@@ -108,7 +108,7 @@ Erwartetes Ergebnis: [Entlastung / Erschuetterung / Vorhalt]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

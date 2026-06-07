@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-mauerwerk-fugenbild
-description: "Bauueberwachung HOAI LPH 8 fuer Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation fuer spaetere Schadensrekonstruktion im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation für spaetere Schadensrekonstruktion im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Mauerwerk und Fugenbild
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation fuer spaetere Schadensrekonstruktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation für spaetere Schadensrekonstruktion. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Bauueberwachung HOAI LPH 8 fuer Mauerwerksbauten mit Fokus auf Fugenbildkontroll
 
 ## Spezialwissen
 
-Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig: Lagerfugen zu dick oder zu duenn, nicht vermoeelte Stossfugen, falsche Steinformate oder ungenuegend eingebundene Sturze fuehren spaeter zu Rissen und Feuchteeintraegen. Die Bauueberwachung in LPH 8 kontrolliert Fugenbild, Mauermoertelklasse und Steindruckfestigkeit als Konformitaetsnachweis und dokumentiert fotographisch fuer die Gewaehrleistungsphase.
+Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig: Lagerfugen zu dick oder zu duenn, nicht vermoeelte Stossfugen, falsche Steinformate oder ungenuegend eingebundene Sturze fuehren spaeter zu Rissen und Feuchteeintraegen. Die Bauueberwachung in LPH 8 kontrolliert Fugenbild, Mauermoertelklasse und Steindruckfestigkeit als Konformitaetsnachweis und dokumentiert fotographisch für die Gewaehrleistungsphase.
 
 ## Bauwerk und Auftrag
 
@@ -42,7 +42,7 @@ Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig:
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Werkstoffpruefung und Konformitaetsnachweis
 - VOB/C DIN 18330 Mauerarbeiten: Mauermoertelklassen, Mindestanforderungen Fugenbild, Aufmass nach Flaeche
 - DIN EN 1996-2 EC6 Eurocode 6 Mauerwerk: Ausfuehrung Mauerwerk, Fugenstärke, Vermoertelung Stossfugen
-- DIN EN 771-1 Mauerziegel: Druckfestigkeit, Masstoleranzen, CE-Kennzeichnung fuer Ziegelsteine
+- DIN EN 771-1 Mauerziegel: Druckfestigkeit, Masstoleranzen, CE-Kennzeichnung für Ziegelsteine
 - DIN 20000-412 Mauermoertel: Klassen LM 21 LM 36 NM 5 NM 10, Verwendungsregeln im Hochbau
 
 ## Prueferaster und Kontrollpunkte
@@ -59,7 +59,7 @@ Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig:
 - Fotodokumentation je Geschossebene: Foto Wandansicht je 10 m Laenge, Detailfotos Fensterbruestung, Sturzauflager, Wandstoss, GPS-Tag
 - Matterport 360-Grad-Scan Rohbau Mauerwerk: Bestandsdokumentation vor Verputz, Massstabsgerechte Messung Oeffnungen im Viewer
 - Lieferscheinarchiv: Scan je Liefercharge Mauerziegel und Moertel, Verknuepfung zu Bauabschnitt und Geschoss
-- PlanRadar Lageplan-Grundriss: Mael-Pin fuer Fugenbildmangel, Foto-Pflicht, Wandachse-Bezeichnung
+- PlanRadar Lageplan-Grundriss: Mael-Pin für Fugenbildmangel, Foto-Pflicht, Wandachse-Bezeichnung
 - Zeitraffervideo Mauerwerksaufbau: GoPro HERO11 stationaer alle 10 Minuten, Fugenbildverlauf und Mauerungstempo sichtbar
 
 ## Meldungserstellung im ERP / SAP

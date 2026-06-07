@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reich
 
 ## Worum es geht
 
-Die WRV war die erste demokratische Gesamtverfassung Deutschlands. Sie galt formal bis 1945, wurde aber ab 1930 durch Art. 48 Notverordnungen ausgehoehlt und ab 1933 durch das Ermächtigungsgesetz und die NS-Gleichschaltung suspendiert. Sie ist Referenztext fuer das GG 1949, weil das GG bewusst aus ihren Konstruktionsfehlern lernt.
+Die WRV war die erste demokratische Gesamtverfassung Deutschlands. Sie galt formal bis 1945, wurde aber ab 1930 durch Art. 48 Notverordnungen ausgehoehlt und ab 1933 durch das Ermächtigungsgesetz und die NS-Gleichschaltung suspendiert. Sie ist Referenztext für das GG 1949, weil das GG bewusst aus ihren Konstruktionsfehlern lernt.
 
 ## Kernnormen / Kernquellen
 
@@ -43,7 +43,7 @@ Die WRV war die erste demokratische Gesamtverfassung Deutschlands. Sie galt form
 3. Reichstagsaufloesungen als Routinemittel ab 1930
 4. Grundrechtsteil als programmatische Leitnorm vs. unmittelbar geltendes Recht
 5. Fehlen einer Ewigkeitsklausel: GG Art. 79 III als Antwort
-6. Wirtschaftsverfassung Art. 151-165 als Vorbild fuer soziale Marktwirtschaft
+6. Wirtschaftsverfassung Art. 151-165 als Vorbild für soziale Marktwirtschaft
 
 ## Methodik
 
@@ -57,8 +57,8 @@ Die WRV war die erste demokratische Gesamtverfassung Deutschlands. Sie galt form
 - Verfassungsrechtliches Memo zur historischen Einordnung
 - Vergleichstabelle WRV - GG zu einzelnen Instituten
 - Quellenmatrix mit Reichsgesetzblatt-Fundstellen
-- Erklaertext fuer Unterricht und Klausur
+- Erklaertext für Unterricht und Klausur
 
 ## Quellenregel
 
-Nur frei pruefbare Quellen: documentArchiv.de fuer WRV-Text, Reichsgesetzblatt via ALEX/OeNB, Reichstagsprotokolle via reichstagsprotokolle.de. Sekundaerliteratur mit Autor, Werk, Stelle.
+Nur frei prüfbare Quellen: documentArchiv.de für WRV-Text, Reichsgesetzblatt via ALEX/OeNB, Reichstagsprotokolle via reichstagsprotokolle.de. Sekundaerliteratur mit Autor, Werk, Stelle.

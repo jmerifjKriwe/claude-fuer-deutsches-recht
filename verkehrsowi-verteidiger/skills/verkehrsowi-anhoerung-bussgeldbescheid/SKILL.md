@@ -1,13 +1,13 @@
 ---
 name: verkehrsowi-anhoerung-bussgeldbescheid
-description: "Anhoerung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhoerungsbogen oder Bußgeldbescheid erhalten. Normen: § 55 OWiG (Anhoerung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67 OWiG (Einspruch 2-Wochen-Frist). Prüfraster: Anhoerungsbogen zurücksenden oder nicht, Schweige-Empfehlung, Frist ab Zustellung. Output Empfehlungsschreiben Mandant, Muster Schweigeerklarung, Einspruchs-Template. Abgrenzung: Einspruch und Frist siehe verkehrsowi-fristen-einspruch; Messverfahren-Angriff siehe verkehrsowi-beweisverwertung-standardisiert im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhörungsbogen oder Bußgeldbescheid erhalten. Normen: § 55 OWiG (Anhörung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67 OWiG (Einspruch 2-Wochen-Frist). Prüfraster: Anhörungsbogen zurücksenden oder nicht, Schweige-Empfehlung, Frist ab Zustellung. Output Empfehlungsschreiben Mandant, Muster Schweigeerklarung, Einspruchs-Template. Abgrenzung: Einspruch und Frist siehe verkehrsowi-fristen-einspruch; Messverfahren-Angriff siehe verkehrsowi-beweisverwertung-standardisiert im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Anhoerung und Bussgeldbescheid — §§ 55 und 66 OWiG
+# Anhörung und Bussgeldbescheid — §§ 55 und 66 OWiG
 
 ## Arbeitsbereich
 
-Anhoerung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhoerungsbogen oder Bußgeldbescheid erhalten. Normen: § 55 OWiG (Anhoerung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67 OWiG (Einspruch 2-Wochen-Frist). Prüfraster: Anhoerungsbogen zurücksenden oder nicht, Schweige-Empfehlung, Frist ab Zustellung. Output Empfehlungsschreiben Mandant, Muster Schweigeerklarung, Einspruchs-Template. Abgrenzung: Einspruch und Frist siehe verkehrsowi-fristen-einspruch; Messverfahren-Angriff siehe verkehrsowi-beweisverwertung-standardisiert. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhörungsbogen oder Bußgeldbescheid erhalten. Normen: § 55 OWiG (Anhörung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67 OWiG (Einspruch 2-Wochen-Frist). Prüfraster: Anhörungsbogen zurücksenden oder nicht, Schweige-Empfehlung, Frist ab Zustellung. Output Empfehlungsschreiben Mandant, Muster Schweigeerklarung, Einspruchs-Template. Abgrenzung: Einspruch und Frist siehe verkehrsowi-fristen-einspruch; Messverfahren-Angriff siehe verkehrsowi-beweisverwertung-standardisiert. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,15 +19,15 @@ Anhoerung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 
 ## Triage zu Beginn
 
-1. **Anhoerungsbogen erhalten?** — Unterschied zum Bussgeldbescheid: Anhoerung ist Vorstadium; kein Bussgeldbescheid noch offen.
-2. **Schweigen oder Stellungnahme?** — § 55 OWiG: Betroffener muss auf Anhoerung nicht reagieren; Schweigen kann nicht nachteilig gewertet werden.
+1. **Anhörungsbogen erhalten?** — Unterschied zum Bussgeldbescheid: Anhörung ist Vorstadium; kein Bussgeldbescheid noch offen.
+2. **Schweigen oder Stellungnahme?** — § 55 OWiG: Betroffener muss auf Anhörung nicht reagieren; Schweigen kann nicht nachteilig gewertet werden.
 3. **Fahreridentifikation?** — Betroffener muss sich nicht als Fahrender identifizieren; Halter-Auskunft ist OWi-Pflicht (§ 31a StVG bei Halter-Anfrage), aber Fahrernennung ist freiwillig.
 4. **Bussgeldbescheid bereits erlassen?** — Wenn ja: Einspruchsfrist 2 Wochen ab Zustellung (§ 67 Abs. 1 OWiG) pruefen.
 5. **Zustellungsfiktion pruefen?** — § 33 Abs. 1 OWiG i.V.m. §§ 177-182 ZPO; Einwurf-Einschreiben.
 
 ## Zentrale Normen
 
-- **§ 55 OWiG** — Anhoerung des Betroffenen: Behörde muss hoeren; Betroffener muss nicht antworten
+- **§ 55 OWiG** — Anhörung des Betroffenen: Behörde muss hoeren; Betroffener muss nicht antworten
 - **§ 55 Abs. 1 OWiG** — Schweigen ist nicht zu seinen Ungunsten zu verwenden
 - **§ 66 OWiG** — Inhalt des Bussgeldbescheidss; Pflichtangaben nach § 66 Abs. 1 Nr. 1-7 OWiG
 - **§ 67 Abs. 1 OWiG** — Einspruch: 2 Wochen ab Zustellung des Bussgeldbescheids
@@ -42,10 +42,10 @@ Anhoerung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Anhoerungsbogen — Strategie
+## Anhörungsbogen — Strategie
 
 ```
-Anhoerungsbogen erhalten:
+Anhörungsbogen erhalten:
 ├─ EMPFEHLUNG: Nicht ausfullen, nicht zuruecksenden (Schweigen § 55 OWiG)
 ├─ Ausnahme: Fahreridentifikation offensichtlich aus anderen Quellen bekannt?
 │ └─ Dann kann Einlassung zur Sache sinnvoll sein (selten)
@@ -92,7 +92,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 ## Harte Leitplanken
 
-- Anhoerungsbogen nicht selbst ausfullen lassen — Schweigerecht empfehlen.
+- Anhörungsbogen nicht selbst ausfullen lassen — Schweigerecht empfehlen.
 - Einspruchsfrist 2 Wochen ab Zustellung (§ 67 OWiG) — sofort notieren.
 - Bussgeldbescheid auf Pflichtinhalt nach § 66 OWiG pruefen.
 - Anwaltliche Endkontrolle bei Einspruchsformulierung.

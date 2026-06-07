@@ -1,13 +1,13 @@
 ---
 name: dienstgericht-richter-dienstliche-beurteilung
-description: "Skill zum Dienstgericht fuer Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zustaendigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Dienstgericht fuer Richter
+# Dienstgericht für Richter
 
 ## Arbeitsbereich
 
-Skill zum Dienstgericht fuer Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zustaendigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Skill zum Dienstgericht fuer Richter nach §§ 61 ff. DRiG und den Landesrichter
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidigen wollen. Anwendung typisch bei Disziplinarsachen, Pruefverfahren wegen Eingriffen in die richterliche Unabhaengigkeit (§ 26 DRiG) oder Streit um die Geschaeftsverteilung.
+Skill für Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidigen wollen. Anwendung typisch bei Disziplinarsachen, Pruefverfahren wegen Eingriffen in die richterliche Unabhaengigkeit (§ 26 DRiG) oder Streit um die Geschaeftsverteilung.
 
 ## 2. Eingaben
 
@@ -30,8 +30,8 @@ Skill fuer Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidige
 
 ## 3. Ablauf / Checkliste
 
-### a) Zustaendigkeit
-- § 62 DRiG: Dienstgericht des Bundes fuer Bundesrichter, Dienstgerichte der Laender fuer Landesrichter.
+### a) Zuständigkeit
+- § 62 DRiG: Dienstgericht des Bundes für Bundesrichter, Dienstgerichte der Länder für Landesrichter.
 - § 78 DRiG: Disziplinarsachen, Statussachen, Pruefung nach § 26 DRiG.
 
 ### b) Besetzung
@@ -50,7 +50,7 @@ Skill fuer Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidige
 ## 4. Quellenpflicht
 
 - Normen: §§ 26, 61 bis 78 DRiG; Landesrichtergesetze; BDG (entsprechend).
-- Rspr.: BGH zum Dienstgericht des Bundes; OLG-Dienstgerichte der Laender — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Rspr.: BGH zum Dienstgericht des Bundes; OLG-Dienstgerichte der Länder — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat

@@ -9,6 +9,23 @@ description: "Status-Lehre: status libertatis status civitatis status familiae a
 
 Status-Lehre: status libertatis status civitatis status familiae als drei Achsen der roemischen Personenrechtsstellung. Skill behandelt das Zusammenspiel die rechtlichen Konsequenzen und die Wechselwirkungen mit Eigentums- und Erbrecht. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
+## Historische Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
+- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
+- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
+- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
+- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
+- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
+- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
+- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
+- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
+- `Digesten D.44.7.1` — Obligationenquellen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -19,7 +36,7 @@ Status-Lehre: status libertatis status civitatis status familiae als drei Achsen
 
 ## Aufgabe
 
-Skill fuer die roemische Status-Lehre.
+Skill für die roemische Status-Lehre.
 
 ## Drei Achsen
 
@@ -45,10 +62,10 @@ Skill fuer die roemische Status-Lehre.
 - Cives Romani filii familias: vermoegensrechtlich gebunden, aber buergerrechtlich frei.
 - Liberti: cives, aber mit operae-Pflichten gegenueber dem ehemaligen dominus.
 
-## Folgen fuer Vermoegen und Erbrecht
+## Folgen für Vermoegen und Erbrecht
 
 - Filius familias kann nicht selbststaendig Eigentum erwerben (Erwerb faellt an pater).
-- Sklaven erwerben fuer den dominus.
+- Sklaven erwerben für den dominus.
 - Cives Romani peregrini-Ehe: Kinder folgen dem niedrigeren Status.
 
 ## Rechtsquelle
@@ -61,7 +78,7 @@ Skill fuer die roemische Status-Lehre.
 1. Welcher status libertatis?
 2. Welcher status civitatis?
 3. Welcher status familiae?
-4. Folgen fuer das konkrete Geschaeft?
+4. Folgen für das konkrete Geschaeft?
 
 ## Output
 

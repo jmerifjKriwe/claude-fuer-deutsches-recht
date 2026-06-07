@@ -19,7 +19,7 @@ Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. de
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte ab dem 55. Lebensjahr, die ueber Altersteilzeit den gleitenden Uebergang in den Ruhestand wuenschen.
+Skill für Beamte ab dem 55. Lebensjahr, die ueber Altersteilzeit den gleitenden Uebergang in den Ruhestand wuenschen.
 
 ## 2. Eingaben
 
@@ -32,16 +32,16 @@ Skill fuer Beamte ab dem 55. Lebensjahr, die ueber Altersteilzeit den gleitenden
 ## 3. Ablauf / Checkliste
 
 ### a) Voraussetzungen
-- § 93 BBG (Bund); fuer Laender entsprechende Vorschriften.
+- § 93 BBG (Bund); für Länder entsprechende Vorschriften.
 - Mindestalter und Mindestbeschaeftigungsdauer, dienstliche Belange nicht entgegenstehend.
 
 ### b) Modelle
-- Teilzeitmodell: gleichmaessige Reduzierung der Arbeitszeit ueber die gesamte Altersteilzeit.
+- Teilzeitmodell: gleichmäßige Reduzierung der Arbeitszeit ueber die gesamte Altersteilzeit.
 - Blockmodell: Arbeitsphase mit voller Arbeitszeit und anschliessende Freistellungsphase.
 
 ### c) Bezuege
 - Bezuege betragen in der Regel 80 v. H. der Bezuege der entsprechenden Vollzeitbeschaeftigung (Altersteilzeitzuschlag).
-- Auswirkungen auf Beihilfe und Heilfuersorge pruefen.
+- Auswirkungen auf Beihilfe und Heilfürsorge pruefen.
 
 ### d) Ruhegehaltfaehigkeit
 - Altersteilzeit ist anteilig ruhegehaltfaehig.
@@ -65,7 +65,7 @@ Skill fuer Beamte ab dem 55. Lebensjahr, die ueber Altersteilzeit den gleitenden
 
 ## 6. Verifizierte Quellenanker
 
-- § 93 BBG (Altersteilzeit Bund) i.V.m. § 9 ArbZV (Arbeitszeitverordnung); landesrechtliche Altersteilzeitvorschriften (BeamtStG enthaelt keine Altersteilzeitnorm; die Laender regeln Altersteilzeit eigenstaendig in ihren Landesbeamtengesetzen).
+- § 93 BBG (Altersteilzeit Bund) i.V.m. § 9 ArbZV (Arbeitszeitverordnung); landesrechtliche Altersteilzeitvorschriften (BeamtStG enthaelt keine Altersteilzeitnorm; die Länder regeln Altersteilzeit eigenstaendig in ihren Landesbeamtengesetzen).
 - § 6 BeamtVG (ruhegehaltfaehige Dienstzeit Altersteilzeit); § 14 BeamtVG (Versorgungsabschlag).
 - Altersteilzeitzuschlagsverordnung Bund und landesrechtliche Aequivalente.
 - BVerwG zur Altersteilzeit der Beamten — Datum und Az vor Zitat live verifizieren.

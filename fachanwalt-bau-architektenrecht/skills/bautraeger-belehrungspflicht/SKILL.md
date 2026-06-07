@@ -12,7 +12,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 
 | Prüfungslinie | Fokus |
 | --- | --- |
-| `bautraeger-belehrungspflicht-17-beurkg` | Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG fuer Verbraucher. Folgen bei Verstoss. |
+| `bautraeger-belehrungspflicht-17-beurkg` | Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG für Verbraucher. Folgen bei Verstoss. |
 | `bautraeger-bonitaetspruefung-warnsignale` | Bautraeger-Bonitaetspruefung Warnsignale. Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit. |
 | `bautraeger-elektronische-notarverkuendung-2023` | Elektronische notarielle Verkuendung beim Bautraegervertrag. Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. Stand und Grenzen. Liefert Pruefraster. |
 | `bautraeger-finanzierungsgrundschuld-belastungsfolge` | Bautraeger-Finanzierungsgrundschuld und Belastungsfolge. Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Pruefraster. |
@@ -28,7 +28,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 
 ## 1. `bautraeger-belehrungspflicht-17-beurkg`
 
-**Fokus:** Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG fuer Verbraucher. Folgen bei Verstoss.
+**Fokus:** Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG für Verbraucher. Folgen bei Verstoss.
 
 # Bautraeger Belehrungspflicht 17 Beurkg
 
@@ -47,7 +47,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 - Wirtschaftliche Bedeutung der Vorausleistung.
 - MaBV-Schutz und seine Grenzen.
 - Auflassungsvormerkung.
-- Verjaehrung Maengelhaftung.
+- Verjährung Maengelhaftung.
 - Steuerliche Konsequenzen (Grunderwerbsteuer Spekulationsfrist).
 
 ## Folge bei Verstoss
@@ -122,14 +122,14 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 - Im Stand 2024/2025: GmbH-Gruendung online moeglich; Grundstuecksgeschaefte typischerweise weiterhin in Praesenz erforderlich.
 - Aktuellen Stand des elektronischen Notariats vor Anwendung verifizieren — Reformlage in Bewegung.
 
-## Vorteile fuer Erwerber
+## Vorteile für Erwerber
 
 - Erleichterung der Beurkundung bei langen Anreisen.
 - Aufzeichnung der Beurkundung im Notarregister.
 
 ## Nachteile
 
-- Manche Belehrungen verlieren an Gewicht ohne persoenlichen Kontakt.
+- Manche Belehrungen verlieren an Gewicht ohne persönlichen Kontakt.
 - Identifikation kann erschwert sein.
 
 ## Pruefraster
@@ -152,7 +152,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 ## Pfandentnahmen (Pfandfreigaben)
 
 - Mit jedem Erwerber-Ratenzahlung gibt der Bautraeger einen Teil seiner Schuld bei der Bank an die Bank ab.
-- Bank gibt schrittweise Pfandfreigaben fuer einzelne Wohnungen.
+- Bank gibt schrittweise Pfandfreigaben für einzelne Wohnungen.
 
 ## Pflicht der Bank
 

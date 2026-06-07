@@ -130,10 +130,10 @@ Erzeuge immer zuerst eine Statusampel, eine Unterlagenliste, eine Fristen- und R
 | `anschreiben-kurz-und-wuerdig` | Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste. |
 | `begruendung-redaktion-ohne-schablone` | Überarbeitet persönliche Begründung sprachlich, ohne sie zu standardisieren. |
 | `argumente-die-nicht-tragen` | Markiert KDV-schwache Argumente und passende Alternativwege. |
-| `begruendung-fuer-aktive-soldaten` | Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft. |
-| `begruendung-fuer-ungediente` | Spezialwerkstatt für ungediente Antragsteller ohne Umkehrproblem. |
-| `begruendung-fuer-reservisten` | Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe. |
-| `begruendung-fuer-ehemalige-anerkannte` | Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe. |
+| `begruendung-für-aktive-soldaten` | Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft. |
+| `begruendung-für-ungediente` | Spezialwerkstatt für ungediente Antragsteller ohne Umkehrproblem. |
+| `begruendung-für-reservisten` | Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe. |
+| `begruendung-für-ehemalige-anerkannte` | Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe. |
 | `musterung-verweigert-ablehnung` | Erklärt Ablehnungsrisiko bei Musterungsverweigerung. |
 | `musterungsbescheid-bestandskraft` | Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung. |
 | `karrierecenter-und-bapersbw` | Erklärt Behördennamen, Wehrersatzbehörde und frühere Kreiswehrersatzamt-Begriffe. |
@@ -145,7 +145,7 @@ Erzeuge immer zuerst eine Statusampel, eine Unterlagenliste, eine Fristen- und R
 | `rechtsanwaltliche-vollmacht` | Erstellt Vollmacht, Akteneinsicht und Zustellungsbitte. |
 | `anwaltlicher-brief-bapersbw` | Formuliert Schreiben zu Eingang, Weiterleitung, Musterung und §13. |
 | `anwaltlicher-brief-bafza` | Formuliert Schreiben im inhaltlichen Anerkennungsverfahren. |
-| `akte-fuer-gericht-aufbauen` | Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest. |
+| `akte-für-gericht-aufbauen` | Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest. |
 | `parteivernehmung-vorbereiten` | Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor. |
 | `zeugenauswahl-und-aussage` | Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung. |
 | `eidesstattliche-versicherung` | Prüft, ob eidesstattliche Versicherungen zulässig oder sinnvoll sind. |

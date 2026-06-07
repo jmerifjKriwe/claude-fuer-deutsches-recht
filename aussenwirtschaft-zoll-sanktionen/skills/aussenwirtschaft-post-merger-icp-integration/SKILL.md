@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-post-merger-icp-integration
-description: "Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-Standards zwischen Kaeufer und Zielunternehmen, Risikolucken-Schliessen, Schulungsrollout fuer neue Mitarbeiter, BAFA-Mitteilung bei Inhaberwechsel exportkontrollrelevanter Genehmigungen. Output: ICP-Integrationsplan und Meilensteintabelle im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-Standards zwischen Kaeufer und Zielunternehmen, Risikolucken-Schliessen, Schulungsrollout für neue Mitarbeiter, BAFA-Mitteilung bei Inhaberwechsel exportkontrollrelevanter Genehmigungen. Output: ICP-Integrationsplan und Meilensteintabelle im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Post-Merger ICP-Integration: Harmonisierung und Lueckenschliessung
 
 ## Arbeitsbereich
 
-Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-Standards zwischen Kaeufer und Zielunternehmen, Risikolucken-Schliessen, Schulungsrollout fuer neue Mitarbeiter, BAFA-Mitteilung bei Inhaberwechsel exportkontrollrelevanter Genehmigungen. Output: ICP-Integrationsplan und Meilensteintabelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-Standards zwischen Kaeufer und Zielunternehmen, Risikolucken-Schliessen, Schulungsrollout für neue Mitarbeiter, BAFA-Mitteilung bei Inhaberwechsel exportkontrollrelevanter Genehmigungen. Output: ICP-Integrationsplan und Meilensteintabelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -29,12 +29,12 @@ Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-S
 2. Kritische Luecken identifizieren: fehlende Gueterklassifizierungen, kein Sanktionsscreening, kein Ausfuhrverantwortlicher.
 3. BAFA ueber relevante Aenderungen (Inhaberwechsel, Umstrukturierung) informieren; Genehmigungsuebertragung pruefen.
 4. Integrationsplan mit Meilensteinen: sofortige Massnahmen, 3 Monate, 6 Monate.
-5. Schulungsrollout fuer alle exportkontrollrelevanten Mitarbeiter des Zielunternehmens planen.
+5. Schulungsrollout für alle exportkontrollrelevanten Mitarbeiter des Zielunternehmens planen.
 6. Gemeinsames ICP-Handbuch verabschieden und System-Integration (ERP, Screening-Tool) vorantreiben.
 
 ## Rechtsrahmen
 
-- **Art. 12 VO (EU) 2021/821**: ICP als Bedingung fuer Globalgenehmigungen.
+- **Art. 12 VO (EU) 2021/821**: ICP als Bedingung für Globalgenehmigungen.
 - **AWG § 18**: Fortlaufende Strafbarkeit des Rechtsnachfolgers bei Verstossen.
 - **AWV §§ 68 ff.**: Aufzeichnungspflichten unveraendert nach Inhaberwechsel.
 - **§ 25 UmwG**: Gesamtrechtsnachfolge und Haftungswirkung.
@@ -45,7 +45,7 @@ Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-S
 - [ ] ICP-Gap-Analyse vollstaendig durchgefuehrt?
 - [ ] BAFA ueber Inhaberwechsel und Genehmigungsaenderungen informiert?
 - [ ] Kritische Sofortmassnahmen innerhalb erster 30 Tage eingeleitet?
-- [ ] Schulungsplan fuer neue Mitarbeiter konkret terminiert?
+- [ ] Schulungsplan für neue Mitarbeiter konkret terminiert?
 - [ ] Integrationsplan mit Meilensteinen und Verantwortlichen verabschiedet?
 - [ ] Gemeinsames ICP-Handbuch erstellt?
 
@@ -60,7 +60,7 @@ Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-S
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,7 +84,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output

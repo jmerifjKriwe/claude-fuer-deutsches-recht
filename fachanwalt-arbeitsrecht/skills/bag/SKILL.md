@@ -13,7 +13,7 @@ description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungsli
 | Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhoerungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhoerung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhoerungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
+| `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhörung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhörungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhörung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhörungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
 | `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
@@ -58,7 +58,7 @@ Offene Quelle: dejure.org, Vernetzung BAG 03.06.2025 - 9 AZR 104/24; BAG-Pressem
 
 Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Anspruch auf Urlaubsabgeltung in Geld (Paragraf 7 Absatz 4 BUrlG). Dieser ist als reiner Geldanspruch dispositiv und kann grundsaetzlich vergleichsweise erledigt werden — allerdings nur mit klarer, konkret bezifferter Klausel.
 
-## Konsequenz fuer Vergleiche und Aufhebungsvertraege
+## Konsequenz für Vergleiche und Aufhebungsvertraege
 
 Die Entscheidung trifft jeden Aufhebungsvertrag und jeden Prozessvergleich. Eine pauschale Erledigungsklausel vom Typ "mit Erfuellung dieses Vergleichs sind saemtliche Anspruechte aus dem Arbeitsverhaeltnis abgegolten" ist hinsichtlich des gesetzlichen Mindesturlaubs unwirksam, soweit der Vergleich noch im bestehenden Arbeitsverhaeltnis geschlossen wird.
 
@@ -94,11 +94,11 @@ Die Parteien sind sich darueber einig, dass das Arbeitsverhaeltnis zum [Datum] e
 
 ## Nachforderungsmoeglichkeit
 
-Liegt eine pauschale Erledigungsklausel vor, kann die Mandantin den Urlaubsabgeltungsanspruch nach Paragraf 7 Absatz 4 BUrlG fuer den gesetzlichen Mindesturlaub trotz Vergleich noch geltend machen. Die Bezifferung erfolgt nach dem zuletzt bezogenen Bruttoentgelt. Verjaehrung nach Paragraf 195 BGB (drei Jahre ab Schluss des Jahres, in dem der Anspruch entstanden ist).
+Liegt eine pauschale Erledigungsklausel vor, kann die Mandantin den Urlaubsabgeltungsanspruch nach Paragraf 7 Absatz 4 BUrlG für den gesetzlichen Mindesturlaub trotz Vergleich noch geltend machen. Die Bezifferung erfolgt nach dem zuletzt bezogenen Bruttoentgelt. Verjährung nach Paragraf 195 BGB (drei Jahre ab Schluss des Jahres, in dem der Anspruch entstanden ist).
 
 ## Anschluss
 
-Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` fuer die Aufhebungsvertragsgestaltung und mit `vergleichsverhandlung-strategie` fuer den Prozessvergleich. Bei Klage auf Urlaubsabgeltung nach pauschalem Vergleich ergaenzend `schriftsatzkern-substantiierung` heranziehen.
+Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` für die Aufhebungsvertragsgestaltung und mit `vergleichsverhandlung-strategie` für den Prozessvergleich. Bei Klage auf Urlaubsabgeltung nach pauschalem Vergleich ergaenzend `schriftsatzkern-substantiierung` heranziehen.
 
 ## Aktuelle Rechtsprechung (Ergaenzung v14.2)
 
@@ -118,7 +118,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-arbeitsrecht-betriebsratsanhoerung`
 
-**Fokus:** Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhoerungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhoerung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhoerungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg.
+**Fokus:** Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhörung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhörungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhörung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhörungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg.
 
 # Anhörung des Betriebsrats (§ 102 BetrVG)
 
@@ -144,7 +144,7 @@ Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung
 6. **Ist die Zweiwochenfrist bei außerordentlicher Kündigung gefährdet?** — § 626 Abs. 2 BGB: 2 Wochen ab Kenntnis des Grundes für Arbeitgeber; Anhörung lauft innerhalb dieser Frist.
 7. **Wurde die Anhörung bereits dokumentiert?** — Datum der Übergabe / Zusendung an Vorsitzenden des Betriebsrats (§ 26 Abs. 2 BetrVG); Beginn Stellungnahmefrist.
 8. **Hat der Betriebsrat Widerspruch eingelegt?** — Wenn ja: Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG bis zur Klärung durch Gericht.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -163,11 +163,11 @@ Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---|---|---|---|---|
-| BAG, 2. Senat | 2 AZR 302/96 | 27.02.1997 | Subjektive Determinationstheorie: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; aus seiner Sicht objektiv unrichtige oder unvollstaendige Angaben fuehren zur Unwirksamkeit der Anhoerung (§ 102 Abs. 1 S. 3 BetrVG) | dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96 |
-| BAG, 2. Senat | 2 AZR 227/97 | 05.02.1998 | Praezisierung: Mitteilungspflicht umfasst auch dem AG bekannte, fuer den AN guenstige Umstaende, soweit sie objektiv relevant sind | dejure.org-Vernetzung BAG 05.02.1998 - 2 AZR 227/97 |
+| BAG, 2. Senat | 2 AZR 302/96 | 27.02.1997 | Subjektive Determinationstheorie: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; aus seiner Sicht objektiv unrichtige oder unvollstaendige Angaben fuehren zur Unwirksamkeit der Anhörung (§ 102 Abs. 1 S. 3 BetrVG) | dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96 |
+| BAG, 2. Senat | 2 AZR 227/97 | 05.02.1998 | Praezisierung: Mitteilungspflicht umfasst auch dem AG bekannte, für den AN guenstige Umstaende, soweit sie objektiv relevant sind | dejure.org-Vernetzung BAG 05.02.1998 - 2 AZR 227/97 |
 | BAG, 2. Senat | 2 AZR 472/01 | 10.10.2002 | Angabe der Sozialdaten bei verhaltensbedingter Kuendigung; Beginn der Stellungnahmefrist bei ergaenzenden Informationen | dejure.org-Vernetzung BAG 10.10.2002 - 2 AZR 472/01 |
 
-Hinweis: Aktuellere Entscheidungen (Q4/2025 - Q2/2026) zur Anhoerungs-Substantiierung vor Schriftsatzverwendung in offenen Quellen pruefen.
+Hinweis: Aktuellere Entscheidungen (Q4/2025 - Q2/2026) zur Anhörungs-Substantiierung vor Schriftsatzverwendung in offenen Quellen pruefen.
 
 ## Quellenregel
 
@@ -208,9 +208,9 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Anhoerungsruege § 102 BetrVG in Klageschrift | Ruege-Baustein nach Template unten |
-| Variante A — Anhoerungsmangel klar und offensichtlich | Auf starke Unwirksamkeit setzen; Vergleich auf hohem Niveau |
-| Variante B — Anhoerung formell ok aber inhaltlich unvollstaendig | Subjektive Determinationstheorie pruefen; Einzelfall-Argumentation |
+| Standard — Anhörungsruege § 102 BetrVG in Klageschrift | Ruege-Baustein nach Template unten |
+| Variante A — Anhörungsmangel klar und offensichtlich | Auf starke Unwirksamkeit setzen; Vergleich auf hohem Niveau |
+| Variante B — Anhörung formell ok aber inhaltlich unvollstaendig | Subjektive Determinationstheorie pruefen; Einzelfall-Argumentation |
 | Variante C — Kein Betriebsrat vorhanden | § 102 BetrVG entfaellt; andere Unwirksamkeitsgruende pruefen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -356,7 +356,7 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 6. **Wurde die Anwaltsbeauftragung in derselben Sitzung beschlossen?** — Getrennte Beschlüsse über Hauptsache und Mandatierung können unterschiedliche Mängel aufweisen.
 7. **Wann hat der Arbeitgeber den Mangel gerügt?** — Heilung auch noch während des laufenden Verfahrens möglich; Zeitpunkt bestimmt die Verfahrens-Taktik.
 8. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-technologie-transfer-cloud-download
-description: "Exportkontrolle fuer Technologietransfer durch Cloud-Dienste und Downloads: Genehmigungspflicht nach VO (EU) 2021/821 Art. 2 Nr. 7 (technische Unterstuetzung) und Art. 22 (Brokering) bei Software-Uploads Fernzugriff und E-Mail-Uebermittlung in Drittlaender. Abgrenzung zur physischen Ausfuhr. Output: Transfer-Klassifizierung und Zugangssteuerungskonzept im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exportkontrolle für Technologietransfer durch Cloud-Dienste und Downloads: Genehmigungspflicht nach VO (EU) 2021/821 Art. 2 Nr. 7 (technische Unterstuetzung) und Art. 22 (Brokering) bei Software-Uploads Fernzugriff und E-Mail-Uebermittlung in Drittlaender. Abgrenzung zur physischen Ausfuhr. Output: Transfer-Klassifizierung und Zugangssteuerungskonzept im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Technologietransfer durch Cloud und Downloads: Exportkontrolle immaterieller Gueter
 
 ## Arbeitsbereich
 
-Exportkontrolle fuer Technologietransfer durch Cloud-Dienste und Downloads: Genehmigungspflicht nach VO (EU) 2021/821 Art. 2 Nr. 7 (technische Unterstuetzung) und Art. 22 (Brokering) bei Software-Uploads Fernzugriff und E-Mail-Uebermittlung in Drittlaender. Abgrenzung zur physischen Ausfuhr. Output: Transfer-Klassifizierung und Zugangssteuerungskonzept. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrolle für Technologietransfer durch Cloud-Dienste und Downloads: Genehmigungspflicht nach VO (EU) 2021/821 Art. 2 Nr. 7 (technische Unterstuetzung) und Art. 22 (Brokering) bei Software-Uploads Fernzugriff und E-Mail-Uebermittlung in Drittlaender. Abgrenzung zur physischen Ausfuhr. Output: Transfer-Klassifizierung und Zugangssteuerungskonzept. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,8 +19,8 @@ Exportkontrolle fuer Technologietransfer durch Cloud-Dienste und Downloads: Gene
 
 ## Mandantenfall
 
-- Ingenieur gibt Kollegen in Iran Fernzugriff auf CAD-Dateien fuer Dual-Use-Maschine.
-- Unternehmen stellt Software-Update fuer gelistetes Produkt zum Download auf oeffentlichem Server bereit.
+- Ingenieur gibt Kollegen in Iran Fernzugriff auf CAD-Dateien für Dual-Use-Maschine.
+- Unternehmen stellt Software-Update für gelistetes Produkt zum Download auf öffentlichem Server bereit.
 - Forschungsinstitut teilt technische Dokumentation ueber Cloud-Plattform mit Partnern in Russland.
 
 ## Erste Schritte
@@ -30,7 +30,7 @@ Exportkontrolle fuer Technologietransfer durch Cloud-Dienste und Downloads: Gene
 3. Empfaenger und Bestimmungsland identifizieren; Sanktions- und Embargocheck.
 4. Genehmigungspflicht nach Art. 2 Nr. 2 (Ausfuhr) und Technologie-Anmerkung pruefen.
 5. Zugangssteuerung pruefen: Wer hat tatsaechlich Zugriff auf Cloud-Ordner?
-6. Zugangssteuerungskonzept mit Laender-Blacklist und Nutzer-Verifizierung dokumentieren.
+6. Zugangssteuerungskonzept mit Länder-Blacklist und Nutzer-Verifizierung dokumentieren.
 
 ## Rechtsrahmen
 
@@ -43,24 +43,24 @@ Exportkontrolle fuer Technologietransfer durch Cloud-Dienste und Downloads: Gene
 ## Pruef-Raster
 
 - [ ] Technologie klassifiziert und Dual-Use-Code geprueft?
-- [ ] Empfaenger-Laender auf Embargo und Sanktionen geprueft?
-- [ ] Zugangskontrolle fuer Cloud-Plattform mit Laender-Filter konfiguriert?
+- [ ] Empfaenger-Länder auf Embargo und Sanktionen geprueft?
+- [ ] Zugangskontrolle für Cloud-Plattform mit Länder-Filter konfiguriert?
 - [ ] E-Mail-Uebermittlung sensibler Technologiedaten protokolliert?
 - [ ] Fernzugriff auf sensible Systeme auf Genehmigungspflicht geprueft?
-- [ ] Aufzeichnung des Transfers fuer BAFA-Audit archiviert?
+- [ ] Aufzeichnung des Transfers für BAFA-Audit archiviert?
 
 ## Typische Fallstricke
 
-- Oeffentliche Cloud-Ordner ohne Laendersperre gelten als weltweite Ausfuhr.
-- Fernwartung von Dual-Use-Systemen in Embargo-Laendern ist genehmigungspflichtig.
-- Technologie-Anmerkung gilt auch fuer allgemein zugaengliche technische Dokumente wenn sie Produktion ermoglichen.
-- US-ITAR gilt extraterritorial auch fuer Technologie die auf EU-Servern liegt.
+- Oeffentliche Cloud-Ordner ohne Ländersperre gelten als weltweite Ausfuhr.
+- Fernwartung von Dual-Use-Systemen in Embargo-Ländern ist genehmigungspflichtig.
+- Technologie-Anmerkung gilt auch für allgemein zugaengliche technische Dokumente wenn sie Produktion ermoglichen.
+- US-ITAR gilt extraterritorial auch für Technologie die auf EU-Servern liegt.
 
 ## Arbeitsweise
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -84,12 +84,12 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Transfer-Klassifizierungsvermerk, Zugangssteuerungskonzept fuer Cloud-Plattformen und Richtlinienentwurf fuer digitale Technologietransfer-Kontrolle.
+Transfer-Klassifizierungsvermerk, Zugangssteuerungskonzept für Cloud-Plattformen und Richtlinienentwurf für digitale Technologietransfer-Kontrolle.
 
 ## Quellen
 
