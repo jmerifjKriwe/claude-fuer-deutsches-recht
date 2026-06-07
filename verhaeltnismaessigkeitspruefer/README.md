@@ -1,5 +1,24 @@
 # Verhältnismässigkeitsprüfer
 
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`verhaeltnismaessigkeitspruefer`) | [`verhaeltnismaessigkeitspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Initiative Lausitzer Lebensraum e.V. ./. Polizeipraesidium Cottbus (Polizeiverfuegung Anti-Kohle-Versammlung Forst Lausitz)** (`polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz`) | [Gesamt-PDF lesen](../testakten/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz/gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf) | [`testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 Plugin für die juristisch tiefe Anwendung der vierstufigen Schranken-Schranke
 (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) auf
 Grundrechtseingriffe nach deutschem Verfassungsrecht. Mit BVerfG-Leitentscheidungen, wenigen rechtsvergleichenden Skills zu Südafrika Section 36 und Workflow-Werkzeugen.

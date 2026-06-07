@@ -15,6 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **China-Wirtschaftsakte Morgenstern** (`festlandchina-wirtschaftsverkehr-fabrik-import-investition`) | [Gesamt-PDF lesen](../testakten/festlandchina-wirtschaftsverkehr-fabrik-import-investition/gesamt-pdf/festlandchina-wirtschaftsverkehr-fabrik-import-investition_gesamt.pdf) | [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip) |
 | **Internationaler Handelsfall Nordhafen** (`internationales-handelsrecht-cisg-incoterms-schiedsfall`) | [Gesamt-PDF lesen](../testakten/internationales-handelsrecht-cisg-incoterms-schiedsfall/gesamt-pdf/internationales-handelsrecht-cisg-incoterms-schiedsfall_gesamt.pdf) | [`testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->

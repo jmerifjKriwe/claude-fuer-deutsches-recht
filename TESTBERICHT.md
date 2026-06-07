@@ -1,16 +1,16 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-05
-**Arbeitsstand:** v235.0.0 / 230 Norm-Skills in 23 Fachanwalt-Plugins ergänzt, status-navigator-step-plan (35 Skills) und verhaeltnismaessigkeitspruefer (31 Skills) als neue Plugins, polizeirechtliche Testakte Pohlmann-Forst-Lausitz (20 Aktenstücke), 1.124 Skills mit kuratierten Normen-Sektionen veredelt
+**Arbeitsstand:** v236.0.0 / formale Übersichtspflege nach v235: Root-README, PROMPTLISTE, SKILLS.md, skills-index, Testakten-README, ASSET_INDEX und Downloadsektionen auf 212 Plugins, 18536 Skills und 203 Testakten synchronisiert
 **Plugins gesamt:** 212
 **Skills gesamt:** 18536
 **Testakten gesamt:** 203
 
 ## Kurzbefund
 
-Das Repository ist nach der Politur der verdichteten Skilltexte release- und uploadfähig. Der neue Stand bewahrt die verdichteten Inhalte, entfernt aber die sichtbare Entstehungsgeschichte aus den Skills: keine Formeln wie "Dieser Skill bündelt", keine `Arbeitsmodule`-Überschriften, keine `Kompendium`-/`Sammelskill`-Artefakte, keine generischen "gehört zum Plugin"-Absätze und keine `Nutze diesen Skill`-/`Dieses Fachmodul greift ...`-Starter in den geprüften Skillanfängen.
+Das Repository ist nach der formalen Glattziehung release- und uploadfähig. Der neue Stand korrigiert insbesondere die manuell gepflegte alphabetische Root-README-Liste und den Asset-Index: `status-navigator-step-plan` und `verhaeltnismaessigkeitspruefer` sind dort wieder sichtbar; der Asset-Index zählt 212 Plugin-ZIPs und 203 Testakten-ZIPs mit den tatsächlich vom Release-Workflow erzeugten `testakte-<slug>.zip`-Links.
 
-Die parallel eingegangenen Verbesserungen aus dem vorherigen Release bleiben erhalten. Der neue Schwerpunkt liegt darauf, dass zusammengeführte Skills für Nutzerinnen und Nutzer wieder wie eigenständige, auswählbare Fachskills wirken.
+Die parallel eingegangenen Verbesserungen aus dem vorherigen Release bleiben erhalten. Der neue Schwerpunkt liegt darauf, dass alle sichtbaren Übersichten, Sofort-Download-Sektionen und Release-Assets denselben Stand abbilden.
 
 ## Kennzahlen
 
@@ -30,7 +30,7 @@ Die parallel eingegangenen Verbesserungen aus dem vorherigen Release bleiben erh
 | `python3 scripts/validate-yaml-frontmatter.py` | OK — 0 Fehler, 0 Warnungen |
 | `node scripts/validate-plugin-structure.mjs` | OK |
 | `python3 scripts/validate-testakten-gesamt-pdf.py` | OK — 203 Testakten |
-| `python3 scripts/validate-release-zips.py dist .claude-plugin/marketplace.json` | OK — lokale ZIP-Simulation für alle Marketplace-Plugins |
+| `python3 scripts/validate-release-zips.py dist .claude-plugin/marketplace.json` | OK — lokale ZIP-Simulation für alle 212 Marketplace-Plugins |
 | `git diff --check` | OK |
 
 ## Konsolidierungslogik

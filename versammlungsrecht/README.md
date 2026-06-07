@@ -15,6 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **Initiative Lausitzer Lebensraum e.V. ./. Polizeipraesidium Cottbus (Polizeiverfuegung Anti-Kohle-Versammlung Forst Lausitz)** (`polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz`) | [Gesamt-PDF lesen](../testakten/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz/gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf) | [`testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) |
 | **Verfassungsbeschwerde Klimacamp Initiative Saarbruecken — Art. 8 GG / Versammlungsfreiheit / Bannmeile Landtag** (`verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg`) | [Gesamt-PDF lesen](../testakten/verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg/gesamt-pdf/verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg_gesamt.pdf) | [`testakte-verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->

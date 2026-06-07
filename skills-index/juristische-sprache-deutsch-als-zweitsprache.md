@@ -1,6 +1,6 @@
 # juristische-sprache-deutsch-als-zweitsprache
 
-**50 Skills** · Stand `v235.0.0`
+**50 Skills** · Stand `v236.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/juristische-sprache-deutsch-als-zweitsprache/README.md)

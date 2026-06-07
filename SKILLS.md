@@ -2,7 +2,7 @@
 
 Automatisch generierte Gesamtuebersicht aller **18536 Skills** in **212 Plugins**.
 
-Stand: `v235.0.0`.
+Stand: `v236.0.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 

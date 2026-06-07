@@ -1,3 +1,21 @@
+# v236.0.0 — Uebersichten, Asset-Index und Downloadpakete synchronisiert
+
+## Schwerpunkt
+
+- **Root-README alphabetisch nachgezogen:** `status-navigator-step-plan` und `verhaeltnismaessigkeitspruefer` stehen wieder in der zentralen Plugin-Tabelle; die thematischen Cluster nennen beide ebenfalls.
+- **PROMPTLISTE aktualisiert:** 208 kuratierte Praxis-Plugins von 212; die vier bewusst ausgenommenen historischen/exotischen Spezialplugins bleiben nicht in der kuratierten Praxisliste.
+- **ASSET_INDEX neu aufgebaut:** 212 Plugin-Assets, 203 Testakten-Assets und alle vier Sammel-Assets (`marketplace.json`, `alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`) mit den tatsächlich vom Release-Workflow erzeugten Download-URLs.
+- **Sofort-Download-Sektionen nachgezogen:** Die beiden neuen Plugins haben nun eigene Direkt-Download-Blöcke mit zugeordneter Demonstrationsakte; bestehende Plugin- und Testakten-README-Blöcke wurden idempotent geprüft.
+
+## Validation
+
+- `node scripts/validate-plugin-structure.mjs`: grün.
+- `python3 scripts/validate-testakten-gesamt-pdf.py`: grün.
+- `python3 scripts/validate-yaml-frontmatter.py`: grün.
+- Lokale Release-ZIP-Simulation: alle 212 Plugin-ZIPs, alle 203 Testakten, `alle-plugins-megazip.zip`, `alle-testakten.zip` und `alles-komplettpaket.zip` vollständig.
+
+---
+
 # v235.0.0 — Status-Navigator, Verhaeltnismaessigkeitspruefer, Fachanwalt-Norm-Skills, Polizeirechtliche Testakte, Veredelungs-Runde 3
 
 ## Schwerpunkt
