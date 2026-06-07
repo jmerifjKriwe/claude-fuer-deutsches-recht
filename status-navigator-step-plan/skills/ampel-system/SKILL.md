@@ -3,9 +3,6 @@ name: ampel-system
 description: "Setzt ein dreistufiges Ampelsystem in der Excel-Arbeitsmappe um: gruen fuer vollstaendig, gelb fuer pruefungsbeduerftig, rot fuer fehlt oder fehlerhaft. Wird per bedingter Formatierung auf allen Reitern angewandt."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Ampelsystem fuer Status
 
 ## Rolle und Fokus
@@ -25,8 +22,3 @@ LausitzStorage-Akte Stand 02.06.2026: 4 rote Eintraege (Drawstop NordCap, Anlage
 - Bedingte-Formatierung-Regeln je Reiter (Hintergrundfarbe auf Status-Spalte)
 - Restzeit-Ampel im Fristen-Reiter mit Schwellen 30/8 Tage
 - Ampel-Konsistenz-Pruefung zwischen Reiter 2 und 3
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

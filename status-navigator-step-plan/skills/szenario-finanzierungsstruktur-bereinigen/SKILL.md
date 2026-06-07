@@ -3,9 +3,6 @@ name: szenario-finanzierungsstruktur-bereinigen
 description: "Anwendungsszenario komplexe Finanzierungsstruktur bereinigen. Status-Navigator erfasst Wandeldarlehen, Bankfinanzierung, Gesellschafterdarlehen, sonstige Einlagen und Stundungen. Stellt Konditionen und Rangfolge zusammen und vergleicht Cap Tables mit Vertraegen."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Szenario Finanzierungsstruktur bereinigen
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Bereinigung: Senior-Darlehen NordCap 80 Mio EUR, Wandeldarlehen N
 - Instrumentenkarte mit Rang und Sicherheit
 - Konditionsuebersicht je Instrument
 - Step-Plan mit Bereinigungs-Massnahmen und Verantwortlichkeit
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

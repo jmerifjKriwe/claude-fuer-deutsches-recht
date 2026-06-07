@@ -3,9 +3,6 @@ name: dokumententyp-beschluesse
 description: "Erkennt Beschluesse: Gesellschafterbeschluesse, Aufsichtsratsbeschluesse, Hauptversammlungsbeschluesse, Vorstandsbeschluesse. Erfasst Beschlussdatum, beschliessende Organe, Beschlussgegenstand und Formerfordernis."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Dokumententyp Gesellschafterbeschluesse
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ Gesellschafterbeschluss vom 17.10.2025: Zustimmung zum Senior-Darlehensvertrag N
 - Eintrag in Reiter 2 mit Typ-Tag Beschluss
 - Querverweis auf zustimmungspflichtige Vertraege (Reiter 2 Anmerkungsspalte)
 - Hinweisliste an `unterschriftspruefung` und ggf. Reiter 3 wenn Form fragwuerdig
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

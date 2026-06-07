@@ -5,9 +5,6 @@ description: "Baut die zweite Padlet-Spalte als Pendant zu Reiter 2 der Step-Pla
 
 # Padlet Reiter 2 Verfuegbar aufbauen
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 ## Ziel
 Spalte 2 des Padlets bildet Reiter 2 der Step-Plan-Excel ab: vorliegende
 Dokumente mit Detailblick auf Unterschriftsstatus.

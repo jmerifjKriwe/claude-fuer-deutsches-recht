@@ -5,9 +5,6 @@ description: "Baut die vierte Padlet-Spalte als Pendant zu Reiter 4 der Step-Pla
 
 # Padlet Reiter 4 Workflow aufbauen
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 ## Ziel
 Spalte 4 des Padlets bildet Reiter 4 der Step-Plan-Excel ab: Workflow je
 fehlendes Dokument, Schritt fuer Schritt.

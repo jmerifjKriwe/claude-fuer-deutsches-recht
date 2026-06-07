@@ -3,9 +3,6 @@ name: copy-paste-fehler-erkennung
 description: "Erkennt typische Copy-Paste-Situationen: alte Parteinamen, abweichende Vertragsbezeichnungen, falsche Daten in Standardabsaetzen und uebernommene Klauseln aus Vorlaeuferdokumenten. Liefert eine kommentierte Auffaelligkeitsliste."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Copy-Paste-Fehler erkennen
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ Wandeldarlehen NordCap vom 14.03.2026: § 4 verweist auf 'Gesellschafterbeschlus
 - Auffaelligkeitsliste mit Fundstelle, Verdacht, Verweisziel
 - Querliste an Skill `unterschriftspruefung` (Beschluss als Wirksamkeitsbedingung)
 - Reparatur-Vorschlag fuer Nachtragsvereinbarung
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

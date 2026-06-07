@@ -5,9 +5,6 @@ description: "Erlaeutert, wann Padlet als visuelle Alternative zur Step-Plan-Exc
 
 # Padlet als Status-Navigator-Werkzeug
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 ## Worum es geht
 Padlet ist ein Online-Whiteboard-Dienst. Es eignet sich als visuelle
 Variante des Step-Plans, parallel zur Excel-Tabelle. Der Vorteil: Mehrere

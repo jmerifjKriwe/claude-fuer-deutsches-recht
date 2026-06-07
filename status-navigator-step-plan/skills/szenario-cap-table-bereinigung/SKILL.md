@@ -3,9 +3,6 @@ name: szenario-cap-table-bereinigung
 description: "Anwendungsszenario Bereinigung mehrerer widerspruechlicher Cap Tables. Status-Navigator vergleicht die Cap Tables miteinander und mit den zugrundeliegenden Vertraegen. Zeigt Abweichungen und Wandlungsbedarf auf."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Szenario Cap Table Bereinigung
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Cap-Table-Bereinigung: drei Versionen (siehe `diskrepanzen-aufdec
 - Soll-Cap-Table mit Quellnachweis je Zeile
 - Abweichungs-Memo zu den abweichenden Versionen
 - Querverweis an Skill `dokumententyp-beschluesse` bei vermuteter Wandlung
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

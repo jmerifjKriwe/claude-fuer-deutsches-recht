@@ -1,9 +1,9 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-05
-**Arbeitsstand:** v232.0.0 / 230 Norm-Skills in 23 Fachanwalt-Plugins ergänzt, status-navigator-step-plan (65 Skills) und verhaeltnismaessigkeitspruefer (30 Skills) als neue Plugins, polizeirechtliche Testakte Pohlmann-Forst-Lausitz (20 Aktenstücke), 1.124 Skills mit kuratierten Normen-Sektionen veredelt
+**Arbeitsstand:** v235.0.0 / 230 Norm-Skills in 23 Fachanwalt-Plugins ergänzt, status-navigator-step-plan (35 Skills) und verhaeltnismaessigkeitspruefer (31 Skills) als neue Plugins, polizeirechtliche Testakte Pohlmann-Forst-Lausitz (20 Aktenstücke), 1.124 Skills mit kuratierten Normen-Sektionen veredelt
 **Plugins gesamt:** 212
-**Skills gesamt:** 18535
+**Skills gesamt:** 18536
 **Testakten gesamt:** 203
 
 ## Kurzbefund
@@ -17,7 +17,7 @@ Die parallel eingegangenen Verbesserungen aus dem vorherigen Release bleiben erh
 | Kennzahl | Wert |
 |---|---:|
 | Plugin-Manifests | 212 |
-| Skill-Dateien `SKILL.md` | 18535 |
+| Skill-Dateien `SKILL.md` | 18536 |
 | Testakten-Verzeichnisse | 203 |
 | Testakten mit Gesamt-PDF nach Validator | 203 |
 | Skillnamen-/Artefakt-Scan | 0 alte Autogen-Muster, 0 `Nutze dies`, 0 Einwort-/Zahlenslugs, 0 `Kompendium`-/`Sammelskill`-Namen, 0 `bündelt`-/`Arbeitsmodul`-Artefakte, 0 `Nutze diesen Skill`-/`Dieses Fachmodul greift ...`-Starter in Skillanfängen |
@@ -47,8 +47,8 @@ Damit sinkt die Bedienlast für Nutzerinnen und Nutzer, ohne dass fachliches Mat
 
 ## Nachgezogene Meta-Pflege
 
-- Root-README auf den aktuellen Stand gebracht: 210 Plugins, 18271 Skills, 201 Testakten. Fehlendes Plugin `fahrgastrechte` in der alphabetischen Plugin-Tabelle nachgetragen.
-- Testakten-README auf v230.0.0 und 201 Testakten geprüft.
+- Root-README auf den aktuellen Stand gebracht: 212 Plugins, 18536 Skills, 203 Testakten. Fehlendes Plugin `fahrgastrechte` bleibt in der alphabetischen Plugin-Tabelle geführt.
+- Testakten-README auf den aktuellen Stand und 203 Testakten geprüft.
 - In 52 Plugins wurden generische Kurz-Präfixe aus Skill-Slugs entfernt (z. B. `dsv-`, `kom-`, `btm-`, `ifg-`, `owi-`, `hoai-`, `bho-`, `stb-`, `legw-`, `solo-`, `pe-`, `vc-`, `tk-`, `vbr-`, `vdg-`, `db-`, `kv-`, `lease-`, `ins-`, `verl-`, `inv-`, `iv-`, `nkr-`, `inso-`, `ips-`, `vaf-`, `spez-`, `elsj-`, `ifap-`, `jveg-`, `liqui-`, `zvg-`, `zv-` und je nach Plugin weitere). Semantische Präfixe (`lph-` HOAI-Leistungsphasen, `bess-` Battery Storage, `plan-` Insolvenzplan) bleiben erhalten.
 - `SKILLS.md` und `skills-index/` wurden mit den Generatoren neu aufgebaut.
 - Veraltete Angaben aus der alten 52-Plugin-/361-Skill-Phase wurden aus diesem Testbericht entfernt.

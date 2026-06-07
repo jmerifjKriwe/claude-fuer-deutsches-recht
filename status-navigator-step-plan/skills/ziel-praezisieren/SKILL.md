@@ -3,9 +3,6 @@ name: ziel-praezisieren
 description: "Klaert mit dem Auftraggeber das konkrete Ziel des Status-Navigators: Faelligstellung und Vollstreckung, Vollzug einer Kapitalmassnahme, Bereinigung der Finanzierungsstruktur, Due-Diligence-Vorbereitung oder Mandatsuebernahme. Das Ziel bestimmt Reiterstruktur, Pruefschwerpunkte und Workflow."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Ziel praezisieren
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Ziel laut Mandantenwunsch: (1) vollstaendige Bestandsaufnahme all
 - Schriftliche Zielnotiz (eine halbe Seite)
 - Reiter- und Erweiterungs-Auswahl daraus abgeleitet
 - Priorisierungsregel fuer Reiter 4 (Workflow)
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

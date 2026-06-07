@@ -5,9 +5,6 @@ description: "Baut Reiter 2 der Step-Plan-Excel: vorhandene Dokumente mit Augenm
 
 # Reiter 2 Vorhandene Dokumente
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 ## Rolle und Fokus
 Reiter 2 ist die Detailansicht aller tatsaechlich vorliegenden Dokumente,
 mit Augenmerk auf Vertretungsbefugnis und Unterschriftsstatus. Hier wird

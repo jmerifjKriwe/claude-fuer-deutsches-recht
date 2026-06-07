@@ -3,9 +3,6 @@ name: dokumententyp-erklaerungen
 description: "Erkennt einseitige Willenserklaerungen: Kuendigungen, Faelligstellungen, Anfechtungen, Ruecktritte, Widerrufe, Wandlungserklaerungen. Markiert besonders zugangsbeduerftige Erklaerungen fuer den spaeteren Zustellungs-Check."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Dokumententyp einseitige Erklaerungen
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ Drawstop-Schreiben NordCap vom 22.05.2026: einseitige Erklaerung der Auszahlungs
 - Eintrag in Reiter 2 mit Typ-Tag Erklaerung und Untertyp
 - Pflicht-Querverweis an `zugang-zustellung-pruefung`
 - Bei Vollmachtsfrage: Querverweis an `unterschriftspruefung`
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

@@ -3,9 +3,6 @@ name: excel-reiter-1-ueberblick
 description: "Baut Reiter 1 der Step-Plan-Excel: Ueberblick aller fuer die Durchsetzung erforderlichen Dokumente. Spalten Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Unterzeichnet von (Partei und Funktion), Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag) und Zweck. Mit Ampelfaerbung und Sortierung nach Vertragsebene."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Reiter 1 Ueberblick Statuslage
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Reiter 1: 28 Zeilen ueber 4 Cluster, davon 4 rot (NordCap-Drawsto
 - Reiter 1 als Master-Index mit Querverweis in jede Detailpruefung
 - Cluster-Gesamtstatuszeile je Vertragsebene
 - Spalte Querverweis zu Reiter 2/3/4
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

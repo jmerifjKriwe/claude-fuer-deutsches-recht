@@ -5,9 +5,6 @@ description: "Baut die dritte Padlet-Spalte als Pendant zu Reiter 3 der Step-Pla
 
 # Padlet Reiter 3 Fehlend aufbauen
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 ## Ziel
 Spalte 3 des Padlets bildet Reiter 3 der Step-Plan-Excel ab: fehlende
 Dokumente mit Beschaffungsweg.

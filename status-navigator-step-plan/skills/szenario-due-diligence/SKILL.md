@@ -3,9 +3,6 @@ name: szenario-due-diligence
 description: "Anwendungsszenario Due Diligence. Status-Navigator strukturiert eine grosse disparate Dokumentensammlung im Rahmen einer Transaktion. Prueft auf Vollstaendigkeit und Diskrepanzen. Vorbereitung der Datenraum-Indexierung fuer das Targetunternehmen."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Szenario Due Diligence
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage als hypothetisches DD-Target: 28 Reiter-1-Eintraege werden gegen 
 - DD-Index als Reiter 1 mit Cluster-Gliederung
 - Findings-Tabelle im Workflow-Reiter mit Closing- vs. Reporting-Klassifizierung
 - Vergleichsmemo Verkaeufer-Disclosure gegen Datenraum
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

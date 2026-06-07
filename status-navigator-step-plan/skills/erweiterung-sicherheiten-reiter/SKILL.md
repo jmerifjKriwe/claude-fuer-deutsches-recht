@@ -3,9 +3,6 @@ name: erweiterung-sicherheiten-reiter
 description: "Optionaler Reiter Sicherheiten. Uebersicht aller Sicherheiten mit Status der Bestellung und Verwertbarkeit. Nimmt keine rechtliche Bewertung der Sicherheitenwirksamkeit vor — die bleibt der anwaltlichen Pruefung vorbehalten."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Erweiterung Sicherheiten-Reiter
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Sicherheiten: Grundschuld 80 Mio EUR zu Gunsten NordCap (Eintragu
 - Sicherheiten-Reiter mit Spalten Sicherheit, Besicherter Vertrag, Status, Datum
 - Avalstatus-Subtabelle (gesondert wegen Avalbestaetigungs-Pflicht)
 - Querverweise an Reiter 3 wo Sicherheit fehlt oder Status unklar
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

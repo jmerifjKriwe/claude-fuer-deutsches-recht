@@ -1,10 +1,10 @@
-# v232.0.0 — Status-Navigator, Verhaeltnismaessigkeitspruefer, Fachanwalt-Norm-Skills, Polizeirechtliche Testakte, Veredelungs-Runde 3
+# v235.0.0 — Status-Navigator, Verhaeltnismaessigkeitspruefer, Fachanwalt-Norm-Skills, Polizeirechtliche Testakte, Veredelungs-Runde 3
 
 ## Schwerpunkt
 
-- **Zwei neue Plugins** mit zusammen 95 Skills:
-  - `status-navigator-step-plan` (65 Skills): Status-Navigator und Step-Plan-Macher nach Tom Braegelmann. Reine Dokumentenverarbeitung. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Ueberblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung.
-  - `verhaeltnismaessigkeitspruefer` (30 Skills): Vierstufige Schranken-Schranke (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) mit BVerfG-Leitentscheidungen, rechtsvergleichenden Skills zu Suedafrika Section 36 und Workflow-Werkzeugen Clip-Club/Padlet.
+- **Zwei neue Plugins** mit zusammen 66 Skills:
+  - `status-navigator-step-plan` (35 Skills): Status-Navigator und Step-Plan-Macher als reine Dokumentenverarbeitung. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Ueberblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung, keine Normenanker.
+  - `verhaeltnismaessigkeitspruefer` (31 Skills): Vierstufige Schranken-Schranke (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) mit BVerfG-Leitentscheidungen, PrOVG-Kreuzberg-Linie, rechtsvergleichenden Skills zu Suedafrika Section 36 und Workflow-Werkzeugen Clip-Club/Padlet.
 - **230 neue Norm-Skills in 23 Fachanwalt-Plugins** (je 10 Skills mit sprechenden Slugs): zitiert konkret aus dem jeweiligen Plugin-Bestand und loest jeweils ein konkretes Problem. Plugins: agrarrecht, arbeitsrecht, bank-kapitalmarktrecht, bau-architektenrecht, erbrecht, familienrecht, gewerblicher-rechtsschutz, handels-gesellschaftsrecht, insolvenz-sanierungsrecht, internationales-wirtschaftsrecht, it-recht, medizinrecht, miet-wohnungseigentumsrecht, migrationsrecht, sozialrecht, sportrecht, strafrecht, transport-speditionsrecht, urheber-medienrecht, vergaberecht, verkehrsrecht, versicherungsrecht, verwaltungsrecht (steuerrecht ausgenommen wegen Redirect).
 - **Neue Testakte**: `polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz` (20 Aktenstuecke) — Initiative Lausitzer Lebensraum e.V. (1. Vorsitzender Dr. Werner-Karl Pohlmann-Brandenburg) gegen Polizeiverfuegung wegen Anti-Kohle-Versammlung mit Performance-Erdaushebung "Vier Stufen der Trauer um den Lausitzer Wald". Eilantrag § 80 Abs. 5 VwGO an VG Cottbus 3 L 188/26, Vors. RiVG Dr. Susanne Marquardt-Heuser. Beschluss-Stattgabe wegen Versammlungsfreiheit Art. 8 GG. Bearbeitung durch RAin Dr. Friederike Hesselmann-Sauerbruch, Pohlmann und Pohlmann, AZ PoPo-2026-VR-0617.
 - **Veredelungs-Runde 3**: 1.124 Skills in 197 Plugins mit kuratierten Normen-und-Rechtsprechung-Sektionen versehen. Plugin-Top-30 mit handkuratierten Norm-Bibliotheken (8-15 Normen + 3-6 Leitentscheidungen), uebrige Plugins mit aus den Plugin-Skills extrahierten Top-Normen.
@@ -12,7 +12,7 @@
 ## Counts
 
 - 210 Plugins -> **212 Plugins** (+2: status-navigator-step-plan, verhaeltnismaessigkeitspruefer).
-- 18.240 Skills -> **18.535 Skills** (+295 netto: +65 status-nav + 30 verhaeltnis + 230 Fachanwalt-Norm-Skills).
+- 18.240 Skills -> **18.536 Skills** (+296 netto: +35 Status-Navigator + 31 Verhaeltnismaessigkeit + 230 Fachanwalt-Norm-Skills, zuzueglich Politur/Korrekturzaehler aus der Zwischenpflege).
 - 201 Testakten -> **203 Testakten** (+2: status-navigator-batteriespeicher-jaenschwalde-peitz aus v230-Vorbereitung + neue Polizei-Akte).
 
 ## Validation

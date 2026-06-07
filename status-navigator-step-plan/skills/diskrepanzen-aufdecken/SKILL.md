@@ -3,9 +3,6 @@ name: diskrepanzen-aufdecken
 description: "Vergleicht Dokumente untereinander und deckt Diskrepanzen auf: abweichende Betraege, Daten, Parteibezeichnungen, Konditionen und Bezugsklauseln. Markiert moegliche Copy-Paste-Fehler aus einer schlampig gefuehrten Dokumentation."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Diskrepanzen aufdecken
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Cap Tables: Version v1 (31.12.2025) zeigt NordCap mit 48 %, v2 (3
 - Diskrepanz-Tabelle mit Wert, Quelle A, Quelle B, Klasse
 - Markierung in Reiter 2 (Anmerkung) und Reiter 3 (was zu klaeren ist)
 - Querliste an `copy-paste-fehler-erkennung` bei Verdacht auf uebernommene Klauseln
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

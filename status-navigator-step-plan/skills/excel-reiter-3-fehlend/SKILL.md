@@ -5,9 +5,6 @@ description: "Baut Reiter 3 der Step-Plan-Excel: fehlende Dokumente mit Beschaff
 
 # Reiter 3 Fehlende Dokumente
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 ## Rolle und Fokus
 Reiter 3 listet alles, was fehlt oder noch nicht endgueltig vorliegt.
 Jede Zeile hier ist eine offene Position, die in den Workflow von

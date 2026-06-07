@@ -3,9 +3,6 @@ name: szenario-faelligstellung-vollstreckung
 description: "Anwendungsszenario gescheiterte Finanzierung mit Vorbereitung von Faelligstellung und Vollstreckung. Status-Navigator erfasst Darlehensvertraege, Kuendigungs- und Faelligstellungsschreiben, Zustellungsnachweise und Sicherheiten. Workflow zeigt die naechsten Schritte fuer die Vollstreckung."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Szenario gescheiterte Finanzierung
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage hypothetische Spiegelung aus Glaeubigersicht (NordCap gegen Lausi
 - Faelligstellungs-Checkliste im Workflow-Reiter
 - Zustellungs-Beweisplan je Erklaerung
 - Verwertungs-Stufenplan mit Stufenstatus
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

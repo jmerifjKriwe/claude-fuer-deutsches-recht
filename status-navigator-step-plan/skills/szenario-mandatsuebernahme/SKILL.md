@@ -3,9 +3,6 @@ name: szenario-mandatsuebernahme
 description: "Anwendungsszenario Uebernahme eines Mandats mit ungeordneter Dokumentenlage. Status-Navigator erzeugt schnell Klarheit ueber Status und naechste Schritte. Markiert Sofortpflichten und uebersehene Fristen."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Szenario Mandatsuebernahme
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage waere bei hypothetischer Mandatsuebernahme von Pohlmann & Pohlman
 - Uebernahme-Reiter mit roten und gelben Eintraegen aus Vorgaengerakte
 - Frist-Soforterhebung mit Restzeit-Ampel
 - Erstkontaktliste fuer den Tag nach Mandatsuebernahme
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

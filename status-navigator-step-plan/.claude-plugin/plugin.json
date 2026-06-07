@@ -1,6 +1,6 @@
 {
   "name": "status-navigator-step-plan",
-  "version": "232.0.0",
+  "version": "235.0.0",
   "description": "Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Ueberblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

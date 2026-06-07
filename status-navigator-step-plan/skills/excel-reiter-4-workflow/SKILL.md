@@ -5,9 +5,6 @@ description: "Baut Reiter 4 der Step-Plan-Excel: Workflow je Dokument in Reihenf
 
 # Reiter 4 Workflow Step-Plan
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 ## Rolle und Fokus
 Reiter 4 ist das Herzstueck. Hier wird aus jedem fehlenden Dokument ein
 konkreter Step-Plan: welche Schritte in welcher Reihenfolge, mit welcher

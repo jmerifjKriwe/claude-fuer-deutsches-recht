@@ -3,9 +3,6 @@ name: erweiterung-hyperlinks
 description: "Verknuepft die Tabelleneintraege mit den Originaldokumenten in der Dokumentenablage. Hyperlinks von der Tabelle zum jeweiligen Original ermoeglichen schnellen Sprung in den Volltext."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Erweiterung Hyperlinks zur Ablage
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage-Akte: Reiter 1 verlinkt alle 19 Hauptdokumente in den Mandantsfil
 - Hyperlink-Spalte je Reiter (relativer Pfad)
 - Platzhalter-Link `_FEHLT_` fuer in Reiter 3 verfolgte Luecken
 - Wartungspruefung als Eintrag in `erweiterung-laufende-aktualisierung`
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

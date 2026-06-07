@@ -3,9 +3,6 @@ name: excel-reiter-fristen-optional
 description: "Fuegt optional einen Reiter Fristen hinzu: Kuendigungsfristen, Wandlungsfristen, Verjaehrungsfristen, Ablaufdaten und Hemmungstatbestaende. Beruht ausschliesslich auf Mandatsangaben und Vertragstext — keine eigene rechtliche Bewertung."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Optionaler Reiter Fristen
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Fristen-Reiter: Wandlungsfenster Wandeldarlehen NordCap laeuft 01
 - Fristen-Reiter mit Restzeit-Ampel und Sofortmassnahmen-Spalte
 - Wiedervorlage-Eintraege fuer das Anwalts-DMS
 - Querverweis in Reiter 4 (Workflow): welche Schritte sind bis welcher Frist zu erledigen
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

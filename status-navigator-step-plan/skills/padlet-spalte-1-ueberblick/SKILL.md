@@ -5,9 +5,6 @@ description: "Baut die erste Padlet-Spalte als Pendant zu Reiter 1 der Step-Plan
 
 # Padlet Reiter 1 Ueberblick aufbauen
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 ## Ziel
 Spalte 1 des Padlets bildet Reiter 1 der Step-Plan-Excel ab: alle
 erforderlichen Dokumente auf einen Blick, ampelfarblich gefuehrt.

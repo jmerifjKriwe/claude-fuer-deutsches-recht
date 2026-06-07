@@ -3,9 +3,6 @@ name: erweiterung-laufende-aktualisierung
 description: "Konzept fuer die laufende Aktualisierung der Status-Navigator-Arbeitsmappe waehrend des Mandats. Standard-Update-Rhythmus, Versionierung, Aenderungslog und Wiederverwendung als Steuerungsinstrument."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Erweiterung laufende Aktualisierung
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage: v1 (02.06.2026 Erstaufnahme nach Drawstop), v2 (05.06.2026 nach 
 - Versionierungs-Regel als Header im Reiter 1
 - Aenderungslog als eigener kleiner Reiter
 - Diff-Vorlage fuer Investor-Reporting
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

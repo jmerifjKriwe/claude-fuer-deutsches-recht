@@ -3,9 +3,6 @@ name: verexcelung-prinzip
 description: "Erklaert das Prinzip der Verexcelung: nicht nur eine Tabelle im Chatfenster, sondern eine echte Excel-Arbeitsmappe mit mehreren Reitern. Begruendet, warum die Verexcelung das Arbeitsergebnis sofort weiterverwendbar macht."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Verexcelung Prinzip
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage: das Arbeitsergebnis ist `25_step_plan_excel_lausitzstorage.xlsx`
 - xlsx-Datei mit 4 Pflichtreitern (plus optionale)
 - Bedingte Formatierung und Hyperlinks im Excel-Format
 - Versionsname im Dateinamen
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

@@ -3,9 +3,6 @@ name: unterschriftspruefung
 description: "Prueft, soweit aus den Dokumenten ersichtlich, ob die jeweils erforderlichen Parteien unterschrieben haben. Markiert fehlende Unterschriften, unklare Unterzeichner und Vertretungsfragen. Trifft keine Rechtswirksamkeitsbewertung."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Unterschriftspruefung
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Unterschriftsbefunde: 1. Nachtrag Pachtvertrag LEAG nur von Proku
 - Unterschrifts-Befundliste mit Klasse (vollstaendig/fragwuerdig/Entwurf/unleserlich)
 - Vertretungsanalyse je Partei (HR-Stand zum Unterzeichnungszeitpunkt)
 - Querverweis an `dokumententyp-beschluesse` wenn Beschlussbezug betroffen
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

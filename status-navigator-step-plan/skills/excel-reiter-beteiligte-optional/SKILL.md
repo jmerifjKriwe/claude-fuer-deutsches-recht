@@ -3,9 +3,6 @@ name: excel-reiter-beteiligte-optional
 description: "Fuegt optional einen Reiter Beteiligte hinzu: Uebersicht aller Parteien mit Rolle, Funktion, Anteilen und Kontaktdaten. Vorbereitung fuer die spaetere Zustellung und Kommunikation."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Optionaler Reiter Beteiligte
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Beteiligten-Reiter: 4 Gesellschafter (Bauernfeind privat, NordCap
 - Beteiligten-Reiter mit Gesellschafter- und Vertragspartner-Teil
 - Vertretungsspalte mit HR-Bezug oder Vollmachts-Datum
 - Zustellbevollmaechtigten-Liste fuer den Skill `zugang-zustellung-pruefung`
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

@@ -3,9 +3,6 @@ name: zugang-zustellung-pruefung
 description: "Erfasst den Versendungs- und Zustellungsstatus aller zugangsbeduerftigen Willenserklaerungen: Kuendigungen, Faelligstellungen, Anfechtungen, Mahnungen. Markiert, wo der Zugang unklar ist oder noch nachzuweisen waere. Trifft keine rechtliche Bewertung des Zugangs."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Zugang und Zustellung pruefen
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Zugangsspuren: Drawstop-Schreiben NordCap vom 22.05.2026 ging per
 - Zugangs-Beweisplan je Erklaerung
 - Markierung der Erklaerungen ohne sichere Zustellung in Reiter 3
 - Empfehlung Boten-Zustellung fuer kritische Folge-Erklaerungen
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

@@ -383,8 +383,8 @@ Frage zu Beginn nur ab, was für den nächsten Schritt unverzichtbar ist:
 - Schriftsatz-Gerüst: eV-Antrag oder Klageschrift (Muster).
 - Schadensberechnungsblatt (drei Methoden).
 
-## Plugin-Kontext
-Skill gehört zum Plugin `fachanwalt-gewerblicher-rechtsschutz`. Anschluss-Skills: `spezial-designverletzung-red-team-und-qualitaetskontrolle`, `spezial-designg-behoerden-gericht-und-registerweg`, `workflow-fristen-und-risikoampel`.
+## Anschlusslogik
+Nach der Anspruchs- und Schadensprüfung schließt die Akte regelmäßig an drei Arbeitsgänge an: eine Red-Team-Kontrolle der Designverletzung, den Behörden-/Registerweg bei DPMA oder EUIPO und die Fristen-/Dringlichkeitsampel für Abmahnung, eV oder Hauptsacheklage.
 
 ## Quellenregel
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link zu [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de), [curia.europa.eu](https://curia.europa.eu).

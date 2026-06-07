@@ -3,9 +3,6 @@ name: erweiterung-rangfolge-reiter
 description: "Optionaler Reiter Rangfolge bei mehreren Finanzierungsinstrumenten. Stellt die Rang- und Befriedigungsreihenfolge dar: Senior Secured, Senior Unsecured, Mezzanine, Gesellschafterdarlehen, sonstige Einlagen. Beruht ausschliesslich auf Mandatsangaben und Vertragstext."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Erweiterung Rangfolge-Reiter
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage Rangfolge: Senior-Darlehen NordCap (besichert durch Grundschulden
 - Rangfolge-Reiter mit Spalten Instrument, Glaeubiger, Volumen, Sicherheit, Rang
 - Hinweis-Spalte mit Quellnachweis (welche Klausel begruendet den Rang)
 - Pflichthinweis auf anwaltliche Pruefung insolvenzrechtlicher Rangfragen
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

@@ -3,9 +3,6 @@ name: luecken-notifizieren
 description: "Notifiziert direkt in den Tabellen, wo Fehler, Luecken oder Unklarheiten bestehen. Standard-Notes umfassen Gesellschafterbeschluss fehlt, Zustellung unklar, Betrag weicht ab, Unterschrift Geschaeftsfuehrer fehlt."
 ---
 
-> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
-> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
-
 # Luecken in Tabellen notifizieren
 
 ## Rolle und Fokus
@@ -26,8 +23,3 @@ LausitzStorage: 23 Notes ueber alle Reiter. Wiederholte Notes: `Zustellung unkla
 - Standard-Notes-Vokabular als Vorblatt
 - Anmerkungsspalten in Reiter 2 und 3 konsistent befuellt
 - Bruecke zu Reiter 4 (jede Note erzeugt einen Workflow-Schritt)
-
-## Grenzen
-- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
-- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.
