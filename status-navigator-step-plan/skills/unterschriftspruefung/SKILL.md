@@ -3,35 +3,31 @@ name: unterschriftspruefung
 description: "Prueft, soweit aus den Dokumenten ersichtlich, ob die jeweils erforderlichen Parteien unterschrieben haben. Markiert fehlende Unterschriften, unklare Unterzeichner und Vertretungsfragen. Trifft keine Rechtswirksamkeitsbewertung."
 ---
 
+> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
+> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
+
 # Unterschriftspruefung
 
-> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung. Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
-
 ## Rolle und Fokus
-Unterschriften systematisch pruefen
+Prueft, soweit aus den Dokumenten ersichtlich, ob die erforderlichen Parteien unterschrieben haben. Markiert fehlende Unterschriften, unklare Unterzeichner, Vertretungsfragen. Keine Wirksamkeitspruefung.
 
 ## Vorgehen
-Pro Dokument Unterschriftsstatus erfassen und auf Luecken hinweisen
 
-1. **Rolle und Ziel klaeren** — Wer fragt, welche Rolle, welches Ziel des Mandats?
-2. **Material sichten** — Welche Dokumente liegen vor, welche fehlen?
-3. **Strukturieren** — In die passende Reiterstruktur einsortieren.
-4. **Status notieren** — Verfuegbarkeit, Unterschriftsstatus, Zustellung, Diskrepanz.
-5. **Naechsten Schritt formulieren** — Wer beschafft was bis wann?
+1. **Unterschriftsblock je Dokument identifizieren** — Wer steht da, in welcher Funktion?
+2. **Abgleich mit Vertretungsregelung** — HR-Eintrag (Einzel- oder Gesamtvertretung), Prokura-Umfang, Vollmacht; Datum der Unterzeichnung gegen HR-Stand zum damaligen Zeitpunkt.
+3. **Form pruefen** — Schriftform (eigenhaendige Unterschrift), Textform, qualifizierte elektronische Signatur, notarielle Beurkundung.
+4. **Befund-Klassen** — `vollstaendig`, `fragwuerdig` (Anhaltspunkt fuer Vertretungsmangel), `Entwurf` (kein Unterschrift), `unleserlich`.
+5. **Markierung in Reiter 2 und Querverweis** — In Anmerkungsspalte; Detail in eigenem Memo.
 
 ## Anwendungsbeispiel
-Bei 30 Dokumenten werden 4 fehlende Unterschriften und 2 unklare Vertretungsfaelle markiert.
+LausitzStorage Unterschriftsbefunde: 1. Nachtrag Pachtvertrag LEAG nur von Prokuristin Kosturek unterzeichnet — laut HR-Auszug 18.03.2026 hat sie Gesamtprokura mit GF erforderlich, also schwebend unwirksam nach § 177 BGB Analogie. 2. Nachtrag von GF Vansel allein — laut Satzung nur Gesamtvertretung. Wandeldarlehen NordCap § 4 verweist auf Beschluss der nicht existiert.
 
 ## Output-Module
-- Strukturierte Eintraege fuer die Excel-Arbeitsmappe (Reiter 1 bis 4 plus optionale Reiter).
-- Klartextliche Hinweise bei Diskrepanzen, fehlenden Unterschriften und unklaren Zustellungen.
-- Vorschlag fuer den naechsten Schritt im Workflow-Reiter.
+- Unterschrifts-Befundliste mit Klasse (vollstaendig/fragwuerdig/Entwurf/unleserlich)
+- Vertretungsanalyse je Partei (HR-Stand zum Unterzeichnungszeitpunkt)
+- Querverweis an `dokumententyp-beschluesse` wenn Beschlussbezug betroffen
 
 ## Grenzen
-- **Keine rechtliche Bewertung.** Wirksamkeitspruefung von Erklaerungen und Vertraegen bleibt anwaltliche Aufgabe.
-- **Keine Vollstaendigkeitsgarantie.** Die KI kann Dokumente oder Zusammenhaenge uebersehen. Jede Tabelle ist anhand der Originaldokumente zu verifizieren.
-- **Diskrepanz-Hinweise sind Hinweise, keine Befunde.** Sie muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt. Erstpruefung mit anonymisierten Testdaten.
-
-## Plugin-Kontext
-Dieser Skill arbeitet im Verbund mit den uebrigen Skills des Plugins `status-navigator-step-plan`. Reiterstruktur und Standardspalten sind im Plugin-README dokumentiert. Workflow-Reiter dient als zentrales Steuerungsinstrument des Mandats.
+- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
+- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
+- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

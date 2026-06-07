@@ -3,35 +3,31 @@ name: erweiterung-rangfolge-reiter
 description: "Optionaler Reiter Rangfolge bei mehreren Finanzierungsinstrumenten. Stellt die Rang- und Befriedigungsreihenfolge dar: Senior Secured, Senior Unsecured, Mezzanine, Gesellschafterdarlehen, sonstige Einlagen. Beruht ausschliesslich auf Mandatsangaben und Vertragstext."
 ---
 
+> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
+> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
+
 # Erweiterung Rangfolge-Reiter
 
-> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung. Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
-
 ## Rolle und Fokus
-Optionaler Rangfolge-Reiter
+Optionaler Reiter Rangfolge bei mehreren Finanzierungsinstrumenten. Senior Secured, Senior Unsecured, Mezzanine, Gesellschafterdarlehen, sonstige Einlagen — vertraglich vereinbarte Reihenfolge abbilden.
 
 ## Vorgehen
-Reihenfolge nach Rang sortieren und mit Sicherheiten verknuepfen
 
-1. **Rolle und Ziel klaeren** — Wer fragt, welche Rolle, welches Ziel des Mandats?
-2. **Material sichten** — Welche Dokumente liegen vor, welche fehlen?
-3. **Strukturieren** — In die passende Reiterstruktur einsortieren.
-4. **Status notieren** — Verfuegbarkeit, Unterschriftsstatus, Zustellung, Diskrepanz.
-5. **Naechsten Schritt formulieren** — Wer beschafft was bis wann?
+1. **Instrumente listen** — Pro Zeile ein Finanzierungsinstrument mit Glaeubiger, Volumen, Faelligkeit.
+2. **Vertragliche Rangposition rekonstruieren** — Aus Subordination Agreement, Intercreditor, Sicherheitenpoolvertrag.
+3. **Sicherheitenbezug** — Welches Instrument auf welcher Sicherheit; gemeinsamer Pool oder separate Stuecke.
+4. **Zinslast und Faelligkeit** — Spalte Restlaufzeit, Zinssatz, Tilgungsplan.
+5. **Kein eigenes Rangurteil** — Skill spiegelt nur die vertragliche Vereinbarung. Insolvenzrechtliche Rangfragen bleiben anwaltliche Pruefung.
 
 ## Anwendungsbeispiel
-Acht Instrumente werden in der Rangfolge dargestellt mit Hinweis auf Subordination Agreement.
+LausitzStorage Rangfolge: Senior-Darlehen NordCap (besichert durch Grundschulden und Verpfaendung der Anteile) > Konsortial-Darlehen Stadtwerke Cottbus (besichert durch Sicherungsabtretung Stromabnahmevertrag) > Wandeldarlehen NordCap (unbesichert, nachrangig nach § 39 InsO automatisch nicht — aber vertraglich subordiniert) > Gesellschafter-Stundungen Bauernfeind privat.
 
 ## Output-Module
-- Strukturierte Eintraege fuer die Excel-Arbeitsmappe (Reiter 1 bis 4 plus optionale Reiter).
-- Klartextliche Hinweise bei Diskrepanzen, fehlenden Unterschriften und unklaren Zustellungen.
-- Vorschlag fuer den naechsten Schritt im Workflow-Reiter.
+- Rangfolge-Reiter mit Spalten Instrument, Glaeubiger, Volumen, Sicherheit, Rang
+- Hinweis-Spalte mit Quellnachweis (welche Klausel begruendet den Rang)
+- Pflichthinweis auf anwaltliche Pruefung insolvenzrechtlicher Rangfragen
 
 ## Grenzen
-- **Keine rechtliche Bewertung.** Wirksamkeitspruefung von Erklaerungen und Vertraegen bleibt anwaltliche Aufgabe.
-- **Keine Vollstaendigkeitsgarantie.** Die KI kann Dokumente oder Zusammenhaenge uebersehen. Jede Tabelle ist anhand der Originaldokumente zu verifizieren.
-- **Diskrepanz-Hinweise sind Hinweise, keine Befunde.** Sie muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt. Erstpruefung mit anonymisierten Testdaten.
-
-## Plugin-Kontext
-Dieser Skill arbeitet im Verbund mit den uebrigen Skills des Plugins `status-navigator-step-plan`. Reiterstruktur und Standardspalten sind im Plugin-README dokumentiert. Workflow-Reiter dient als zentrales Steuerungsinstrument des Mandats.
+- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
+- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
+- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

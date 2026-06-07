@@ -3,35 +3,31 @@ name: excel-reiter-fristen-optional
 description: "Fuegt optional einen Reiter Fristen hinzu: Kuendigungsfristen, Wandlungsfristen, Verjaehrungsfristen, Ablaufdaten und Hemmungstatbestaende. Beruht ausschliesslich auf Mandatsangaben und Vertragstext — keine eigene rechtliche Bewertung."
 ---
 
+> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
+> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
+
 # Optionaler Reiter Fristen
 
-> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung. Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
-
 ## Rolle und Fokus
-Optionaler Reiter Fristen
+Optionaler Reiter Fristen. Kuendigungsfristen, Wandlungsfristen, Verjaehrungsfristen, Ablaufdaten, Hemmungstatbestaende. Beruht auf Mandatsangaben und Vertragstext.
 
 ## Vorgehen
-Fristen aus den Vertraegen extrahieren und tabellarisch zusammenfuehren
 
-1. **Rolle und Ziel klaeren** — Wer fragt, welche Rolle, welches Ziel des Mandats?
-2. **Material sichten** — Welche Dokumente liegen vor, welche fehlen?
-3. **Strukturieren** — In die passende Reiterstruktur einsortieren.
-4. **Status notieren** — Verfuegbarkeit, Unterschriftsstatus, Zustellung, Diskrepanz.
-5. **Naechsten Schritt formulieren** — Wer beschafft was bis wann?
+1. **Pro Frist eine Zeile** — Bezeichnung, Vertragsklausel, Beginn, Lauf, Ende, Verlaengerung, Hemmungstatbestand.
+2. **Drei Frist-Klassen** — materiell (Wandlung, Optionsausuebung), prozessual (Klage, Widerspruch), berufsrechtlich/intern (Wiedervorlage).
+3. **Restzeit-Ampel** — gruen > 30 Tage, gelb 8-30, rot <= 7 (bedingte Formatierung).
+4. **Sofortmassnahmen-Spalte** — Was muss bei Erreichen der gelben/roten Stufe geschehen?
+5. **Querverweis Frist-Erfuellung** — Welches Dokument muss bis Frist erstellt/zugestellt sein? Verweis in Reiter 3/4.
 
 ## Anwendungsbeispiel
-Reiter Fristen zeigt 22 Fristen aus 8 Vertraegen mit naechstem Ablaufdatum.
+LausitzStorage Fristen-Reiter: Wandlungsfenster Wandeldarlehen NordCap laeuft 01.07.2026 ab (rot, da 24 Tage Restzeit zum Mandatsbeginn 02.06.2026 — Reparaturvereinbarung verlaengert auf 30.09.2026). LEAG-Heilungsfrist Beibringungspflicht laeuft 30.06.2026 ab (gelb). BImSchG-Klage gegen Vorbescheid haette 06.06.2026 Anfangsmoment — eilbeduerftig.
 
 ## Output-Module
-- Strukturierte Eintraege fuer die Excel-Arbeitsmappe (Reiter 1 bis 4 plus optionale Reiter).
-- Klartextliche Hinweise bei Diskrepanzen, fehlenden Unterschriften und unklaren Zustellungen.
-- Vorschlag fuer den naechsten Schritt im Workflow-Reiter.
+- Fristen-Reiter mit Restzeit-Ampel und Sofortmassnahmen-Spalte
+- Wiedervorlage-Eintraege fuer das Anwalts-DMS
+- Querverweis in Reiter 4 (Workflow): welche Schritte sind bis welcher Frist zu erledigen
 
 ## Grenzen
-- **Keine rechtliche Bewertung.** Wirksamkeitspruefung von Erklaerungen und Vertraegen bleibt anwaltliche Aufgabe.
-- **Keine Vollstaendigkeitsgarantie.** Die KI kann Dokumente oder Zusammenhaenge uebersehen. Jede Tabelle ist anhand der Originaldokumente zu verifizieren.
-- **Diskrepanz-Hinweise sind Hinweise, keine Befunde.** Sie muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt. Erstpruefung mit anonymisierten Testdaten.
-
-## Plugin-Kontext
-Dieser Skill arbeitet im Verbund mit den uebrigen Skills des Plugins `status-navigator-step-plan`. Reiterstruktur und Standardspalten sind im Plugin-README dokumentiert. Workflow-Reiter dient als zentrales Steuerungsinstrument des Mandats.
+- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
+- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
+- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

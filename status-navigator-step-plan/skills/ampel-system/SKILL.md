@@ -3,35 +3,30 @@ name: ampel-system
 description: "Setzt ein dreistufiges Ampelsystem in der Excel-Arbeitsmappe um: gruen fuer vollstaendig, gelb fuer pruefungsbeduerftig, rot fuer fehlt oder fehlerhaft. Wird per bedingter Formatierung auf allen Reitern angewandt."
 ---
 
+> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
+> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
+
 # Ampelsystem fuer Status
 
-> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung. Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
-
 ## Rolle und Fokus
-Farbschema umsetzen
+Dreistufige Ampel (gruen/gelb/rot) als bedingte Formatierung in der Excel-Arbeitsmappe und als Farbtag in Padlet-Karten. Verdichtet komplexe Statuslagen auf einen Blick.
 
 ## Vorgehen
-Bedingte Formatierung pro Status-Spalte vorbereiten
 
-1. **Rolle und Ziel klaeren** — Wer fragt, welche Rolle, welches Ziel des Mandats?
-2. **Material sichten** — Welche Dokumente liegen vor, welche fehlen?
-3. **Strukturieren** — In die passende Reiterstruktur einsortieren.
-4. **Status notieren** — Verfuegbarkeit, Unterschriftsstatus, Zustellung, Diskrepanz.
-5. **Naechsten Schritt formulieren** — Wer beschafft was bis wann?
+1. **Schwellenwerte definieren** — Was zaehlt als gruen, gelb, rot? Standard: gruen = vollstaendig und unterschrieben und zugestellt; gelb = vorhanden, aber Pruefbedarf; rot = fehlt, Frist ueberschritten oder Wirksamkeit unklar.
+2. **Bedingte Formatierung in Excel setzen** — Pro Reiter eine Regel auf die Status-Spalte; Hintergrundfarbe statt Schriftfarbe (lesbar im Druck und PDF-Export).
+3. **Fristen-Ampel separat** — Im optionalen Fristen-Reiter Restzeit-Ampel: gruen > 30 Tage, gelb 8-30, rot <= 7.
+4. **Mismatch zwischen Reiter 2 und 3 visualisieren** — Wenn Dokument in Reiter 2 als vorhanden markiert, aber Anlage in Reiter 3 fehlend: gelb in Reiter 2.
 
 ## Anwendungsbeispiel
-Mandantin sieht auf einen Blick: 32 gruen, 9 gelb, 7 rot.
+LausitzStorage-Akte Stand 02.06.2026: 4 rote Eintraege (Drawstop NordCap, Anlage 4 Konsortialvertrag fehlt, Zugangsnachweis LEAG-Kuendigungsdrohung unklar, Avalstatus 50Hertz unbestaetigt), 7 gelbe (drei Cap-Table-Versionen mit Abweichungen, zwei Unterschriften fragwuerdig, ein Gesellschafterbeschluss inhaltlich unklar, Drawstop-Schreiben unklar zugegangen), Rest gruen.
 
 ## Output-Module
-- Strukturierte Eintraege fuer die Excel-Arbeitsmappe (Reiter 1 bis 4 plus optionale Reiter).
-- Klartextliche Hinweise bei Diskrepanzen, fehlenden Unterschriften und unklaren Zustellungen.
-- Vorschlag fuer den naechsten Schritt im Workflow-Reiter.
+- Bedingte-Formatierung-Regeln je Reiter (Hintergrundfarbe auf Status-Spalte)
+- Restzeit-Ampel im Fristen-Reiter mit Schwellen 30/8 Tage
+- Ampel-Konsistenz-Pruefung zwischen Reiter 2 und 3
 
 ## Grenzen
-- **Keine rechtliche Bewertung.** Wirksamkeitspruefung von Erklaerungen und Vertraegen bleibt anwaltliche Aufgabe.
-- **Keine Vollstaendigkeitsgarantie.** Die KI kann Dokumente oder Zusammenhaenge uebersehen. Jede Tabelle ist anhand der Originaldokumente zu verifizieren.
-- **Diskrepanz-Hinweise sind Hinweise, keine Befunde.** Sie muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt. Erstpruefung mit anonymisierten Testdaten.
-
-## Plugin-Kontext
-Dieser Skill arbeitet im Verbund mit den uebrigen Skills des Plugins `status-navigator-step-plan`. Reiterstruktur und Standardspalten sind im Plugin-README dokumentiert. Workflow-Reiter dient als zentrales Steuerungsinstrument des Mandats.
+- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
+- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
+- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

@@ -3,35 +3,31 @@ name: luecken-notifizieren
 description: "Notifiziert direkt in den Tabellen, wo Fehler, Luecken oder Unklarheiten bestehen. Standard-Notes umfassen Gesellschafterbeschluss fehlt, Zustellung unklar, Betrag weicht ab, Unterschrift Geschaeftsfuehrer fehlt."
 ---
 
+> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
+> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
+
 # Luecken in Tabellen notifizieren
 
-> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung. Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
-
 ## Rolle und Fokus
-Standardhinweise in Status-Spalten setzen
+Notifiziert direkt in den Tabellen, wo Fehler, Luecken oder Unklarheiten bestehen. Standard-Notes umfassen die haeufigsten Befunde aus Restrukturierungs- und Vollstreckungsmandaten.
 
 ## Vorgehen
-Wiederkehrende Luecken mit standardisierten Hinweisen markieren
 
-1. **Rolle und Ziel klaeren** — Wer fragt, welche Rolle, welches Ziel des Mandats?
-2. **Material sichten** — Welche Dokumente liegen vor, welche fehlen?
-3. **Strukturieren** — In die passende Reiterstruktur einsortieren.
-4. **Status notieren** — Verfuegbarkeit, Unterschriftsstatus, Zustellung, Diskrepanz.
-5. **Naechsten Schritt formulieren** — Wer beschafft was bis wann?
+1. **Standard-Notes-Vokabular festlegen** — `Gesellschafterbeschluss fehlt`, `Zustellung unklar`, `Betrag weicht ab`, `Unterschrift GF fehlt`, `Anlage fehlt`, `Form fragwuerdig`.
+2. **In Reiter 2 und 3 anwenden** — Pro Auffaelligkeit eine Note in der Anmerkungsspalte.
+3. **Note + Konsequenz koppeln** — Jede Note verweist auf einen Schritt in Reiter 4 (Workflow) — keine schwebenden Hinweise.
+4. **Note-Klassifizierung** — Befundnote (was ist), Klaerungsnote (was zu klaeren), Sofortnote (was zu tun).
+5. **Notes-Konsistenz pruefen** — Eine Note darf nicht in mehreren Reitern unterschiedlich lauten.
 
 ## Anwendungsbeispiel
-Reiter Statuslage zeigt 8 Eintraege mit Hinweis Gesellschafterbeschluss fehlt.
+LausitzStorage: 23 Notes ueber alle Reiter. Wiederholte Notes: `Zustellung unklar` (Drawstop-Schreiben, LEAG-Kuendigungsdrohung), `Anlage fehlt` (Anlage 4 Konsortialvertrag, BImSchG-Auflagenliste), `Beschluss-Form fragwuerdig` (Gesellschafterbeschluss 17.10.2025 ohne notarielles Protokoll), `Unterschrift Vertretung unklar` (zwei Pachtvertragsnachtraege).
 
 ## Output-Module
-- Strukturierte Eintraege fuer die Excel-Arbeitsmappe (Reiter 1 bis 4 plus optionale Reiter).
-- Klartextliche Hinweise bei Diskrepanzen, fehlenden Unterschriften und unklaren Zustellungen.
-- Vorschlag fuer den naechsten Schritt im Workflow-Reiter.
+- Standard-Notes-Vokabular als Vorblatt
+- Anmerkungsspalten in Reiter 2 und 3 konsistent befuellt
+- Bruecke zu Reiter 4 (jede Note erzeugt einen Workflow-Schritt)
 
 ## Grenzen
-- **Keine rechtliche Bewertung.** Wirksamkeitspruefung von Erklaerungen und Vertraegen bleibt anwaltliche Aufgabe.
-- **Keine Vollstaendigkeitsgarantie.** Die KI kann Dokumente oder Zusammenhaenge uebersehen. Jede Tabelle ist anhand der Originaldokumente zu verifizieren.
-- **Diskrepanz-Hinweise sind Hinweise, keine Befunde.** Sie muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt. Erstpruefung mit anonymisierten Testdaten.
-
-## Plugin-Kontext
-Dieser Skill arbeitet im Verbund mit den uebrigen Skills des Plugins `status-navigator-step-plan`. Reiterstruktur und Standardspalten sind im Plugin-README dokumentiert. Workflow-Reiter dient als zentrales Steuerungsinstrument des Mandats.
+- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
+- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
+- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.

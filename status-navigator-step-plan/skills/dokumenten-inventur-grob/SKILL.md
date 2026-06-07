@@ -3,35 +3,31 @@ name: dokumenten-inventur-grob
 description: "Erzeugt eine erste grobe Liste aller vorhandenen Dateien mit Dateiname, Dateityp, Dateigroesse und sichtbarem Datum. Noch keine inhaltliche Pruefung — reine Bestandsaufnahme als Ausgangspunkt fuer die feinere Einordnung."
 ---
 
+> **Hinweis:** Plugin `status-navigator-step-plan`, Dokumentenverarbeitung
+> ohne Normen-Anker. Rechtliche Pruefung bleibt anwaltliche Aufgabe.
+
 # Dokumenten-Inventur grob
 
-> **Hinweis Dokumentenverarbeitung:** Dieser Skill ist Teil des Plugins `status-navigator-step-plan` und arbeitet bewusst ohne Normen- und Rechtsprechungs-Anker. Es handelt sich um reine Dokumentenverarbeitung und Workflow-Strukturierung. Die rechtliche Pruefung des Materials bleibt anwaltliche Aufgabe und wird ausdruecklich von diesem Skill nicht vorgenommen.
-
 ## Rolle und Fokus
-Erste Vollerfassung der Dateinamen
+Erste Sichtung: Dateiname, Dateityp, Dateigroesse, sichtbares Datum. Noch keine inhaltliche Pruefung — Bestandsaufnahme als Ausgangspunkt fuer die feinere Einordnung.
 
 ## Vorgehen
-Verzeichnis durchgehen, Dateiliste erzeugen, erste Dubletten erkennen
 
-1. **Rolle und Ziel klaeren** — Wer fragt, welche Rolle, welches Ziel des Mandats?
-2. **Material sichten** — Welche Dokumente liegen vor, welche fehlen?
-3. **Strukturieren** — In die passende Reiterstruktur einsortieren.
-4. **Status notieren** — Verfuegbarkeit, Unterschriftsstatus, Zustellung, Diskrepanz.
-5. **Naechsten Schritt formulieren** — Wer beschafft was bis wann?
+1. **Dateilisting erzeugen** — Pfad, Dateiname, Endung, Groesse, mtime, sichtbares Datum aus Dateinamen-Konvention.
+2. **Duplikatscheck** — Identische Hashes oder identische Bezeichnungen mit unterschiedlichen Inhalten markieren.
+3. **Grobklasse zuordnen** — Vertrag, Beschluss, Erklaerung, Korrespondenz, Cap Table, Bescheid, sonstige.
+4. **Lesbarkeitspruefung** — Scan-Qualitaet, OCR-Status, fehlende Seiten, leere Anlagen-Verweise.
+5. **In Reiter 1 (Ueberblick) eintragen** — Verfuegbarkeit zunaechst pauschal `vorliegend`.
 
 ## Anwendungsbeispiel
-Ordner mit 120 Dateien wird systematisch erfasst, doppelte Versionen werden markiert.
+LausitzStorage-Mandat: 80 PDFs aus drei Quellen (Datenraum NordCap, Mandantenpostfach, eigene Akte). Grobinventur findet 6 Duplikate (unterschiedliche Versionen des Pachtvertrags), 3 Dateien ohne lesbare Unterschriftsseite, 1 leere Anlage 4 zum Konsortialvertrag.
 
 ## Output-Module
-- Strukturierte Eintraege fuer die Excel-Arbeitsmappe (Reiter 1 bis 4 plus optionale Reiter).
-- Klartextliche Hinweise bei Diskrepanzen, fehlenden Unterschriften und unklaren Zustellungen.
-- Vorschlag fuer den naechsten Schritt im Workflow-Reiter.
+- Roh-Inventur als CSV/Excel-Importzeile fuer Reiter 1
+- Duplikatsliste mit Empfehlung welche Version fuehrend ist
+- Lesbarkeits-Mangelliste (Nachforderung im Datenraum)
 
 ## Grenzen
-- **Keine rechtliche Bewertung.** Wirksamkeitspruefung von Erklaerungen und Vertraegen bleibt anwaltliche Aufgabe.
-- **Keine Vollstaendigkeitsgarantie.** Die KI kann Dokumente oder Zusammenhaenge uebersehen. Jede Tabelle ist anhand der Originaldokumente zu verifizieren.
-- **Diskrepanz-Hinweise sind Hinweise, keine Befunde.** Sie muessen anwaltlich verifiziert werden.
-- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt. Erstpruefung mit anonymisierten Testdaten.
-
-## Plugin-Kontext
-Dieser Skill arbeitet im Verbund mit den uebrigen Skills des Plugins `status-navigator-step-plan`. Reiterstruktur und Standardspalten sind im Plugin-README dokumentiert. Workflow-Reiter dient als zentrales Steuerungsinstrument des Mandats.
+- **Keine rechtliche Wirksamkeitspruefung.** Subsumtion bleibt anwaltliche Aufgabe.
+- **Hinweise, keine Befunde.** Markierungen muessen anwaltlich verifiziert werden.
+- **Datenschutz und Berufsrecht.** Nutzung nur mit System, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.
