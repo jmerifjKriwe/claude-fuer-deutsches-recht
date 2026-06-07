@@ -72,6 +72,8 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 /plugin install <plugin-name>@klotzkette-german-legal-skills
 ```
 
+> ⏱️ **Geduld beim ersten `marketplace add`.** Claude Code klont beim Hinzufügen das **komplette Repository** in den lokalen Plugin-Cache — inklusive der 203 Testakten mit über 600 PDFs (rund 150 MB) und der Git-History. Das sind insgesamt etwa **600 MB**, die einmalig über die GitHub-Leitung gezogen werden. Auf normaler DSL dauert das nach unserer Einschätzung **circa 2 bis 3 Minuten**, je nach Verbindung und GitHub-Edge auch mal etwas länger. Das ist kein Fehler — bitte einfach durchlaufen lassen, bis Claude die Marketplace-Übersicht öffnet. Folge-Updates (`/plugin marketplace update`) sind danach deutlich schneller, weil nur noch der Delta-Pull über die Leitung geht. Wer nur einzelne Plugins ohne Testakten will, kann alternativ einzelne Plugin-ZIPs aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden — siehe nächster Absatz.
+
 Alternativ: über die Claude-Desktop-/Cowork-GUI unter **Customize → Skills / Plugins** → ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart), [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung) und besonders für Mac-Probleme in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
 
 ## 🚨 KEINE Aussage über Berufsrecht, Datenschutz, KI-VO oder Beschlagnahmeverbote
