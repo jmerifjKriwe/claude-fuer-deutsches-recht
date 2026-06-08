@@ -1,11 +1,23 @@
 ---
 name: erstpruefung-rollen-mandatsziel
-description: "Klaert vor inhaltlicher Bearbeitung wer Mandant ist welche Rolle die Beteiligten haben und was das konkrete Mandatsziel ist. Trennt Mandantenwunsch von rechtlich Erreichbarem. Pinpoints BORA 43a BRAO Interessenkollision RVG 3a RVG 4 Honorarvereinbarung. Liefert Checkliste für Aktenkopf Vollmacht Honorarbasis und Zielkonflikte."
+description: "Rollen- und Mandatszielpruefung nach Aktenlekture: leitet Mandant, Gegner, Vertreter, Ziel und Honorarbasis zuerst aus Vollmacht, Anschreiben, Rechnung, Mahnung und Verfahrensstand ab und fragt nur bei Widerspruch oder Risiko nach."
 ---
 
 # Erstpruefung Rollen und Mandatsziel
 
-Vor jeder Recherche oder Klagevorbereitung muss klar sein wer wen mit welchem Ziel beauftragt.
+Vor jeder Recherche oder Klagevorbereitung muss klar sein, wer wen mit welchem Ziel beauftragt. Die Klaerung erfolgt aber nicht durch ein starres Interview. Wenn die Akte schon Unterlagen enthaelt, wird die Rolle zuerst aus den Unterlagen rekonstruiert.
+
+## Aktenbasierte Rollenrekonstruktion
+
+| Aktenfund | Vermutung | Rueckfrage nur wenn |
+|---|---|---|
+| Vollmacht, Auftragsbestaetigung, Mandatsmail | Mandant und Auftraggeber | mehrere Auftraggeber oder unklare Konzernrolle |
+| Rechnung / Mahnung aus derselben Firma | Glaeubigerseite | Abtretung, Factoring oder Inkasso zwischengeschaltet |
+| Widerspruch gegen Mahnbescheid / Klageerwiderung | Schuldnerseite oder Abwehrmandat | Nutzer will trotzdem eintreiben |
+| Kontoauszug mit Zahlung | moegliche Erfuellung oder Teilzahlung | Zahlung nicht zuordenbar |
+| HR-Auszug / Registerfund | richtige juristische Person | Firmenname, Rechtsform oder Sitz abweichen |
+
+Erst danach werden Luecken erfragt. Keine Einstiegsfrage nach "Wer sind Sie?", wenn die Vollmacht die Antwort bereits gibt.
 
 ## Rollen und ihre Pflichten
 

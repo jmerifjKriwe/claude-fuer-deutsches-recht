@@ -1,31 +1,50 @@
 ---
 name: kaltstart-triage
-description: "Erste Triage einer neuen Forderungsangelegenheit. Erhebt Rolle Mandantenziel Forderungsgrund Beklagter Belegstand Mahnvorlauf Verjährungslage und Fristen. Ordnet die Sache einer von drei Spuren zu aussergerichtliche Mahnung gerichtliches Mahnverfahren oder Zahlungsklage. Pinpoints ZPO 253 BGB 286 BGB 195 GVG 23 GVG 71. Liefert Arbeitsplan mit konkreten naechsten Skills aus diesem Plugin und Risikoampel."
+description: "Dokumentengetriebene Ersttriage einer Forderungsakte: wertet zuerst Ordner, ZIP, Rechnungen, Mahnungen, Kontoauszuege, Mahnbescheid, Widerspruch oder Klageentwurf aus, bildet eine Aktenhypothese und fragt danach nur echte Luecken ab. Pinpoints ZPO 253/688 ff.; BGB 271/286/288/362/195/199; GVG 23/71."
 ---
 
 # Kaltstart-Triage Forderungssache
 
-Eingangsroutine für jede neue Forderungsakte. Ziel ist die Zuordnung zu einer von drei Spuren in maximal sieben Pflichtfragen.
+Eingangsroutine fuer jede neue Forderungsakte. Ziel ist nicht ein Formularinterview, sondern eine belastbare Aktenhypothese mit moeglichst wenigen Rueckfragen.
 
-## Sieben Pflichtfragen
+## Grundsatz: Akte zuerst, Fragen danach
 
-| Nr | Frage | Warum sie zaehlt |
+Wenn ein Ordner, eine ZIP-Datei oder mehrere Dokumente vorhanden sind, wird zuerst `aktenordner-schnellstart` ausgefuehrt. Aus Dateinamen, Briefkoepfen, Vollmacht, Rechnung, Mahnung, Kontoauszug, Mahnbescheid, Widerspruch, Klageentwurf und gerichtlichen Schreiben werden Mandant, Gegner, Forderungsart, Betrag, Zahlungslage, Mahnstand und Fristen rekonstruiert.
+
+Der erste Output lautet nicht "Bitte beantworten Sie sieben Fragen", sondern:
+
+```text
+Ich sehe in der Akte vorlaeufig Folgendes:
+- mutmasslicher Mandant:
+- mutmasslicher Schuldner:
+- Forderung / Restforderung:
+- Stand Mahnung, Mahnbescheid, Klage oder Vollstreckung:
+- auffaellige Risiken:
+Ich frage jetzt nur noch die Punkte ab, die aus den Unterlagen nicht sicher folgen.
+```
+
+## Nur noch echte Luecken fragen
+
+| Luecke | Frage | Nur stellen, wenn |
 |---|---|---|
-| 1 | Wer ist Mandant Glaeubiger Schuldner Dritter | bestimmt Mandatsrichtung und Honorarbasis |
-| 2 | Forderungsart Werklohn Kaufpreis Miete Honorar Darlehen Schadensersatz | bestimmt Spezialskill und Beweislast |
-| 3 | Schuldner natuerliche Person Verbraucher Unternehmer GmbH Verein Behörde | bestimmt Zuständigkeit Brief und Klagemuster |
-| 4 | Hauptforderung in Euro mit Faelligkeitsdatum | bestimmt sachliche Zuständigkeit GVG 23 oder GVG 71 |
-| 5 | Mahnvorlauf vorhanden Datum erste Mahnung Verzugsbegruendung | bestimmt Zinsbeginn nach BGB 286 |
-| 6 | Verjährungsstand Forderung aus welchem Jahr | bestimmt Eilbeduerftigkeit nach BGB 195 199 |
-| 7 | Vollstreckungsfaehiger Titel vorhanden oder gewuenschtes Endprodukt | bestimmt Ausgang Mahnung Mahnbescheid Klage |
+| Rolle unklar | "Ich vermute, du bist auf Seite [Glaeubiger/Schuldner]. Stimmt das?" | Vollmacht, Briefkopf oder Anschreiben widerspruechlich |
+| Ziel unklar | "Soll ich eintreiben, abwehren, vergleichen oder nur sortieren?" | kein Mandatsziel aus Mail/Anschreiben erkennbar |
+| Frist unklar | "Gibt es eine Frist ausserhalb der Akte?" | gerichtliche Frist oder Verjaehrungsdruck nicht sicher |
+| Zahlung unklar | "Ist nach dem letzten Kontoauszug noch etwas bezahlt worden?" | Kontoauszug endet vor aktueller Aktenlage |
+| Gegner unklar | "Ist diese Anschrift noch aktuell?" | Zustellung, Umzug, HR-Auszug oder Insolvenzfund unsicher |
+
+Mehr als drei Startfragen sind nur erlaubt, wenn Fristversaeumnis oder falsche Partei droht.
 
 ## Routing in drei Spuren
 
 | Befund | Spur | Folgeskill |
 |---|---|---|
-| Forderung unstreitig faellig Schuldner bekannt zustellfaehig kein Titel | Mahnbescheid | mahnbescheid-online |
-| Forderung mit Bestreiten zu rechnen oder Urkundenlage gut | Zahlungsklage | zahlungsklage-erstellen |
-| Forderung wackelig Belege unklar Verjährung naht Verbraucher zoegerlich | aussergerichtliche Mahnung mit Vergleichsangebot | mahnung-aussergerichtlich-stufenmodell |
+| Akte ungeordnet oder Dokumentenlage unklar | Akteninventar | aktenordner-schnellstart oder dokumente-intake |
+| Forderung schluessig, faellig, Schuldner bekannt, kein ernstliches Bestreiten | Mahnbescheid | mahnbescheid-online |
+| Bestreiten wahrscheinlich oder Anspruch muss begruendet werden | Zahlungsklage | zahlungsklage-erstellen |
+| Hauptforderung bezahlt, nur Kosten/Zinsen offen | Klageblocker | klagefreigabe-belegte-forderung |
+| Forderung wackelig, Belege unklar, Vergleich wirtschaftlich sinnvoll | aussergerichtliche Mahnung oder Vergleich | mahnung-aussergerichtlich-stufenmodell |
+| Titel liegt bereits vor | Vollstreckung | zwangsvollstreckung-ueberblick |
 
 ## Risikoampel Erstbewertung
 
@@ -37,12 +56,30 @@ Eingangsroutine für jede neue Forderungsakte. Ziel ist die Zuordnung zu einer v
 
 Rote Ampel triggert sofort Skill verjaehrung-pruefen und gegebenenfalls Mahnbescheid noch am gleichen Werktag.
 
+## Startprodukt
+
+Die Triage endet immer mit einem knappen Arbeitsplan:
+
+| Punkt | Inhalt |
+|---|---|
+| Aktenbefund | Was liegt vor, was fehlt |
+| Parteienhypothese | Mandant, Gegner, Vertreter, Anschriften, Beleg |
+| Forderungsmatrix | Hauptforderung, Nebenforderung, Zinsen, Zahlungen, Rest |
+| Chronologie | Vertrag, Leistung, Rechnung, Mahnung, Zahlung, Verfahren |
+| Fristenampel | Verjaehrung, Widerspruch, Einspruch, gerichtliche Verfuegung |
+| Naechster Skill | genau ein Hauptskill und maximal zwei Alternativen |
+
 ## Norm-Pinpoints
 
 - ZPO 253 Abs. 2 Klage Pflichtbestandteile
 - ZPO 688 ff. Mahnverfahren
+- ZPO 690 Mahnbescheidsantrag
+- ZPO 696 Abgabe nach Widerspruch
+- ZPO 699 700 Vollstreckungsbescheid
+- BGB 271 Faelligkeit
 - BGB 286 Verzug
 - BGB 288 Verzugszinsen
+- BGB 362 Erfuellung
 - BGB 195 199 Verjährung
 - GVG 23 Nr. 1 ab 2026 Streitwertgrenze AG zehntausend Euro
 

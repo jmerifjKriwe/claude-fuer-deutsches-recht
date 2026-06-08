@@ -11,6 +11,7 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 
 | Zustand der Akte | Empfohlener Folgeskill | Alternative |
 |---|---|---|
+| Akte neu oder Ordner/ZIP hochgeladen | aktenordner-schnellstart | dokumente-intake bei Belegchaos |
 | Akte neu Schuldner privater Verbraucher Forderung dokumentiert | mahnung-aussergerichtlich-stufenmodell | mahnbescheid-online wenn Verjährung droht |
 | Mahnung verstrichen Schuldner schweigt | mahnbescheid-online | zahlungsklage-erstellen wenn Streit erwartbar |
 | Mahnbescheid eingelegt Widerspruch | zahlungsklage-erstellen | inkasso-risikoampel zur Aussichtspruefung |
@@ -70,4 +71,3 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 - EuGH C-377/17
 - BGH VIII ZR 261/06
 - BGH XI ZR 564/15
-

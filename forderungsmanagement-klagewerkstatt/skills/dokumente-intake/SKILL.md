@@ -1,11 +1,22 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Forderungsmanagement Klagewerkstatt: sortiert Mahnung, Mahnbescheid, Vollstreckungsbescheid, prüft Datum, Absender, Frist und Beweiswert (Vertrag, Rechnung); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Dokumentenintake fuer Forderungsakten: liest eine vorhandene Ordner- oder ZIP-Struktur zuerst aus, sortiert Vertrag, Leistung, Rechnung, Mahnung, Zahlung, Mahnbescheid, Widerspruch, Titel und Vollstreckungsunterlagen und erzeugt daraus Akteninventar, Belegmatrix und Lueckenliste."
 ---
 
 # Dokumente Intake
 
-Eingang einer Forderungssache ohne saubere Aktenstruktur fuehrt zwei Wochen spaeter zum Belegchaos. Dieser Skill normiert die Aufnahme.
+Eingang einer Forderungssache ohne saubere Aktenstruktur fuehrt zwei Wochen spaeter zum Belegchaos. Dieser Skill normiert die Aufnahme, aber ohne den Nutzer mit Fragen zu erschlagen: erst Dokumente auswerten, dann Luecken fragen.
+
+## Ordner zuerst auslesen
+
+Wenn ein Ordner, ZIP oder Dokumentenstapel vorhanden ist:
+
+1. Dateiliste mit Namen, Format, erkennbarem Datum und vermuteter Funktion erstellen.
+2. Briefkoepfe, Signaturen, Vollmacht, Rechnungssteller, Rechnungsempfaenger und Aktenzeichen abgleichen.
+3. Rechnungs- und Zahlungsdaten aus Kontoauszuegen, Avisen und Gutschriften gegenueberstellen.
+4. Mahnungen, Fristsetzungen und Zugangsbelege in eine Chronologie bringen.
+5. Gerichtliche Dokumente gesondert markieren: Mahnbescheid, Widerspruch, Vollstreckungsbescheid, Klage, Verfuegung.
+6. Nur danach gezielt Luecken abfragen.
 
 ## Intake-Checkliste
 
@@ -19,6 +30,27 @@ Eingang einer Forderungssache ohne saubere Aktenstruktur fuehrt zwei Wochen spae
 | Zahlungsbelege | Kontoauszug Verrechnungen Teilzahlungen | ja sofern vorhanden |
 | Drittunterlagen | Handelsregister Auskunft Schufa SCHUFA-Auskunft | wenn vorhanden |
 | Verfahrensunterlagen | bisheriger Schriftverkehr Gegenseitige Anwaltsbriefe | ja sofern vorhanden |
+
+## Erste Ausgabe
+
+```text
+Akteninventar:
+- sichere Dokumente:
+- unsichere Dokumente:
+- doppelte oder widerspruechliche Dokumente:
+- fehlende Dokumente:
+
+Parteienhypothese:
+- mutmasslicher Glaeubiger:
+- mutmasslicher Schuldner:
+- Vertreter:
+- Zustellanschrift:
+
+Naechste Rueckfragen:
+1. [...]
+2. [...]
+3. [...]
+```
 
 ## Aktenstruktur
 

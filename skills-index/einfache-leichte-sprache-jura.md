@@ -1,6 +1,6 @@
 # einfache-leichte-sprache-jura
 
-**83 Skills** · Stand `v241.0.0`
+**83 Skills** · Stand `v242.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/einfache-leichte-sprache-jura/README.md)

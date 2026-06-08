@@ -7,11 +7,15 @@ description: "Steuert den Gesamtablauf einer Forderungsakte vom Eingang bis zur 
 
 Eine Forderungsakte durchlaeuft typischerweise sechs Stufen. Dieser Skill haelt die Stufen aus und definiert Eingangs- und Ausgangskriterien.
 
+## Startmodus
+
+Der Workflow startet bei vorhandenen Unterlagen immer mit `aktenordner-schnellstart`. Erst wenn keine Akte vorliegt, wird frei gefragt. Damit wird aus einem Ordner voller Rechnungen, Mahnungen, Kontoauszuege und Mahnbescheide sofort ein Arbeitsbrett statt ein Fragebogen.
+
 ## Stufen-Modell
 
 | Stufe | Eingangskriterium | Hauptarbeit | Ausgangsdokument | Wiedervorlage |
 |---|---|---|---|---|
-| 1 Eingang | neue Akte | kaltstart-triage forderungsaufnahme | Aktenanlage Vollmacht | 7 Tage |
+| 1 Eingang | neue Akte oder Ordner | aktenordner-schnellstart kaltstart-triage forderungsaufnahme | Akteninventar Parteienhypothese Forderungsmatrix | 7 Tage |
 | 2 Pruefung | Akte angelegt | verjaehrung-pruefen klagefreigabe-belegte-forderung | Memo Klagefreigabe | 3 Tage |
 | 3 Mahnung | gruenes Licht und Verzug fehlt | mahnung-aussergerichtlich-stufenmodell | Mahnschreiben | 14 Tage Zahlungsfrist |
 | 4 Mahnbescheid oder Klage | Verzug eingetreten oder Mahnung erfolglos | mahnbescheid-online oder zahlungsklage-erstellen | MB-Antrag oder Klageschrift | 4 bis 8 Wochen |
