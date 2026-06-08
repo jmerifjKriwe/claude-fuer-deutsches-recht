@@ -62,7 +62,7 @@ Physische Messungen (Messung durch Technischen Sachverständigen Dipl.-Ing. Rain
 
 ### 2.2 jpg/-Verzeichnis
 
-Die drei zentralen Vergleichsbilder für das Plugin-Testing:
+Die drei zentralen Vergleichsbilder für den gerichtlichen Bildvergleich:
 - `jpg/original_rosenbluete_leichtenstein.jpg` — Frontansicht Original
 - `jpg/flowerworld_aluminium_variante.jpg` — Frontansicht Verletzungsobjekt
 - `jpg/designzeichnung_geschmacksmuster.jpg` — Technische Zeichnung aus den Eintragungsunterlagen CD 008 412 661

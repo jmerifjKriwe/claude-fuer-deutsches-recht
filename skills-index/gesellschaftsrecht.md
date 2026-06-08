@@ -1,6 +1,6 @@
 # gesellschaftsrecht
 
-**100 Skills** · Stand `v243.0.0`
+**100 Skills** · Stand `v250.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsrecht/README.md)

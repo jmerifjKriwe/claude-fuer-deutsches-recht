@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Baut für jede Testakte ein 'gesamt-pdf/<name>_gesamt.pdf', das alle
-Aktenstücke (MD/TXT/EML/CSV/XLSX/DOCX/Bilder/PDF) in ein einziges,
-sauber gerendertes Dokument mit kompaktem Aktenstart, Inhaltsverzeichnis und
-Seitenzahlen zusammenfasst.
+"""Baut für jede Testakte ein 'gesamt-pdf/<name>_gesamt.pdf', das die
+exportfaehigen Aktenstücke (MD/TXT/EML/CSV/XLSX/DOCX/Bilder/PDF) in ein
+einziges, sauber gerendertes Dokument mit Dateigrenzen und Seitenzahlen
+zusammenfasst.
 
 Aufruf:
   python3 scripts/build-testakte-gesamt-pdf.py                 # alle Testakten
@@ -40,6 +40,8 @@ from reportlab.lib.enums import TA_LEFT
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
+
+from testakte_file_filter import include_in_working_dump
 
 # DOCX
 try:
@@ -519,15 +521,11 @@ def no_header_footer(canv: canvas.Canvas, doc) -> None:
     return None
 
 
-def build_cover(name: str, _readme_summary: str | None, h1: str | None = None) -> list:
-    title = h1 if h1 else name
-    # Das Gesamt-PDF soll wie eine Akte aufgehen, nicht wie eine README oder
-    # Download-Seite. Download-, Release- und Testaktenhinweise bleiben in der
-    # README; im PDF steht am Anfang nur der Aktenname.
-    return [
-        Paragraph(escape(title), s_cover_title),
-        Spacer(1, 0.35 * cm),
-    ]
+def build_cover(_name: str, _readme_summary: str | None, h1: str | None = None) -> list:
+    # Historisch gab es hier ein Titelblatt. Das Gesamt-PDF soll jetzt direkt
+    # mit dem ersten Aktenstück beginnen; die Funktion bleibt als Kompatibilitaet
+    # fuer aeltere Aufrufe erhalten.
+    return []
 
 
 def extract_readme_summary(readme_path: Path) -> tuple[str | None, str | None]:
@@ -582,12 +580,7 @@ def extract_readme_summary(readme_path: Path) -> tuple[str | None, str | None]:
 def collect_files(testakte_dir: Path) -> dict[str, list[Path]]:
     files_by_type: dict[str, list[Path]] = {t: [] for t in TYPE_ORDER}
     for f in testakte_dir.rglob("*"):
-        if not f.is_file():
-            continue
-        # README und Gesamt-PDF ausschliessen
-        if f.name == "README.md" and f.parent == testakte_dir:
-            continue
-        if "gesamt-pdf" in f.parts:
+        if not include_in_working_dump(f, testakte_dir):
             continue
         ext = f.suffix.lower().lstrip(".")
         if ext in IMAGE_EXTS:
@@ -613,33 +606,14 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
     )
     flow = list(cover)
 
-    # Inhaltsverzeichnis (rudimentaer)
-    toc_rows: list[list] = [["Teil", "Inhalt"]]
-    teil_no = 1
-    for t in TYPE_ORDER:
-        if not files[t]:
-            continue
-        toc_rows.append([f"Teil {teil_no}", f"{TYPE_LABEL[t]} ({len(files[t])})"])
-        teil_no += 1
-    if len(toc_rows) > 1:
-        flow.append(Paragraph("Inhaltsverzeichnis", s_h1))
-        flow.append(Spacer(1, 8))
-        flow.extend(_render_table(toc_rows, header=True))
-        flow.append(PageBreak())
-
     pdf_attachments: list[Path] = []
-    teil_no = 1
     for t in TYPE_ORDER:
         if not files[t]:
             continue
         if t == "pdf":
             # PDFs werden separat angehaengt (Original-Layout bewahren)
             pdf_attachments = files[t]
-            teil_no += 1
             continue
-        flow.append(Paragraph(f"Teil {teil_no} — {TYPE_LABEL[t]}", s_partlabel))
-        flow.append(Paragraph(TYPE_LABEL[t], s_h1))
-        flow.append(Spacer(1, 4))
         for f in files[t]:
             rel = f.relative_to(testakte_dir)
             flow.append(Paragraph(f"<b>Datei:</b> {escape(str(rel))}", s_meta))
@@ -662,15 +636,11 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
             except Exception as e:
                 flow.append(Paragraph(f"<i>Inhalt konnte nicht gerendert werden: {escape(str(e))}</i>", s_meta))
             flow.append(Spacer(1, 14))
-        flow.append(PageBreak())
-        teil_no += 1
+        if flow:
+            flow.append(PageBreak())
 
-    if len(flow) == len(cover) + 1:
-        # Nichts ausser Cover -> trotzdem bauen, aber Hinweis
-        flow.append(Paragraph(
-            "Diese Arbeitsakte enthält keine renderbaren Inhalte ausserhalb der angefuegten PDFs.",
-            s_body,
-        ))
+    if not flow:
+        flow.append(Paragraph("Dateiablage: Original-PDFs folgen.", s_meta))
 
     hf = header_footer_factory(testakte_dir.name)
     try:
@@ -686,17 +656,17 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
     c = canvas.Canvas(sep, pagesize=A4)
     c.setTitle(label)
     c.setAuthor("Kanzleiakte")
-    c.setFont(FONT_BOLD, 16)
+    c.setFont(FONT_BOLD, 14)
     c.setFillColor(TEAL)
-    c.drawString(2 * cm, 25 * cm, label)
+    c.drawString(2 * cm, 25 * cm, "Datei")
     c.setFont(FONT_REG, 9)
     c.setFillColor(MUTED)
-    c.drawString(2 * cm, 24.2 * cm, f"Datei: {pdf_path.name}")
+    c.drawString(2 * cm, 24.2 * cm, label)
     c.setStrokeColor(BORDER)
     c.setLineWidth(0.3)
     c.line(2 * cm, 1.6 * cm, 19 * cm, 1.6 * cm)
     c.setFont(FONT_REG, 8)
-    c.drawString(2 * cm, 1.2 * cm, f"Arbeitsakte: {testakte_name}")
+    c.drawString(2 * cm, 1.2 * cm, testakte_name)
     c.showPage()
     c.save()
     sep.seek(0)
@@ -730,8 +700,7 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
     if total_files == 0:
         return "skip", "keine Quelldateien"
 
-    h1, summary = extract_readme_summary(testakte_dir / "README.md")
-    cover = build_cover(name, summary, h1)
+    cover: list = []
 
     tmp_text = Path(f"/tmp/_gesamt_text_{name}.pdf")
     ok, pdf_attachments = build_text_pdf(testakte_dir, files, cover, tmp_text)

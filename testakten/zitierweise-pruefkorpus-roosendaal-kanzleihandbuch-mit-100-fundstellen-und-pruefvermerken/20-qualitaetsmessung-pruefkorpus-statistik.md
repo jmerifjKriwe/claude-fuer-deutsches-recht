@@ -83,7 +83,7 @@
 1. **BeckRS-Sperre:** Lizenzstatus Beck-Online kanzleiweit dokumentieren und jährlich prüfen.
 2. **Palandt/Gruenenberg:** Schulungsschwerpunkt in Mitarbeiterschulung November 2025.
 3. **URL-Vollständigkeit:** Automatisierter URL-Check in Schriftsatz-Workflow integrieren.
-4. **Literatur-Sperren:** Plugin-Test mit Echtfall-Szenarien (Tannenmoor JZ 2024) verankern.
+4. **Literatur-Sperren:** Interne Qualitätskontrolle mit realitätsnahen Schriftsatz-Szenarien (Tannenmoor JZ 2024) verankern.
 5. **Migration:** Geschwindigkeit auf 20 Dokumente pro Monat erhöhen; Ziel 100 % bis Januar 2026.
 
 ---

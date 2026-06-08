@@ -1,3 +1,26 @@
+# v250.0.0 — Testakten als echte Akten-Dumps und Release-ZIPs ohne Meta-Vorspann
+
+## Schwerpunkt
+
+Die Testakten-Gesamt-PDFs beginnen jetzt direkt mit dem ersten exportierten Aktenstück. Deckblatt, README-Zusammenfassung und Inhaltsverzeichnis wurden aus dem Gesamt-PDF-Generator entfernt, damit die Akten wie echte Dokumentenstapel funktionieren und nicht bereits am Anfang den Fall erklären.
+
+## Änderungen
+
+- `scripts/build-testakte-gesamt-pdf.py` rendert Gesamt-PDFs ohne Cover und Inhaltsverzeichnis; Dateigrenzen bleiben erhalten.
+- Neuer gemeinsamer Testakten-Filter `scripts/testakte_file_filter.py`: README-, Download-, Vorführ- und initiale Meta-Übersichtsdateien werden aus Arbeitsmaterial-Exports herausgehalten.
+- Neuer Release-ZIP-Builder `scripts/build-testakten-release-zips.py`: Einzel-Testakten-ZIPs und `alle-testakten.zip` enthalten Aktenmaterial plus Gesamt-PDF, aber keine Repo-README- oder Demo-Hinweise.
+- Der GitHub-Release-Workflow nutzt den neuen Testakten-ZIP-Builder.
+- Alle 203 Gesamt-PDFs wurden mit der neuen Akten-Dump-Logik neu erzeugt.
+- Versionsstand in Plugin-Manifesten, Marketplace und zentralen Übersichten auf v250.0.0 gehoben.
+
+## Sanity
+
+- 203 Gesamt-PDFs erfolgreich neu gebaut.
+- Testakten-ZIP-Probelauf: 203 Einzel-ZIPs, keine README- oder `00_aktenuebersicht`-Einträge.
+- Skill-Boilerplate-Suche nach alten Bündel-/Sammelskill-Formeln ohne Treffer.
+
+---
+
 # v240.0.0 — Audit-Befunde aus 15-Bug-Sweep umgesetzt
 
 ## Schwerpunkt

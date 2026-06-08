@@ -9,7 +9,7 @@
 
 ## Vorbemerkung
 
-Diese Notiz ist **bewusst kritisch** angelegt und dient primär als Lernunterlage für das Plugin-Testsystem. Sie prüft hypothetisch, ob und unter welchen Bedingungen das Unternehmensstabilisierungs- und Restrukturierungsgesetz (StaRUG, in Kraft seit 01.01.2021) im Fall der Möbelwerk Havelberg GmbH hätte angewendet werden können – und warum es im konkreten Fall aus rechtlichen und tatsächlichen Gründen ausscheidet.
+Diese Notiz ist **bewusst kritisch** angelegt und dient primär als interne Vergleichsunterlage für die Schlussbesprechung. Sie prüft hypothetisch, ob und unter welchen Bedingungen das Unternehmensstabilisierungs- und Restrukturierungsgesetz (StaRUG, in Kraft seit 01.01.2021) im Fall der Möbelwerk Havelberg GmbH hätte angewendet werden können – und warum es im konkreten Fall aus rechtlichen und tatsächlichen Gründen ausscheidet.
 
 ---
 

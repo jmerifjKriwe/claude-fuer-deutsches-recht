@@ -63,15 +63,8 @@ jobs:
           # Beispielakten werden mit testakte-Prefix gepackt, damit sie sich im
           # Namespace klar von Plugin-ZIPs unterscheiden und niemals versehentlich
           # über 'Install from .zip' als Plugin geladen werden können.
-          if [ -d testakten ]; then
-            for d in testakten/*/; do
-              name=$(basename "$d")
-              zipname="testakte-${name}.zip"
-              echo "Baue ${zipname} aus $d"
-              (cd testakten && zip -rq "../dist/${zipname}" "$name" -x '*.DS_Store')
-              ls -la "dist/${zipname}"
-            done
-          fi
+          python3 scripts/build-testakten-release-zips.py dist
+          ls -la dist/testakte-*.zip | head
 
       - name: Sammel-ZIPs bauen
         run: |
@@ -85,10 +78,9 @@ jobs:
           (cd dist/mega-plugins && zip -rq "../alle-plugins-megazip.zip" . -x '*.DS_Store')
           rm -rf dist/mega-plugins
 
-          # alle-testakten.zip enthaelt die Aktenordner in Originalstruktur.
-          if [ -d testakten ]; then
-            (cd testakten && zip -rq "../dist/alle-testakten.zip" README.md */ -x '*.DS_Store')
-          fi
+          # alle-testakten.zip wurde im vorherigen Schritt mit demselben
+          # Arbeitsakten-Filter gebaut wie die Einzel-Testakten-ZIPs.
+          test -s dist/alle-testakten.zip
 
           # alles-komplettpaket.zip enthaelt die Einzel-ZIPs, Sammel-ZIPs,
           # Marketplace und zentrale Uebersichten. Ein Download fuer alles,
